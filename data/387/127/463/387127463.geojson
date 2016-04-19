@@ -1,0 +1,65 @@
+{
+  "id": 387127463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.094809,46.138948,-98.094809,46.138948",
+    "geom:latitude":46.138948,
+    "geom:longitude":-98.094809,
+    "iso:country":"US",
+    "sg:address":"415 Main Ave",
+    "sg:city":"Oakes",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 742 2143",
+    "sg:postcode":"58474",
+    "sg:province":"SD",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982255,
+        102082079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dGU6Wtm3CiS7qkQcWi5t5_46.138948_-98.094809@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d8ca7aa9ab36649dc9e524012bf112df",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082079,
+            "locality_id":85982255,
+            "neighbourhood_id":-1,
+            "region_id":85688525,
+            "venue_id":387127463
+        }
+    ],
+    "wof:id":387127463,
+    "wof:lastmodified":1449059603,
+    "wof:name":"Classic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [-98.094809,46.138948,-98.094809,46.138948],
+  "geometry": {"coordinates":[-98.094809,46.138948],"type":"Point"}
+}

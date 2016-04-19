@@ -1,0 +1,65 @@
+{
+  "id": 387682401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.094898,46.137742,-98.094898,46.137742",
+    "geom:latitude":46.137742,
+    "geom:longitude":-98.094898,
+    "iso:country":"US",
+    "sg:address":"406 Ivy Ave",
+    "sg:city":"Oakes",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 742 2161",
+    "sg:postcode":"58474",
+    "sg:province":"SD",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982255,
+        102082079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74YiINVBa4ipjrxkUMmkxS_46.137742_-98.094898@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"35c3a8243c21e6abfbf633f84e6993da",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082079,
+            "locality_id":85982255,
+            "neighbourhood_id":-1,
+            "region_id":85688525,
+            "venue_id":387682401
+        }
+    ],
+    "wof:id":387682401,
+    "wof:lastmodified":1449056765,
+    "wof:name":"Oakes Fire Station",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-98.094898,46.137742,-98.094898,46.137742],
+  "geometry": {"coordinates":[-98.094898,46.137742],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 387858917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.783485,46.106567,-97.783485,46.106567",
+    "geom:latitude":46.106567,
+    "geom:longitude":-97.783485,
+    "iso:country":"US",
+    "sg:address":"304 4th Ave",
+    "sg:city":"Cogswell",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 724 3791",
+    "sg:postcode":"58017",
+    "sg:province":"SD",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982635,
+        102082115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dPUEwcwX4q839Bg9ZpJ8q_46.106567_-97.783485@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"025b3853d59f71db39f3eda7ec96112e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082115,
+            "locality_id":85982635,
+            "neighbourhood_id":-1,
+            "region_id":85688525,
+            "venue_id":387858917
+        }
+    ],
+    "wof:id":387858917,
+    "wof:lastmodified":1449056486,
+    "wof:name":"Cogswell City Hall",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [-97.783485,46.106567,-97.783485,46.106567],
+  "geometry": {"coordinates":[-97.783485,46.106567],"type":"Point"}
+}

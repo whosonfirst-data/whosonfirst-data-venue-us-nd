@@ -1,0 +1,72 @@
+{
+  "id": 387034457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.778372,45.964509,-97.778372,45.964509",
+    "geom:latitude":45.964509,
+    "geom:longitude":-97.778372,
+    "iso:country":"US",
+    "sg:address":"12548 100th St SE",
+    "sg:city":"Cogswell",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 724 3881",
+    "sg:postcode":"58017",
+    "sg:province":"SD",
+    "sg:tags":[
+        "wheat",
+        "beef",
+        "corn",
+        "soybean",
+        "cattle",
+        "feedlot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DXiowuq3wRhiCp9Rk9xdq_45.964509_-97.778372@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8287f9bc68802453bf394292303e64f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688525,
+            "venue_id":387034457
+        }
+    ],
+    "wof:id":387034457,
+    "wof:lastmodified":1449056534,
+    "wof:name":"George Bishoff",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wheat",
+        "beef",
+        "corn",
+        "soybean",
+        "cattle",
+        "feedlot"
+    ]
+},
+  "bbox": [-97.778372,45.964509,-97.778372,45.964509],
+  "geometry": {"coordinates":[-97.778372,45.964509],"type":"Point"}
+}

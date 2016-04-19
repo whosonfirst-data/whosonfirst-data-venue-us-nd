@@ -1,0 +1,65 @@
+{
+  "id": 386930339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.083634,46.137674,-98.083634,46.137674",
+    "geom:latitude":46.137674,
+    "geom:longitude":-98.083634,
+    "iso:country":"US",
+    "sg:address":"22 12th St S",
+    "sg:city":"Oakes",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 742 2731",
+    "sg:postcode":"58474",
+    "sg:province":"SD",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982255,
+        102082079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SJ4Xs4XewhHaMYxoVC42Y_46.137674_-98.083634@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b50dd0859b5763ad161b81bfe9b1fe72",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082079,
+            "locality_id":85982255,
+            "neighbourhood_id":-1,
+            "region_id":85688525,
+            "venue_id":386930339
+        }
+    ],
+    "wof:id":386930339,
+    "wof:lastmodified":1449028716,
+    "wof:name":"Oakes Fire Chief",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-98.083634,46.137674,-98.083634,46.137674],
+  "geometry": {"coordinates":[-98.083634,46.137674],"type":"Point"}
+}

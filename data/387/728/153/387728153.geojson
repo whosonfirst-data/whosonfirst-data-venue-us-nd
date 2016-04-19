@@ -1,0 +1,71 @@
+{
+  "id": 387728153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.124951,46.008548,-98.124951,46.008548",
+    "geom:latitude":46.008548,
+    "geom:longitude":-98.124951,
+    "iso:country":"US",
+    "sg:address":"221 Center St",
+    "sg:city":"Ludden",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 783 4380",
+    "sg:postcode":"58474",
+    "sg:province":"SD",
+    "sg:tags":[
+        "machine",
+        "shop",
+        "industrial",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982267,
+        102082079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7h97ZnZPLK7doKpwIxC0T9_46.008548_-98.124951@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9d85d2fb0dddc35a12c010e1b4aa41c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082079,
+            "locality_id":85982267,
+            "neighbourhood_id":-1,
+            "region_id":85688525,
+            "venue_id":387728153
+        }
+    ],
+    "wof:id":387728153,
+    "wof:lastmodified":1449056994,
+    "wof:name":"Schwarting's Repair Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop",
+        "industrial",
+        "mfg"
+    ]
+},
+  "bbox": [-98.124951,46.008548,-98.124951,46.008548],
+  "geometry": {"coordinates":[-98.124951,46.008548],"type":"Point"}
+}

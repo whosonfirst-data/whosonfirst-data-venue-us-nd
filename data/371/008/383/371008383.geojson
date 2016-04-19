@@ -1,0 +1,69 @@
+{
+  "id": 371008383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.085317,46.134607,-98.085317,46.134607",
+    "geom:latitude":46.134607,
+    "geom:longitude":-98.085317,
+    "iso:country":"US",
+    "sg:address":"1002 Lilac Ave",
+    "sg:city":"Oakes",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 742 3295",
+    "sg:postcode":"58474",
+    "sg:province":"SD",
+    "sg:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982255,
+        102082079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AkGoEg7FtEsRbS1mWBZCR_46.134607_-98.085317@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"90fd041f8e3a0df4d56422b33dc7d2cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082079,
+            "locality_id":85982255,
+            "neighbourhood_id":-1,
+            "region_id":85688525,
+            "venue_id":371008383
+        }
+    ],
+    "wof:id":371008383,
+    "wof:lastmodified":1449049338,
+    "wof:name":"J Thomas Homan",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ]
+},
+  "bbox": [-98.085317,46.134607,-98.085317,46.134607],
+  "geometry": {"coordinates":[-98.085317,46.134607],"type":"Point"}
+}

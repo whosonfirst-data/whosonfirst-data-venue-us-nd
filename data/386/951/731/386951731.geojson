@@ -1,0 +1,65 @@
+{
+  "id": 386951731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.091948,46.1367,-98.091948,46.1367",
+    "geom:latitude":46.1367,
+    "geom:longitude":-98.091948,
+    "iso:country":"US",
+    "sg:address":"602 Juniper Ave",
+    "sg:city":"Oakes",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 742 2925",
+    "sg:postcode":"58474",
+    "sg:province":"SD",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982255,
+        102082079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vLLe76nwu4iZYYWnDFsRC_46.136700_-98.091948@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"29209c5ee77ee7cdede6efe21cc8bd5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082079,
+            "locality_id":85982255,
+            "neighbourhood_id":-1,
+            "region_id":85688525,
+            "venue_id":386951731
+        }
+    ],
+    "wof:id":386951731,
+    "wof:lastmodified":1449028634,
+    "wof:name":"United Methodist Church",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [-98.091948,46.1367,-98.091948,46.1367],
+  "geometry": {"coordinates":[-98.091948,46.1367],"type":"Point"}
+}

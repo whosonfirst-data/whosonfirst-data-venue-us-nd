@@ -1,0 +1,67 @@
+{
+  "id": 387189563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.09429,46.141923,-98.09429,46.141923",
+    "geom:latitude":46.141923,
+    "geom:longitude":-98.09429,
+    "iso:country":"US",
+    "sg:address":"415 Fir Ave",
+    "sg:city":"Oakes",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 742 2931",
+    "sg:postcode":"58474",
+    "sg:province":"SD",
+    "sg:tags":[
+        "mixed",
+        "concrete"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982255,
+        102082079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OU0KICuaO3wZMhhC5UdyD_46.141923_-98.094290@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c1e9c5f96a32d42b1d429b042202b724",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082079,
+            "locality_id":85982255,
+            "neighbourhood_id":-1,
+            "region_id":85688525,
+            "venue_id":387189563
+        }
+    ],
+    "wof:id":387189563,
+    "wof:lastmodified":1449058797,
+    "wof:name":"Concrete Dakota Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mixed",
+        "concrete"
+    ]
+},
+  "bbox": [-98.09429,46.141923,-98.09429,46.141923],
+  "geometry": {"coordinates":[-98.09429,46.141923],"type":"Point"}
+}

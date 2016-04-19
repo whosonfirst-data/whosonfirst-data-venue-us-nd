@@ -1,0 +1,67 @@
+{
+  "id": 387827423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.084473,46.13877,-98.084473,46.13877",
+    "geom:latitude":46.13877,
+    "geom:longitude":-98.084473,
+    "iso:country":"US",
+    "sg:address":"1106 Main Ave",
+    "sg:city":"Oakes",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 742 2355",
+    "sg:postcode":"58474",
+    "sg:province":"SD",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982255,
+        102082079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FHhqcgxk4io1i6lC9XD9q_46.138770_-98.084473@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"11d437ac1c5b59526eeec9b1feead3d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082079,
+            "locality_id":85982255,
+            "neighbourhood_id":-1,
+            "region_id":85688525,
+            "venue_id":387827423
+        }
+    ],
+    "wof:id":387827423,
+    "wof:lastmodified":1449057459,
+    "wof:name":"Oakes Roofing Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [-98.084473,46.13877,-98.084473,46.13877],
+  "geometry": {"coordinates":[-98.084473,46.13877],"type":"Point"}
+}

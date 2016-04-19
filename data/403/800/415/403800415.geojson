@@ -1,0 +1,67 @@
+{
+  "id": 403800415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.087734,46.145547,-98.087734,46.145547",
+    "geom:latitude":46.145547,
+    "geom:longitude":-98.087734,
+    "iso:country":"US",
+    "sg:address":"903 Dogwood Ave",
+    "sg:city":"Oakes",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 742 3179",
+    "sg:postcode":"58474",
+    "sg:province":"SD",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982255,
+        102082079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zhWRHaSF6kS8GxXnuyOD2_46.145547_-98.087734@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c2cbb642b5ed0e786d6cbc3f0194e574",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082079,
+            "locality_id":85982255,
+            "neighbourhood_id":-1,
+            "region_id":85688525,
+            "venue_id":403800415
+        }
+    ],
+    "wof:id":403800415,
+    "wof:lastmodified":1449054739,
+    "wof:name":"Vikingland Farm Models",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [-98.087734,46.145547,-98.087734,46.145547],
+  "geometry": {"coordinates":[-98.087734,46.145547],"type":"Point"}
+}

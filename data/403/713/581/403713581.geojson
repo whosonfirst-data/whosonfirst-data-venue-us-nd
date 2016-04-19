@@ -1,0 +1,67 @@
+{
+  "id": 403713581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.635712,46.108817,-97.635712,46.108817",
+    "geom:latitude":46.108817,
+    "geom:longitude":-97.635712,
+    "iso:country":"US",
+    "sg:address":"226 Maple Ave SW",
+    "sg:city":"Forman",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 724 3626",
+    "sg:postcode":"58017",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982641,
+        102082115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NpzrV1uciOzKIa6Jmamvv_46.108817_-97.635712@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fd72e14f75d8fa204998a48ae1dd83da",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082115,
+            "locality_id":85982641,
+            "neighbourhood_id":-1,
+            "region_id":85688525,
+            "venue_id":403713581
+        }
+    ],
+    "wof:id":403713581,
+    "wof:lastmodified":1449055843,
+    "wof:name":"K W Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-97.635712,46.108817,-97.635712,46.108817],
+  "geometry": {"coordinates":[-97.635712,46.108817],"type":"Point"}
+}

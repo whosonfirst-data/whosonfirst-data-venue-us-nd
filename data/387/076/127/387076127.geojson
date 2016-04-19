@@ -1,0 +1,72 @@
+{
+  "id": 387076127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-98.079889,46.150609,-98.079889,46.150609",
+    "geom:latitude":46.150609,
+    "geom:longitude":-98.079889,
+    "iso:country":"US",
+    "sg:address":"902 14th St N",
+    "sg:city":"Oakes",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 742 3135",
+    "sg:postcode":"58474",
+    "sg:province":"SD",
+    "sg:tags":[
+        "liquefied",
+        "gas",
+        "petroleum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688525
+    ],
+    "wof:brand_id":420575037,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CKyGbii9NI6d4Av0hXUwC_46.150609_-98.079889@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0c47b15c101273cbdc46b0c80e09b610",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688525,
+            "venue_id":387076127
+        }
+    ],
+    "wof:id":387076127,
+    "wof:lastmodified":1457209357,
+    "wof:name":"Ferrellgas",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "liquefied",
+        "gas",
+        "petroleum"
+    ]
+},
+  "bbox": [
+    -98.079889,
+    46.150609,
+    -98.079889,
+    46.150609
+],
+  "geometry": {"coordinates":[-98.07988899999999,46.150609],"type":"Point"}
+}

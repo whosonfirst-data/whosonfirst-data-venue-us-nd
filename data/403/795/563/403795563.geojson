@@ -1,0 +1,67 @@
+{
+  "id": 403795563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.090684,46.13295,-98.090684,46.13295",
+    "geom:latitude":46.13295,
+    "geom:longitude":-98.090684,
+    "iso:country":"US",
+    "sg:address":"615 Nectarine Ave",
+    "sg:city":"Oakes",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 742 3163",
+    "sg:postcode":"58474",
+    "sg:province":"SD",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982255,
+        102082079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uLGi2XSDlhn1jfSU6pid2_46.132950_-98.090684@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fecce7237c1f46b7042b2e99c211a67e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082079,
+            "locality_id":85982255,
+            "neighbourhood_id":-1,
+            "region_id":85688525,
+            "venue_id":403795563
+        }
+    ],
+    "wof:id":403795563,
+    "wof:lastmodified":1449055432,
+    "wof:name":"Oakes Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-98.090684,46.13295,-98.090684,46.13295],
+  "geometry": {"coordinates":[-98.090684,46.13295],"type":"Point"}
+}

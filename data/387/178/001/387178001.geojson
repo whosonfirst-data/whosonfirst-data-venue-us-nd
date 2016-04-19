@@ -1,0 +1,73 @@
+{
+  "id": 387178001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.09178,46.138935,-98.09178,46.138935",
+    "geom:latitude":46.138935,
+    "geom:longitude":-98.09178,
+    "iso:country":"US",
+    "sg:address":"617 Main Ave",
+    "sg:city":"Oakes",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 742 2667",
+    "sg:postcode":"58474",
+    "sg:province":"SD",
+    "sg:tags":[
+        "bulk",
+        "station",
+        "oil",
+        "gasoline",
+        "liq"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982255,
+        102082079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CPAGui00eIA7GiwEKE32L_46.138935_-98.091780@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0b031aa0404c7ddc6053ce7ad59caada",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082079,
+            "locality_id":85982255,
+            "neighbourhood_id":-1,
+            "region_id":85688525,
+            "venue_id":387178001
+        }
+    ],
+    "wof:id":387178001,
+    "wof:lastmodified":1449058838,
+    "wof:name":"Farmland Co-Op Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulk",
+        "station",
+        "oil",
+        "gasoline",
+        "liq"
+    ]
+},
+  "bbox": [-98.09178,46.138935,-98.09178,46.138935],
+  "geometry": {"coordinates":[-98.09178,46.138935],"type":"Point"}
+}

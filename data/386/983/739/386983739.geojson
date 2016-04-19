@@ -1,0 +1,69 @@
+{
+  "id": 386983739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.080975,46.141879,-98.080975,46.141879",
+    "geom:latitude":46.141879,
+    "geom:longitude":-98.080975,
+    "iso:country":"US",
+    "sg:address":"1316 Fir Ave",
+    "sg:city":"Oakes",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 742 2429",
+    "sg:postcode":"58474",
+    "sg:province":"SD",
+    "sg:tags":[
+        "water",
+        "well",
+        "drilling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982255,
+        102082079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KA3TAV41eP5T7zz69db7I_46.141879_-98.080975@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c01959712d44830824b664d663679ce3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082079,
+            "locality_id":85982255,
+            "neighbourhood_id":-1,
+            "region_id":85688525,
+            "venue_id":386983739
+        }
+    ],
+    "wof:id":386983739,
+    "wof:lastmodified":1449028957,
+    "wof:name":"M & W Drilling",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "well",
+        "drilling"
+    ]
+},
+  "bbox": [-98.080975,46.141879,-98.080975,46.141879],
+  "geometry": {"coordinates":[-98.080975,46.141879],"type":"Point"}
+}

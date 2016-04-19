@@ -1,0 +1,69 @@
+{
+  "id": 371103159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.09063,46.134622,-98.09063,46.134622",
+    "geom:latitude":46.134622,
+    "geom:longitude":-98.09063,
+    "iso:country":"US",
+    "sg:address":"407 7th St S",
+    "sg:city":"Oakes",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 742 2448",
+    "sg:postcode":"58474",
+    "sg:province":"SD",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982255,
+        102082079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wYBNlP4uBQnEGTieWcYMM_46.134622_-98.090630@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8bf8c5b1b6def9ab0679c8a31718bdb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082079,
+            "locality_id":85982255,
+            "neighbourhood_id":-1,
+            "region_id":85688525,
+            "venue_id":371103159
+        }
+    ],
+    "wof:id":371103159,
+    "wof:lastmodified":1449049694,
+    "wof:name":"Lau Motors Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [-98.09063,46.134622,-98.09063,46.134622],
+  "geometry": {"coordinates":[-98.09063,46.134622],"type":"Point"}
+}

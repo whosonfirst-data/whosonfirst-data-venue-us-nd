@@ -1,0 +1,61 @@
+{
+  "id": 403796235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.090328,46.138776,-98.090328,46.138776",
+    "geom:latitude":46.138776,
+    "geom:longitude":-98.090328,
+    "iso:country":"US",
+    "sg:address":"716 Main Ave",
+    "sg:city":"Oakes",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 742 3204",
+    "sg:postcode":"58474",
+    "sg:province":"SD",
+    "sg:website":"www.oakes.k12.nd.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982255,
+        102082079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4b5PeWFpj2vE0Vd6tIQjhD_46.138776_-98.090328@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a0865af9d08bcdc2e8a29a94ad2727fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082079,
+            "locality_id":85982255,
+            "neighbourhood_id":-1,
+            "region_id":85688525,
+            "venue_id":403796235
+        }
+    ],
+    "wof:id":403796235,
+    "wof:lastmodified":1449055254,
+    "wof:name":"Oakes Elementary School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-98.090328,46.138776,-98.090328,46.138776],
+  "geometry": {"coordinates":[-98.090328,46.138776],"type":"Point"}
+}

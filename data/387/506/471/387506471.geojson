@@ -1,0 +1,64 @@
+{
+  "id": 387506471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.131645,46.131867,-98.131645,46.131867",
+    "geom:latitude":46.131867,
+    "geom:longitude":-98.131645,
+    "iso:country":"US",
+    "sg:address":"8844 108th Ave SE",
+    "sg:city":"Oakes",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 742 3085",
+    "sg:postcode":"58474",
+    "sg:province":"SD",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JHBmRmcghBJiF23UhFEkH_46.131867_-98.131645@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3ab26057a30d1d2a743a7eebf9b8f2c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688525,
+            "venue_id":387506471
+        }
+    ],
+    "wof:id":387506471,
+    "wof:lastmodified":1449056204,
+    "wof:name":"B & K Murphy Plumbing & Heatin",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [-98.131645,46.131867,-98.131645,46.131867],
+  "geometry": {"coordinates":[-98.131645,46.131867],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 387214481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.090641,46.132417,-98.090641,46.132417",
+    "geom:latitude":46.132417,
+    "geom:longitude":-98.090641,
+    "iso:country":"US",
+    "sg:address":"621 7th St S",
+    "sg:city":"Oakes",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 742 2628",
+    "sg:postcode":"58474",
+    "sg:province":"SD",
+    "sg:tags":[
+        "exchanging",
+        "engine"
+    ],
+    "sg:website":"www.engreb.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982255,
+        102082079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1njEGFcY1dGz4GHd0YNmOm_46.132417_-98.090641@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aa8e1afac03980ce69f0a81dcfcdf0dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082079,
+            "locality_id":85982255,
+            "neighbourhood_id":-1,
+            "region_id":85688525,
+            "venue_id":387214481
+        }
+    ],
+    "wof:id":387214481,
+    "wof:lastmodified":1449059798,
+    "wof:name":"Engine Rebuilders",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exchanging",
+        "engine"
+    ]
+},
+  "bbox": [-98.090641,46.132417,-98.090641,46.132417],
+  "geometry": {"coordinates":[-98.090641,46.132417],"type":"Point"}
+}

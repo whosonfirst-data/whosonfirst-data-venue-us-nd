@@ -1,0 +1,65 @@
+{
+  "id": 403773355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.093119,46.129289,-98.093119,46.129289",
+    "geom:latitude":46.129289,
+    "geom:longitude":-98.093119,
+    "iso:country":"US",
+    "sg:address":"916 5th St S",
+    "sg:city":"Oakes",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 724 6221",
+    "sg:postcode":"58474",
+    "sg:province":"SD",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982255,
+        102082079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aOqvhPaLzwPKZLAQpFAbU_46.129289_-98.093119@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"564fe9dc6d2ab58c0bce093a4c997b4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082079,
+            "locality_id":85982255,
+            "neighbourhood_id":-1,
+            "region_id":85688525,
+            "venue_id":403773355
+        }
+    ],
+    "wof:id":403773355,
+    "wof:lastmodified":1449054784,
+    "wof:name":"Kab Cafe",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [-98.093119,46.129289,-98.093119,46.129289],
+  "geometry": {"coordinates":[-98.093119,46.129289],"type":"Point"}
+}

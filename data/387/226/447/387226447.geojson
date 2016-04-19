@@ -1,0 +1,69 @@
+{
+  "id": 387226447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.093514,46.139725,-98.093514,46.139725",
+    "geom:latitude":46.139725,
+    "geom:longitude":-98.093514,
+    "iso:country":"US",
+    "sg:address":"19 5th St N",
+    "sg:city":"Oakes",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 742 2000",
+    "sg:postcode":"58474",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982255,
+        102082079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZNTMkz98iSD0fmuXLeaWG_46.139725_-98.093514@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c3d4427aaee4f12a490bf92f650db54e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082079,
+            "locality_id":85982255,
+            "neighbourhood_id":-1,
+            "region_id":85688525,
+            "venue_id":387226447
+        }
+    ],
+    "wof:id":387226447,
+    "wof:lastmodified":1449058868,
+    "wof:name":"Inky's Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "automotive"
+    ]
+},
+  "bbox": [-98.093514,46.139725,-98.093514,46.139725],
+  "geometry": {"coordinates":[-98.093514,46.139725],"type":"Point"}
+}

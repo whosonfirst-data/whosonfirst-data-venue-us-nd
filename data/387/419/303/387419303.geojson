@@ -1,0 +1,67 @@
+{
+  "id": 387419303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.098645,46.138957,-98.098645,46.138957",
+    "geom:latitude":46.138957,
+    "geom:longitude":-98.098645,
+    "iso:country":"US",
+    "sg:address":"121 Main Ave",
+    "sg:city":"Oakes",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 427 5564",
+    "sg:postcode":"58474",
+    "sg:province":"SD",
+    "sg:tags":[
+        "siding",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982255,
+        102082079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tD6J0iQffDBIiF35bee6o_46.138957_-98.098645@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7e211bb4dc8ac655a009f0500a1b459f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082079,
+            "locality_id":85982255,
+            "neighbourhood_id":-1,
+            "region_id":85688525,
+            "venue_id":387419303
+        }
+    ],
+    "wof:id":387419303,
+    "wof:lastmodified":1449059849,
+    "wof:name":"Ressler Siding & Windows Div",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "siding",
+        "contractor"
+    ]
+},
+  "bbox": [-98.098645,46.138957,-98.098645,46.138957],
+  "geometry": {"coordinates":[-98.098645,46.138957],"type":"Point"}
+}

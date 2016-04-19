@@ -1,0 +1,67 @@
+{
+  "id": 387357049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.093446,46.141999,-98.093446,46.141999",
+    "geom:latitude":46.141999,
+    "geom:longitude":-98.093446,
+    "iso:country":"US",
+    "sg:address":"501 Fir Ave",
+    "sg:city":"Oakes",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 742 2471",
+    "sg:postcode":"58474",
+    "sg:province":"SD",
+    "sg:tags":[
+        "siding",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982255,
+        102082079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zuigSVkLpR0gYi5plHik8_46.141999_-98.093446@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eef81ceec5ffc086bfc0a7debf440be7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082079,
+            "locality_id":85982255,
+            "neighbourhood_id":-1,
+            "region_id":85688525,
+            "venue_id":387357049
+        }
+    ],
+    "wof:id":387357049,
+    "wof:lastmodified":1449059456,
+    "wof:name":"Ressler Siding & Windows Div",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "siding",
+        "contractor"
+    ]
+},
+  "bbox": [-98.093446,46.141999,-98.093446,46.141999],
+  "geometry": {"coordinates":[-98.093446,46.141999],"type":"Point"}
+}

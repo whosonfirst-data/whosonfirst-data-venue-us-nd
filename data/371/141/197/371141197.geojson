@@ -1,0 +1,67 @@
+{
+  "id": 371141197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.094967,46.133643,-98.094967,46.133643",
+    "geom:latitude":46.133643,
+    "geom:longitude":-98.094967,
+    "iso:country":"US",
+    "sg:address":"501 4th St S",
+    "sg:city":"Oakes",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 742 3188",
+    "sg:postcode":"58474",
+    "sg:province":"SD",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982255,
+        102082079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UCAJtXnvQ9VJgXAI8skRn_46.133643_-98.094967@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"62a99df9cfd1c3fceab45f1dd56bcae6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082079,
+            "locality_id":85982255,
+            "neighbourhood_id":-1,
+            "region_id":85688525,
+            "venue_id":371141197
+        }
+    ],
+    "wof:id":371141197,
+    "wof:lastmodified":1449049376,
+    "wof:name":"Kustom Machine Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [-98.094967,46.133643,-98.094967,46.133643],
+  "geometry": {"coordinates":[-98.094967,46.133643],"type":"Point"}
+}
