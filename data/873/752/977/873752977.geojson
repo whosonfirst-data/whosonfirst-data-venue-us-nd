@@ -1,0 +1,71 @@
+{
+  "id": 873752977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.758561,46.802514,-100.758561,46.802514",
+    "geom:latitude":46.802514,
+    "geom:longitude":-100.758561,
+    "iso:country":"US",
+    "sg:address":"1915 E Sweet Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 5078",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "bar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AzG8TKbQjRh8Yd5MNRHYW_46.802514_-100.758561@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297118,
+    "wof:geomhash":"a954245dcb790463ba2d4f2f86e61fbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873752977
+        }
+    ],
+    "wof:id":873752977,
+    "wof:lastmodified":1464297118,
+    "wof:name":"Midway Tavern",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bar"
+    ]
+},
+  "bbox": [
+    -100.758561,
+    46.802514,
+    -100.758561,
+    46.802514
+],
+  "geometry": {"coordinates":[-100.758561,46.802514],"type":"Point"}
+}

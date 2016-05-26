@@ -1,0 +1,73 @@
+{
+  "id": 873633215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.666776,47.961639,-97.666776,47.961639",
+    "geom:latitude":47.961639,
+    "geom:longitude":-97.666776,
+    "iso:country":"US",
+    "sg:address":"1902 39th St NE",
+    "sg:city":"Larimore",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 343 2537",
+    "sg:postcode":"58251",
+    "sg:province":"ND",
+    "sg:tags":[
+        "aerial",
+        "applicator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WBgTMMsZKwOFiTVvDMUBv_47.961639_-97.666776@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295403,
+    "wof:geomhash":"b81dd1af0ff5680304c505fe25ccb52e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873633215
+        }
+    ],
+    "wof:id":873633215,
+    "wof:lastmodified":1464295403,
+    "wof:name":"Bakke Flying Svc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aerial",
+        "applicator"
+    ]
+},
+  "bbox": [
+    -97.666776,
+    47.961639,
+    -97.666776,
+    47.961639
+],
+  "geometry": {"coordinates":[-97.666776,47.961639],"type":"Point"}
+}

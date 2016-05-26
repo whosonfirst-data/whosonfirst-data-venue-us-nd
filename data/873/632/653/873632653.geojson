@@ -1,0 +1,73 @@
+{
+  "id": 873632653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.049446,47.925043,-97.049446,47.925043",
+    "geom:latitude":47.925043,
+    "geom:longitude":-97.049446,
+    "iso:country":"US",
+    "sg:address":"523 N 16th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 0028",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "monastery",
+        "convent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gAfimQB8BMELzbokP3Vmu_47.925043_-97.049446@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295395,
+    "wof:geomhash":"ecc9150bccf6e49d621a8dd2807cd38e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873632653
+        }
+    ],
+    "wof:id":873632653,
+    "wof:lastmodified":1464295395,
+    "wof:name":"St Anne's Convent",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monastery",
+        "convent"
+    ]
+},
+  "bbox": [
+    -97.049446,
+    47.925043,
+    -97.049446,
+    47.925043
+],
+  "geometry": {"coordinates":[-97.049446,47.925043],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873545869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.03242,47.9239,-97.03242,47.9239",
+    "geom:latitude":47.9239,
+    "geom:longitude":-97.03242,
+    "iso:country":"US",
+    "sg:address":"424 Demers Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 1259",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "stock",
+        "bond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LizfObC0kgqTJ1BgtuI23_47.923900_-97.032420@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294327,
+    "wof:geomhash":"2a759658f33db639bc541e2f3908f45d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873545869
+        }
+    ],
+    "wof:id":873545869,
+    "wof:lastmodified":1464294327,
+    "wof:name":"Edward Jones Co",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stock",
+        "bond"
+    ]
+},
+  "bbox": [
+    -97.03242,
+    47.9239,
+    -97.03242,
+    47.9239
+],
+  "geometry": {"coordinates":[-97.03242,47.9239],"type":"Point"}
+}

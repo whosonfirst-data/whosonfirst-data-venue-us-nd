@@ -1,0 +1,81 @@
+{
+  "id": 873715061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.797616,46.843909,-96.797616,46.843909",
+    "geom:latitude":46.843909,
+    "geom:longitude":-96.797616,
+    "iso:country":"US",
+    "sg:address":"1202 24th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 3874",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534475,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mrXolIwsX9VPpQuKAub3l_46.843909_-96.797616@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296582,
+    "wof:geomhash":"cf934f6c2f8c3e4114b15659745fb4ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534475,
+            "region_id":85688525,
+            "venue_id":873715061
+        }
+    ],
+    "wof:id":873715061,
+    "wof:lastmodified":1464296582,
+    "wof:name":"Furnishings Limited",
+    "wof:parent_id":420534475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ]
+},
+  "bbox": [
+    -96.797616,
+    46.843909,
+    -96.797616,
+    46.843909
+],
+  "geometry": {"coordinates":[-96.797616,46.843909],"type":"Point"}
+}

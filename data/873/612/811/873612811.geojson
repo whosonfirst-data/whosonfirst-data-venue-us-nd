@@ -1,0 +1,79 @@
+{
+  "id": 873612811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.827204,46.867813,-96.827204,46.867813",
+    "geom:latitude":46.867813,
+    "geom:longitude":-96.827204,
+    "iso:country":"US",
+    "sg:address":"2921 Fiechtner Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 9097",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "installs",
+        "windows",
+        "door"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FhGvf1YeAV3BPILbgQRWl_46.867813_-96.827204@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295174,
+    "wof:geomhash":"9330a86293d9878319f325acc70cdedb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873612811
+        }
+    ],
+    "wof:id":873612811,
+    "wof:lastmodified":1464295174,
+    "wof:name":"Nelson Window Company",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installs",
+        "windows",
+        "door"
+    ]
+},
+  "bbox": [
+    -96.827204,
+    46.867813,
+    -96.827204,
+    46.867813
+],
+  "geometry": {"coordinates":[-96.82720399999999,46.867813],"type":"Point"}
+}

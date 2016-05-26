@@ -1,0 +1,73 @@
+{
+  "id": 873749483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.04491,47.919092,-97.04491,47.919092",
+    "geom:latitude":47.919092,
+    "geom:longitude":-97.04491,
+    "iso:country":"US",
+    "sg:address":"1201 Dyke Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 5387",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64YrjrbHJvQb4zbPZyNNun_47.919092_-97.044910@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297068,
+    "wof:geomhash":"ec024c3fc3b99d4c58f039e46a275a1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873749483
+        }
+    ],
+    "wof:id":873749483,
+    "wof:lastmodified":1464297068,
+    "wof:name":"Baukol Builders",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.04491,
+    47.919092,
+    -97.04491,
+    47.919092
+],
+  "geometry": {"coordinates":[-97.04491,47.919092],"type":"Point"}
+}

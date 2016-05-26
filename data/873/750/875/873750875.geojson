@@ -1,0 +1,71 @@
+{
+  "id": 873750875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.299159,48.233228,-101.299159,48.233228",
+    "geom:latitude":48.233228,
+    "geom:longitude":-101.299159,
+    "iso:country":"US",
+    "sg:address":"420 3rd Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 8559",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_613n5AyiFvS1bQQMMP96pR_48.233228_-101.299159@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297086,
+    "wof:geomhash":"43d0c3b0cf71c7ee7c4e37dea9700daf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873750875
+        }
+    ],
+    "wof:id":873750875,
+    "wof:lastmodified":1464297086,
+    "wof:name":"Abundant Life Community Church",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -101.299159,
+    48.233228,
+    -101.299159,
+    48.233228
+],
+  "geometry": {"coordinates":[-101.299159,48.233228],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873552389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.810795,46.883478,-96.810795,46.883478",
+    "geom:latitude":46.883478,
+    "geom:longitude":-96.810795,
+    "iso:country":"US",
+    "sg:address":"714 19th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 0726",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877363,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ukHvT9qX7lRdfTUt6mjr7_46.883478_-96.810795@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294405,
+    "wof:geomhash":"0a45660fe95c8f05d5d5031c4a7a5b64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877363,
+            "region_id":85688525,
+            "venue_id":873552389
+        }
+    ],
+    "wof:id":873552389,
+    "wof:lastmodified":1464294405,
+    "wof:name":"Carol's Upholstery",
+    "wof:parent_id":85877363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -96.810795,
+    46.883478,
+    -96.810795,
+    46.883478
+],
+  "geometry": {"coordinates":[-96.810795,46.883478],"type":"Point"}
+}

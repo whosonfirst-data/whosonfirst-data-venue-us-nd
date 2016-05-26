@@ -1,0 +1,73 @@
+{
+  "id": 873713101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.303375,48.204558,-101.303375,48.204558",
+    "geom:latitude":48.204558,
+    "geom:longitude":-101.303375,
+    "iso:country":"US",
+    "sg:address":"600 28th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 2052",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "recreational",
+        "vehicle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XazkL3P58l196pA6f0nOK_48.204558_-101.303375@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296557,
+    "wof:geomhash":"7b28eb74bae6ac029e00dc65aea9189e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873713101
+        }
+    ],
+    "wof:id":873713101,
+    "wof:lastmodified":1464296557,
+    "wof:name":"George's Rv & Camper Svc",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recreational",
+        "vehicle"
+    ]
+},
+  "bbox": [
+    -101.303375,
+    48.204558,
+    -101.303375,
+    48.204558
+],
+  "geometry": {"coordinates":[-101.303375,48.204558],"type":"Point"}
+}

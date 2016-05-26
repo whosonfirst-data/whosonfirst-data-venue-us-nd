@@ -1,0 +1,71 @@
+{
+  "id": 873650181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.233471,46.70193,-97.233471,46.70193",
+    "geom:latitude":46.70193,
+    "geom:longitude":-97.233471,
+    "iso:country":"US",
+    "sg:address":"15407 49th St SE",
+    "sg:city":"Leonard",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 645 2287",
+    "sg:postcode":"58051",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6miovKwxDgNKsLxW8Oa8QA_46.701930_-97.233471@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295589,
+    "wof:geomhash":"4879816c60697bad923805ba7846b504",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873650181
+        }
+    ],
+    "wof:id":873650181,
+    "wof:lastmodified":1464295589,
+    "wof:name":"Bethel Moravian Church",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -97.233471,
+    46.70193,
+    -97.233471,
+    46.70193
+],
+  "geometry": {"coordinates":[-97.23347099999999,46.70193],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873629171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.335488,48.242029,-101.335488,48.242029",
+    "geom:latitude":48.242029,
+    "geom:longitude":-101.335488,
+    "iso:country":"US",
+    "sg:address":"524 27th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 721 1255",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "tool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7D1nnrMa01l6B1kCqGcTpG_48.242029_-101.335488@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295351,
+    "wof:geomhash":"f490456ac30b5369323fe4775762795f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873629171
+        }
+    ],
+    "wof:id":873629171,
+    "wof:lastmodified":1464295351,
+    "wof:name":"Mac Tools Inc",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tool"
+    ]
+},
+  "bbox": [
+    -101.335488,
+    48.242029,
+    -101.335488,
+    48.242029
+],
+  "geometry": {"coordinates":[-101.335488,48.242029],"type":"Point"}
+}

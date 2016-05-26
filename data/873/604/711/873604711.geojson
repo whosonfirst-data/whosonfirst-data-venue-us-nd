@@ -1,0 +1,76 @@
+{
+  "id": 873604711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.061742,47.94755,-97.061742,47.94755",
+    "geom:latitude":47.94755,
+    "geom:longitude":-97.061742,
+    "iso:country":"US",
+    "sg:address":"2304 Mill Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 2109",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07RTKbhH5LJt8TCyoNRrXU_47.947550_-97.061742@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295037,
+    "wof:geomhash":"c68df3a504083d2347e8b4c825f4a449",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873604711
+        }
+    ],
+    "wof:id":873604711,
+    "wof:lastmodified":1464295037,
+    "wof:name":"Prairie Supply Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.061742,
+    47.94755,
+    -97.061742,
+    47.94755
+],
+  "geometry": {"coordinates":[-97.061742,47.94755],"type":"Point"}
+}

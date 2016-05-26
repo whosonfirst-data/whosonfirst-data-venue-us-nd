@@ -1,0 +1,66 @@
+{
+  "id": 873689971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.774471,46.794829,-100.774471,46.794829",
+    "geom:latitude":46.794829,
+    "geom:longitude":-100.774471,
+    "iso:country":"US",
+    "sg:address":"601 E Bismarck Expy",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 250 0950",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ra1Rvh3JVastuZ6WJus86_46.794829_-100.774471@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296272,
+    "wof:geomhash":"403eccaab6a930cb29616bf4e8fa801d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873689971
+        }
+    ],
+    "wof:id":873689971,
+    "wof:lastmodified":1464296272,
+    "wof:name":"Richard D Olson",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.774471,
+    46.794829,
+    -100.774471,
+    46.794829
+],
+  "geometry": {"coordinates":[-100.77447100000001,46.794829],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873778253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.537542,47.983805,-97.537542,47.983805",
+    "geom:latitude":47.983805,
+    "geom:longitude":-97.537542,
+    "iso:country":"US",
+    "sg:address":"2125 33rd St NE",
+    "sg:city":"Arvilla",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 343 2602",
+    "sg:postcode":"58214",
+    "sg:province":"ND",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BZOK1t5MyWwZ0tFOsEEzO_47.983805_-97.537542@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297466,
+    "wof:geomhash":"25e93995df610bdbf3ca90da39e11bca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873778253
+        }
+    ],
+    "wof:id":873778253,
+    "wof:lastmodified":1464297466,
+    "wof:name":"Haugen Egronomics",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -97.537542,
+    47.983805,
+    -97.537542,
+    47.983805
+],
+  "geometry": {"coordinates":[-97.537542,47.983805],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873570343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.775395,46.815056,-100.775395,46.815056",
+    "geom:latitude":46.815056,
+    "geom:longitude":-100.775395,
+    "iso:country":"US",
+    "sg:address":"912 N 11th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 4485",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MJoEvq849NGLkHoFPJLiq_46.815056_-100.775395@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294613,
+    "wof:geomhash":"b8d012f09e7cbcd66bc7e23365ab6ee6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873570343
+        }
+    ],
+    "wof:id":873570343,
+    "wof:lastmodified":1464294613,
+    "wof:name":"Bruning & Bruning",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -100.775395,
+    46.815056,
+    -100.775395,
+    46.815056
+],
+  "geometry": {"coordinates":[-100.775395,46.815056],"type":"Point"}
+}

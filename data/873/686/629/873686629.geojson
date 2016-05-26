@@ -1,0 +1,66 @@
+{
+  "id": 873686629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.740273,46.809173,-100.740273,46.809173",
+    "geom:latitude":46.809173,
+    "geom:longitude":-100.740273,
+    "iso:country":"US",
+    "sg:address":"3318 E Rosser Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 7604",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tSgufbePtGQWh3SMlRdiB_46.809173_-100.740273@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296183,
+    "wof:geomhash":"f028dccb0c74f20977d5c29d939d8c46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873686629
+        }
+    ],
+    "wof:id":873686629,
+    "wof:lastmodified":1464296183,
+    "wof:name":"Pride Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.740273,
+    46.809173,
+    -100.740273,
+    46.809173
+],
+  "geometry": {"coordinates":[-100.740273,46.809173],"type":"Point"}
+}

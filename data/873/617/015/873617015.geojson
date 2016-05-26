@@ -1,0 +1,71 @@
+{
+  "id": 873617015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.048745,47.932703,-97.048745,47.932703",
+    "geom:latitude":47.932703,
+    "geom:longitude":-97.048745,
+    "iso:country":"US",
+    "sg:address":"1101 N 5th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 3456",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3r11cKiq9jgus1Z5DQtcYw_47.932703_-97.048745@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295215,
+    "wof:geomhash":"6810c0d1511583bc802a5cfe9bc51083",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873617015
+        }
+    ],
+    "wof:id":873617015,
+    "wof:lastmodified":1464295215,
+    "wof:name":"Nodak Radio Cab Co",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -97.048745,
+    47.932703,
+    -97.048745,
+    47.932703
+],
+  "geometry": {"coordinates":[-97.048745,47.932703],"type":"Point"}
+}

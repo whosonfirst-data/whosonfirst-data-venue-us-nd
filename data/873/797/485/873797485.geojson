@@ -1,0 +1,76 @@
+{
+  "id": 873797485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.044607,47.906205,-97.044607,47.906205",
+    "geom:latitude":47.906205,
+    "geom:longitude":-97.044607,
+    "iso:country":"US",
+    "sg:address":"1503 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/grand-forks/181583-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 6536",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vRHmZ5TTURDjucA2S8CLR_47.906205_-97.044607@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297744,
+    "wof:geomhash":"38095b9236aa160174ae50aca2bf6413",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873797485
+        }
+    ],
+    "wof:id":873797485,
+    "wof:lastmodified":1464297744,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -97.044607,
+    47.906205,
+    -97.044607,
+    47.906205
+],
+  "geometry": {"coordinates":[-97.044607,47.906205],"type":"Point"}
+}

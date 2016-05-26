@@ -1,0 +1,71 @@
+{
+  "id": 873675127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.288448,48.229869,-101.288448,48.229869",
+    "geom:latitude":48.229869,
+    "geom:longitude":-101.288448,
+    "iso:country":"US",
+    "sg:address":"700 3rd St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 5497",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "group"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YJXgCIvdhw3u043H9XkM3_48.229869_-101.288448@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295871,
+    "wof:geomhash":"423775ad96073eff8d86df6cd669710c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873675127
+        }
+    ],
+    "wof:id":873675127,
+    "wof:lastmodified":1464295871,
+    "wof:name":"Rolling Thunder D J Service",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "group"
+    ]
+},
+  "bbox": [
+    -101.288448,
+    48.229869,
+    -101.288448,
+    48.229869
+],
+  "geometry": {"coordinates":[-101.288448,48.229869],"type":"Point"}
+}

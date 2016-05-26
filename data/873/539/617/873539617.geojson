@@ -1,0 +1,73 @@
+{
+  "id": 873539617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.280101,48.312344,-101.280101,48.312344",
+    "geom:latitude":48.312344,
+    "geom:longitude":-101.280101,
+    "iso:country":"US",
+    "sg:address":"700 72nd Ave NE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 7858",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uCxpNgXAGFXNmubvU3dra_48.312344_-101.280101@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294256,
+    "wof:geomhash":"420276bb6eb8993f72488217ceea8479",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873539617
+        }
+    ],
+    "wof:id":873539617,
+    "wof:lastmodified":1464294256,
+    "wof:name":"L & J Indoor Storage",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -101.280101,
+    48.312344,
+    -101.280101,
+    48.312344
+],
+  "geometry": {"coordinates":[-101.280101,48.312344],"type":"Point"}
+}

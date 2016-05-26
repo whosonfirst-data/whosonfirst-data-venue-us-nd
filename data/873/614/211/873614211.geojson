@@ -1,0 +1,75 @@
+{
+  "id": 873614211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.258691,48.225644,-101.258691,48.225644",
+    "geom:latitude":48.225644,
+    "geom:longitude":-101.258691,
+    "iso:country":"US",
+    "sg:address":"238 Souris Dr",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 0364",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74DmOzWZq3gtWWkY0spYqY_48.225644_-101.258691@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295187,
+    "wof:geomhash":"1176ca185df4cae43c111a4fffddea68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873614211
+        }
+    ],
+    "wof:id":873614211,
+    "wof:lastmodified":1464295187,
+    "wof:name":"On The Spot Cleaning",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -101.258691,
+    48.225644,
+    -101.258691,
+    48.225644
+],
+  "geometry": {"coordinates":[-101.258691,48.225644],"type":"Point"}
+}

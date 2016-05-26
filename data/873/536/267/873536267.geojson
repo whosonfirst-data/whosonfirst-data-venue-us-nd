@@ -1,0 +1,73 @@
+{
+  "id": 873536267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.660132,46.739596,-100.660132,46.739596",
+    "geom:latitude":46.739596,
+    "geom:longitude":-100.660132,
+    "iso:country":"US",
+    "sg:address":"8550 Palomino Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 0198",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "siding",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0k23piyHfDJ33yXYADPTPQ_46.739596_-100.660132@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294217,
+    "wof:geomhash":"ecf34ed390ce4051cf7c12d4cee89505",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873536267
+        }
+    ],
+    "wof:id":873536267,
+    "wof:lastmodified":1464294217,
+    "wof:name":"Life Time Exteriors",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "siding",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.660132,
+    46.739596,
+    -100.660132,
+    46.739596
+],
+  "geometry": {"coordinates":[-100.660132,46.739596],"type":"Point"}
+}

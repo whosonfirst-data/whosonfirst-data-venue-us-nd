@@ -1,0 +1,70 @@
+{
+  "id": 873745701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.781536,46.894309,-96.781536,46.894309",
+    "geom:latitude":46.894309,
+    "geom:longitude":-96.781536,
+    "iso:country":"US",
+    "sg:address":"1335 2nd St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 1176",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534483,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gcm8Mvbw6uGtUoBrMzvdJ_46.894309_-96.781536@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297021,
+    "wof:geomhash":"0923bcc19f33d6e3c51e797cf085af5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534483,
+            "region_id":85688525,
+            "venue_id":873745701
+        }
+    ],
+    "wof:id":873745701,
+    "wof:lastmodified":1464297021,
+    "wof:name":"Intercambio Student Exchange",
+    "wof:parent_id":420534483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.781536,
+    46.894309,
+    -96.781536,
+    46.894309
+],
+  "geometry": {"coordinates":[-96.781536,46.894309],"type":"Point"}
+}

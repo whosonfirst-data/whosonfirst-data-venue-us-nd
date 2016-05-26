@@ -1,0 +1,75 @@
+{
+  "id": 873732869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.881401,46.862226,-96.881401,46.862226",
+    "geom:latitude":46.862226,
+    "geom:longitude":-96.881401,
+    "iso:country":"US",
+    "sg:address":"1100 13th Ave E",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 277 8186",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RTxWYiELh0OlTGTlCFj75_46.862226_-96.881401@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296814,
+    "wof:geomhash":"b5a1f04e99b357461b7e12d0f7c81ce0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873732869
+        }
+    ],
+    "wof:id":873732869,
+    "wof:lastmodified":1464296814,
+    "wof:name":"Packers Package",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -96.881401,
+    46.862226,
+    -96.881401,
+    46.862226
+],
+  "geometry": {"coordinates":[-96.881401,46.862226],"type":"Point"}
+}

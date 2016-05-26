@@ -1,0 +1,73 @@
+{
+  "id": 873579153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.287908,48.216548,-101.287908,48.216548",
+    "geom:latitude":48.216548,
+    "geom:longitude":-101.287908,
+    "iso:country":"US",
+    "sg:address":"305 17th Ave SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 6630",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "residential",
+        "intermediate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lwjqC1UyoiWtWEhNwP5u9_48.216548_-101.287908@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294707,
+    "wof:geomhash":"e36421f376bd66348295517cbf289b55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873579153
+        }
+    ],
+    "wof:id":873579153,
+    "wof:lastmodified":1464294707,
+    "wof:name":"REM Inc- North Dakota",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "intermediate"
+    ]
+},
+  "bbox": [
+    -101.287908,
+    48.216548,
+    -101.287908,
+    48.216548
+],
+  "geometry": {"coordinates":[-101.287908,48.216548],"type":"Point"}
+}

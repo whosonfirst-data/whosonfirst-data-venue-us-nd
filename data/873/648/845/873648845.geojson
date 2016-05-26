@@ -1,0 +1,80 @@
+{
+  "id": 873648845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.813964,46.819922,-96.813964,46.819922",
+    "geom:latitude":46.819922,
+    "geom:longitude":-96.813964,
+    "iso:country":"US",
+    "sg:address":"3710 20th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 356 5500",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "machine",
+        "teller",
+        "automated"
+    ],
+    "sg:website":"www.ccpcinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534487,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KdJWcZtnycCSJ4BuQNRpr_46.819922_-96.813964@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295575,
+    "wof:geomhash":"b5e03c711590c73ed7a6b8ba1cb6b502",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534487,
+            "region_id":85688525,
+            "venue_id":873648845
+        }
+    ],
+    "wof:id":873648845,
+    "wof:lastmodified":1464295575,
+    "wof:name":"Credit Card Processing Co",
+    "wof:parent_id":420534487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "teller",
+        "automated"
+    ]
+},
+  "bbox": [
+    -96.813964,
+    46.819922,
+    -96.813964,
+    46.819922
+],
+  "geometry": {"coordinates":[-96.813964,46.819922],"type":"Point"}
+}

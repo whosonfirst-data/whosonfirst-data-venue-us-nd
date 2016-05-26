@@ -1,0 +1,74 @@
+{
+  "id": 873643415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.7361,46.828324,-100.7361,46.828324",
+    "geom:latitude":46.828324,
+    "geom:longitude":-100.7361,
+    "iso:country":"US",
+    "sg:address":"2110 Miriam Cir",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 250 4469",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "federal",
+        "program"
+    ],
+    "sg:website":"www.usda.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3X83OcPv1nBuLUZeQxv2ea_46.828324_-100.736100@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295519,
+    "wof:geomhash":"e22cbd0af3cae7379d1d64da893267e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873643415
+        }
+    ],
+    "wof:id":873643415,
+    "wof:lastmodified":1464295519,
+    "wof:name":"US Agricultural Dept",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "program"
+    ]
+},
+  "bbox": [
+    -100.7361,
+    46.828324,
+    -100.7361,
+    46.828324
+],
+  "geometry": {"coordinates":[-100.73609999999999,46.828324],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873604745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.226682,48.219927,-101.226682,48.219927",
+    "geom:latitude":48.219927,
+    "geom:longitude":-101.226682,
+    "iso:country":"US",
+    "sg:address":"1517 46th St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 3045",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "engraver"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZXyTL0J1tBE9Fxewt4mCP_48.219927_-101.226682@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295037,
+    "wof:geomhash":"8e1706843a25711bb5b4def6b0d4643d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873604745
+        }
+    ],
+    "wof:id":873604745,
+    "wof:lastmodified":1464295037,
+    "wof:name":"Custom Glass Engraving",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engraver"
+    ]
+},
+  "bbox": [
+    -101.226682,
+    48.219927,
+    -101.226682,
+    48.219927
+],
+  "geometry": {"coordinates":[-101.226682,48.219927],"type":"Point"}
+}

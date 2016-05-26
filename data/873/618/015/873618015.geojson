@@ -1,0 +1,73 @@
+{
+  "id": 873618015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.296041,48.242069,-101.296041,48.242069",
+    "geom:latitude":48.242069,
+    "geom:longitude":-101.296041,
+    "iso:country":"US",
+    "sg:address":"900 N Broadway",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 7544",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "bulb",
+        "seed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3D0JOuB7ZgupU8gu015lW7_48.242069_-101.296041@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295224,
+    "wof:geomhash":"79a7d1fc6cd9e2db21ffdcfc5a690e25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873618015
+        }
+    ],
+    "wof:id":873618015,
+    "wof:lastmodified":1464295224,
+    "wof:name":"Seeds 2000",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulb",
+        "seed"
+    ]
+},
+  "bbox": [
+    -101.296041,
+    48.242069,
+    -101.296041,
+    48.242069
+],
+  "geometry": {"coordinates":[-101.296041,48.242069],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873690351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.032475,47.923835,-97.032475,47.923835",
+    "geom:latitude":47.923835,
+    "geom:longitude":-97.032475,
+    "iso:country":"US",
+    "sg:address":"416 Demers Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 3690",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "antique",
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jw0qYIJod7PvajwX71gny_47.923835_-97.032475@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296282,
+    "wof:geomhash":"fda491ea55aa8c11d7658f35fdbf044f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873690351
+        }
+    ],
+    "wof:id":873690351,
+    "wof:lastmodified":1464296282,
+    "wof:name":"Victorian Rose Antique Shop",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique",
+        "repair"
+    ]
+},
+  "bbox": [
+    -97.032475,
+    47.923835,
+    -97.032475,
+    47.923835
+],
+  "geometry": {"coordinates":[-97.03247500000001,47.923835],"type":"Point"}
+}

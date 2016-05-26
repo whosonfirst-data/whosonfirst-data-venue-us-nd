@@ -1,0 +1,85 @@
+{
+  "id": 873801993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.836274,46.861691,-96.836274,46.861691",
+    "geom:latitude":46.861691,
+    "geom:longitude":-96.836274,
+    "iso:country":"US",
+    "sg:address":"3441 13th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 4482",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automobile",
+        "part",
+        "truck"
+    ],
+    "sg:website":"http://clickserve.dartsearch.net/link/click?lid=43000000313871367&ds_s_kwgid=58000000006820725&ds_e_matchtype={MatchType}&ds_e_kwdid={OrderItemId}&ds_e_adid={AdId}&ds_url_v=2",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KpR6uLcrLX0J0ge7e7BzO_46.861691_-96.836274@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297797,
+    "wof:geomhash":"0d81763516c504ba41b6ee42a94bf35a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873801993
+        }
+    ],
+    "wof:id":873801993,
+    "wof:lastmodified":1464297797,
+    "wof:name":"West Acres ALL-STOP",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "part",
+        "truck"
+    ]
+},
+  "bbox": [
+    -96.836274,
+    46.861691,
+    -96.836274,
+    46.861691
+],
+  "geometry": {"coordinates":[-96.836274,46.861691],"type":"Point"}
+}

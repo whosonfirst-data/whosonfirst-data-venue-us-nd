@@ -1,0 +1,66 @@
+{
+  "id": 873581017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.289256,48.202237,-101.289256,48.202237",
+    "geom:latitude":48.202237,
+    "geom:longitude":-101.289256,
+    "iso:country":"US",
+    "sg:address":"406 31st Ave SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 837 6378",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LM7lY7UJuIQY2mr8No0zB_48.202237_-101.289256@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294733,
+    "wof:geomhash":"fc4fa5d5837c8917de9d63af11a0a11c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873581017
+        }
+    ],
+    "wof:id":873581017,
+    "wof:lastmodified":1464294733,
+    "wof:name":"Stormstylzcom",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.289256,
+    48.202237,
+    -101.289256,
+    48.202237
+],
+  "geometry": {"coordinates":[-101.28925599999999,48.202237],"type":"Point"}
+}

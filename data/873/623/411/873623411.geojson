@@ -1,0 +1,75 @@
+{
+  "id": 873623411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.108443,47.918234,-97.108443,47.918234",
+    "geom:latitude":47.918234,
+    "geom:longitude":-97.108443,
+    "iso:country":"US",
+    "sg:address":"5555 Demers Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 0484",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "passenger",
+        "transportation",
+        "arrangement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Mms24Upv3BdcHBqACbum3_47.918234_-97.108443@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295290,
+    "wof:geomhash":"0d1cec6473898f5d767d9232044121d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873623411
+        }
+    ],
+    "wof:id":873623411,
+    "wof:lastmodified":1464295290,
+    "wof:name":"Amtrak",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "transportation",
+        "arrangement"
+    ]
+},
+  "bbox": [
+    -97.108443,
+    47.918234,
+    -97.108443,
+    47.918234
+],
+  "geometry": {"coordinates":[-97.10844299999999,47.918234],"type":"Point"}
+}

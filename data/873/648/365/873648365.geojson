@@ -1,0 +1,73 @@
+{
+  "id": 873648365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.37742,47.947699,-97.37742,47.947699",
+    "geom:latitude":47.947699,
+    "geom:longitude":-97.37742,
+    "iso:country":"US",
+    "sg:address":"226 Steen Ave",
+    "sg:city":"Grand Forks Afb",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 594 5141",
+    "sg:postcode":"58204",
+    "sg:province":"ND",
+    "sg:tags":[
+        "agency",
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wlDhK9sbH61p5AG89y0rt_47.947699_-97.377420@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295570,
+    "wof:geomhash":"aa321327efabb2a4942768a01dbe6033",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873648365
+        }
+    ],
+    "wof:id":873648365,
+    "wof:lastmodified":1464295570,
+    "wof:name":"Sato Travel Leisure",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "bureau"
+    ]
+},
+  "bbox": [
+    -97.37742,
+    47.947699,
+    -97.37742,
+    47.947699
+],
+  "geometry": {"coordinates":[-97.37742,47.947699],"type":"Point"}
+}

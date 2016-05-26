@@ -1,0 +1,73 @@
+{
+  "id": 873774591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.318211,48.224419,-101.318211,48.224419",
+    "geom:latitude":48.224419,
+    "geom:longitude":-101.318211,
+    "iso:country":"US",
+    "sg:address":"1801 Burdick Expy W",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 965 6197",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "propane",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pWFCzJOvBOItxPgIvLSkt_48.224419_-101.318211@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297421,
+    "wof:geomhash":"88c83fe2050f9c57205d8a8fce1e2dbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873774591
+        }
+    ],
+    "wof:id":873774591,
+    "wof:lastmodified":1464297421,
+    "wof:name":"Ferrellgas",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "propane",
+        "gas"
+    ]
+},
+  "bbox": [
+    -101.318211,
+    48.224419,
+    -101.318211,
+    48.224419
+],
+  "geometry": {"coordinates":[-101.31821100000001,48.224419],"type":"Point"}
+}

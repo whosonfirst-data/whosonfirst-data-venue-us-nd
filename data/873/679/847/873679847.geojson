@@ -1,0 +1,74 @@
+{
+  "id": 873679847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.76281,46.79367,-100.76281,46.79367",
+    "geom:latitude":46.79367,
+    "geom:longitude":-100.76281,
+    "iso:country":"US",
+    "sg:address":"1025 Airport Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 1137",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "design",
+        "engineer"
+    ],
+    "sg:website":"www.ae-solutions.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SenbkDTFeir4MJ80huuLN_46.793670_-100.762810@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295992,
+    "wof:geomhash":"7a731881b3415b3d19493df5235686e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873679847
+        }
+    ],
+    "wof:id":873679847,
+    "wof:lastmodified":1464295992,
+    "wof:name":"Applied Engineering Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "design",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -100.76281,
+    46.79367,
+    -100.76281,
+    46.79367
+],
+  "geometry": {"coordinates":[-100.76281,46.79367],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873564729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.035729,47.872479,-97.035729,47.872479",
+    "geom:latitude":47.872479,
+    "geom:longitude":-97.035729,
+    "iso:country":"US",
+    "sg:address":"658 Mighty Acres Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 402 0367",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KNvP4cv9nXaIek6YgeMfM_47.872479_-97.035729@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294552,
+    "wof:geomhash":"6c7ddf44bf83d2eb7507ed02597c3856",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873564729
+        }
+    ],
+    "wof:id":873564729,
+    "wof:lastmodified":1464294552,
+    "wof:name":"Action Truck Brokerage",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -97.035729,
+    47.872479,
+    -97.035729,
+    47.872479
+],
+  "geometry": {"coordinates":[-97.035729,47.872479],"type":"Point"}
+}

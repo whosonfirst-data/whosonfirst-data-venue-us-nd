@@ -1,0 +1,73 @@
+{
+  "id": 873746615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.313485,48.233265,-101.313485,48.233265",
+    "geom:latitude":48.233265,
+    "geom:longitude":-101.313485,
+    "iso:country":"US",
+    "sg:address":"1304 3rd Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 3619",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "alternator",
+        "generator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PuJaqPkszx0jpHbspTYcP_48.233265_-101.313485@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297033,
+    "wof:geomhash":"1f5ad803c7fc0e2a3fb352a231ecf45d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873746615
+        }
+    ],
+    "wof:id":873746615,
+    "wof:lastmodified":1464297033,
+    "wof:name":"Curt's Starter & Alternator",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alternator",
+        "generator"
+    ]
+},
+  "bbox": [
+    -101.313485,
+    48.233265,
+    -101.313485,
+    48.233265
+],
+  "geometry": {"coordinates":[-101.313485,48.233265],"type":"Point"}
+}

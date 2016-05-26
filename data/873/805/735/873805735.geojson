@@ -1,0 +1,82 @@
+{
+  "id": 873805735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.105852,47.779523,-97.105852,47.779523",
+    "geom:latitude":47.779523,
+    "geom:longitude":-97.105852,
+    "iso:country":"US",
+    "sg:address":"710 Goodwin Ave",
+    "sg:city":"Thompson",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 599 2019",
+    "sg:postcode":"58278",
+    "sg:province":"ND",
+    "sg:tags":[
+        "lutheran",
+        "america",
+        "churches-lutheran",
+        "churches-lutheran-evangelical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rY49K4VfHm5U5Yb9W6WNW_47.779523_-97.105852@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297848,
+    "wof:geomhash":"03679509318eeae214f7e2e3d7ec8724",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873805735
+        }
+    ],
+    "wof:id":873805735,
+    "wof:lastmodified":1464297848,
+    "wof:name":"East Walle Evang Lutheran Ch",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lutheran",
+        "america",
+        "churches-lutheran",
+        "churches-lutheran-evangelical"
+    ]
+},
+  "bbox": [
+    -97.105852,
+    47.779523,
+    -97.105852,
+    47.779523
+],
+  "geometry": {"coordinates":[-97.105852,47.779523],"type":"Point"}
+}

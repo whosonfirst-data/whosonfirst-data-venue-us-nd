@@ -1,0 +1,76 @@
+{
+  "id": 873563069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.764068,46.794565,-100.764068,46.794565",
+    "geom:latitude":46.794565,
+    "geom:longitude":-100.764068,
+    "iso:country":"US",
+    "sg:address":"1713 E Bismarck Expy",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 224 1657",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "filing",
+        "system"
+    ],
+    "sg:website":"www.ltmnd.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28wK3eu0TDFHqcicgSr8sr_46.794565_-100.764068@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294532,
+    "wof:geomhash":"a6bd956bfc514ac6c3e00114b14abe16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873563069
+        }
+    ],
+    "wof:id":873563069,
+    "wof:lastmodified":1464294532,
+    "wof:name":"LTM Business Concepts Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "filing",
+        "system"
+    ]
+},
+  "bbox": [
+    -100.764068,
+    46.794565,
+    -100.764068,
+    46.794565
+],
+  "geometry": {"coordinates":[-100.76406799999999,46.794565],"type":"Point"}
+}

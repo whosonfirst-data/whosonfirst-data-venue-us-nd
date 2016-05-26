@@ -1,0 +1,73 @@
+{
+  "id": 873750245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.069028,47.922341,-97.069028,47.922341",
+    "geom:latitude":47.922341,
+    "geom:longitude":-97.069028,
+    "iso:country":"US",
+    "sg:address":"2820 University Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 777 7393",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "sorority",
+        "fraternity"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iAiiI2tzU1D6lomABz8eO_47.922341_-97.069028@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297077,
+    "wof:geomhash":"6275f5a80a45ac736d5fa9724d61abad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873750245
+        }
+    ],
+    "wof:id":873750245,
+    "wof:lastmodified":1464297077,
+    "wof:name":"Sigma Chi",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sorority",
+        "fraternity"
+    ]
+},
+  "bbox": [
+    -97.069028,
+    47.922341,
+    -97.069028,
+    47.922341
+],
+  "geometry": {"coordinates":[-97.069028,47.922341],"type":"Point"}
+}

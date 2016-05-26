@@ -1,0 +1,77 @@
+{
+  "id": 873725907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.792286,46.884575,-96.792286,46.884575",
+    "geom:latitude":46.884575,
+    "geom:longitude":-96.792286,
+    "iso:country":"US",
+    "sg:address":"814 8th Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 4236",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534465,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35KBh7Xg7khRj31l6C32gJ_46.884575_-96.792286@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296724,
+    "wof:geomhash":"cffbcc4330c7d21f68c1941805411b5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534465,
+            "region_id":85688525,
+            "venue_id":873725907
+        }
+    ],
+    "wof:id":873725907,
+    "wof:lastmodified":1464296724,
+    "wof:name":"Advanced Massage",
+    "wof:parent_id":420534465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -96.792286,
+    46.884575,
+    -96.792286,
+    46.884575
+],
+  "geometry": {"coordinates":[-96.792286,46.884575],"type":"Point"}
+}

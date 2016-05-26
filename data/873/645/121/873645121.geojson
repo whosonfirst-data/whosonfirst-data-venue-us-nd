@@ -1,0 +1,73 @@
+{
+  "id": 873645121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.324693,48.45873,-101.324693,48.45873",
+    "geom:latitude":48.45873,
+    "geom:longitude":-101.324693,
+    "iso:country":"US",
+    "sg:address":"1845 72nd St NW",
+    "sg:city":"Glenburn",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 362 7796",
+    "sg:postcode":"58740",
+    "sg:province":"ND",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vmpf6Mtci9punWE60l2U0_48.458730_-101.324693@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295537,
+    "wof:geomhash":"8bdefee8729768db63f617b58272c1f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873645121
+        }
+    ],
+    "wof:id":873645121,
+    "wof:lastmodified":1464295537,
+    "wof:name":"Clair Simonson",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -101.324693,
+    48.45873,
+    -101.324693,
+    48.45873
+],
+  "geometry": {"coordinates":[-101.324693,48.45873],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873609481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.420157,48.276406,-101.420157,48.276406",
+    "geom:latitude":48.276406,
+    "geom:longitude":-101.420157,
+    "iso:country":"US",
+    "sg:address":"500 River Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 2939",
+    "sg:postcode":"58722",
+    "sg:province":"ND",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2smeDHy657ciNO4s4QNeGe_48.276406_-101.420157@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295133,
+    "wof:geomhash":"158ba4c69d0c5857b8dc33d030d7c648",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873609481
+        }
+    ],
+    "wof:id":873609481,
+    "wof:lastmodified":1464295133,
+    "wof:name":"Burlington Recreation Sports",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -101.420157,
+    48.276406,
+    -101.420157,
+    48.276406
+],
+  "geometry": {"coordinates":[-101.420157,48.276406],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 873728327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.284117,48.218184,-101.284117,48.218184",
+    "geom:latitude":48.218184,
+    "geom:longitude":-101.284117,
+    "iso:country":"US",
+    "sg:address":"700 16th Ave SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 0750",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.ourredeemers.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Y1LgTL15GRTcgJgBlWwns_48.218184_-101.284117@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296758,
+    "wof:geomhash":"8e29ebadbc645c1bf987ed5ae605b4e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873728327
+        }
+    ],
+    "wof:id":873728327,
+    "wof:lastmodified":1464296758,
+    "wof:name":"Our Redeemer's Lutheran Church",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -101.284117,
+    48.218184,
+    -101.284117,
+    48.218184
+],
+  "geometry": {"coordinates":[-101.28411699999999,48.218184],"type":"Point"}
+}

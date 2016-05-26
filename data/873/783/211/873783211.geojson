@@ -1,0 +1,71 @@
+{
+  "id": 873783211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.784683,46.883991,-96.784683,46.883991",
+    "geom:latitude":46.883991,
+    "geom:longitude":-96.784683,
+    "iso:country":"US",
+    "sg:address":"717 4th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 2661",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:website":"http://www.scandiahotel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534465,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Hm534rXULUFa6YuEWiEDa_46.883889_-96.784628@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464297533,
+    "wof:geomhash":"9801cad1e1ea4e911c3e91711082d1db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534465,
+            "region_id":85688525,
+            "venue_id":873783211
+        }
+    ],
+    "wof:id":873783211,
+    "wof:lastmodified":1464297533,
+    "wof:name":"Scandia Hotel",
+    "wof:parent_id":420534465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.784683,
+    46.883991,
+    -96.784683,
+    46.883991
+],
+  "geometry": {"coordinates":[-96.784683,46.883991],"type":"Point"}
+}

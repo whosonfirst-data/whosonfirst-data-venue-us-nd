@@ -1,0 +1,77 @@
+{
+  "id": 873566759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.84589,46.834916,-96.84589,46.834916",
+    "geom:latitude":46.834916,
+    "geom:longitude":-96.84589,
+    "iso:country":"US",
+    "sg:address":"3103 39th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 364 1869",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877355,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0x3nGs3FN2pUwnBlHfp1yF_46.834916_-96.845890@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294573,
+    "wof:geomhash":"11350fc973b45321b3f3fe5d595c1609",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877355,
+            "region_id":85688525,
+            "venue_id":873566759
+        }
+    ],
+    "wof:id":873566759,
+    "wof:lastmodified":1464294573,
+    "wof:name":"Sister Rosalind Massage",
+    "wof:parent_id":85877355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -96.84589,
+    46.834916,
+    -96.84589,
+    46.834916
+],
+  "geometry": {"coordinates":[-96.84589,46.834916],"type":"Point"}
+}

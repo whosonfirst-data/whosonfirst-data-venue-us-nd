@@ -1,0 +1,66 @@
+{
+  "id": 873662961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.312339,48.201786,-101.312339,48.201786",
+    "geom:latitude":48.201786,
+    "geom:longitude":-101.312339,
+    "iso:country":"US",
+    "sg:address":"1300 32nd Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 9577",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nP7fmsikdNzN4lnuT4PpK_48.201786_-101.312339@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295730,
+    "wof:geomhash":"fd8276b76fb0912e1cacd8cbd5b5985b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873662961
+        }
+    ],
+    "wof:id":873662961,
+    "wof:lastmodified":1464295730,
+    "wof:name":"Investors Management & Mktg",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.312339,
+    48.201786,
+    -101.312339,
+    48.201786
+],
+  "geometry": {"coordinates":[-101.31233899999999,48.201786],"type":"Point"}
+}

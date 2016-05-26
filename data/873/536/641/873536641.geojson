@@ -1,0 +1,71 @@
+{
+  "id": 873536641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.304963,48.268884,-101.304963,48.268884",
+    "geom:latitude":48.268884,
+    "geom:longitude":-101.304963,
+    "iso:country":"US",
+    "sg:address":"529 30th Ave NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 0634",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "cabinet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cp2UO0f10TTAueNZUwP0I_48.268884_-101.304963@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294221,
+    "wof:geomhash":"d6efa55ad0ffe876d7d4acc5d7983ffe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873536641
+        }
+    ],
+    "wof:id":873536641,
+    "wof:lastmodified":1464294221,
+    "wof:name":"Cliff's Custom Cabinets",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cabinet"
+    ]
+},
+  "bbox": [
+    -101.304963,
+    48.268884,
+    -101.304963,
+    48.268884
+],
+  "geometry": {"coordinates":[-101.304963,48.268884],"type":"Point"}
+}

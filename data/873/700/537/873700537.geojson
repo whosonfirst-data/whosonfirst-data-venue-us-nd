@@ -1,0 +1,66 @@
+{
+  "id": 873700537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.036006,47.890229,-97.036006,47.890229",
+    "geom:latitude":47.890229,
+    "geom:longitude":-97.036006,
+    "iso:country":"US",
+    "sg:address":"3000 Cherry St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 2265",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HCFAgZmuqxH6yN66oiqMb_47.890229_-97.036006@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296412,
+    "wof:geomhash":"52ed4bdf021ebaf532455b3d1bdedce5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873700537
+        }
+    ],
+    "wof:id":873700537,
+    "wof:lastmodified":1464296412,
+    "wof:name":"J Nelson Kelly Elementary Schl",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.036006,
+    47.890229,
+    -97.036006,
+    47.890229
+],
+  "geometry": {"coordinates":[-97.036006,47.890229],"type":"Point"}
+}

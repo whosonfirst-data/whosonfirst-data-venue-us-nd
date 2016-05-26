@@ -1,0 +1,75 @@
+{
+  "id": 873728965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.284522,48.238972,-101.284522,48.238972",
+    "geom:latitude":48.238972,
+    "geom:longitude":-101.284522,
+    "iso:country":"US",
+    "sg:address":"323 6th St NE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 2263",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "house",
+        "construct",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OQN0vzA3CBxKd8bWxfLCQ_48.238972_-101.284522@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296767,
+    "wof:geomhash":"5d200284aff822a37ff0df5793717e82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873728965
+        }
+    ],
+    "wof:id":873728965,
+    "wof:lastmodified":1464296767,
+    "wof:name":"Liberty Construction",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "construct",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.284522,
+    48.238972,
+    -101.284522,
+    48.238972
+],
+  "geometry": {"coordinates":[-101.284522,48.238972],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873743587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.266076,48.21797,-101.266076,48.21797",
+    "geom:latitude":48.21797,
+    "geom:longitude":-101.266076,
+    "iso:country":"US",
+    "sg:address":"1611 18th St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 9555",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EH7fpleWzRJ5zi15mE7Ts_48.217970_-101.266076@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296981,
+    "wof:geomhash":"2c8c98d5e3fdccc9d270fa3fde2b78a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873743587
+        }
+    ],
+    "wof:id":873743587,
+    "wof:lastmodified":1464296981,
+    "wof:name":"Boyce's Plumbing & Heating",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.266076,
+    48.21797,
+    -101.266076,
+    48.21797
+],
+  "geometry": {"coordinates":[-101.266076,48.21797],"type":"Point"}
+}

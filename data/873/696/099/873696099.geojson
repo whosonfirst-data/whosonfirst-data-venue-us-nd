@@ -1,0 +1,75 @@
+{
+  "id": 873696099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.803698,46.866977,-96.803698,46.866977",
+    "geom:latitude":46.866977,
+    "geom:longitude":-96.803698,
+    "iso:country":"US",
+    "sg:address":"716 15th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 1457",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yYieqrbRkyWfMKjTW7E6c_46.866977_-96.803698@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296367,
+    "wof:geomhash":"644e2f952b1427fe54ac924ff8850dce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873696099
+        }
+    ],
+    "wof:id":873696099,
+    "wof:lastmodified":1464296367,
+    "wof:name":"Soup Cellar",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -96.803698,
+    46.866977,
+    -96.803698,
+    46.866977
+],
+  "geometry": {"coordinates":[-96.803698,46.866977],"type":"Point"}
+}

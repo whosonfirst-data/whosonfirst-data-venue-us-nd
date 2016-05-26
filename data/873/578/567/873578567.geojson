@@ -1,0 +1,71 @@
+{
+  "id": 873578567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.041827,47.913247,-97.041827,47.913247",
+    "geom:latitude":47.913247,
+    "geom:longitude":-97.041827,
+    "iso:country":"US",
+    "sg:address":"823 S 11th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 8857",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SPHI9euHixbyKExK0t4t0_47.913247_-97.041827@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294700,
+    "wof:geomhash":"3946eff440f004b3a7e804ea065a1066",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873578567
+        }
+    ],
+    "wof:id":873578567,
+    "wof:lastmodified":1464294700,
+    "wof:name":"Michael Fennell",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -97.041827,
+    47.913247,
+    -97.041827,
+    47.913247
+],
+  "geometry": {"coordinates":[-97.041827,47.913247],"type":"Point"}
+}

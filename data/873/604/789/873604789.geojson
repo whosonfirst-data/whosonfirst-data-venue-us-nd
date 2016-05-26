@@ -1,0 +1,73 @@
+{
+  "id": 873604789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.063237,47.93316,-97.063237,47.93316",
+    "geom:latitude":47.93316,
+    "geom:longitude":-97.063237,
+    "iso:country":"US",
+    "sg:address":"2310 Gateway Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 9554",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "model",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ahqhy4fMkpEePJvzsjxnw_47.933160_-97.063237@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295037,
+    "wof:geomhash":"c3bf82001a8a52dcc32ae0ceed30bdd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873604789
+        }
+    ],
+    "wof:id":873604789,
+    "wof:lastmodified":1464295037,
+    "wof:name":"Gateway Sports Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "model",
+        "supply"
+    ]
+},
+  "bbox": [
+    -97.063237,
+    47.93316,
+    -97.063237,
+    47.93316
+],
+  "geometry": {"coordinates":[-97.063237,47.93316],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873698959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.06965,47.903481,-97.06965,47.903481",
+    "geom:latitude":47.903481,
+    "geom:longitude":-97.06965,
+    "iso:country":"US",
+    "sg:address":"2200 S 29th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 738 2630",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kXQh5XUKYcHKVdDfPnRda_47.903481_-97.069650@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296393,
+    "wof:geomhash":"2d9b221295afdbaec1b995eb1eacf29c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873698959
+        }
+    ],
+    "wof:id":873698959,
+    "wof:lastmodified":1464296393,
+    "wof:name":"Vision Systems",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.06965,
+    47.903481,
+    -97.06965,
+    47.903481
+],
+  "geometry": {"coordinates":[-97.06965,47.903481],"type":"Point"}
+}

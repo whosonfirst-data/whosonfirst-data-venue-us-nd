@@ -1,0 +1,58 @@
+{
+  "id": 873712641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.786728,46.875852,-96.786728,46.875852",
+    "geom:latitude":46.875852,
+    "geom:longitude":-96.786728,
+    "iso:country":"US",
+    "sg:address":"502 Np Ave",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 7500",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3B2aSENG22diu4PeBDuS74_46.875852_-96.786728@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296552,
+    "wof:geomhash":"d447913d72b218d6cc4577e4e7650fb2",
+    "wof:hierarchy":[],
+    "wof:id":873712641,
+    "wof:lastmodified":1464296552,
+    "wof:name":"Metro Area Transit",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -96.786728,
+    46.875852,
+    -96.786728,
+    46.875852
+],
+  "geometry": {"coordinates":[-96.786728,46.875852],"type":"Point"}
+}

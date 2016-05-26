@@ -1,0 +1,77 @@
+{
+  "id": 873760607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.794349,46.794139,-100.794349,46.794139",
+    "geom:latitude":46.794139,
+    "geom:longitude":-100.794349,
+    "iso:country":"US",
+    "sg:address":"1035 S Washington St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 0100",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "mortgage",
+        "loan",
+        "broker",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2N49MnZT9GKoiX8k0he413_46.794139_-100.794349@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297214,
+    "wof:geomhash":"71bd9c01756c77320d6e1c96c78ad765",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873760607
+        }
+    ],
+    "wof:id":873760607,
+    "wof:lastmodified":1464297214,
+    "wof:name":"America's Home Loans",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mortgage",
+        "loan",
+        "broker",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -100.794349,
+    46.794139,
+    -100.794349,
+    46.794139
+],
+  "geometry": {"coordinates":[-100.794349,46.794139],"type":"Point"}
+}

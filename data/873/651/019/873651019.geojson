@@ -1,0 +1,71 @@
+{
+  "id": 873651019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.229636,48.229076,-101.229636,48.229076",
+    "geom:latitude":48.229076,
+    "geom:longitude":-101.229636,
+    "iso:country":"US",
+    "sg:address":"4220 Burdick Expy E",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 8455",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15ym4zws1sBlVMp5iYXbZ3_48.229076_-101.229636@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295598,
+    "wof:geomhash":"18bcf14e2c9d0ba7dba2e9d9643e8307",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873651019
+        }
+    ],
+    "wof:id":873651019,
+    "wof:lastmodified":1464295598,
+    "wof:name":"Midland Diesel Svc",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine"
+    ]
+},
+  "bbox": [
+    -101.229636,
+    48.229076,
+    -101.229636,
+    48.229076
+],
+  "geometry": {"coordinates":[-101.229636,48.229076],"type":"Point"}
+}

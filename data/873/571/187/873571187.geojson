@@ -1,0 +1,71 @@
+{
+  "id": 873571187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.831415,46.864659,-96.831415,46.864659",
+    "geom:latitude":46.864659,
+    "geom:longitude":-96.831415,
+    "iso:country":"US",
+    "sg:address":"1126 Westrac Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 234 0207",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:website":"www.trustserve.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31yMh57pV6inLnJi890lKZ_46.864659_-96.831415@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294622,
+    "wof:geomhash":"de07fd2e060c82d421bfc9f50c70b1f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873571187
+        }
+    ],
+    "wof:id":873571187,
+    "wof:lastmodified":1464294622,
+    "wof:name":"Frontier Trust Co",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.831415,
+    46.864659,
+    -96.831415,
+    46.864659
+],
+  "geometry": {"coordinates":[-96.83141500000001,46.864659],"type":"Point"}
+}

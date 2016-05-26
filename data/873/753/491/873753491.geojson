@@ -1,0 +1,71 @@
+{
+  "id": 873753491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.292962,48.235537,-101.292962,48.235537",
+    "geom:latitude":48.235537,
+    "geom:longitude":-101.292962,
+    "iso:country":"US",
+    "sg:address":"123 Main St S",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 5205",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BfJczsJSfjxKqmWpDbv3J_48.235537_-101.292962@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297127,
+    "wof:geomhash":"7b5124a7efd2a68eaab21390774fa50d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873753491
+        }
+    ],
+    "wof:id":873753491,
+    "wof:lastmodified":1464297127,
+    "wof:name":"United Pantry",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -101.292962,
+    48.235537,
+    -101.292962,
+    48.235537
+],
+  "geometry": {"coordinates":[-101.292962,48.235537],"type":"Point"}
+}

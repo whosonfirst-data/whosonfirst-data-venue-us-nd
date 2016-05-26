@@ -1,0 +1,75 @@
+{
+  "id": 873600577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.050046,47.916337,-97.050046,47.916337",
+    "geom:latitude":47.916337,
+    "geom:longitude":-97.050046,
+    "iso:country":"US",
+    "sg:address":"1501 Demers Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 738 0750",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4abcpTFybZr34gxsEqSZnQ_47.916337_-97.050046@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294993,
+    "wof:geomhash":"c6cdfd8071ca71267ff4da67e900aee9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873600577
+        }
+    ],
+    "wof:id":873600577,
+    "wof:lastmodified":1464294993,
+    "wof:name":"Express Auto Glass & Repair",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "plate"
+    ]
+},
+  "bbox": [
+    -97.050046,
+    47.916337,
+    -97.050046,
+    47.916337
+],
+  "geometry": {"coordinates":[-97.05004599999999,47.916337],"type":"Point"}
+}

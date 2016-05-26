@@ -1,0 +1,77 @@
+{
+  "id": 873593657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.044917,47.922136,-97.044917,47.922136",
+    "geom:latitude":47.922136,
+    "geom:longitude":-97.044917,
+    "iso:country":"US",
+    "sg:address":"210 N Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 9400",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "body",
+        "shop",
+        "painting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Jy0IdGdCAogzXSbJt0JYI_47.922136_-97.044917@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294878,
+    "wof:geomhash":"c493929465526d2494d62562b8ce53ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873593657
+        }
+    ],
+    "wof:id":873593657,
+    "wof:lastmodified":1464294878,
+    "wof:name":"Quality Auto Body & Glass",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "painting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -97.044917,
+    47.922136,
+    -97.044917,
+    47.922136
+],
+  "geometry": {"coordinates":[-97.044917,47.922136],"type":"Point"}
+}

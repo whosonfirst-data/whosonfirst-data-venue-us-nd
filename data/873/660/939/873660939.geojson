@@ -1,0 +1,71 @@
+{
+  "id": 873660939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.028862,47.915278,-97.028862,47.915278",
+    "geom:latitude":47.915278,
+    "geom:longitude":-97.028862,
+    "iso:country":"US",
+    "sg:address":"514 Belmont Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 9771",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "communication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_514S4FB4vbjRVORMAuxrHX_47.915278_-97.028862@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295707,
+    "wof:geomhash":"ff46d383e8da925f1fad6b193b3c922b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873660939
+        }
+    ],
+    "wof:id":873660939,
+    "wof:lastmodified":1464295707,
+    "wof:name":"Boehle Communications",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication"
+    ]
+},
+  "bbox": [
+    -97.028862,
+    47.915278,
+    -97.028862,
+    47.915278
+],
+  "geometry": {"coordinates":[-97.028862,47.915278],"type":"Point"}
+}

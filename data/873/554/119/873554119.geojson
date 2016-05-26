@@ -1,0 +1,75 @@
+{
+  "id": 873554119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.821146,46.873395,-96.821146,46.873395",
+    "geom:latitude":46.873395,
+    "geom:longitude":-96.821146,
+    "iso:country":"US",
+    "sg:address":"212 27th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 237 3845",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3R4mma2SK3xkPQyp1h0q8x_46.873395_-96.821146@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294423,
+    "wof:geomhash":"c1ca12781890ce8a7205f1531ceb3f03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873554119
+        }
+    ],
+    "wof:id":873554119,
+    "wof:lastmodified":1464294423,
+    "wof:name":"Valley Sandblast & Paint",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.821146,
+    46.873395,
+    -96.821146,
+    46.873395
+],
+  "geometry": {"coordinates":[-96.821146,46.873395],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873647981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.623615,48.00516,-97.623615,48.00516",
+    "geom:latitude":48.00516,
+    "geom:longitude":-97.623615,
+    "iso:country":"US",
+    "sg:address":"2264 37th St NE",
+    "sg:city":"Larimore",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 343 2987",
+    "sg:postcode":"58251",
+    "sg:province":"ND",
+    "sg:tags":[
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11Y4d71wZWUqI9gbyuQKXu_48.005160_-97.623615@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295566,
+    "wof:geomhash":"88aa4beea930b3ac7b5c889980cebd9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873647981
+        }
+    ],
+    "wof:id":873647981,
+    "wof:lastmodified":1464295566,
+    "wof:name":"Larimore Self Storage",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -97.623615,
+    48.00516,
+    -97.623615,
+    48.00516
+],
+  "geometry": {"coordinates":[-97.623615,48.00516],"type":"Point"}
+}

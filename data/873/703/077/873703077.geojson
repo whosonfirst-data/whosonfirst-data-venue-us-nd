@@ -1,0 +1,78 @@
+{
+  "id": 873703077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.831291,46.861725,-96.831291,46.861725",
+    "geom:latitude":46.861725,
+    "geom:longitude":-96.831291,
+    "iso:country":"US",
+    "sg:address":"3211 13th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 6125",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "exercise"
+    ],
+    "sg:website":"www.pushpedalpull.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6l3XGW2eurrgSh7x2SNdbz_46.861725_-96.831291@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296436,
+    "wof:geomhash":"a043daddbe42477912010948c198b937",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873703077
+        }
+    ],
+    "wof:id":873703077,
+    "wof:lastmodified":1464296436,
+    "wof:name":"Push Pedal Pull 10",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "exercise"
+    ]
+},
+  "bbox": [
+    -96.831291,
+    46.861725,
+    -96.831291,
+    46.861725
+],
+  "geometry": {"coordinates":[-96.83129099999999,46.861725],"type":"Point"}
+}

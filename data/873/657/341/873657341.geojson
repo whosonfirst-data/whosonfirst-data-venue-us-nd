@@ -1,0 +1,71 @@
+{
+  "id": 873657341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.623722,47.905243,-97.623722,47.905243",
+    "geom:latitude":47.905243,
+    "geom:longitude":-97.623722,
+    "iso:country":"US",
+    "sg:address":"201 Towner Ave",
+    "sg:city":"Larimore",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 7800",
+    "sg:postcode":"58251",
+    "sg:province":"ND",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yeoulUkj8jBEKZlAsC6z1_47.905243_-97.623722@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295671,
+    "wof:geomhash":"fb214d0081ae9d60f32a8881ad562a61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873657341
+        }
+    ],
+    "wof:id":873657341,
+    "wof:lastmodified":1464295671,
+    "wof:name":"Brose Photography",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -97.623722,
+    47.905243,
+    -97.623722,
+    47.905243
+],
+  "geometry": {"coordinates":[-97.623722,47.905243],"type":"Point"}
+}

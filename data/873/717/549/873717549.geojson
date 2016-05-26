@@ -1,0 +1,71 @@
+{
+  "id": 873717549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.073054,46.71652,-97.073054,46.71652",
+    "geom:latitude":46.71652,
+    "geom:longitude":-97.073054,
+    "iso:country":"US",
+    "sg:address":"340 Main St",
+    "sg:city":"Davenport",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 428 9108",
+    "sg:postcode":"58021",
+    "sg:province":"ND",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UkqEiDMTMo1a8E9qGnovF_46.716520_-97.073054@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296615,
+    "wof:geomhash":"845858d6eda864748a238c248b5df43b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873717549
+        }
+    ],
+    "wof:id":873717549,
+    "wof:lastmodified":1464296615,
+    "wof:name":"Northern Plains Environmental",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -97.073054,
+    46.71652,
+    -97.073054,
+    46.71652
+],
+  "geometry": {"coordinates":[-97.073054,46.71652],"type":"Point"}
+}

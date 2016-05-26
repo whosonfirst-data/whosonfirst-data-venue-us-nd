@@ -1,0 +1,66 @@
+{
+  "id": 873769211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.528462,47.157507,-100.528462,47.157507",
+    "geom:latitude":47.157507,
+    "geom:longitude":-100.528462,
+    "iso:country":"US",
+    "sg:address":"35 Main St N",
+    "sg:city":"Regan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 286 6383",
+    "sg:postcode":"58477",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NpJQ2ZXMKwqm5Kkx1tjuj_47.157507_-100.528462@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297352,
+    "wof:geomhash":"e1f28eae3435a8193be9812d2c7933ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873769211
+        }
+    ],
+    "wof:id":873769211,
+    "wof:lastmodified":1464297352,
+    "wof:name":"Regan Post Office",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.528462,
+    47.157507,
+    -100.528462,
+    47.157507
+],
+  "geometry": {"coordinates":[-100.528462,47.157507],"type":"Point"}
+}

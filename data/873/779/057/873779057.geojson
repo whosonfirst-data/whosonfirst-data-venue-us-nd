@@ -1,0 +1,81 @@
+{
+  "id": 873779057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.300897,48.196627,-101.300897,48.196627",
+    "geom:latitude":48.196627,
+    "geom:longitude":-101.300897,
+    "iso:country":"US",
+    "sg:address":"524 37th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 3566",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "specializing",
+        "sheet",
+        "work",
+        "metal",
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34rJsXbHR8JK0BIMV8Tz2n_48.196627_-101.300897@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297477,
+    "wof:geomhash":"b5e42d92d22a82b9baa6d654e59333ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873779057
+        }
+    ],
+    "wof:id":873779057,
+    "wof:lastmodified":1464297477,
+    "wof:name":"Minot Heating & Sheet Metal",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specializing",
+        "sheet",
+        "work",
+        "metal",
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.300897,
+    48.196627,
+    -101.300897,
+    48.196627
+],
+  "geometry": {"coordinates":[-101.30089700000001,48.196627],"type":"Point"}
+}

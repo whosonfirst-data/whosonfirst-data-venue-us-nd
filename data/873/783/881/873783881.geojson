@@ -1,0 +1,67 @@
+{
+  "id": 873783881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.758623,46.809559,-100.758623,46.809559",
+    "geom:latitude":46.809559,
+    "geom:longitude":-100.758623,
+    "iso:country":"US",
+    "sg:address":"617 N 22nd St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 6262",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "wheat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0taZ7vK7IQEVxn5Kb5KTAV_46.809559_-100.758623@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297542,
+    "wof:geomhash":"4aa1ad4fa0eff9e0a83e86927c870d87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873783881
+        }
+    ],
+    "wof:id":873783881,
+    "wof:lastmodified":1464297542,
+    "wof:name":"Greg Carkuff",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "wheat"
+    ]
+},
+  "bbox": [
+    -100.758623,
+    46.809559,
+    -100.758623,
+    46.809559
+],
+  "geometry": {"coordinates":[-100.758623,46.809559],"type":"Point"}
+}

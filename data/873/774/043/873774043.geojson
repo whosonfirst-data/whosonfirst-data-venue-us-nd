@@ -1,0 +1,66 @@
+{
+  "id": 873774043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.069653,47.889529,-97.069653,47.889529",
+    "geom:latitude":47.889529,
+    "geom:longitude":-97.069653,
+    "iso:country":"US",
+    "sg:address":"3100 32nd Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 5620",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kIZtK5LbxZTw60RNdUN8y_47.889529_-97.069653@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297413,
+    "wof:geomhash":"04a6160b087721175488a0a10ca0c730",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873774043
+        }
+    ],
+    "wof:id":873774043,
+    "wof:lastmodified":1464297413,
+    "wof:name":"Columbia 4 Theatre",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.069653,
+    47.889529,
+    -97.069653,
+    47.889529
+],
+  "geometry": {"coordinates":[-97.069653,47.889529],"type":"Point"}
+}

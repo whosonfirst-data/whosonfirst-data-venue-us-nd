@@ -1,0 +1,66 @@
+{
+  "id": 873621863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.029137,47.887595,-97.029137,47.887595",
+    "geom:latitude":47.887595,
+    "geom:longitude":-97.029137,
+    "iso:country":"US",
+    "sg:address":"3214 Belmont Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 5424",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jrbfGLirA51Hd2lwgCFRj_47.887595_-97.029137@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295269,
+    "wof:geomhash":"66358f4954a2a3b7adc777e5261ccc5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873621863
+        }
+    ],
+    "wof:id":873621863,
+    "wof:lastmodified":1464295269,
+    "wof:name":"North Dakota Federation O",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.029137,
+    47.887595,
+    -97.029137,
+    47.887595
+],
+  "geometry": {"coordinates":[-97.02913700000001,47.887595],"type":"Point"}
+}

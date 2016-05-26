@@ -1,0 +1,66 @@
+{
+  "id": 873718761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.321306,48.222932,-101.321306,48.222932",
+    "geom:latitude":48.222932,
+    "geom:longitude":-101.321306,
+    "iso:country":"US",
+    "sg:address":"2005 Burdick Expy W",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Race Track",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 6464",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BiAilwT8bjCcTF0a40dxb_48.222932_-101.321306@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296629,
+    "wof:geomhash":"d8b3b6c622fdbd99d7299e26fce73cb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873718761
+        }
+    ],
+    "wof:id":873718761,
+    "wof:lastmodified":1464296629,
+    "wof:name":"Nodak Speedway",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.321306,
+    48.222932,
+    -101.321306,
+    48.222932
+],
+  "geometry": {"coordinates":[-101.32130600000001,48.222932],"type":"Point"}
+}

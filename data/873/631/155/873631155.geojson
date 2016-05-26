@@ -1,0 +1,73 @@
+{
+  "id": 873631155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.287173,46.80779,-100.287173,46.80779",
+    "geom:latitude":46.80779,
+    "geom:longitude":-100.287173,
+    "iso:country":"US",
+    "sg:address":"31541 5th Ave NE",
+    "sg:city":"Sterling",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 387 4554",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "cartage",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sDkOTW7G3sSsFsP3rFd2h_46.807790_-100.287173@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295376,
+    "wof:geomhash":"c502d57fa63908ca8e5085530c6c0a93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873631155
+        }
+    ],
+    "wof:id":873631155,
+    "wof:lastmodified":1464295376,
+    "wof:name":"B & K Trucking",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cartage",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -100.287173,
+    46.80779,
+    -100.287173,
+    46.80779
+],
+  "geometry": {"coordinates":[-100.287173,46.80779],"type":"Point"}
+}

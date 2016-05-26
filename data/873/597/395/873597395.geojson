@@ -1,0 +1,77 @@
+{
+  "id": 873597395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.821299,46.863574,-96.821299,46.863574",
+    "geom:latitude":46.863574,
+    "geom:longitude":-96.821299,
+    "iso:country":"US",
+    "sg:address":"2631 12th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 298 0065",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BEOv00nuR0E1NAO3CMoHV_46.863574_-96.821299@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294952,
+    "wof:geomhash":"09ae242b02b03b746fb7aad69e9f6494",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873597395
+        }
+    ],
+    "wof:id":873597395,
+    "wof:lastmodified":1464294952,
+    "wof:name":"Lordex Spine Institute",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -96.821299,
+    46.863574,
+    -96.821299,
+    46.863574
+],
+  "geometry": {"coordinates":[-96.821299,46.863574],"type":"Point"}
+}

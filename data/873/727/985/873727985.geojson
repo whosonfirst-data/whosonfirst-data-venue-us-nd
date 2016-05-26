@@ -1,0 +1,75 @@
+{
+  "id": 873727985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.810347,46.870508,-96.810347,46.870508",
+    "geom:latitude":46.870508,
+    "geom:longitude":-96.810347,
+    "iso:country":"US",
+    "sg:address":"417 18th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 2187",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_488IKHbADETkGMoisfK8CO_46.870508_-96.810347@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296754,
+    "wof:geomhash":"5195ddc44c3f19ad5889cc42e0258023",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873727985
+        }
+    ],
+    "wof:id":873727985,
+    "wof:lastmodified":1464296754,
+    "wof:name":"Harry Gilbertson",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -96.810347,
+    46.870508,
+    -96.810347,
+    46.870508
+],
+  "geometry": {"coordinates":[-96.81034699999999,46.870508],"type":"Point"}
+}

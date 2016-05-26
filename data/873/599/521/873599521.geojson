@@ -1,0 +1,74 @@
+{
+  "id": 873599521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.06796,47.93498,-97.06796,47.93498",
+    "geom:latitude":47.93498,
+    "geom:longitude":-97.06796,
+    "iso:country":"US",
+    "sg:address":"2719 Valley Cir",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 5547",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "sg:website":"www.aggregate.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79FksF99AinRTMfhnWnx5h_47.934980_-97.067960@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294982,
+    "wof:geomhash":"1df00e6e888384132b0ac99de75c6768",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873599521
+        }
+    ],
+    "wof:id":873599521,
+    "wof:lastmodified":1464294982,
+    "wof:name":"Aggregate Industries",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.06796,
+    47.93498,
+    -97.06796,
+    47.93498
+],
+  "geometry": {"coordinates":[-97.06796,47.93498],"type":"Point"}
+}

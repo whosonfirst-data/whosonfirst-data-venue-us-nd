@@ -1,0 +1,71 @@
+{
+  "id": 873553215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.070716,47.923191,-97.070716,47.923191",
+    "geom:latitude":47.923191,
+    "geom:longitude":-97.070716,
+    "iso:country":"US",
+    "sg:address":"409 Cambridge St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 777 7067",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "sorority"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0egY5kgSv546T2hp1qM8tO_47.923191_-97.070716@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294414,
+    "wof:geomhash":"7923b39a1e4072bb8ef5a5613342c12e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873553215
+        }
+    ],
+    "wof:id":873553215,
+    "wof:lastmodified":1464294414,
+    "wof:name":"Phi Beta Phi",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sorority"
+    ]
+},
+  "bbox": [
+    -97.070716,
+    47.923191,
+    -97.070716,
+    47.923191
+],
+  "geometry": {"coordinates":[-97.070716,47.923191],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873711125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.798458,46.859612,-96.798458,46.859612",
+    "geom:latitude":46.859612,
+    "geom:longitude":-96.798458,
+    "iso:country":"US",
+    "sg:address":"1435 S University Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 478 1772",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "spa",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534479,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hh5Oq9vMKE0KK2xJAHj6I_46.859612_-96.798458@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296534,
+    "wof:geomhash":"153dab2793c41daf11a20b30971cf10b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534479,
+            "region_id":85688525,
+            "venue_id":873711125
+        }
+    ],
+    "wof:id":873711125,
+    "wof:lastmodified":1464296534,
+    "wof:name":"Spa School Admissions",
+    "wof:parent_id":420534479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spa",
+        "health"
+    ]
+},
+  "bbox": [
+    -96.798458,
+    46.859612,
+    -96.798458,
+    46.859612
+],
+  "geometry": {"coordinates":[-96.798458,46.859612],"type":"Point"}
+}

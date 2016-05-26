@@ -1,0 +1,66 @@
+{
+  "id": 873724711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.412102,46.823685,-100.412102,46.823685",
+    "geom:latitude":46.823685,
+    "geom:longitude":-100.412102,
+    "iso:country":"US",
+    "sg:address":"207 A St",
+    "sg:city":"Mc Kenzie",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 673 3136",
+    "sg:postcode":"58558",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Xb34zJZqThJzGR2MDxPNJ_46.823685_-100.412102@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296709,
+    "wof:geomhash":"20a8c14bcc54bf60e1b659d028b1152f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873724711
+        }
+    ],
+    "wof:id":873724711,
+    "wof:lastmodified":1464296709,
+    "wof:name":"Mc Kenzie Elementary School",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.412102,
+    46.823685,
+    -100.412102,
+    46.823685
+],
+  "geometry": {"coordinates":[-100.412102,46.823685],"type":"Point"}
+}

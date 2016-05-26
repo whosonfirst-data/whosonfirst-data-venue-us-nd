@@ -1,0 +1,71 @@
+{
+  "id": 873556233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.041828,47.913141,-97.041828,47.913141",
+    "geom:latitude":47.913141,
+    "geom:longitude":-97.041828,
+    "iso:country":"US",
+    "sg:address":"813 S 11th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 3814",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4a0ig75MofpCjoZcGIa3El_47.913141_-97.041828@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294451,
+    "wof:geomhash":"1778cfe76e978377e21182ff0d7e0cd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873556233
+        }
+    ],
+    "wof:id":873556233,
+    "wof:lastmodified":1464294451,
+    "wof:name":"Calvary United Pentecostal Chr",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -97.041828,
+    47.913141,
+    -97.041828,
+    47.913141
+],
+  "geometry": {"coordinates":[-97.041828,47.913141],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873548833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.028621,47.920647,-97.028621,47.920647",
+    "geom:latitude":47.920647,
+    "geom:longitude":-97.028621,
+    "iso:country":"US",
+    "sg:address":"118 Belmont Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 0704",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZlupOgsgG56tpS8BL7UnY_47.920647_-97.028621@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294365,
+    "wof:geomhash":"c66f298365978e0da041d2892f5d6698",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873548833
+        }
+    ],
+    "wof:id":873548833,
+    "wof:lastmodified":1464294365,
+    "wof:name":"Easter Seals Goodwill ND Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -97.028621,
+    47.920647,
+    -97.028621,
+    47.920647
+],
+  "geometry": {"coordinates":[-97.028621,47.920647],"type":"Point"}
+}

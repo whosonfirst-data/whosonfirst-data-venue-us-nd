@@ -1,0 +1,81 @@
+{
+  "id": 873708397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.53538,48.372099,-101.53538,48.372099",
+    "geom:latitude":48.372099,
+    "geom:longitude":-101.53538,
+    "iso:country":"US",
+    "sg:address":"15302 128th Ave NW",
+    "sg:city":"Berthold",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 468 5637",
+    "sg:postcode":"58718",
+    "sg:province":"ND",
+    "sg:tags":[
+        "lessor",
+        "farm",
+        "cash",
+        "dairy",
+        "grain",
+        "property"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gTBzG64ece4S3XgyH9LLI_48.372099_-101.535380@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296500,
+    "wof:geomhash":"cc2f1e94b1f4155e7b3b8c8c271e87e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873708397
+        }
+    ],
+    "wof:id":873708397,
+    "wof:lastmodified":1464296500,
+    "wof:name":"Larry Hauser",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lessor",
+        "farm",
+        "cash",
+        "dairy",
+        "grain",
+        "property"
+    ]
+},
+  "bbox": [
+    -101.53538,
+    48.372099,
+    -101.53538,
+    48.372099
+],
+  "geometry": {"coordinates":[-101.53538,48.372099],"type":"Point"}
+}

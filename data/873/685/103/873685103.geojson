@@ -1,0 +1,72 @@
+{
+  "id": 873685103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.308064,48.235229,-101.308064,48.235229",
+    "geom:latitude":48.235229,
+    "geom:longitude":-101.308064,
+    "iso:country":"US",
+    "sg:address":"100 10th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 0189",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "taping"
+    ],
+    "sg:website":"www.evision-video.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mt5X5ZreVeeBO539ulf5J_48.235229_-101.308064@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296140,
+    "wof:geomhash":"575fe0c2e728027054f5819868f98f99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873685103
+        }
+    ],
+    "wof:id":873685103,
+    "wof:lastmodified":1464296140,
+    "wof:name":"E-Vision",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taping"
+    ]
+},
+  "bbox": [
+    -101.308064,
+    48.235229,
+    -101.308064,
+    48.235229
+],
+  "geometry": {"coordinates":[-101.308064,48.235229],"type":"Point"}
+}

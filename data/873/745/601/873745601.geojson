@@ -1,0 +1,71 @@
+{
+  "id": 873745601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.030734,47.894056,-97.030734,47.894056",
+    "geom:latitude":47.894056,
+    "geom:longitude":-97.030734,
+    "iso:country":"US",
+    "sg:address":"2502 Chestnut St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 780 9076",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60gnI7lOVyYohrTBA2v6qK_47.894056_-97.030734@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297020,
+    "wof:geomhash":"82a4b0081d7d85e0d4bdbab8388741ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873745601
+        }
+    ],
+    "wof:id":873745601,
+    "wof:lastmodified":1464297020,
+    "wof:name":"Jerry C Braaten Antiques",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -97.030734,
+    47.894056,
+    -97.030734,
+    47.894056
+],
+  "geometry": {"coordinates":[-97.030734,47.894056],"type":"Point"}
+}

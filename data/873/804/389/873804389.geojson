@@ -1,0 +1,77 @@
+{
+  "id": 873804389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.824726,46.866488,-96.824726,46.866488",
+    "geom:latitude":46.866488,
+    "geom:longitude":-96.824726,
+    "iso:country":"US",
+    "sg:address":"827 28th St S Ste C",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 6653",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "commercial",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0b9xEOviOsz3p110buhVsY_46.866488_-96.824726@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297827,
+    "wof:geomhash":"d94a4b4e4fa45774386da731822570ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873804389
+        }
+    ],
+    "wof:id":873804389,
+    "wof:lastmodified":1464297827,
+    "wof:name":"Surety Mutual Life & Casualty Insurance Company",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "business"
+    ]
+},
+  "bbox": [
+    -96.824726,
+    46.866488,
+    -96.824726,
+    46.866488
+],
+  "geometry": {"coordinates":[-96.824726,46.866488],"type":"Point"}
+}

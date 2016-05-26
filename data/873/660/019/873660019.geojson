@@ -1,0 +1,66 @@
+{
+  "id": 873660019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.108628,47.932917,-97.108628,47.932917",
+    "geom:latitude":47.932917,
+    "geom:longitude":-97.108628,
+    "iso:country":"US",
+    "sg:address":"5205 Gateway Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 8499",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OEbPxFUvTznXcj4uzdTlW_47.932917_-97.108628@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295698,
+    "wof:geomhash":"383d1638a4bda9fa4e023c92e65e71de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873660019
+        }
+    ],
+    "wof:id":873660019,
+    "wof:lastmodified":1464295698,
+    "wof:name":"Budget Home Furnishings",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.108628,
+    47.932917,
+    -97.108628,
+    47.932917
+],
+  "geometry": {"coordinates":[-97.108628,47.932917],"type":"Point"}
+}

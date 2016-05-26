@@ -1,0 +1,67 @@
+{
+  "id": 873785357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.777453,46.714876,-100.777453,46.714876",
+    "geom:latitude":46.714876,
+    "geom:longitude":-100.777453,
+    "iso:country":"US",
+    "sg:address":"9001 Sibley Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 6008",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "wheat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1O0L50Cg1qiVaTAASLfnTI_46.714876_-100.777453@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297560,
+    "wof:geomhash":"da92b462eb2035cb8f83c843f570cd30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873785357
+        }
+    ],
+    "wof:id":873785357,
+    "wof:lastmodified":1464297560,
+    "wof:name":"Spier Elden",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "wheat"
+    ]
+},
+  "bbox": [
+    -100.777453,
+    46.714876,
+    -100.777453,
+    46.714876
+],
+  "geometry": {"coordinates":[-100.77745299999999,46.714876],"type":"Point"}
+}

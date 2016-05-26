@@ -1,0 +1,77 @@
+{
+  "id": 873660957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.323195,48.241531,-101.323195,48.241531",
+    "geom:latitude":48.241531,
+    "geom:longitude":-101.323195,
+    "iso:country":"US",
+    "sg:address":"421 20th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 6546",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "general",
+        "nonresidential",
+        "contract",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2am0j2U8yo40StKXOPCLKW_48.241531_-101.323195@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295708,
+    "wof:geomhash":"04072404dc289600a65cd26113afcf48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873660957
+        }
+    ],
+    "wof:id":873660957,
+    "wof:lastmodified":1464295708,
+    "wof:name":"J and D Home Improvement",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "nonresidential",
+        "contract",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.323195,
+    48.241531,
+    -101.323195,
+    48.241531
+],
+  "geometry": {"coordinates":[-101.323195,48.241531],"type":"Point"}
+}

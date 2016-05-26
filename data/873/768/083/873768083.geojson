@@ -1,0 +1,71 @@
+{
+  "id": 873768083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.052351,47.913225,-97.052351,47.913225",
+    "geom:latitude":47.913225,
+    "geom:longitude":-97.052351,
+    "iso:country":"US",
+    "sg:address":"1723 9th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 9933",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qnmrVU043KPyaSZOQ3mL5_47.913225_-97.052351@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297339,
+    "wof:geomhash":"7454829947f7006a40cdfd5af60d858c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873768083
+        }
+    ],
+    "wof:id":873768083,
+    "wof:lastmodified":1464297339,
+    "wof:name":"Angels Little Daycare",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -97.052351,
+    47.913225,
+    -97.052351,
+    47.913225
+],
+  "geometry": {"coordinates":[-97.052351,47.913225],"type":"Point"}
+}

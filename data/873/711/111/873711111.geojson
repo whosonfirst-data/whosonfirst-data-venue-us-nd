@@ -1,0 +1,66 @@
+{
+  "id": 873711111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.755582,46.819448,-100.755582,46.819448",
+    "geom:latitude":46.819448,
+    "geom:longitude":-100.755582,
+    "iso:country":"US",
+    "sg:address":"1304 Crestview Ln",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 3736",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jzas02ejrnS3lgjvlxG3f_46.819448_-100.755582@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296534,
+    "wof:geomhash":"bdfa070989134156a69fe5838d02447d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873711111
+        }
+    ],
+    "wof:id":873711111,
+    "wof:lastmodified":1464296534,
+    "wof:name":"Health Wllness Prfessionals PC",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.755582,
+    46.819448,
+    -100.755582,
+    46.819448
+],
+  "geometry": {"coordinates":[-100.755582,46.819448],"type":"Point"}
+}

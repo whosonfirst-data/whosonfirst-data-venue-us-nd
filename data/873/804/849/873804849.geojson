@@ -1,0 +1,92 @@
+{
+  "id": 873804849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.840662,46.825734,-96.840662,46.825734",
+    "geom:latitude":46.825734,
+    "geom:longitude":-96.840662,
+    "iso:country":"US",
+    "sg:address":"3401 38th St S Frgo",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 5400",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "car",
+        "brake",
+        "tire",
+        "new"
+    ],
+    "sg:website":"http://www.rdotruckcenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877355,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fHjOZXjW1eHfKWog2F8pe_46.825734_-96.840662@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297833,
+    "wof:geomhash":"1c5259fd2f239ca8789fa3fb55a1f254",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877355,
+            "region_id":85688525,
+            "venue_id":873804849
+        }
+    ],
+    "wof:id":873804849,
+    "wof:lastmodified":1464297833,
+    "wof:name":"RDO Truck Center",
+    "wof:parent_id":85877355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "brake",
+        "tire",
+        "new"
+    ]
+},
+  "bbox": [
+    -96.840662,
+    46.825734,
+    -96.840662,
+    46.825734
+],
+  "geometry": {"coordinates":[-96.84066199999999,46.825734],"type":"Point"}
+}

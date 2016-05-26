@@ -1,0 +1,72 @@
+{
+  "id": 873689491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.05003,47.895724,-97.05003,47.895724",
+    "geom:latitude":47.895724,
+    "geom:longitude":-97.05003,
+    "iso:country":"US",
+    "sg:address":"1407 24th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 738 4600",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "company"
+    ],
+    "sg:website":"www.integratelecom.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4k8seZPVC9O8nLiMe1KJ6g_47.895724_-97.050030@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296260,
+    "wof:geomhash":"aa25065acc90675d543bcf68d2146452",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873689491
+        }
+    ],
+    "wof:id":873689491,
+    "wof:lastmodified":1464296260,
+    "wof:name":"Integra Telecom",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -97.05003,
+    47.895724,
+    -97.05003,
+    47.895724
+],
+  "geometry": {"coordinates":[-97.05003000000001,47.895724],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873546313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.040017,47.924052,-97.040017,47.924052",
+    "geom:latitude":47.924052,
+    "geom:longitude":-97.040017,
+    "iso:country":"US",
+    "sg:address":"310 N 8th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 5588",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "siding",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7S5yQnKsxa8fUI26sbUeia_47.924052_-97.040017@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294332,
+    "wof:geomhash":"47ad64d26ec3e1dc61009daf3cf9a38e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873546313
+        }
+    ],
+    "wof:id":873546313,
+    "wof:lastmodified":1464294332,
+    "wof:name":"5-Star Siding & Windows",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "siding",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.040017,
+    47.924052,
+    -97.040017,
+    47.924052
+],
+  "geometry": {"coordinates":[-97.04001700000001,47.924052],"type":"Point"}
+}

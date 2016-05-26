@@ -1,0 +1,78 @@
+{
+  "id": 873715281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.81269,46.831132,-96.81269,46.831132",
+    "geom:latitude":46.831132,
+    "geom:longitude":-96.81269,
+    "iso:country":"US",
+    "sg:address":"3264 20th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 6769",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "sg:website":"www.americanfenceandfab.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534487,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ahARZ6L4keHEE0YRRUYIB_46.831132_-96.812690@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296585,
+    "wof:geomhash":"f346a478cf24018605703412385d7578",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534487,
+            "region_id":85688525,
+            "venue_id":873715281
+        }
+    ],
+    "wof:id":873715281,
+    "wof:lastmodified":1464296585,
+    "wof:name":"Extant Technical Solutions",
+    "wof:parent_id":420534487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.81269,
+    46.831132,
+    -96.81269,
+    46.831132
+],
+  "geometry": {"coordinates":[-96.81269,46.831132],"type":"Point"}
+}

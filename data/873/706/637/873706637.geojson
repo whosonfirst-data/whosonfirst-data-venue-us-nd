@@ -1,0 +1,79 @@
+{
+  "id": 873706637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.825243,46.88229,-96.825243,46.88229",
+    "geom:latitude":46.88229,
+    "geom:longitude":-96.825243,
+    "iso:country":"US",
+    "sg:address":"601 29th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 3184",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "system",
+        "automation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3icKPg268TV3yocgawlfHy_46.882290_-96.825243@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296477,
+    "wof:geomhash":"597111e4d1daec3d23084858ee04621c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873706637
+        }
+    ],
+    "wof:id":873706637,
+    "wof:lastmodified":1464296477,
+    "wof:name":"Midstates Engineering Corp",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "system",
+        "automation"
+    ]
+},
+  "bbox": [
+    -96.825243,
+    46.88229,
+    -96.825243,
+    46.88229
+],
+  "geometry": {"coordinates":[-96.825243,46.88229],"type":"Point"}
+}

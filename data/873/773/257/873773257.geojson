@@ -1,0 +1,73 @@
+{
+  "id": 873773257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.718383,46.863572,-100.718383,46.863572",
+    "geom:latitude":46.863572,
+    "geom:longitude":-100.718383,
+    "iso:country":"US",
+    "sg:address":"4750 Rolling Ridge Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 4394",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4D97G0L1Y8x4HYYUXvyUzI_46.863572_-100.718383@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297404,
+    "wof:geomhash":"4471c9c40350a237c0e4cb886fa3e145",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873773257
+        }
+    ],
+    "wof:id":873773257,
+    "wof:lastmodified":1464297404,
+    "wof:name":"Pioneer Construction LLC",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -100.718383,
+    46.863572,
+    -100.718383,
+    46.863572
+],
+  "geometry": {"coordinates":[-100.718383,46.863572],"type":"Point"}
+}

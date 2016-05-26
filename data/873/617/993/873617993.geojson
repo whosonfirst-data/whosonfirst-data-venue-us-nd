@@ -1,0 +1,73 @@
+{
+  "id": 873617993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.04191,47.922318,-97.04191,47.922318",
+    "geom:latitude":47.922318,
+    "geom:longitude":-97.04191,
+    "iso:country":"US",
+    "sg:address":"1010 University Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 741 3849",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28riKauZBEkPOTCq2gOVEm_47.922318_-97.041910@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295224,
+    "wof:geomhash":"2fc0b60dd0d4665645e944d86409f65a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873617993
+        }
+    ],
+    "wof:id":873617993,
+    "wof:lastmodified":1464295224,
+    "wof:name":"Terry Larson Electric",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.04191,
+    47.922318,
+    -97.04191,
+    47.922318
+],
+  "geometry": {"coordinates":[-97.04191,47.922318],"type":"Point"}
+}

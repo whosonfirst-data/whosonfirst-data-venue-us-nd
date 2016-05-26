@@ -1,0 +1,66 @@
+{
+  "id": 873716293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.264855,48.211178,-101.264855,48.211178",
+    "geom:latitude":48.211178,
+    "geom:longitude":-101.264855,
+    "iso:country":"US",
+    "sg:address":"1925 20th Ave SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 2239",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64geeIFQ8p3btnH9GI0Tya_48.211178_-101.264855@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296597,
+    "wof:geomhash":"10c018dc074429d164726ac43d52277e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873716293
+        }
+    ],
+    "wof:id":873716293,
+    "wof:lastmodified":1464296597,
+    "wof:name":"Service Master Of Minot",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.264855,
+    48.211178,
+    -101.264855,
+    48.211178
+],
+  "geometry": {"coordinates":[-101.264855,48.211178],"type":"Point"}
+}

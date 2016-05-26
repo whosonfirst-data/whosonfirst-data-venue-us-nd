@@ -1,0 +1,80 @@
+{
+  "id": 873755725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.706347,48.003341,-97.706347,48.003341",
+    "geom:latitude":48.003341,
+    "geom:longitude":-97.706347,
+    "iso:country":"US",
+    "sg:address":"2286 McCanna St E",
+    "sg:city":"Larimore",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 397 5242",
+    "sg:postcode":"58251",
+    "sg:province":"ND",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fiy83xhTxattYLWNwqxw1_48.003341_-97.706347@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297153,
+    "wof:geomhash":"89320bccaa619e0e4ed2fd1bea479cac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873755725
+        }
+    ],
+    "wof:id":873755725,
+    "wof:lastmodified":1464297153,
+    "wof:name":"Sweeney Auto Body",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -97.706347,
+    48.003341,
+    -97.706347,
+    48.003341
+],
+  "geometry": {"coordinates":[-97.70634699999999,48.003341],"type":"Point"}
+}

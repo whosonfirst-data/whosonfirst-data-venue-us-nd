@@ -1,0 +1,71 @@
+{
+  "id": 873607611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.761162,46.827387,-100.761162,46.827387",
+    "geom:latitude":46.827387,
+    "geom:longitude":-100.761162,
+    "iso:country":"US",
+    "sg:address":"1982 N 20th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 4075",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vknSmRlnH152jGo83wNFC_46.827387_-100.761162@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295089,
+    "wof:geomhash":"7c00ae7b62d792b5fc7a2131bca6be5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873607611
+        }
+    ],
+    "wof:id":873607611,
+    "wof:lastmodified":1464295089,
+    "wof:name":"Zion Lutheran Church Parsonage",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -100.761162,
+    46.827387,
+    -100.761162,
+    46.827387
+],
+  "geometry": {"coordinates":[-100.761162,46.827387],"type":"Point"}
+}

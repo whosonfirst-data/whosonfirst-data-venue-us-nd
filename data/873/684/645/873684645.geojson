@@ -1,0 +1,75 @@
+{
+  "id": 873684645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.815464,46.868689,-96.815464,46.868689",
+    "geom:latitude":46.868689,
+    "geom:longitude":-96.815464,
+    "iso:country":"US",
+    "sg:address":"2226 6th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 239 7177",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "parole"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877331,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06zt1L9p7hlsnmVRGEj7BO_46.868689_-96.815464@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296128,
+    "wof:geomhash":"61c353eb6d2863488d15cae50be0afd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877331,
+            "region_id":85688525,
+            "venue_id":873684645
+        }
+    ],
+    "wof:id":873684645,
+    "wof:lastmodified":1464296128,
+    "wof:name":"South Cntl Fargo Satellite Off",
+    "wof:parent_id":85877331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parole"
+    ]
+},
+  "bbox": [
+    -96.815464,
+    46.868689,
+    -96.815464,
+    46.868689
+],
+  "geometry": {"coordinates":[-96.81546400000001,46.868689],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873651313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.787715,46.806564,-100.787715,46.806564",
+    "geom:latitude":46.806564,
+    "geom:longitude":-100.787715,
+    "iso:country":"US",
+    "sg:address":"206 E Broadway Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 0144",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "agency",
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4P0B0BhZBaVbg3jvP5vGIi_46.806564_-100.787715@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295600,
+    "wof:geomhash":"7f4aeca6822d7da2a4b7370b37ae08b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873651313
+        }
+    ],
+    "wof:id":873651313,
+    "wof:lastmodified":1464295600,
+    "wof:name":"Legacy Travel",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "bureau"
+    ]
+},
+  "bbox": [
+    -100.787715,
+    46.806564,
+    -100.787715,
+    46.806564
+],
+  "geometry": {"coordinates":[-100.78771500000001,46.806564],"type":"Point"}
+}

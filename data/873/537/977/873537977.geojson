@@ -1,0 +1,66 @@
+{
+  "id": 873537977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.088191,47.923164,-97.088191,47.923164",
+    "geom:latitude":47.923164,
+    "geom:longitude":-97.088191,
+    "iso:country":"US",
+    "sg:address":"425 N 42nd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 8044",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12NpwWdaV7bCy1XJLbZfSW_47.923164_-97.088191@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294238,
+    "wof:geomhash":"3e48a26d005a9928fb01e8fbf868de1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873537977
+        }
+    ],
+    "wof:id":873537977,
+    "wof:lastmodified":1464294238,
+    "wof:name":"Dagwood's Bar & Grill",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.088191,
+    47.923164,
+    -97.088191,
+    47.923164
+],
+  "geometry": {"coordinates":[-97.08819099999999,47.923164],"type":"Point"}
+}

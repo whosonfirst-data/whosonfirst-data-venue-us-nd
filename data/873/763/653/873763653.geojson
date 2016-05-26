@@ -1,0 +1,75 @@
+{
+  "id": 873763653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.03002,47.923743,-97.03002,47.923743",
+    "geom:latitude":47.923743,
+    "geom:longitude":-97.03002,
+    "iso:country":"US",
+    "sg:address":"310 Kittson Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 1150",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "sound",
+        "equipment",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26ORGEfmYrMQU5LPSgbjlz_47.923743_-97.030020@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297268,
+    "wof:geomhash":"cb5cd641775b3bde6f672c59c29b21f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873763653
+        }
+    ],
+    "wof:id":873763653,
+    "wof:lastmodified":1464297268,
+    "wof:name":"H B Sound & Light",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sound",
+        "equipment",
+        "system"
+    ]
+},
+  "bbox": [
+    -97.03002,
+    47.923743,
+    -97.03002,
+    47.923743
+],
+  "geometry": {"coordinates":[-97.03001999999999,47.923743],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873805889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.789192,46.8055,-100.789192,46.8055",
+    "geom:latitude":46.8055,
+    "geom:longitude":-100.789192,
+    "iso:country":"US",
+    "sg:address":"200 E Main Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 250 0101",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IqXuWsyWiVS2GmuVwUshV_46.805500_-100.789192@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297850,
+    "wof:geomhash":"630a5ce6fa04802693615c8977d884c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873805889
+        }
+    ],
+    "wof:id":873805889,
+    "wof:lastmodified":1464297850,
+    "wof:name":"Beth Bellin Salon",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.789192,
+    46.8055,
+    -100.789192,
+    46.8055
+],
+  "geometry": {"coordinates":[-100.789192,46.8055],"type":"Point"}
+}

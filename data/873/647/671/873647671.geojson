@@ -1,0 +1,71 @@
+{
+  "id": 873647671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.307381,48.260601,-101.307381,48.260601",
+    "geom:latitude":48.260601,
+    "geom:longitude":-101.307381,
+    "iso:country":"US",
+    "sg:address":"2206 8th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 721 8347",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "group"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RBk90lGzz52oWcfYL6izL_48.260601_-101.307381@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295563,
+    "wof:geomhash":"64ab8dfd9adb201540814a857ad9a8c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873647671
+        }
+    ],
+    "wof:id":873647671,
+    "wof:lastmodified":1464295563,
+    "wof:name":"Bill & Bill Djs",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "group"
+    ]
+},
+  "bbox": [
+    -101.307381,
+    48.260601,
+    -101.307381,
+    48.260601
+],
+  "geometry": {"coordinates":[-101.30738100000001,48.260601],"type":"Point"}
+}

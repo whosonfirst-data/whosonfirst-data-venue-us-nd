@@ -1,0 +1,77 @@
+{
+  "id": 873575083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.762752,46.797009,-100.762752,46.797009",
+    "geom:latitude":46.797009,
+    "geom:longitude":-100.762752,
+    "iso:country":"US",
+    "sg:address":"725 Airport Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 8260",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VuilZKNGWNbA31NT33Wbg_46.797009_-100.762752@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294664,
+    "wof:geomhash":"18b8a4aedab330cf35efa35d689976fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873575083
+        }
+    ],
+    "wof:id":873575083,
+    "wof:lastmodified":1464294664,
+    "wof:name":"Cooling & Heating Unlimited",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.762752,
+    46.797009,
+    -100.762752,
+    46.797009
+],
+  "geometry": {"coordinates":[-100.76275200000001,46.797009],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873654169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.323348,48.258683,-101.323348,48.258683",
+    "geom:latitude":48.258683,
+    "geom:longitude":-101.323348,
+    "iso:country":"US",
+    "sg:address":"2000 21st Ave NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 858 2000",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22Jb4Uf2n5FtTVLkHq2y1k_48.258683_-101.323348@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295637,
+    "wof:geomhash":"408079d3a4bbde1e008a7d388108d545",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873654169
+        }
+    ],
+    "wof:id":873654169,
+    "wof:lastmodified":1464295637,
+    "wof:name":"Ing Svc Ctr",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.323348,
+    48.258683,
+    -101.323348,
+    48.258683
+],
+  "geometry": {"coordinates":[-101.323348,48.258683],"type":"Point"}
+}

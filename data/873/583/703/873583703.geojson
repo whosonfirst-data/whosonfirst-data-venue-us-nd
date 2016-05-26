@@ -1,0 +1,77 @@
+{
+  "id": 873583703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.809127,46.811342,-100.809127,46.811342",
+    "geom:latitude":46.811342,
+    "geom:longitude":-100.809127,
+    "iso:country":"US",
+    "sg:address":"1023 W Ave B",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 221 3066",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QnWIwVxfcrOM0RahlE9R3_46.811342_-100.809127@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294759,
+    "wof:geomhash":"5fa1c16c7a40a64c47c3ccdc41ee3144",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873583703
+        }
+    ],
+    "wof:id":873583703,
+    "wof:lastmodified":1464294759,
+    "wof:name":"Zircon Construction Inc",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.809127,
+    46.811342,
+    -100.809127,
+    46.811342
+],
+  "geometry": {"coordinates":[-100.809127,46.811342],"type":"Point"}
+}

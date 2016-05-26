@@ -1,0 +1,76 @@
+{
+  "id": 873760543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.762232,46.834718,-100.762232,46.834718",
+    "geom:latitude":46.834718,
+    "geom:longitude":-100.762232,
+    "iso:country":"US",
+    "sg:address":"2625 N 19th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 5482",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "home",
+        "retirement",
+        "community"
+    ],
+    "sg:website":"www.sunrise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pC0jGnuMbZfGX82Rp6C78_46.834718_-100.762232@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297214,
+    "wof:geomhash":"3bb3553958596c227adf07b49039829a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873760543
+        }
+    ],
+    "wof:id":873760543,
+    "wof:lastmodified":1464297214,
+    "wof:name":"Sunrise Cottage Of Bismarck",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "retirement",
+        "community"
+    ]
+},
+  "bbox": [
+    -100.762232,
+    46.834718,
+    -100.762232,
+    46.834718
+],
+  "geometry": {"coordinates":[-100.762232,46.834718],"type":"Point"}
+}

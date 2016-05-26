@@ -1,0 +1,73 @@
+{
+  "id": 873641137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.787812,46.78127,-100.787812,46.78127",
+    "geom:latitude":46.78127,
+    "geom:longitude":-100.787812,
+    "iso:country":"US",
+    "sg:address":"1821 Houston Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 2668",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Gk63zTooC4WUYSjeTncWr_46.781270_-100.787812@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295489,
+    "wof:geomhash":"043896fadca4385e58196400f3a41b6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873641137
+        }
+    ],
+    "wof:id":873641137,
+    "wof:lastmodified":1464295489,
+    "wof:name":"Plum Coulee",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -100.787812,
+    46.78127,
+    -100.787812,
+    46.78127
+],
+  "geometry": {"coordinates":[-100.787812,46.78127],"type":"Point"}
+}

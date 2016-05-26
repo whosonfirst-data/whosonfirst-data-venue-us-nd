@@ -1,0 +1,66 @@
+{
+  "id": 873667883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.055771,47.898727,-97.055771,47.898727",
+    "geom:latitude":47.898727,
+    "geom:longitude":-97.055771,
+    "iso:country":"US",
+    "sg:address":"2121 S 20th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 3559",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UN3TUnYcuPZPLyi4B32ML_47.898727_-97.055771@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295779,
+    "wof:geomhash":"910ca5de3b04d955fbf8dfb8bd7b502a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873667883
+        }
+    ],
+    "wof:id":873667883,
+    "wof:lastmodified":1464295779,
+    "wof:name":"Disabled American Veterans",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.055771,
+    47.898727,
+    -97.055771,
+    47.898727
+],
+  "geometry": {"coordinates":[-97.05577099999999,47.898727],"type":"Point"}
+}

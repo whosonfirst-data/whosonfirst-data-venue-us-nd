@@ -1,0 +1,71 @@
+{
+  "id": 873691703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-102.810961,46.876394,-102.810961,46.876394",
+    "geom:latitude":46.876394,
+    "geom:longitude":-102.810961,
+    "iso:country":"US",
+    "sg:address":"387 State Ave",
+    "sg:city":"Dickinson",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 225 9600",
+    "sg:postcode":"58601",
+    "sg:province":"ND",
+    "sg:website":"www.campontheheart.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877119,
+        102191575,
+        404482179,
+        85633793,
+        85982521,
+        102082105,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kurpQpUfPTyssq7jMd3hm_46.876394_-102.810961@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296312,
+    "wof:geomhash":"77fb30d3f48c9419569571f20f688082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082105,
+            "localadmin_id":404482179,
+            "locality_id":85982521,
+            "neighbourhood_id":85877119,
+            "region_id":85688525,
+            "venue_id":873691703
+        }
+    ],
+    "wof:id":873691703,
+    "wof:lastmodified":1464296312,
+    "wof:name":"Camp On The Heart Restaurant",
+    "wof:parent_id":85877119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -102.810961,
+    46.876394,
+    -102.810961,
+    46.876394
+],
+  "geometry": {"coordinates":[-102.81096100000001,46.876394],"type":"Point"}
+}

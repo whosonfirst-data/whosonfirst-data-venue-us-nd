@@ -1,0 +1,73 @@
+{
+  "id": 873767623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.816887,46.781142,-100.816887,46.781142",
+    "geom:latitude":46.781142,
+    "geom:longitude":-100.816887,
+    "iso:country":"US",
+    "sg:address":"1525 Buccaneer Pl",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 3311",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kX3Dky8GIllAhjL1OXRo9_46.781142_-100.816887@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297333,
+    "wof:geomhash":"a263f0cb58989a0de6ada8e6c205d5c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873767623
+        }
+    ],
+    "wof:id":873767623,
+    "wof:lastmodified":1464297333,
+    "wof:name":"Aesthetic Center-Plastic Srgry",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -100.816887,
+    46.781142,
+    -100.816887,
+    46.781142
+],
+  "geometry": {"coordinates":[-100.81688699999999,46.781142],"type":"Point"}
+}

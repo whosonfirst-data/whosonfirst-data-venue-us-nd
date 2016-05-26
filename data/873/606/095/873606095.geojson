@@ -1,0 +1,66 @@
+{
+  "id": 873606095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.763428,46.807166,-100.763428,46.807166",
+    "geom:latitude":46.807166,
+    "geom:longitude":-100.763428,
+    "iso:country":"US",
+    "sg:address":"1811 E Thayer Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 7396",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JxHMnW3uQWCSlIOlqJL1O_46.807166_-100.763428@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295060,
+    "wof:geomhash":"d4a06db5ea2461e245bfee77159bc2a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873606095
+        }
+    ],
+    "wof:id":873606095,
+    "wof:lastmodified":1464295060,
+    "wof:name":"Bismark-Mandan Apartment Assn",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.763428,
+    46.807166,
+    -100.763428,
+    46.807166
+],
+  "geometry": {"coordinates":[-100.763428,46.807166],"type":"Point"}
+}

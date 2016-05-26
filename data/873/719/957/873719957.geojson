@@ -1,0 +1,75 @@
+{
+  "id": 873719957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.813089,46.868077,-96.813089,46.868077",
+    "geom:latitude":46.868077,
+    "geom:longitude":-96.813089,
+    "iso:country":"US",
+    "sg:address":"813 21st St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 476 2946",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877331,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Lw7eXaH2kBy8UlhyEmQwe_46.868077_-96.813089@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296651,
+    "wof:geomhash":"cc9b161efb2f6e9bebc72bfc2fe181f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877331,
+            "region_id":85688525,
+            "venue_id":873719957
+        }
+    ],
+    "wof:id":873719957,
+    "wof:lastmodified":1464296651,
+    "wof:name":"Safehome Dakota Boys Ranch",
+    "wof:parent_id":85877331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -96.813089,
+    46.868077,
+    -96.813089,
+    46.868077
+],
+  "geometry": {"coordinates":[-96.81308900000001,46.868077],"type":"Point"}
+}

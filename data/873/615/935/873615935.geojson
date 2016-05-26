@@ -1,0 +1,71 @@
+{
+  "id": 873615935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.053624,47.937703,-97.053624,47.937703",
+    "geom:latitude":47.937703,
+    "geom:longitude":-97.053624,
+    "iso:country":"US",
+    "sg:address":"1822 Mill Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 4000",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dcm7uZ0lhGuzsSP407WkB_47.937703_-97.053624@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295204,
+    "wof:geomhash":"5f7bceeaf1aa8b0534b0b11a881b59be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873615935
+        }
+    ],
+    "wof:id":873615935,
+    "wof:lastmodified":1464295204,
+    "wof:name":"Minnkota Power Cooperative Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -97.053624,
+    47.937703,
+    -97.053624,
+    47.937703
+],
+  "geometry": {"coordinates":[-97.053624,47.937703],"type":"Point"}
+}

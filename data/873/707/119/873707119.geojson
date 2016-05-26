@@ -1,0 +1,79 @@
+{
+  "id": 873707119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.762964,46.792336,-100.762964,46.792336",
+    "geom:latitude":46.792336,
+    "geom:longitude":-100.762964,
+    "iso:country":"US",
+    "sg:address":"1120 Airport Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 1815",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automotive",
+        "vehicle",
+        "general",
+        "motor",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Q8sYjZwcWXRcSG1GWCIJP_46.792336_-100.762964@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296484,
+    "wof:geomhash":"ceb4a6fecba141c9dfda57a59d820a01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873707119
+        }
+    ],
+    "wof:id":873707119,
+    "wof:lastmodified":1464296484,
+    "wof:name":"Bismarck Engine and Machine",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "vehicle",
+        "general",
+        "motor",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -100.762964,
+    46.792336,
+    -100.762964,
+    46.792336
+],
+  "geometry": {"coordinates":[-100.762964,46.792336],"type":"Point"}
+}

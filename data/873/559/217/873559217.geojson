@@ -1,0 +1,71 @@
+{
+  "id": 873559217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.044976,47.907204,-97.044976,47.907204",
+    "geom:latitude":47.907204,
+    "geom:longitude":-97.044976,
+    "iso:country":"US",
+    "sg:address":"1403 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 3459",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lXxLFLBiKlxYMVj4eiajO_47.907204_-97.044976@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294491,
+    "wof:geomhash":"ced0b0600b67e1f807711469a70988bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873559217
+        }
+    ],
+    "wof:id":873559217,
+    "wof:lastmodified":1464294491,
+    "wof:name":"Lucky Inn Motel",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -97.044976,
+    47.907204,
+    -97.044976,
+    47.907204
+],
+  "geometry": {"coordinates":[-97.04497600000001,47.907204],"type":"Point"}
+}

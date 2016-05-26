@@ -1,0 +1,80 @@
+{
+  "id": 873712409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.234711,48.229235,-101.234711,48.229235",
+    "geom:latitude":48.229235,
+    "geom:longitude":-101.234711,
+    "iso:country":"US",
+    "sg:address":"3901 Burdick Expy E",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 4397",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "cabinet",
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gyueuKr2DZuSqXLo7dnMv_48.229235_-101.234711@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296549,
+    "wof:geomhash":"5baadc053d2c7a653572200208aaed72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873712409
+        }
+    ],
+    "wof:id":873712409,
+    "wof:lastmodified":1464296549,
+    "wof:name":"Kittilson's Cabinet Shop",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cabinet",
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.234711,
+    48.229235,
+    -101.234711,
+    48.229235
+],
+  "geometry": {"coordinates":[-101.234711,48.229235],"type":"Point"}
+}

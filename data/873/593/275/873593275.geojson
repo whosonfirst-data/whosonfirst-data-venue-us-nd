@@ -1,0 +1,75 @@
+{
+  "id": 873593275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.76296,46.793775,-100.76296,46.793775",
+    "geom:latitude":46.793775,
+    "geom:longitude":-100.76296,
+    "iso:country":"US",
+    "sg:address":"1032 Airport Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 9184",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repair",
+        "industrial",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xzffaAJBVfjM2qycuqiTf_46.793775_-100.762960@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294872,
+    "wof:geomhash":"f0749e11beed65410a1c4b12b7b49638",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873593275
+        }
+    ],
+    "wof:id":873593275,
+    "wof:lastmodified":1464294872,
+    "wof:name":"H & L Sharpening & Tools",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "industrial",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -100.76296,
+    46.793775,
+    -100.76296,
+    46.793775
+],
+  "geometry": {"coordinates":[-100.76296000000001,46.793775],"type":"Point"}
+}

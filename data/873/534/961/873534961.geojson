@@ -1,0 +1,75 @@
+{
+  "id": 873534961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.784628,46.889934,-96.784628,46.889934",
+    "geom:latitude":46.889934,
+    "geom:longitude":-96.784628,
+    "iso:country":"US",
+    "sg:address":"1123 4th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 8076",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534465,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hL2wcflRNId44Vf5rHKn9_46.889934_-96.784628@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294203,
+    "wof:geomhash":"d6ad9453546f53cc2fba3e7a3a67b4a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534465,
+            "region_id":85688525,
+            "venue_id":873534961
+        }
+    ],
+    "wof:id":873534961,
+    "wof:lastmodified":1464294203,
+    "wof:name":"R T Family Enterprises",
+    "wof:parent_id":420534465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -96.784628,
+    46.889934,
+    -96.784628,
+    46.889934
+],
+  "geometry": {"coordinates":[-96.784628,46.889934],"type":"Point"}
+}

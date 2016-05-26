@@ -1,0 +1,71 @@
+{
+  "id": 873672879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.032658,47.879182,-97.032658,47.879182",
+    "geom:latitude":47.879182,
+    "geom:longitude":-97.032658,
+    "iso:country":"US",
+    "sg:address":"4110 Cottonwood St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 740 3695",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64Za3SWdbmfUjIVMe5CmxE_47.879182_-97.032658@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295829,
+    "wof:geomhash":"fbb8860fdf50a1cafa3e95e4f5938945",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873672879
+        }
+    ],
+    "wof:id":873672879,
+    "wof:lastmodified":1464295829,
+    "wof:name":"Western Enviromental Services",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    -97.032658,
+    47.879182,
+    -97.032658,
+    47.879182
+],
+  "geometry": {"coordinates":[-97.032658,47.879182],"type":"Point"}
+}

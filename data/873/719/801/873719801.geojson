@@ -1,0 +1,71 @@
+{
+  "id": 873719801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.7343,46.838045,-100.7343,46.838045",
+    "geom:latitude":46.838045,
+    "geom:longitude":-100.7343,
+    "iso:country":"US",
+    "sg:address":"3600 E Century Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 250 0579",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29c26UrLVCGxDwCWr5EtIz_46.838045_-100.734300@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296650,
+    "wof:geomhash":"c90aacb6f2830ea19ff067dab6a2820a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873719801
+        }
+    ],
+    "wof:id":873719801,
+    "wof:lastmodified":1464296650,
+    "wof:name":"Bismark Trailer Center",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -100.7343,
+    46.838045,
+    -100.7343,
+    46.838045
+],
+  "geometry": {"coordinates":[-100.7343,46.838045],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 873780365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.295617,48.254461,-101.295617,48.254461",
+    "geom:latitude":48.254461,
+    "geom:longitude":-101.295617,
+    "iso:country":"US",
+    "sg:address":"1901 N Broadway",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Bowling",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 4108",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102531137,
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Zx3uhpuIUeQSkaExrygwj_48.254461_-101.295617@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297497,
+    "wof:geomhash":"1902851b399c4915d79eae35791420d8",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531137,
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873780365
+        }
+    ],
+    "wof:id":873780365,
+    "wof:lastmodified":1464297497,
+    "wof:name":"Lucky Strike Casino",
+    "wof:parent_id":102531137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.295617,
+    48.254461,
+    -101.295617,
+    48.254461
+],
+  "geometry": {"coordinates":[-101.29561699999999,48.254461],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873657183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.028823,47.922896,-97.028823,47.922896",
+    "geom:latitude":47.922896,
+    "geom:longitude":-97.028823,
+    "iso:country":"US",
+    "sg:address":"124 S 4th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 780 8281",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "state",
+        "counsel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ggBFg1nWH5bH2wD6wCOyY_47.922896_-97.028823@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295669,
+    "wof:geomhash":"d8b3601fe3db13d4e9904b73776e4b69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873657183
+        }
+    ],
+    "wof:id":873657183,
+    "wof:lastmodified":1464295669,
+    "wof:name":"State Attorney",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "counsel"
+    ]
+},
+  "bbox": [
+    -97.028823,
+    47.922896,
+    -97.028823,
+    47.922896
+],
+  "geometry": {"coordinates":[-97.028823,47.922896],"type":"Point"}
+}

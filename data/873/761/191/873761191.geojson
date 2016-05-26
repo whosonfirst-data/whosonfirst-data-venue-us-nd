@@ -1,0 +1,74 @@
+{
+  "id": 873761191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.307351,48.210666,-101.307351,48.210666",
+    "geom:latitude":48.210666,
+    "geom:longitude":-101.307351,
+    "iso:country":"US",
+    "sg:address":"1111 20th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 1111",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.fishermotors.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32HCQMX1JRHt55Kxil0AD2_48.210666_-101.307351@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297224,
+    "wof:geomhash":"19857f7a703f80825dbb3939073125a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873761191
+        }
+    ],
+    "wof:id":873761191,
+    "wof:lastmodified":1464297224,
+    "wof:name":"Fisher Motors Inc",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -101.307351,
+    48.210666,
+    -101.307351,
+    48.210666
+],
+  "geometry": {"coordinates":[-101.307351,48.210666],"type":"Point"}
+}

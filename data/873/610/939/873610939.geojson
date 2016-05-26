@@ -1,0 +1,73 @@
+{
+  "id": 873610939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.752147,46.809153,-100.752147,46.809153",
+    "geom:latitude":46.809153,
+    "geom:longitude":-100.752147,
+    "iso:country":"US",
+    "sg:address":"2505 E Ave A",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 3911",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "water",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0flGZ95F1uCfBQJkAS01ki_46.809153_-100.752147@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295154,
+    "wof:geomhash":"3497b70581e7fefa0b09dee65e6062ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873610939
+        }
+    ],
+    "wof:id":873610939,
+    "wof:lastmodified":1464295154,
+    "wof:name":"Dakota Water Systems",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "treatment"
+    ]
+},
+  "bbox": [
+    -100.752147,
+    46.809153,
+    -100.752147,
+    46.809153
+],
+  "geometry": {"coordinates":[-100.75214699999999,46.809153],"type":"Point"}
+}

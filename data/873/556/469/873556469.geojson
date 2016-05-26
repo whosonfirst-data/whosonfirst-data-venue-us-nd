@@ -1,0 +1,77 @@
+{
+  "id": 873556469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.044567,47.900982,-97.044567,47.900982",
+    "geom:latitude":47.900982,
+    "geom:longitude":-97.044567,
+    "iso:country":"US",
+    "sg:address":"1913 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 5577",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "person",
+        "disability",
+        "association",
+        "for"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2T0Bacl5xBfZZR8fbZLG9j_47.900982_-97.044567@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294453,
+    "wof:geomhash":"868c78c1701024f9654660dbd08ee896",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873556469
+        }
+    ],
+    "wof:id":873556469,
+    "wof:lastmodified":1464294453,
+    "wof:name":"North Dakota Assn For Disabled",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "person",
+        "disability",
+        "association",
+        "for"
+    ]
+},
+  "bbox": [
+    -97.044567,
+    47.900982,
+    -97.044567,
+    47.900982
+],
+  "geometry": {"coordinates":[-97.044567,47.900982],"type":"Point"}
+}

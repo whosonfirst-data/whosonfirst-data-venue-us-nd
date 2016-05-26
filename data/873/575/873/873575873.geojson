@@ -1,0 +1,77 @@
+{
+  "id": 873575873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.048128,47.91555,-97.048128,47.91555",
+    "geom:latitude":47.91555,
+    "geom:longitude":-97.048128,
+    "iso:country":"US",
+    "sg:address":"622 S 15th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 5710",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AoIUBg6FuTG2arj6nfOHg_47.915550_-97.048128@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294673,
+    "wof:geomhash":"01e4bbcb26f171d20f6070630fd087e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873575873
+        }
+    ],
+    "wof:id":873575873,
+    "wof:lastmodified":1464294673,
+    "wof:name":"Imagine That",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ]
+},
+  "bbox": [
+    -97.048128,
+    47.91555,
+    -97.048128,
+    47.91555
+],
+  "geometry": {"coordinates":[-97.04812800000001,47.91555],"type":"Point"}
+}

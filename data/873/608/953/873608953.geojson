@@ -1,0 +1,75 @@
+{
+  "id": 873608953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.832828,46.814817,-96.832828,46.814817",
+    "geom:latitude":46.814817,
+    "geom:longitude":-96.832828,
+    "iso:country":"US",
+    "sg:address":"3255 43rd Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 1701",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877333,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10LJHgRRNuHY7r8uwCLKyd_46.814817_-96.832828@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295123,
+    "wof:geomhash":"377073d10f8f1e815da05d362f882366",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877333,
+            "region_id":85688525,
+            "venue_id":873608953
+        }
+    ],
+    "wof:id":873608953,
+    "wof:lastmodified":1464295123,
+    "wof:name":"Hendricks Property Management",
+    "wof:parent_id":85877333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.832828,
+    46.814817,
+    -96.832828,
+    46.814817
+],
+  "geometry": {"coordinates":[-96.83282800000001,46.814817],"type":"Point"}
+}

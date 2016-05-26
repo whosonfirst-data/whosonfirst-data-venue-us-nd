@@ -1,0 +1,75 @@
+{
+  "id": 873727493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.808683,46.867694,-96.808683,46.867694",
+    "geom:latitude":46.867694,
+    "geom:longitude":-96.808683,
+    "iso:country":"US",
+    "sg:address":"1618 7th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 234 0552",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877331,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VGeFLXI3S2TejTmvRkYOD_46.867694_-96.808683@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296747,
+    "wof:geomhash":"720e62081827f9d4fc811b3392a4e784",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877331,
+            "region_id":85688525,
+            "venue_id":873727493
+        }
+    ],
+    "wof:id":873727493,
+    "wof:lastmodified":1464296747,
+    "wof:name":"Gage Dargan Siding",
+    "wof:parent_id":85877331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.808683,
+    46.867694,
+    -96.808683,
+    46.867694
+],
+  "geometry": {"coordinates":[-96.808683,46.867694],"type":"Point"}
+}

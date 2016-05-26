@@ -1,0 +1,77 @@
+{
+  "id": 873568705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.79855,46.857466,-96.79855,46.857466",
+    "geom:latitude":46.857466,
+    "geom:longitude":-96.79855,
+    "iso:country":"US",
+    "sg:address":"1525 S University Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 365 2355",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "communication",
+        "radiotelephone"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534481,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2V5oPrsOyCiWg1HDShwYIM_46.857466_-96.798550@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294593,
+    "wof:geomhash":"bc49c6e4e8b6575c4b4f21e3047d067a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534481,
+            "region_id":85688525,
+            "venue_id":873568705
+        }
+    ],
+    "wof:id":873568705,
+    "wof:lastmodified":1464294593,
+    "wof:name":"Go Wireless Inc",
+    "wof:parent_id":420534481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication",
+        "radiotelephone"
+    ]
+},
+  "bbox": [
+    -96.79855,
+    46.857466,
+    -96.79855,
+    46.857466
+],
+  "geometry": {"coordinates":[-96.79855000000001,46.857466],"type":"Point"}
+}

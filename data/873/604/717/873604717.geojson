@@ -1,0 +1,66 @@
+{
+  "id": 873604717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.058372,47.931261,-97.058372,47.931261",
+    "geom:latitude":47.931261,
+    "geom:longitude":-97.058372,
+    "iso:country":"US",
+    "sg:address":"2110 12th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 6591",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nlfcplei3eXb9uiQorwoD_47.931261_-97.058372@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295037,
+    "wof:geomhash":"a4f1358dabeae7005f8961cce3bc50a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873604717
+        }
+    ],
+    "wof:id":873604717,
+    "wof:lastmodified":1464295037,
+    "wof:name":"Continental Vending Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.058372,
+    47.931261,
+    -97.058372,
+    47.931261
+],
+  "geometry": {"coordinates":[-97.05837200000001,47.931261],"type":"Point"}
+}

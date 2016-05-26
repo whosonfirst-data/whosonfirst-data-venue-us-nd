@@ -1,0 +1,73 @@
+{
+  "id": 873589647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.754687,46.803971,-100.754687,46.803971",
+    "geom:latitude":46.803971,
+    "geom:longitude":-100.754687,
+    "iso:country":"US",
+    "sg:address":"2521 Railroad Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 7676",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repair",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aSeY932E2SodnhSR636KG_46.803971_-100.754687@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294826,
+    "wof:geomhash":"81d976fe1f7b3633a4d3862a9a01d8f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873589647
+        }
+    ],
+    "wof:id":873589647,
+    "wof:lastmodified":1464294826,
+    "wof:name":"Dependable Business Machines",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "electrical"
+    ]
+},
+  "bbox": [
+    -100.754687,
+    46.803971,
+    -100.754687,
+    46.803971
+],
+  "geometry": {"coordinates":[-100.754687,46.803971],"type":"Point"}
+}

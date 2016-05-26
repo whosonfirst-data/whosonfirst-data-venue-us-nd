@@ -1,0 +1,81 @@
+{
+  "id": 873803845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.82193,46.863468,-96.82193,46.863468",
+    "geom:latitude":46.863468,
+    "geom:longitude":-96.82193,
+    "iso:country":"US",
+    "sg:address":"2700 12th Ave S Ste E",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 7612",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "return",
+        "accountants-certified",
+        "preparation-business",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ai9hO05J9IUDMEd2mnlBQ_46.863468_-96.821930@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297819,
+    "wof:geomhash":"75770c24c71afa9b2d671634084fd483",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873803845
+        }
+    ],
+    "wof:id":873803845,
+    "wof:lastmodified":1464297819,
+    "wof:name":"Giddings And Associates Ltd",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return",
+        "accountants-certified",
+        "preparation-business",
+        "public"
+    ]
+},
+  "bbox": [
+    -96.82193,
+    46.863468,
+    -96.82193,
+    46.863468
+],
+  "geometry": {"coordinates":[-96.82192999999999,46.863468],"type":"Point"}
+}

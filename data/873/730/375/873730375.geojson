@@ -1,0 +1,81 @@
+{
+  "id": 873730375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.80325,46.865698,-96.80325,46.865698",
+    "geom:latitude":46.865698,
+    "geom:longitude":-96.80325,
+    "iso:country":"US",
+    "sg:address":"1430 9th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 799 2179",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877331,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11DZ7Ukjcz1SzAd2il3Khb_46.865698_-96.803250@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296784,
+    "wof:geomhash":"4c7aeec7530f9f52e1c97b864d0c8e69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877331,
+            "region_id":85688525,
+            "venue_id":873730375
+        }
+    ],
+    "wof:id":873730375,
+    "wof:lastmodified":1464296784,
+    "wof:name":"Decorators",
+    "wof:parent_id":85877331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ]
+},
+  "bbox": [
+    -96.80325,
+    46.865698,
+    -96.80325,
+    46.865698
+],
+  "geometry": {"coordinates":[-96.80325000000001,46.865698],"type":"Point"}
+}

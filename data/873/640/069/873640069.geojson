@@ -1,0 +1,71 @@
+{
+  "id": 873640069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.762734,46.803817,-100.762734,46.803817",
+    "geom:latitude":46.803817,
+    "geom:longitude":-100.762734,
+    "iso:country":"US",
+    "sg:address":"215 Airport Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 9115",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yiY2Ll6CrWoSIjmRsY0mS_46.803817_-100.762734@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295473,
+    "wof:geomhash":"fe32ec3606ed50632ddac064cf123b38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873640069
+        }
+    ],
+    "wof:id":873640069,
+    "wof:lastmodified":1464295473,
+    "wof:name":"Edge Performance",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -100.762734,
+    46.803817,
+    -100.762734,
+    46.803817
+],
+  "geometry": {"coordinates":[-100.76273399999999,46.803817],"type":"Point"}
+}

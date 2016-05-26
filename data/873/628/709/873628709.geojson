@@ -1,0 +1,73 @@
+{
+  "id": 873628709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.288364,48.236368,-101.288364,48.236368",
+    "geom:latitude":48.236368,
+    "geom:longitude":-101.288364,
+    "iso:country":"US",
+    "sg:address":"7 3rd St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 5615",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4T7rB4TKU8MTrex2wh5kmC_48.236368_-101.288364@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295347,
+    "wof:geomhash":"ff33cf523eaadde88051d35d6829abfe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873628709
+        }
+    ],
+    "wof:id":873628709,
+    "wof:lastmodified":1464295347,
+    "wof:name":"GPC Properties",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -101.288364,
+    48.236368,
+    -101.288364,
+    48.236368
+],
+  "geometry": {"coordinates":[-101.288364,48.236368],"type":"Point"}
+}

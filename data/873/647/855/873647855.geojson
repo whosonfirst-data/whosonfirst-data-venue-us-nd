@@ -1,0 +1,79 @@
+{
+  "id": 873647855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.816121,46.875963,-96.816121,46.875963",
+    "geom:latitude":46.875963,
+    "geom:longitude":-96.816121,
+    "iso:country":"US",
+    "sg:address":"2219 Main Ave",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 298 0034",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automobile",
+        "stereo",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Er8bR8qCySAhqJ1L3pTMT_46.875963_-96.816121@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295565,
+    "wof:geomhash":"1b37bbfcd73418a138af5c4670ba3b97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873647855
+        }
+    ],
+    "wof:id":873647855,
+    "wof:lastmodified":1464295565,
+    "wof:name":"Advantaged Autoworks",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "stereo",
+        "radio"
+    ]
+},
+  "bbox": [
+    -96.816121,
+    46.875963,
+    -96.816121,
+    46.875963
+],
+  "geometry": {"coordinates":[-96.816121,46.875963],"type":"Point"}
+}

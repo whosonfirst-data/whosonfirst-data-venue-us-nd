@@ -1,0 +1,71 @@
+{
+  "id": 873706731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.044643,47.900845,-97.044643,47.900845",
+    "geom:latitude":47.900845,
+    "geom:longitude":-97.044643,
+    "iso:country":"US",
+    "sg:address":"1901 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 7051",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12LEslFTYTNWbof1zxsoLJ_47.900845_-97.044643@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296478,
+    "wof:geomhash":"1b9a8409e142be829850d9e5fb28f908",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873706731
+        }
+    ],
+    "wof:id":873706731,
+    "wof:lastmodified":1464296478,
+    "wof:name":"Rite Spot Liquor Store Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -97.044643,
+    47.900845,
+    -97.044643,
+    47.900845
+],
+  "geometry": {"coordinates":[-97.04464299999999,47.900845],"type":"Point"}
+}

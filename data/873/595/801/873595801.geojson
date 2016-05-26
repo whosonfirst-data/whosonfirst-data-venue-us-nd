@@ -1,0 +1,75 @@
+{
+  "id": 873595801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.80724,46.859509,-96.80724,46.859509",
+    "geom:latitude":46.859509,
+    "geom:longitude":-96.80724,
+    "iso:country":"US",
+    "sg:address":"1614 14th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 200 9973",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877331,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3t4YvrfxftfsBLuQZf6rS7_46.859509_-96.807240@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294922,
+    "wof:geomhash":"3e3e788f1ee1972dc6a44af9861b92e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877331,
+            "region_id":85688525,
+            "venue_id":873595801
+        }
+    ],
+    "wof:id":873595801,
+    "wof:lastmodified":1464294922,
+    "wof:name":"Uptown Mortgage Services",
+    "wof:parent_id":85877331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -96.80724,
+    46.859509,
+    -96.80724,
+    46.859509
+],
+  "geometry": {"coordinates":[-96.80723999999999,46.859509],"type":"Point"}
+}

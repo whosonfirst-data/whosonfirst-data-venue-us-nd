@@ -1,0 +1,71 @@
+{
+  "id": 873575453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.766909,46.799839,-100.766909,46.799839",
+    "geom:latitude":46.799839,
+    "geom:longitude":-100.766909,
+    "iso:country":"US",
+    "sg:address":"521 S 17th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 224 1265",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7C5k6DW6jdgAc6njAASk2F_46.799839_-100.766909@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294668,
+    "wof:geomhash":"1b6136201cca7a4eda3298c80649fa8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873575453
+        }
+    ],
+    "wof:id":873575453,
+    "wof:lastmodified":1464294668,
+    "wof:name":"Ah Construction",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -100.766909,
+    46.799839,
+    -100.766909,
+    46.799839
+],
+  "geometry": {"coordinates":[-100.766909,46.799839],"type":"Point"}
+}

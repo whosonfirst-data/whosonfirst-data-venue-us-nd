@@ -1,0 +1,73 @@
+{
+  "id": 873720761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.293252,48.22296,-101.293252,48.22296",
+    "geom:latitude":48.22296,
+    "geom:longitude":-101.293252,
+    "iso:country":"US",
+    "sg:address":"1341 Main St S",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 5791",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "furnace",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6r6XcjFNfuMkJ5Gqf2Akza_48.222960_-101.293252@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296660,
+    "wof:geomhash":"d5b7a3a8d329ab21925b8d272630fa48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873720761
+        }
+    ],
+    "wof:id":873720761,
+    "wof:lastmodified":1464296660,
+    "wof:name":"Air Clear Magic City Power Vac",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furnace",
+        "cleaning"
+    ]
+},
+  "bbox": [
+    -101.293252,
+    48.22296,
+    -101.293252,
+    48.22296
+],
+  "geometry": {"coordinates":[-101.293252,48.22296],"type":"Point"}
+}

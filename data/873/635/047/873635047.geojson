@@ -1,0 +1,71 @@
+{
+  "id": 873635047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.770989,46.801097,-100.770989,46.801097",
+    "geom:latitude":46.801097,
+    "geom:longitude":-100.770989,
+    "iso:country":"US",
+    "sg:address":"421 S 14th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 6983",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3x0lzGZj6Bs4LYN1gt0foF_46.801097_-100.770989@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295423,
+    "wof:geomhash":"dec40c2d1c416ca6f2f74fbad4d018b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873635047
+        }
+    ],
+    "wof:id":873635047,
+    "wof:lastmodified":1464295423,
+    "wof:name":"Unruh Construction",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -100.770989,
+    46.801097,
+    -100.770989,
+    46.801097
+],
+  "geometry": {"coordinates":[-100.770989,46.801097],"type":"Point"}
+}

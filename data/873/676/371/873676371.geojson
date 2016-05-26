@@ -1,0 +1,73 @@
+{
+  "id": 873676371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.029924,47.923856,-97.029924,47.923856",
+    "geom:latitude":47.923856,
+    "geom:longitude":-97.029924,
+    "iso:country":"US",
+    "sg:address":"324 Kittson Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 9531",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Y8OzTnb6uaGuUTlTjHhVv_47.923856_-97.029924@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295897,
+    "wof:geomhash":"1deed9891079b35b53f285c67365318d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873676371
+        }
+    ],
+    "wof:id":873676371,
+    "wof:lastmodified":1464295897,
+    "wof:name":"Urban Stampede",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -97.029924,
+    47.923856,
+    -97.029924,
+    47.923856
+],
+  "geometry": {"coordinates":[-97.02992399999999,47.923856],"type":"Point"}
+}

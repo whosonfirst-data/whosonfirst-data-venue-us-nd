@@ -1,0 +1,84 @@
+{
+  "id": 873799481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.073338,46.716944,-97.073338,46.716944",
+    "geom:latitude":46.716944,
+    "geom:longitude":-97.073338,
+    "iso:country":"US",
+    "sg:address":"7806 124th Ave S",
+    "sg:city":"Davenport",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 2292",
+    "sg:postcode":"58021",
+    "sg:province":"ND",
+    "sg:tags":[
+        "body",
+        "transport",
+        "painting",
+        "repairing",
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Imo7wCbDGVV5kVvHjqdlP_46.716944_-97.073338@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297767,
+    "wof:geomhash":"6e5f78c97178ce629b420a8a0ca41937",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873799481
+        }
+    ],
+    "wof:id":873799481,
+    "wof:lastmodified":1464297767,
+    "wof:name":"Germanson Auto Body",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "transport",
+        "painting",
+        "repairing",
+        "trailer"
+    ]
+},
+  "bbox": [
+    -97.073338,
+    46.716944,
+    -97.073338,
+    46.716944
+],
+  "geometry": {"coordinates":[-97.07333800000001,46.716944],"type":"Point"}
+}

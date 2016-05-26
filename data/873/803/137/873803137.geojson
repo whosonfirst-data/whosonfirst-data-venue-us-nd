@@ -1,0 +1,79 @@
+{
+  "id": 873803137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.801562,46.867892,-96.801562,46.867892",
+    "geom:latitude":46.867892,
+    "geom:longitude":-96.801562,
+    "iso:country":"US",
+    "sg:address":"1415 7th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 7944",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "designer",
+        "display",
+        "producer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cr74Pvw27K1bEa5N5rkEz_46.867892_-96.801562@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297811,
+    "wof:geomhash":"ad3dcac81d1ea92591b25a3b25816080",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873803137
+        }
+    ],
+    "wof:id":873803137,
+    "wof:lastmodified":1464297811,
+    "wof:name":"Black Tail Design",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "designer",
+        "display",
+        "producer"
+    ]
+},
+  "bbox": [
+    -96.801562,
+    46.867892,
+    -96.801562,
+    46.867892
+],
+  "geometry": {"coordinates":[-96.801562,46.867892],"type":"Point"}
+}

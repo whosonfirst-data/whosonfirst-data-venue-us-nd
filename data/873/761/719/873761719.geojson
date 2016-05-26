@@ -1,0 +1,73 @@
+{
+  "id": 873761719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.408233,47.715435,-97.408233,47.715435",
+    "geom:latitude":47.715435,
+    "geom:longitude":-97.408233,
+    "iso:country":"US",
+    "sg:address":"2690 3rd Ave NE",
+    "sg:city":"Hatton",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 543 4079",
+    "sg:postcode":"58240",
+    "sg:province":"ND",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MJCYsIAnLo5bdajqC19RT_47.715435_-97.408233@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297232,
+    "wof:geomhash":"9a3282b8bb8f5c480003d463e1f358af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873761719
+        }
+    ],
+    "wof:id":873761719,
+    "wof:lastmodified":1464297232,
+    "wof:name":"Willow Ridge Farms Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -97.408233,
+    47.715435,
+    -97.408233,
+    47.715435
+],
+  "geometry": {"coordinates":[-97.408233,47.715435],"type":"Point"}
+}

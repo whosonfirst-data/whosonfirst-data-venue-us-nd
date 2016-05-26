@@ -1,0 +1,71 @@
+{
+  "id": 873587077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.306882,48.22179,-101.306882,48.22179",
+    "geom:latitude":48.22179,
+    "geom:longitude":-101.306882,
+    "iso:country":"US",
+    "sg:address":"1313 10th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 0563",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ejRq1XSxqV1Qpgw4rxKMy_48.221790_-101.306882@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294798,
+    "wof:geomhash":"d685a7ec987c9d1c8773981f5e19ed6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873587077
+        }
+    ],
+    "wof:id":873587077,
+    "wof:lastmodified":1464294798,
+    "wof:name":"Michael T Vandall MD",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -101.306882,
+    48.22179,
+    -101.306882,
+    48.22179
+],
+  "geometry": {"coordinates":[-101.306882,48.22179],"type":"Point"}
+}

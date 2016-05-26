@@ -1,0 +1,70 @@
+{
+  "id": 873545601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.796773,46.891618,-96.796773,46.891618",
+    "geom:latitude":46.891618,
+    "geom:longitude":-96.796773,
+    "iso:country":"US",
+    "sg:address":"1258 12th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 478 1834",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877363,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BGAICfV1eQTqWdbXogsTt_46.891618_-96.796773@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294323,
+    "wof:geomhash":"93f8c04b269895954769bfca33badced",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877363,
+            "region_id":85688525,
+            "venue_id":873545601
+        }
+    ],
+    "wof:id":873545601,
+    "wof:lastmodified":1464294323,
+    "wof:name":"Delta Upsilon Frat",
+    "wof:parent_id":85877363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.796773,
+    46.891618,
+    -96.796773,
+    46.891618
+],
+  "geometry": {"coordinates":[-96.796773,46.891618],"type":"Point"}
+}

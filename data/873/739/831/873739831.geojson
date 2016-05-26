@@ -1,0 +1,73 @@
+{
+  "id": 873739831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.761512,46.796957,-100.761512,46.796957",
+    "geom:latitude":46.796957,
+    "geom:longitude":-100.761512,
+    "iso:country":"US",
+    "sg:address":"1924 Vermont Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 0590",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QstSzldBsLEattw2SSCJi_46.796957_-100.761512@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296917,
+    "wof:geomhash":"84626d65dd3ddc362974c0ac9d096187",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873739831
+        }
+    ],
+    "wof:id":873739831,
+    "wof:lastmodified":1464296917,
+    "wof:name":"R & P Svc & Auto",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -100.761512,
+    46.796957,
+    -100.761512,
+    46.796957
+],
+  "geometry": {"coordinates":[-100.761512,46.796957],"type":"Point"}
+}

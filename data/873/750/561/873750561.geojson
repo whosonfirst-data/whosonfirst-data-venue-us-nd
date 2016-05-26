@@ -1,0 +1,77 @@
+{
+  "id": 873750561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.029122,47.924384,-97.029122,47.924384",
+    "geom:latitude":47.924384,
+    "geom:longitude":-97.029122,
+    "iso:country":"US",
+    "sg:address":"6 S 3rd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 9203",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "woman",
+        "christian",
+        "book",
+        "gift"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JxWktNodsG7fBzImvZOex_47.924384_-97.029122@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297081,
+    "wof:geomhash":"05db6b09da26766cf9e938345d0e06fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873750561
+        }
+    ],
+    "wof:id":873750561,
+    "wof:lastmodified":1464297081,
+    "wof:name":"Best Friends Boutique",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woman",
+        "christian",
+        "book",
+        "gift"
+    ]
+},
+  "bbox": [
+    -97.029122,
+    47.924384,
+    -97.029122,
+    47.924384
+],
+  "geometry": {"coordinates":[-97.029122,47.924384],"type":"Point"}
+}

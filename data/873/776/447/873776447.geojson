@@ -1,0 +1,73 @@
+{
+  "id": 873776447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.346297,46.670322,-97.346297,46.670322",
+    "geom:latitude":46.670322,
+    "geom:longitude":-97.346297,
+    "iso:country":"US",
+    "sg:address":"5117 149th Ave SE",
+    "sg:city":"Leonard",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 8833",
+    "sg:postcode":"58052",
+    "sg:province":"ND",
+    "sg:tags":[
+        "lawn",
+        "mower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Q0VJOAsVBujoBN9aIvvA3_46.670322_-97.346297@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297442,
+    "wof:geomhash":"2d84a2c65f8b9fbb7612e62922137ddc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873776447
+        }
+    ],
+    "wof:id":873776447,
+    "wof:lastmodified":1464297442,
+    "wof:name":"R J's Sales & Svc",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "mower"
+    ]
+},
+  "bbox": [
+    -97.346297,
+    46.670322,
+    -97.346297,
+    46.670322
+],
+  "geometry": {"coordinates":[-97.34629700000001,46.670322],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 873653885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.710599,47.686682,-97.710599,47.686682",
+    "geom:latitude":47.686682,
+    "geom:longitude":-97.710599,
+    "iso:country":"US",
+    "sg:address":"78 41st St",
+    "sg:city":"Northwood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 587 5505",
+    "sg:postcode":"58267",
+    "sg:province":"ND",
+    "sg:tags":[
+        "television",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2X5vkQBDTHlSXTZ0jiaTH8_47.686682_-97.710599@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295634,
+    "wof:geomhash":"35f43bf3074c5b9f47d10e82a7715184",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873653885
+        }
+    ],
+    "wof:id":873653885,
+    "wof:lastmodified":1464295634,
+    "wof:name":"Dave's Electronics",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "radio"
+    ]
+},
+  "bbox": [
+    -97.710599,
+    47.686682,
+    -97.710599,
+    47.686682
+],
+  "geometry": {"coordinates":[-97.710599,47.686682],"type":"Point"}
+}

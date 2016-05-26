@@ -1,0 +1,71 @@
+{
+  "id": 873667831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.338004,47.744857,-97.338004,47.744857",
+    "geom:latitude":47.744857,
+    "geom:longitude":-97.338004,
+    "iso:country":"US",
+    "sg:address":"2340 5th Ave NE",
+    "sg:city":"Northwood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 587 6263",
+    "sg:postcode":"58267",
+    "sg:province":"ND",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QGkLL0scoM7uNTybqNfOB_47.744857_-97.338004@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295778,
+    "wof:geomhash":"2d85950ab77ac44316ca48859c123359",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873667831
+        }
+    ],
+    "wof:id":873667831,
+    "wof:lastmodified":1464295778,
+    "wof:name":"Owen's Welding Svc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -97.338004,
+    47.744857,
+    -97.338004,
+    47.744857
+],
+  "geometry": {"coordinates":[-97.338004,47.744857],"type":"Point"}
+}

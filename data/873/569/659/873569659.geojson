@@ -1,0 +1,66 @@
+{
+  "id": 873569659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.777739,46.794837,-100.777739,46.794837",
+    "geom:latitude":46.794837,
+    "geom:longitude":-100.777739,
+    "iso:country":"US",
+    "sg:address":"423 E Bismarck Expy",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 323 0793",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5G1YTh2taLP9cOvWfEXxx0_46.794837_-100.777739@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294606,
+    "wof:geomhash":"ff2539847d527c8d242f7d397547188a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873569659
+        }
+    ],
+    "wof:id":873569659,
+    "wof:lastmodified":1464294606,
+    "wof:name":"US Bank",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.777739,
+    46.794837,
+    -100.777739,
+    46.794837
+],
+  "geometry": {"coordinates":[-100.777739,46.794837],"type":"Point"}
+}

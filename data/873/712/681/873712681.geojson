@@ -1,0 +1,71 @@
+{
+  "id": 873712681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.037244,47.91742,-97.037244,47.91742",
+    "geom:latitude":47.91742,
+    "geom:longitude":-97.037244,
+    "iso:country":"US",
+    "sg:address":"401 Oak St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 4962",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gDZjBxqaVPyWCHiHiaLBl_47.917420_-97.037244@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296553,
+    "wof:geomhash":"7272feed4a2ed6d62b061c2da9bbc237",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873712681
+        }
+    ],
+    "wof:id":873712681,
+    "wof:lastmodified":1464296553,
+    "wof:name":"Voiss Construction Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -97.037244,
+    47.91742,
+    -97.037244,
+    47.91742
+],
+  "geometry": {"coordinates":[-97.037244,47.91742],"type":"Point"}
+}

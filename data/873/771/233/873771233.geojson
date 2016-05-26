@@ -1,0 +1,71 @@
+{
+  "id": 873771233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.78598,46.809557,-100.78598,46.809557",
+    "geom:latitude":46.809557,
+    "geom:longitude":-100.78598,
+    "iso:country":"US",
+    "sg:address":"405 N 4th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 5670",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ivvlxrAgHUrDygoHVSMAg_46.809557_-100.785980@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297380,
+    "wof:geomhash":"d83a51b9c1b3ba4799ffd29e65a31f98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873771233
+        }
+    ],
+    "wof:id":873771233,
+    "wof:lastmodified":1464297380,
+    "wof:name":"Capital Trophy Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -100.78598,
+    46.809557,
+    -100.78598,
+    46.809557
+],
+  "geometry": {"coordinates":[-100.78598,46.809557],"type":"Point"}
+}

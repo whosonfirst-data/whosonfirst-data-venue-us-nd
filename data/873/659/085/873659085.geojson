@@ -1,0 +1,75 @@
+{
+  "id": 873659085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.611553,48.093328,-97.611553,48.093328",
+    "geom:latitude":48.093328,
+    "geom:longitude":-97.611553,
+    "iso:country":"US",
+    "sg:address":"3645 29th Ave NE",
+    "sg:city":"Gilby",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 865 4295",
+    "sg:postcode":"58235",
+    "sg:province":"ND",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43bv01hOteT7Pb6yEoM2DT_48.093328_-97.611553@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295689,
+    "wof:geomhash":"40520998acdd4bfb4c75952a51dfbcac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873659085
+        }
+    ],
+    "wof:id":873659085,
+    "wof:lastmodified":1464295689,
+    "wof:name":"Hancock Farm",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -97.611553,
+    48.093328,
+    -97.611553,
+    48.093328
+],
+  "geometry": {"coordinates":[-97.611553,48.093328],"type":"Point"}
+}

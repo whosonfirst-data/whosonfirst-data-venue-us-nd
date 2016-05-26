@@ -1,0 +1,79 @@
+{
+  "id": 873766229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.841731,46.855514,-96.841731,46.855514",
+    "geom:latitude":46.855514,
+    "geom:longitude":-96.841731,
+    "iso:country":"US",
+    "sg:address":"1615 38th St SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 277 1250",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "household",
+        "appliance",
+        "c"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RhCQfXtb5RiRAfx89LAeQ_46.855514_-96.841731@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297315,
+    "wof:geomhash":"99441073366674ca03660a315aaffe78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873766229
+        }
+    ],
+    "wof:id":873766229,
+    "wof:lastmodified":1464297315,
+    "wof:name":"Best Buy Store 13",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "household",
+        "appliance",
+        "c"
+    ]
+},
+  "bbox": [
+    -96.841731,
+    46.855514,
+    -96.841731,
+    46.855514
+],
+  "geometry": {"coordinates":[-96.841731,46.855514],"type":"Point"}
+}

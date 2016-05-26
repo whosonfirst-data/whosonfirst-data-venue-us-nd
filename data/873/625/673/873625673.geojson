@@ -1,0 +1,72 @@
+{
+  "id": 873625673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.784715,46.799745,-100.784715,46.799745",
+    "geom:latitude":46.799745,
+    "geom:longitude":-100.784715,
+    "iso:country":"US",
+    "sg:address":"657 Kirkwood Mall",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 1663",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "candle"
+    ],
+    "sg:website":"www.yankeecandle.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uxNE393pgWdUrbkdag4z7_46.799745_-100.784715@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295317,
+    "wof:geomhash":"54e3941082fe75e16e8253c62856c47f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873625673
+        }
+    ],
+    "wof:id":873625673,
+    "wof:lastmodified":1464295317,
+    "wof:name":"Yankee Candle Co",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "candle"
+    ]
+},
+  "bbox": [
+    -100.784715,
+    46.799745,
+    -100.784715,
+    46.799745
+],
+  "geometry": {"coordinates":[-100.78471500000001,46.799745],"type":"Point"}
+}

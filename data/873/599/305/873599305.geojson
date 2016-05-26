@@ -1,0 +1,71 @@
+{
+  "id": 873599305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.040455,47.930816,-97.040455,47.930816",
+    "geom:latitude":47.930816,
+    "geom:longitude":-97.040455,
+    "iso:country":"US",
+    "sg:address":"705 N 3rd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 739 5694",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Y9HY8BSFsHAv1vpWezHSH_47.930816_-97.040455@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294977,
+    "wof:geomhash":"fe55067b942ae67ab106c17e4b08ce03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873599305
+        }
+    ],
+    "wof:id":873599305,
+    "wof:lastmodified":1464294977,
+    "wof:name":"Professional Real Estate Svc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -97.040455,
+    47.930816,
+    -97.040455,
+    47.930816
+],
+  "geometry": {"coordinates":[-97.04045499999999,47.930816],"type":"Point"}
+}

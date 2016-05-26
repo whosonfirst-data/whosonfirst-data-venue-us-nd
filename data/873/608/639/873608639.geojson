@@ -1,0 +1,71 @@
+{
+  "id": 873608639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.029892,47.923663,-97.029892,47.923663",
+    "geom:latitude":47.923663,
+    "geom:longitude":-97.029892,
+    "iso:country":"US",
+    "sg:address":"313 Kittson Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 5683",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ju5KYq1DDbuqfcXKhXicR_47.923663_-97.029892@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295117,
+    "wof:geomhash":"d06a5014228bfdc121112b578c244921",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873608639
+        }
+    ],
+    "wof:id":873608639,
+    "wof:lastmodified":1464295117,
+    "wof:name":"Longhorn Style Salon",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -97.029892,
+    47.923663,
+    -97.029892,
+    47.923663
+],
+  "geometry": {"coordinates":[-97.029892,47.923663],"type":"Point"}
+}

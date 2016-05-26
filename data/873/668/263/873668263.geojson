@@ -1,0 +1,75 @@
+{
+  "id": 873668263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.02935,47.924578,-97.02935,47.924578",
+    "geom:latitude":47.924578,
+    "geom:longitude":-97.02935,
+    "iso:country":"US",
+    "sg:address":"28 S 3rd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 8840",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "book",
+        "rare",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DxsTfAzkHFbzWMi42ZkzW_47.924578_-97.029350@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295783,
+    "wof:geomhash":"cbb53f7589b986d952fc49005a03b04b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873668263
+        }
+    ],
+    "wof:id":873668263,
+    "wof:lastmodified":1464295783,
+    "wof:name":"Dr Eliot's Twice Sold Tales",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "book",
+        "rare",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -97.02935,
+    47.924578,
+    -97.02935,
+    47.924578
+],
+  "geometry": {"coordinates":[-97.02934999999999,47.924578],"type":"Point"}
+}

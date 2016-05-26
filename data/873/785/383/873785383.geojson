@@ -1,0 +1,69 @@
+{
+  "id": 873785383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.081588,47.910426,-97.081588,47.910426",
+    "geom:latitude":47.910426,
+    "geom:longitude":-97.081588,
+    "iso:country":"US",
+    "sg:address":"1197 S 38th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 0467",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "grain",
+        "cash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OM7sgXoSkE9hp3J2bnn4R_47.910426_-97.081588@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297560,
+    "wof:geomhash":"b8b4996a4d92b95be0a454a6e3568f8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873785383
+        }
+    ],
+    "wof:id":873785383,
+    "wof:lastmodified":1464297560,
+    "wof:name":"Costello Farm",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "grain",
+        "cash"
+    ]
+},
+  "bbox": [
+    -97.081588,
+    47.910426,
+    -97.081588,
+    47.910426
+],
+  "geometry": {"coordinates":[-97.081588,47.910426],"type":"Point"}
+}

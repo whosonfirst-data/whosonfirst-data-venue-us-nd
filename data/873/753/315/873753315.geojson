@@ -1,0 +1,72 @@
+{
+  "id": 873753315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.783167,46.805335,-100.783167,46.805335",
+    "geom:latitude":46.805335,
+    "geom:longitude":-100.783167,
+    "iso:country":"US",
+    "sg:address":"505 E Main Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 3067",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "counselor"
+    ],
+    "sg:website":"www.kranzlerkingsley.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kH2m4IqxnZ99m4V36q7sb_46.805335_-100.783167@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297123,
+    "wof:geomhash":"da6720151374a4bf13986ecadd42d328",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873753315
+        }
+    ],
+    "wof:id":873753315,
+    "wof:lastmodified":1464297123,
+    "wof:name":"Kranzler Kingsley Comm LTD",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counselor"
+    ]
+},
+  "bbox": [
+    -100.783167,
+    46.805335,
+    -100.783167,
+    46.805335
+],
+  "geometry": {"coordinates":[-100.78316700000001,46.805335],"type":"Point"}
+}

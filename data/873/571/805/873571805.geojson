@@ -1,0 +1,67 @@
+{
+  "id": 873571805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.044947,47.912428,-97.044947,47.912428",
+    "geom:latitude":47.912428,
+    "geom:longitude":-97.044947,
+    "iso:country":"US",
+    "sg:address":"905 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 3000",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:website":"www.paradiso.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sraA8cQi8KbACLpZq0jwy_47.912428_-97.044947@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294629,
+    "wof:geomhash":"f6714e7dc4cc51ab2203b8e5ec56f0e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873571805
+        }
+    ],
+    "wof:id":873571805,
+    "wof:lastmodified":1464294629,
+    "wof:name":"LA Campana/Paradiso Mexican",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.044947,
+    47.912428,
+    -97.044947,
+    47.912428
+],
+  "geometry": {"coordinates":[-97.04494699999999,47.912428],"type":"Point"}
+}

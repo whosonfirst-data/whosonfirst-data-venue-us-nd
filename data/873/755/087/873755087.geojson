@@ -1,0 +1,77 @@
+{
+  "id": 873755087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.827035,46.87611,-96.827035,46.87611",
+    "geom:latitude":46.87611,
+    "geom:longitude":-96.827035,
+    "iso:country":"US",
+    "sg:address":"3041 Main Ave",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 234 0085",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bRrL8giaXe2aI5E6D0j3x_46.876110_-96.827035@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297146,
+    "wof:geomhash":"882a9d399006f27e2bb4abf77a4d9d5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873755087
+        }
+    ],
+    "wof:id":873755087,
+    "wof:lastmodified":1464297146,
+    "wof:name":"Cash Connection",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "check"
+    ]
+},
+  "bbox": [
+    -96.827035,
+    46.87611,
+    -96.827035,
+    46.87611
+],
+  "geometry": {"coordinates":[-96.827035,46.87611],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 873630177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.85407,46.876313,-96.85407,46.876313",
+    "geom:latitude":46.876313,
+    "geom:longitude":-96.85407,
+    "iso:country":"US",
+    "sg:address":"4400 Main Ave",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 3911",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MQWJW4Nj0lSatQHda7YaD_46.876313_-96.854070@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295367,
+    "wof:geomhash":"99b96eadfe45b5d4237c2254b0daac69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873630177
+        }
+    ],
+    "wof:id":873630177,
+    "wof:lastmodified":1464295367,
+    "wof:name":"Backer's Welding",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.85407,
+    46.876313,
+    -96.85407,
+    46.876313
+],
+  "geometry": {"coordinates":[-96.85406999999999,46.876313],"type":"Point"}
+}

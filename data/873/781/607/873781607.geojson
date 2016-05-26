@@ -1,0 +1,73 @@
+{
+  "id": 873781607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.045672,47.894183,-97.045672,47.894183",
+    "geom:latitude":47.894183,
+    "geom:longitude":-97.045672,
+    "iso:country":"US",
+    "sg:address":"2520 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 4657",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "printer",
+        "cartridge"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HP1kkef5mmlyaYGTVJMHb_47.894183_-97.045672@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297512,
+    "wof:geomhash":"65c0e30b9a5a67c55abcff520a4615f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873781607
+        }
+    ],
+    "wof:id":873781607,
+    "wof:lastmodified":1464297512,
+    "wof:name":"Ink Doctor",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer",
+        "cartridge"
+    ]
+},
+  "bbox": [
+    -97.045672,
+    47.894183,
+    -97.045672,
+    47.894183
+],
+  "geometry": {"coordinates":[-97.045672,47.894183],"type":"Point"}
+}

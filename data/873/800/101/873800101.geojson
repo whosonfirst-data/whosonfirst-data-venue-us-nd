@@ -1,0 +1,73 @@
+{
+  "id": 873800101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.605695,46.26606,-96.605695,46.26606",
+    "geom:latitude":46.26606,
+    "geom:longitude":-96.605695,
+    "iso:country":"US",
+    "sg:address":"413 3rd Ave N Ofc 2",
+    "sg:city":"Wahpeton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 642 7878",
+    "sg:postcode":"58075",
+    "sg:province":"ND",
+    "sg:tags":[
+        "parish",
+        "eldercare-home",
+        "government-county",
+        "home"
+    ],
+    "sg:website":"http://www.co.richland.nd.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18N9qMg3REryyqJzkHBojW_46.266060_-96.605695@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297775,
+    "wof:geomhash":"f87cd9fa7454e4806544da998127f420",
+    "wof:hierarchy":[],
+    "wof:id":873800101,
+    "wof:lastmodified":1464297775,
+    "wof:name":"Richland County Home Health",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parish",
+        "eldercare-home",
+        "government-county",
+        "home"
+    ]
+},
+  "bbox": [
+    -96.605695,
+    46.26606,
+    -96.605695,
+    46.26606
+],
+  "geometry": {"coordinates":[-96.605695,46.26606],"type":"Point"}
+}

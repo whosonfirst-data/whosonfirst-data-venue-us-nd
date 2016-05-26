@@ -1,0 +1,66 @@
+{
+  "id": 873680221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.81388,46.810197,-100.81388,46.810197",
+    "geom:latitude":46.810197,
+    "geom:longitude":-100.81388,
+    "iso:country":"US",
+    "sg:address":"1205 W Ave A",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 328 5270",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0krv1iq3YgguDaOBjVMTd2_46.810197_-100.813880@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296002,
+    "wof:geomhash":"8cce600c7ee1fcde4f289297810e0c12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873680221
+        }
+    ],
+    "wof:id":873680221,
+    "wof:lastmodified":1464296002,
+    "wof:name":"North Dakota State Government",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.81388,
+    46.810197,
+    -100.81388,
+    46.810197
+],
+  "geometry": {"coordinates":[-100.81388,46.810197],"type":"Point"}
+}

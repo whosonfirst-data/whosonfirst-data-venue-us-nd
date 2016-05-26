@@ -1,0 +1,82 @@
+{
+  "id": 873800967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.812218,46.884606,-96.812218,46.884606",
+    "geom:latitude":46.884606,
+    "geom:longitude":-96.812218,
+    "iso:country":"US",
+    "sg:address":"810 20th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 8474",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "body",
+        "repairing",
+        "painting",
+        "automobile"
+    ],
+    "sg:website":"http://www.steenandberg.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877363,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gH7bII6GARriJ6Pg1wFLl_46.884606_-96.812218@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297784,
+    "wof:geomhash":"b4c283013268b01a16eea911ecdc40a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877363,
+            "region_id":85688525,
+            "venue_id":873800967
+        }
+    ],
+    "wof:id":873800967,
+    "wof:lastmodified":1464297784,
+    "wof:name":"Steen & Berg Inc",
+    "wof:parent_id":85877363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "repairing",
+        "painting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -96.812218,
+    46.884606,
+    -96.812218,
+    46.884606
+],
+  "geometry": {"coordinates":[-96.812218,46.884606],"type":"Point"}
+}

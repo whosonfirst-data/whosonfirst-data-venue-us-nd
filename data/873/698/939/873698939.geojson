@@ -1,0 +1,78 @@
+{
+  "id": 873698939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.796668,46.899247,-96.796668,46.899247",
+    "geom:latitude":46.899247,
+    "geom:longitude":-96.796668,
+    "iso:country":"US",
+    "sg:address":"1510 12th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 231 6000",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "state",
+        "inspection"
+    ],
+    "sg:website":"www.ndisonline.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877363,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HUnxzjHsFQ0wTD4cT4hKM_46.899247_-96.796668@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296393,
+    "wof:geomhash":"b64017a1073cb42ad82a07dbae360cde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877363,
+            "region_id":85688525,
+            "venue_id":873698939
+        }
+    ],
+    "wof:id":873698939,
+    "wof:lastmodified":1464296393,
+    "wof:name":"Independent Study",
+    "wof:parent_id":85877363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "inspection"
+    ]
+},
+  "bbox": [
+    -96.796668,
+    46.899247,
+    -96.796668,
+    46.899247
+],
+  "geometry": {"coordinates":[-96.796668,46.899247],"type":"Point"}
+}

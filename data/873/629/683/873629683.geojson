@@ -1,0 +1,75 @@
+{
+  "id": 873629683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.899754,46.877284,-96.899754,46.877284",
+    "geom:latitude":46.877284,
+    "geom:longitude":-96.899754,
+    "iso:country":"US",
+    "sg:address":"17 Center St",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 4650",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19VbhBAqWQUiQKp4H9dENh_46.877284_-96.899754@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295363,
+    "wof:geomhash":"35ace6f9285204cd8e2773ae1b20268e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873629683
+        }
+    ],
+    "wof:id":873629683,
+    "wof:lastmodified":1464295363,
+    "wof:name":"Leh Consulting",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -96.899754,
+    46.877284,
+    -96.899754,
+    46.877284
+],
+  "geometry": {"coordinates":[-96.899754,46.877284],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873708089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.107537,47.932922,-97.107537,47.932922",
+    "geom:latitude":47.932922,
+    "geom:longitude":-97.107537,
+    "iso:country":"US",
+    "sg:address":"5303 Gateway Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 6667",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Z9ilZY8ZQYr3ezecuVOJA_47.932922_-97.107537@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296496,
+    "wof:geomhash":"29cce3eb6ccea1c9f7b1351a133950c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873708089
+        }
+    ],
+    "wof:id":873708089,
+    "wof:lastmodified":1464296496,
+    "wof:name":"Bandag",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -97.107537,
+    47.932922,
+    -97.107537,
+    47.932922
+],
+  "geometry": {"coordinates":[-97.10753699999999,47.932922],"type":"Point"}
+}

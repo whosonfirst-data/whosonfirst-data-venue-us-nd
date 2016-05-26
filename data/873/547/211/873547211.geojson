@@ -1,0 +1,81 @@
+{
+  "id": 873547211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.80128,46.866982,-96.80128,46.866982",
+    "geom:latitude":46.866982,
+    "geom:longitude":-96.80128,
+    "iso:country":"US",
+    "sg:address":"717 14th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 5146",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "development",
+        "small",
+        "grain",
+        "variety"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qxs8mHLS84yz4dnnfR1qK_46.866982_-96.801280@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294342,
+    "wof:geomhash":"b5e92fdc75164335b686a9dbfc793583",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873547211
+        }
+    ],
+    "wof:id":873547211,
+    "wof:lastmodified":1464294342,
+    "wof:name":"Westbred LLC",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "small",
+        "grain",
+        "variety"
+    ]
+},
+  "bbox": [
+    -96.80128,
+    46.866982,
+    -96.80128,
+    46.866982
+],
+  "geometry": {"coordinates":[-96.80128000000001,46.866982],"type":"Point"}
+}

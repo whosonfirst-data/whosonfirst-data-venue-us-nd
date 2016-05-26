@@ -1,0 +1,66 @@
+{
+  "id": 873774739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.62366,47.90657,-97.62366,47.90657",
+    "geom:latitude":47.90657,
+    "geom:longitude":-97.62366,
+    "iso:country":"US",
+    "sg:address":"317 Towner Ave",
+    "sg:city":"Larimore",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 343 2112",
+    "sg:postcode":"58251",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_651xHtZMcXHknPtU2GZt5P_47.906570_-97.623660@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297423,
+    "wof:geomhash":"22e9c44ed6ddb67e3930b046714ab82d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873774739
+        }
+    ],
+    "wof:id":873774739,
+    "wof:lastmodified":1464297423,
+    "wof:name":"Bernardi Insurance and RE",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.62366,
+    47.90657,
+    -97.62366,
+    47.90657
+],
+  "geometry": {"coordinates":[-97.62366,47.90657],"type":"Point"}
+}

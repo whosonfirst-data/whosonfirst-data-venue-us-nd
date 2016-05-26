@@ -1,0 +1,77 @@
+{
+  "id": 873639353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.901536,46.876911,-96.901536,46.876911",
+    "geom:latitude":46.876911,
+    "geom:longitude":-96.901536,
+    "iso:country":"US",
+    "sg:address":"100 Main Ave W",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 277 7288",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DdpyORp8QwR2CAscXYNzx_46.876911_-96.901536@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295467,
+    "wof:geomhash":"0334b825940e92de3ff4aeda55833303",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873639353
+        }
+    ],
+    "wof:id":873639353,
+    "wof:lastmodified":1464295467,
+    "wof:name":"West Fargo Car Clinic",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -96.901536,
+    46.876911,
+    -96.901536,
+    46.876911
+],
+  "geometry": {"coordinates":[-96.90153599999999,46.876911],"type":"Point"}
+}

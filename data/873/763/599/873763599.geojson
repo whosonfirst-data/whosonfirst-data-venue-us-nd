@@ -1,0 +1,73 @@
+{
+  "id": 873763599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.051177,47.895281,-97.051177,47.895281",
+    "geom:latitude":47.895281,
+    "geom:longitude":-97.051177,
+    "iso:country":"US",
+    "sg:address":"2720 S 17th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 335 4016",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DKGOSLYgiZSuBwrFjuOwS_47.895281_-97.051177@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297267,
+    "wof:geomhash":"a4fc36f7024077c94a5ae6e68db47096",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873763599
+        }
+    ],
+    "wof:id":873763599,
+    "wof:lastmodified":1464297267,
+    "wof:name":"Development Homes Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -97.051177,
+    47.895281,
+    -97.051177,
+    47.895281
+],
+  "geometry": {"coordinates":[-97.051177,47.895281],"type":"Point"}
+}

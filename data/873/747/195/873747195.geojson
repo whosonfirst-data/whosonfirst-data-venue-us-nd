@@ -1,0 +1,75 @@
+{
+  "id": 873747195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.716004,46.834527,-100.716004,46.834527",
+    "geom:latitude":46.834527,
+    "geom:longitude":-100.716004,
+    "iso:country":"US",
+    "sg:address":"4821 Trenton Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 323 9385",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pvgD545oYhbRu9MLH8cLv_46.834527_-100.716004@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297040,
+    "wof:geomhash":"783693b532e7b578e91e83ae2e3b9112",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873747195
+        }
+    ],
+    "wof:id":873747195,
+    "wof:lastmodified":1464297040,
+    "wof:name":"Bossert Trucking Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -100.716004,
+    46.834527,
+    -100.716004,
+    46.834527
+],
+  "geometry": {"coordinates":[-100.716004,46.834527],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873533965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.336698,48.222872,-101.336698,48.222872",
+    "geom:latitude":48.222872,
+    "geom:longitude":-101.336698,
+    "iso:country":"US",
+    "sg:address":"1211 28th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 4390",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bpXCUSwU7YyWG0rffoDNf_48.222872_-101.336698@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294187,
+    "wof:geomhash":"209cd76c842e7f2b158c9495b22b68ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873533965
+        }
+    ],
+    "wof:id":873533965,
+    "wof:lastmodified":1464294187,
+    "wof:name":"Milt's Mobile Home Svc",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.336698,
+    48.222872,
+    -101.336698,
+    48.222872
+],
+  "geometry": {"coordinates":[-101.336698,48.222872],"type":"Point"}
+}

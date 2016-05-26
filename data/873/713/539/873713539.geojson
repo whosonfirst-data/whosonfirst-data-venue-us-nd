@@ -1,0 +1,66 @@
+{
+  "id": 873713539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.039218,47.876205,-97.039218,47.876205",
+    "geom:latitude":47.876205,
+    "geom:longitude":-97.039218,
+    "iso:country":"US",
+    "sg:address":"4698 Homestead Cir",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 4820",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KI7Ot2LOdIVjDTF6R9l5o_47.876205_-97.039218@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296563,
+    "wof:geomhash":"272d29a19623b409ad60d337f0adc2b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873713539
+        }
+    ],
+    "wof:id":873713539,
+    "wof:lastmodified":1464296563,
+    "wof:name":"NP Scenes",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.039218,
+    47.876205,
+    -97.039218,
+    47.876205
+],
+  "geometry": {"coordinates":[-97.03921800000001,47.876205],"type":"Point"}
+}

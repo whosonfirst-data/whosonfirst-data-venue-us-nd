@@ -1,0 +1,71 @@
+{
+  "id": 873582427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.798929,46.789794,-100.798929,46.789794",
+    "geom:latitude":46.789794,
+    "geom:longitude":-100.798929,
+    "iso:country":"US",
+    "sg:address":"418 W Reno Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 4207",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "refrigeration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10Fr08fLwNxyIUeHQtdel8_46.789794_-100.798929@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294746,
+    "wof:geomhash":"3c6ccf40c912f8af58e822f4a17f8fd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873582427
+        }
+    ],
+    "wof:id":873582427,
+    "wof:lastmodified":1464294746,
+    "wof:name":"Meidinger Sales & Service",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration"
+    ]
+},
+  "bbox": [
+    -100.798929,
+    46.789794,
+    -100.798929,
+    46.789794
+],
+  "geometry": {"coordinates":[-100.798929,46.789794],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 873720889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.798981,46.838537,-96.798981,46.838537",
+    "geom:latitude":46.838537,
+    "geom:longitude":-96.798981,
+    "iso:country":"US",
+    "sg:address":"2801 S University Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 297 9477",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534475,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0y8dkHf7fYVyHm31EkTGWL_46.838537_-96.798981@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296661,
+    "wof:geomhash":"964473c58b1264ad7016b4a2d1a44d45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534475,
+            "region_id":85688525,
+            "venue_id":873720889
+        }
+    ],
+    "wof:id":873720889,
+    "wof:lastmodified":1464296661,
+    "wof:name":"Country Furniture",
+    "wof:parent_id":420534475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.798981,
+    46.838537,
+    -96.798981,
+    46.838537
+],
+  "geometry": {"coordinates":[-96.798981,46.838537],"type":"Point"}
+}

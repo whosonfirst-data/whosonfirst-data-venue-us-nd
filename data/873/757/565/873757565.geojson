@@ -1,0 +1,73 @@
+{
+  "id": 873757565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.623682,47.951363,-97.623682,47.951363",
+    "geom:latitude":47.951363,
+    "geom:longitude":-97.623682,
+    "iso:country":"US",
+    "sg:address":"1915 37th St NE",
+    "sg:city":"Larimore",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 343 2686",
+    "sg:postcode":"58251",
+    "sg:province":"ND",
+    "sg:tags":[
+        "trailer",
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60zHQsKIe3HXaYIwBFRi9z_47.951363_-97.623682@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297176,
+    "wof:geomhash":"4e2f897f2257e0f4fc6cbb6917365109",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873757565
+        }
+    ],
+    "wof:id":873757565,
+    "wof:lastmodified":1464297176,
+    "wof:name":"Holwager Farms",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trailer",
+        "utility"
+    ]
+},
+  "bbox": [
+    -97.623682,
+    47.951363,
+    -97.623682,
+    47.951363
+],
+  "geometry": {"coordinates":[-97.623682,47.951363],"type":"Point"}
+}

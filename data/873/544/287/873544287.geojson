@@ -1,0 +1,71 @@
+{
+  "id": 873544287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.73681,46.806558,-100.73681,46.806558",
+    "geom:latitude":46.806558,
+    "geom:longitude":-100.73681,
+    "iso:country":"US",
+    "sg:address":"310 Enterprise St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 4496",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0naIaWpFjekHvrJzF5joWw_46.806558_-100.736810@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294309,
+    "wof:geomhash":"2424557a7706c8ce6e91be74cf43d638",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873544287
+        }
+    ],
+    "wof:id":873544287,
+    "wof:lastmodified":1464294309,
+    "wof:name":"Waste Management Recycling",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system"
+    ]
+},
+  "bbox": [
+    -100.73681,
+    46.806558,
+    -100.73681,
+    46.806558
+],
+  "geometry": {"coordinates":[-100.73681000000001,46.806558],"type":"Point"}
+}

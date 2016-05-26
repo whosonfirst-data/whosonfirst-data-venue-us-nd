@@ -1,0 +1,66 @@
+{
+  "id": 873659587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.05413,47.912495,-97.05413,47.912495",
+    "geom:latitude":47.912495,
+    "geom:longitude":-97.05413,
+    "iso:country":"US",
+    "sg:address":"1020 S 19th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 6394",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_522BvSgAOXw57VszeZKAZo_47.912495_-97.054130@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295694,
+    "wof:geomhash":"b0fc34dc224692323b5b14bc761f3ae1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873659587
+        }
+    ],
+    "wof:id":873659587,
+    "wof:lastmodified":1464295694,
+    "wof:name":"PR Floor Covering Co",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.05413,
+    47.912495,
+    -97.05413,
+    47.912495
+],
+  "geometry": {"coordinates":[-97.05413,47.912495],"type":"Point"}
+}

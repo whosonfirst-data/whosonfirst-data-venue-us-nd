@@ -1,0 +1,66 @@
+{
+  "id": 873592661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.708919,48.136888,-97.708919,48.136888",
+    "geom:latitude":48.136888,
+    "geom:longitude":-97.708919,
+    "iso:country":"US",
+    "sg:address":"3291 41st St NE",
+    "sg:city":"Fordville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 865 4234",
+    "sg:postcode":"58231",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Tq2Oo0IZdJhEpV6odAOTx_48.136888_-97.708919@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294865,
+    "wof:geomhash":"cf07008fbac1eaa1ff82b69f5576ebde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873592661
+        }
+    ],
+    "wof:id":873592661,
+    "wof:lastmodified":1464294865,
+    "wof:name":"Thomas Farms",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.708919,
+    48.136888,
+    -97.708919,
+    48.136888
+],
+  "geometry": {"coordinates":[-97.70891899999999,48.136888],"type":"Point"}
+}

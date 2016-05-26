@@ -1,0 +1,72 @@
+{
+  "id": 873539017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.01141,46.647374,-97.01141,46.647374",
+    "geom:latitude":46.647374,
+    "geom:longitude":-97.01141,
+    "iso:country":"US",
+    "sg:address":"110 Linden St",
+    "sg:city":"Kindred",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 428 3693",
+    "sg:postcode":"58051",
+    "sg:province":"ND",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"www.rdoequipment.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ebiU1axgwzkE8hoqilO0d_46.647374_-97.011410@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294250,
+    "wof:geomhash":"0eee43c10ec812ab2ba701246d6f6ef6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873539017
+        }
+    ],
+    "wof:id":873539017,
+    "wof:lastmodified":1464294250,
+    "wof:name":"RDO Equipment Co",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.01141,
+    46.647374,
+    -97.01141,
+    46.647374
+],
+  "geometry": {"coordinates":[-97.01141,46.647374],"type":"Point"}
+}

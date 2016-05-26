@@ -1,0 +1,75 @@
+{
+  "id": 873707147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.811461,46.864667,-96.811461,46.864667",
+    "geom:latitude":46.864667,
+    "geom:longitude":-96.811461,
+    "iso:country":"US",
+    "sg:address":"1005 19th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 3245",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877331,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IfACBF11QkPyQWdYAPz1F_46.864667_-96.811461@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296485,
+    "wof:geomhash":"7b29742d028d408447bd09804d588332",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877331,
+            "region_id":85688525,
+            "venue_id":873707147
+        }
+    ],
+    "wof:id":873707147,
+    "wof:lastmodified":1464296485,
+    "wof:name":"Brainstorm Consulting LLC",
+    "wof:parent_id":85877331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -96.811461,
+    46.864667,
+    -96.811461,
+    46.864667
+],
+  "geometry": {"coordinates":[-96.81146099999999,46.864667],"type":"Point"}
+}

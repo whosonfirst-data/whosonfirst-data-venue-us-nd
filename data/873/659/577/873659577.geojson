@@ -1,0 +1,71 @@
+{
+  "id": 873659577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.303771,48.239843,-101.303771,48.239843",
+    "geom:latitude":48.239843,
+    "geom:longitude":-101.303771,
+    "iso:country":"US",
+    "sg:address":"315 7th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 5269",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30kILmZHW1jssWz8hRqK6n_48.239843_-101.303771@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295694,
+    "wof:geomhash":"90f9dce2536c70c06130dbe9c270d3f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873659577
+        }
+    ],
+    "wof:id":873659577,
+    "wof:lastmodified":1464295694,
+    "wof:name":"Lyle's Delivery & Moving",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -101.303771,
+    48.239843,
+    -101.303771,
+    48.239843
+],
+  "geometry": {"coordinates":[-101.303771,48.239843],"type":"Point"}
+}

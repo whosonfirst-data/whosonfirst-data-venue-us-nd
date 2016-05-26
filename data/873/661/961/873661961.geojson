@@ -1,0 +1,77 @@
+{
+  "id": 873661961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-102.782647,46.876371,-102.782647,46.876371",
+    "geom:latitude":46.876371,
+    "geom:longitude":-102.782647,
+    "iso:country":"US",
+    "sg:address":"527 E Broadway St",
+    "sg:city":"Dickinson",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 483 2971",
+    "sg:postcode":"58601",
+    "sg:province":"ND",
+    "sg:tags":[
+        "grain",
+        "elevator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877119,
+        102191575,
+        404482179,
+        85633793,
+        85982521,
+        102082105,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ou8trZRE74DIWqclUspVu_46.876371_-102.782647@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295719,
+    "wof:geomhash":"921f2bf30a720d1f4019c2fe1c37390a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082105,
+            "localadmin_id":404482179,
+            "locality_id":85982521,
+            "neighbourhood_id":85877119,
+            "region_id":85688525,
+            "venue_id":873661961
+        }
+    ],
+    "wof:id":873661961,
+    "wof:lastmodified":1464295719,
+    "wof:name":"Southwest Grain-Harvest States",
+    "wof:parent_id":85877119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grain",
+        "elevator"
+    ]
+},
+  "bbox": [
+    -102.782647,
+    46.876371,
+    -102.782647,
+    46.876371
+],
+  "geometry": {"coordinates":[-102.782647,46.876371],"type":"Point"}
+}

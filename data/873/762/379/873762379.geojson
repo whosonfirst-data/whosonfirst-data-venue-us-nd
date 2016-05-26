@@ -1,0 +1,66 @@
+{
+  "id": 873762379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.296178,48.202269,-101.296178,48.202269",
+    "geom:latitude":48.202269,
+    "geom:longitude":-101.296178,
+    "iso:country":"US",
+    "sg:address":"3108 S Broadway St",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 858 1900",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5P2aiOqPj6rTSeVU7C7ezO_48.202269_-101.296178@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297246,
+    "wof:geomhash":"684894a7e79d1939945af9b59a18872e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873762379
+        }
+    ],
+    "wof:id":873762379,
+    "wof:lastmodified":1464297246,
+    "wof:name":"Nodak Mutual Insurance Claims",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.296178,
+    48.202269,
+    -101.296178,
+    48.202269
+],
+  "geometry": {"coordinates":[-101.296178,48.202269],"type":"Point"}
+}

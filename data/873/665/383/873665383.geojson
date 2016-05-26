@@ -1,0 +1,71 @@
+{
+  "id": 873665383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.787856,46.800363,-100.787856,46.800363",
+    "geom:latitude":46.800363,
+    "geom:longitude":-100.787856,
+    "iso:country":"US",
+    "sg:address":"424 S 3rd St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 1350",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WQvOLs7oxNZScwZphux4Y_46.800363_-100.787856@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295754,
+    "wof:geomhash":"57d9ef984c55aed99a0732ff2f2b2a38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873665383
+        }
+    ],
+    "wof:id":873665383,
+    "wof:lastmodified":1464295754,
+    "wof:name":"Cookies For You",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -100.787856,
+    46.800363,
+    -100.787856,
+    46.800363
+],
+  "geometry": {"coordinates":[-100.787856,46.800363],"type":"Point"}
+}

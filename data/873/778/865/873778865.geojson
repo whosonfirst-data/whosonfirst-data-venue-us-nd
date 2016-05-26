@@ -1,0 +1,71 @@
+{
+  "id": 873778865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.3039,48.210809,-101.3039,48.210809",
+    "geom:latitude":48.210809,
+    "geom:longitude":-101.3039,
+    "iso:country":"US",
+    "sg:address":"816 20th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 1777",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07eagIzcVGKmDQt3UoycKP_48.210809_-101.303900@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297474,
+    "wof:geomhash":"d259167a5074c411b4c9180199d313c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873778865
+        }
+    ],
+    "wof:id":873778865,
+    "wof:lastmodified":1464297474,
+    "wof:name":"Larson Law Firm",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -101.3039,
+    48.210809,
+    -101.3039,
+    48.210809
+],
+  "geometry": {"coordinates":[-101.3039,48.210809],"type":"Point"}
+}

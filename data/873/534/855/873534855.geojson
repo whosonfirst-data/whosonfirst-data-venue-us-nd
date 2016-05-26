@@ -1,0 +1,73 @@
+{
+  "id": 873534855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.023461,47.877046,-97.023461,47.877046",
+    "geom:latitude":47.877046,
+    "geom:longitude":-97.023461,
+    "iso:country":"US",
+    "sg:address":"23 Sandy Hills Ln",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 8760",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "steel",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56mCxK0zWzMTqB3eu9syEc_47.877046_-97.023461@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294202,
+    "wof:geomhash":"6d77692539f07275edf02df3e53d4e6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873534855
+        }
+    ],
+    "wof:id":873534855,
+    "wof:lastmodified":1464294202,
+    "wof:name":"American Defense Inds Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "product"
+    ]
+},
+  "bbox": [
+    -97.023461,
+    47.877046,
+    -97.023461,
+    47.877046
+],
+  "geometry": {"coordinates":[-97.023461,47.877046],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 873771413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-102.783912,46.880547,-102.783912,46.880547",
+    "geom:latitude":46.880547,
+    "geom:longitude":-102.783912,
+    "iso:country":"US",
+    "sg:address":"115 1st Ave E",
+    "sg:city":"Dickinson",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 221 4573",
+    "sg:postcode":"58601",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877119,
+        102191575,
+        404482179,
+        85633793,
+        85982521,
+        102082105,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AycZpk7hdjuOIfNt8Ba8X_46.880547_-102.783912@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297382,
+    "wof:geomhash":"2e41ce6c9f5f73ef109e462622616799",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082105,
+            "localadmin_id":404482179,
+            "locality_id":85982521,
+            "neighbourhood_id":85877119,
+            "region_id":85688525,
+            "venue_id":873771413
+        }
+    ],
+    "wof:id":873771413,
+    "wof:lastmodified":1464297382,
+    "wof:name":"IBM",
+    "wof:parent_id":85877119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -102.783912,
+    46.880547,
+    -102.783912,
+    46.880547
+],
+  "geometry": {"coordinates":[-102.783912,46.880547],"type":"Point"}
+}

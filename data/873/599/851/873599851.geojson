@@ -1,0 +1,71 @@
+{
+  "id": 873599851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.772554,46.763357,-100.772554,46.763357",
+    "geom:latitude":46.763357,
+    "geom:longitude":-100.772554,
+    "iso:country":"US",
+    "sg:address":"3665 W Princeton Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 1143",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WQIK7CFSX1vfH0ROscH14_46.763357_-100.772554@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294985,
+    "wof:geomhash":"5049ccd4a0b5cfdd128e30d70c86e87e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873599851
+        }
+    ],
+    "wof:id":873599851,
+    "wof:lastmodified":1464294985,
+    "wof:name":"South Princeton",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -100.772554,
+    46.763357,
+    -100.772554,
+    46.763357
+],
+  "geometry": {"coordinates":[-100.772554,46.763357],"type":"Point"}
+}

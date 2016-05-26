@@ -1,0 +1,73 @@
+{
+  "id": 873548051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.307001,48.236785,-101.307001,48.236785",
+    "geom:latitude":48.236785,
+    "geom:longitude":-101.307001,
+    "iso:country":"US",
+    "sg:address":"905 1st Ave NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 8502",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "house",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RKglqJiwiz30Cg2EtM6FO_48.236785_-101.307001@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294357,
+    "wof:geomhash":"897fc89d7f749f0f038135f0d731fb5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873548051
+        }
+    ],
+    "wof:id":873548051,
+    "wof:lastmodified":1464294357,
+    "wof:name":"Castle Construction",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -101.307001,
+    48.236785,
+    -101.307001,
+    48.236785
+],
+  "geometry": {"coordinates":[-101.307001,48.236785],"type":"Point"}
+}

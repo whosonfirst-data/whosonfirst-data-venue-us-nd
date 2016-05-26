@@ -1,0 +1,72 @@
+{
+  "id": 873631669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.779593,46.795105,-100.779593,46.795105",
+    "geom:latitude":46.795105,
+    "geom:longitude":-100.779593,
+    "iso:country":"US",
+    "sg:address":"180 E Bismarck Expy",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 3311",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "operation"
+    ],
+    "sg:website":"www.expresswayinnandsuites.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WBE9GKmd6jKavjbUEq2Mj_46.795105_-100.779593@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295381,
+    "wof:geomhash":"b05265f0c0e9009d65fe4d3e0e3d601c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873631669
+        }
+    ],
+    "wof:id":873631669,
+    "wof:lastmodified":1464295381,
+    "wof:name":"Expressway Suites",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -100.779593,
+    46.795105,
+    -100.779593,
+    46.795105
+],
+  "geometry": {"coordinates":[-100.77959300000001,46.795105],"type":"Point"}
+}

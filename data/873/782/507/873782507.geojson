@@ -1,0 +1,71 @@
+{
+  "id": 873782507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.272315,48.327001,-101.272315,48.327001",
+    "geom:latitude":48.327001,
+    "geom:longitude":-101.272315,
+    "iso:country":"US",
+    "sg:address":"1441 86th Ave NE",
+    "sg:city":"Minot",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 7130",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "wheat",
+        "grain",
+        "cash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01A45jyqhjd53bPh8iVAhn_48.327001_-101.272315@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297524,
+    "wof:geomhash":"5c15864269190c41ac04164f7b255430",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873782507
+        }
+    ],
+    "wof:id":873782507,
+    "wof:lastmodified":1464297524,
+    "wof:name":"Blaine Kotasek Farm",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "wheat",
+        "grain",
+        "cash"
+    ]
+},
+  "bbox": [
+    -101.272315,
+    48.327001,
+    -101.272315,
+    48.327001
+],
+  "geometry": {"coordinates":[-101.27231500000001,48.327001],"type":"Point"}
+}

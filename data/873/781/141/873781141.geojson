@@ -1,0 +1,71 @@
+{
+  "id": 873781141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.676003,46.812822,-100.676003,46.812822",
+    "geom:latitude":46.812822,
+    "geom:longitude":-100.676003,
+    "iso:country":"US",
+    "sg:address":"800 W Bristol Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 0484",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GE5ZC0LQgtGPtuadNpauW_46.812822_-100.676003@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297506,
+    "wof:geomhash":"32ea3b52b6cf4d581481697f389da691",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873781141
+        }
+    ],
+    "wof:id":873781141,
+    "wof:lastmodified":1464297506,
+    "wof:name":"Super Shift Transmission",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -100.676003,
+    46.812822,
+    -100.676003,
+    46.812822
+],
+  "geometry": {"coordinates":[-100.67600299999999,46.812822],"type":"Point"}
+}

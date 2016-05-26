@@ -1,0 +1,71 @@
+{
+  "id": 873707633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.045615,47.899902,-97.045615,47.899902",
+    "geom:latitude":47.899902,
+    "geom:longitude":-97.045615,
+    "iso:country":"US",
+    "sg:address":"2016 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 8087",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "civil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5p0GN8O8CKPSWfKSCGxZpR_47.899902_-97.045615@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296491,
+    "wof:geomhash":"0c4288a13daca369af475163537d346c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873707633
+        }
+    ],
+    "wof:id":873707633,
+    "wof:lastmodified":1464296491,
+    "wof:name":"Advanced Engrg & Envmtl Svcs",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "civil"
+    ]
+},
+  "bbox": [
+    -97.045615,
+    47.899902,
+    -97.045615,
+    47.899902
+],
+  "geometry": {"coordinates":[-97.045615,47.899902],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 873735117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.794294,46.790141,-100.794294,46.790141",
+    "geom:latitude":46.790141,
+    "geom:longitude":-100.794294,
+    "iso:country":"US",
+    "sg:address":"221 W Reno Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 221 6813",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "skating",
+        "rink"
+    ],
+    "sg:website":"www.bisparks.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pMPWhyt3QxUqF0WTwTX3L_46.790141_-100.794294@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296851,
+    "wof:geomhash":"2fdd5021b3d2f566dca56389ec3dd32a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873735117
+        }
+    ],
+    "wof:id":873735117,
+    "wof:lastmodified":1464296851,
+    "wof:name":"Schaumberg Ice Arena",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skating",
+        "rink"
+    ]
+},
+  "bbox": [
+    -100.794294,
+    46.790141,
+    -100.794294,
+    46.790141
+],
+  "geometry": {"coordinates":[-100.79429399999999,46.790141],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873662639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.297688,48.202235,-101.297688,48.202235",
+    "geom:latitude":48.202235,
+    "geom:longitude":-101.297688,
+    "iso:country":"US",
+    "sg:address":"315 31st Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 7909",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "instrument",
+        "musical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SbNAxEVtu9pu5hGtC3ACg_48.202235_-101.297688@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295726,
+    "wof:geomhash":"e2ea589b308d031c46eda87f8d97d601",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873662639
+        }
+    ],
+    "wof:id":873662639,
+    "wof:lastmodified":1464295726,
+    "wof:name":"Prairie Winds Band Instr Rpr",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "musical"
+    ]
+},
+  "bbox": [
+    -101.297688,
+    48.202235,
+    -101.297688,
+    48.202235
+],
+  "geometry": {"coordinates":[-101.29768799999999,48.202235],"type":"Point"}
+}

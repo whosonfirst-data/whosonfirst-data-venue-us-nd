@@ -1,0 +1,71 @@
+{
+  "id": 873727219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.046622,47.914433,-97.046622,47.914433",
+    "geom:latitude":47.914433,
+    "geom:longitude":-97.046622,
+    "iso:country":"US",
+    "sg:address":"710 S 14th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 787 0472",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "windows"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49qThyj3hCbwetlHLwoxFd_47.914433_-97.046622@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296744,
+    "wof:geomhash":"be40307f10d5042338b46c0d2522008f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873727219
+        }
+    ],
+    "wof:id":873727219,
+    "wof:lastmodified":1464296744,
+    "wof:name":"Glass Pro's Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "windows"
+    ]
+},
+  "bbox": [
+    -97.046622,
+    47.914433,
+    -97.046622,
+    47.914433
+],
+  "geometry": {"coordinates":[-97.046622,47.914433],"type":"Point"}
+}

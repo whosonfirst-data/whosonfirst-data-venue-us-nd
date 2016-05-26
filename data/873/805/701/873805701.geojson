@@ -1,0 +1,75 @@
+{
+  "id": 873805701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.511933,45.524567,-122.511933,45.524567",
+    "geom:latitude":45.524567,
+    "geom:longitude":-122.511933,
+    "iso:country":"US",
+    "sg:address":"238 147th Ave NE",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 786 9868",
+    "sg:postcode":"58274",
+    "sg:province":"ND",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688513,
+        102191575,
+        85633793,
+        101715829,
+        102081631,
+        85893187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ELAyoqUm80D6jMhMJqwFo_45.524567_-122.511933@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297848,
+    "wof:geomhash":"635e5f2793e37d0a82026b7f7e9bc638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "neighbourhood_id":85893187,
+            "region_id":85688513,
+            "venue_id":873805701
+        }
+    ],
+    "wof:id":873805701,
+    "wof:lastmodified":1464297848,
+    "wof:name":"Nelson Auto Body & Sales",
+    "wof:parent_id":85893187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -122.511933,
+    45.524567,
+    -122.511933,
+    45.524567
+],
+  "geometry": {"coordinates":[-122.511933,45.524567],"type":"Point"}
+}

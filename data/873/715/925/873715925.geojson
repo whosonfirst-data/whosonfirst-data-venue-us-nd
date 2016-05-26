@@ -1,0 +1,77 @@
+{
+  "id": 873715925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.808506,46.869842,-96.808506,46.869842",
+    "geom:latitude":46.869842,
+    "geom:longitude":-96.808506,
+    "iso:country":"US",
+    "sg:address":"1633 5th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 277 5979",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "acoustical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877331,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6X5J3DkbCkeYKrkOJAoMTS_46.869842_-96.808506@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296592,
+    "wof:geomhash":"2085683968c2cc8e6e5917baf07b5e05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877331,
+            "region_id":85688525,
+            "venue_id":873715925
+        }
+    ],
+    "wof:id":873715925,
+    "wof:lastmodified":1464296592,
+    "wof:name":"Blahna Sales Inc",
+    "wof:parent_id":85877331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acoustical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.808506,
+    46.869842,
+    -96.808506,
+    46.869842
+],
+  "geometry": {"coordinates":[-96.80850599999999,46.869842],"type":"Point"}
+}

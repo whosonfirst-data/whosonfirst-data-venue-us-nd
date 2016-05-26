@@ -1,0 +1,67 @@
+{
+  "id": 873789727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.492308,48.150569,-97.492308,48.150569",
+    "geom:latitude":48.150569,
+    "geom:longitude":-97.492308,
+    "iso:country":"US",
+    "sg:address":"3297 31st St NE",
+    "sg:city":"Gilby",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 869 2864",
+    "sg:postcode":"58235",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "corn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3U2wK2l6Wz26F9pgyzswFU_48.150569_-97.492308@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297637,
+    "wof:geomhash":"83caa5d12fcb595611c17a7a5d4b0ca4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873789727
+        }
+    ],
+    "wof:id":873789727,
+    "wof:lastmodified":1464297637,
+    "wof:name":"Skogens Arabians",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "corn"
+    ]
+},
+  "bbox": [
+    -97.492308,
+    48.150569,
+    -97.492308,
+    48.150569
+],
+  "geometry": {"coordinates":[-97.49230799999999,48.150569],"type":"Point"}
+}

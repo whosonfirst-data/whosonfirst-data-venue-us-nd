@@ -1,0 +1,75 @@
+{
+  "id": 873552865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.373885,47.959575,-97.373885,47.959575",
+    "geom:latitude":47.959575,
+    "geom:longitude":-97.373885,
+    "iso:country":"US",
+    "sg:address":"1767 Iowa St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 594 6572",
+    "sg:postcode":"58204",
+    "sg:province":"ND",
+    "sg:tags":[
+        "environmental",
+        "s",
+        "entry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mbfIZGWOdY1ntJsnuaxJC_47.959575_-97.373885@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294410,
+    "wof:geomhash":"ddceecc5715aaf8f9274147e8f7f18b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873552865
+        }
+    ],
+    "wof:id":873552865,
+    "wof:lastmodified":1464294410,
+    "wof:name":"Envirohelp",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "environmental",
+        "s",
+        "entry"
+    ]
+},
+  "bbox": [
+    -97.373885,
+    47.959575,
+    -97.373885,
+    47.959575
+],
+  "geometry": {"coordinates":[-97.373885,47.959575],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873704549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.784661,46.801443,-100.784661,46.801443",
+    "geom:latitude":46.801443,
+    "geom:longitude":-100.784661,
+    "iso:country":"US",
+    "sg:address":"525 S 5th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 250 1377",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "television",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5idlBMLwQ99DlzVoQ2Ya9l_46.801443_-100.784661@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296451,
+    "wof:geomhash":"90acf52d6761b7d632fa41c8cf5392f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873704549
+        }
+    ],
+    "wof:id":873704549,
+    "wof:lastmodified":1464296451,
+    "wof:name":"Rex T V & Appliance",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "radio"
+    ]
+},
+  "bbox": [
+    -100.784661,
+    46.801443,
+    -100.784661,
+    46.801443
+],
+  "geometry": {"coordinates":[-100.784661,46.801443],"type":"Point"}
+}

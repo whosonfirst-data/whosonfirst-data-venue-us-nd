@@ -1,0 +1,71 @@
+{
+  "id": 873665101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.274243,48.307718,-101.274243,48.307718",
+    "geom:latitude":48.307718,
+    "geom:longitude":-101.274243,
+    "iso:country":"US",
+    "sg:address":"6701 13th St NE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 0973",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rlpPvuLtK9TSrshs0LMRW_48.307718_-101.274243@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295751,
+    "wof:geomhash":"e91714e90aa2d5a3b7574d822a4e8cc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873665101
+        }
+    ],
+    "wof:id":873665101,
+    "wof:lastmodified":1464295751,
+    "wof:name":"Alvin Holen",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -101.274243,
+    48.307718,
+    -101.274243,
+    48.307718
+],
+  "geometry": {"coordinates":[-101.274243,48.307718],"type":"Point"}
+}

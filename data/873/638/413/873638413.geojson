@@ -1,0 +1,79 @@
+{
+  "id": 873638413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.873252,46.856552,-96.873252,46.856552",
+    "geom:latitude":46.856552,
+    "geom:longitude":-96.873252,
+    "iso:country":"US",
+    "sg:address":"1606 Maple Pl",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 6177",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "sg:tags":[
+        "house",
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HX00cy5Em0FxJybj0M0VG_46.856552_-96.873252@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295459,
+    "wof:geomhash":"2bed0f32acd3bda2d52f744f374a98bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873638413
+        }
+    ],
+    "wof:id":873638413,
+    "wof:lastmodified":1464295459,
+    "wof:name":"Mc Laughlin Construction Co",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.873252,
+    46.856552,
+    -96.873252,
+    46.856552
+],
+  "geometry": {"coordinates":[-96.87325199999999,46.856552],"type":"Point"}
+}

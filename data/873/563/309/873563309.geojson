@@ -1,0 +1,71 @@
+{
+  "id": 873563309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.136814,48.239875,-101.136814,48.239875",
+    "geom:latitude":48.239875,
+    "geom:longitude":-101.136814,
+    "iso:country":"US",
+    "sg:address":"104 2nd Ave NW",
+    "sg:city":"Surrey",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 837 0444",
+    "sg:postcode":"58785",
+    "sg:province":"ND",
+    "sg:tags":[
+        "typing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2d0g0vx4LQTxxoOeMrtugS_48.239875_-101.136814@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294535,
+    "wof:geomhash":"af7306acd6495f2c0bbd7f1e68835ad4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873563309
+        }
+    ],
+    "wof:id":873563309,
+    "wof:lastmodified":1464294535,
+    "wof:name":"T J's Typing & Secretarial Svc",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "typing"
+    ]
+},
+  "bbox": [
+    -101.136814,
+    48.239875,
+    -101.136814,
+    48.239875
+],
+  "geometry": {"coordinates":[-101.136814,48.239875],"type":"Point"}
+}

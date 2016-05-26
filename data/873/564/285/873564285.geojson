@@ -1,0 +1,73 @@
+{
+  "id": 873564285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.038769,47.910746,-97.038769,47.910746",
+    "geom:latitude":47.910746,
+    "geom:longitude":-97.038769,
+    "iso:country":"US",
+    "sg:address":"1185 S 9th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 5050",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "weather",
+        "forecast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pOcdLwNY2co8mONSOgtDK_47.910746_-97.038769@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294547,
+    "wof:geomhash":"a02b5a49981b2cf326a877df4df5c97d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873564285
+        }
+    ],
+    "wof:id":873564285,
+    "wof:lastmodified":1464294547,
+    "wof:name":"Time Temperature & Weather",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "weather",
+        "forecast"
+    ]
+},
+  "bbox": [
+    -97.038769,
+    47.910746,
+    -97.038769,
+    47.910746
+],
+  "geometry": {"coordinates":[-97.038769,47.910746],"type":"Point"}
+}

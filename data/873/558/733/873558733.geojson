@@ -1,0 +1,71 @@
+{
+  "id": 873558733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.763016,46.788983,-100.763016,46.788983",
+    "geom:latitude":46.788983,
+    "geom:longitude":-100.763016,
+    "iso:country":"US",
+    "sg:address":"1320 Airport Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 0339",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "metal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qmO7EMNDv74WQPE9PP9wm_46.788983_-100.763016@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294485,
+    "wof:geomhash":"c8724d42e4acefc51ff7c3a1f6d3aa2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873558733
+        }
+    ],
+    "wof:id":873558733,
+    "wof:lastmodified":1464294485,
+    "wof:name":"Porter Brothers Bismarck-Mndn",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "metal"
+    ]
+},
+  "bbox": [
+    -100.763016,
+    46.788983,
+    -100.763016,
+    46.788983
+],
+  "geometry": {"coordinates":[-100.76301599999999,46.788983],"type":"Point"}
+}

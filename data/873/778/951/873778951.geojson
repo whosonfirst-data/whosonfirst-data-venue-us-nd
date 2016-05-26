@@ -1,0 +1,73 @@
+{
+  "id": 873778951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.763302,46.800812,-100.763302,46.800812",
+    "geom:latitude":46.800812,
+    "geom:longitude":-100.763302,
+    "iso:country":"US",
+    "sg:address":"1809 Tatley Park Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 6571",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "body",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XPTbwYajjfRjOSF4ARmer_46.800812_-100.763302@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297475,
+    "wof:geomhash":"e91512145d71a09411bf15903dcf0d4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873778951
+        }
+    ],
+    "wof:id":873778951,
+    "wof:lastmodified":1464297475,
+    "wof:name":"Advanced Graphics",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "supply"
+    ]
+},
+  "bbox": [
+    -100.763302,
+    46.800812,
+    -100.763302,
+    46.800812
+],
+  "geometry": {"coordinates":[-100.763302,46.800812],"type":"Point"}
+}

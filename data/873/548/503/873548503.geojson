@@ -1,0 +1,73 @@
+{
+  "id": 873548503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.762393,46.828776,-100.762393,46.828776",
+    "geom:latitude":46.828776,
+    "geom:longitude":-100.762393,
+    "iso:country":"US",
+    "sg:address":"2000 N 19th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 8359",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HX3pgqALCCFhjN2FlQUkV_46.828776_-100.762393@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294362,
+    "wof:geomhash":"640e2a58c839ca08bfeb9e894ea8d5da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873548503
+        }
+    ],
+    "wof:id":873548503,
+    "wof:lastmodified":1464294362,
+    "wof:name":"Arthritis Institute",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -100.762393,
+    46.828776,
+    -100.762393,
+    46.828776
+],
+  "geometry": {"coordinates":[-100.762393,46.828776],"type":"Point"}
+}

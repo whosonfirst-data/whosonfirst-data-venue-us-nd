@@ -1,0 +1,73 @@
+{
+  "id": 873685273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.763761,46.717083,-100.763761,46.717083",
+    "geom:latitude":46.717083,
+    "geom:longitude":-100.763761,
+    "iso:country":"US",
+    "sg:address":"8100 Sibley Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 323 5033",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2F4QCgj3aWCnEPZfjBW4Wj_46.717083_-100.763761@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296145,
+    "wof:geomhash":"2b936287b26218098390bd0f8ea51cf3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873685273
+        }
+    ],
+    "wof:id":873685273,
+    "wof:lastmodified":1464296145,
+    "wof:name":"Cretex Concrete Products West",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.763761,
+    46.717083,
+    -100.763761,
+    46.717083
+],
+  "geometry": {"coordinates":[-100.763761,46.717083],"type":"Point"}
+}

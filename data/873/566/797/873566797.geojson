@@ -1,0 +1,66 @@
+{
+  "id": 873566797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.043848,47.933054,-97.043848,47.933054",
+    "geom:latitude":47.933054,
+    "geom:longitude":-97.043848,
+    "iso:country":"US",
+    "sg:address":"1009 N 3rd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 2320",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0M8L5B3IW9sdQ7NiLHCJSX_47.933054_-97.043848@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294573,
+    "wof:geomhash":"865e9a23a51706e18f6e8f5f13185343",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873566797
+        }
+    ],
+    "wof:id":873566797,
+    "wof:lastmodified":1464294573,
+    "wof:name":"Wilder Elementary School",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.043848,
+    47.933054,
+    -97.043848,
+    47.933054
+],
+  "geometry": {"coordinates":[-97.043848,47.933054],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873728051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.29597,48.241554,-101.29597,48.241554",
+    "geom:latitude":48.241554,
+    "geom:longitude":-101.29597,
+    "iso:country":"US",
+    "sg:address":"810 N Broadway",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 6194",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JX9FBpzYkETUXi7DpYHQa_48.241554_-101.295970@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296755,
+    "wof:geomhash":"f7a40a2233b962d778f9b1cf002e2574",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873728051
+        }
+    ],
+    "wof:id":873728051,
+    "wof:lastmodified":1464296755,
+    "wof:name":"Mini Mart",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.29597,
+    48.241554,
+    -101.29597,
+    48.241554
+],
+  "geometry": {"coordinates":[-101.29597,48.241554],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873630667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.32956,48.249999,-101.32956,48.249999",
+    "geom:latitude":48.249999,
+    "geom:longitude":-101.32956,
+    "iso:country":"US",
+    "sg:address":"2421 Blake Rd",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 2819",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FnVHnxbcv4zp2BRcaSyjb_48.249999_-101.329560@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295371,
+    "wof:geomhash":"350dcc59dcb14b1576a898c0f6255517",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873630667
+        }
+    ],
+    "wof:id":873630667,
+    "wof:lastmodified":1464295371,
+    "wof:name":"Helgeson Plumbing & Heating",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.32956,
+    48.249999,
+    -101.32956,
+    48.249999
+],
+  "geometry": {"coordinates":[-101.32956,48.249999],"type":"Point"}
+}

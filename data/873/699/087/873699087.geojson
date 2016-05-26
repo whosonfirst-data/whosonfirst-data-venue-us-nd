@@ -1,0 +1,75 @@
+{
+  "id": 873699087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-102.785484,46.879068,-102.785484,46.879068",
+    "geom:latitude":46.879068,
+    "geom:longitude":-102.785484,
+    "iso:country":"US",
+    "sg:address":"36 Sims St",
+    "sg:city":"Dickinson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 483 0014",
+    "sg:postcode":"58601",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877119,
+        102191575,
+        404482179,
+        85633793,
+        85982521,
+        102082105,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04VWpO1jA8iHh0mxHtRkNA_46.879068_-102.785484@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296395,
+    "wof:geomhash":"63355aa568660f259aadc667fec2dc5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082105,
+            "localadmin_id":404482179,
+            "locality_id":85982521,
+            "neighbourhood_id":85877119,
+            "region_id":85688525,
+            "venue_id":873699087
+        }
+    ],
+    "wof:id":873699087,
+    "wof:lastmodified":1464296395,
+    "wof:name":"My Friend's House",
+    "wof:parent_id":85877119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -102.785484,
+    46.879068,
+    -102.785484,
+    46.879068
+],
+  "geometry": {"coordinates":[-102.785484,46.879068],"type":"Point"}
+}

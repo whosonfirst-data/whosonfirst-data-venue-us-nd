@@ -1,0 +1,101 @@
+{
+  "id": 873802603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.859361,46.849541,-96.859361,46.849541",
+    "geom:latitude":46.849541,
+    "geom:longitude":-96.859361,
+    "iso:country":"US",
+    "sg:address":"2000 44th St S Ste 201",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Computers",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 281 5300",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repair",
+        "designer",
+        "consultant",
+        "integration",
+        "system",
+        "equipment",
+        "equipment-service",
+        "software",
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0w39RjpgyE2L2ihDSm1DgF_46.849541_-96.859361@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297805,
+    "wof:geomhash":"5d482d0c60e94750ad7da9bed6c38996",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873802603
+        }
+    ],
+    "wof:id":873802603,
+    "wof:lastmodified":1464297805,
+    "wof:name":"Multiband",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "designer",
+        "consultant",
+        "integration",
+        "system",
+        "equipment",
+        "equipment-service",
+        "software",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -96.859361,
+    46.849541,
+    -96.859361,
+    46.849541
+],
+  "geometry": {"coordinates":[-96.85936100000001,46.849541],"type":"Point"}
+}

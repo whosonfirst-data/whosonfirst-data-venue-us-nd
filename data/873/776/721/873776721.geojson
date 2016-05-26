@@ -1,0 +1,73 @@
+{
+  "id": 873776721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.0616,47.848783,-97.0616,47.848783",
+    "geom:latitude":47.848783,
+    "geom:longitude":-97.0616,
+    "iso:country":"US",
+    "sg:address":"2096 73rd Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 0623",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24hOx242j4Ifg2TXQOcjpp_47.848783_-97.061600@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297446,
+    "wof:geomhash":"d93d3c1737afbedbdeaf0b96ee251b5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873776721
+        }
+    ],
+    "wof:id":873776721,
+    "wof:lastmodified":1464297446,
+    "wof:name":"Drees Farming Assn Shop",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -97.0616,
+    47.848783,
+    -97.0616,
+    47.848783
+],
+  "geometry": {"coordinates":[-97.0616,47.848783],"type":"Point"}
+}

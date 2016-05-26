@@ -1,0 +1,72 @@
+{
+  "id": 873551157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.042988,47.885853,-97.042988,47.885853",
+    "geom:latitude":47.885853,
+    "geom:longitude":-97.042988,
+    "iso:country":"US",
+    "sg:address":"1149 36th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 8371",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "gasoline"
+    ],
+    "sg:website":"www.valleydairy.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HPNyqItltjN5U5QZZsGPY_47.885853_-97.042988@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294391,
+    "wof:geomhash":"a9621a13b4ff96b4aca7303231ef535f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873551157
+        }
+    ],
+    "wof:id":873551157,
+    "wof:lastmodified":1464294391,
+    "wof:name":"Valley Dairy",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -97.042988,
+    47.885853,
+    -97.042988,
+    47.885853
+],
+  "geometry": {"coordinates":[-97.04298799999999,47.885853],"type":"Point"}
+}

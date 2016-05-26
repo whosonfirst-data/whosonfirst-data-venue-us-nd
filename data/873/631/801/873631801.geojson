@@ -1,0 +1,77 @@
+{
+  "id": 873631801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.068781,47.950513,-97.068781,47.950513",
+    "geom:latitude":47.950513,
+    "geom:longitude":-97.068781,
+    "iso:country":"US",
+    "sg:address":"3057 N Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 5585",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "implement",
+        "parts",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IwlI5KvPuLYjbO1NyrKar_47.950513_-97.068781@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295382,
+    "wof:geomhash":"0f384bf6cd8f1c4ef8d29d6c1de81d7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873631801
+        }
+    ],
+    "wof:id":873631801,
+    "wof:lastmodified":1464295382,
+    "wof:name":"Pro Ag Equipment Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "implement",
+        "parts",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -97.068781,
+    47.950513,
+    -97.068781,
+    47.950513
+],
+  "geometry": {"coordinates":[-97.068781,47.950513],"type":"Point"}
+}

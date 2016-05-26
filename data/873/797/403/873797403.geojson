@@ -1,0 +1,74 @@
+{
+  "id": 873797403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.044942,47.915255,-97.044942,47.915255",
+    "geom:latitude":47.915255,
+    "geom:longitude":-97.044942,
+    "iso:country":"US",
+    "sg:address":"706 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/grand-forks/183482-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 3447",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77JQPO6kqbfDZDnCyWudu6_47.915255_-97.044942@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297743,
+    "wof:geomhash":"e95848bb181c68273f0c1ac0ca718410",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873797403
+        }
+    ],
+    "wof:id":873797403,
+    "wof:lastmodified":1464297743,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -97.044942,
+    47.915255,
+    -97.044942,
+    47.915255
+],
+  "geometry": {"coordinates":[-97.04494200000001,47.915255],"type":"Point"}
+}

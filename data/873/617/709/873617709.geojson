@@ -1,0 +1,71 @@
+{
+  "id": 873617709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.761512,46.796957,-100.761512,46.796957",
+    "geom:latitude":46.796957,
+    "geom:longitude":-100.761512,
+    "iso:country":"US",
+    "sg:address":"1924 Vermont Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 3449",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25sIWcPIYJrfEUoeB8dYyw_46.796957_-100.761512@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295221,
+    "wof:geomhash":"84626d65dd3ddc362974c0ac9d096187",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873617709
+        }
+    ],
+    "wof:id":873617709,
+    "wof:lastmodified":1464295221,
+    "wof:name":"Spring Cleaning",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -100.761512,
+    46.796957,
+    -100.761512,
+    46.796957
+],
+  "geometry": {"coordinates":[-100.761512,46.796957],"type":"Point"}
+}

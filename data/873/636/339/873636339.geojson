@@ -1,0 +1,66 @@
+{
+  "id": 873636339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.772301,46.763906,-100.772301,46.763906",
+    "geom:latitude":46.763906,
+    "geom:longitude":-100.772301,
+    "iso:country":"US",
+    "sg:address":"3656 E Princeton Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 1972",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6q7RUBItJICI8psd5edcog_46.763906_-100.772301@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295435,
+    "wof:geomhash":"b665920e22103a891432b73811444841",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873636339
+        }
+    ],
+    "wof:id":873636339,
+    "wof:lastmodified":1464295435,
+    "wof:name":"East Princeton",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.772301,
+    46.763906,
+    -100.772301,
+    46.763906
+],
+  "geometry": {"coordinates":[-100.772301,46.763906],"type":"Point"}
+}

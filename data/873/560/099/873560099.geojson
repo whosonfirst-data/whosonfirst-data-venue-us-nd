@@ -1,0 +1,71 @@
+{
+  "id": 873560099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.227906,46.669654,-100.227906,46.669654",
+    "geom:latitude":46.669654,
+    "geom:longitude":-100.227906,
+    "iso:country":"US",
+    "sg:address":"12000 353rd St SE",
+    "sg:city":"Moffit",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 387 4397",
+    "sg:postcode":"58560",
+    "sg:province":"ND",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZRnVeLdx70wondLSbzNKx_46.669654_-100.227906@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294501,
+    "wof:geomhash":"6468dc8d6e4f0282fc8613296e81f86a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873560099
+        }
+    ],
+    "wof:id":873560099,
+    "wof:lastmodified":1464294501,
+    "wof:name":"US Interior Dept",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -100.227906,
+    46.669654,
+    -100.227906,
+    46.669654
+],
+  "geometry": {"coordinates":[-100.227906,46.669654],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873653871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.05416,47.908123,-97.05416,47.908123",
+    "geom:latitude":47.908123,
+    "geom:longitude":-97.05416,
+    "iso:country":"US",
+    "sg:address":"1434 S 19th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 9158",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ilvTfZrMWfttUIXdS4uZW_47.908123_-97.054160@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295634,
+    "wof:geomhash":"01619007e8f660ddd6b56293237d8f8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873653871
+        }
+    ],
+    "wof:id":873653871,
+    "wof:lastmodified":1464295634,
+    "wof:name":"Shirley Morstad",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -97.05416,
+    47.908123,
+    -97.05416,
+    47.908123
+],
+  "geometry": {"coordinates":[-97.05416,47.908123],"type":"Point"}
+}

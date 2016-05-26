@@ -1,0 +1,74 @@
+{
+  "id": 873748063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.781753,46.799149,-100.781753,46.799149",
+    "geom:latitude":46.799149,
+    "geom:longitude":-100.781753,
+    "iso:country":"US",
+    "sg:address":"561 S 7th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 5000",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "agency",
+        "bureau"
+    ],
+    "sg:website":"www.satromtravel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35JBZuppkmyL6hM0Ok6aX3_46.799149_-100.781753@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297050,
+    "wof:geomhash":"e24821c75ef32caadb1d355b7cd95fdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873748063
+        }
+    ],
+    "wof:id":873748063,
+    "wof:lastmodified":1464297050,
+    "wof:name":"American Express/Satrom Travel",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "bureau"
+    ]
+},
+  "bbox": [
+    -100.781753,
+    46.799149,
+    -100.781753,
+    46.799149
+],
+  "geometry": {"coordinates":[-100.78175299999999,46.799149],"type":"Point"}
+}

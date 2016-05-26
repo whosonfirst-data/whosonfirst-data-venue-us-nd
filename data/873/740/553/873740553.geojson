@@ -1,0 +1,77 @@
+{
+  "id": 873740553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.77862,46.894487,-96.77862,46.894487",
+    "geom:latitude":46.894487,
+    "geom:longitude":-96.77862,
+    "iso:country":"US",
+    "sg:address":"1318 Oak St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 3366",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534483,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CyVLRdI5gReEsoNQhHZG4_46.894487_-96.778620@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296929,
+    "wof:geomhash":"2eeb6033b3f15430f7ec773e2a84a8a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534483,
+            "region_id":85688525,
+            "venue_id":873740553
+        }
+    ],
+    "wof:id":873740553,
+    "wof:lastmodified":1464296929,
+    "wof:name":"Roto-Rooter Plumbing & Drain",
+    "wof:parent_id":420534483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.77862,
+    46.894487,
+    -96.77862,
+    46.894487
+],
+  "geometry": {"coordinates":[-96.77862,46.894487],"type":"Point"}
+}

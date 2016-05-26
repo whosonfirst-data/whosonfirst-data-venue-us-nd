@@ -1,0 +1,66 @@
+{
+  "id": 873694749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.756628,46.805023,-100.756628,46.805023",
+    "geom:latitude":46.805023,
+    "geom:longitude":-100.756628,
+    "iso:country":"US",
+    "sg:address":"2021 E Main Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 5812",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0x4WJ7fdGGXPghuijQF6Z2_46.805023_-100.756628@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296347,
+    "wof:geomhash":"30fa0baceee3f3f0666462c4d1d2d7cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873694749
+        }
+    ],
+    "wof:id":873694749,
+    "wof:lastmodified":1464296347,
+    "wof:name":"Gateway Insurance",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.756628,
+    46.805023,
+    -100.756628,
+    46.805023
+],
+  "geometry": {"coordinates":[-100.75662800000001,46.805023],"type":"Point"}
+}

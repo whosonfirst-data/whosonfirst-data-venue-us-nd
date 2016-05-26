@@ -1,0 +1,66 @@
+{
+  "id": 873597207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.287812,48.242876,-101.287812,48.242876",
+    "geom:latitude":48.242876,
+    "geom:longitude":-101.287812,
+    "iso:country":"US",
+    "sg:address":"627 3rd St NE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 2499",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IhO6QCbAWeDUFa4zpur9y_48.242876_-101.287812@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294948,
+    "wof:geomhash":"0eb89d4d492c14c3b1dfb458be618f14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873597207
+        }
+    ],
+    "wof:id":873597207,
+    "wof:lastmodified":1464294948,
+    "wof:name":"Lydia's Northeast Cafe",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.287812,
+    48.242876,
+    -101.287812,
+    48.242876
+],
+  "geometry": {"coordinates":[-101.287812,48.242876],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873540395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.288382,48.237364,-101.288382,48.237364",
+    "geom:latitude":48.237364,
+    "geom:longitude":-101.288382,
+    "iso:country":"US",
+    "sg:address":"26 3rd St NE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 858 7961",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pq1z5nWYBPHfP3O8ZNHXl_48.237364_-101.288382@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294263,
+    "wof:geomhash":"e13951634d85748c1bdd71fcaddf8af4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873540395
+        }
+    ],
+    "wof:id":873540395,
+    "wof:lastmodified":1464294263,
+    "wof:name":"E & D Maintenance",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -101.288382,
+    48.237364,
+    -101.288382,
+    48.237364
+],
+  "geometry": {"coordinates":[-101.288382,48.237364],"type":"Point"}
+}

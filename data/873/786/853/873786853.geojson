@@ -1,0 +1,71 @@
+{
+  "id": 873786853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.817882,47.811605,-97.817882,47.811605",
+    "geom:latitude":47.811605,
+    "geom:longitude":-97.817882,
+    "iso:country":"US",
+    "sg:address":"965 46th St NE",
+    "sg:city":"Northwood",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 326 4547",
+    "sg:postcode":"58267",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "grain",
+        "cash",
+        "soybean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ftpxFlmX1WDfZkIqXAgs6_47.811605_-97.817882@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297588,
+    "wof:geomhash":"0af4df5cd7a5977e40dbc75dee07b19c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873786853
+        }
+    ],
+    "wof:id":873786853,
+    "wof:lastmodified":1464297588,
+    "wof:name":"Nathan Fisher",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "grain",
+        "cash",
+        "soybean"
+    ]
+},
+  "bbox": [
+    -97.817882,
+    47.811605,
+    -97.817882,
+    47.811605
+],
+  "geometry": {"coordinates":[-97.817882,47.811605],"type":"Point"}
+}

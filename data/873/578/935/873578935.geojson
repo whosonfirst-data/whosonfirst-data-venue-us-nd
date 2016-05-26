@@ -1,0 +1,73 @@
+{
+  "id": 873578935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.031401,47.924483,-97.031401,47.924483",
+    "geom:latitude":47.924483,
+    "geom:longitude":-97.031401,
+    "iso:country":"US",
+    "sg:address":"311 Demers Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 2151",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "spa",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iseikkxcrXtBviYPcTFKu_47.924483_-97.031401@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294704,
+    "wof:geomhash":"9c82b2fa5adc51803b684c287e5be781",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873578935
+        }
+    ],
+    "wof:id":873578935,
+    "wof:lastmodified":1464294704,
+    "wof:name":"Tranquility Day Spa",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spa",
+        "health"
+    ]
+},
+  "bbox": [
+    -97.031401,
+    47.924483,
+    -97.031401,
+    47.924483
+],
+  "geometry": {"coordinates":[-97.031401,47.924483],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873780173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.062657,47.924148,-97.062657,47.924148",
+    "geom:latitude":47.924148,
+    "geom:longitude":-97.062657,
+    "iso:country":"US",
+    "sg:address":"415 N 25th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 9000",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2v4cKivURGwPgyxtBCGHVe_47.924148_-97.062657@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297495,
+    "wof:geomhash":"29cca4273a015f9db9077857ee2d290c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873780173
+        }
+    ],
+    "wof:id":873780173,
+    "wof:lastmodified":1464297495,
+    "wof:name":"Karlene's Trend Setters Salon",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.062657,
+    47.924148,
+    -97.062657,
+    47.924148
+],
+  "geometry": {"coordinates":[-97.062657,47.924148],"type":"Point"}
+}

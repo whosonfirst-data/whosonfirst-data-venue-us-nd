@@ -1,0 +1,77 @@
+{
+  "id": 873773857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.810274,46.858849,-96.810274,46.858849",
+    "geom:latitude":46.858849,
+    "geom:longitude":-96.810274,
+    "iso:country":"US",
+    "sg:address":"1440 18th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 6378",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877331,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tq0BrLWraqXWWiHcXKniF_46.858849_-96.810274@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297411,
+    "wof:geomhash":"1a5106ecedcdaf73de3d89a226c79e42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877331,
+            "region_id":85688525,
+            "venue_id":873773857
+        }
+    ],
+    "wof:id":873773857,
+    "wof:lastmodified":1464297411,
+    "wof:name":"Stock Decorating Inc",
+    "wof:parent_id":85877331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.810274,
+    46.858849,
+    -96.810274,
+    46.858849
+],
+  "geometry": {"coordinates":[-96.81027400000001,46.858849],"type":"Point"}
+}

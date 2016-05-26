@@ -1,0 +1,79 @@
+{
+  "id": 873777367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.056826,47.941709,-97.056826,47.941709",
+    "geom:latitude":47.941709,
+    "geom:longitude":-97.056826,
+    "iso:country":"US",
+    "sg:address":"2250 Mill Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 792 3923",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "manufacture",
+        "raw",
+        "potato",
+        "modified",
+        "starches"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lppV27t8HczG8lcVN3QVv_47.941709_-97.056826@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297455,
+    "wof:geomhash":"2c1a93bf48039b609f479f1446f2057c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873777367
+        }
+    ],
+    "wof:id":873777367,
+    "wof:lastmodified":1464297455,
+    "wof:name":"Western Polymer Corp",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacture",
+        "raw",
+        "potato",
+        "modified",
+        "starches"
+    ]
+},
+  "bbox": [
+    -97.056826,
+    47.941709,
+    -97.056826,
+    47.941709
+],
+  "geometry": {"coordinates":[-97.056826,47.941709],"type":"Point"}
+}

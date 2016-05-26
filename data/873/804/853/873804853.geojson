@@ -1,0 +1,70 @@
+{
+  "id": 873804853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.825696,46.813739,-96.825696,46.813739",
+    "geom:latitude":46.813739,
+    "geom:longitude":-96.825696,
+    "iso:country":"US",
+    "sg:address":"4328 Timberline Dr S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 298 8682",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877333,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ayArMrMQqxgYeWm7dkEdU_46.813739_-96.825696@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297833,
+    "wof:geomhash":"0b9a3f1d6d489f166e14384f165d2d76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877333,
+            "region_id":85688525,
+            "venue_id":873804853
+        }
+    ],
+    "wof:id":873804853,
+    "wof:lastmodified":1464297833,
+    "wof:name":"Morton Media",
+    "wof:parent_id":85877333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.825696,
+    46.813739,
+    -96.825696,
+    46.813739
+],
+  "geometry": {"coordinates":[-96.82569599999999,46.813739],"type":"Point"}
+}

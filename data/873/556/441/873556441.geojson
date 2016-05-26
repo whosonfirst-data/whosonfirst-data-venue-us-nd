@@ -1,0 +1,73 @@
+{
+  "id": 873556441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.755905,46.830278,-100.755905,46.830278",
+    "geom:latitude":46.830278,
+    "geom:longitude":-100.755905,
+    "iso:country":"US",
+    "sg:address":"2205 E Capitol Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 226 0022",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RzoG17k3Q4vhIbUxPXEXI_46.830278_-100.755905@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294452,
+    "wof:geomhash":"c05ef97e3cb37d0c26875410f3e6af1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873556441
+        }
+    ],
+    "wof:id":873556441,
+    "wof:lastmodified":1464294452,
+    "wof:name":"Mic",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -100.755905,
+    46.830278,
+    -100.755905,
+    46.830278
+],
+  "geometry": {"coordinates":[-100.755905,46.830278],"type":"Point"}
+}

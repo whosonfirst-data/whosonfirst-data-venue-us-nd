@@ -1,0 +1,72 @@
+{
+  "id": 873687293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.315973,48.225547,-101.315973,48.225547",
+    "geom:latitude":48.225547,
+    "geom:longitude":-101.315973,
+    "iso:country":"US",
+    "sg:address":"1505 US Hwy 2 Bus",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 3508",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"www.butler-machinery.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3db2qvQyuU0remXP7YCtli_48.225547_-101.315973@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296200,
+    "wof:geomhash":"e5c0a01ec14d7f56a40180baf6e30094",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873687293
+        }
+    ],
+    "wof:id":873687293,
+    "wof:lastmodified":1464296200,
+    "wof:name":"Butler Machinery Co",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.315973,
+    48.225547,
+    -101.315973,
+    48.225547
+],
+  "geometry": {"coordinates":[-101.315973,48.225547],"type":"Point"}
+}

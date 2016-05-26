@@ -1,0 +1,75 @@
+{
+  "id": 873619599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.964027,47.049576,-96.964027,47.049576",
+    "geom:latitude":47.049576,
+    "geom:longitude":-96.964027,
+    "iso:country":"US",
+    "sg:address":"2503 167th Ave SE",
+    "sg:city":"Argusville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 484 5258",
+    "sg:postcode":"58005",
+    "sg:province":"ND",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pit9XRnD1zQBdQWgU65HB_47.049576_-96.964027@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295246,
+    "wof:geomhash":"b612384217d9e6a76cc49f5c844d6190",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873619599
+        }
+    ],
+    "wof:id":873619599,
+    "wof:lastmodified":1464295246,
+    "wof:name":"City Of Argusville Pump Sta",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -96.964027,
+    47.049576,
+    -96.964027,
+    47.049576
+],
+  "geometry": {"coordinates":[-96.964027,47.049576],"type":"Point"}
+}

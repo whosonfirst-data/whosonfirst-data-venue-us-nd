@@ -1,0 +1,66 @@
+{
+  "id": 873542021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.757383,46.823589,-100.757383,46.823589",
+    "geom:latitude":46.823589,
+    "geom:longitude":-100.757383,
+    "iso:country":"US",
+    "sg:address":"1600 N 23rd St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 221 9230",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57yIXP2JEspbXFvi3391ek_46.823589_-100.757383@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294281,
+    "wof:geomhash":"ee47145eb522a85ec575fee585af8526",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873542021
+        }
+    ],
+    "wof:id":873542021,
+    "wof:lastmodified":1464294281,
+    "wof:name":"Randy Bear Ribs",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.757383,
+    46.823589,
+    -100.757383,
+    46.823589
+],
+  "geometry": {"coordinates":[-100.757383,46.823589],"type":"Point"}
+}

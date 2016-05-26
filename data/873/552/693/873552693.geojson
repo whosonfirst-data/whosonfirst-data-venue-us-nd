@@ -1,0 +1,79 @@
+{
+  "id": 873552693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.878469,46.873415,-96.878469,46.873415",
+    "geom:latitude":46.873415,
+    "geom:longitude":-96.878469,
+    "iso:country":"US",
+    "sg:address":"915 3rd Ave E",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 7235",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vyphiDNwLlswfzjIqM85e_46.873415_-96.878469@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294408,
+    "wof:geomhash":"021c1dc2dff52832f7952ffeb097f155",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873552693
+        }
+    ],
+    "wof:id":873552693,
+    "wof:lastmodified":1464294408,
+    "wof:name":"Mark Wilke Trucking Corp",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.878469,
+    46.873415,
+    -96.878469,
+    46.873415
+],
+  "geometry": {"coordinates":[-96.878469,46.873415],"type":"Point"}
+}

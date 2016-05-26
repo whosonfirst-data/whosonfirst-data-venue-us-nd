@@ -1,0 +1,95 @@
+{
+  "id": 873804839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.819794,46.844212,-96.819794,46.844212",
+    "geom:latitude":46.844212,
+    "geom:longitude":-96.819794,
+    "iso:country":"US",
+    "sg:address":"2301 25th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 9000",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "urgent",
+        "medical",
+        "emergency"
+    ],
+    "sg:website":"http://www.urgentmedclinic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534475,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55KzDy0Wyy4H5NicpaPkYK_46.844212_-96.819794@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297833,
+    "wof:geomhash":"18a9d8165d50242244821876d7d7ade4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534475,
+            "region_id":85688525,
+            "venue_id":873804839
+        }
+    ],
+    "wof:id":873804839,
+    "wof:lastmodified":1464297833,
+    "wof:name":"Urgentmed",
+    "wof:parent_id":420534475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "urgent",
+        "medical",
+        "emergency"
+    ]
+},
+  "bbox": [
+    -96.819794,
+    46.844212,
+    -96.819794,
+    46.844212
+],
+  "geometry": {"coordinates":[-96.819794,46.844212],"type":"Point"}
+}

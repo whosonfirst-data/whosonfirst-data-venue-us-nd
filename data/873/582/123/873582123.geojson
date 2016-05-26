@@ -1,0 +1,71 @@
+{
+  "id": 873582123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.293602,48.23271,-101.293602,48.23271",
+    "geom:latitude":48.23271,
+    "geom:longitude":-101.293602,
+    "iso:country":"US",
+    "sg:address":"20 Burdick Expy W",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 857 5877",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3khwg3caAGBgGyjMMZiPM5_48.232710_-101.293602@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294744,
+    "wof:geomhash":"0d4a67a9e09a8b13116b3f5f0beaaa62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873582123
+        }
+    ],
+    "wof:id":873582123,
+    "wof:lastmodified":1464294744,
+    "wof:name":"Charles Stilleman",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -101.293602,
+    48.23271,
+    -101.293602,
+    48.23271
+],
+  "geometry": {"coordinates":[-101.29360200000001,48.23271],"type":"Point"}
+}

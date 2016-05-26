@@ -1,0 +1,77 @@
+{
+  "id": 873729973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.803783,46.82882,-96.803783,46.82882",
+    "geom:latitude":46.82882,
+    "geom:longitude":-96.803783,
+    "iso:country":"US",
+    "sg:address":"1625 34th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 729 5590",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "builder",
+        "deck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534487,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PVp4Eu0cbW6WfCN3UqnAS_46.828820_-96.803783@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296779,
+    "wof:geomhash":"68625405e7aace7eeb3098906b6c8d2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534487,
+            "region_id":85688525,
+            "venue_id":873729973
+        }
+    ],
+    "wof:id":873729973,
+    "wof:lastmodified":1464296779,
+    "wof:name":"Deck Builders",
+    "wof:parent_id":420534487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "deck"
+    ]
+},
+  "bbox": [
+    -96.803783,
+    46.82882,
+    -96.803783,
+    46.82882
+],
+  "geometry": {"coordinates":[-96.803783,46.82882],"type":"Point"}
+}

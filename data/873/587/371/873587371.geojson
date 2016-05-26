@@ -1,0 +1,66 @@
+{
+  "id": 873587371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.811208,46.80676,-100.811208,46.80676",
+    "geom:latitude":46.80676,
+    "geom:longitude":-100.811208,
+    "iso:country":"US",
+    "sg:address":"1119 Memorial Hwy",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 1415",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ytAXpMrESeIwPkszmGtxN_46.806760_-100.811208@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294801,
+    "wof:geomhash":"a4e1d75f7e5c0c6d8962f675b9584161",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873587371
+        }
+    ],
+    "wof:id":873587371,
+    "wof:lastmodified":1464294801,
+    "wof:name":"Matah Adventures",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.811208,
+    46.80676,
+    -100.811208,
+    46.80676
+],
+  "geometry": {"coordinates":[-100.81120799999999,46.80676],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 873691683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.046354,47.911166,-97.046354,47.911166",
+    "geom:latitude":47.911166,
+    "geom:longitude":-97.046354,
+    "iso:country":"US",
+    "sg:address":"1321 11th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 5971",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "product",
+        "canvas",
+        "related",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NQ3cP5PXKXEvLtUUSTe3Z_47.911166_-97.046354@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296312,
+    "wof:geomhash":"11e633d4772bd1b2175bf0eb688b1a8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873691683
+        }
+    ],
+    "wof:id":873691683,
+    "wof:lastmodified":1464296312,
+    "wof:name":"Grand Forks Tent & Awning Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "canvas",
+        "related",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -97.046354,
+    47.911166,
+    -97.046354,
+    47.911166
+],
+  "geometry": {"coordinates":[-97.04635399999999,47.911166],"type":"Point"}
+}

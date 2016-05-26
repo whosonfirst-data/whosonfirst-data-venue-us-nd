@@ -1,0 +1,73 @@
+{
+  "id": 873726605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.753863,46.791926,-100.753863,46.791926",
+    "geom:latitude":46.791926,
+    "geom:longitude":-100.753863,
+    "iso:country":"US",
+    "sg:address":"2501 Lee Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 1318",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VmU1Pm9WTQoAxGxAWUlNY_46.791926_-100.753863@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296734,
+    "wof:geomhash":"cee02ed167af718c9825e2a42f60dbf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873726605
+        }
+    ],
+    "wof:id":873726605,
+    "wof:lastmodified":1464296734,
+    "wof:name":"Landstar Construction",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.753863,
+    46.791926,
+    -100.753863,
+    46.791926
+],
+  "geometry": {"coordinates":[-100.753863,46.791926],"type":"Point"}
+}

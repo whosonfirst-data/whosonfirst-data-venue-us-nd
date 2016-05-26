@@ -1,0 +1,69 @@
+{
+  "id": 873788371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.542109,48.254702,-101.542109,48.254702",
+    "geom:latitude":48.254702,
+    "geom:longitude":-101.542109,
+    "iso:country":"US",
+    "sg:address":"16200 19th Ave NW",
+    "sg:city":"Des Lacs",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 725 4958",
+    "sg:postcode":"58733",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "grain",
+        "cash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37wbC43g3niLBegIxAdsfA_48.254702_-101.542109@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297622,
+    "wof:geomhash":"da900c64f45eccffa5f15fd3c037fb16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873788371
+        }
+    ],
+    "wof:id":873788371,
+    "wof:lastmodified":1464297622,
+    "wof:name":"Goebel Gathman Farms",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "grain",
+        "cash"
+    ]
+},
+  "bbox": [
+    -101.542109,
+    48.254702,
+    -101.542109,
+    48.254702
+],
+  "geometry": {"coordinates":[-101.542109,48.254702],"type":"Point"}
+}

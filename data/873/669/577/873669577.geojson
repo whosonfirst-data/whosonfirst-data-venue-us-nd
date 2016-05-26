@@ -1,0 +1,73 @@
+{
+  "id": 873669577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.580918,47.949723,-97.580918,47.949723",
+    "geom:latitude":47.949723,
+    "geom:longitude":-97.580918,
+    "iso:country":"US",
+    "sg:address":"1915 35th St",
+    "sg:city":"Larimore",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 343 2584",
+    "sg:postcode":"58251",
+    "sg:province":"ND",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0F7m59I6kv1TLZKIURY8wj_47.949723_-97.580918@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295796,
+    "wof:geomhash":"4053691e212bf1e2052ac0751f08108f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873669577
+        }
+    ],
+    "wof:id":873669577,
+    "wof:lastmodified":1464295796,
+    "wof:name":"Trosen Auto Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -97.580918,
+    47.949723,
+    -97.580918,
+    47.949723
+],
+  "geometry": {"coordinates":[-97.580918,47.949723],"type":"Point"}
+}

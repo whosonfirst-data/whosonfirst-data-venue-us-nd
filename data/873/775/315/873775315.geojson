@@ -1,0 +1,67 @@
+{
+  "id": 873775315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.071221,47.889378,-97.071221,47.889378",
+    "geom:latitude":47.889378,
+    "geom:longitude":-97.071221,
+    "iso:country":"US",
+    "sg:address":"2925 32nd Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 1524",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:website":"www.tjmaxx.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7f2KpfQ3acsAeyWAHDsMWG_47.889378_-97.071221@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297429,
+    "wof:geomhash":"aca1dbb7bbae0596e9b3f952cab83768",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873775315
+        }
+    ],
+    "wof:id":873775315,
+    "wof:lastmodified":1464297429,
+    "wof:name":"T J Maxx",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.071221,
+    47.889378,
+    -97.071221,
+    47.889378
+],
+  "geometry": {"coordinates":[-97.07122099999999,47.889378],"type":"Point"}
+}

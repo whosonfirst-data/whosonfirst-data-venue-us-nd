@@ -1,0 +1,77 @@
+{
+  "id": 873730725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.848097,46.873818,-96.848097,46.873818",
+    "geom:latitude":46.873818,
+    "geom:longitude":-96.848097,
+    "iso:country":"US",
+    "sg:address":"220 41st St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 492 9200",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "pipe",
+        "fabrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TVpnGFoNaNdIKX4CxbQM8_46.873818_-96.848097@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296787,
+    "wof:geomhash":"0b53697c1f6ab8ba8da965ee3b0dafd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873730725
+        }
+    ],
+    "wof:id":873730725,
+    "wof:lastmodified":1464296787,
+    "wof:name":"Buchanan Industries LLC",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pipe",
+        "fabrication"
+    ]
+},
+  "bbox": [
+    -96.848097,
+    46.873818,
+    -96.848097,
+    46.873818
+],
+  "geometry": {"coordinates":[-96.848097,46.873818],"type":"Point"}
+}

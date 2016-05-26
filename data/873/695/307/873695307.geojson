@@ -1,0 +1,66 @@
+{
+  "id": 873695307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.030473,47.896664,-97.030473,47.896664",
+    "geom:latitude":47.896664,
+    "geom:longitude":-97.030473,
+    "iso:country":"US",
+    "sg:address":"315 24th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 885 5193",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cn9HBwHb0q8PCGRAnJZxA_47.896664_-97.030473@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296355,
+    "wof:geomhash":"2bc24eb4f76845773b48735377eaf90e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873695307
+        }
+    ],
+    "wof:id":873695307,
+    "wof:lastmodified":1464296355,
+    "wof:name":"Valley Buzz",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.030473,
+    47.896664,
+    -97.030473,
+    47.896664
+],
+  "geometry": {"coordinates":[-97.030473,47.896664],"type":"Point"}
+}

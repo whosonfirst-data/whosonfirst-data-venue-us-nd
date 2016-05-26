@@ -1,0 +1,66 @@
+{
+  "id": 873632137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.310601,48.244434,-101.310601,48.244434",
+    "geom:latitude":48.244434,
+    "geom:longitude":-101.310601,
+    "iso:country":"US",
+    "sg:address":"811 11th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 1428",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oUiVRkU8XnJgZToOO3ALD_48.244434_-101.310601@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295386,
+    "wof:geomhash":"9115f9628be0b10d66b35218efbf086e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873632137
+        }
+    ],
+    "wof:id":873632137,
+    "wof:lastmodified":1464295386,
+    "wof:name":"Independent Order Odd Fellows",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.310601,
+    48.244434,
+    -101.310601,
+    48.244434
+],
+  "geometry": {"coordinates":[-101.31060100000001,48.244434],"type":"Point"}
+}

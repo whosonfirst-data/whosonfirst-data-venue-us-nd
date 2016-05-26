@@ -1,0 +1,74 @@
+{
+  "id": 873666527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.754262,46.81764,-100.754262,46.81764",
+    "geom:latitude":46.81764,
+    "geom:longitude":-100.754262,
+    "iso:country":"US",
+    "sg:address":"2425 Hillview Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 9407",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "sg:website":"www.mslcc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FzQMMpqMLvkERHAFDVriB_46.817640_-100.754262@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295765,
+    "wof:geomhash":"60c215a9bfd1c9066cb969dbf3ba85b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873666527
+        }
+    ],
+    "wof:id":873666527,
+    "wof:lastmodified":1464295765,
+    "wof:name":"Missouri Slope Lutheran Care",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -100.754262,
+    46.81764,
+    -100.754262,
+    46.81764
+],
+  "geometry": {"coordinates":[-100.754262,46.81764],"type":"Point"}
+}

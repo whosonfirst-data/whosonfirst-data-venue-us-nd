@@ -1,0 +1,71 @@
+{
+  "id": 873596009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.04571,47.892373,-97.04571,47.892373",
+    "geom:latitude":47.892373,
+    "geom:longitude":-97.04571,
+    "iso:country":"US",
+    "sg:address":"3002 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 5372",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QZ7K7WJCF80PoP92wXpra_47.892373_-97.045710@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294926,
+    "wof:geomhash":"69da178b2a3fbfad9de30c538ece9ea2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873596009
+        }
+    ],
+    "wof:id":873596009,
+    "wof:lastmodified":1464294926,
+    "wof:name":"Sunnywood Gardens",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -97.04571,
+    47.892373,
+    -97.04571,
+    47.892373
+],
+  "geometry": {"coordinates":[-97.04571,47.892373],"type":"Point"}
+}

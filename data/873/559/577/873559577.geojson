@@ -1,0 +1,66 @@
+{
+  "id": 873559577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.039187,47.885711,-97.039187,47.885711",
+    "geom:latitude":47.885711,
+    "geom:longitude":-97.039187,
+    "iso:country":"US",
+    "sg:address":"1105 Landeco Ln",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 402 0269",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GzVqyQwXxBsGYAWDjO1kJ_47.885711_-97.039187@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294495,
+    "wof:geomhash":"e35d509c07bddbf6091484b411ebb0d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873559577
+        }
+    ],
+    "wof:id":873559577,
+    "wof:lastmodified":1464294495,
+    "wof:name":"Eyes of Infinity",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.039187,
+    47.885711,
+    -97.039187,
+    47.885711
+],
+  "geometry": {"coordinates":[-97.039187,47.885711],"type":"Point"}
+}

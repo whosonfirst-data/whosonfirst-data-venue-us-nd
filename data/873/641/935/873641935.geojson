@@ -1,0 +1,73 @@
+{
+  "id": 873641935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.414815,48.276875,-101.414815,48.276875",
+    "geom:latitude":48.276875,
+    "geom:longitude":-101.414815,
+    "iso:country":"US",
+    "sg:address":"7911 Co Rd 15 W",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 833 6063",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18LNqygxQzY4mVhsPtpyV5_48.276875_-101.414815@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295498,
+    "wof:geomhash":"cfd8797c521e6edeba16590b4991cb71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873641935
+        }
+    ],
+    "wof:id":873641935,
+    "wof:lastmodified":1464295498,
+    "wof:name":"Jesperson Excavating Inc",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.414815,
+    48.276875,
+    -101.414815,
+    48.276875
+],
+  "geometry": {"coordinates":[-101.414815,48.276875],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 873649661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.297235,48.210738,-101.297235,48.210738",
+    "geom:latitude":48.210738,
+    "geom:longitude":-101.297235,
+    "iso:country":"US",
+    "sg:address":"330 20th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 3002",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:website":"www.holidaystationstores.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2K3DsTHIHw8hFRIZFGeDfV_48.210738_-101.297235@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295583,
+    "wof:geomhash":"a82fd6db23078937b32cc9294b218c52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873649661
+        }
+    ],
+    "wof:id":873649661,
+    "wof:lastmodified":1464295583,
+    "wof:name":"Holiday Stationstores",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.297235,
+    48.210738,
+    -101.297235,
+    48.210738
+],
+  "geometry": {"coordinates":[-101.297235,48.210738],"type":"Point"}
+}

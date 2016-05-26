@@ -1,0 +1,73 @@
+{
+  "id": 873696183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.261226,48.229744,-101.261226,48.229744",
+    "geom:latitude":48.229744,
+    "geom:longitude":-101.261226,
+    "iso:country":"US",
+    "sg:address":"2005 Burdick Expy E",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 857 7620",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27MsmOB2kvgQDUhh5nfyde_48.229744_-101.261226@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296368,
+    "wof:geomhash":"e7339d284005be45f7a1cc30c910bc3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873696183
+        }
+    ],
+    "wof:id":873696183,
+    "wof:lastmodified":1464296368,
+    "wof:name":"State Fair Assn",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -101.261226,
+    48.229744,
+    -101.261226,
+    48.229744
+],
+  "geometry": {"coordinates":[-101.26122599999999,48.229744],"type":"Point"}
+}

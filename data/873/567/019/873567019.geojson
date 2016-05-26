@@ -1,0 +1,71 @@
+{
+  "id": 873567019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.33097,48.419067,-101.33097,48.419067",
+    "geom:latitude":48.419067,
+    "geom:longitude":-101.33097,
+    "iso:country":"US",
+    "sg:address":"304 Tanker Trl",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 727 4876",
+    "sg:postcode":"58704",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UsHnIi6GqzdlNmlh2Nhfn_48.419067_-101.330970@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294576,
+    "wof:geomhash":"8a25d81aa6f22220d5e6ad458c13d90d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873567019
+        }
+    ],
+    "wof:id":873567019,
+    "wof:lastmodified":1464294576,
+    "wof:name":"Bx Main Service Station",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -101.33097,
+    48.419067,
+    -101.33097,
+    48.419067
+],
+  "geometry": {"coordinates":[-101.33096999999999,48.419067],"type":"Point"}
+}

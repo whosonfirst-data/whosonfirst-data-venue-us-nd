@@ -1,0 +1,77 @@
+{
+  "id": 873588089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.886875,46.874477,-96.886875,46.874477",
+    "geom:latitude":46.874477,
+    "geom:longitude":-96.886875,
+    "iso:country":"US",
+    "sg:address":"526 2nd Ave E",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 7833",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "sg:tags":[
+        "help",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5s8oyDMZA1uHKYdE4c3NMy_46.874477_-96.886875@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294808,
+    "wof:geomhash":"48e639f64bcf915089d0a04bbf132a16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873588089
+        }
+    ],
+    "wof:id":873588089,
+    "wof:lastmodified":1464294808,
+    "wof:name":"Volk & Associates",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "help",
+        "supply"
+    ]
+},
+  "bbox": [
+    -96.886875,
+    46.874477,
+    -96.886875,
+    46.874477
+],
+  "geometry": {"coordinates":[-96.886875,46.874477],"type":"Point"}
+}

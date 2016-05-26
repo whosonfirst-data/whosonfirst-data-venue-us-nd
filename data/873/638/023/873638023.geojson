@@ -1,0 +1,77 @@
+{
+  "id": 873638023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.845863,46.834004,-96.845863,46.834004",
+    "geom:latitude":46.834004,
+    "geom:longitude":-96.845863,
+    "iso:country":"US",
+    "sg:address":"3141 39th St SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 7915",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "engine",
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73SMKGpKlUhUZHk1Lfkqtw_46.834004_-96.845863@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295455,
+    "wof:geomhash":"2081dcd029e81a6a40dfa660192e638b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873638023
+        }
+    ],
+    "wof:id":873638023,
+    "wof:lastmodified":1464295455,
+    "wof:name":"Thermo King of Fargo",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "repair"
+    ]
+},
+  "bbox": [
+    -96.845863,
+    46.834004,
+    -96.845863,
+    46.834004
+],
+  "geometry": {"coordinates":[-96.84586299999999,46.834004],"type":"Point"}
+}

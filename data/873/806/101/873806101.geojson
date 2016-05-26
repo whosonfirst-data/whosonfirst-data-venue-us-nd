@@ -1,0 +1,103 @@
+{
+  "id": 873806101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.790994,46.804196,-100.790994,46.804196",
+    "geom:latitude":46.804196,
+    "geom:longitude":-100.790994,
+    "iso:country":"US",
+    "sg:address":"117 W Front Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 0505",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "scanning",
+        "printer",
+        "supply",
+        "services-commercial",
+        "duplicating",
+        "shipping",
+        "copying",
+        "mail",
+        "plotting"
+    ],
+    "sg:website":"http://www.unitedprinting.com/WEDDINGS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yGugblKzBblqkTbmWy8RU_46.804196_-100.790994@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297853,
+    "wof:geomhash":"4950c39cb83ff9fc5e81989d4a3f1c51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873806101
+        }
+    ],
+    "wof:id":873806101,
+    "wof:lastmodified":1464297853,
+    "wof:name":"United Printing And Mailing",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scanning",
+        "printer",
+        "supply",
+        "services-commercial",
+        "duplicating",
+        "shipping",
+        "copying",
+        "mail",
+        "plotting"
+    ]
+},
+  "bbox": [
+    -100.790994,
+    46.804196,
+    -100.790994,
+    46.804196
+],
+  "geometry": {"coordinates":[-100.790994,46.804196],"type":"Point"}
+}

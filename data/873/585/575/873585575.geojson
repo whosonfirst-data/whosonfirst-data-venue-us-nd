@@ -1,0 +1,75 @@
+{
+  "id": 873585575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.290036,48.234524,-101.290036,48.234524",
+    "geom:latitude":48.234524,
+    "geom:longitude":-101.290036,
+    "iso:country":"US",
+    "sg:address":"105 2nd Ave SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 1993",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "building",
+        "operator",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bRuPe0wh1Z6GzKciUUeua_48.234524_-101.290036@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294779,
+    "wof:geomhash":"79444225da07b34571f0fa9d62cff73b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873585575
+        }
+    ],
+    "wof:id":873585575,
+    "wof:lastmodified":1464294779,
+    "wof:name":"Carnegie Center",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "operator",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -101.290036,
+    48.234524,
+    -101.290036,
+    48.234524
+],
+  "geometry": {"coordinates":[-101.290036,48.234524],"type":"Point"}
+}

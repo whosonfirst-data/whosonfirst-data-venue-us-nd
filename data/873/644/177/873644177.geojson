@@ -1,0 +1,73 @@
+{
+  "id": 873644177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.045587,47.902116,-97.045587,47.902116",
+    "geom:latitude":47.902116,
+    "geom:longitude":-97.045587,
+    "iso:country":"US",
+    "sg:address":"1726 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 0775",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WrOvpPLkit7wi3YnwZcpB_47.902116_-97.045587@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295526,
+    "wof:geomhash":"4e341260135af9063cb684b3784e43dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873644177
+        }
+    ],
+    "wof:id":873644177,
+    "wof:lastmodified":1464295526,
+    "wof:name":"Stonegate Pet Super Store",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -97.045587,
+    47.902116,
+    -97.045587,
+    47.902116
+],
+  "geometry": {"coordinates":[-97.045587,47.902116],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873560995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.780274,46.802101,-100.780274,46.802101",
+    "geom:latitude":46.802101,
+    "geom:longitude":-100.780274,
+    "iso:country":"US",
+    "sg:address":"712 E Bowen Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 221 5857",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "employment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UlcBQuR4EV8mZun6yksnz_46.802101_-100.780274@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294510,
+    "wof:geomhash":"7493dbe6fe953a6b9281099c1616db7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873560995
+        }
+    ],
+    "wof:id":873560995,
+    "wof:lastmodified":1464294510,
+    "wof:name":"Burdick Job Corps",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "employment"
+    ]
+},
+  "bbox": [
+    -100.780274,
+    46.802101,
+    -100.780274,
+    46.802101
+],
+  "geometry": {"coordinates":[-100.78027400000001,46.802101],"type":"Point"}
+}

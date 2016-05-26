@@ -1,0 +1,73 @@
+{
+  "id": 873747109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.298689,48.224113,-101.298689,48.224113",
+    "geom:latitude":48.224113,
+    "geom:longitude":-101.298689,
+    "iso:country":"US",
+    "sg:address":"1225 4th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 4755",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7B4YhJGTk1laA5jJxH65nN_48.224113_-101.298689@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297039,
+    "wof:geomhash":"3324183c05b212ac2742ebb6f26bc84c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873747109
+        }
+    ],
+    "wof:id":873747109,
+    "wof:lastmodified":1464297039,
+    "wof:name":"Wellness Images",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -101.298689,
+    48.224113,
+    -101.298689,
+    48.224113
+],
+  "geometry": {"coordinates":[-101.298689,48.224113],"type":"Point"}
+}

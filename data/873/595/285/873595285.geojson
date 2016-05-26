@@ -1,0 +1,66 @@
+{
+  "id": 873595285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.044568,47.900867,-97.044568,47.900867",
+    "geom:latitude":47.900867,
+    "geom:longitude":-97.044568,
+    "iso:country":"US",
+    "sg:address":"1903 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 1143",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6A4bgtEH6sNYoNUqWWdkgf_47.900867_-97.044568@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294910,
+    "wof:geomhash":"d0647a5f42317ae77f87b08df408d1f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873595285
+        }
+    ],
+    "wof:id":873595285,
+    "wof:lastmodified":1464294910,
+    "wof:name":"Hair Tenders II",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.044568,
+    47.900867,
+    -97.044568,
+    47.900867
+],
+  "geometry": {"coordinates":[-97.044568,47.900867],"type":"Point"}
+}

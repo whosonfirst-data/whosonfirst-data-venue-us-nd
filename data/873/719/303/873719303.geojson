@@ -1,0 +1,77 @@
+{
+  "id": 873719303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.829826,46.865874,-96.829826,46.865874",
+    "geom:latitude":46.865874,
+    "geom:longitude":-96.829826,
+    "iso:country":"US",
+    "sg:address":"3130 Fiechtner Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 8500",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yEWiKmcHq5qQ6a9NsBEyP_46.865874_-96.829826@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296637,
+    "wof:geomhash":"9bd945798dcb57ac17a87a07e3506abd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873719303
+        }
+    ],
+    "wof:id":873719303,
+    "wof:lastmodified":1464296637,
+    "wof:name":"Sara Lee Coffee & Tea",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -96.829826,
+    46.865874,
+    -96.829826,
+    46.865874
+],
+  "geometry": {"coordinates":[-96.829826,46.865874],"type":"Point"}
+}

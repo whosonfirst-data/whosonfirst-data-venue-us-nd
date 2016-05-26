@@ -1,0 +1,70 @@
+{
+  "id": 873534149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.217504,47.189609,-97.217504,47.189609",
+    "geom:latitude":47.189609,
+    "geom:longitude":-97.217504,
+    "iso:country":"US",
+    "sg:address":"107 Main St",
+    "sg:city":"Hunter",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 874 2388",
+    "sg:postcode":"58048",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Pk6LJGHfeDoIFGFmZFyzk_47.189609_-97.217504@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294191,
+    "wof:geomhash":"68746723cb6f6f7002bab8d1169301c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873534149
+        }
+    ],
+    "wof:id":873534149,
+    "wof:lastmodified":1464294191,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.217504,
+    47.189609,
+    -97.217504,
+    47.189609
+],
+  "geometry": {"coordinates":[-97.21750400000001,47.189609],"type":"Point"}
+}

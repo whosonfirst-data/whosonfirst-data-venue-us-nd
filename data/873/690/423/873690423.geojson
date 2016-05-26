@@ -1,0 +1,73 @@
+{
+  "id": 873690423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.286401,48.217517,-101.286401,48.217517",
+    "geom:latitude":48.217517,
+    "geom:longitude":-101.286401,
+    "iso:country":"US",
+    "sg:address":"1621 5th St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 0251",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QOnTML6W00SMhnHAaxuXZ_48.217517_-101.286401@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296285,
+    "wof:geomhash":"69957d9c92f6378e862dce24d6915009",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873690423
+        }
+    ],
+    "wof:id":873690423,
+    "wof:lastmodified":1464296285,
+    "wof:name":"Hight Painting Jay",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.286401,
+    48.217517,
+    -101.286401,
+    48.217517
+],
+  "geometry": {"coordinates":[-101.286401,48.217517],"type":"Point"}
+}

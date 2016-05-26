@@ -1,0 +1,75 @@
+{
+  "id": 873765953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.339378,48.242824,-101.339378,48.242824",
+    "geom:latitude":48.242824,
+    "geom:longitude":-101.339378,
+    "iso:country":"US",
+    "sg:address":"801 30th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 833 9917",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oxnQ2upkeKBGqeCJFZH9g_48.242824_-101.339378@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297312,
+    "wof:geomhash":"aff3e9692cca5c50aaadc8fc9910f9f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873765953
+        }
+    ],
+    "wof:id":873765953,
+    "wof:lastmodified":1464297312,
+    "wof:name":"Green Guard",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ]
+},
+  "bbox": [
+    -101.339378,
+    48.242824,
+    -101.339378,
+    48.242824
+],
+  "geometry": {"coordinates":[-101.339378,48.242824],"type":"Point"}
+}

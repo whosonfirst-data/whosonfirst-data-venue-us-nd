@@ -1,0 +1,74 @@
+{
+  "id": 873738587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.337719,48.427288,-101.337719,48.427288",
+    "geom:latitude":48.427288,
+    "geom:longitude":-101.337719,
+    "iso:country":"US",
+    "sg:address":"101 Sirocco Dr",
+    "sg:city":"Minot Afb",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 727 9675",
+    "sg:postcode":"58704",
+    "sg:province":"ND",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "sg:website":"www.weisbuilders.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XvwvFWg1osGiZ0GFRUCsc_48.427288_-101.337719@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296903,
+    "wof:geomhash":"a1c6eb81e59e6ece43899837a991d774",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873738587
+        }
+    ],
+    "wof:id":873738587,
+    "wof:lastmodified":1464296903,
+    "wof:name":"WEIS Builders Inc",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.337719,
+    48.427288,
+    -101.337719,
+    48.427288
+],
+  "geometry": {"coordinates":[-101.33771900000001,48.427288],"type":"Point"}
+}

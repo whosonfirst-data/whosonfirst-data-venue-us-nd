@@ -1,0 +1,71 @@
+{
+  "id": 873710133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.284081,48.235198,-101.284081,48.235198",
+    "geom:latitude":48.235198,
+    "geom:longitude":-101.284081,
+    "iso:country":"US",
+    "sg:address":"109 6th St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 3094",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7l6iHryRqA8J4MwpxdJpHW_48.235198_-101.284081@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296523,
+    "wof:geomhash":"d06ea35907a1583e323c2c1b1f647973",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873710133
+        }
+    ],
+    "wof:id":873710133,
+    "wof:lastmodified":1464296523,
+    "wof:name":"St Peter's Orthodox Church",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -101.284081,
+    48.235198,
+    -101.284081,
+    48.235198
+],
+  "geometry": {"coordinates":[-101.284081,48.235198],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873584047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.784852,46.805508,-100.784852,46.805508",
+    "geom:latitude":46.805508,
+    "geom:longitude":-100.784852,
+    "iso:country":"US",
+    "sg:address":"420 E Main Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 8840",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pGBhOPk4WK3gmm2jgoIxb_46.805508_-100.784852@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294763,
+    "wof:geomhash":"d66eb28a2680c758985ff3ef45b455ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873584047
+        }
+    ],
+    "wof:id":873584047,
+    "wof:lastmodified":1464294763,
+    "wof:name":"Mobile Phone Tower",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -100.784852,
+    46.805508,
+    -100.784852,
+    46.805508
+],
+  "geometry": {"coordinates":[-100.784852,46.805508],"type":"Point"}
+}

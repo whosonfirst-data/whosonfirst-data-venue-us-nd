@@ -1,0 +1,70 @@
+{
+  "id": 873700357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.82435,46.85504,-96.82435,46.85504",
+    "geom:latitude":46.85504,
+    "geom:longitude":-96.82435,
+    "iso:country":"US",
+    "sg:address":"2742 Cobblestone Ct",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 277 0042",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6w1EuZZJAf5Yd5nDUd70Ow_46.855040_-96.824350@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296410,
+    "wof:geomhash":"06e83b95671145d1879a4d347c39c741",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873700357
+        }
+    ],
+    "wof:id":873700357,
+    "wof:lastmodified":1464296410,
+    "wof:name":"Nelson Homes Inc",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.82435,
+    46.85504,
+    -96.82435,
+    46.85504
+],
+  "geometry": {"coordinates":[-96.82435,46.85504],"type":"Point"}
+}

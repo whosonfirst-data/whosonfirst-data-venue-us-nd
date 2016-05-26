@@ -1,0 +1,73 @@
+{
+  "id": 873736539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.038376,47.92687,-97.038376,47.92687",
+    "geom:latitude":47.92687,
+    "geom:longitude":-97.038376,
+    "iso:country":"US",
+    "sg:address":"415 N 5th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 9059",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZrrbQedHEG57UhC5072nz_47.926870_-97.038376@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296877,
+    "wof:geomhash":"69fa0a648d7b683f395c6a6d915722a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873736539
+        }
+    ],
+    "wof:id":873736539,
+    "wof:lastmodified":1464296877,
+    "wof:name":"KOHL Auto Repair",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -97.038376,
+    47.92687,
+    -97.038376,
+    47.92687
+],
+  "geometry": {"coordinates":[-97.038376,47.92687],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873679371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.787746,46.805547,-100.787746,46.805547",
+    "geom:latitude":46.805547,
+    "geom:longitude":-100.787746,
+    "iso:country":"US",
+    "sg:address":"208 E Main Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 221 3223",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "billiard",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yPTvE701DoYtnpdTn53BN_46.805547_-100.787746@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295977,
+    "wof:geomhash":"17bdcc916aa2a875213313717d2f0e87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873679371
+        }
+    ],
+    "wof:id":873679371,
+    "wof:lastmodified":1464295977,
+    "wof:name":"Shooters Billiards",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "billiard",
+        "supply"
+    ]
+},
+  "bbox": [
+    -100.787746,
+    46.805547,
+    -100.787746,
+    46.805547
+],
+  "geometry": {"coordinates":[-100.787746,46.805547],"type":"Point"}
+}

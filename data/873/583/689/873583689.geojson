@@ -1,0 +1,66 @@
+{
+  "id": 873583689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.295814,48.204803,-101.295814,48.204803",
+    "geom:latitude":48.204803,
+    "geom:longitude":-101.295814,
+    "iso:country":"US",
+    "sg:address":"2805 2nd St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 2191",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uMbGUtrgRjqKdIStUUOed_48.204803_-101.295814@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294759,
+    "wof:geomhash":"4744e0d55947059ed23bb6b88ee04258",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873583689
+        }
+    ],
+    "wof:id":873583689,
+    "wof:lastmodified":1464294759,
+    "wof:name":"Ho-Hum Motel",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.295814,
+    48.204803,
+    -101.295814,
+    48.204803
+],
+  "geometry": {"coordinates":[-101.29581399999999,48.204803],"type":"Point"}
+}

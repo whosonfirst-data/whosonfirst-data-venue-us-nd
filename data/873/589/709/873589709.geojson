@@ -1,0 +1,73 @@
+{
+  "id": 873589709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.055585,47.935365,-97.055585,47.935365",
+    "geom:latitude":47.935365,
+    "geom:longitude":-97.055585,
+    "iso:country":"US",
+    "sg:address":"1730 N Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 6471",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "merchandise",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5se9BIvxtWwVxaUOog9J3Z_47.935365_-97.055585@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294827,
+    "wof:geomhash":"f094aa1eeca5309764f85ec0feaad651",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873589709
+        }
+    ],
+    "wof:id":873589709,
+    "wof:lastmodified":1464294827,
+    "wof:name":"Surplus Center Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise",
+        "general"
+    ]
+},
+  "bbox": [
+    -97.055585,
+    47.935365,
+    -97.055585,
+    47.935365
+],
+  "geometry": {"coordinates":[-97.05558499999999,47.935365],"type":"Point"}
+}

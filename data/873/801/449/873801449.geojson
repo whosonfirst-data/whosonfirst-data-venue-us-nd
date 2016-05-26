@@ -1,0 +1,66 @@
+{
+  "id": 873801449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.783089,46.876981,-96.783089,46.876981",
+    "geom:latitude":46.876981,
+    "geom:longitude":-96.783089,
+    "iso:country":"US",
+    "sg:address":"102 3rd St N Fargo, Nd 58102",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 241 1472",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "township",
+        "government-city",
+        "village"
+    ],
+    "sg:website":"http://www.fargolibrary.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tLS3kY7op3TjB1DZiM5Be_46.876981_-96.783089@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297790,
+    "wof:geomhash":"80aa4da1a619309ee8d79f0e971b269b",
+    "wof:hierarchy":[],
+    "wof:id":873801449,
+    "wof:lastmodified":1464297790,
+    "wof:name":"Fargo Public Library",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "township",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -96.783089,
+    46.876981,
+    -96.783089,
+    46.876981
+],
+  "geometry": {"coordinates":[-96.783089,46.876981],"type":"Point"}
+}

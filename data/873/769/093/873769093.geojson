@@ -1,0 +1,75 @@
+{
+  "id": 873769093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.330829,48.020171,-97.330829,48.020171",
+    "geom:latitude":48.020171,
+    "geom:longitude":-97.330829,
+    "iso:country":"US",
+    "sg:address":"2361 24th Ave NE",
+    "sg:city":"Mekinock",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 594 8166",
+    "sg:postcode":"58258",
+    "sg:province":"ND",
+    "sg:tags":[
+        "plastering",
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Z7vBHEMPGZApao807DjcJ_48.020171_-97.330829@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297351,
+    "wof:geomhash":"9c1ed744cfe50388d5870fc5057feb64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873769093
+        }
+    ],
+    "wof:id":873769093,
+    "wof:lastmodified":1464297351,
+    "wof:name":"Forks Lath and Plaster Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plastering",
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.330829,
+    48.020171,
+    -97.330829,
+    48.020171
+],
+  "geometry": {"coordinates":[-97.33082899999999,48.020171],"type":"Point"}
+}

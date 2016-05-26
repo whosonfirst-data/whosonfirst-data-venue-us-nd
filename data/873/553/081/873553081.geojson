@@ -1,0 +1,71 @@
+{
+  "id": 873553081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.449113,48.107873,-97.449113,48.107873",
+    "geom:latitude":48.107873,
+    "geom:longitude":-97.449113,
+    "iso:country":"US",
+    "sg:address":"2931 29th St NE",
+    "sg:city":"Gilby",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 869 2436",
+    "sg:postcode":"58235",
+    "sg:province":"ND",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Rifp5iZBYHpxUD1aI605K_48.107873_-97.449113@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294412,
+    "wof:geomhash":"2accd9e70b78726531d0566f821eb418",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873553081
+        }
+    ],
+    "wof:id":873553081,
+    "wof:lastmodified":1464294412,
+    "wof:name":"Tankersley & Tankersley",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -97.449113,
+    48.107873,
+    -97.449113,
+    48.107873
+],
+  "geometry": {"coordinates":[-97.449113,48.107873],"type":"Point"}
+}

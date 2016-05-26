@@ -1,0 +1,75 @@
+{
+  "id": 873612767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.759802,46.793251,-100.759802,46.793251",
+    "geom:latitude":46.793251,
+    "geom:longitude":-100.759802,
+    "iso:country":"US",
+    "sg:address":"2101 Lovett Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 1495",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repair",
+        "industrial",
+        "mach"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SwbOfN8mHn2LG72AI7noe_46.793251_-100.759802@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295174,
+    "wof:geomhash":"4c954c83205cf2dc1fec86551fd34fbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873612767
+        }
+    ],
+    "wof:id":873612767,
+    "wof:lastmodified":1464295174,
+    "wof:name":"Force America Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "industrial",
+        "mach"
+    ]
+},
+  "bbox": [
+    -100.759802,
+    46.793251,
+    -100.759802,
+    46.793251
+],
+  "geometry": {"coordinates":[-100.75980199999999,46.793251],"type":"Point"}
+}

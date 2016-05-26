@@ -1,0 +1,73 @@
+{
+  "id": 873595421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.314107,48.235374,-101.314107,48.235374",
+    "geom:latitude":48.235374,
+    "geom:longitude":-101.314107,
+    "iso:country":"US",
+    "sg:address":"14 Oak Dr SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 725 4653",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "course",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Wdwj5o6z9VranEFBOWLRq_48.235374_-101.314107@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294914,
+    "wof:geomhash":"19b08c981c6328b2b45175889f77fddf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873595421
+        }
+    ],
+    "wof:id":873595421,
+    "wof:lastmodified":1464294914,
+    "wof:name":"Wildwood Golf Course",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course",
+        "public"
+    ]
+},
+  "bbox": [
+    -101.314107,
+    48.235374,
+    -101.314107,
+    48.235374
+],
+  "geometry": {"coordinates":[-101.31410700000001,48.235374],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 873651155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.027371,47.922081,-97.027371,47.922081",
+    "geom:latitude":47.922081,
+    "geom:longitude":-97.027371,
+    "iso:country":"US",
+    "sg:address":"301 Division Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 6607",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "automobile",
+        "conditioning",
+        "radiator",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aL4o4irno2pgXn9JAZlTt_47.922081_-97.027371@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295599,
+    "wof:geomhash":"a211a71a652f0b189956ca12cdb267c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873651155
+        }
+    ],
+    "wof:id":873651155,
+    "wof:lastmodified":1464295599,
+    "wof:name":"Forx Radiator Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "automobile",
+        "conditioning",
+        "radiator",
+        "air"
+    ]
+},
+  "bbox": [
+    -97.027371,
+    47.922081,
+    -97.027371,
+    47.922081
+],
+  "geometry": {"coordinates":[-97.027371,47.922081],"type":"Point"}
+}

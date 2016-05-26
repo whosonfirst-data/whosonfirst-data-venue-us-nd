@@ -1,0 +1,73 @@
+{
+  "id": 873681667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.109566,47.775831,-97.109566,47.775831",
+    "geom:latitude":47.775831,
+    "geom:longitude":-97.109566,
+    "iso:country":"US",
+    "sg:address":"306 Pacific Ave",
+    "sg:city":"Thompson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 599 2973",
+    "sg:postcode":"58278",
+    "sg:province":"ND",
+    "sg:tags":[
+        "city",
+        "taxation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BPVfvmyzPqUaur85LJDRR_47.775831_-97.109566@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296043,
+    "wof:geomhash":"3d11c19fb23983f11b19e04bbc61ccdc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873681667
+        }
+    ],
+    "wof:id":873681667,
+    "wof:lastmodified":1464296043,
+    "wof:name":"Thompson City Auditor",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "taxation"
+    ]
+},
+  "bbox": [
+    -97.109566,
+    47.775831,
+    -97.109566,
+    47.775831
+],
+  "geometry": {"coordinates":[-97.109566,47.775831],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 873555953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.032527,47.923657,-97.032527,47.923657",
+    "geom:latitude":47.923657,
+    "geom:longitude":-97.032527,
+    "iso:country":"US",
+    "sg:address":"401 Demers Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 4685",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "firm",
+        "accountant"
+    ],
+    "sg:website":"www.bradymartz.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3u1RR9C7yzaUtkU7regkPe_47.923657_-97.032527@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294448,
+    "wof:geomhash":"b6759680aa1693cf41b711f33df3a79c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873555953
+        }
+    ],
+    "wof:id":873555953,
+    "wof:lastmodified":1464294448,
+    "wof:name":"Brady Martz & Associates PC",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "firm",
+        "accountant"
+    ]
+},
+  "bbox": [
+    -97.032527,
+    47.923657,
+    -97.032527,
+    47.923657
+],
+  "geometry": {"coordinates":[-97.032527,47.923657],"type":"Point"}
+}

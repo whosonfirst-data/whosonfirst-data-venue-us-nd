@@ -1,0 +1,75 @@
+{
+  "id": 873675391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.802896,46.832542,-96.802896,46.832542",
+    "geom:latitude":46.832542,
+    "geom:longitude":-96.802896,
+    "iso:country":"US",
+    "sg:address":"1550 32nd Ave",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 241 9817",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534487,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rqyMi5vZsjiktBs3qTw2f_46.832542_-96.802896@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295877,
+    "wof:geomhash":"1d1cda144badd1abff421aad1a564de3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534487,
+            "region_id":85688525,
+            "venue_id":873675391
+        }
+    ],
+    "wof:id":873675391,
+    "wof:lastmodified":1464295877,
+    "wof:name":"Woodys Bar & Grill",
+    "wof:parent_id":420534487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -96.802896,
+    46.832542,
+    -96.802896,
+    46.832542
+],
+  "geometry": {"coordinates":[-96.802896,46.832542],"type":"Point"}
+}

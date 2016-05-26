@@ -1,0 +1,66 @@
+{
+  "id": 873665111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.428339,48.275422,-101.428339,48.275422",
+    "geom:latitude":48.275422,
+    "geom:longitude":-101.428339,
+    "iso:country":"US",
+    "sg:address":"135 Colton Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 7099",
+    "sg:postcode":"58722",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tF4M7No4n3o7Aya3x1xzH_48.275422_-101.428339@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295751,
+    "wof:geomhash":"714564fe1b00d7bcdce04f0b9c94e836",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873665111
+        }
+    ],
+    "wof:id":873665111,
+    "wof:lastmodified":1464295751,
+    "wof:name":"Hacienda Dining",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.428339,
+    48.275422,
+    -101.428339,
+    48.275422
+],
+  "geometry": {"coordinates":[-101.42833899999999,48.275422],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873560041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.078437,47.912744,-97.078437,47.912744",
+    "geom:latitude":47.912744,
+    "geom:longitude":-97.078437,
+    "iso:country":"US",
+    "sg:address":"3595 Prairie Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 4004",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6o83ifxU6gAM3b8WZ4I3uV_47.912744_-97.078437@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294500,
+    "wof:geomhash":"9fde063bf6e8548b6b384d17ca960ec3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873560041
+        }
+    ],
+    "wof:id":873560041,
+    "wof:lastmodified":1464294500,
+    "wof:name":"Tonys Super Value",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.078437,
+    47.912744,
+    -97.078437,
+    47.912744
+],
+  "geometry": {"coordinates":[-97.07843699999999,47.912744],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873678331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.762851,46.790186,-100.762851,46.790186",
+    "geom:latitude":46.790186,
+    "geom:longitude":-100.762851,
+    "iso:country":"US",
+    "sg:address":"1405 Airport Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 7277",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zoHJJgEMrU9YxPbu8iBBe_46.790186_-100.762851@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295948,
+    "wof:geomhash":"7aa71e7edb42c4d5fc49e9dbb2f8c3b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873678331
+        }
+    ],
+    "wof:id":873678331,
+    "wof:lastmodified":1464295948,
+    "wof:name":"Pars",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -100.762851,
+    46.790186,
+    -100.762851,
+    46.790186
+],
+  "geometry": {"coordinates":[-100.762851,46.790186],"type":"Point"}
+}

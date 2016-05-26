@@ -1,0 +1,71 @@
+{
+  "id": 873751715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.773402,46.789561,-100.773402,46.789561",
+    "geom:latitude":46.789561,
+    "geom:longitude":-100.773402,
+    "iso:country":"US",
+    "sg:address":"1345 S 12th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 3656",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AU6to1dojgExNCcdriqnt_46.789561_-100.773402@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297097,
+    "wof:geomhash":"5e60c476fb38515bc968284b89c73025",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873751715
+        }
+    ],
+    "wof:id":873751715,
+    "wof:lastmodified":1464297097,
+    "wof:name":"Garske Produce Sales",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -100.773402,
+    46.789561,
+    -100.773402,
+    46.789561
+],
+  "geometry": {"coordinates":[-100.773402,46.789561],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873707261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.292962,48.235567,-101.292962,48.235567",
+    "geom:latitude":48.235567,
+    "geom:longitude":-101.292962,
+    "iso:country":"US",
+    "sg:address":"119 Main St S",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 833 6676",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yCbKWcGuBkoIUjRlYSoUy_48.235567_-101.292962@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296486,
+    "wof:geomhash":"baaeb96c3eb01afdb5b66b2a8ad78779",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873707261
+        }
+    ],
+    "wof:id":873707261,
+    "wof:lastmodified":1464296486,
+    "wof:name":"Echappe' Danse Theatre Inc",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -101.292962,
+    48.235567,
+    -101.292962,
+    48.235567
+],
+  "geometry": {"coordinates":[-101.292962,48.235567],"type":"Point"}
+}

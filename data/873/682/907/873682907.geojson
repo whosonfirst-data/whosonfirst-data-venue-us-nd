@@ -1,0 +1,66 @@
+{
+  "id": 873682907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.044972,47.920137,-97.044972,47.920137",
+    "geom:latitude":47.920137,
+    "geom:longitude":-97.044972,
+    "iso:country":"US",
+    "sg:address":"1 N Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Labor Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 7404",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nhjuyIj6A3jQvcKs2FA4s_47.920137_-97.044972@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296079,
+    "wof:geomhash":"2afbfce5a44173faa8242d832effb163",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873682907
+        }
+    ],
+    "wof:id":873682907,
+    "wof:lastmodified":1464296079,
+    "wof:name":"Northern Valley Labor Council",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.044972,
+    47.920137,
+    -97.044972,
+    47.920137
+],
+  "geometry": {"coordinates":[-97.044972,47.920137],"type":"Point"}
+}

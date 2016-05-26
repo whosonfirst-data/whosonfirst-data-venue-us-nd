@@ -1,0 +1,66 @@
+{
+  "id": 873723439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.050502,47.889344,-97.050502,47.889344",
+    "geom:latitude":47.889344,
+    "geom:longitude":-97.050502,
+    "iso:country":"US",
+    "sg:address":"1449 32nd Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 6600",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ed1p2AqT5m5EzHoQpxOoN_47.889344_-97.050502@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296692,
+    "wof:geomhash":"bb6c93730444c23518f0fe9aa0429063",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873723439
+        }
+    ],
+    "wof:id":873723439,
+    "wof:lastmodified":1464296692,
+    "wof:name":"Slumberland Furniture",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.050502,
+    47.889344,
+    -97.050502,
+    47.889344
+],
+  "geometry": {"coordinates":[-97.05050199999999,47.889344],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873732923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.290672,48.241965,-101.290672,48.241965",
+    "geom:latitude":48.241965,
+    "geom:longitude":-101.290672,
+    "iso:country":"US",
+    "sg:address":"114 6th Ave NE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 837 4929",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mnPYkQsTUk4oyeS4WZVfQ_48.241965_-101.290672@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296814,
+    "wof:geomhash":"df34c9cdf46b33b253ab3382d587a416",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873732923
+        }
+    ],
+    "wof:id":873732923,
+    "wof:lastmodified":1464296814,
+    "wof:name":"Probst Law Firm",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.290672,
+    48.241965,
+    -101.290672,
+    48.241965
+],
+  "geometry": {"coordinates":[-101.290672,48.241965],"type":"Point"}
+}

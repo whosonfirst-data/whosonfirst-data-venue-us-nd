@@ -1,0 +1,69 @@
+{
+  "id": 873784929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.710043,46.797052,-100.710043,46.797052",
+    "geom:latitude":46.797052,
+    "geom:longitude":-100.710043,
+    "iso:country":"US",
+    "sg:address":"700 52nd St SE",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 3947",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "grain",
+        "cash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1G6ErmsxplFpRLXwWZgzNo_46.797052_-100.710043@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297555,
+    "wof:geomhash":"0de2485b25c9c614b9634a9a9da754b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873784929
+        }
+    ],
+    "wof:id":873784929,
+    "wof:lastmodified":1464297555,
+    "wof:name":"Hammond Brothers",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "grain",
+        "cash"
+    ]
+},
+  "bbox": [
+    -100.710043,
+    46.797052,
+    -100.710043,
+    46.797052
+],
+  "geometry": {"coordinates":[-100.710043,46.797052],"type":"Point"}
+}

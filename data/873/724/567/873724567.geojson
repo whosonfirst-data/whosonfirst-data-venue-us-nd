@@ -1,0 +1,77 @@
+{
+  "id": 873724567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.814213,46.872597,-96.814213,46.872597",
+    "geom:latitude":46.872597,
+    "geom:longitude":-96.814213,
+    "iso:country":"US",
+    "sg:address":"2124 3rd Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 241 6017",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UPAQ16Mpc6LlKi0M77G6X_46.872597_-96.814213@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296706,
+    "wof:geomhash":"daa72f81ff57e9fa785c3c5585942d95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873724567
+        }
+    ],
+    "wof:id":873724567,
+    "wof:lastmodified":1464296706,
+    "wof:name":"B & J Taxidermy",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "establishment"
+    ]
+},
+  "bbox": [
+    -96.814213,
+    46.872597,
+    -96.814213,
+    46.872597
+],
+  "geometry": {"coordinates":[-96.814213,46.872597],"type":"Point"}
+}

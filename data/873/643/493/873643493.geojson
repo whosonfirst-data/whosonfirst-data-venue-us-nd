@@ -1,0 +1,73 @@
+{
+  "id": 873643493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.294763,48.223444,-101.294763,48.223444",
+    "geom:latitude":48.223444,
+    "geom:longitude":-101.294763,
+    "iso:country":"US",
+    "sg:address":"1314 1st St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 0324",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TzyH0jn56oRxaCaAEj7AD_48.223444_-101.294763@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295520,
+    "wof:geomhash":"be133be6839dab96ac1506cb71e07d7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873643493
+        }
+    ],
+    "wof:id":873643493,
+    "wof:lastmodified":1464295520,
+    "wof:name":"Northwestern Electric Inc",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.294763,
+    48.223444,
+    -101.294763,
+    48.223444
+],
+  "geometry": {"coordinates":[-101.294763,48.223444],"type":"Point"}
+}

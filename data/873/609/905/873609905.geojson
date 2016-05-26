@@ -1,0 +1,71 @@
+{
+  "id": 873609905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.053207,47.933027,-97.053207,47.933027",
+    "geom:latitude":47.933027,
+    "geom:longitude":-97.053207,
+    "iso:country":"US",
+    "sg:address":"1923 Gateway Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 7274",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6T3QF2dYlMp8qZ4I7vicNu_47.933027_-97.053207@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295141,
+    "wof:geomhash":"c8d17f31e91ae1037c209d75121695c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873609905
+        }
+    ],
+    "wof:id":873609905,
+    "wof:lastmodified":1464295141,
+    "wof:name":"Schumacher Tire Service Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -97.053207,
+    47.933027,
+    -97.053207,
+    47.933027
+],
+  "geometry": {"coordinates":[-97.053207,47.933027],"type":"Point"}
+}

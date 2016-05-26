@@ -1,0 +1,73 @@
+{
+  "id": 873772239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.080804,47.925845,-97.080804,47.925845",
+    "geom:latitude":47.925845,
+    "geom:longitude":-97.080804,
+    "iso:country":"US",
+    "sg:address":"3518 6th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 7639",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VL20BSvoMTKEDlR7FBQvZ_47.925845_-97.080804@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297392,
+    "wof:geomhash":"d6893d7afa2667f8d01cd0766e8f4465",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873772239
+        }
+    ],
+    "wof:id":873772239,
+    "wof:lastmodified":1464297392,
+    "wof:name":"Lewandowski Painting",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.080804,
+    47.925845,
+    -97.080804,
+    47.925845
+],
+  "geometry": {"coordinates":[-97.080804,47.925845],"type":"Point"}
+}

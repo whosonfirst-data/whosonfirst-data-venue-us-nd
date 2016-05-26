@@ -1,0 +1,71 @@
+{
+  "id": 873608725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.784695,46.806293,-100.784695,46.806293",
+    "geom:latitude":46.806293,
+    "geom:longitude":-100.784695,
+    "iso:country":"US",
+    "sg:address":"114 N 5th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Stationery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 7111",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vXg4YTMB1soeBJIxB1OTY_46.806293_-100.784695@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295119,
+    "wof:geomhash":"e1abd4a07e86410c024c4cb8c285c6b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873608725
+        }
+    ],
+    "wof:id":873608725,
+    "wof:lastmodified":1464295119,
+    "wof:name":"Scrapbook Treasures Inc",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -100.784695,
+    46.806293,
+    -100.784695,
+    46.806293
+],
+  "geometry": {"coordinates":[-100.784695,46.806293],"type":"Point"}
+}

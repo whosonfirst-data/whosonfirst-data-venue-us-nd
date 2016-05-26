@@ -1,0 +1,71 @@
+{
+  "id": 873684021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.330459,48.220126,-101.330459,48.220126",
+    "geom:latitude":48.220126,
+    "geom:longitude":-101.330459,
+    "iso:country":"US",
+    "sg:address":"2626 Burdick Expy W",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 1301",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "building"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UsjJbrP724YxgeuGZROmX_48.220126_-101.330459@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296111,
+    "wof:geomhash":"4d8c024a50014ce2df6b9b728e4b4176",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873684021
+        }
+    ],
+    "wof:id":873684021,
+    "wof:lastmodified":1464296111,
+    "wof:name":"Minot Builders Supply Assn",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building"
+    ]
+},
+  "bbox": [
+    -101.330459,
+    48.220126,
+    -101.330459,
+    48.220126
+],
+  "geometry": {"coordinates":[-101.330459,48.220126],"type":"Point"}
+}

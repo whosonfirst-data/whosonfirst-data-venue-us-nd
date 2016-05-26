@@ -1,0 +1,67 @@
+{
+  "id": 873787029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.153118,47.712716,-97.153118,47.712716",
+    "geom:latitude":47.712716,
+    "geom:longitude":-97.153118,
+    "iso:country":"US",
+    "sg:address":"285 15th St NE",
+    "sg:city":"Reynolds",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 847 2415",
+    "sg:postcode":"58275",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "soybean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IEE4vcE4cU47Pm64vuRIX_47.712716_-97.153118@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297592,
+    "wof:geomhash":"f27bf61a5b2569a31a8aa9e619e32954",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873787029
+        }
+    ],
+    "wof:id":873787029,
+    "wof:lastmodified":1464297592,
+    "wof:name":"Lyle Adams",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "soybean"
+    ]
+},
+  "bbox": [
+    -97.153118,
+    47.712716,
+    -97.153118,
+    47.712716
+],
+  "geometry": {"coordinates":[-97.15311800000001,47.712716],"type":"Point"}
+}

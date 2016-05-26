@@ -1,0 +1,75 @@
+{
+  "id": 873760841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.771253,46.798683,-100.771253,46.798683",
+    "geom:latitude":46.798683,
+    "geom:longitude":-100.771253,
+    "iso:country":"US",
+    "sg:address":"608 S 13th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 3034",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nZff7cWgS8dCSClwGKer0_46.798683_-100.771253@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297217,
+    "wof:geomhash":"ffbab066f3e815094b7b1c188b169a4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873760841
+        }
+    ],
+    "wof:id":873760841,
+    "wof:lastmodified":1464297217,
+    "wof:name":"Twin City Auto Glass",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "plate"
+    ]
+},
+  "bbox": [
+    -100.771253,
+    46.798683,
+    -100.771253,
+    46.798683
+],
+  "geometry": {"coordinates":[-100.771253,46.798683],"type":"Point"}
+}

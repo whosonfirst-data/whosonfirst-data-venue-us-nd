@@ -1,0 +1,66 @@
+{
+  "id": 873640141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.030241,47.918694,-97.030241,47.918694",
+    "geom:latitude":47.918694,
+    "geom:longitude":-97.030241,
+    "iso:country":"US",
+    "sg:address":"324 Chestnut St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 3773",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OQDISI5c6739gv3243Owu_47.918694_-97.030241@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295474,
+    "wof:geomhash":"a9e98b04303245d311cd772eea086af8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873640141
+        }
+    ],
+    "wof:id":873640141,
+    "wof:lastmodified":1464295474,
+    "wof:name":"United Day Nursery",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.030241,
+    47.918694,
+    -97.030241,
+    47.918694
+],
+  "geometry": {"coordinates":[-97.030241,47.918694],"type":"Point"}
+}

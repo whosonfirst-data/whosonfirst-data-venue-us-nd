@@ -1,0 +1,83 @@
+{
+  "id": 873802135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.817109,46.861087,-96.817109,46.861087",
+    "geom:latitude":46.861087,
+    "geom:longitude":-96.817109,
+    "iso:country":"US",
+    "sg:address":"1310 23rd St S Ste A",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 297 6404",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "sg:website":"http://www.callclaudia.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877331,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3odMFWfmlRDcs03X2AWIlt_46.861087_-96.817109@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297799,
+    "wof:geomhash":"44a56df4b32b1f9e11298a55f45d1c47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877331,
+            "region_id":85688525,
+            "venue_id":873802135
+        }
+    ],
+    "wof:id":873802135,
+    "wof:lastmodified":1464297799,
+    "wof:name":"Realty Connection Llc",
+    "wof:parent_id":85877331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [
+    -96.817109,
+    46.861087,
+    -96.817109,
+    46.861087
+],
+  "geometry": {"coordinates":[-96.817109,46.861087],"type":"Point"}
+}

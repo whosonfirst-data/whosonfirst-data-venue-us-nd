@@ -1,0 +1,71 @@
+{
+  "id": 873633037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.626794,47.904556,-97.626794,47.904556",
+    "geom:latitude":47.904556,
+    "geom:longitude":-97.626794,
+    "iso:country":"US",
+    "sg:address":"119 Booth Ave",
+    "sg:city":"Larimore",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 343 6293",
+    "sg:postcode":"58251",
+    "sg:province":"ND",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63wycMZ6nAeFO14c6bqvai_47.904556_-97.626794@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295400,
+    "wof:geomhash":"a04282cae668f3a494f4e0ceed8c23d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873633037
+        }
+    ],
+    "wof:id":873633037,
+    "wof:lastmodified":1464295400,
+    "wof:name":"Larimore Ambulance Svc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -97.626794,
+    47.904556,
+    -97.626794,
+    47.904556
+],
+  "geometry": {"coordinates":[-97.626794,47.904556],"type":"Point"}
+}

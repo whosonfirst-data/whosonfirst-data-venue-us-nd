@@ -1,0 +1,71 @@
+{
+  "id": 873625637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.033308,47.902885,-97.033308,47.902885",
+    "geom:latitude":47.902885,
+    "geom:longitude":-97.033308,
+    "iso:country":"US",
+    "sg:address":"411 18th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 9522",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2V2tfvXijkWpIRsxh5ce2w_47.902885_-97.033308@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295317,
+    "wof:geomhash":"397e365efa7270ca05c97edda70f2b86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873625637
+        }
+    ],
+    "wof:id":873625637,
+    "wof:lastmodified":1464295317,
+    "wof:name":"Kip's Tree Stump Removel",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -97.033308,
+    47.902885,
+    -97.033308,
+    47.902885
+],
+  "geometry": {"coordinates":[-97.03330800000001,47.902885],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873572461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.770863,46.816488,-100.770863,46.816488",
+    "geom:latitude":46.816488,
+    "geom:longitude":-100.770863,
+    "iso:country":"US",
+    "sg:address":"1000 N 14th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 0867",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Aw1BixcJEk27kn04y505K_46.816488_-100.770863@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294636,
+    "wof:geomhash":"5c51d35ee764bdc638d9509f5083e21f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873572461
+        }
+    ],
+    "wof:id":873572461,
+    "wof:lastmodified":1464294636,
+    "wof:name":"Shear Dimensions",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -100.770863,
+    46.816488,
+    -100.770863,
+    46.816488
+],
+  "geometry": {"coordinates":[-100.77086300000001,46.816488],"type":"Point"}
+}

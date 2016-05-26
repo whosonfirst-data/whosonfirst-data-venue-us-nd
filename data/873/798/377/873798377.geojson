@@ -1,0 +1,86 @@
+{
+  "id": 873798377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-102.788013,46.894145,-102.788013,46.894145",
+    "geom:latitude":46.894145,
+    "geom:longitude":-102.788013,
+    "iso:country":"US",
+    "sg:address":"188 W Museum Dr",
+    "sg:city":"Dickinson",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/dickinson/102137-perkins-restaurant--bakery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 227 3001",
+    "sg:postcode":"58601",
+    "sg:province":"ND",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pastry",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877119,
+        102191575,
+        404482179,
+        85633793,
+        85982521,
+        102082105,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uiEslFYHrO2aFPcGKI6bH_46.894145_-102.788013@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297755,
+    "wof:geomhash":"681bf8d95af3c4774254f8fcd4adf6e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082105,
+            "localadmin_id":404482179,
+            "locality_id":85982521,
+            "neighbourhood_id":85877119,
+            "region_id":85688525,
+            "venue_id":873798377
+        }
+    ],
+    "wof:id":873798377,
+    "wof:lastmodified":1464297755,
+    "wof:name":"Perkins Restaurant & Bakery",
+    "wof:parent_id":85877119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pastry",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -102.788013,
+    46.894145,
+    -102.788013,
+    46.894145
+],
+  "geometry": {"coordinates":[-102.78801300000001,46.894145],"type":"Point"}
+}

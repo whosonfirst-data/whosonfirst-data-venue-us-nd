@@ -1,0 +1,66 @@
+{
+  "id": 873633803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.028944,47.892829,-97.028944,47.892829",
+    "geom:latitude":47.892829,
+    "geom:longitude":-97.028944,
+    "iso:country":"US",
+    "sg:address":"3119 Belmont Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 5112",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EdSIADvdW0SkftSeWdZ0X_47.892829_-97.028944@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295411,
+    "wof:geomhash":"c7c2f4cbfb9f8c58131878cbc3e0e408",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873633803
+        }
+    ],
+    "wof:id":873633803,
+    "wof:lastmodified":1464295411,
+    "wof:name":"Top Dog Grooming Salon",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.028944,
+    47.892829,
+    -97.028944,
+    47.892829
+],
+  "geometry": {"coordinates":[-97.028944,47.892829],"type":"Point"}
+}

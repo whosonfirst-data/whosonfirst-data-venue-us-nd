@@ -1,0 +1,71 @@
+{
+  "id": 873537809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.7401,46.809718,-100.7401,46.809718",
+    "geom:latitude":46.809718,
+    "geom:longitude":-100.7401,
+    "iso:country":"US",
+    "sg:address":"609 N 34th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 4281",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ExJWGjTkDgW1nSkabtGQQ_46.809718_-100.740100@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294236,
+    "wof:geomhash":"35e00c8c5f7c74fa95e9555380186608",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873537809
+        }
+    ],
+    "wof:id":873537809,
+    "wof:lastmodified":1464294236,
+    "wof:name":"Calvary United Methodist Chr",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -100.7401,
+    46.809718,
+    -100.7401,
+    46.809718
+],
+  "geometry": {"coordinates":[-100.7401,46.809718],"type":"Point"}
+}

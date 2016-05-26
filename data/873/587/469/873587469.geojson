@@ -1,0 +1,75 @@
+{
+  "id": 873587469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.29853,48.150194,-97.29853,48.150194",
+    "geom:latitude":48.150194,
+    "geom:longitude":-97.29853,
+    "iso:country":"US",
+    "sg:address":"2241 33rd Ave NE",
+    "sg:city":"Ardoch",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 9792",
+    "sg:postcode":"58261",
+    "sg:province":"ND",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aG32hhUUYZcOTXPyW2luh_48.150194_-97.298530@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294802,
+    "wof:geomhash":"72b5b8fbdb0730e20d3665d705fbcc04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873587469
+        }
+    ],
+    "wof:id":873587469,
+    "wof:lastmodified":1464294802,
+    "wof:name":"Karalaite Dog & Cat Boarding",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -97.29853,
+    48.150194,
+    -97.29853,
+    48.150194
+],
+  "geometry": {"coordinates":[-97.29853,48.150194],"type":"Point"}
+}

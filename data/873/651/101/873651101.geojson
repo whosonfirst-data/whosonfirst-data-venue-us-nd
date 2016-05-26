@@ -1,0 +1,73 @@
+{
+  "id": 873651101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.867472,47.995664,-97.867472,47.995664",
+    "geom:latitude":47.995664,
+    "geom:longitude":-97.867472,
+    "iso:country":"US",
+    "sg:address":"403 Ransom Ave",
+    "sg:city":"Niagara",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 397 5852",
+    "sg:postcode":"58266",
+    "sg:province":"ND",
+    "sg:tags":[
+        "reconstituted",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zOpjYrVeyNNTbMDvZOLHJ_47.995664_-97.867472@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295599,
+    "wof:geomhash":"5931c74f1944b35809aa582fb1a2e670",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873651101
+        }
+    ],
+    "wof:id":873651101,
+    "wof:lastmodified":1464295599,
+    "wof:name":"Additions & Subtractions",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reconstituted",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -97.867472,
+    47.995664,
+    -97.867472,
+    47.995664
+],
+  "geometry": {"coordinates":[-97.86747200000001,47.995664],"type":"Point"}
+}

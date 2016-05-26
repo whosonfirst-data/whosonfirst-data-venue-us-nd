@@ -1,0 +1,73 @@
+{
+  "id": 873691457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.064725,47.889526,-97.064725,47.889526",
+    "geom:latitude":47.889526,
+    "geom:longitude":-97.064725,
+    "iso:country":"US",
+    "sg:address":"2650 32nd Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 0567",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "bridal",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RdUBBjJBNKfNsRXkXiuzl_47.889526_-97.064725@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296309,
+    "wof:geomhash":"e909c1da0dff9ba514b52eb6aefe2ff2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873691457
+        }
+    ],
+    "wof:id":873691457,
+    "wof:lastmodified":1464296309,
+    "wof:name":"Kristens Bridals and Gifts",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bridal",
+        "wear"
+    ]
+},
+  "bbox": [
+    -97.064725,
+    47.889526,
+    -97.064725,
+    47.889526
+],
+  "geometry": {"coordinates":[-97.064725,47.889526],"type":"Point"}
+}

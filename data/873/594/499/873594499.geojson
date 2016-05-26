@@ -1,0 +1,76 @@
+{
+  "id": 873594499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.784696,46.806252,-100.784696,46.806252",
+    "geom:latitude":46.806252,
+    "geom:longitude":-100.784696,
+    "iso:country":"US",
+    "sg:address":"118 N 5th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 7496",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repair",
+        "clocks",
+        "watch"
+    ],
+    "sg:website":"www.walkersndaughters.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ks69FWOnIuBcoWXgFkr91_46.806252_-100.784696@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294893,
+    "wof:geomhash":"5b2746ecaeac9025fcda95b34c54f371",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873594499
+        }
+    ],
+    "wof:id":873594499,
+    "wof:lastmodified":1464294893,
+    "wof:name":"Walkers n Daughters Jewelers",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "clocks",
+        "watch"
+    ]
+},
+  "bbox": [
+    -100.784696,
+    46.806252,
+    -100.784696,
+    46.806252
+],
+  "geometry": {"coordinates":[-100.784696,46.806252],"type":"Point"}
+}

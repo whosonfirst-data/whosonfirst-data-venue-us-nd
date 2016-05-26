@@ -1,0 +1,70 @@
+{
+  "id": 873758639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.798511,46.860939,-96.798511,46.860939",
+    "geom:latitude":46.860939,
+    "geom:longitude":-96.798511,
+    "iso:country":"US",
+    "sg:address":"1331 S University Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 297 0984",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534479,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XbJU5Sw8FC3fzwA0W8uX7_46.860939_-96.798511@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297190,
+    "wof:geomhash":"7239ce6e9475676e77c71112a32dffe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534479,
+            "region_id":85688525,
+            "venue_id":873758639
+        }
+    ],
+    "wof:id":873758639,
+    "wof:lastmodified":1464297190,
+    "wof:name":"American Express",
+    "wof:parent_id":420534479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.798511,
+    46.860939,
+    -96.798511,
+    46.860939
+],
+  "geometry": {"coordinates":[-96.798511,46.860939],"type":"Point"}
+}

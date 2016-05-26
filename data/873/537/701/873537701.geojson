@@ -1,0 +1,80 @@
+{
+  "id": 873537701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.831089,46.864233,-96.831089,46.864233",
+    "geom:latitude":46.864233,
+    "geom:longitude":-96.831089,
+    "iso:country":"US",
+    "sg:address":"1134 Westrac Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 9184",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ],
+    "sg:website":"www.dakotamontessori.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2j8mosvUZpbiKh1lC8bJHb_46.864233_-96.831089@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294235,
+    "wof:geomhash":"860a25316348d184c397f24798fe6f59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873537701
+        }
+    ],
+    "wof:id":873537701,
+    "wof:lastmodified":1464294235,
+    "wof:name":"Dakota Montessori School",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -96.831089,
+    46.864233,
+    -96.831089,
+    46.864233
+],
+  "geometry": {"coordinates":[-96.83108900000001,46.864233],"type":"Point"}
+}

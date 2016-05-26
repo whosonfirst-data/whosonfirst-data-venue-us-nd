@@ -1,0 +1,71 @@
+{
+  "id": 873659679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.763153,46.77703,-100.763153,46.77703",
+    "geom:latitude":46.77703,
+    "geom:longitude":-100.763153,
+    "iso:country":"US",
+    "sg:address":"2301 University Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 5231",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7E2e3LjBorAtpkZGieHL1X_46.777030_-100.763153@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295695,
+    "wof:geomhash":"79d7bf7a8fd4b8aa81255eb5fc8f5e5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873659679
+        }
+    ],
+    "wof:id":873659679,
+    "wof:lastmodified":1464295695,
+    "wof:name":"E M Notification",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -100.763153,
+    46.77703,
+    -100.763153,
+    46.77703
+],
+  "geometry": {"coordinates":[-100.763153,46.77703],"type":"Point"}
+}

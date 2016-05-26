@@ -1,0 +1,80 @@
+{
+  "id": 873551903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.282666,48.235485,-101.282666,48.235485",
+    "geom:latitude":48.235485,
+    "geom:longitude":-101.282666,
+    "iso:country":"US",
+    "sg:address":"122 7th St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Stationery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 7448",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "work",
+        "bookbinding",
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sbKIdlHCCKpMtw6wNmbed_48.235485_-101.282666@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294399,
+    "wof:geomhash":"95ba14a85b2e8621bde08eddbbd5c0c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873551903
+        }
+    ],
+    "wof:id":873551903,
+    "wof:lastmodified":1464294399,
+    "wof:name":"Dakota Bindery Inc",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "work",
+        "bookbinding",
+        "related"
+    ]
+},
+  "bbox": [
+    -101.282666,
+    48.235485,
+    -101.282666,
+    48.235485
+],
+  "geometry": {"coordinates":[-101.28266600000001,48.235485],"type":"Point"}
+}

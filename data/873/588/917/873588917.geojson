@@ -1,0 +1,73 @@
+{
+  "id": 873588917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.068643,47.951743,-97.068643,47.951743",
+    "geom:latitude":47.951743,
+    "geom:longitude":-97.068643,
+    "iso:country":"US",
+    "sg:address":"2956 N Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 1758",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "fabrication",
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dYGWQHbkyqQ48wufbI4tK_47.951743_-97.068643@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294817,
+    "wof:geomhash":"1234adf23ef63d2c56a0b299172b552f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873588917
+        }
+    ],
+    "wof:id":873588917,
+    "wof:lastmodified":1464294817,
+    "wof:name":"Hart Repair & Fabrication",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fabrication",
+        "welding"
+    ]
+},
+  "bbox": [
+    -97.068643,
+    47.951743,
+    -97.068643,
+    47.951743
+],
+  "geometry": {"coordinates":[-97.06864299999999,47.951743],"type":"Point"}
+}

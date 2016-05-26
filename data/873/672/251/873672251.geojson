@@ -1,0 +1,71 @@
+{
+  "id": 873672251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.097327,47.988543,-97.097327,47.988543",
+    "geom:latitude":47.988543,
+    "geom:longitude":-97.097327,
+    "iso:country":"US",
+    "sg:address":"6700 N Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 1323",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "potato"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UM2EJux5GIzfyruk6rwmo_47.988543_-97.097327@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295823,
+    "wof:geomhash":"92368ea1580bbd5340773e524daefdd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873672251
+        }
+    ],
+    "wof:id":873672251,
+    "wof:lastmodified":1464295823,
+    "wof:name":"Double L Mfg",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "potato"
+    ]
+},
+  "bbox": [
+    -97.097327,
+    47.988543,
+    -97.097327,
+    47.988543
+],
+  "geometry": {"coordinates":[-97.09732700000001,47.988543],"type":"Point"}
+}

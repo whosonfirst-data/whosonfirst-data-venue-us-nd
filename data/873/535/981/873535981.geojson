@@ -1,0 +1,71 @@
+{
+  "id": 873535981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.303734,48.252859,-101.303734,48.252859",
+    "geom:latitude":48.252859,
+    "geom:longitude":-101.303734,
+    "iso:country":"US",
+    "sg:address":"1937 6th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 6867",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KTQdmcc8LtOK0WkDtZvYk_48.252859_-101.303734@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294215,
+    "wof:geomhash":"33e28e5bc09403c3965220dc11d787f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873535981
+        }
+    ],
+    "wof:id":873535981,
+    "wof:lastmodified":1464294215,
+    "wof:name":"Special Moments Pre-School",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -101.303734,
+    48.252859,
+    -101.303734,
+    48.252859
+],
+  "geometry": {"coordinates":[-101.30373400000001,48.252859],"type":"Point"}
+}

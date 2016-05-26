@@ -1,0 +1,73 @@
+{
+  "id": 873555733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.060795,47.889371,-97.060795,47.889371",
+    "geom:latitude":47.889371,
+    "geom:longitude":-97.060795,
+    "iso:country":"US",
+    "sg:address":"2475 32nd Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 1465",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "salon",
+        "beauty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7g3H7b8w5hA8vyYmxjlS6O_47.889371_-97.060795@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294446,
+    "wof:geomhash":"4ad6ff24d82c0613e2a268f4c548b71e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873555733
+        }
+    ],
+    "wof:id":873555733,
+    "wof:lastmodified":1464294446,
+    "wof:name":"Sally Beauty Supply",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon",
+        "beauty"
+    ]
+},
+  "bbox": [
+    -97.060795,
+    47.889371,
+    -97.060795,
+    47.889371
+],
+  "geometry": {"coordinates":[-97.060795,47.889371],"type":"Point"}
+}

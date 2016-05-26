@@ -1,0 +1,79 @@
+{
+  "id": 873686307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-102.785499,46.88089,-102.785499,46.88089",
+    "geom:latitude":46.88089,
+    "geom:longitude":-102.785499,
+    "iso:country":"US",
+    "sg:address":"24 2nd St W",
+    "sg:city":"Dickinson",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 483 1955",
+    "sg:postcode":"58601",
+    "sg:province":"ND",
+    "sg:tags":[
+        "consultant",
+        "planning",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877119,
+        102191575,
+        404482179,
+        85633793,
+        85982521,
+        102082105,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ga7Xuu5vabIwIlFnNmFW0_46.880890_-102.785499@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296174,
+    "wof:geomhash":"e21d04fdde019dab4ec04196d8edf316",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082105,
+            "localadmin_id":404482179,
+            "locality_id":85982521,
+            "neighbourhood_id":85877119,
+            "region_id":85688525,
+            "venue_id":873686307
+        }
+    ],
+    "wof:id":873686307,
+    "wof:lastmodified":1464296174,
+    "wof:name":"Hendrickson Financial Svc",
+    "wof:parent_id":85877119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "planning",
+        "financial"
+    ]
+},
+  "bbox": [
+    -102.785499,
+    46.88089,
+    -102.785499,
+    46.88089
+],
+  "geometry": {"coordinates":[-102.785499,46.88089],"type":"Point"}
+}

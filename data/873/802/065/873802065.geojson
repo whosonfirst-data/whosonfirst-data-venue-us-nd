@@ -1,0 +1,75 @@
+{
+  "id": 873802065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.798543,46.853824,-96.798543,46.853824",
+    "geom:latitude":46.853824,
+    "geom:longitude":-96.798543,
+    "iso:country":"US",
+    "sg:address":"1702 University Dr S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 364 8900",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "audiologists"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534481,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Jb9oeKVsGvaYrdIUFOCCh_46.853824_-96.798543@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297798,
+    "wof:geomhash":"c6bc492ae3f759fc7f79409ef1d57f61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534481,
+            "region_id":85688525,
+            "venue_id":873802065
+        }
+    ],
+    "wof:id":873802065,
+    "wof:lastmodified":1464297798,
+    "wof:name":"Mindy Challoner",
+    "wof:parent_id":420534481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "audiologists"
+    ]
+},
+  "bbox": [
+    -96.798543,
+    46.853824,
+    -96.798543,
+    46.853824
+],
+  "geometry": {"coordinates":[-96.798543,46.853824],"type":"Point"}
+}

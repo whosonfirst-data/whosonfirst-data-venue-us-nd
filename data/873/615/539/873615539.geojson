@@ -1,0 +1,80 @@
+{
+  "id": 873615539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.288514,48.236325,-101.288514,48.236325",
+    "geom:latitude":48.236325,
+    "geom:longitude":-101.288514,
+    "iso:country":"US",
+    "sg:address":"12 3rd St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 4068",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "on",
+        "off",
+        "sale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sx4YXGO5Wu00yXVdPU39R_48.236325_-101.288514@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295200,
+    "wof:geomhash":"ee57dd50e05bcd356e9b1f2fb512510e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873615539
+        }
+    ],
+    "wof:id":873615539,
+    "wof:lastmodified":1464295200,
+    "wof:name":"Arny's Lounge & Bottle Shop",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "on",
+        "off",
+        "sale"
+    ]
+},
+  "bbox": [
+    -101.288514,
+    48.236325,
+    -101.288514,
+    48.236325
+],
+  "geometry": {"coordinates":[-101.28851400000001,48.236325],"type":"Point"}
+}

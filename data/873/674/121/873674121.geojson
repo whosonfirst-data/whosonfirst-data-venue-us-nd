@@ -1,0 +1,71 @@
+{
+  "id": 873674121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.326918,48.24465,-101.326918,48.24465",
+    "geom:latitude":48.24465,
+    "geom:longitude":-101.326918,
+    "iso:country":"US",
+    "sg:address":"2106 8th Ave NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 837 6563",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eZXq05poW34x33wjju668_48.244650_-101.326918@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295844,
+    "wof:geomhash":"5b97e6ec82f8e5f1af31b0719711362d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873674121
+        }
+    ],
+    "wof:id":873674121,
+    "wof:lastmodified":1464295844,
+    "wof:name":"Digital Doctors North Dakota",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "related"
+    ]
+},
+  "bbox": [
+    -101.326918,
+    48.24465,
+    -101.326918,
+    48.24465
+],
+  "geometry": {"coordinates":[-101.32691800000001,48.24465],"type":"Point"}
+}

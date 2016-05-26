@@ -1,0 +1,75 @@
+{
+  "id": 873703625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.816673,46.881777,-96.816673,46.881777",
+    "geom:latitude":46.881777,
+    "geom:longitude":-96.816673,
+    "iso:country":"US",
+    "sg:address":"501 23rd St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Beer",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 8818",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "ale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5B0bLBZfBx8IIkfOeFqBVk_46.881777_-96.816673@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296442,
+    "wof:geomhash":"18aee8c01cf593a6ce16168ac0622a9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873703625
+        }
+    ],
+    "wof:id":873703625,
+    "wof:lastmodified":1464296442,
+    "wof:name":"Bergseth Brothers Co",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ale"
+    ]
+},
+  "bbox": [
+    -96.816673,
+    46.881777,
+    -96.816673,
+    46.881777
+],
+  "geometry": {"coordinates":[-96.81667299999999,46.881777],"type":"Point"}
+}

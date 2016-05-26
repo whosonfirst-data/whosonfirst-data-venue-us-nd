@@ -1,0 +1,71 @@
+{
+  "id": 873723569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.072592,47.889377,-97.072592,47.889377",
+    "geom:latitude":47.889377,
+    "geom:longitude":-97.072592,
+    "iso:country":"US",
+    "sg:address":"2771 32nd Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 1120",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7b5gwsI8DcG1GikhrTzLYX_47.889377_-97.072592@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296694,
+    "wof:geomhash":"1f0985025e364589fb8f23d30bd3d880",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873723569
+        }
+    ],
+    "wof:id":873723569,
+    "wof:lastmodified":1464296694,
+    "wof:name":"Super One Foods",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -97.072592,
+    47.889377,
+    -97.072592,
+    47.889377
+],
+  "geometry": {"coordinates":[-97.072592,47.889377],"type":"Point"}
+}

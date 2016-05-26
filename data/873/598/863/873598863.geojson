@@ -1,0 +1,66 @@
+{
+  "id": 873598863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.048119,47.932166,-97.048119,47.932166",
+    "geom:latitude":47.932166,
+    "geom:longitude":-97.048119,
+    "iso:country":"US",
+    "sg:address":"1207 N 5th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 9136",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zfkRFn8trrDg86dnQBBI1_47.932166_-97.048119@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294970,
+    "wof:geomhash":"cca2084dfb12503626a8a4ef38eb6129",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873598863
+        }
+    ],
+    "wof:id":873598863,
+    "wof:lastmodified":1464294970,
+    "wof:name":"Big Cigs",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.048119,
+    47.932166,
+    -97.048119,
+    47.932166
+],
+  "geometry": {"coordinates":[-97.048119,47.932166],"type":"Point"}
+}

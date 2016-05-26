@@ -1,0 +1,78 @@
+{
+  "id": 873767317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.851157,46.857742,-96.851157,46.857742",
+    "geom:latitude":46.857742,
+    "geom:longitude":-96.851157,
+    "iso:country":"US",
+    "sg:address":"1535 42nd St SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 492 6123",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "sg:website":"www.lexstardevelopment.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ts7H39P95tDCKHuCqK8hZ_46.857742_-96.851157@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297329,
+    "wof:geomhash":"70df2003f48e4d2db7753147aa2afc1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873767317
+        }
+    ],
+    "wof:id":873767317,
+    "wof:lastmodified":1464297329,
+    "wof:name":"Lexstar Development & Constr",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.851157,
+    46.857742,
+    -96.851157,
+    46.857742
+],
+  "geometry": {"coordinates":[-96.851157,46.857742],"type":"Point"}
+}

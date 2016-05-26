@@ -1,0 +1,73 @@
+{
+  "id": 873761653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.055766,47.889362,-97.055766,47.889362",
+    "geom:latitude":47.889362,
+    "geom:longitude":-97.055766,
+    "iso:country":"US",
+    "sg:address":"1725 32nd Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 4907",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "television",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BeSdLoBJC099dXvSw2HHV_47.889362_-97.055766@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297231,
+    "wof:geomhash":"cca646dad1bd596d7efe2fe39ce459fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873761653
+        }
+    ],
+    "wof:id":873761653,
+    "wof:lastmodified":1464297231,
+    "wof:name":"Rex TV & Appliances",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "radio"
+    ]
+},
+  "bbox": [
+    -97.055766,
+    47.889362,
+    -97.055766,
+    47.889362
+],
+  "geometry": {"coordinates":[-97.05576600000001,47.889362],"type":"Point"}
+}

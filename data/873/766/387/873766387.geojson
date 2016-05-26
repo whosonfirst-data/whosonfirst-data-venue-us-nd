@@ -1,0 +1,66 @@
+{
+  "id": 873766387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.088191,47.923284,-97.088191,47.923284",
+    "geom:latitude":47.923284,
+    "geom:longitude":-97.088191,
+    "iso:country":"US",
+    "sg:address":"415 N 42nd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 8226",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WxciOf4xSmsLER5MiNFbB_47.923284_-97.088191@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297317,
+    "wof:geomhash":"bcb218c06e5f1d029cfc1a2514f93628",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873766387
+        }
+    ],
+    "wof:id":873766387,
+    "wof:lastmodified":1464297317,
+    "wof:name":"Red Pepper At Campus Place",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.088191,
+    47.923284,
+    -97.088191,
+    47.923284
+],
+  "geometry": {"coordinates":[-97.08819099999999,47.923284],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873548645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.530924,48.22574,-101.530924,48.22574",
+    "geom:latitude":48.22574,
+    "geom:longitude":-101.530924,
+    "iso:country":"US",
+    "sg:address":"15500 11th Ave SW",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 725 4414",
+    "sg:postcode":"58722",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0N486CBJW9XVn0Jk78hR4Y_48.225740_-101.530924@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294363,
+    "wof:geomhash":"bfddfd5160f07d66d37c89912de59811",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873548645
+        }
+    ],
+    "wof:id":873548645,
+    "wof:lastmodified":1464294363,
+    "wof:name":"Behm Brothers Farms/Repairs",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.530924,
+    48.22574,
+    -101.530924,
+    48.22574
+],
+  "geometry": {"coordinates":[-101.530924,48.22574],"type":"Point"}
+}

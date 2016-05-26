@@ -1,0 +1,66 @@
+{
+  "id": 873684613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.298208,48.232355,-101.298208,48.232355",
+    "geom:latitude":48.232355,
+    "geom:longitude":-101.298208,
+    "iso:country":"US",
+    "sg:address":"301 Burdick Expy W",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 9302",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sya34inoTY74vmQwyBNq0_48.232355_-101.298208@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296127,
+    "wof:geomhash":"988524074c2a273a4dd8887bd1fe392e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873684613
+        }
+    ],
+    "wof:id":873684613,
+    "wof:lastmodified":1464296127,
+    "wof:name":"Flower Box Inc",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.298208,
+    48.232355,
+    -101.298208,
+    48.232355
+],
+  "geometry": {"coordinates":[-101.298208,48.232355],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873607907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.537706,47.128004,-100.537706,47.128004",
+    "geom:latitude":47.128004,
+    "geom:longitude":-100.537706,
+    "iso:country":"US",
+    "sg:address":"29751 158th St NE",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 286 6563",
+    "sg:postcode":"58579",
+    "sg:province":"ND",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kdYoUvOluw5iA30a8zfhV_47.128004_-100.537706@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295097,
+    "wof:geomhash":"1825cb17c5745c635486fa4ec4fe735b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873607907
+        }
+    ],
+    "wof:id":873607907,
+    "wof:lastmodified":1464295097,
+    "wof:name":"Springer Auto & Truck",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -100.537706,
+    47.128004,
+    -100.537706,
+    47.128004
+],
+  "geometry": {"coordinates":[-100.537706,47.128004],"type":"Point"}
+}

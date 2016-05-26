@@ -1,0 +1,71 @@
+{
+  "id": 873561909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.339394,48.286215,-101.339394,48.286215",
+    "geom:latitude":48.286215,
+    "geom:longitude":-101.339394,
+    "iso:country":"US",
+    "sg:address":"5200 30th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 6399",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "stable"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AebOv6zbOrJdVwTPoVlFU_48.286215_-101.339394@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294519,
+    "wof:geomhash":"b29aa1c4fa352f9f77eca6892fdb2972",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873561909
+        }
+    ],
+    "wof:id":873561909,
+    "wof:lastmodified":1464294519,
+    "wof:name":"JRC Stables & Arena",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stable"
+    ]
+},
+  "bbox": [
+    -101.339394,
+    48.286215,
+    -101.339394,
+    48.286215
+],
+  "geometry": {"coordinates":[-101.339394,48.286215],"type":"Point"}
+}

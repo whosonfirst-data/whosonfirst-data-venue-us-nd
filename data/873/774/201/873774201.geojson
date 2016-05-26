@@ -1,0 +1,78 @@
+{
+  "id": 873774201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.846703,46.861535,-96.846703,46.861535",
+    "geom:latitude":46.861535,
+    "geom:longitude":-96.846703,
+    "iso:country":"US",
+    "sg:address":"3902 13th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 277 8001",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "downspouts",
+        "gutter"
+    ],
+    "sg:website":"www.abcseamless.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EAWXKji26LWFnOnkyZmHp_46.861535_-96.846703@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297415,
+    "wof:geomhash":"3abc18cb04b20c52d3fe3f15f9ed4def",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873774201
+        }
+    ],
+    "wof:id":873774201,
+    "wof:lastmodified":1464297415,
+    "wof:name":"ABC Seamless Siding",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "downspouts",
+        "gutter"
+    ]
+},
+  "bbox": [
+    -96.846703,
+    46.861535,
+    -96.846703,
+    46.861535
+],
+  "geometry": {"coordinates":[-96.84670300000001,46.861535],"type":"Point"}
+}

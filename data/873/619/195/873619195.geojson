@@ -1,0 +1,72 @@
+{
+  "id": 873619195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.768071,46.829836,-100.768071,46.829836",
+    "geom:latitude":46.829836,
+    "geom:longitude":-100.768071,
+    "iso:country":"US",
+    "sg:address":"1614 Capitol Way",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 5312",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.wndsynod.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lXJpvoLFeVWcho9uMelCk_46.829836_-100.768071@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295242,
+    "wof:geomhash":"35e21c655fdb3307b03529742df95f0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873619195
+        }
+    ],
+    "wof:id":873619195,
+    "wof:lastmodified":1464295242,
+    "wof:name":"Western Nd Synod Office",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -100.768071,
+    46.829836,
+    -100.768071,
+    46.829836
+],
+  "geometry": {"coordinates":[-100.76807100000001,46.829836],"type":"Point"}
+}

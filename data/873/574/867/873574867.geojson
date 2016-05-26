@@ -1,0 +1,71 @@
+{
+  "id": 873574867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.573064,47.735326,-97.573064,47.735326",
+    "geom:latitude":47.735326,
+    "geom:longitude":-97.573064,
+    "iso:country":"US",
+    "sg:address":"307 2nd Ave",
+    "sg:city":"Northwood",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 587 5381",
+    "sg:postcode":"58267",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Mu6jjOVY676WXPYCLtU2T_47.735326_-97.573064@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294662,
+    "wof:geomhash":"5a556952007055f97577b874516aa494",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873574867
+        }
+    ],
+    "wof:id":873574867,
+    "wof:lastmodified":1464294662,
+    "wof:name":"Northwood Evangelical Lutheran",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -97.573064,
+    47.735326,
+    -97.573064,
+    47.735326
+],
+  "geometry": {"coordinates":[-97.573064,47.735326],"type":"Point"}
+}

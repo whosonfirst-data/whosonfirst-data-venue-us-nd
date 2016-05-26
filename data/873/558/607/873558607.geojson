@@ -1,0 +1,71 @@
+{
+  "id": 873558607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.784716,46.799717,-100.784716,46.799717",
+    "geom:latitude":46.799717,
+    "geom:longitude":-100.784716,
+    "iso:country":"US",
+    "sg:address":"647 Kirkwood Mall",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 3184",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "national"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yYT2CLBTHy0N386BEZe8r_46.799717_-100.784716@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294483,
+    "wof:geomhash":"20be930d15a6d26fd33a90b35fca3ba4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873558607
+        }
+    ],
+    "wof:id":873558607,
+    "wof:lastmodified":1464294483,
+    "wof:name":"US Bank",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national"
+    ]
+},
+  "bbox": [
+    -100.784716,
+    46.799717,
+    -100.784716,
+    46.799717
+],
+  "geometry": {"coordinates":[-100.784716,46.799717],"type":"Point"}
+}

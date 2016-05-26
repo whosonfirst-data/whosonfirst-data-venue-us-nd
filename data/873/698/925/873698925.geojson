@@ -1,0 +1,71 @@
+{
+  "id": 873698925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.676116,46.784636,-100.676116,46.784636",
+    "geom:latitude":46.784636,
+    "geom:longitude":-100.676116,
+    "iso:country":"US",
+    "sg:address":"7431 Birch Pl",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 7499",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aAHuVyJ5fEUhmCLprQm4H_46.784636_-100.676116@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296393,
+    "wof:geomhash":"5ae3d294041dde73fe15cb88da448cae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873698925
+        }
+    ],
+    "wof:id":873698925,
+    "wof:lastmodified":1464296393,
+    "wof:name":"Essco",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment"
+    ]
+},
+  "bbox": [
+    -100.676116,
+    46.784636,
+    -100.676116,
+    46.784636
+],
+  "geometry": {"coordinates":[-100.67611599999999,46.784636],"type":"Point"}
+}

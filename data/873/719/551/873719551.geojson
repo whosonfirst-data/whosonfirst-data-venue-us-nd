@@ -1,0 +1,75 @@
+{
+  "id": 873719551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.757301,46.814676,-100.757301,46.814676",
+    "geom:latitude":46.814676,
+    "geom:longitude":-100.757301,
+    "iso:country":"US",
+    "sg:address":"910 N 23rd St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 224 8481",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "science",
+        "nonprofit",
+        "charitable"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64B5FWCAT0bhFn779IOqCB_46.814676_-100.757301@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296647,
+    "wof:geomhash":"ecc6daf445c9bc8c21e385c3a94b28d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873719551
+        }
+    ],
+    "wof:id":873719551,
+    "wof:lastmodified":1464296647,
+    "wof:name":"Circle of Cultures  Healthy Pe",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "science",
+        "nonprofit",
+        "charitable"
+    ]
+},
+  "bbox": [
+    -100.757301,
+    46.814676,
+    -100.757301,
+    46.814676
+],
+  "geometry": {"coordinates":[-100.757301,46.814676],"type":"Point"}
+}

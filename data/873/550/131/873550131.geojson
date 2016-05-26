@@ -1,0 +1,73 @@
+{
+  "id": 873550131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.61759,47.904746,-97.61759,47.904746",
+    "geom:latitude":47.904746,
+    "geom:longitude":-97.61759,
+    "iso:country":"US",
+    "sg:address":"501 E Front St",
+    "sg:city":"Larimore",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 343 6244",
+    "sg:postcode":"58251",
+    "sg:province":"ND",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZO6LYMRdOmxv6sodjPUrT_47.904746_-97.617590@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294380,
+    "wof:geomhash":"820f862e670f5ce252f50239c8701323",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873550131
+        }
+    ],
+    "wof:id":873550131,
+    "wof:lastmodified":1464294380,
+    "wof:name":"Trutle River Good Samaritan",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -97.61759,
+    47.904746,
+    -97.61759,
+    47.904746
+],
+  "geometry": {"coordinates":[-97.61759000000001,47.904746],"type":"Point"}
+}

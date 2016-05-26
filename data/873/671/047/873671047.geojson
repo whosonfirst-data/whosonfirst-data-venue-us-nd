@@ -1,0 +1,73 @@
+{
+  "id": 873671047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.064609,47.899807,-97.064609,47.899807",
+    "geom:latitude":47.899807,
+    "geom:longitude":-97.064609,
+    "iso:country":"US",
+    "sg:address":"2515 Cumberland Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 6939",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "mobile",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fY1f9lUQh31PW5vynJ5DB_47.899807_-97.064609@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295812,
+    "wof:geomhash":"a8e75ffbcdcb84d358cc3ecc5b539f47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873671047
+        }
+    ],
+    "wof:id":873671047,
+    "wof:lastmodified":1464295812,
+    "wof:name":"Columbia Heights",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home"
+    ]
+},
+  "bbox": [
+    -97.064609,
+    47.899807,
+    -97.064609,
+    47.899807
+],
+  "geometry": {"coordinates":[-97.064609,47.899807],"type":"Point"}
+}

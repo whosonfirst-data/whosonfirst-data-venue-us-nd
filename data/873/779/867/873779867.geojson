@@ -1,0 +1,71 @@
+{
+  "id": 873779867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.030464,47.925429,-97.030464,47.925429",
+    "geom:latitude":47.925429,
+    "geom:longitude":-97.030464,
+    "iso:country":"US",
+    "sg:address":"214 Demers Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 4542",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HKBP2aGT3hokOXa6KXOew_47.925429_-97.030464@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297489,
+    "wof:geomhash":"d76b0f9c4ccf213a5ad3aa53e15d06e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873779867
+        }
+    ],
+    "wof:id":873779867,
+    "wof:lastmodified":1464297489,
+    "wof:name":"Amazing Grains",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health"
+    ]
+},
+  "bbox": [
+    -97.030464,
+    47.925429,
+    -97.030464,
+    47.925429
+],
+  "geometry": {"coordinates":[-97.03046399999999,47.925429],"type":"Point"}
+}

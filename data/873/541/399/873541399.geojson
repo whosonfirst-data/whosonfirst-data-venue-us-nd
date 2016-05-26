@@ -1,0 +1,70 @@
+{
+  "id": 873541399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.801544,46.824026,-96.801544,46.824026",
+    "geom:latitude":46.824026,
+    "geom:longitude":-96.801544,
+    "iso:country":"US",
+    "sg:address":"1213 37th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 476 7645",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534487,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21YCOOPHJJjgB6HWpMw113_46.824026_-96.801544@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294274,
+    "wof:geomhash":"776717a5306654b2bd67aa6048a11350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534487,
+            "region_id":85688525,
+            "venue_id":873541399
+        }
+    ],
+    "wof:id":873541399,
+    "wof:lastmodified":1464294274,
+    "wof:name":"Irbf",
+    "wof:parent_id":420534487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.801544,
+    46.824026,
+    -96.801544,
+    46.824026
+],
+  "geometry": {"coordinates":[-96.80154400000001,46.824026],"type":"Point"}
+}

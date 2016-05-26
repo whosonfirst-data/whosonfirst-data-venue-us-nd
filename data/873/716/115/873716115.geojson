@@ -1,0 +1,66 @@
+{
+  "id": 873716115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.296132,48.184547,-101.296132,48.184547",
+    "geom:latitude":48.184547,
+    "geom:longitude":-101.296132,
+    "iso:country":"US",
+    "sg:address":"5119 US Hwy 83",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Amusement Park",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 2320",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ki7EBur1KFuXS9TWFmXoh_48.184547_-101.296132@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296594,
+    "wof:geomhash":"f1dc07431981a9cb32f818bc679ff851",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873716115
+        }
+    ],
+    "wof:id":873716115,
+    "wof:lastmodified":1464296594,
+    "wof:name":"Lucy's Amusement Park",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.296132,
+    48.184547,
+    -101.296132,
+    48.184547
+],
+  "geometry": {"coordinates":[-101.296132,48.184547],"type":"Point"}
+}

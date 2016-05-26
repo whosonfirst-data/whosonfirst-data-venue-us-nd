@@ -1,0 +1,87 @@
+{
+  "id": 873798931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.863713,46.862231,-96.863713,46.862231",
+    "geom:latitude":46.862231,
+    "geom:longitude":-96.863713,
+    "iso:country":"US",
+    "sg:address":"4615 13th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/fargo/182889-culvers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 277 8833",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4a9kjLRgKBBWte9F5wpyBO_46.861985_-96.863173@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297761,
+    "wof:geomhash":"c9ae6dd5b9fc33266c6744d219afafd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873798931
+        }
+    ],
+    "wof:id":873798931,
+    "wof:lastmodified":1464297761,
+    "wof:name":"Culver's",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -96.863713,
+    46.862231,
+    -96.863713,
+    46.862231
+],
+  "geometry": {"coordinates":[-96.863713,46.862231],"type":"Point"}
+}

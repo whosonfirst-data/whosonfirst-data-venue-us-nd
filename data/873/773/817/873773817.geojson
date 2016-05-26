@@ -1,0 +1,81 @@
+{
+  "id": 873773817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.798369,46.87095,-96.798369,46.87095",
+    "geom:latitude":46.87095,
+    "geom:longitude":-96.798369,
+    "iso:country":"US",
+    "sg:address":"315 S University Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 0449",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "design",
+        "structural",
+        "m",
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65w51ioUwcceAmXNzRIiHc_46.870950_-96.798369@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297410,
+    "wof:geomhash":"360b955291294eab756426d3f012e30a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873773817
+        }
+    ],
+    "wof:id":873773817,
+    "wof:lastmodified":1464297410,
+    "wof:name":"Hurst & Henrichs Ltd",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "design",
+        "structural",
+        "m",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -96.798369,
+    46.87095,
+    -96.798369,
+    46.87095
+],
+  "geometry": {"coordinates":[-96.79836899999999,46.87095],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873624047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.292959,48.234914,-101.292959,48.234914",
+    "geom:latitude":48.234914,
+    "geom:longitude":-101.292959,
+    "iso:country":"US",
+    "sg:address":"207 Main St S",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 5626",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vX9Z4OGnjRgIdGPcC47R3_48.234914_-101.292959@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295299,
+    "wof:geomhash":"bd14586ed84bb75c077c4ca8a8ec8442",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873624047
+        }
+    ],
+    "wof:id":873624047,
+    "wof:lastmodified":1464295299,
+    "wof:name":"Century Eyewear Inc",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.292959,
+    48.234914,
+    -101.292959,
+    48.234914
+],
+  "geometry": {"coordinates":[-101.292959,48.234914],"type":"Point"}
+}

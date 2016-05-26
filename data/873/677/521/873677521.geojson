@@ -1,0 +1,77 @@
+{
+  "id": 873677521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.80612,46.830276,-96.80612,46.830276",
+    "geom:latitude":46.830276,
+    "geom:longitude":-96.80612,
+    "iso:country":"US",
+    "sg:address":"1632 33rd Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 799 5672",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "canned",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534487,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kFkXKnaJgYZngERWfOqXO_46.830276_-96.806120@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295923,
+    "wof:geomhash":"ed0c260eeef68eea10cae82d5c22f7d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534487,
+            "region_id":85688525,
+            "venue_id":873677521
+        }
+    ],
+    "wof:id":873677521,
+    "wof:lastmodified":1464295923,
+    "wof:name":"Bingham Electronics",
+    "wof:parent_id":420534487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "canned",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -96.80612,
+    46.830276,
+    -96.80612,
+    46.830276
+],
+  "geometry": {"coordinates":[-96.80612000000001,46.830276],"type":"Point"}
+}

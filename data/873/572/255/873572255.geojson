@@ -1,0 +1,70 @@
+{
+  "id": 873572255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.815761,46.858873,-96.815761,46.858873",
+    "geom:latitude":46.858873,
+    "geom:longitude":-96.815761,
+    "iso:country":"US",
+    "sg:address":"1448 23rd St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 298 6500",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877331,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NycuSsn47BixHyJR8xdrV_46.858873_-96.815761@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294634,
+    "wof:geomhash":"5409369e9b151c88fb3062cf4530c1b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877331,
+            "region_id":85688525,
+            "venue_id":873572255
+        }
+    ],
+    "wof:id":873572255,
+    "wof:lastmodified":1464294634,
+    "wof:name":"Northland Community Church",
+    "wof:parent_id":85877331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.815761,
+    46.858873,
+    -96.815761,
+    46.858873
+],
+  "geometry": {"coordinates":[-96.81576099999999,46.858873],"type":"Point"}
+}

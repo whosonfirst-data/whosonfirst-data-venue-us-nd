@@ -1,0 +1,70 @@
+{
+  "id": 873642117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.803909,46.863424,-96.803909,46.863424",
+    "geom:latitude":46.863424,
+    "geom:longitude":-96.803909,
+    "iso:country":"US",
+    "sg:address":"1027 15th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 7588",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877331,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07eeWTJWWsw2dUZ0U7WqA1_46.863424_-96.803909@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295501,
+    "wof:geomhash":"44bb3e4540c65138bb232b6b910fa14f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877331,
+            "region_id":85688525,
+            "venue_id":873642117
+        }
+    ],
+    "wof:id":873642117,
+    "wof:lastmodified":1464295501,
+    "wof:name":"Kiddiland Daycare Ctr",
+    "wof:parent_id":85877331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.803909,
+    46.863424,
+    -96.803909,
+    46.863424
+],
+  "geometry": {"coordinates":[-96.803909,46.863424],"type":"Point"}
+}

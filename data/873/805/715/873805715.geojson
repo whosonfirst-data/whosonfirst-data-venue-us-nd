@@ -1,0 +1,82 @@
+{
+  "id": 873805715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.10636,47.674179,-97.10636,47.674179",
+    "geom:latitude":47.674179,
+    "geom:longitude":-97.10636,
+    "iso:country":"US",
+    "sg:address":"503 6th Ave",
+    "sg:city":"Reynolds",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 847 2245",
+    "sg:postcode":"58275",
+    "sg:province":"ND",
+    "sg:tags":[
+        "lutheran",
+        "america",
+        "churches-lutheran",
+        "churches-lutheran-evangelical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SlUJQ6BGx6z6EgIkJ75kg_47.674179_-97.106360@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297848,
+    "wof:geomhash":"a87f0ef73825d79fbba114af8ff2010b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873805715
+        }
+    ],
+    "wof:id":873805715,
+    "wof:lastmodified":1464297848,
+    "wof:name":"Zion Lutheran Church",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lutheran",
+        "america",
+        "churches-lutheran",
+        "churches-lutheran-evangelical"
+    ]
+},
+  "bbox": [
+    -97.10636,
+    47.674179,
+    -97.10636,
+    47.674179
+],
+  "geometry": {"coordinates":[-97.10636,47.674179],"type":"Point"}
+}

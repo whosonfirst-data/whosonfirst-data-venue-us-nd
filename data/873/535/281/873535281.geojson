@@ -1,0 +1,75 @@
+{
+  "id": 873535281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.801246,46.88851,-96.801246,46.88851",
+    "geom:latitude":46.88851,
+    "geom:longitude":-96.801246,
+    "iso:country":"US",
+    "sg:address":"1034 14th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 476 1403",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "sprinkler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877363,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BtrmGHsGdYVYL4k9xPAxd_46.888510_-96.801246@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294207,
+    "wof:geomhash":"ae4845d6b86f62e808c6910958d86ff6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877363,
+            "region_id":85688525,
+            "venue_id":873535281
+        }
+    ],
+    "wof:id":873535281,
+    "wof:lastmodified":1464294207,
+    "wof:name":"Welter Landscape Svc",
+    "wof:parent_id":85877363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sprinkler"
+    ]
+},
+  "bbox": [
+    -96.801246,
+    46.88851,
+    -96.801246,
+    46.88851
+],
+  "geometry": {"coordinates":[-96.80124600000001,46.88851],"type":"Point"}
+}

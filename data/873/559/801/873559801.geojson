@@ -1,0 +1,66 @@
+{
+  "id": 873559801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.334529,48.233907,-101.334529,48.233907",
+    "geom:latitude":48.233907,
+    "geom:longitude":-101.334529,
+    "iso:country":"US",
+    "sg:address":"121 26th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 7289",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Y0XTyxx2wj4zdbpdCV4tk_48.233907_-101.334529@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294497,
+    "wof:geomhash":"cf33898c1e9733b22de3c17383ec9134",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873559801
+        }
+    ],
+    "wof:id":873559801,
+    "wof:lastmodified":1464294497,
+    "wof:name":"Employers Insurance & Benefits",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.334529,
+    48.233907,
+    -101.334529,
+    48.233907
+],
+  "geometry": {"coordinates":[-101.334529,48.233907],"type":"Point"}
+}

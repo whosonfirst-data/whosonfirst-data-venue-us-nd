@@ -1,0 +1,73 @@
+{
+  "id": 873730099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.088233,47.939404,-97.088233,47.939404",
+    "geom:latitude":47.939404,
+    "geom:longitude":-97.088233,
+    "iso:country":"US",
+    "sg:address":"1951 N 42nd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 7000",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "preparation",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ft0rc39FDfZLA3NVjFc8g_47.939404_-97.088233@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296780,
+    "wof:geomhash":"414f9eaad0fe2f3ddffdeef1b9bf2431",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873730099
+        }
+    ],
+    "wof:id":873730099,
+    "wof:lastmodified":1464296780,
+    "wof:name":"North Dakota Mustarf & Spice",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preparation",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -97.088233,
+    47.939404,
+    -97.088233,
+    47.939404
+],
+  "geometry": {"coordinates":[-97.088233,47.939404],"type":"Point"}
+}

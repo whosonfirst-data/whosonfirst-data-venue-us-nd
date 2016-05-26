@@ -1,0 +1,71 @@
+{
+  "id": 873641157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.760006,46.824415,-100.760006,46.824415",
+    "geom:latitude":46.824415,
+    "geom:longitude":-100.760006,
+    "iso:country":"US",
+    "sg:address":"2005 Kennedy Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 391 7163",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VQH2pMMYFGMOqXsLDhn6r_46.824415_-100.760006@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295489,
+    "wof:geomhash":"eaca79e88738a1b6cfd077242c620d95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873641157
+        }
+    ],
+    "wof:id":873641157,
+    "wof:lastmodified":1464295489,
+    "wof:name":"Moes Siding",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.760006,
+    46.824415,
+    -100.760006,
+    46.824415
+],
+  "geometry": {"coordinates":[-100.760006,46.824415],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873539387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.903919,46.756403,-96.903919,46.756403",
+    "geom:latitude":46.756403,
+    "geom:longitude":-96.903919,
+    "iso:country":"US",
+    "sg:address":"720 Main St",
+    "sg:city":"Hickson",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 0357",
+    "sg:postcode":"58047",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "golf",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SAqcj5xhZ26Y1VEpmEl85_46.756403_-96.903919@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294254,
+    "wof:geomhash":"dd355f70f33fcd0ab55c16d954ecd2cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873539387
+        }
+    ],
+    "wof:id":873539387,
+    "wof:lastmodified":1464294254,
+    "wof:name":"O'Leary Designs",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "golf",
+        "supply"
+    ]
+},
+  "bbox": [
+    -96.903919,
+    46.756403,
+    -96.903919,
+    46.756403
+],
+  "geometry": {"coordinates":[-96.903919,46.756403],"type":"Point"}
+}

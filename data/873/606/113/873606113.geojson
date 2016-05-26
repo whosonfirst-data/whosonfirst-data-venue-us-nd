@@ -1,0 +1,71 @@
+{
+  "id": 873606113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.293641,48.23534,-101.293641,48.23534",
+    "geom:latitude":48.23534,
+    "geom:longitude":-101.293641,
+    "iso:country":"US",
+    "sg:address":"17 1st Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 0161",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "national"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ssJOu6cGoZUIFcusIZB8p_48.235340_-101.293641@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295060,
+    "wof:geomhash":"018b6cb4c291b5d4d01e2163da51f35b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873606113
+        }
+    ],
+    "wof:id":873606113,
+    "wof:lastmodified":1464295060,
+    "wof:name":"U S Bank National Association",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national"
+    ]
+},
+  "bbox": [
+    -101.293641,
+    48.23534,
+    -101.293641,
+    48.23534
+],
+  "geometry": {"coordinates":[-101.29364099999999,48.23534],"type":"Point"}
+}

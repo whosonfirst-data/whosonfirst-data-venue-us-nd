@@ -1,0 +1,71 @@
+{
+  "id": 873736437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.02867,47.893553,-97.02867,47.893553",
+    "geom:latitude":47.893553,
+    "geom:longitude":-97.02867,
+    "iso:country":"US",
+    "sg:address":"216 27th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 3191",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "investor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14mdpsCJwd0A94T073nHzd_47.893553_-97.028670@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296876,
+    "wof:geomhash":"a0229a46cd61958d85213fcd2bf377ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873736437
+        }
+    ],
+    "wof:id":873736437,
+    "wof:lastmodified":1464296876,
+    "wof:name":"Talon Investments LLP",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investor"
+    ]
+},
+  "bbox": [
+    -97.02867,
+    47.893553,
+    -97.02867,
+    47.893553
+],
+  "geometry": {"coordinates":[-97.02867000000001,47.893553],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873632895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.06638,47.909838,-97.06638,47.909838",
+    "geom:latitude":47.909838,
+    "geom:longitude":-97.06638,
+    "iso:country":"US",
+    "sg:address":"1165 S Columbia Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 780 9901",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "property"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DmqWiIKazNTqwf6SiuTEv_47.909838_-97.066380@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295398,
+    "wof:geomhash":"fe9aad26bea715ad62cc180a46344be5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873632895
+        }
+    ],
+    "wof:id":873632895,
+    "wof:lastmodified":1464295398,
+    "wof:name":"Goldmark Property Mgt Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property"
+    ]
+},
+  "bbox": [
+    -97.06638,
+    47.909838,
+    -97.06638,
+    47.909838
+],
+  "geometry": {"coordinates":[-97.06638,47.909838],"type":"Point"}
+}

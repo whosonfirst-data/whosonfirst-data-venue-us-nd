@@ -1,0 +1,73 @@
+{
+  "id": 873584187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.104307,47.935288,-97.104307,47.935288",
+    "geom:latitude":47.935288,
+    "geom:longitude":-97.104307,
+    "iso:country":"US",
+    "sg:address":"1555 N 52nd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 780 0860",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OflqnVRwChbU9xvS1Tasp_47.935288_-97.104307@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294765,
+    "wof:geomhash":"19de22776384dd3396cecb9ba0ce0e6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873584187
+        }
+    ],
+    "wof:id":873584187,
+    "wof:lastmodified":1464294765,
+    "wof:name":"Innovative Tile Designs",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -97.104307,
+    47.935288,
+    -97.104307,
+    47.935288
+],
+  "geometry": {"coordinates":[-97.10430700000001,47.935288],"type":"Point"}
+}

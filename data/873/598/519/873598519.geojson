@@ -1,0 +1,71 @@
+{
+  "id": 873598519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.142874,46.850846,-100.142874,46.850846",
+    "geom:latitude":46.850846,
+    "geom:longitude":-100.142874,
+    "iso:country":"US",
+    "sg:address":"40105 Co Hwy 10",
+    "sg:city":"Driscoll",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 387 4497",
+    "sg:postcode":"58532",
+    "sg:province":"ND",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LRQQY6mPvS8gfih2zlUk7_46.850846_-100.142874@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294965,
+    "wof:geomhash":"7f1340483c4a5f60b216048980eb0b0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873598519
+        }
+    ],
+    "wof:id":873598519,
+    "wof:lastmodified":1464294965,
+    "wof:name":"Simpson R Trucking",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -100.142874,
+    46.850846,
+    -100.142874,
+    46.850846
+],
+  "geometry": {"coordinates":[-100.14287400000001,46.850846],"type":"Point"}
+}

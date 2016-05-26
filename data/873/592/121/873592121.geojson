@@ -1,0 +1,75 @@
+{
+  "id": 873592121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.861948,46.86749,-96.861948,46.86749",
+    "geom:latitude":46.86749,
+    "geom:longitude":-96.861948,
+    "iso:country":"US",
+    "sg:address":"855 45th St SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 277 5056",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3H7XtpOWb1KhpdqGMoG8qv_46.867490_-96.861948@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294860,
+    "wof:geomhash":"fbddeaa774f4982e85737e8f606dbfee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873592121
+        }
+    ],
+    "wof:id":873592121,
+    "wof:lastmodified":1464294860,
+    "wof:name":"Used-A-Bit Sales & Pawn",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -96.861948,
+    46.86749,
+    -96.861948,
+    46.86749
+],
+  "geometry": {"coordinates":[-96.861948,46.86749],"type":"Point"}
+}

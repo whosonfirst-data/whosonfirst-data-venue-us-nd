@@ -1,0 +1,66 @@
+{
+  "id": 873546113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.364572,47.939902,-97.364572,47.939902",
+    "geom:latitude":47.939902,
+    "geom:longitude":-97.364572,
+    "iso:country":"US",
+    "sg:address":"1834 25th St NE",
+    "sg:city":"Emerado",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 594 8591",
+    "sg:postcode":"58228",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4D61Qks2r9IBQ8jNwbBNti_47.939902_-97.364572@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294330,
+    "wof:geomhash":"969bb9207c46aefb0e5c11b66305be76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873546113
+        }
+    ],
+    "wof:id":873546113,
+    "wof:lastmodified":1464294330,
+    "wof:name":"Roma's Pizza",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.364572,
+    47.939902,
+    -97.364572,
+    47.939902
+],
+  "geometry": {"coordinates":[-97.364572,47.939902],"type":"Point"}
+}

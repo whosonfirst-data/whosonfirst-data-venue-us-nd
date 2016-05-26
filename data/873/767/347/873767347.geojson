@@ -1,0 +1,77 @@
+{
+  "id": 873767347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.795376,46.843018,-96.795376,46.843018",
+    "geom:latitude":46.843018,
+    "geom:longitude":-96.795376,
+    "iso:country":"US",
+    "sg:address":"2416 W Country Club Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 239 1721",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "consultant",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534475,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oTmw3XkxOChyakeUwDuky_46.843018_-96.795376@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297329,
+    "wof:geomhash":"bd934ce77e6229bdecf1c670a8ace9df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534475,
+            "region_id":85688525,
+            "venue_id":873767347
+        }
+    ],
+    "wof:id":873767347,
+    "wof:lastmodified":1464297329,
+    "wof:name":"Fargo Funding Group",
+    "wof:parent_id":420534475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "business"
+    ]
+},
+  "bbox": [
+    -96.795376,
+    46.843018,
+    -96.795376,
+    46.843018
+],
+  "geometry": {"coordinates":[-96.795376,46.843018],"type":"Point"}
+}

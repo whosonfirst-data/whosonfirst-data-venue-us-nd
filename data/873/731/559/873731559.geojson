@@ -1,0 +1,66 @@
+{
+  "id": 873731559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.02875,47.919465,-97.02875,47.919465",
+    "geom:latitude":47.919465,
+    "geom:longitude":-97.02875,
+    "iso:country":"US",
+    "sg:address":"216 Belmont Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 7067",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69y8K7tDaE45xMedpDVhYx_47.919465_-97.028750@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296799,
+    "wof:geomhash":"48867c0abbf1288c60e044eb15ef6431",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873731559
+        }
+    ],
+    "wof:id":873731559,
+    "wof:lastmodified":1464296799,
+    "wof:name":"Project Kids",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.02875,
+    47.919465,
+    -97.02875,
+    47.919465
+],
+  "geometry": {"coordinates":[-97.02875,47.919465],"type":"Point"}
+}

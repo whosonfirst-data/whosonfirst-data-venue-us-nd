@@ -1,0 +1,78 @@
+{
+  "id": 873798343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-102.793052,46.898883,-102.793052,46.898883",
+    "geom:latitude":46.898883,
+    "geom:longitude":-102.793052,
+    "iso:country":"US",
+    "sg:address":"456 15th St W",
+    "sg:city":"Dickinson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/dickinson/77501-papa-murphys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 483 7272",
+    "sg:postcode":"58601",
+    "sg:province":"ND",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877119,
+        102191575,
+        404482179,
+        85633793,
+        85982521,
+        102082105,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eq3IHTf8hBd97JI9rrlrz_46.898883_-102.793052@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297754,
+    "wof:geomhash":"36df155fec01bf1161785d3bfa9948d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082105,
+            "localadmin_id":404482179,
+            "locality_id":85982521,
+            "neighbourhood_id":85877119,
+            "region_id":85688525,
+            "venue_id":873798343
+        }
+    ],
+    "wof:id":873798343,
+    "wof:lastmodified":1464297754,
+    "wof:name":"Papa Murphy's",
+    "wof:parent_id":85877119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -102.793052,
+    46.898883,
+    -102.793052,
+    46.898883
+],
+  "geometry": {"coordinates":[-102.793052,46.898883],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873663319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.80918,46.851707,-96.80918,46.851707",
+    "geom:latitude":46.851707,
+    "geom:longitude":-96.80918,
+    "iso:country":"US",
+    "sg:address":"1841 17th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 237 6549",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534475,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ESYgiwbPcsodGvUk1WhPt_46.851707_-96.809180@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295734,
+    "wof:geomhash":"fb04f2591e9710618d825987e4d5bb08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534475,
+            "region_id":85688525,
+            "venue_id":873663319
+        }
+    ],
+    "wof:id":873663319,
+    "wof:lastmodified":1464295734,
+    "wof:name":"K & N Properties",
+    "wof:parent_id":420534475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -96.80918,
+    46.851707,
+    -96.80918,
+    46.851707
+],
+  "geometry": {"coordinates":[-96.80918,46.851707],"type":"Point"}
+}

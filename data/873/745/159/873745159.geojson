@@ -1,0 +1,71 @@
+{
+  "id": 873745159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.760046,46.793402,-100.760046,46.793402",
+    "geom:latitude":46.793402,
+    "geom:longitude":-100.760046,
+    "iso:country":"US",
+    "sg:address":"2120 Lovett Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 1032",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AaaeI1YezKgA4Lx4qz6Gg_46.793402_-100.760046@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297012,
+    "wof:geomhash":"5040a8b5af0933630e8fb861240ecedc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873745159
+        }
+    ],
+    "wof:id":873745159,
+    "wof:lastmodified":1464297012,
+    "wof:name":"Perfection Plus Auto Detailing",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -100.760046,
+    46.793402,
+    -100.760046,
+    46.793402
+],
+  "geometry": {"coordinates":[-100.760046,46.793402],"type":"Point"}
+}

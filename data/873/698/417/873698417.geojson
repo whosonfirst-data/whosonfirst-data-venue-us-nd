@@ -1,0 +1,73 @@
+{
+  "id": 873698417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.058552,47.93207,-97.058552,47.93207",
+    "geom:latitude":47.93207,
+    "geom:longitude":-97.058552,
+    "iso:country":"US",
+    "sg:address":"2107 13th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 6060",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "builder",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jP67WtNW95BkteNhEHhuk_47.932070_-97.058552@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296388,
+    "wof:geomhash":"13b79ed54d154bafe4edb879898f170f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873698417
+        }
+    ],
+    "wof:id":873698417,
+    "wof:lastmodified":1464296388,
+    "wof:name":"Cottage House",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "custom"
+    ]
+},
+  "bbox": [
+    -97.058552,
+    47.93207,
+    -97.058552,
+    47.93207
+],
+  "geometry": {"coordinates":[-97.05855200000001,47.93207],"type":"Point"}
+}

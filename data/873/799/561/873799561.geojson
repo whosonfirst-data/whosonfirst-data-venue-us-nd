@@ -1,0 +1,74 @@
+{
+  "id": 873799561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.061302,47.403301,-97.061302,47.403301",
+    "geom:latitude":47.403301,
+    "geom:longitude":-97.061302,
+    "iso:country":"US",
+    "sg:address":"1 N Main St",
+    "sg:city":"Hillsboro",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 636 4461",
+    "sg:postcode":"58045",
+    "sg:province":"ND",
+    "sg:tags":[
+        "justice",
+        "parish",
+        "attorney",
+        "practice",
+        "government-county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0v9lITZo7fgCQTisHlzGXy_47.403301_-97.061302@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297768,
+    "wof:geomhash":"9185ea751924d2e2786560995e96a493",
+    "wof:hierarchy":[],
+    "wof:id":873799561,
+    "wof:lastmodified":1464297768,
+    "wof:name":"Traill County States Attys Off",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "justice",
+        "parish",
+        "attorney",
+        "practice",
+        "government-county"
+    ]
+},
+  "bbox": [
+    -97.061302,
+    47.403301,
+    -97.061302,
+    47.403301
+],
+  "geometry": {"coordinates":[-97.061302,47.403301],"type":"Point"}
+}

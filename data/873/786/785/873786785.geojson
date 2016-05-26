@@ -1,0 +1,71 @@
+{
+  "id": 873786785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.31312,48.213649,-101.31312,48.213649",
+    "geom:latitude":48.213649,
+    "geom:longitude":-101.31312,
+    "iso:country":"US",
+    "sg:address":"1821 Tammy Dr SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 3421",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "wheat",
+        "grain",
+        "cash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eXZZwkSMs1wEgQkqujLJd_48.213649_-101.313120@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297587,
+    "wof:geomhash":"973a6220daeeaf0769a4e6d0753ae9b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873786785
+        }
+    ],
+    "wof:id":873786785,
+    "wof:lastmodified":1464297587,
+    "wof:name":"Wold Lawren Farm",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "wheat",
+        "grain",
+        "cash"
+    ]
+},
+  "bbox": [
+    -101.31312,
+    48.213649,
+    -101.31312,
+    48.213649
+],
+  "geometry": {"coordinates":[-101.31312,48.213649],"type":"Point"}
+}

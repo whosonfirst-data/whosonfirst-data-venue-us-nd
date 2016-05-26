@@ -1,0 +1,71 @@
+{
+  "id": 873569185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.776268,46.810613,-100.776268,46.810613",
+    "geom:latitude":46.810613,
+    "geom:longitude":-100.776268,
+    "iso:country":"US",
+    "sg:address":"1008 E Ave B",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 6857",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "reupholstery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19fHpT2WHYRzoPMyo6gWPr_46.810613_-100.776268@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294597,
+    "wof:geomhash":"3eda18071e7f4dfd01bef78f126feff9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873569185
+        }
+    ],
+    "wof:id":873569185,
+    "wof:lastmodified":1464294597,
+    "wof:name":"Larrys Upholstery",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reupholstery"
+    ]
+},
+  "bbox": [
+    -100.776268,
+    46.810613,
+    -100.776268,
+    46.810613
+],
+  "geometry": {"coordinates":[-100.776268,46.810613],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873754777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.758609,46.791918,-100.758609,46.791918",
+    "geom:latitude":46.791918,
+    "geom:longitude":-100.758609,
+    "iso:country":"US",
+    "sg:address":"2001 Lee Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 527 0259",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "support",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Fx9ErogTJjSPkRGB8SwQa_46.791918_-100.758609@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297142,
+    "wof:geomhash":"df93b99124f51313a4a624bc9f60b885",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873754777
+        }
+    ],
+    "wof:id":873754777,
+    "wof:lastmodified":1464297142,
+    "wof:name":"Cccsi Inc Btc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "support",
+        "facility"
+    ]
+},
+  "bbox": [
+    -100.758609,
+    46.791918,
+    -100.758609,
+    46.791918
+],
+  "geometry": {"coordinates":[-100.75860900000001,46.791918],"type":"Point"}
+}

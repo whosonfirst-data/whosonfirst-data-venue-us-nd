@@ -1,0 +1,75 @@
+{
+  "id": 873713797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.046496,47.910701,-97.046496,47.910701",
+    "geom:latitude":47.910701,
+    "geom:longitude":-97.046496,
+    "iso:country":"US",
+    "sg:address":"1149 S 14th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 0611",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "machine",
+        "duplicating",
+        "copying"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wcDWgDgoIcX5ufqMKGQ0z_47.910701_-97.046496@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296565,
+    "wof:geomhash":"85e80164e23bc78a96c1f406ee20f38d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873713797
+        }
+    ],
+    "wof:id":873713797,
+    "wof:lastmodified":1464296565,
+    "wof:name":"G R Graphics Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "duplicating",
+        "copying"
+    ]
+},
+  "bbox": [
+    -97.046496,
+    47.910701,
+    -97.046496,
+    47.910701
+],
+  "geometry": {"coordinates":[-97.046496,47.910701],"type":"Point"}
+}

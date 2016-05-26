@@ -1,0 +1,73 @@
+{
+  "id": 873774555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.860956,47.787849,-97.860956,47.787849",
+    "geom:latitude":47.787849,
+    "geom:longitude":-97.860956,
+    "iso:country":"US",
+    "sg:address":"773 48th St NE",
+    "sg:city":"Aneta",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 326 4183",
+    "sg:postcode":"58212",
+    "sg:province":"ND",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oovSOBMw9dutp7LtFGDEk_47.787849_-97.860956@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297421,
+    "wof:geomhash":"103b4326ed8ce2b4c47cbe9929730b1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873774555
+        }
+    ],
+    "wof:id":873774555,
+    "wof:lastmodified":1464297421,
+    "wof:name":"Orville Hagen",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -97.860956,
+    47.787849,
+    -97.860956,
+    47.787849
+],
+  "geometry": {"coordinates":[-97.860956,47.787849],"type":"Point"}
+}

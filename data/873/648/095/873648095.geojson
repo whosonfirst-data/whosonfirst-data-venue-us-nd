@@ -1,0 +1,66 @@
+{
+  "id": 873648095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.29598,48.241,-101.29598,48.241",
+    "geom:latitude":48.241,
+    "geom:longitude":-101.29598,
+    "iso:country":"US",
+    "sg:address":"720 N Broadway",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 837 9882",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LnnG9lonXtoig3ws0TsqN_48.241000_-101.295980@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295567,
+    "wof:geomhash":"23aee0365ea5c3fcec695cb887cecc31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873648095
+        }
+    ],
+    "wof:id":873648095,
+    "wof:lastmodified":1464295567,
+    "wof:name":"Original Bar & Nightclub",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.29598,
+    48.241,
+    -101.29598,
+    48.241
+],
+  "geometry": {"coordinates":[-101.29598,48.241],"type":"Point"}
+}

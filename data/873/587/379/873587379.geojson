@@ -1,0 +1,71 @@
+{
+  "id": 873587379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.794549,46.790144,-100.794549,46.790144",
+    "geom:latitude":46.790144,
+    "geom:longitude":-100.794549,
+    "iso:country":"US",
+    "sg:address":"203 W Reno Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 2139",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51FqNFa1Ii2Mw5twsCtrsU_46.790144_-100.794549@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294801,
+    "wof:geomhash":"f7d4fe1a3612d5fc20ecff434ac21cb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873587379
+        }
+    ],
+    "wof:id":873587379,
+    "wof:lastmodified":1464294801,
+    "wof:name":"A C M Builders",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -100.794549,
+    46.790144,
+    -100.794549,
+    46.790144
+],
+  "geometry": {"coordinates":[-100.794549,46.790144],"type":"Point"}
+}

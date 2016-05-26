@@ -1,0 +1,80 @@
+{
+  "id": 873803345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.827504,46.866282,-96.827504,46.866282",
+    "geom:latitude":46.866282,
+    "geom:longitude":-96.827504,
+    "iso:country":"US",
+    "sg:address":"912 Page Dr S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 364 9786",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "construction",
+        "site-clean-up",
+        "janitorial"
+    ],
+    "sg:website":"http://www.us.issworld.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1o4MG8BdEcRKI2U3IHyVWh_46.866282_-96.827504@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297814,
+    "wof:geomhash":"b37ae817c58cc52fa870fd451db42956",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873803345
+        }
+    ],
+    "wof:id":873803345,
+    "wof:lastmodified":1464297814,
+    "wof:name":"Iss Facility Services",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "construction",
+        "site-clean-up",
+        "janitorial"
+    ]
+},
+  "bbox": [
+    -96.827504,
+    46.866282,
+    -96.827504,
+    46.866282
+],
+  "geometry": {"coordinates":[-96.827504,46.866282],"type":"Point"}
+}

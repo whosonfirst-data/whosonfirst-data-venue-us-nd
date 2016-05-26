@@ -1,0 +1,66 @@
+{
+  "id": 873627025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.055542,47.889512,-97.055542,47.889512",
+    "geom:latitude":47.889512,
+    "geom:longitude":-97.055542,
+    "iso:country":"US",
+    "sg:address":"1750 32nd Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 0688",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lncfvmH92k4Zkfk83nMH7_47.889512_-97.055542@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295330,
+    "wof:geomhash":"37cbce7a937c1f94098d50a06db3d3d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873627025
+        }
+    ],
+    "wof:id":873627025,
+    "wof:lastmodified":1464295330,
+    "wof:name":"Hugos",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.055542,
+    47.889512,
+    -97.055542,
+    47.889512
+],
+  "geometry": {"coordinates":[-97.055542,47.889512],"type":"Point"}
+}

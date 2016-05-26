@@ -1,0 +1,73 @@
+{
+  "id": 873548405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.297131,48.233143,-101.297131,48.233143",
+    "geom:latitude":48.233143,
+    "geom:longitude":-101.297131,
+    "iso:country":"US",
+    "sg:address":"300 Summit Dr",
+    "sg:city":"Minot Afb",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 727 0161",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "guidance",
+        "vocational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0r5atEwUBvrJLubUzht3Su_48.233143_-101.297131@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294361,
+    "wof:geomhash":"33eac1b51134a4d6af9579c2c5d90aa2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873548405
+        }
+    ],
+    "wof:id":873548405,
+    "wof:lastmodified":1464294361,
+    "wof:name":"Minot Vocational Workshop",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guidance",
+        "vocational"
+    ]
+},
+  "bbox": [
+    -101.297131,
+    48.233143,
+    -101.297131,
+    48.233143
+],
+  "geometry": {"coordinates":[-101.29713099999999,48.233143],"type":"Point"}
+}

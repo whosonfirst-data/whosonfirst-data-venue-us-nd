@@ -1,0 +1,75 @@
+{
+  "id": 873722149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.042706,47.891251,-97.042706,47.891251",
+    "geom:latitude":47.891251,
+    "geom:longitude":-97.042706,
+    "iso:country":"US",
+    "sg:address":"2913 Shadow Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 6139",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LobJEgFwu8X09ZdNzByck_47.891251_-97.042706@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296676,
+    "wof:geomhash":"dc823a2569bd112012b11908be7cf09c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873722149
+        }
+    ],
+    "wof:id":873722149,
+    "wof:lastmodified":1464296676,
+    "wof:name":"P&R Trucking Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -97.042706,
+    47.891251,
+    -97.042706,
+    47.891251
+],
+  "geometry": {"coordinates":[-97.042706,47.891251],"type":"Point"}
+}

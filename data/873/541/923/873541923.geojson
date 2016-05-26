@@ -1,0 +1,79 @@
+{
+  "id": 873541923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.293039,48.236452,-101.293039,48.236452",
+    "geom:latitude":48.236452,
+    "geom:longitude":-101.293039,
+    "iso:country":"US",
+    "sg:address":"1 Main St S",
+    "sg:city":"Balfour",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 465 3092",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "gas",
+        "station",
+        "cafe",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uSqWDInZ5h56v5QOlPgrn_48.236452_-101.293039@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294280,
+    "wof:geomhash":"87c7adeaa95b7639602cc680a5dfe1f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873541923
+        }
+    ],
+    "wof:id":873541923,
+    "wof:lastmodified":1464294280,
+    "wof:name":"Alme Service Inc",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "gas",
+        "station",
+        "cafe",
+        "sales"
+    ]
+},
+  "bbox": [
+    -101.293039,
+    48.236452,
+    -101.293039,
+    48.236452
+],
+  "geometry": {"coordinates":[-101.29303899999999,48.236452],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873619107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.294925,48.23273,-101.294925,48.23273",
+    "geom:latitude":48.23273,
+    "geom:longitude":-101.294925,
+    "iso:country":"US",
+    "sg:address":"120 US Hwy 2 Bus",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 3937",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KW23MLaPWRgz5vCjGcEN7_48.232730_-101.294925@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295241,
+    "wof:geomhash":"cb651b8235468b3acdc99bbe338f1401",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873619107
+        }
+    ],
+    "wof:id":873619107,
+    "wof:lastmodified":1464295241,
+    "wof:name":"Trinity Regional Eye Care",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -101.294925,
+    48.23273,
+    -101.294925,
+    48.23273
+],
+  "geometry": {"coordinates":[-101.29492500000001,48.23273],"type":"Point"}
+}

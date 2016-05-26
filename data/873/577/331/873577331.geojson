@@ -1,0 +1,73 @@
+{
+  "id": 873577331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.252719,48.218947,-101.252719,48.218947",
+    "geom:latitude":48.218947,
+    "geom:longitude":-101.252719,
+    "iso:country":"US",
+    "sg:address":"1625 27th St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 0351",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "linen",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yyFiH2UOolWqxlw70duyj_48.218947_-101.252719@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294687,
+    "wof:geomhash":"bd9df982985c775cad32676a6b1c6403",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873577331
+        }
+    ],
+    "wof:id":873577331,
+    "wof:lastmodified":1464294687,
+    "wof:name":"Ameri Pride Linen & Apparel",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "linen",
+        "supply"
+    ]
+},
+  "bbox": [
+    -101.252719,
+    48.218947,
+    -101.252719,
+    48.218947
+],
+  "geometry": {"coordinates":[-101.252719,48.218947],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873581035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.067427,47.904054,-97.067427,47.904054",
+    "geom:latitude":47.904054,
+    "geom:longitude":-97.067427,
+    "iso:country":"US",
+    "sg:address":"2708 17th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 0308",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cfyct9mDi8wJwT6ND3t8a_47.904054_-97.067427@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294733,
+    "wof:geomhash":"38d36a12478d18a0358ca711e0961ca2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873581035
+        }
+    ],
+    "wof:id":873581035,
+    "wof:lastmodified":1464294733,
+    "wof:name":"Flowers By Us Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.067427,
+    47.904054,
+    -97.067427,
+    47.904054
+],
+  "geometry": {"coordinates":[-97.067427,47.904054],"type":"Point"}
+}

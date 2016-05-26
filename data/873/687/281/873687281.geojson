@@ -1,0 +1,66 @@
+{
+  "id": 873687281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.317714,48.250091,-101.317714,48.250091",
+    "geom:latitude":48.250091,
+    "geom:longitude":-101.317714,
+    "iso:country":"US",
+    "sg:address":"1603 16th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 9379",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iFu3TyUz3HFBm1IMF8SoW_48.250091_-101.317714@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296200,
+    "wof:geomhash":"4d52b59f06b732fadb7e46faf2e067cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873687281
+        }
+    ],
+    "wof:id":873687281,
+    "wof:lastmodified":1464296200,
+    "wof:name":"Quail 2 Condo Association",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.317714,
+    48.250091,
+    -101.317714,
+    48.250091
+],
+  "geometry": {"coordinates":[-101.317714,48.250091],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873556793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.733223,46.840791,-100.733223,46.840791",
+    "geom:latitude":46.840791,
+    "geom:longitude":-100.733223,
+    "iso:country":"US",
+    "sg:address":"3825 Saratoga Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 3445",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07iArs3SB2mVLNped2CEVf_46.840791_-100.733223@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294457,
+    "wof:geomhash":"086ffde7e2fb2228f480c990ed2531be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873556793
+        }
+    ],
+    "wof:id":873556793,
+    "wof:lastmodified":1464294457,
+    "wof:name":"G T Auto Sales Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -100.733223,
+    46.840791,
+    -100.733223,
+    46.840791
+],
+  "geometry": {"coordinates":[-100.733223,46.840791],"type":"Point"}
+}

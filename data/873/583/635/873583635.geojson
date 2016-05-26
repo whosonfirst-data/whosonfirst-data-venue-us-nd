@@ -1,0 +1,73 @@
+{
+  "id": 873583635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.626991,46.712206,-100.626991,46.712206",
+    "geom:latitude":46.712206,
+    "geom:longitude":-100.626991,
+    "iso:country":"US",
+    "sg:address":"8500 106th St SE",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 400 6875",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "consultant",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13yLa1QDEGNSC3UquwKKlr_46.712206_-100.626991@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294758,
+    "wof:geomhash":"3a7a13615ce25c9816bcba6eb47eeffb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873583635
+        }
+    ],
+    "wof:id":873583635,
+    "wof:lastmodified":1464294758,
+    "wof:name":"Finn  John",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "health"
+    ]
+},
+  "bbox": [
+    -100.626991,
+    46.712206,
+    -100.626991,
+    46.712206
+],
+  "geometry": {"coordinates":[-100.626991,46.712206],"type":"Point"}
+}

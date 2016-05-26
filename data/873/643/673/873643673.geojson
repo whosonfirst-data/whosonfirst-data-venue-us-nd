@@ -1,0 +1,74 @@
+{
+  "id": 873643673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.068625,47.949974,-97.068625,47.949974",
+    "geom:latitude":47.949974,
+    "geom:longitude":-97.068625,
+    "iso:country":"US",
+    "sg:address":"3100 N Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 8897",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "sg:website":"www.bergstromelectric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dv2fRY3hhQrMrTXaGfJm9_47.949974_-97.068625@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295521,
+    "wof:geomhash":"2330349eb6a3a6fd1b69534a674f1323",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873643673
+        }
+    ],
+    "wof:id":873643673,
+    "wof:lastmodified":1464295521,
+    "wof:name":"Bergstrom Electric Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.068625,
+    47.949974,
+    -97.068625,
+    47.949974
+],
+  "geometry": {"coordinates":[-97.068625,47.949974],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873792219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.963948,47.072514,-96.963948,47.072514",
+    "geom:latitude":47.072514,
+    "geom:longitude":-96.963948,
+    "iso:country":"US",
+    "sg:address":"2346 167th Ave SE",
+    "sg:city":"Argusville",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 484 5395",
+    "sg:postcode":"58005",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "wheat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FfxN4qzZaLKnz8U00ExPt_47.072514_-96.963948@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297680,
+    "wof:geomhash":"628ac32306db584953432b73b700db08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873792219
+        }
+    ],
+    "wof:id":873792219,
+    "wof:lastmodified":1464297680,
+    "wof:name":"Lynn Hodgson",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "wheat"
+    ]
+},
+  "bbox": [
+    -96.963948,
+    47.072514,
+    -96.963948,
+    47.072514
+],
+  "geometry": {"coordinates":[-96.963948,47.072514],"type":"Point"}
+}

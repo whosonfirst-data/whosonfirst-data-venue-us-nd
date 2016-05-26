@@ -1,0 +1,66 @@
+{
+  "id": 873535639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.087354,47.889521,-97.087354,47.889521",
+    "geom:latitude":47.889521,
+    "geom:longitude":-97.087354,
+    "iso:country":"US",
+    "sg:address":"4460 32nd Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 0391",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PMsLzXIK86yGh86S7pxHv_47.889521_-97.087354@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294211,
+    "wof:geomhash":"71e9897215a84fa01b35e7f706d943e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873535639
+        }
+    ],
+    "wof:id":873535639,
+    "wof:lastmodified":1464294211,
+    "wof:name":"Tractor Supply Co",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.087354,
+    47.889521,
+    -97.087354,
+    47.889521
+],
+  "geometry": {"coordinates":[-97.087354,47.889521],"type":"Point"}
+}

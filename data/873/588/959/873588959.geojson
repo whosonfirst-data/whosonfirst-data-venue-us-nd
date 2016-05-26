@@ -1,0 +1,77 @@
+{
+  "id": 873588959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.792299,46.806468,-100.792299,46.806468",
+    "geom:latitude":46.806468,
+    "geom:longitude":-100.792299,
+    "iso:country":"US",
+    "sg:address":"108 N Mandan St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 6500",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "electric",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7J4cENmhYGP5k9jphQGsGN_46.806468_-100.792299@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294817,
+    "wof:geomhash":"4aaf0675542b468a5e43e49618f106c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873588959
+        }
+    ],
+    "wof:id":873588959,
+    "wof:lastmodified":1464294817,
+    "wof:name":"Eggers Electric Motor Co",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "motor"
+    ]
+},
+  "bbox": [
+    -100.792299,
+    46.806468,
+    -100.792299,
+    46.806468
+],
+  "geometry": {"coordinates":[-100.792299,46.806468],"type":"Point"}
+}

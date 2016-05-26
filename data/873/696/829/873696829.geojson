@@ -1,0 +1,73 @@
+{
+  "id": 873696829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.595829,48.109907,-101.595829,48.109907",
+    "geom:latitude":48.109907,
+    "geom:longitude":-101.595829,
+    "iso:country":"US",
+    "sg:address":"19710 121st Ave SW",
+    "sg:city":"Des Lacs",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 725 4340",
+    "sg:postcode":"58733",
+    "sg:province":"ND",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DboQCSvo9hwGx2xSNL0ss_48.109907_-101.595829@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296373,
+    "wof:geomhash":"d41910a3a8c3beea8ef0d159aab34202",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873696829
+        }
+    ],
+    "wof:id":873696829,
+    "wof:lastmodified":1464296373,
+    "wof:name":"S & D Properties LLC",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -101.595829,
+    48.109907,
+    -101.595829,
+    48.109907
+],
+  "geometry": {"coordinates":[-101.59582899999999,48.109907],"type":"Point"}
+}

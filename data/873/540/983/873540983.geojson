@@ -1,0 +1,71 @@
+{
+  "id": 873540983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.784694,46.806355,-100.784694,46.806355",
+    "geom:latitude":46.806355,
+    "geom:longitude":-100.784694,
+    "iso:country":"US",
+    "sg:address":"108 N 5th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 2155",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "furnishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aZlQiJVLAapY3Rskg7qPD_46.806355_-100.784694@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294269,
+    "wof:geomhash":"9d49a8261faec2e44557eafa10dc98ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873540983
+        }
+    ],
+    "wof:id":873540983,
+    "wof:lastmodified":1464294269,
+    "wof:name":"Hellman Brothers Men's Clothes",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furnishing"
+    ]
+},
+  "bbox": [
+    -100.784694,
+    46.806355,
+    -100.784694,
+    46.806355
+],
+  "geometry": {"coordinates":[-100.784694,46.806355],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873598079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.296033,48.246051,-101.296033,48.246051",
+    "geom:latitude":48.246051,
+    "geom:longitude":-101.296033,
+    "iso:country":"US",
+    "sg:address":"1200 N Broadway",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 6329",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6j0aFw5XtX8hRcRkQAlfnd_48.246051_-101.296033@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294959,
+    "wof:geomhash":"13e0b3a630b4adaa68a646026c92c92c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873598079
+        }
+    ],
+    "wof:id":873598079,
+    "wof:lastmodified":1464294959,
+    "wof:name":"United Rentals",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.296033,
+    48.246051,
+    -101.296033,
+    48.246051
+],
+  "geometry": {"coordinates":[-101.29603299999999,48.246051],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 873716069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.877383,46.857697,-96.877383,46.857697",
+    "geom:latitude":46.857697,
+    "geom:longitude":-96.877383,
+    "iso:country":"US",
+    "sg:address":"1510 16th Ave E",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Dairy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 281 9463",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "sg:tags":[
+        "product",
+        "direct",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FIUx0BMxRVNG1mqawHqr5_46.857697_-96.877383@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296594,
+    "wof:geomhash":"68041616ab610d0ce29d1bc342a98526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873716069
+        }
+    ],
+    "wof:id":873716069,
+    "wof:lastmodified":1464296594,
+    "wof:name":"Mc Cann Home Dairy Inc",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "direct",
+        "sales"
+    ]
+},
+  "bbox": [
+    -96.877383,
+    46.857697,
+    -96.877383,
+    46.857697
+],
+  "geometry": {"coordinates":[-96.87738299999999,46.857697],"type":"Point"}
+}

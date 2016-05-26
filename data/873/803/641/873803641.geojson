@@ -1,0 +1,98 @@
+{
+  "id": 873803641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.830349,46.837401,-96.830349,46.837401",
+    "geom:latitude":46.837401,
+    "geom:longitude":-96.830349,
+    "iso:country":"US",
+    "sg:address":"2934 32nd St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 7271",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "sample",
+        "product",
+        "service-circular",
+        "fair",
+        "specialty",
+        "trade",
+        "distributing",
+        "exposition",
+        "advertising-promotional",
+        "shows"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534467,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IaeQq3uWavqKXmE9mgl6W_46.837401_-96.830349@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297817,
+    "wof:geomhash":"4f41a95f73dcd89b101815f9d23f405a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534467,
+            "region_id":85688525,
+            "venue_id":873803641
+        }
+    ],
+    "wof:id":873803641,
+    "wof:lastmodified":1464297817,
+    "wof:name":"Classic Promotions",
+    "wof:parent_id":420534467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sample",
+        "product",
+        "service-circular",
+        "fair",
+        "specialty",
+        "trade",
+        "distributing",
+        "exposition",
+        "advertising-promotional",
+        "shows"
+    ]
+},
+  "bbox": [
+    -96.830349,
+    46.837401,
+    -96.830349,
+    46.837401
+],
+  "geometry": {"coordinates":[-96.830349,46.837401],"type":"Point"}
+}

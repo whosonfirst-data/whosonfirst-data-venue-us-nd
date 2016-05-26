@@ -1,0 +1,77 @@
+{
+  "id": 873686775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.814782,46.87589,-96.814782,46.87589",
+    "geom:latitude":46.87589,
+    "geom:longitude":-96.814782,
+    "iso:country":"US",
+    "sg:address":"2105 Main Ave",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 365 8733",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ihbH09DY0ej2pgxNkF8gL_46.875890_-96.814782@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296187,
+    "wof:geomhash":"6a17553a79088691c09501a197a1d3c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873686775
+        }
+    ],
+    "wof:id":873686775,
+    "wof:lastmodified":1464296187,
+    "wof:name":"Used A Bit Auto Sales",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.814782,
+    46.87589,
+    -96.814782,
+    46.87589
+],
+  "geometry": {"coordinates":[-96.81478199999999,46.87589],"type":"Point"}
+}

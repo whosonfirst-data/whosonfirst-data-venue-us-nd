@@ -1,0 +1,71 @@
+{
+  "id": 873557699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.031429,47.924451,-97.031429,47.924451",
+    "geom:latitude":47.924451,
+    "geom:longitude":-97.031429,
+    "iso:country":"US",
+    "sg:address":"307 Demers Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 8881",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ejDc5Gr9eOt4bF0q3bJdK_47.924451_-97.031429@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294467,
+    "wof:geomhash":"6175e80f8cb0cca7cd14ad2ddafdfd30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873557699
+        }
+    ],
+    "wof:id":873557699,
+    "wof:lastmodified":1464294467,
+    "wof:name":"St Josephs Catholic Gift",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -97.031429,
+    47.924451,
+    -97.031429,
+    47.924451
+],
+  "geometry": {"coordinates":[-97.031429,47.924451],"type":"Point"}
+}

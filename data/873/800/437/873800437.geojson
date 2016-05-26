@@ -1,0 +1,69 @@
+{
+  "id": 873800437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.787653,46.877172,-96.787653,46.877172",
+    "geom:latitude":46.877172,
+    "geom:longitude":-96.787653,
+    "iso:country":"US",
+    "sg:address":"123 1/2 Broadway N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 241 9922",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "hair",
+        "perfume",
+        "salons-equipment",
+        "stylist",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RZLRsZ0MNpXVHJTlkJKDf_46.877172_-96.787653@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297778,
+    "wof:geomhash":"112942fd6e228d14a5f297a42021f21c",
+    "wof:hierarchy":[],
+    "wof:id":873800437,
+    "wof:lastmodified":1464297778,
+    "wof:name":"Beverly's Studio For Hair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "perfume",
+        "salons-equipment",
+        "stylist",
+        "supply"
+    ]
+},
+  "bbox": [
+    -96.787653,
+    46.877172,
+    -96.787653,
+    46.877172
+],
+  "geometry": {"coordinates":[-96.78765300000001,46.877172],"type":"Point"}
+}

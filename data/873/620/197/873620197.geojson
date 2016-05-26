@@ -1,0 +1,75 @@
+{
+  "id": 873620197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.085397,47.933114,-97.085397,47.933114",
+    "geom:latitude":47.933114,
+    "geom:longitude":-97.085397,
+    "iso:country":"US",
+    "sg:address":"3930 Gateway Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 6256",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "pipe",
+        "line",
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2f01Zxjw1burXZKbjFANMx_47.933114_-97.085397@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295253,
+    "wof:geomhash":"44e9d886fa9dcdf481f96ae6783bbb59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873620197
+        }
+    ],
+    "wof:id":873620197,
+    "wof:lastmodified":1464295253,
+    "wof:name":"Magellan Pipeline Co",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pipe",
+        "line",
+        "company"
+    ]
+},
+  "bbox": [
+    -97.085397,
+    47.933114,
+    -97.085397,
+    47.933114
+],
+  "geometry": {"coordinates":[-97.085397,47.933114],"type":"Point"}
+}

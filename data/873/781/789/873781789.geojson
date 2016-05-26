@@ -1,0 +1,71 @@
+{
+  "id": 873781789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.446081,48.356257,-101.446081,48.356257",
+    "geom:latitude":48.356257,
+    "geom:longitude":-101.446081,
+    "iso:country":"US",
+    "sg:address":"9300 114th Ave NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 725 4818",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ocfuELrosAi5YPjYDwDV7_48.356257_-101.446081@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297515,
+    "wof:geomhash":"c7c19e5c79754a62ec02f07c49279adf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873781789
+        }
+    ],
+    "wof:id":873781789,
+    "wof:lastmodified":1464297515,
+    "wof:name":"Lenzke Auto Enterprises",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -101.446081,
+    48.356257,
+    -101.446081,
+    48.356257
+],
+  "geometry": {"coordinates":[-101.44608100000001,48.356257],"type":"Point"}
+}

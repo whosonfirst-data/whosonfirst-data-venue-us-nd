@@ -1,0 +1,71 @@
+{
+  "id": 873754697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.747321,46.837956,-100.747321,46.837956",
+    "geom:latitude":46.837956,
+    "geom:longitude":-100.747321,
+    "iso:country":"US",
+    "sg:address":"2929 E Century Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 1947",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66PDUYaNHw5sDUCmP0sHrd_46.837956_-100.747321@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297141,
+    "wof:geomhash":"13786d4036deabff32baf1146f7d395e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873754697
+        }
+    ],
+    "wof:id":873754697,
+    "wof:lastmodified":1464297141,
+    "wof:name":"Fairview Cemetery",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -100.747321,
+    46.837956,
+    -100.747321,
+    46.837956
+],
+  "geometry": {"coordinates":[-100.747321,46.837956],"type":"Point"}
+}

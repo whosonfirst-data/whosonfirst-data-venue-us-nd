@@ -1,0 +1,67 @@
+{
+  "id": 873754363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.79453,46.797352,-100.79453,46.797352",
+    "geom:latitude":46.797352,
+    "geom:longitude":-100.79453,
+    "iso:country":"US",
+    "sg:address":"710 S Washington St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 0040",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:website":"www.greenmill.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bDhuBUDbPn0fbXdHf85Cy_46.797352_-100.794530@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297137,
+    "wof:geomhash":"a2976933582f4d02f138312b5d9add34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873754363
+        }
+    ],
+    "wof:id":873754363,
+    "wof:lastmodified":1464297137,
+    "wof:name":"Green Mill Restaurant",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.79453,
+    46.797352,
+    -100.79453,
+    46.797352
+],
+  "geometry": {"coordinates":[-100.79452999999999,46.797352],"type":"Point"}
+}

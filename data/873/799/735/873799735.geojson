@@ -1,0 +1,71 @@
+{
+  "id": 873799735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.947472,46.775701,-96.947472,46.775701",
+    "geom:latitude":46.775701,
+    "geom:longitude":-96.947472,
+    "iso:country":"US",
+    "sg:address":"4389 168th Ave SE",
+    "sg:city":"Horace",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 238 6330",
+    "sg:postcode":"58047",
+    "sg:province":"ND",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42Jt9T1goibQfoD7yR3oty_46.775701_-96.947472@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297770,
+    "wof:geomhash":"d9fd012d842b4b5eef60974afc4c0659",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873799735
+        }
+    ],
+    "wof:id":873799735,
+    "wof:lastmodified":1464297770,
+    "wof:name":"Cass County Electric Co",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -96.947472,
+    46.775701,
+    -96.947472,
+    46.775701
+],
+  "geometry": {"coordinates":[-96.947472,46.775701],"type":"Point"}
+}

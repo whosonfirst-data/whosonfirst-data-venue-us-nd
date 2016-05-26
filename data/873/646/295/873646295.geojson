@@ -1,0 +1,67 @@
+{
+  "id": 873646295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.778694,46.795584,-100.778694,46.795584",
+    "geom:latitude":46.795584,
+    "geom:longitude":-100.778694,
+    "iso:country":"US",
+    "sg:address":"931 S 9th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 5894",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:website":"www.siamarketing.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SAHITH5yfbCU25uLoxZKW_46.795584_-100.778694@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295550,
+    "wof:geomhash":"575bf287ee28b0c2fcf4a0b4f63dddea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873646295
+        }
+    ],
+    "wof:id":873646295,
+    "wof:lastmodified":1464295550,
+    "wof:name":"Schmidt Insurance Svc",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.778694,
+    46.795584,
+    -100.778694,
+    46.795584
+],
+  "geometry": {"coordinates":[-100.778694,46.795584],"type":"Point"}
+}

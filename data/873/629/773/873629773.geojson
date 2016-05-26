@@ -1,0 +1,71 @@
+{
+  "id": 873629773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.706661,46.802454,-100.706661,46.802454",
+    "geom:latitude":46.802454,
+    "geom:longitude":-100.706661,
+    "iso:country":"US",
+    "sg:address":"5401 Southview Ln",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 9446",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jkTxMAr6HZBXVq9w8YJ5x_46.802454_-100.706661@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295363,
+    "wof:geomhash":"a3559e12ee4a1cf45908353858865ae1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873629773
+        }
+    ],
+    "wof:id":873629773,
+    "wof:lastmodified":1464295363,
+    "wof:name":"Pro Builders",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -100.706661,
+    46.802454,
+    -100.706661,
+    46.802454
+],
+  "geometry": {"coordinates":[-100.706661,46.802454],"type":"Point"}
+}

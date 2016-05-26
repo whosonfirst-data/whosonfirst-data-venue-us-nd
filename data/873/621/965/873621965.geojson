@@ -1,0 +1,71 @@
+{
+  "id": 873621965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.76886,46.784203,-100.76886,46.784203",
+    "geom:latitude":46.784203,
+    "geom:longitude":-100.76886,
+    "iso:country":"US",
+    "sg:address":"1600 Basin Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 7664",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "door"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KPXbH11wH7b33qu0ozI8c_46.784203_-100.768860@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295270,
+    "wof:geomhash":"d71be8e253252c6bbffcadf0aae9fedd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873621965
+        }
+    ],
+    "wof:id":873621965,
+    "wof:lastmodified":1464295270,
+    "wof:name":"Mid-West Doors",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "door"
+    ]
+},
+  "bbox": [
+    -100.76886,
+    46.784203,
+    -100.76886,
+    46.784203
+],
+  "geometry": {"coordinates":[-100.76886,46.784203],"type":"Point"}
+}

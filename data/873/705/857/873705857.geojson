@@ -1,0 +1,73 @@
+{
+  "id": 873705857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.299246,48.232289,-101.299246,48.232289",
+    "geom:latitude":48.232289,
+    "geom:longitude":-101.299246,
+    "iso:country":"US",
+    "sg:address":"409 Burdick Expy W",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 9410",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repair",
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kPeY1eqmixXIuqnWFZaZx_48.232289_-101.299246@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296468,
+    "wof:geomhash":"8541188d40466be19d5902adc4ad4eb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873705857
+        }
+    ],
+    "wof:id":873705857,
+    "wof:lastmodified":1464296468,
+    "wof:name":"Dakota Pawnbrokers & 2nd Hand",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "used"
+    ]
+},
+  "bbox": [
+    -101.299246,
+    48.232289,
+    -101.299246,
+    48.232289
+],
+  "geometry": {"coordinates":[-101.299246,48.232289],"type":"Point"}
+}

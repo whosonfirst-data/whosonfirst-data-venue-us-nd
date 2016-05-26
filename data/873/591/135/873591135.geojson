@@ -1,0 +1,78 @@
+{
+  "id": 873591135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.786054,46.809601,-100.786054,46.809601",
+    "geom:latitude":46.809601,
+    "geom:longitude":-100.786054,
+    "iso:country":"US",
+    "sg:address":"400 N 4th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 224 5850",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "distribution",
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NDn9Cft5CYcMoj28XWm4R_46.809601_-100.786054@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294845,
+    "wof:geomhash":"e886151b1f034c8b45cd8f576034ba4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873591135
+        }
+    ],
+    "wof:id":873591135,
+    "wof:lastmodified":1464294845,
+    "wof:name":"Montana-Dakota Utilities Co",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distribution",
+        "company"
+    ]
+},
+  "bbox": [
+    -100.786054,
+    46.809601,
+    -100.786054,
+    46.809601
+],
+  "geometry": {"coordinates":[-100.78605399999999,46.809601],"type":"Point"}
+}

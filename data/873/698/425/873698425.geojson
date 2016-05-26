@@ -1,0 +1,73 @@
+{
+  "id": 873698425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.75305,46.827293,-100.75305,46.827293",
+    "geom:latitude":46.827293,
+    "geom:longitude":-100.75305,
+    "iso:country":"US",
+    "sg:address":"2309 Jackson Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 224 0743",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "commercial",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GStAyK9kD3rbiAZjk8v39_46.827293_-100.753050@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296388,
+    "wof:geomhash":"f5791d51ea4731d77312aa267fe54c0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873698425
+        }
+    ],
+    "wof:id":873698425,
+    "wof:lastmodified":1464296388,
+    "wof:name":"Photo Graphics",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "design"
+    ]
+},
+  "bbox": [
+    -100.75305,
+    46.827293,
+    -100.75305,
+    46.827293
+],
+  "geometry": {"coordinates":[-100.75305,46.827293],"type":"Point"}
+}

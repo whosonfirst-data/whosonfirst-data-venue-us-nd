@@ -1,0 +1,73 @@
+{
+  "id": 873744989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.778641,46.802028,-100.778641,46.802028",
+    "geom:latitude":46.802028,
+    "geom:longitude":-100.778641,
+    "iso:country":"US",
+    "sg:address":"800 E Bowen Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 2330",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UHWe3X4XEw6s6lJStbHd3_46.802028_-100.778641@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297010,
+    "wof:geomhash":"b2a954ddbd52d571f02fb614b30a434d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873744989
+        }
+    ],
+    "wof:id":873744989,
+    "wof:lastmodified":1464297010,
+    "wof:name":"Carquest Auto Parts",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -100.778641,
+    46.802028,
+    -100.778641,
+    46.802028
+],
+  "geometry": {"coordinates":[-100.77864099999999,46.802028],"type":"Point"}
+}

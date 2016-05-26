@@ -1,0 +1,71 @@
+{
+  "id": 873657293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.733325,46.828661,-100.733325,46.828661",
+    "geom:latitude":46.828661,
+    "geom:longitude":-100.733325,
+    "iso:country":"US",
+    "sg:address":"3938 E Divide Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 1568",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "lounge"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oa248uP7HFHLsS4GhSmmR_46.828661_-100.733325@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295670,
+    "wof:geomhash":"5110a297af23662508a6455149372ea6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873657293
+        }
+    ],
+    "wof:id":873657293,
+    "wof:lastmodified":1464295670,
+    "wof:name":"Oasis Restaurant Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lounge"
+    ]
+},
+  "bbox": [
+    -100.733325,
+    46.828661,
+    -100.733325,
+    46.828661
+],
+  "geometry": {"coordinates":[-100.73332499999999,46.828661],"type":"Point"}
+}

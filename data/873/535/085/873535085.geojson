@@ -1,0 +1,77 @@
+{
+  "id": 873535085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.904053,46.794618,-96.904053,46.794618",
+    "geom:latitude":46.794618,
+    "geom:longitude":-96.904053,
+    "iso:country":"US",
+    "sg:address":"6914 Riverdale Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 277 0057",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "retail",
+        "processing",
+        "agricultural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ijEVu7CYtHX3L9KNFvC8W_46.794618_-96.904053@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294205,
+    "wof:geomhash":"d1a08bca3432eeadcc389f2c8f63e554",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873535085
+        }
+    ],
+    "wof:id":873535085,
+    "wof:lastmodified":1464294205,
+    "wof:name":"Agri Resources Inc",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "retail",
+        "processing",
+        "agricultural"
+    ]
+},
+  "bbox": [
+    -96.904053,
+    46.794618,
+    -96.904053,
+    46.794618
+],
+  "geometry": {"coordinates":[-96.904053,46.794618],"type":"Point"}
+}

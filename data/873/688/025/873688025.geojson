@@ -1,0 +1,66 @@
+{
+  "id": 873688025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.298112,48.233068,-101.298112,48.233068",
+    "geom:latitude":48.233068,
+    "geom:longitude":-101.298112,
+    "iso:country":"US",
+    "sg:address":"315 3rd Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 6800",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ip7ryySY5XRxu1V6zUWgC_48.233068_-101.298112@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296220,
+    "wof:geomhash":"220e6db8f43dd5ed929bb6dbe81f84c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873688025
+        }
+    ],
+    "wof:id":873688025,
+    "wof:lastmodified":1464296220,
+    "wof:name":"Devine Abstract Co",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.298112,
+    48.233068,
+    -101.298112,
+    48.233068
+],
+  "geometry": {"coordinates":[-101.298112,48.233068],"type":"Point"}
+}

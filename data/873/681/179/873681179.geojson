@@ -1,0 +1,75 @@
+{
+  "id": 873681179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.854163,46.861613,-96.854163,46.861613",
+    "geom:latitude":46.861613,
+    "geom:longitude":-96.854163,
+    "iso:country":"US",
+    "sg:address":"4340 13th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 277 5912",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ShC9K7kluW2vJVyvyJ9a5_46.861613_-96.854163@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296027,
+    "wof:geomhash":"8a080143802e75877087091423ae0d05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873681179
+        }
+    ],
+    "wof:id":873681179,
+    "wof:lastmodified":1464296027,
+    "wof:name":"Suntana",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -96.854163,
+    46.861613,
+    -96.854163,
+    46.861613
+],
+  "geometry": {"coordinates":[-96.854163,46.861613],"type":"Point"}
+}

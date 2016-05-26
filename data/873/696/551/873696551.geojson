@@ -1,0 +1,73 @@
+{
+  "id": 873696551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.346785,48.240184,-101.346785,48.240184",
+    "geom:latitude":48.240184,
+    "geom:longitude":-101.346785,
+    "iso:country":"US",
+    "sg:address":"3305 4th Ave NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 8888",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GGp1ZOy9wyEZiaOu9mUgT_48.240184_-101.346785@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296371,
+    "wof:geomhash":"31e05eb7324e43c66c02f259f0e90264",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873696551
+        }
+    ],
+    "wof:id":873696551,
+    "wof:lastmodified":1464296371,
+    "wof:name":"Gravel Products Inc",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.346785,
+    48.240184,
+    -101.346785,
+    48.240184
+],
+  "geometry": {"coordinates":[-101.346785,48.240184],"type":"Point"}
+}

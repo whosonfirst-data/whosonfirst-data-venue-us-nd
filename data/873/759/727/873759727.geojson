@@ -1,0 +1,71 @@
+{
+  "id": 873759727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.761792,46.790772,-100.761792,46.790772",
+    "geom:latitude":46.790772,
+    "geom:longitude":-100.761792,
+    "iso:country":"US",
+    "sg:address":"2016 Morrison Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 4288",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EreeWg3Aq9Hn9Nq51b9Nk_46.790772_-100.761792@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297203,
+    "wof:geomhash":"10ec121dea9cf72854da38e853cb370e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873759727
+        }
+    ],
+    "wof:id":873759727,
+    "wof:lastmodified":1464297203,
+    "wof:name":"Leos Transmission Service",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -100.761792,
+    46.790772,
+    -100.761792,
+    46.790772
+],
+  "geometry": {"coordinates":[-100.761792,46.790772],"type":"Point"}
+}

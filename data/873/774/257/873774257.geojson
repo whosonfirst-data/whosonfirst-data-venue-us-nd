@@ -1,0 +1,82 @@
+{
+  "id": 873774257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.733467,46.840941,-100.733467,46.840941",
+    "geom:latitude":46.840941,
+    "geom:longitude":-100.733467,
+    "iso:country":"US",
+    "sg:address":"3804 Saratoga Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 1545",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "garment",
+        "supply",
+        "agent",
+        "linen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SZc1ALPsgIr6z41WqNSTo_46.840941_-100.733467@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297416,
+    "wof:geomhash":"3a28dc7bb4e81caab35066c9ccf3bd43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873774257
+        }
+    ],
+    "wof:id":873774257,
+    "wof:lastmodified":1464297416,
+    "wof:name":"Dakota Dust Tex Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "supply",
+        "agent",
+        "linen"
+    ]
+},
+  "bbox": [
+    -100.733467,
+    46.840941,
+    -100.733467,
+    46.840941
+],
+  "geometry": {"coordinates":[-100.733467,46.840941],"type":"Point"}
+}

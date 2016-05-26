@@ -1,0 +1,71 @@
+{
+  "id": 873691051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.238614,48.192133,-101.238614,48.192133",
+    "geom:latitude":48.192133,
+    "geom:longitude":-101.238614,
+    "iso:country":"US",
+    "sg:address":"4721 37th St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 3287",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fq6UM0eiu0VASrW2MogPc_48.192133_-101.238614@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296300,
+    "wof:geomhash":"82cd5754c5dcd99fce7a1b12daae6ebb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873691051
+        }
+    ],
+    "wof:id":873691051,
+    "wof:lastmodified":1464296300,
+    "wof:name":"Wolla Plumbing",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.238614,
+    48.192133,
+    -101.238614,
+    48.192133
+],
+  "geometry": {"coordinates":[-101.238614,48.192133],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873761799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.288193,48.225585,-101.288193,48.225585",
+    "geom:latitude":48.225585,
+    "geom:longitude":-101.288193,
+    "iso:country":"US",
+    "sg:address":"321 11th Ave SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 0775",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "top",
+        "counter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jimjGAUIJMghnNmlkiYr2_48.225585_-101.288193@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297233,
+    "wof:geomhash":"b5525e7c77a20f7b339dca0bf0e53430",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873761799
+        }
+    ],
+    "wof:id":873761799,
+    "wof:lastmodified":1464297233,
+    "wof:name":"Designs In Stone",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "top",
+        "counter"
+    ]
+},
+  "bbox": [
+    -101.288193,
+    48.225585,
+    -101.288193,
+    48.225585
+],
+  "geometry": {"coordinates":[-101.28819300000001,48.225585],"type":"Point"}
+}

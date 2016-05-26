@@ -1,0 +1,80 @@
+{
+  "id": 873603469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.868609,46.898258,-96.868609,46.898258",
+    "geom:latitude":46.898258,
+    "geom:longitude":-96.868609,
+    "iso:country":"US",
+    "sg:address":"1531 47th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Metals & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 277 0007",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "steel",
+        "warehouse",
+        "center"
+    ],
+    "sg:website":"www.mcneilus.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2B6P67toGEJNC4PHopcheU_46.898258_-96.868609@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295024,
+    "wof:geomhash":"5d2837023a0751998d6d102cdf377bb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873603469
+        }
+    ],
+    "wof:id":873603469,
+    "wof:lastmodified":1464295024,
+    "wof:name":"Mc Neilus Steel Inc",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "warehouse",
+        "center"
+    ]
+},
+  "bbox": [
+    -96.868609,
+    46.898258,
+    -96.868609,
+    46.898258
+],
+  "geometry": {"coordinates":[-96.86860900000001,46.898258],"type":"Point"}
+}

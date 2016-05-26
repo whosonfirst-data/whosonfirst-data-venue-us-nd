@@ -1,0 +1,70 @@
+{
+  "id": 873545839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.804712,46.825063,-96.804712,46.825063",
+    "geom:latitude":46.825063,
+    "geom:longitude":-96.804712,
+    "iso:country":"US",
+    "sg:address":"3600 15th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 271 1810",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534487,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Js2vw2CEzeFSmrRfnT0P1_46.825063_-96.804712@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294326,
+    "wof:geomhash":"8e68f66c4f87b334a8cb2b379f3006b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534487,
+            "region_id":85688525,
+            "venue_id":873545839
+        }
+    ],
+    "wof:id":873545839,
+    "wof:lastmodified":1464294326,
+    "wof:name":"Elim Children's Ctr",
+    "wof:parent_id":420534487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.804712,
+    46.825063,
+    -96.804712,
+    46.825063
+],
+  "geometry": {"coordinates":[-96.80471199999999,46.825063],"type":"Point"}
+}

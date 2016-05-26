@@ -1,0 +1,79 @@
+{
+  "id": 873687209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.882513,46.943906,-96.882513,46.943906",
+    "geom:latitude":46.943906,
+    "geom:longitude":-96.882513,
+    "iso:country":"US",
+    "sg:address":"4802 57th St N",
+    "sg:city":"Harwood",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 281 7941",
+    "sg:postcode":"58042",
+    "sg:province":"ND",
+    "sg:tags":[
+        "rod",
+        "installation",
+        "lightning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oNYfqsBt1vIUKH52r8raD_46.943906_-96.882513@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296198,
+    "wof:geomhash":"c97c55d86719f57333e4863d96fc3746",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873687209
+        }
+    ],
+    "wof:id":873687209,
+    "wof:lastmodified":1464296198,
+    "wof:name":"Digi-Pro Technologies",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rod",
+        "installation",
+        "lightning"
+    ]
+},
+  "bbox": [
+    -96.882513,
+    46.943906,
+    -96.882513,
+    46.943906
+],
+  "geometry": {"coordinates":[-96.882513,46.943906],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 873771779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.827356,46.865606,-96.827356,46.865606",
+    "geom:latitude":46.865606,
+    "geom:longitude":-96.827356,
+    "iso:country":"US",
+    "sg:address":"912 Page Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 298 0040",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0usoq2lcwdcdCOi3onoS1F_46.865606_-96.827356@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297387,
+    "wof:geomhash":"a959d86c0f901c43670fd03907e0b8d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873771779
+        }
+    ],
+    "wof:id":873771779,
+    "wof:lastmodified":1464297387,
+    "wof:name":"Track & Tractor Parts",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.827356,
+    46.865606,
+    -96.827356,
+    46.865606
+],
+  "geometry": {"coordinates":[-96.82735599999999,46.865606],"type":"Point"}
+}

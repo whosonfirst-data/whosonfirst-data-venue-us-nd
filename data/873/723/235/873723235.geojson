@@ -1,0 +1,73 @@
+{
+  "id": 873723235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.082874,47.927919,-97.082874,47.927919",
+    "geom:latitude":47.927919,
+    "geom:longitude":-97.082874,
+    "iso:country":"US",
+    "sg:address":"3641 9th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 9700",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "consultant",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5A8vadpg8ZxUMhxzUOcxFD_47.927919_-97.082874@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296690,
+    "wof:geomhash":"5b98b8ddb8f771cbff0b5aeaba9fec57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873723235
+        }
+    ],
+    "wof:id":873723235,
+    "wof:lastmodified":1464296690,
+    "wof:name":"Frohm WULF & Grace",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "business"
+    ]
+},
+  "bbox": [
+    -97.082874,
+    47.927919,
+    -97.082874,
+    47.927919
+],
+  "geometry": {"coordinates":[-97.082874,47.927919],"type":"Point"}
+}

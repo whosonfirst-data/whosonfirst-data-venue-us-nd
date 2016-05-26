@@ -1,0 +1,71 @@
+{
+  "id": 873753343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.736703,46.806281,-100.736703,46.806281",
+    "geom:latitude":46.806281,
+    "geom:longitude":-100.736703,
+    "iso:country":"US",
+    "sg:address":"300 Enterprise St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 8468",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "souvenir"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rYLPnhub0428R45ZUO5Fe_46.806281_-100.736703@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297124,
+    "wof:geomhash":"5881c0374591f1ba295a2e6f8aa8d35c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873753343
+        }
+    ],
+    "wof:id":873753343,
+    "wof:lastmodified":1464297124,
+    "wof:name":"S & S Wholesale",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "souvenir"
+    ]
+},
+  "bbox": [
+    -100.736703,
+    46.806281,
+    -100.736703,
+    46.806281
+],
+  "geometry": {"coordinates":[-100.73670300000001,46.806281],"type":"Point"}
+}

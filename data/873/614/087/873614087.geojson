@@ -1,0 +1,71 @@
+{
+  "id": 873614087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.306766,48.243514,-101.306766,48.243514",
+    "geom:latitude":48.243514,
+    "geom:longitude":-101.306766,
+    "iso:country":"US",
+    "sg:address":"620 9th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 3200",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NfS97kRoMks8nNbuHnrL6_48.243514_-101.306766@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295186,
+    "wof:geomhash":"4de380ff0756f01c148fdbe7bf52d6bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873614087
+        }
+    ],
+    "wof:id":873614087,
+    "wof:lastmodified":1464295186,
+    "wof:name":"Eye Clinic of North Dakota",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -101.306766,
+    48.243514,
+    -101.306766,
+    48.243514
+],
+  "geometry": {"coordinates":[-101.306766,48.243514],"type":"Point"}
+}

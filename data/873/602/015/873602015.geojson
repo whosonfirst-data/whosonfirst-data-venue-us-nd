@@ -1,0 +1,71 @@
+{
+  "id": 873602015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.94751,46.797414,-96.94751,46.797414",
+    "geom:latitude":46.797414,
+    "geom:longitude":-96.94751,
+    "iso:country":"US",
+    "sg:address":"4248 168th Ave SE",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 2095",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41x2WF9Hqi1JOD8SynVHwI_46.797414_-96.947510@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295008,
+    "wof:geomhash":"dda7b955c2c341ad368197df8a2be98f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873602015
+        }
+    ],
+    "wof:id":873602015,
+    "wof:lastmodified":1464295008,
+    "wof:name":"Mark & Luann Brodshaug",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -96.94751,
+    46.797414,
+    -96.94751,
+    46.797414
+],
+  "geometry": {"coordinates":[-96.94750999999999,46.797414],"type":"Point"}
+}

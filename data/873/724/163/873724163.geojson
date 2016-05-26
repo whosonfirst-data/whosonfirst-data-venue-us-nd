@@ -1,0 +1,81 @@
+{
+  "id": 873724163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.801892,46.828141,-96.801892,46.828141",
+    "geom:latitude":46.828141,
+    "geom:longitude":-96.801892,
+    "iso:country":"US",
+    "sg:address":"3471 S University Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 6459",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "personal",
+        "watercraft",
+        "snowmobile",
+        "motorcycle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534487,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Bi3sg8YVBVQfqsSHaHyQp_46.828141_-96.801892@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296701,
+    "wof:geomhash":"cc8dac2687d622a4a46465fa099b74be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534487,
+            "region_id":85688525,
+            "venue_id":873724163
+        }
+    ],
+    "wof:id":873724163,
+    "wof:lastmodified":1464296701,
+    "wof:name":"Wheels Inc",
+    "wof:parent_id":420534487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "watercraft",
+        "snowmobile",
+        "motorcycle"
+    ]
+},
+  "bbox": [
+    -96.801892,
+    46.828141,
+    -96.801892,
+    46.828141
+],
+  "geometry": {"coordinates":[-96.801892,46.828141],"type":"Point"}
+}

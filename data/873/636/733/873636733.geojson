@@ -1,0 +1,72 @@
+{
+  "id": 873636733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.774646,46.810524,-100.774646,46.810524",
+    "geom:latitude":46.810524,
+    "geom:longitude":-100.774646,
+    "iso:country":"US",
+    "sg:address":"1100 E Ave B",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 3229",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.bbcbismarck.o-f.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57CNUIcHkCZjlcxApKyzVS_46.810524_-100.774646@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295441,
+    "wof:geomhash":"629c8fa588ffe58162daabcb66df2a1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873636733
+        }
+    ],
+    "wof:id":873636733,
+    "wof:lastmodified":1464295441,
+    "wof:name":"Bibble Baptist Church",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -100.774646,
+    46.810524,
+    -100.774646,
+    46.810524
+],
+  "geometry": {"coordinates":[-100.774646,46.810524],"type":"Point"}
+}

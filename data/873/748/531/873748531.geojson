@@ -1,0 +1,73 @@
+{
+  "id": 873748531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.761328,46.818678,-100.761328,46.818678",
+    "geom:latitude":46.818678,
+    "geom:longitude":-100.761328,
+    "iso:country":"US",
+    "sg:address":"1209 Simle Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 6156",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "janitor",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ICW4xYybVHIbtbU6ht5kU_46.818678_-100.761328@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297056,
+    "wof:geomhash":"f4052df2341ae5e35ab86afe077a724e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873748531
+        }
+    ],
+    "wof:id":873748531,
+    "wof:lastmodified":1464297056,
+    "wof:name":"Erv's Janitorial",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -100.761328,
+    46.818678,
+    -100.761328,
+    46.818678
+],
+  "geometry": {"coordinates":[-100.76132800000001,46.818678],"type":"Point"}
+}

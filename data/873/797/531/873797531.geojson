@@ -1,0 +1,74 @@
+{
+  "id": 873797531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.034182,47.911745,-97.034182,47.911745",
+    "geom:latitude":47.911745,
+    "geom:longitude":-97.034182,
+    "iso:country":"US",
+    "sg:address":"1018 Linden Ct",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/grand-forks/129656-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 9335",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59YpMBNAwVaZ4FuHGpjAUH_47.911745_-97.034182@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297744,
+    "wof:geomhash":"11fa91923eefa74f5918d7c000639dde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873797531
+        }
+    ],
+    "wof:id":873797531,
+    "wof:lastmodified":1464297744,
+    "wof:name":"Subway",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -97.034182,
+    47.911745,
+    -97.034182,
+    47.911745
+],
+  "geometry": {"coordinates":[-97.034182,47.911745],"type":"Point"}
+}

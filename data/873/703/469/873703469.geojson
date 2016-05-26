@@ -1,0 +1,76 @@
+{
+  "id": 873703469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.852218,46.849881,-96.852218,46.849881",
+    "geom:latitude":46.849881,
+    "geom:longitude":-96.852218,
+    "iso:country":"US",
+    "sg:address":"4243 19th Ave SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 277 4831",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "community"
+    ],
+    "sg:website":"www.fmymca.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2j66GLqo19oJT8oLMqzryV_46.849881_-96.852218@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296440,
+    "wof:geomhash":"96b6aee49d304a2db7493e11bc30d1fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873703469
+        }
+    ],
+    "wof:id":873703469,
+    "wof:lastmodified":1464296440,
+    "wof:name":"YMCA",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "community"
+    ]
+},
+  "bbox": [
+    -96.852218,
+    46.849881,
+    -96.852218,
+    46.849881
+],
+  "geometry": {"coordinates":[-96.85221799999999,46.849881],"type":"Point"}
+}

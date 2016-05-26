@@ -1,0 +1,76 @@
+{
+  "id": 873798609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.296033,48.247413,-101.296033,48.247413",
+    "geom:latitude":48.247413,
+    "geom:longitude":-101.296033,
+    "iso:country":"US",
+    "sg:address":"1127 N Broadway",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/minot/167531-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 3612",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102531137,
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eZ9aYJdv5e9rnta6N5OT7_48.247413_-101.296033@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297757,
+    "wof:geomhash":"2c319dc24319feb33c43a068e7e828ef",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531137,
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873798609
+        }
+    ],
+    "wof:id":873798609,
+    "wof:lastmodified":1464297757,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":102531137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -101.296033,
+    48.247413,
+    -101.296033,
+    48.247413
+],
+  "geometry": {"coordinates":[-101.29603299999999,48.247413],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873572407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.062501,47.927418,-97.062501,47.927418",
+    "geom:latitude":47.927418,
+    "geom:longitude":-97.062501,
+    "iso:country":"US",
+    "sg:address":"602 N 25th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 7537",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5f5PDYU31sXx7XKcbzUuwN_47.927418_-97.062501@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294636,
+    "wof:geomhash":"fb5f03e7b7f9438745c234dc87459d4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873572407
+        }
+    ],
+    "wof:id":873572407,
+    "wof:lastmodified":1464294636,
+    "wof:name":"Kilichowski Trucking & Co",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -97.062501,
+    47.927418,
+    -97.062501,
+    47.927418
+],
+  "geometry": {"coordinates":[-97.062501,47.927418],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873674661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.058171,47.899608,-97.058171,47.899608",
+    "geom:latitude":47.899608,
+    "geom:longitude":-97.058171,
+    "iso:country":"US",
+    "sg:address":"2005 S 22nd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 8447",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KPrV67lBIRDIpf2j7SLSJ_47.899608_-97.058171@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295861,
+    "wof:geomhash":"46a47925f5fe982d5efcaaa5d100eec8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873674661
+        }
+    ],
+    "wof:id":873674661,
+    "wof:lastmodified":1464295861,
+    "wof:name":"Red River Rolloff Svc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -97.058171,
+    47.899608,
+    -97.058171,
+    47.899608
+],
+  "geometry": {"coordinates":[-97.058171,47.899608],"type":"Point"}
+}

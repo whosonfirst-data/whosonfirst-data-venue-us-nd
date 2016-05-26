@@ -1,0 +1,71 @@
+{
+  "id": 873572953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.320361,48.241671,-101.320361,48.241671",
+    "geom:latitude":48.241671,
+    "geom:longitude":-101.320361,
+    "iso:country":"US",
+    "sg:address":"412 18th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 9574",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SagHLg0GR6U89RyiTlKeW_48.241671_-101.320361@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294641,
+    "wof:geomhash":"cfdd4c4cf234be533a794630ae7e00af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873572953
+        }
+    ],
+    "wof:id":873572953,
+    "wof:lastmodified":1464294641,
+    "wof:name":"Delia's Oriental Food Store",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -101.320361,
+    48.241671,
+    -101.320361,
+    48.241671
+],
+  "geometry": {"coordinates":[-101.32036100000001,48.241671],"type":"Point"}
+}

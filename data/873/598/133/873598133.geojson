@@ -1,0 +1,73 @@
+{
+  "id": 873598133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.088188,47.896704,-97.088188,47.896704",
+    "geom:latitude":47.896704,
+    "geom:longitude":-97.088188,
+    "iso:country":"US",
+    "sg:address":"4004 24th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 787 7500",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jwFI7ZJhCXaXdVXyVDu01_47.896704_-97.088188@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294960,
+    "wof:geomhash":"b2fe541900b6b9c6aa51ef88f340d360",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873598133
+        }
+    ],
+    "wof:id":873598133,
+    "wof:lastmodified":1464294960,
+    "wof:name":"Woodside Village-Valley Meml",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -97.088188,
+    47.896704,
+    -97.088188,
+    47.896704
+],
+  "geometry": {"coordinates":[-97.088188,47.896704],"type":"Point"}
+}

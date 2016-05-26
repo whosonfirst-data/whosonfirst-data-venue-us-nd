@@ -1,0 +1,71 @@
+{
+  "id": 873674607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.33345,48.428434,-101.33345,48.428434",
+    "geom:latitude":48.428434,
+    "geom:longitude":-101.33345,
+    "iso:country":"US",
+    "sg:address":"110 Gramercy Ct",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 727 9081",
+    "sg:postcode":"58704",
+    "sg:province":"ND",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bVWc4wfdiSqk0It7GoG8E_48.428434_-101.333450@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295860,
+    "wof:geomhash":"068e6abd2eb30a117731d555aacfaa75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873674607
+        }
+    ],
+    "wof:id":873674607,
+    "wof:lastmodified":1464295860,
+    "wof:name":"Sundays Ltd",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -101.33345,
+    48.428434,
+    -101.33345,
+    48.428434
+],
+  "geometry": {"coordinates":[-101.33345,48.428434],"type":"Point"}
+}

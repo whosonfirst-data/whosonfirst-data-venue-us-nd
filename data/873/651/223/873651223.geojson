@@ -1,0 +1,75 @@
+{
+  "id": 873651223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.794334,46.807634,-100.794334,46.807634",
+    "geom:latitude":46.807634,
+    "geom:longitude":-100.794334,
+    "iso:country":"US",
+    "sg:address":"201 N Washington St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 3139",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aWQ3xiRNCYSnORQPwuVlt_46.807634_-100.794334@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295600,
+    "wof:geomhash":"6860a27f8c5288adb4c35a1af933e7fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873651223
+        }
+    ],
+    "wof:id":873651223,
+    "wof:lastmodified":1464295600,
+    "wof:name":"Milady's Beauty Salon",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -100.794334,
+    46.807634,
+    -100.794334,
+    46.807634
+],
+  "geometry": {"coordinates":[-100.79433400000001,46.807634],"type":"Point"}
+}

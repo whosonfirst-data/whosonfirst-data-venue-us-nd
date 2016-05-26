@@ -1,0 +1,56 @@
+{
+  "id": 873651895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.02605,47.28826,-101.02605,47.28826",
+    "geom:latitude":47.28826,
+    "geom:longitude":-101.02605,
+    "iso:country":"US",
+    "sg:address":"305 9th St",
+    "sg:city":"Washburn",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 462 8431",
+    "sg:postcode":"58577",
+    "sg:province":"ND",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xnnrfWFYyiHHTJ3OP1akB_47.288260_-101.026050@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295612,
+    "wof:geomhash":"7dd0d4e9617048c56f383c249674bad5",
+    "wof:hierarchy":[],
+    "wof:id":873651895,
+    "wof:lastmodified":1464295612,
+    "wof:name":"Washburn Ambulance Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -101.02605,
+    47.28826,
+    -101.02605,
+    47.28826
+],
+  "geometry": {"coordinates":[-101.02605,47.28826],"type":"Point"}
+}

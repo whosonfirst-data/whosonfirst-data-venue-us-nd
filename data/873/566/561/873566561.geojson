@@ -1,0 +1,75 @@
+{
+  "id": 873566561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.859412,46.850694,-96.859412,46.850694",
+    "geom:latitude":46.850694,
+    "geom:longitude":-96.859412,
+    "iso:country":"US",
+    "sg:address":"1901 44th St SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 277 4627",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZkmU49lbFnPNnfjffHDdu_46.850694_-96.859412@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294571,
+    "wof:geomhash":"fd6870a52e2d9f4402009df1bcef7ba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873566561
+        }
+    ],
+    "wof:id":873566561,
+    "wof:lastmodified":1464294571,
+    "wof:name":"Main Stay Suites",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -96.859412,
+    46.850694,
+    -96.859412,
+    46.850694
+],
+  "geometry": {"coordinates":[-96.85941200000001,46.850694],"type":"Point"}
+}

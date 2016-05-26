@@ -1,0 +1,66 @@
+{
+  "id": 873610559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.366392,47.952839,-97.366392,47.952839",
+    "geom:latitude":47.952839,
+    "geom:longitude":-97.366392,
+    "iso:country":"US",
+    "sg:address":"1617 Hickam Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 594 8011",
+    "sg:postcode":"58204",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TyJiKK2Ce7xBS9vcHt0D2_47.952839_-97.366392@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295150,
+    "wof:geomhash":"8142c9f66e47bcf1641a586404b91d20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873610559
+        }
+    ],
+    "wof:id":873610559,
+    "wof:lastmodified":1464295150,
+    "wof:name":"Thermal Solutions",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.366392,
+    47.952839,
+    -97.366392,
+    47.952839
+],
+  "geometry": {"coordinates":[-97.366392,47.952839],"type":"Point"}
+}

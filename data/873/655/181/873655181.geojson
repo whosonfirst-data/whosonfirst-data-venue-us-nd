@@ -1,0 +1,66 @@
+{
+  "id": 873655181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.370113,47.918498,-97.370113,47.918498",
+    "geom:latitude":47.918498,
+    "geom:longitude":-97.370113,
+    "iso:country":"US",
+    "sg:address":"109 Main St",
+    "sg:city":"Emerado",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 594 4941",
+    "sg:postcode":"58228",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7N8RfaGpDLSLO93mI4HlbD_47.918498_-97.370113@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295647,
+    "wof:geomhash":"b448115f9642d3a507183a4bf28a894b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873655181
+        }
+    ],
+    "wof:id":873655181,
+    "wof:lastmodified":1464295647,
+    "wof:name":"Johnny's Bar",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.370113,
+    47.918498,
+    -97.370113,
+    47.918498
+],
+  "geometry": {"coordinates":[-97.370113,47.918498],"type":"Point"}
+}

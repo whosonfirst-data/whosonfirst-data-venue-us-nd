@@ -1,0 +1,77 @@
+{
+  "id": 873544247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.817244,46.864975,-96.817244,46.864975",
+    "geom:latitude":46.864975,
+    "geom:longitude":-96.817244,
+    "iso:country":"US",
+    "sg:address":"1001 23rd St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 5664",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "water",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877331,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nMzUHo1eDwUdlypVVVxLd_46.864975_-96.817244@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294309,
+    "wof:geomhash":"a1536b4e9a9bd9a5b291d113385f3278",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877331,
+            "region_id":85688525,
+            "venue_id":873544247
+        }
+    ],
+    "wof:id":873544247,
+    "wof:lastmodified":1464294309,
+    "wof:name":"F-M Water System & Kinetico",
+    "wof:parent_id":85877331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "treatment"
+    ]
+},
+  "bbox": [
+    -96.817244,
+    46.864975,
+    -96.817244,
+    46.864975
+],
+  "geometry": {"coordinates":[-96.817244,46.864975],"type":"Point"}
+}

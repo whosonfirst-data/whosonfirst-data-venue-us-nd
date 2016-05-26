@@ -1,0 +1,78 @@
+{
+  "id": 873792745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.864003,46.854595,-96.864003,46.854595",
+    "geom:latitude":46.854595,
+    "geom:longitude":-96.864003,
+    "iso:country":"US",
+    "sg:address":"4601 17th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 7525",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "material",
+        "rug"
+    ],
+    "sg:website":"http://www.carpetworldfargo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OWSvYCz7KYLN3Pk6nK6Tn_46.854670_-96.863772@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464297687,
+    "wof:geomhash":"af6cbf733d98de89fa17c3199baeab65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873792745
+        }
+    ],
+    "wof:id":873792745,
+    "wof:lastmodified":1464297687,
+    "wof:name":"Carpet World",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material",
+        "rug"
+    ]
+},
+  "bbox": [
+    -96.864003,
+    46.854595,
+    -96.864003,
+    46.854595
+],
+  "geometry": {"coordinates":[-96.864003,46.854595],"type":"Point"}
+}

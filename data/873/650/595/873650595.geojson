@@ -1,0 +1,66 @@
+{
+  "id": 873650595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.436558,48.285993,-101.436558,48.285993",
+    "geom:latitude":48.285993,
+    "geom:longitude":-101.436558,
+    "iso:country":"US",
+    "sg:address":"9120 Project Rd S",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 5217",
+    "sg:postcode":"58722",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jp3zLYI337y9DnrXl9eBd_48.285993_-101.436558@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295594,
+    "wof:geomhash":"15e0f70df0d56a37750cdab1be4c3fb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873650595
+        }
+    ],
+    "wof:id":873650595,
+    "wof:lastmodified":1464295594,
+    "wof:name":"Des Lacs Valley Nursery",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.436558,
+    48.285993,
+    -101.436558,
+    48.285993
+],
+  "geometry": {"coordinates":[-101.43655800000001,48.285993],"type":"Point"}
+}

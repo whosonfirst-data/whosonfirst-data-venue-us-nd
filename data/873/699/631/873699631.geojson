@@ -1,0 +1,66 @@
+{
+  "id": 873699631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.042823,47.889492,-97.042823,47.889492",
+    "geom:latitude":47.889492,
+    "geom:longitude":-97.042823,
+    "iso:country":"US",
+    "sg:address":"3109 Legend Ln",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 5022",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5H11B2bOIrkD4IuyPYkPPR_47.889492_-97.042823@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296401,
+    "wof:geomhash":"378cfbfd705a15b56071fd4a43f3d810",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873699631
+        }
+    ],
+    "wof:id":873699631,
+    "wof:lastmodified":1464296401,
+    "wof:name":"Buyers Realty",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.042823,
+    47.889492,
+    -97.042823,
+    47.889492
+],
+  "geometry": {"coordinates":[-97.042823,47.889492],"type":"Point"}
+}

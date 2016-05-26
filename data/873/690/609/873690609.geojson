@@ -1,0 +1,75 @@
+{
+  "id": 873690609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.754399,46.808267,-100.754399,46.808267",
+    "geom:latitude":46.808267,
+    "geom:longitude":-100.754399,
+    "iso:country":"US",
+    "sg:address":"2420 E Rosser Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 4833",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7d2T6YcqH2Mt0G5YhqZsMY_46.808267_-100.754399@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296289,
+    "wof:geomhash":"8c8c2c562631d4f6ee3d86f4c3f5a82f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873690609
+        }
+    ],
+    "wof:id":873690609,
+    "wof:lastmodified":1464296289,
+    "wof:name":"Capitol Chem-Dry",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -100.754399,
+    46.808267,
+    -100.754399,
+    46.808267
+],
+  "geometry": {"coordinates":[-100.75439900000001,46.808267],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873538013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.043161,47.93231,-97.043161,47.93231",
+    "geom:latitude":47.93231,
+    "geom:longitude":-97.043161,
+    "iso:country":"US",
+    "sg:address":"921 N 3rd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 6463",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "fire",
+        "extinguisher"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XDPe58y7c5OwFb3uGTNPD_47.932310_-97.043161@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294239,
+    "wof:geomhash":"ade1e71579cff0ea85f231328428d8d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873538013
+        }
+    ],
+    "wof:id":873538013,
+    "wof:lastmodified":1464294239,
+    "wof:name":"Grand Forks Fire Equipment",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "extinguisher"
+    ]
+},
+  "bbox": [
+    -97.043161,
+    47.93231,
+    -97.043161,
+    47.93231
+],
+  "geometry": {"coordinates":[-97.043161,47.93231],"type":"Point"}
+}

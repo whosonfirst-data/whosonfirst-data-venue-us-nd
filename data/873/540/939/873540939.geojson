@@ -1,0 +1,73 @@
+{
+  "id": 873540939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.035629,47.914301,-97.035629,47.914301",
+    "geom:latitude":47.914301,
+    "geom:longitude":-97.035629,
+    "iso:country":"US",
+    "sg:address":"721 Cherry St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Railroad",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 9477",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "operator",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XggOBtAWF998dbzsZa2pX_47.914301_-97.035629@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294269,
+    "wof:geomhash":"74134ef4602d442ca073b1f5f5fe0890",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873540939
+        }
+    ],
+    "wof:id":873540939,
+    "wof:lastmodified":1464294269,
+    "wof:name":"RR Johnson Construction",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "line"
+    ]
+},
+  "bbox": [
+    -97.035629,
+    47.914301,
+    -97.035629,
+    47.914301
+],
+  "geometry": {"coordinates":[-97.035629,47.914301],"type":"Point"}
+}

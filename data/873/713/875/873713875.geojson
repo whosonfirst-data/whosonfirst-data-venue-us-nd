@@ -1,0 +1,82 @@
+{
+  "id": 873713875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.859267,46.861675,-96.859267,46.861675",
+    "geom:latitude":46.861675,
+    "geom:longitude":-96.859267,
+    "iso:country":"US",
+    "sg:address":"4352 13th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 277 1402",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jTfHLEZ05RNZnxQ16pBG1_46.861675_-96.859267@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296566,
+    "wof:geomhash":"1b7fe16148fcc99262f372932412a062",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873713875
+        }
+    ],
+    "wof:id":873713875,
+    "wof:lastmodified":1464296566,
+    "wof:name":"O K Tire Store Inc",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -96.859267,
+    46.861675,
+    -96.859267,
+    46.861675
+],
+  "geometry": {"coordinates":[-96.859267,46.861675],"type":"Point"}
+}

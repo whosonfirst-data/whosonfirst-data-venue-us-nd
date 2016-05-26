@@ -1,0 +1,71 @@
+{
+  "id": 873713589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.768928,46.790982,-100.768928,46.790982",
+    "geom:latitude":46.790982,
+    "geom:longitude":-100.768928,
+    "iso:country":"US",
+    "sg:address":"132 Maryland St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 224 9679",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aG1fOehQOqmG90qxlmcBg_46.790982_-100.768928@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296563,
+    "wof:geomhash":"c2e40091ad24e9882b01ee0e44747ec2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873713589
+        }
+    ],
+    "wof:id":873713589,
+    "wof:lastmodified":1464296563,
+    "wof:name":"Harlyn Repair",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -100.768928,
+    46.790982,
+    -100.768928,
+    46.790982
+],
+  "geometry": {"coordinates":[-100.768928,46.790982],"type":"Point"}
+}

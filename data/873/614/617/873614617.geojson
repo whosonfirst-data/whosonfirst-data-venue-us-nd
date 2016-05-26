@@ -1,0 +1,74 @@
+{
+  "id": 873614617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.037003,47.924886,-97.037003,47.924886",
+    "geom:latitude":47.924886,
+    "geom:longitude":-97.037003,
+    "iso:country":"US",
+    "sg:address":"505 University Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 1417",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "sg:website":"www.clearchannel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tfyPe50k4ZsVgt8K3KAMu_47.924886_-97.037003@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295191,
+    "wof:geomhash":"2cf0c765801430ac1ca63ecb583e0817",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873614617
+        }
+    ],
+    "wof:id":873614617,
+    "wof:lastmodified":1464295191,
+    "wof:name":"Clear Channel Radio",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -97.037003,
+    47.924886,
+    -97.037003,
+    47.924886
+],
+  "geometry": {"coordinates":[-97.037003,47.924886],"type":"Point"}
+}

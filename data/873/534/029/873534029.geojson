@@ -1,0 +1,73 @@
+{
+  "id": 873534029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-98.001371,45.935911,-98.001371,45.935911",
+    "geom:latitude":45.935911,
+    "geom:longitude":-98.001371,
+    "iso:country":"US",
+    "sg:address":"11451 102nd St SE",
+    "sg:city":"Hecla",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 994 2425",
+    "sg:postcode":"58017",
+    "sg:province":"ND",
+    "sg:tags":[
+        "animal",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hxRzsMRGTJ6wOrrKwOw0r_45.935911_-98.001371@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294189,
+    "wof:geomhash":"e2128d7b4069aa31ac0dd2ef98562262",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":873534029
+        }
+    ],
+    "wof:id":873534029,
+    "wof:lastmodified":1464294189,
+    "wof:name":"Claeys Farming",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "animal",
+        "general"
+    ]
+},
+  "bbox": [
+    -98.001371,
+    45.935911,
+    -98.001371,
+    45.935911
+],
+  "geometry": {"coordinates":[-98.00137100000001,45.935911],"type":"Point"}
+}

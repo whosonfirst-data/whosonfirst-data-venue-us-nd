@@ -1,0 +1,88 @@
+{
+  "id": 873806059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.785067,46.801897,-100.785067,46.801897",
+    "geom:latitude":46.801897,
+    "geom:longitude":-100.785067,
+    "iso:country":"US",
+    "sg:address":"706 Kirkwood Mall Space 342",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 224 0049",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shop",
+        "american",
+        "sandwich",
+        "take"
+    ],
+    "sg:website":"http://www.subway.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Px8PM3EDfv9YAPgMqMx9m_46.801897_-100.785067@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297852,
+    "wof:geomhash":"f3eaee3958348c5c7739874a492c2bc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873806059
+        }
+    ],
+    "wof:id":873806059,
+    "wof:lastmodified":1464297852,
+    "wof:name":"Subway",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "american",
+        "sandwich",
+        "take"
+    ]
+},
+  "bbox": [
+    -100.785067,
+    46.801897,
+    -100.785067,
+    46.801897
+],
+  "geometry": {"coordinates":[-100.785067,46.801897],"type":"Point"}
+}

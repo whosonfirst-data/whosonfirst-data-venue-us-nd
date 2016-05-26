@@ -1,0 +1,71 @@
+{
+  "id": 873645127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.091386,47.932415,-97.091386,47.932415",
+    "geom:latitude":47.932415,
+    "geom:longitude":-97.091386,
+    "iso:country":"US",
+    "sg:address":"1210 N 43rd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Arcade",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 6998",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "casino"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gaBowQLLURhTW1aA4tjCn_47.932415_-97.091386@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295537,
+    "wof:geomhash":"c1c38a4eace18e69a855f6a32fbb0332",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873645127
+        }
+    ],
+    "wof:id":873645127,
+    "wof:lastmodified":1464295537,
+    "wof:name":"Cvb",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "casino"
+    ]
+},
+  "bbox": [
+    -97.091386,
+    47.932415,
+    -97.091386,
+    47.932415
+],
+  "geometry": {"coordinates":[-97.091386,47.932415],"type":"Point"}
+}

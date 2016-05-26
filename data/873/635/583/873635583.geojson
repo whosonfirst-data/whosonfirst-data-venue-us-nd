@@ -1,0 +1,87 @@
+{
+  "id": 873635583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.8013,46.829051,-96.8013,46.829051",
+    "geom:latitude":46.829051,
+    "geom:longitude":-96.8013,
+    "iso:country":"US",
+    "sg:address":"3331 S University Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 3695",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "a",
+        "sales",
+        "also",
+        "visual",
+        "provides",
+        "audio",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534487,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ywbWP8fAOCXlYhQpEDTEl_46.829051_-96.801300@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295428,
+    "wof:geomhash":"490ae91c7c0ca726881d77fdd6f5417a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534487,
+            "region_id":85688525,
+            "venue_id":873635583
+        }
+    ],
+    "wof:id":873635583,
+    "wof:lastmodified":1464295428,
+    "wof:name":"HB Sound & Light",
+    "wof:parent_id":420534487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "a",
+        "sales",
+        "also",
+        "visual",
+        "provides",
+        "audio",
+        "rental"
+    ]
+},
+  "bbox": [
+    -96.8013,
+    46.829051,
+    -96.8013,
+    46.829051
+],
+  "geometry": {"coordinates":[-96.8013,46.829051],"type":"Point"}
+}

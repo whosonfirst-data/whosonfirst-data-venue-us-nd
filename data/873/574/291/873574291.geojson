@@ -1,0 +1,73 @@
+{
+  "id": 873574291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.307539,48.243963,-101.307539,48.243963",
+    "geom:latitude":48.243963,
+    "geom:longitude":-101.307539,
+    "iso:country":"US",
+    "sg:address":"710 9th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 837 1970",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FZxwokSrKE7LLsCwCGg14_48.243963_-101.307539@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294656,
+    "wof:geomhash":"c069edbdf74bc623858a5caedb5d0475",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873574291
+        }
+    ],
+    "wof:id":873574291,
+    "wof:lastmodified":1464294656,
+    "wof:name":"Conklin Roofing & Systems",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.307539,
+    48.243963,
+    -101.307539,
+    48.243963
+],
+  "geometry": {"coordinates":[-101.30753900000001,48.243963],"type":"Point"}
+}

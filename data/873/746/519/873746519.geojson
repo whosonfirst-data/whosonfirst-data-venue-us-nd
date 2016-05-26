@@ -1,0 +1,71 @@
+{
+  "id": 873746519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.051191,47.910258,-97.051191,47.910258",
+    "geom:latitude":47.910258,
+    "geom:longitude":-97.051191,
+    "iso:country":"US",
+    "sg:address":"1106 S 17th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 335 2442",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TIbI8RovKZ8ce4pVs6nY0_47.910258_-97.051191@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297032,
+    "wof:geomhash":"ecc5767248235f4531df606d440c00e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873746519
+        }
+    ],
+    "wof:id":873746519,
+    "wof:lastmodified":1464297032,
+    "wof:name":"Faith Community Church",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -97.051191,
+    47.910258,
+    -97.051191,
+    47.910258
+],
+  "geometry": {"coordinates":[-97.051191,47.910258],"type":"Point"}
+}

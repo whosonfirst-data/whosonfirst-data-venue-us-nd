@@ -1,0 +1,71 @@
+{
+  "id": 873619297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.754291,46.80619,-100.754291,46.80619",
+    "geom:latitude":46.80619,
+    "geom:longitude":-100.754291,
+    "iso:country":"US",
+    "sg:address":"2404 E Broadway Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 221 9000",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "telemarketing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ysc4WfV9R5SfdAhL5XGC0_46.806190_-100.754291@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295243,
+    "wof:geomhash":"10cb57ba2fb51dbaff50bb3b9cfcd9ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873619297
+        }
+    ],
+    "wof:id":873619297,
+    "wof:lastmodified":1464295243,
+    "wof:name":"Contact America Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telemarketing"
+    ]
+},
+  "bbox": [
+    -100.754291,
+    46.80619,
+    -100.754291,
+    46.80619
+],
+  "geometry": {"coordinates":[-100.75429099999999,46.80619],"type":"Point"}
+}

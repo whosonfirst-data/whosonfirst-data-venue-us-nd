@@ -1,0 +1,73 @@
+{
+  "id": 873619797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.697311,46.760779,-100.697311,46.760779",
+    "geom:latitude":46.760779,
+    "geom:longitude":-100.697311,
+    "iso:country":"US",
+    "sg:address":"74 Benteen Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 3413",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jPmOKWv17V9hzVK43gumA_46.760779_-100.697311@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295248,
+    "wof:geomhash":"8ca543892da9b7fae638c25079934514",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873619797
+        }
+    ],
+    "wof:id":873619797,
+    "wof:lastmodified":1464295248,
+    "wof:name":"J T Fire",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "establishment"
+    ]
+},
+  "bbox": [
+    -100.697311,
+    46.760779,
+    -100.697311,
+    46.760779
+],
+  "geometry": {"coordinates":[-100.697311,46.760779],"type":"Point"}
+}

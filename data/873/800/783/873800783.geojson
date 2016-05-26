@@ -1,0 +1,88 @@
+{
+  "id": 873800783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.789349,46.89275,-96.789349,46.89275",
+    "geom:latitude":46.89275,
+    "geom:longitude":-96.789349,
+    "iso:country":"US",
+    "sg:address":"705 13th Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 364 0579",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "apartment",
+        "vacancy",
+        "listing",
+        "rental",
+        "finder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534483,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3d3EPoPjXT19xzFaypTpyx_46.892750_-96.789349@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297782,
+    "wof:geomhash":"4c815973da091feb4d66658d8e22ad3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534483,
+            "region_id":85688525,
+            "venue_id":873800783
+        }
+    ],
+    "wof:id":873800783,
+    "wof:lastmodified":1464297782,
+    "wof:name":"Highpointe",
+    "wof:parent_id":420534483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment",
+        "vacancy",
+        "listing",
+        "rental",
+        "finder"
+    ]
+},
+  "bbox": [
+    -96.789349,
+    46.89275,
+    -96.789349,
+    46.89275
+],
+  "geometry": {"coordinates":[-96.789349,46.89275],"type":"Point"}
+}

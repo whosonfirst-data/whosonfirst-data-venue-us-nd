@@ -1,0 +1,81 @@
+{
+  "id": 873699483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.851139,46.890617,-96.851139,46.890617",
+    "geom:latitude":46.890617,
+    "geom:longitude":-96.851139,
+    "iso:country":"US",
+    "sg:address":"1240 41st St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 9552",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "operator",
+        "local",
+        "system",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gqpLCa0tEKH7ujNaI59Ds_46.890617_-96.851139@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296399,
+    "wof:geomhash":"234eef9808bf5de86bdd882c5e7e7b89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873699483
+        }
+    ],
+    "wof:id":873699483,
+    "wof:lastmodified":1464296399,
+    "wof:name":"Waste Management",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "system",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.851139,
+    46.890617,
+    -96.851139,
+    46.890617
+],
+  "geometry": {"coordinates":[-96.851139,46.890617],"type":"Point"}
+}

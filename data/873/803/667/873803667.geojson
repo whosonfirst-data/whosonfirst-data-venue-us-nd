@@ -1,0 +1,78 @@
+{
+  "id": 873803667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.862007,46.858311,-96.862007,46.858311",
+    "geom:latitude":46.858311,
+    "geom:longitude":-96.862007,
+    "iso:country":"US",
+    "sg:address":"4501 15th Ave S Ste 102",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 281 4850",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "opportunity",
+        "contractor"
+    ],
+    "sg:website":"http://www.kellyservices.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ew4aRMTACGaC9vBAr5Yk4_46.858311_-96.862007@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297817,
+    "wof:geomhash":"f8c68436a0e21ad9c51524e62b7a144d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873803667
+        }
+    ],
+    "wof:id":873803667,
+    "wof:lastmodified":1464297817,
+    "wof:name":"Kelly Services",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "opportunity",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.862007,
+    46.858311,
+    -96.862007,
+    46.858311
+],
+  "geometry": {"coordinates":[-96.86200700000001,46.858311],"type":"Point"}
+}

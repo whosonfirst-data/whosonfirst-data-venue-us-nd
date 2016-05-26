@@ -1,0 +1,75 @@
+{
+  "id": 873699385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.787725,46.886587,-96.787725,46.886587",
+    "geom:latitude":46.886587,
+    "geom:longitude":-96.787725,
+    "iso:country":"US",
+    "sg:address":"917 Broadway",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 0020",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534465,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VczS7lGiz8JdiqDQrudOa_46.886587_-96.787725@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296398,
+    "wof:geomhash":"a4cba255c239d737f3ab4c7a542237e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534465,
+            "region_id":85688525,
+            "venue_id":873699385
+        }
+    ],
+    "wof:id":873699385,
+    "wof:lastmodified":1464296398,
+    "wof:name":"Vital Blnce Accpressure Clinic",
+    "wof:parent_id":420534465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -96.787725,
+    46.886587,
+    -96.787725,
+    46.886587
+],
+  "geometry": {"coordinates":[-96.78772499999999,46.886587],"type":"Point"}
+}

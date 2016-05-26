@@ -1,0 +1,81 @@
+{
+  "id": 873806109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.761506,46.791988,-100.761506,46.791988",
+    "geom:latitude":46.791988,
+    "geom:longitude":-100.761506,
+    "iso:country":"US",
+    "sg:address":"2121 Lee Ave Unit B",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 9728",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automobile",
+        "part",
+        "truck"
+    ],
+    "sg:website":"http://clickserve.dartsearch.net/link/click?lid=43000000313868976&ds_s_kwgid=58000000006820725&ds_e_matchtype={MatchType}&ds_e_kwdid={OrderItemId}&ds_e_adid={AdId}&ds_url_v=2",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QqCiwJ02O6r6MxQDg44Xt_46.791988_-100.761506@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297853,
+    "wof:geomhash":"fe933be2371fa3b9207ad86d1e217b5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873806109
+        }
+    ],
+    "wof:id":873806109,
+    "wof:lastmodified":1464297853,
+    "wof:name":"Auto Therapy",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "part",
+        "truck"
+    ]
+},
+  "bbox": [
+    -100.761506,
+    46.791988,
+    -100.761506,
+    46.791988
+],
+  "geometry": {"coordinates":[-100.761506,46.791988],"type":"Point"}
+}

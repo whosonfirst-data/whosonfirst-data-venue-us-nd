@@ -1,0 +1,71 @@
+{
+  "id": 873636011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.08151,47.88938,-97.08151,47.88938",
+    "geom:latitude":47.88938,
+    "geom:longitude":-97.08151,
+    "iso:country":"US",
+    "sg:address":"3751 32nd Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 2784",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XG3My0A96v4R60SDHlERa_47.889380_-97.081510@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295432,
+    "wof:geomhash":"74db1450e92e99fa67e75fd2db2fcce1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873636011
+        }
+    ],
+    "wof:id":873636011,
+    "wof:lastmodified":1464295432,
+    "wof:name":"Geek Squad Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -97.08151,
+    47.88938,
+    -97.08151,
+    47.88938
+],
+  "geometry": {"coordinates":[-97.08150999999999,47.88938],"type":"Point"}
+}

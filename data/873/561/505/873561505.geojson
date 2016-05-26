@@ -1,0 +1,71 @@
+{
+  "id": 873561505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.457705,48.341215,-101.457705,48.341215",
+    "geom:latitude":48.341215,
+    "geom:longitude":-101.457705,
+    "iso:country":"US",
+    "sg:address":"10311 Co Rd 15 W",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 725 4485",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LVhv623C4xrOzIruJYA9h_48.341215_-101.457705@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294515,
+    "wof:geomhash":"ae185144eb2fa1f8348363be7b96e31e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873561505
+        }
+    ],
+    "wof:id":873561505,
+    "wof:lastmodified":1464294515,
+    "wof:name":"Dakota Valley Tree Farms",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -101.457705,
+    48.341215,
+    -101.457705,
+    48.341215
+],
+  "geometry": {"coordinates":[-101.457705,48.341215],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873640875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.794913,46.755245,-100.794913,46.755245",
+    "geom:latitude":46.755245,
+    "geom:longitude":-100.794913,
+    "iso:country":"US",
+    "sg:address":"4420 S Washington St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 224 9417",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5l3U6sH2UIviMmmEHl0g9e_46.755245_-100.794913@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295486,
+    "wof:geomhash":"04625ad16adfcb46f6613ff157811f7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873640875
+        }
+    ],
+    "wof:id":873640875,
+    "wof:lastmodified":1464295486,
+    "wof:name":"Pets Plants Plus Sitting Servi",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -100.794913,
+    46.755245,
+    -100.794913,
+    46.755245
+],
+  "geometry": {"coordinates":[-100.79491299999999,46.755245],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873560537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.903142,46.78337,-96.903142,46.78337",
+    "geom:latitude":46.78337,
+    "geom:longitude":-96.903142,
+    "iso:country":"US",
+    "sg:address":"6823 Co Rd 17",
+    "sg:city":"Harwood",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 7071",
+    "sg:postcode":"58042",
+    "sg:province":"ND",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28PiyQ233M36AMdpt4ROhk_46.783370_-96.903142@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294506,
+    "wof:geomhash":"7ae9260d911d6a4191ef079248452ffc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873560537
+        }
+    ],
+    "wof:id":873560537,
+    "wof:lastmodified":1464294506,
+    "wof:name":"Lindemann Concrete Constr",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.903142,
+    46.78337,
+    -96.903142,
+    46.78337
+],
+  "geometry": {"coordinates":[-96.903142,46.78337],"type":"Point"}
+}

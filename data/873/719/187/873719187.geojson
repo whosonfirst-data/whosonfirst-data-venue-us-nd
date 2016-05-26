@@ -1,0 +1,77 @@
+{
+  "id": 873719187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.297237,48.23548,-101.297237,48.23548",
+    "geom:latitude":48.23548,
+    "geom:longitude":-101.297237,
+    "iso:country":"US",
+    "sg:address":"18 Summit Dr",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 723 3731",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "club",
+        "force",
+        "officer",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EbpsyKFJnaM1my82k5cuv_48.235480_-101.297237@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296634,
+    "wof:geomhash":"89e293251baa6a4f7e56e4f773414a92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873719187
+        }
+    ],
+    "wof:id":873719187,
+    "wof:lastmodified":1464296634,
+    "wof:name":"Jimmy Doolittle Center",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "force",
+        "officer",
+        "air"
+    ]
+},
+  "bbox": [
+    -101.297237,
+    48.23548,
+    -101.297237,
+    48.23548
+],
+  "geometry": {"coordinates":[-101.297237,48.23548],"type":"Point"}
+}

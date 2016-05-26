@@ -1,0 +1,71 @@
+{
+  "id": 873583163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.316351,48.240929,-101.316351,48.240929",
+    "geom:latitude":48.240929,
+    "geom:longitude":-101.316351,
+    "iso:country":"US",
+    "sg:address":"1513 Wildwood Ave",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 7890",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0r2QU5htrv2p5e2yFYXQR3_48.240929_-101.316351@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294753,
+    "wof:geomhash":"124fabe05d1607e4f68004f825d5c8a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873583163
+        }
+    ],
+    "wof:id":873583163,
+    "wof:lastmodified":1464294753,
+    "wof:name":"Glamor Nails",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -101.316351,
+    48.240929,
+    -101.316351,
+    48.240929
+],
+  "geometry": {"coordinates":[-101.316351,48.240929],"type":"Point"}
+}

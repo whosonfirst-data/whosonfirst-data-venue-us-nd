@@ -1,0 +1,75 @@
+{
+  "id": 873768435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.300498,48.421345,-101.300498,48.421345",
+    "geom:latitude":48.421345,
+    "geom:longitude":-101.300498,
+    "iso:country":"US",
+    "sg:address":"140 Winding Way",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 833 5322",
+    "sg:postcode":"58704",
+    "sg:province":"ND",
+    "sg:tags":[
+        "pet",
+        "food",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FkTlNLIyloFRacyIU7qHB_48.421345_-101.300498@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297343,
+    "wof:geomhash":"24efd3a2d6df3a563948a182577430ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873768435
+        }
+    ],
+    "wof:id":873768435,
+    "wof:lastmodified":1464297343,
+    "wof:name":"Cujo's Corner",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "food",
+        "supply"
+    ]
+},
+  "bbox": [
+    -101.300498,
+    48.421345,
+    -101.300498,
+    48.421345
+],
+  "geometry": {"coordinates":[-101.300498,48.421345],"type":"Point"}
+}

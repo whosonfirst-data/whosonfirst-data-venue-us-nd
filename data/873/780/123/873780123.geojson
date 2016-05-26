@@ -1,0 +1,73 @@
+{
+  "id": 873780123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.017787,46.648523,-97.017787,46.648523",
+    "geom:latitude":46.648523,
+    "geom:longitude":-97.017787,
+    "iso:country":"US",
+    "sg:address":"490 Elm St",
+    "sg:city":"Kindred",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 428 9114",
+    "sg:postcode":"58051",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aCSVEGZ2BL4HuxwZOSjHI_46.648523_-97.017787@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297494,
+    "wof:geomhash":"a43d0213b2dea102fd7e3c48db998645",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873780123
+        }
+    ],
+    "wof:id":873780123,
+    "wof:lastmodified":1464297494,
+    "wof:name":"Pete's Automotive",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -97.017787,
+    46.648523,
+    -97.017787,
+    46.648523
+],
+  "geometry": {"coordinates":[-97.017787,46.648523],"type":"Point"}
+}

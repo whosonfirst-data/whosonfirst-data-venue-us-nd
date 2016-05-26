@@ -1,0 +1,75 @@
+{
+  "id": 873611931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.733878,46.809299,-100.733878,46.809299",
+    "geom:latitude":46.809299,
+    "geom:longitude":-100.733878,
+    "iso:country":"US",
+    "sg:address":"3750 E Rosser Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 6576",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "bus",
+        "line",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kqAivzh8JeC0sCrt3ZxCP_46.809299_-100.733878@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295166,
+    "wof:geomhash":"4cf3f1072f7d40c08841c0906e5e29d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873611931
+        }
+    ],
+    "wof:id":873611931,
+    "wof:lastmodified":1464295166,
+    "wof:name":"Greyhound Bus Lines",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line",
+        "facility"
+    ]
+},
+  "bbox": [
+    -100.733878,
+    46.809299,
+    -100.733878,
+    46.809299
+],
+  "geometry": {"coordinates":[-100.733878,46.809299],"type":"Point"}
+}

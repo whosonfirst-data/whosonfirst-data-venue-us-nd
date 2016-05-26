@@ -1,0 +1,71 @@
+{
+  "id": 873575035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.709152,46.870869,-100.709152,46.870869",
+    "geom:latitude":46.870869,
+    "geom:longitude":-100.709152,
+    "iso:country":"US",
+    "sg:address":"6200 52nd St NE",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 2831",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KQzcYrX4HXlYIAcRY40az_46.870869_-100.709152@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294664,
+    "wof:geomhash":"eb57800e1e5e71de91c41fb9425f25cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873575035
+        }
+    ],
+    "wof:id":873575035,
+    "wof:lastmodified":1464294664,
+    "wof:name":"Tnk Dakota Paint Ranch",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equine"
+    ]
+},
+  "bbox": [
+    -100.709152,
+    46.870869,
+    -100.709152,
+    46.870869
+],
+  "geometry": {"coordinates":[-100.709152,46.870869],"type":"Point"}
+}

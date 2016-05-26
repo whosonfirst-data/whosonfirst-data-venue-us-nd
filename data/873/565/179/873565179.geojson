@@ -1,0 +1,73 @@
+{
+  "id": 873565179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.314443,48.422428,-101.314443,48.422428",
+    "geom:latitude":48.422428,
+    "geom:longitude":-101.314443,
+    "iso:country":"US",
+    "sg:address":"156 Sirocco Dr",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 727 4255",
+    "sg:postcode":"58704",
+    "sg:province":"ND",
+    "sg:tags":[
+        "piece",
+        "floris"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rLjR34oyYrdiOkP2JceXL_48.422428_-101.314443@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294557,
+    "wof:geomhash":"efb575c8f8c4e51cf18f5bcf2780020a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873565179
+        }
+    ],
+    "wof:id":873565179,
+    "wof:lastmodified":1464294557,
+    "wof:name":"Shoestring Events & Silk Flowe",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "piece",
+        "floris"
+    ]
+},
+  "bbox": [
+    -101.314443,
+    48.422428,
+    -101.314443,
+    48.422428
+],
+  "geometry": {"coordinates":[-101.314443,48.422428],"type":"Point"}
+}

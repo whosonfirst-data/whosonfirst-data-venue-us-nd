@@ -1,0 +1,66 @@
+{
+  "id": 873653845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.626949,47.906517,-97.626949,47.906517",
+    "geom:latitude":47.906517,
+    "geom:longitude":-97.626949,
+    "iso:country":"US",
+    "sg:address":"320 Booth Ave",
+    "sg:city":"Larimore",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 343 6496",
+    "sg:postcode":"58251",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3x7DipOdg8prMt2mUnQ7GC_47.906517_-97.626949@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295634,
+    "wof:geomhash":"b1070ff7847ee4e2348bf74193dcfd13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873653845
+        }
+    ],
+    "wof:id":873653845,
+    "wof:lastmodified":1464295634,
+    "wof:name":"Byrd & Byrd",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.626949,
+    47.906517,
+    -97.626949,
+    47.906517
+],
+  "geometry": {"coordinates":[-97.626949,47.906517],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873622387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.045098,47.910397,-97.045098,47.910397",
+    "geom:latitude":47.910397,
+    "geom:longitude":-97.045098,
+    "iso:country":"US",
+    "sg:address":"1120 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 9892",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hNQf0TO0tTWb4wa7lq98g_47.910397_-97.045098@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295275,
+    "wof:geomhash":"d0fb5cc788c8f48b9211d0568491c84d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873622387
+        }
+    ],
+    "wof:id":873622387,
+    "wof:lastmodified":1464295275,
+    "wof:name":"Mark's Quick-Stop",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -97.045098,
+    47.910397,
+    -97.045098,
+    47.910397
+],
+  "geometry": {"coordinates":[-97.045098,47.910397],"type":"Point"}
+}

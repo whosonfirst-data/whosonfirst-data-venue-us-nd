@@ -1,0 +1,73 @@
+{
+  "id": 873620833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.044946,47.911271,-97.044946,47.911271",
+    "geom:latitude":47.911271,
+    "geom:longitude":-97.044946,
+    "iso:country":"US",
+    "sg:address":"1005 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 1109",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "leasing",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VjzcBUARRJIf88V17LruB_47.911271_-97.044946@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295259,
+    "wof:geomhash":"4de7a91bf606fc917c6c6347d092500d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873620833
+        }
+    ],
+    "wof:id":873620833,
+    "wof:lastmodified":1464295259,
+    "wof:name":"Appliance & Furniture Rentall",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -97.044946,
+    47.911271,
+    -97.044946,
+    47.911271
+],
+  "geometry": {"coordinates":[-97.044946,47.911271],"type":"Point"}
+}

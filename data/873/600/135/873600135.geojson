@@ -1,0 +1,71 @@
+{
+  "id": 873600135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.305029,48.240089,-101.305029,48.240089",
+    "geom:latitude":48.240089,
+    "geom:longitude":-101.305029,
+    "iso:country":"US",
+    "sg:address":"720 4th Ave NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 2822",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "publisher"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SuowzkqLc1hR24yD8VMD3_48.240089_-101.305029@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294988,
+    "wof:geomhash":"05b3b5c9cb419be191c96f85f0e3b4af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873600135
+        }
+    ],
+    "wof:id":873600135,
+    "wof:lastmodified":1464294988,
+    "wof:name":"Compleat Mother Magazine",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "publisher"
+    ]
+},
+  "bbox": [
+    -101.305029,
+    48.240089,
+    -101.305029,
+    48.240089
+],
+  "geometry": {"coordinates":[-101.305029,48.240089],"type":"Point"}
+}

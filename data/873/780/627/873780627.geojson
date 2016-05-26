@@ -1,0 +1,78 @@
+{
+  "id": 873780627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.066697,47.895559,-97.066697,47.895559",
+    "geom:latitude":47.895559,
+    "geom:longitude":-97.066697,
+    "iso:country":"US",
+    "sg:address":"2500 S Columbia Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 1451",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shop",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BdfFkAwVT0kFCkzPOBTc3_47.895559_-97.066697@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297500,
+    "wof:geomhash":"9248de3d73b3fc9f158c1ec8dabc2256",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873780627
+        }
+    ],
+    "wof:id":873780627,
+    "wof:lastmodified":1464297500,
+    "wof:name":"Salon 1020",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -97.066697,
+    47.895559,
+    -97.066697,
+    47.895559
+],
+  "geometry": {"coordinates":[-97.066697,47.895559],"type":"Point"}
+}

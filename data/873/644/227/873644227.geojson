@@ -1,0 +1,71 @@
+{
+  "id": 873644227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.756853,46.825998,-100.756853,46.825998",
+    "geom:latitude":46.825998,
+    "geom:longitude":-100.756853,
+    "iso:country":"US",
+    "sg:address":"2235 Coolidge Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 8400",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "field"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eXVjJwSUJ8VZ6mG27dO0z_46.825998_-100.756853@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295527,
+    "wof:geomhash":"b323b589838a01e72108b214e5410f92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873644227
+        }
+    ],
+    "wof:id":873644227,
+    "wof:lastmodified":1464295527,
+    "wof:name":"W L Braun",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field"
+    ]
+},
+  "bbox": [
+    -100.756853,
+    46.825998,
+    -100.756853,
+    46.825998
+],
+  "geometry": {"coordinates":[-100.75685300000001,46.825998],"type":"Point"}
+}

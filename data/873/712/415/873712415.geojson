@@ -1,0 +1,77 @@
+{
+  "id": 873712415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-102.781364,46.877113,-102.781364,46.877113",
+    "geom:latitude":46.877113,
+    "geom:longitude":-102.781364,
+    "iso:country":"US",
+    "sg:address":"664 E Broadway St",
+    "sg:city":"Dickinson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 225 0886",
+    "sg:postcode":"58601",
+    "sg:province":"ND",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877119,
+        102191575,
+        404482179,
+        85633793,
+        85982521,
+        102082105,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40nZKIgQVynZXFI0fN0Gpb_46.877113_-102.781364@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296549,
+    "wof:geomhash":"34730f5baecf48392b21695c5633600a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082105,
+            "localadmin_id":404482179,
+            "locality_id":85982521,
+            "neighbourhood_id":85877119,
+            "region_id":85688525,
+            "venue_id":873712415
+        }
+    ],
+    "wof:id":873712415,
+    "wof:lastmodified":1464296549,
+    "wof:name":"Perry Roofing & Contracting",
+    "wof:parent_id":85877119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -102.781364,
+    46.877113,
+    -102.781364,
+    46.877113
+],
+  "geometry": {"coordinates":[-102.781364,46.877113],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873760237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.046663,47.905191,-97.046663,47.905191",
+    "geom:latitude":47.905191,
+    "geom:longitude":-97.046663,
+    "iso:country":"US",
+    "sg:address":"1624 S 14th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 8477",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "downspouts",
+        "gutter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hgHKiwZPIDvpOuqYYuHd3_47.905191_-97.046663@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297209,
+    "wof:geomhash":"67867372eb2ebdc6e843631971bd5b52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873760237
+        }
+    ],
+    "wof:id":873760237,
+    "wof:lastmodified":1464297209,
+    "wof:name":"Hedgemasters Tree & Gutter Svc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "downspouts",
+        "gutter"
+    ]
+},
+  "bbox": [
+    -97.046663,
+    47.905191,
+    -97.046663,
+    47.905191
+],
+  "geometry": {"coordinates":[-97.046663,47.905191],"type":"Point"}
+}

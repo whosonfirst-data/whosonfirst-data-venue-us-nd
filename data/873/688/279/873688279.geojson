@@ -1,0 +1,71 @@
+{
+  "id": 873688279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.070923,47.922267,-97.070923,47.922267",
+    "geom:latitude":47.922267,
+    "geom:longitude":-97.070923,
+    "iso:country":"US",
+    "sg:address":"3000 University Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 777 7086",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7J3n0IKHM2BdusGRbiFIhv_47.922267_-97.070923@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296228,
+    "wof:geomhash":"3231f3b37a70bf83dec002393bfe4365",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873688279
+        }
+    ],
+    "wof:id":873688279,
+    "wof:lastmodified":1464296228,
+    "wof:name":"Alpha Tau Omega",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -97.070923,
+    47.922267,
+    -97.070923,
+    47.922267
+],
+  "geometry": {"coordinates":[-97.07092299999999,47.922267],"type":"Point"}
+}

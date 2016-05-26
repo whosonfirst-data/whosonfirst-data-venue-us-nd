@@ -1,0 +1,66 @@
+{
+  "id": 873764281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.730671,48.143764,-97.730671,48.143764",
+    "geom:latitude":48.143764,
+    "geom:longitude":-97.730671,
+    "iso:country":"US",
+    "sg:address":"3251 42nd St NE",
+    "sg:city":"Fordville",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 865 4296",
+    "sg:postcode":"58231",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11aHxvURDdYqJwSGQPXVy9_48.143764_-97.730671@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297280,
+    "wof:geomhash":"d172998f2fb4f9dabc2d857c7a818121",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873764281
+        }
+    ],
+    "wof:id":873764281,
+    "wof:lastmodified":1464297280,
+    "wof:name":"R I Stokke Farm",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.730671,
+    48.143764,
+    -97.730671,
+    48.143764
+],
+  "geometry": {"coordinates":[-97.730671,48.143764],"type":"Point"}
+}

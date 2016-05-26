@@ -1,0 +1,71 @@
+{
+  "id": 873745113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.041926,47.894096,-97.041926,47.894096",
+    "geom:latitude":47.894096,
+    "geom:longitude":-97.041926,
+    "iso:country":"US",
+    "sg:address":"2619 S 11th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 218 779 1235",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "plumbing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70QPhV7AYf04HKvrRJFg58_47.894096_-97.041926@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297012,
+    "wof:geomhash":"ce0d5a8c286e0e8c4a1c196b187aaeaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873745113
+        }
+    ],
+    "wof:id":873745113,
+    "wof:lastmodified":1464297012,
+    "wof:name":"Dakota Soft Water",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing"
+    ]
+},
+  "bbox": [
+    -97.041926,
+    47.894096,
+    -97.041926,
+    47.894096
+],
+  "geometry": {"coordinates":[-97.041926,47.894096],"type":"Point"}
+}

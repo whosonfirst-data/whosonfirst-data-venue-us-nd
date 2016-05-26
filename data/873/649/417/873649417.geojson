@@ -1,0 +1,70 @@
+{
+  "id": 873649417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.78725,46.919543,-96.78725,46.919543",
+    "geom:latitude":46.919543,
+    "geom:longitude":-96.78725,
+    "iso:country":"US",
+    "sg:address":"3201 Broadway",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 9418",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877353,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TdWsXHp3hTx8EIOZxwtwC_46.919543_-96.787250@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295580,
+    "wof:geomhash":"9d5288543aae54d9d422638e9d570d87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877353,
+            "region_id":85688525,
+            "venue_id":873649417
+        }
+    ],
+    "wof:id":873649417,
+    "wof:lastmodified":1464295580,
+    "wof:name":"Loaf N' Jug",
+    "wof:parent_id":85877353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.78725,
+    46.919543,
+    -96.78725,
+    46.919543
+],
+  "geometry": {"coordinates":[-96.78725,46.919543],"type":"Point"}
+}

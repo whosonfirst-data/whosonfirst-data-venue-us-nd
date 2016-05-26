@@ -1,0 +1,73 @@
+{
+  "id": 873764779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.089253,47.889376,-97.089253,47.889376",
+    "geom:latitude":47.889376,
+    "geom:longitude":-97.089253,
+    "iso:country":"US",
+    "sg:address":"4575 32nd Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 9012",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "broker",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nznqSiWXvbT2tkrJCPCS2_47.889376_-97.089253@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297292,
+    "wof:geomhash":"47383804dc5547008e26adfb80c866d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873764779
+        }
+    ],
+    "wof:id":873764779,
+    "wof:lastmodified":1464297292,
+    "wof:name":"Keith Brown Trucking Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -97.089253,
+    47.889376,
+    -97.089253,
+    47.889376
+],
+  "geometry": {"coordinates":[-97.089253,47.889376],"type":"Point"}
+}

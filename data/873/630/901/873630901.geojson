@@ -1,0 +1,73 @@
+{
+  "id": 873630901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.753025,46.816547,-100.753025,46.816547",
+    "geom:latitude":46.816547,
+    "geom:longitude":-100.753025,
+    "iso:country":"US",
+    "sg:address":"2500 Valleyview Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 221 3018",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56QNgDblVJV3qmEyP5uNYw_46.816547_-100.753025@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295374,
+    "wof:geomhash":"73fd1750630747cc771b215a47babacb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873630901
+        }
+    ],
+    "wof:id":873630901,
+    "wof:lastmodified":1464295374,
+    "wof:name":"Valley View Heights",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [
+    -100.753025,
+    46.816547,
+    -100.753025,
+    46.816547
+],
+  "geometry": {"coordinates":[-100.75302499999999,46.816547],"type":"Point"}
+}

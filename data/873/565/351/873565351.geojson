@@ -1,0 +1,71 @@
+{
+  "id": 873565351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.416682,47.759077,-97.416682,47.759077",
+    "geom:latitude":47.759077,
+    "geom:longitude":-97.416682,
+    "iso:country":"US",
+    "sg:address":"2732 6th Ave NE",
+    "sg:city":"Northwood",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 587 5269",
+    "sg:postcode":"58267",
+    "sg:province":"ND",
+    "sg:tags":[
+        "auctioneer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GB3u46oqHU00TLRbKst6V_47.759077_-97.416682@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294560,
+    "wof:geomhash":"2f3126f5b16e7147260a730ffbfee48c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873565351
+        }
+    ],
+    "wof:id":873565351,
+    "wof:lastmodified":1464294560,
+    "wof:name":"Harley J Camperud Auctioneer",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auctioneer"
+    ]
+},
+  "bbox": [
+    -97.416682,
+    47.759077,
+    -97.416682,
+    47.759077
+],
+  "geometry": {"coordinates":[-97.41668199999999,47.759077],"type":"Point"}
+}

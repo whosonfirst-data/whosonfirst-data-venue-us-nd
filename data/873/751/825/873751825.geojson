@@ -1,0 +1,71 @@
+{
+  "id": 873751825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.288437,48.235028,-101.288437,48.235028",
+    "geom:latitude":48.235028,
+    "geom:longitude":-101.288437,
+    "iso:country":"US",
+    "sg:address":"101 3rd St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 857 5764",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ydfXl6vDbERB3Bor9fXV4_48.235028_-101.288437@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297098,
+    "wof:geomhash":"5dbf8ffdd5251d7c232842c6b7800be2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873751825
+        }
+    ],
+    "wof:id":873751825,
+    "wof:lastmodified":1464297098,
+    "wof:name":"Dean R Quigley MD",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -101.288437,
+    48.235028,
+    -101.288437,
+    48.235028
+],
+  "geometry": {"coordinates":[-101.288437,48.235028],"type":"Point"}
+}

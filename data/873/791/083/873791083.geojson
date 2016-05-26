@@ -1,0 +1,77 @@
+{
+  "id": 873791083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.115017,47.889534,-97.115017,47.889534",
+    "geom:latitude":47.889534,
+    "geom:longitude":-97.115017,
+    "iso:country":"US",
+    "sg:address":"6500 32nd Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 8455",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "bar",
+        "farm",
+        "sugar",
+        "beats",
+        "soybean",
+        "wheat",
+        "producing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oq7HfkBVcanI0PIACspZ2_47.889534_-97.115017@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297654,
+    "wof:geomhash":"a9d6d5381ab8f9b4075ce6254b772aea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873791083
+        }
+    ],
+    "wof:id":873791083,
+    "wof:lastmodified":1464297654,
+    "wof:name":"Bateman Ag Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bar",
+        "farm",
+        "sugar",
+        "beats",
+        "soybean",
+        "wheat",
+        "producing"
+    ]
+},
+  "bbox": [
+    -97.115017,
+    47.889534,
+    -97.115017,
+    47.889534
+],
+  "geometry": {"coordinates":[-97.11501699999999,47.889534],"type":"Point"}
+}

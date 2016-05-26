@@ -1,0 +1,77 @@
+{
+  "id": 873614501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.052668,47.91032,-97.052668,47.91032",
+    "geom:latitude":47.91032,
+    "geom:longitude":-97.052668,
+    "iso:country":"US",
+    "sg:address":"1210 S 18th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 9392",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "steel",
+        "farm",
+        "erection",
+        "bin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0k9RlrZzgmzstknPoolwJ2_47.910320_-97.052668@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295190,
+    "wof:geomhash":"4e24042fc8ca6e9062113be9415774ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873614501
+        }
+    ],
+    "wof:id":873614501,
+    "wof:lastmodified":1464295190,
+    "wof:name":"Hoeger Steel Bins",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "farm",
+        "erection",
+        "bin"
+    ]
+},
+  "bbox": [
+    -97.052668,
+    47.91032,
+    -97.052668,
+    47.91032
+],
+  "geometry": {"coordinates":[-97.052668,47.91032],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873584065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.90379,46.758225,-96.90379,46.758225",
+    "geom:latitude":46.758225,
+    "geom:longitude":-96.90379,
+    "iso:country":"US",
+    "sg:address":"416 Main St",
+    "sg:city":"Horace",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 371 0646",
+    "sg:postcode":"58047",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FkQe7R4lklyqD851V3Clv_46.758225_-96.903790@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294764,
+    "wof:geomhash":"b742b5be79b4376bf39a2915a0827683",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873584065
+        }
+    ],
+    "wof:id":873584065,
+    "wof:lastmodified":1464294764,
+    "wof:name":"Jens Family Hair Salon",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -96.90379,
+    46.758225,
+    -96.90379,
+    46.758225
+],
+  "geometry": {"coordinates":[-96.90379,46.758225],"type":"Point"}
+}

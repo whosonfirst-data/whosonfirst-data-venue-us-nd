@@ -1,0 +1,77 @@
+{
+  "id": 873804165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.798452,46.85928,-96.798452,46.85928",
+    "geom:latitude":46.85928,
+    "geom:longitude":-96.798452,
+    "iso:country":"US",
+    "sg:address":"1417 University Dr S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 4718",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "furniture-wholesale",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534479,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53IHmGnJmwo3BPuHQaWiSl_46.859280_-96.798452@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297825,
+    "wof:geomhash":"c7a736e83d781283ab6498a89b516e0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534479,
+            "region_id":85688525,
+            "venue_id":873804165
+        }
+    ],
+    "wof:id":873804165,
+    "wof:lastmodified":1464297825,
+    "wof:name":"M & J Furniture",
+    "wof:parent_id":420534479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furniture-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -96.798452,
+    46.85928,
+    -96.798452,
+    46.85928
+],
+  "geometry": {"coordinates":[-96.798452,46.85928],"type":"Point"}
+}

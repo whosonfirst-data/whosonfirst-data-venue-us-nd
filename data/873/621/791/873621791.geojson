@@ -1,0 +1,72 @@
+{
+  "id": 873621791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.026171,47.921497,-97.026171,47.921497",
+    "geom:latitude":47.921497,
+    "geom:longitude":-97.026171,
+    "iso:country":"US",
+    "sg:address":"305 S 4th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 7212",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "accountant"
+    ],
+    "sg:website":"www.rendahlcpa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4evMXP00StHJNcstvt5F39_47.921497_-97.026171@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295268,
+    "wof:geomhash":"601f5131cb5351c48f22c5c54313f396",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873621791
+        }
+    ],
+    "wof:id":873621791,
+    "wof:lastmodified":1464295268,
+    "wof:name":"R A Rendahl & Assoc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -97.026171,
+    47.921497,
+    -97.026171,
+    47.921497
+],
+  "geometry": {"coordinates":[-97.02617100000001,47.921497],"type":"Point"}
+}

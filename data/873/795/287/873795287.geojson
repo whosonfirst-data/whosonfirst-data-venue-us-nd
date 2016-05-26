@@ -1,0 +1,67 @@
+{
+  "id": 873795287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.401695,48.095459,-101.401695,48.095459",
+    "geom:latitude":48.095459,
+    "geom:longitude":-101.401695,
+    "iso:country":"US",
+    "sg:address":"7100 135th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 722 3512",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "wheat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71yBqq6tfAOnSi32wU461U_48.095459_-101.401695@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297718,
+    "wof:geomhash":"ec5e2740dc81a6673249915b0f9a29b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873795287
+        }
+    ],
+    "wof:id":873795287,
+    "wof:lastmodified":1464297718,
+    "wof:name":"Jim Novak",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "wheat"
+    ]
+},
+  "bbox": [
+    -101.401695,
+    48.095459,
+    -101.401695,
+    48.095459
+],
+  "geometry": {"coordinates":[-101.401695,48.095459],"type":"Point"}
+}

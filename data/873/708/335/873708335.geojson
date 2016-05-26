@@ -1,0 +1,73 @@
+{
+  "id": 873708335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.814335,48.341673,-101.814335,48.341673",
+    "geom:latitude":48.341673,
+    "geom:longitude":-101.814335,
+    "iso:country":"US",
+    "sg:address":"10310 338th St NW",
+    "sg:city":"Berthold",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 453 3111",
+    "sg:postcode":"58718",
+    "sg:province":"ND",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IjOPdEW6YzcxpXnMMbuPp_48.341673_-101.814335@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296499,
+    "wof:geomhash":"60ba04670580835bd1d8c84dcd507e39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873708335
+        }
+    ],
+    "wof:id":873708335,
+    "wof:lastmodified":1464296499,
+    "wof:name":"Northland Coal Equipment Inc",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.814335,
+    48.341673,
+    -101.814335,
+    48.341673
+],
+  "geometry": {"coordinates":[-101.814335,48.341673],"type":"Point"}
+}

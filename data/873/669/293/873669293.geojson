@@ -1,0 +1,73 @@
+{
+  "id": 873669293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.297752,48.165835,-101.297752,48.165835",
+    "geom:latitude":48.165835,
+    "geom:longitude":-101.297752,
+    "iso:country":"US",
+    "sg:address":"6820 4th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 5011",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automobile",
+        "wrecking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_535HbP9NndoYy70HIKr29V_48.165835_-101.297752@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295793,
+    "wof:geomhash":"9f6888c9f53931222fb85ba3c8080e76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873669293
+        }
+    ],
+    "wof:id":873669293,
+    "wof:lastmodified":1464295793,
+    "wof:name":"B & F Salvage",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "wrecking"
+    ]
+},
+  "bbox": [
+    -101.297752,
+    48.165835,
+    -101.297752,
+    48.165835
+],
+  "geometry": {"coordinates":[-101.297752,48.165835],"type":"Point"}
+}

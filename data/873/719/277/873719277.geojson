@@ -1,0 +1,71 @@
+{
+  "id": 873719277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.03191,47.901511,-97.03191,47.901511",
+    "geom:latitude":47.901511,
+    "geom:longitude":-97.03191,
+    "iso:country":"US",
+    "sg:address":"511 Campbell Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 4278",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NiKtYxDvhpQP4077TFgXM_47.901511_-97.031910@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296636,
+    "wof:geomhash":"e0c00a50f5900dad3bb00598d6de1b9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873719277
+        }
+    ],
+    "wof:id":873719277,
+    "wof:lastmodified":1464296636,
+    "wof:name":"Walton Consulting",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty"
+    ]
+},
+  "bbox": [
+    -97.03191,
+    47.901511,
+    -97.03191,
+    47.901511
+],
+  "geometry": {"coordinates":[-97.03191,47.901511],"type":"Point"}
+}

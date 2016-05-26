@@ -1,0 +1,71 @@
+{
+  "id": 873628097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.030229,47.923876,-97.030229,47.923876",
+    "geom:latitude":47.923876,
+    "geom:longitude":-97.030229,
+    "iso:country":"US",
+    "sg:address":"25 S 4th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 7122",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "yarn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CFWQttp8wsihteDd55OyH_47.923876_-97.030229@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295341,
+    "wof:geomhash":"70812750b63d3aabc1d3cb98f53201bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873628097
+        }
+    ],
+    "wof:id":873628097,
+    "wof:lastmodified":1464295341,
+    "wof:name":"Yarn Renaissance",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yarn"
+    ]
+},
+  "bbox": [
+    -97.030229,
+    47.923876,
+    -97.030229,
+    47.923876
+],
+  "geometry": {"coordinates":[-97.03022900000001,47.923876],"type":"Point"}
+}

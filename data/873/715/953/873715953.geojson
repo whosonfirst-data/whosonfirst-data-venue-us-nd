@@ -1,0 +1,77 @@
+{
+  "id": 873715953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.734512,46.84094,-100.734512,46.84094",
+    "geom:latitude":46.84094,
+    "geom:longitude":-100.734512,
+    "iso:country":"US",
+    "sg:address":"3718 Saratoga Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 1721",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1THIhRcX7UFtZs9b2tSSQE_46.840940_-100.734512@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296593,
+    "wof:geomhash":"144f4a7a2af39e25d28ca6a6973b5a00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873715953
+        }
+    ],
+    "wof:id":873715953,
+    "wof:lastmodified":1464296593,
+    "wof:name":"Darren's Auto Care",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "general"
+    ]
+},
+  "bbox": [
+    -100.734512,
+    46.84094,
+    -100.734512,
+    46.84094
+],
+  "geometry": {"coordinates":[-100.734512,46.84094],"type":"Point"}
+}

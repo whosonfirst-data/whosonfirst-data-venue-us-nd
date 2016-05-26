@@ -1,0 +1,71 @@
+{
+  "id": 873753917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.306607,48.207528,-101.306607,48.207528",
+    "geom:latitude":48.207528,
+    "geom:longitude":-101.306607,
+    "iso:country":"US",
+    "sg:address":"2400 10th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 3509",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "sportswear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61aeKwQPnN997a5dv7sDHp_48.207528_-101.306607@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297132,
+    "wof:geomhash":"f8dbd9ef6c29709cde7bffe12edca170",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873753917
+        }
+    ],
+    "wof:id":873753917,
+    "wof:lastmodified":1464297132,
+    "wof:name":"Pacific Sunwear",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sportswear"
+    ]
+},
+  "bbox": [
+    -101.306607,
+    48.207528,
+    -101.306607,
+    48.207528
+],
+  "geometry": {"coordinates":[-101.306607,48.207528],"type":"Point"}
+}

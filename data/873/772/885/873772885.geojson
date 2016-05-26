@@ -1,0 +1,66 @@
+{
+  "id": 873772885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.364761,47.930975,-97.364761,47.930975",
+    "geom:latitude":47.930975,
+    "geom:longitude":-97.364761,
+    "iso:country":"US",
+    "sg:address":"200 5th St",
+    "sg:city":"Emerado",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 594 2662",
+    "sg:postcode":"58228",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70p2DW2rz7X1Mf33Xrdc8y_47.930975_-97.364761@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297399,
+    "wof:geomhash":"751b8fecbd20d9b0e634a7b50874c832",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873772885
+        }
+    ],
+    "wof:id":873772885,
+    "wof:lastmodified":1464297399,
+    "wof:name":"Superpumper Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.364761,
+    47.930975,
+    -97.364761,
+    47.930975
+],
+  "geometry": {"coordinates":[-97.364761,47.930975],"type":"Point"}
+}

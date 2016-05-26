@@ -1,0 +1,77 @@
+{
+  "id": 873735503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-102.785468,46.879221,-102.785468,46.879221",
+    "geom:latitude":46.879221,
+    "geom:longitude":-102.785468,
+    "iso:country":"US",
+    "sg:address":"50 Sims St",
+    "sg:city":"Dickinson",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 483 5900",
+    "sg:postcode":"58601",
+    "sg:province":"ND",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877119,
+        102191575,
+        404482179,
+        85633793,
+        85982521,
+        102082105,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LX18uUba3qKn6oHc56qKm_46.879221_-102.785468@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296864,
+    "wof:geomhash":"89aeabcb97b9697fb17f937231d84145",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082105,
+            "localadmin_id":404482179,
+            "locality_id":85982521,
+            "neighbourhood_id":85877119,
+            "region_id":85688525,
+            "venue_id":873735503
+        }
+    ],
+    "wof:id":873735503,
+    "wof:lastmodified":1464296864,
+    "wof:name":"Caring Hands Massage Therapy",
+    "wof:parent_id":85877119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -102.785468,
+    46.879221,
+    -102.785468,
+    46.879221
+],
+  "geometry": {"coordinates":[-102.78546799999999,46.879221],"type":"Point"}
+}

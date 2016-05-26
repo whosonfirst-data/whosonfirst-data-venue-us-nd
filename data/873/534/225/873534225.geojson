@@ -1,0 +1,71 @@
+{
+  "id": 873534225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.730114,46.892299,-100.730114,46.892299",
+    "geom:latitude":46.892299,
+    "geom:longitude":-100.730114,
+    "iso:country":"US",
+    "sg:address":"8140 41st St NE",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 0630",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dZJUw7bPlpldLVaTzN2A3_46.892299_-100.730114@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294192,
+    "wof:geomhash":"5f69376ca2c91bf17602e9369101fe03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873534225
+        }
+    ],
+    "wof:id":873534225,
+    "wof:lastmodified":1464294192,
+    "wof:name":"Burns Landscaping",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -100.730114,
+    46.892299,
+    -100.730114,
+    46.892299
+],
+  "geometry": {"coordinates":[-100.730114,46.892299],"type":"Point"}
+}

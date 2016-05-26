@@ -1,0 +1,71 @@
+{
+  "id": 873756439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.046224,47.9211,-97.046224,47.9211",
+    "geom:latitude":47.9211,
+    "geom:longitude":-97.046224,
+    "iso:country":"US",
+    "sg:address":"1323 2nd Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 4289",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kli0FAuhI5SL2drj9A57T_47.921100_-97.046224@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297162,
+    "wof:geomhash":"aeb3900ab3191dc70ca5294cc32f2c93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873756439
+        }
+    ],
+    "wof:id":873756439,
+    "wof:lastmodified":1464297162,
+    "wof:name":"Steven B Swanson DDS",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -97.046224,
+    47.9211,
+    -97.046224,
+    47.9211
+],
+  "geometry": {"coordinates":[-97.046224,47.9211],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873626167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.0451,47.909209,-97.0451,47.909209",
+    "geom:latitude":47.909209,
+    "geom:longitude":-97.0451,
+    "iso:country":"US",
+    "sg:address":"1206 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 5183",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xLDi5FDV6NnlGCOml4tTx_47.909209_-97.045100@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295322,
+    "wof:geomhash":"22a48aaf8187c488dbe642063aa3bbd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873626167
+        }
+    ],
+    "wof:id":873626167,
+    "wof:lastmodified":1464295322,
+    "wof:name":"Al's Grill & Catering",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.0451,
+    47.909209,
+    -97.0451,
+    47.909209
+],
+  "geometry": {"coordinates":[-97.04510000000001,47.909209],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 873589823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.824794,46.816735,-96.824794,46.816735",
+    "geom:latitude":46.816735,
+    "geom:longitude":-96.824794,
+    "iso:country":"US",
+    "sg:address":"4014 Copperfield Ct",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 2000",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877333,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dwH6OcoIlgh5EBXoSzQDy_46.816735_-96.824794@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294829,
+    "wof:geomhash":"04d841bb461972141ed43c58383cccba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877333,
+            "region_id":85688525,
+            "venue_id":873589823
+        }
+    ],
+    "wof:id":873589823,
+    "wof:lastmodified":1464294829,
+    "wof:name":"Farm It Leasing",
+    "wof:parent_id":85877333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.824794,
+    46.816735,
+    -96.824794,
+    46.816735
+],
+  "geometry": {"coordinates":[-96.824794,46.816735],"type":"Point"}
+}

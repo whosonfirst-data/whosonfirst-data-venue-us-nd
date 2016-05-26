@@ -1,0 +1,75 @@
+{
+  "id": 873588715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.817112,46.86143,-96.817112,46.86143",
+    "geom:latitude":46.86143,
+    "geom:longitude":-96.817112,
+    "iso:country":"US",
+    "sg:address":"1324 23rd St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 365 0507",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877331,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5q5OZullT9jSj5zv9NhxTr_46.861430_-96.817112@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294814,
+    "wof:geomhash":"03d05001044526b71e1b3f4482fa4582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877331,
+            "region_id":85688525,
+            "venue_id":873588715
+        }
+    ],
+    "wof:id":873588715,
+    "wof:lastmodified":1464294814,
+    "wof:name":"Smile Solutions",
+    "wof:parent_id":85877331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -96.817112,
+    46.86143,
+    -96.817112,
+    46.86143
+],
+  "geometry": {"coordinates":[-96.81711199999999,46.86143],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873760349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.761617,46.790771,-100.761617,46.790771",
+    "geom:latitude":46.790771,
+    "geom:longitude":-100.761617,
+    "iso:country":"US",
+    "sg:address":"2000 Morrison Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 1772",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hLbPYBOfsDww0UmnEnIdT_46.790771_-100.761617@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297211,
+    "wof:geomhash":"11f51738c7a6671203c4dcdf8e7361ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873760349
+        }
+    ],
+    "wof:id":873760349,
+    "wof:lastmodified":1464297211,
+    "wof:name":"Bob Eckert Painting",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -100.761617,
+    46.790771,
+    -100.761617,
+    46.790771
+],
+  "geometry": {"coordinates":[-100.761617,46.790771],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 873796645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.89911,46.877351,-96.89911,46.877351",
+    "geom:latitude":46.877351,
+    "geom:longitude":-96.89911,
+    "iso:country":"US",
+    "sg:address":"110 Main Ave E",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/west-fargo/96338-taco-johns/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 277 1711",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mdKLFLYWtcyah4ITmqtQj_46.877351_-96.899110@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297733,
+    "wof:geomhash":"079e4db0c45bfcf8204e46a358f2b8ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873796645
+        }
+    ],
+    "wof:id":873796645,
+    "wof:lastmodified":1464297733,
+    "wof:name":"Taco John's",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -96.89911,
+    46.877351,
+    -96.89911,
+    46.877351
+],
+  "geometry": {"coordinates":[-96.89910999999999,46.877351],"type":"Point"}
+}

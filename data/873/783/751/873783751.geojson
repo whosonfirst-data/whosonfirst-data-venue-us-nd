@@ -1,0 +1,84 @@
+{
+  "id": 873783751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.789027,46.811249,-100.789027,46.811249",
+    "geom:latitude":46.811249,
+    "geom:longitude":-100.789027,
+    "iso:country":"US",
+    "sg:address":"657 N 2nd St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 250 4303",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "federal",
+        "adm",
+        "government-united",
+        "program",
+        "state"
+    ],
+    "sg:website":"www.sba.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QquqCRkadMAtWJi2IJepD_46.811139_-100.789009@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464297540,
+    "wof:geomhash":"2f6ee5fe44c65ab8a5f6bc9ce005fad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873783751
+        }
+    ],
+    "wof:id":873783751,
+    "wof:lastmodified":1464297540,
+    "wof:name":"Us Small Business Admin",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "adm",
+        "government-united",
+        "program",
+        "state"
+    ]
+},
+  "bbox": [
+    -100.789027,
+    46.811249,
+    -100.789027,
+    46.811249
+],
+  "geometry": {"coordinates":[-100.789027,46.811249],"type":"Point"}
+}

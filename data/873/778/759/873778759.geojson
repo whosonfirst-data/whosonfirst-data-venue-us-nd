@@ -1,0 +1,71 @@
+{
+  "id": 873778759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.786046,46.806377,-100.786046,46.806377",
+    "geom:latitude":46.806377,
+    "geom:longitude":-100.786046,
+    "iso:country":"US",
+    "sg:address":"109 N 4th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 6400",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kU1TYfTJ5msDJztNfSE09_46.806377_-100.786046@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297473,
+    "wof:geomhash":"89bed4503d51549d489128430cbfc5e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873778759
+        }
+    ],
+    "wof:id":873778759,
+    "wof:lastmodified":1464297473,
+    "wof:name":"LA Roy Baird Attorneys",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -100.786046,
+    46.806377,
+    -100.786046,
+    46.806377
+],
+  "geometry": {"coordinates":[-100.786046,46.806377],"type":"Point"}
+}

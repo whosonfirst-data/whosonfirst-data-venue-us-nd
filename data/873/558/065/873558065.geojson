@@ -1,0 +1,77 @@
+{
+  "id": 873558065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.300373,48.202713,-101.300373,48.202713",
+    "geom:latitude":48.202713,
+    "geom:longitude":-101.300373,
+    "iso:country":"US",
+    "sg:address":"505 31st Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 8811",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "building",
+        "trade",
+        "ma",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rMtYJJgXFC0eGLLzE6L0x_48.202713_-101.300373@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294472,
+    "wof:geomhash":"9b50c9320795f5c4f32e0792a78f7dd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873558065
+        }
+    ],
+    "wof:id":873558065,
+    "wof:lastmodified":1464294472,
+    "wof:name":"Clean Tech",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "trade",
+        "ma",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.300373,
+    48.202713,
+    -101.300373,
+    48.202713
+],
+  "geometry": {"coordinates":[-101.30037299999999,48.202713],"type":"Point"}
+}

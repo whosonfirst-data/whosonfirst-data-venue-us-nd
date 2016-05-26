@@ -1,0 +1,75 @@
+{
+  "id": 873703869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.531935,46.81635,-100.531935,46.81635",
+    "geom:latitude":46.81635,
+    "geom:longitude":-100.531935,
+    "iso:country":"US",
+    "sg:address":"1245 Zuraff Dr",
+    "sg:city":"Menoken",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 226 6030",
+    "sg:postcode":"58558",
+    "sg:province":"ND",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KRh9ggQi1vTwNZB2ZmUF1_46.816350_-100.531935@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296444,
+    "wof:geomhash":"0e02f06ddd803d9911ba1d43fe6a4663",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873703869
+        }
+    ],
+    "wof:id":873703869,
+    "wof:lastmodified":1464296444,
+    "wof:name":"R & R Auto Body",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -100.531935,
+    46.81635,
+    -100.531935,
+    46.81635
+],
+  "geometry": {"coordinates":[-100.531935,46.81635],"type":"Point"}
+}

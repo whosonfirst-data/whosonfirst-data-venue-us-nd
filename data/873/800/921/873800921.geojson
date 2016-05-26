@@ -1,0 +1,82 @@
+{
+  "id": 873800921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.788561,46.916132,-96.788561,46.916132",
+    "geom:latitude":46.916132,
+    "geom:longitude":-96.788561,
+    "iso:country":"US",
+    "sg:address":"3026 7th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 3067",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "lube",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877353,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AQ4yxxVU5cxMvdDzCU7se_46.916132_-96.788561@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297784,
+    "wof:geomhash":"50d2e51ebf23b2927e395b937c23d4a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877353,
+            "region_id":85688525,
+            "venue_id":873800921
+        }
+    ],
+    "wof:id":873800921,
+    "wof:lastmodified":1464297784,
+    "wof:name":"Econo Lube N' Tune",
+    "wof:parent_id":85877353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lube",
+        "oil"
+    ]
+},
+  "bbox": [
+    -96.788561,
+    46.916132,
+    -96.788561,
+    46.916132
+],
+  "geometry": {"coordinates":[-96.788561,46.916132],"type":"Point"}
+}

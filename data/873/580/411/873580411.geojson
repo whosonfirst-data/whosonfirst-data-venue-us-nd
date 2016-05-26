@@ -1,0 +1,75 @@
+{
+  "id": 873580411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.033096,47.895967,-97.033096,47.895967",
+    "geom:latitude":47.895967,
+    "geom:longitude":-97.033096,
+    "iso:country":"US",
+    "sg:address":"618 25th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 5889",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gP0GG4HfTiD0iqi0bhAKX_47.895967_-97.033096@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294723,
+    "wof:geomhash":"4f40cbf2e51342f871332ae0c1155576",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873580411
+        }
+    ],
+    "wof:id":873580411,
+    "wof:lastmodified":1464294723,
+    "wof:name":"Burris Quality Carpet Clean",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -97.033096,
+    47.895967,
+    -97.033096,
+    47.895967
+],
+  "geometry": {"coordinates":[-97.033096,47.895967],"type":"Point"}
+}

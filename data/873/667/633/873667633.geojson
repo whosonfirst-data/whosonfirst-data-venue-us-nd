@@ -1,0 +1,71 @@
+{
+  "id": 873667633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.780119,46.801255,-100.780119,46.801255",
+    "geom:latitude":46.801255,
+    "geom:longitude":-100.780119,
+    "iso:country":"US",
+    "sg:address":"825 S 8th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 2952",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dlunYJhqi98U7qeYaZ9XF_46.801255_-100.780119@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295775,
+    "wof:geomhash":"73188ce0a7d1fd602d5a5cb31acc5fe1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873667633
+        }
+    ],
+    "wof:id":873667633,
+    "wof:lastmodified":1464295775,
+    "wof:name":"Dakota Skies Bingo",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bureau"
+    ]
+},
+  "bbox": [
+    -100.780119,
+    46.801255,
+    -100.780119,
+    46.801255
+],
+  "geometry": {"coordinates":[-100.780119,46.801255],"type":"Point"}
+}

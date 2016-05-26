@@ -1,0 +1,66 @@
+{
+  "id": 873735357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.059939,47.933169,-97.059939,47.933169",
+    "geom:latitude":47.933169,
+    "geom:longitude":-97.059939,
+    "iso:country":"US",
+    "sg:address":"2612 Gateway Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 7108",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1V0vNFRhxwd8qwSbOBNGmu_47.933169_-97.059939@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296855,
+    "wof:geomhash":"a7a6a48228570f60da761b5ed2a9171d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873735357
+        }
+    ],
+    "wof:id":873735357,
+    "wof:lastmodified":1464296855,
+    "wof:name":"Farmers Insurance Group",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.059939,
+    47.933169,
+    -97.059939,
+    47.933169
+],
+  "geometry": {"coordinates":[-97.059939,47.933169],"type":"Point"}
+}

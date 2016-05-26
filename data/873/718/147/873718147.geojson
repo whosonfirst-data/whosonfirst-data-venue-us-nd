@@ -1,0 +1,73 @@
+{
+  "id": 873718147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.306702,48.231372,-101.306702,48.231372",
+    "geom:latitude":48.231372,
+    "geom:longitude":-101.306702,
+    "iso:country":"US",
+    "sg:address":"903 Burdick Expy W",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 6487",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "hardware",
+        "co"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EP8PUFubZU4c9zwt00Wqs_48.231372_-101.306702@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296623,
+    "wof:geomhash":"b8edd56dc1bc12a2df76fc563dd2caa1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873718147
+        }
+    ],
+    "wof:id":873718147,
+    "wof:lastmodified":1464296623,
+    "wof:name":"Schmidt Masonry",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hardware",
+        "co"
+    ]
+},
+  "bbox": [
+    -101.306702,
+    48.231372,
+    -101.306702,
+    48.231372
+],
+  "geometry": {"coordinates":[-101.306702,48.231372],"type":"Point"}
+}

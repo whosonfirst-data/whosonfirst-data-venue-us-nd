@@ -1,0 +1,75 @@
+{
+  "id": 873718859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.819482,46.864578,-96.819482,46.864578",
+    "geom:latitude":46.864578,
+    "geom:longitude":-96.819482,
+    "iso:country":"US",
+    "sg:address":"1020 25th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 237 5346",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "broadcast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877331,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xEhWb32lD20gg7zka8PIx_46.864578_-96.819482@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296630,
+    "wof:geomhash":"7bcef9229bc0ffd9ad8c44f30e5e4405",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877331,
+            "region_id":85688525,
+            "venue_id":873718859
+        }
+    ],
+    "wof:id":873718859,
+    "wof:lastmodified":1464296630,
+    "wof:name":"Wday FM Y94 937",
+    "wof:parent_id":85877331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broadcast"
+    ]
+},
+  "bbox": [
+    -96.819482,
+    46.864578,
+    -96.819482,
+    46.864578
+],
+  "geometry": {"coordinates":[-96.81948199999999,46.864578],"type":"Point"}
+}

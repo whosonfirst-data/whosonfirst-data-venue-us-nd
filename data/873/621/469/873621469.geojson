@@ -1,0 +1,70 @@
+{
+  "id": 873621469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.845898,46.866825,-96.845898,46.866825",
+    "geom:latitude":46.866825,
+    "geom:longitude":-96.845898,
+    "iso:country":"US",
+    "sg:address":"3931 9th Ave SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 281 1335",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qFnQJB9uxuBs4wGfHHyYw_46.866825_-96.845898@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295265,
+    "wof:geomhash":"87e769699a2e76dee01fdbbdfe4d6a93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873621469
+        }
+    ],
+    "wof:id":873621469,
+    "wof:lastmodified":1464295265,
+    "wof:name":"Century 10 Cinema",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.845898,
+    46.866825,
+    -96.845898,
+    46.866825
+],
+  "geometry": {"coordinates":[-96.84589800000001,46.866825],"type":"Point"}
+}

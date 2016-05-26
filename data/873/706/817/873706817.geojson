@@ -1,0 +1,77 @@
+{
+  "id": 873706817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.771303,46.786608,-100.771303,46.786608",
+    "geom:latitude":46.786608,
+    "geom:longitude":-100.771303,
+    "iso:country":"US",
+    "sg:address":"1222 Continental Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 3991",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VimnAWozO1iaZYSG7fWgw_46.786608_-100.771303@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296479,
+    "wof:geomhash":"dc54fa7091386282f424cf9aefcb0118",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873706817
+        }
+    ],
+    "wof:id":873706817,
+    "wof:lastmodified":1464296479,
+    "wof:name":"Ed's Heating & Air",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.771303,
+    46.786608,
+    -100.771303,
+    46.786608
+],
+  "geometry": {"coordinates":[-100.771303,46.786608],"type":"Point"}
+}

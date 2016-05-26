@@ -1,0 +1,71 @@
+{
+  "id": 873734919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.292955,48.234216,-101.292955,48.234216",
+    "geom:latitude":48.234216,
+    "geom:longitude":-101.292955,
+    "iso:country":"US",
+    "sg:address":"301 Main St S",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 1037",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iffnXlyxcLU1Ah0hWpdbh_48.234216_-101.292955@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296847,
+    "wof:geomhash":"1430d21fb358fd5147debdb546147fb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873734919
+        }
+    ],
+    "wof:id":873734919,
+    "wof:lastmodified":1464296847,
+    "wof:name":"All Saints Episcopal Church",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -101.292955,
+    48.234216,
+    -101.292955,
+    48.234216
+],
+  "geometry": {"coordinates":[-101.29295500000001,48.234216],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873633099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.729719,46.836152,-100.729719,46.836152",
+    "geom:latitude":46.836152,
+    "geom:longitude":-100.729719,
+    "iso:country":"US",
+    "sg:address":"2727 Lexington Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 5679",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XgBKdeyAuXKqEkXGRIQm6_46.836152_-100.729719@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295401,
+    "wof:geomhash":"c3fc7b8064377c9ca5ecc5b06ab08aae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873633099
+        }
+    ],
+    "wof:id":873633099,
+    "wof:lastmodified":1464295401,
+    "wof:name":"Diamond Limousine",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -100.729719,
+    46.836152,
+    -100.729719,
+    46.836152
+],
+  "geometry": {"coordinates":[-100.729719,46.836152],"type":"Point"}
+}

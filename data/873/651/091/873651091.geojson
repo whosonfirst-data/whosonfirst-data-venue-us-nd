@@ -1,0 +1,71 @@
+{
+  "id": 873651091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.054688,47.897585,-97.054688,47.897585",
+    "geom:latitude":47.897585,
+    "geom:longitude":-97.054688,
+    "iso:country":"US",
+    "sg:address":"1930 23rd Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 741 7407",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YGJKRxABL5GOMp3TLQvhh_47.897585_-97.054688@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295599,
+    "wof:geomhash":"e5d56023a14b575c364140f20270907e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873651091
+        }
+    ],
+    "wof:id":873651091,
+    "wof:lastmodified":1464295599,
+    "wof:name":"First Class Limousine",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine"
+    ]
+},
+  "bbox": [
+    -97.054688,
+    47.897585,
+    -97.054688,
+    47.897585
+],
+  "geometry": {"coordinates":[-97.054688,47.897585],"type":"Point"}
+}

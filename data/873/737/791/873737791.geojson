@@ -1,0 +1,77 @@
+{
+  "id": 873737791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.747376,46.725273,-100.747376,46.725273",
+    "geom:latitude":46.725273,
+    "geom:longitude":-100.747376,
+    "iso:country":"US",
+    "sg:address":"7201 University Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 9873",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "textile",
+        "product",
+        "fabricated",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YNYNOtIMnogATMKmHuy3A_46.725273_-100.747376@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296892,
+    "wof:geomhash":"627a442e438014a304a966a22d3ee375",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873737791
+        }
+    ],
+    "wof:id":873737791,
+    "wof:lastmodified":1464296892,
+    "wof:name":"Air Fun Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "textile",
+        "product",
+        "fabricated",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -100.747376,
+    46.725273,
+    -100.747376,
+    46.725273
+],
+  "geometry": {"coordinates":[-100.747376,46.725273],"type":"Point"}
+}

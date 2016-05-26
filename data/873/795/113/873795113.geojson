@@ -1,0 +1,67 @@
+{
+  "id": 873795113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.507429,47.845692,-97.507429,47.845692",
+    "geom:latitude":47.845692,
+    "geom:longitude":-97.507429,
+    "iso:country":"US",
+    "sg:address":"3156 12th Ave NE",
+    "sg:city":"Arvilla",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 343 2731",
+    "sg:postcode":"58214",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "soybean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Z4WUPzqI5TBSIkhsMIAW1_47.845692_-97.507429@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297716,
+    "wof:geomhash":"9cae2025b777f3d1af707611b16c4145",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873795113
+        }
+    ],
+    "wof:id":873795113,
+    "wof:lastmodified":1464297716,
+    "wof:name":"Holneger Farm",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "soybean"
+    ]
+},
+  "bbox": [
+    -97.507429,
+    47.845692,
+    -97.507429,
+    47.845692
+],
+  "geometry": {"coordinates":[-97.507429,47.845692],"type":"Point"}
+}

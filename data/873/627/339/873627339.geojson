@@ -1,0 +1,82 @@
+{
+  "id": 873627339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.099131,47.912879,-97.099131,47.912879",
+    "geom:latitude":47.912879,
+    "geom:longitude":-97.099131,
+    "iso:country":"US",
+    "sg:address":"915 S 48th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 6408",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "consulting",
+        "dealer",
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oHcje6Wk4aklFZ8A7Lef2_47.912879_-97.099131@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295333,
+    "wof:geomhash":"f5925ba2fb835afccf29d463116b5e60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873627339
+        }
+    ],
+    "wof:id":873627339,
+    "wof:lastmodified":1464295333,
+    "wof:name":"Millennium Systems Tech Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "consulting",
+        "dealer",
+        "related"
+    ]
+},
+  "bbox": [
+    -97.099131,
+    47.912879,
+    -97.099131,
+    47.912879
+],
+  "geometry": {"coordinates":[-97.099131,47.912879],"type":"Point"}
+}

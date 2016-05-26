@@ -1,0 +1,91 @@
+{
+  "id": 873802817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.832443,46.861641,-96.832443,46.861641",
+    "geom:latitude":46.861641,
+    "geom:longitude":-96.832443,
+    "iso:country":"US",
+    "sg:address":"3301 13th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 234 0057",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeon",
+        "chiropractic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vr2V3TYULFapTIOMdtVda_46.861641_-96.832443@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297808,
+    "wof:geomhash":"632c38caccc86a1be4292236cf80ef26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873802817
+        }
+    ],
+    "wof:id":873802817,
+    "wof:lastmodified":1464297808,
+    "wof:name":"Great Plains Chiropractic",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeon",
+        "chiropractic"
+    ]
+},
+  "bbox": [
+    -96.832443,
+    46.861641,
+    -96.832443,
+    46.861641
+],
+  "geometry": {"coordinates":[-96.832443,46.861641],"type":"Point"}
+}

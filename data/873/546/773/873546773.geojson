@@ -1,0 +1,77 @@
+{
+  "id": 873546773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.823979,46.859494,-96.823979,46.859494",
+    "geom:latitude":46.859494,
+    "geom:longitude":-96.823979,
+    "iso:country":"US",
+    "sg:address":"1401 E Gateway Cir S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 239 4524",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zCKkx8LwwFXClBUnL0a5U_46.859494_-96.823979@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294337,
+    "wof:geomhash":"df418528115008f58d74df4e37e27a55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873546773
+        }
+    ],
+    "wof:id":873546773,
+    "wof:lastmodified":1464294337,
+    "wof:name":"Evergreens Of Fargo",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [
+    -96.823979,
+    46.859494,
+    -96.823979,
+    46.859494
+],
+  "geometry": {"coordinates":[-96.82397899999999,46.859494],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873685087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.780356,46.787543,-100.780356,46.787543",
+    "geom:latitude":46.787543,
+    "geom:longitude":-100.780356,
+    "iso:country":"US",
+    "sg:address":"1622 Richmond Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 0708",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wlTUqOKr53nhgo1MpGCHj_46.787543_-100.780356@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296139,
+    "wof:geomhash":"9886af3317d3949e39b05851fc0c925a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873685087
+        }
+    ],
+    "wof:id":873685087,
+    "wof:lastmodified":1464296139,
+    "wof:name":"Levi Krein",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -100.780356,
+    46.787543,
+    -100.780356,
+    46.787543
+],
+  "geometry": {"coordinates":[-100.780356,46.787543],"type":"Point"}
+}

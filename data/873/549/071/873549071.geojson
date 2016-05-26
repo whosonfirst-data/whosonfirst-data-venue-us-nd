@@ -1,0 +1,73 @@
+{
+  "id": 873549071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.321334,48.210213,-101.321334,48.210213",
+    "geom:latitude":48.210213,
+    "geom:longitude":-101.321334,
+    "iso:country":"US",
+    "sg:address":"1800 22nd Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 0791",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shoe",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Y5B5aJlKLILCV6202tSJs_48.210213_-101.321334@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294367,
+    "wof:geomhash":"4e4d462119922bf264a9062b5300a7d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873549071
+        }
+    ],
+    "wof:id":873549071,
+    "wof:lastmodified":1464294367,
+    "wof:name":"Payless Shoe Source",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shoe",
+        "store"
+    ]
+},
+  "bbox": [
+    -101.321334,
+    48.210213,
+    -101.321334,
+    48.210213
+],
+  "geometry": {"coordinates":[-101.32133399999999,48.210213],"type":"Point"}
+}

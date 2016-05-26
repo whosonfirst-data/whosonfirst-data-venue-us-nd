@@ -1,0 +1,77 @@
+{
+  "id": 873761951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.81451,46.852398,-96.81451,46.852398",
+    "geom:latitude":46.852398,
+    "geom:longitude":-96.81451,
+    "iso:country":"US",
+    "sg:address":"1725 Park Blvd",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 0030",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877331,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RXe6nwyMwsyOq1sQhwTUu_46.852398_-96.814510@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297236,
+    "wof:geomhash":"189efa4fb73954563637c25c0b0a8805",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877331,
+            "region_id":85688525,
+            "venue_id":873761951
+        }
+    ],
+    "wof:id":873761951,
+    "wof:lastmodified":1464297236,
+    "wof:name":"Anderson Heating & Air Cond",
+    "wof:parent_id":85877331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.81451,
+    46.852398,
+    -96.81451,
+    46.852398
+],
+  "geometry": {"coordinates":[-96.81451,46.852398],"type":"Point"}
+}

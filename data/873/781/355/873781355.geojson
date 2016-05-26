@@ -1,0 +1,73 @@
+{
+  "id": 873781355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.333711,48.262056,-101.333711,48.262056",
+    "geom:latitude":48.262056,
+    "geom:longitude":-101.333711,
+    "iso:country":"US",
+    "sg:address":"2401 US Hwy 83 Byp",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 1044",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "home",
+        "demonstration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3E0fnqVmwmjGOu83YLyMJd_48.262056_-101.333711@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297509,
+    "wof:geomhash":"ecd38c68f3a92c2a7c8a8ed4525fb2db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873781355
+        }
+    ],
+    "wof:id":873781355,
+    "wof:lastmodified":1464297509,
+    "wof:name":"Amway & Quixtar Products",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "demonstration"
+    ]
+},
+  "bbox": [
+    -101.333711,
+    48.262056,
+    -101.333711,
+    48.262056
+],
+  "geometry": {"coordinates":[-101.33371099999999,48.262056],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 873679565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.168579,47.915445,-97.168579,47.915445",
+    "geom:latitude":47.915445,
+    "geom:longitude":-97.168579,
+    "iso:country":"US",
+    "sg:address":"501 93rd St S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 4728",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85842979,
+        102081493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ykbaZ7qaKJWyVJmtWkM0p_47.915445_-97.168579@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295979,
+    "wof:geomhash":"e10e5e85821d05b5e6d248652d1b7d2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "neighbourhood_id":85842979,
+            "region_id":85688525,
+            "venue_id":873679565
+        }
+    ],
+    "wof:id":873679565,
+    "wof:lastmodified":1464295979,
+    "wof:name":"Steam Bros",
+    "wof:parent_id":85842979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.168579,
+    47.915445,
+    -97.168579,
+    47.915445
+],
+  "geometry": {"coordinates":[-97.16857899999999,47.915445],"type":"Point"}
+}

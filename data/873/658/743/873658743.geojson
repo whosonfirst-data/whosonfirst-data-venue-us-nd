@@ -1,0 +1,71 @@
+{
+  "id": 873658743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.283808,48.236655,-101.283808,48.236655",
+    "geom:latitude":48.236655,
+    "geom:longitude":-101.283808,
+    "iso:country":"US",
+    "sg:address":"616 Central Ave E",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 8147",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NORQgJIYhdVOgkvYH0fkW_48.236655_-101.283808@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295686,
+    "wof:geomhash":"19a362c9a9289031d8caf8bd2f62753d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873658743
+        }
+    ],
+    "wof:id":873658743,
+    "wof:lastmodified":1464295686,
+    "wof:name":"Minot Towing",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -101.283808,
+    48.236655,
+    -101.283808,
+    48.236655
+],
+  "geometry": {"coordinates":[-101.28380799999999,48.236655],"type":"Point"}
+}

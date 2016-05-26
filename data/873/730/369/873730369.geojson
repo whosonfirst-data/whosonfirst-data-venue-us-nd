@@ -1,0 +1,67 @@
+{
+  "id": 873730369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.297216,48.233877,-101.297216,48.233877",
+    "geom:latitude":48.233877,
+    "geom:longitude":-101.297216,
+    "iso:country":"US",
+    "sg:address":"210 Summit Dr",
+    "sg:city":"Minot Afb",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 727 6111",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:website":"www.ntiernd.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35jv4egqcAww5OY2dS9CY1_48.233877_-101.297216@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296784,
+    "wof:geomhash":"4ed55cd871c86278d5608d53501d8b4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873730369
+        }
+    ],
+    "wof:id":873730369,
+    "wof:lastmodified":1464296784,
+    "wof:name":"Northern Tier Fed Credit Union",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.297216,
+    48.233877,
+    -101.297216,
+    48.233877
+],
+  "geometry": {"coordinates":[-101.29721600000001,48.233877],"type":"Point"}
+}

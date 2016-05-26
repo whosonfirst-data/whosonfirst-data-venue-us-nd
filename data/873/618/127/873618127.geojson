@@ -1,0 +1,73 @@
+{
+  "id": 873618127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.067041,47.904054,-97.067041,47.904054",
+    "geom:latitude":47.904054,
+    "geom:longitude":-97.067041,
+    "iso:country":"US",
+    "sg:address":"2750 17th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 9711",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57DWGdud9y57L3mEmqWsuk_47.904054_-97.067041@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295225,
+    "wof:geomhash":"c190671b8752fe9299393ba8fe31f24c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873618127
+        }
+    ],
+    "wof:id":873618127,
+    "wof:lastmodified":1464295225,
+    "wof:name":"Heartland Massage Therapy",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -97.067041,
+    47.904054,
+    -97.067041,
+    47.904054
+],
+  "geometry": {"coordinates":[-97.067041,47.904054],"type":"Point"}
+}

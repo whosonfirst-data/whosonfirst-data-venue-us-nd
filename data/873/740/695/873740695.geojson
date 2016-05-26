@@ -1,0 +1,71 @@
+{
+  "id": 873740695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.058118,47.92218,-97.058118,47.92218",
+    "geom:latitude":47.92218,
+    "geom:longitude":-97.058118,
+    "iso:country":"US",
+    "sg:address":"2111 University Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 3175",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kQ0kKiGkjstEvgzEtWZoa_47.922180_-97.058118@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296931,
+    "wof:geomhash":"e46be5d8cd3c1f979cde8757f49297ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873740695
+        }
+    ],
+    "wof:id":873740695,
+    "wof:lastmodified":1464296931,
+    "wof:name":"Dakota Consultants Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -97.058118,
+    47.92218,
+    -97.058118,
+    47.92218
+],
+  "geometry": {"coordinates":[-97.05811799999999,47.92218],"type":"Point"}
+}

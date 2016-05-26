@@ -1,0 +1,73 @@
+{
+  "id": 873644637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.025909,47.918397,-97.025909,47.918397",
+    "geom:latitude":47.918397,
+    "geom:longitude":-97.025909,
+    "iso:country":"US",
+    "sg:address":"101 4th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 3487",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rpicMsPi3X1xqs4PrSBIQ_47.918397_-97.025909@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295532,
+    "wof:geomhash":"7cc4b3c2c9b106fb4a89e4138e9ae23a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873644637
+        }
+    ],
+    "wof:id":873644637,
+    "wof:lastmodified":1464295532,
+    "wof:name":"Stiles Dacia Wall Adornment",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.025909,
+    47.918397,
+    -97.025909,
+    47.918397
+],
+  "geometry": {"coordinates":[-97.025909,47.918397],"type":"Point"}
+}

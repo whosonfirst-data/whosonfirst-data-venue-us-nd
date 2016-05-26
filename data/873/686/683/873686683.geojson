@@ -1,0 +1,76 @@
+{
+  "id": 873686683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.81373,46.883178,-96.81373,46.883178",
+    "geom:latitude":46.883178,
+    "geom:longitude":-96.81373,
+    "iso:country":"US",
+    "sg:address":"500 21st St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Dairy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 237 3538",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"www.cassclay.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fPY42h7UeQCg9kbeUXuNV_46.883178_-96.813730@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296184,
+    "wof:geomhash":"24235ffe74ded65a45f3a00238c8cac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873686683
+        }
+    ],
+    "wof:id":873686683,
+    "wof:lastmodified":1464296184,
+    "wof:name":"Cass Clay Creamery",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -96.81373,
+    46.883178,
+    -96.81373,
+    46.883178
+],
+  "geometry": {"coordinates":[-96.81373000000001,46.883178],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873574999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.232878,47.904275,-97.232878,47.904275",
+    "geom:latitude":47.904275,
+    "geom:longitude":-97.232878,
+    "iso:country":"US",
+    "sg:address":"1888 16th Ave NE",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 2000",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JiKTKftJrQV527md8DHVy_47.904275_-97.232878@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294664,
+    "wof:geomhash":"c3e5ae7dab5c104665365d933b856ce2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873574999
+        }
+    ],
+    "wof:id":873574999,
+    "wof:lastmodified":1464294664,
+    "wof:name":"Larrys Towing",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -97.232878,
+    47.904275,
+    -97.232878,
+    47.904275
+],
+  "geometry": {"coordinates":[-97.232878,47.904275],"type":"Point"}
+}

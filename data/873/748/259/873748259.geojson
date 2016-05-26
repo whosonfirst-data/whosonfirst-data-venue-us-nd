@@ -1,0 +1,77 @@
+{
+  "id": 873748259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.226533,47.108053,-97.226533,47.108053",
+    "geom:latitude":47.108053,
+    "geom:longitude":-97.226533,
+    "iso:country":"US",
+    "sg:address":"15495 21st St SE",
+    "sg:city":"Arthur",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 967 8479",
+    "sg:postcode":"58006",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75vUiPqsXh0ch1ECsEualH_47.108053_-97.226533@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297052,
+    "wof:geomhash":"e99d2e1ac5e81564c547a29b99645f1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873748259
+        }
+    ],
+    "wof:id":873748259,
+    "wof:lastmodified":1464297052,
+    "wof:name":"Dreamland Customs",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -97.226533,
+    47.108053,
+    -97.226533,
+    47.108053
+],
+  "geometry": {"coordinates":[-97.226533,47.108053],"type":"Point"}
+}

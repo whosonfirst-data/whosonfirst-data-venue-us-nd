@@ -1,0 +1,71 @@
+{
+  "id": 873547597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.255272,48.229139,-101.255272,48.229139",
+    "geom:latitude":48.229139,
+    "geom:longitude":-101.255272,
+    "iso:country":"US",
+    "sg:address":"2500 Burdick Expy E",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 6712",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21QRrlUR5J5wjqm866F07S_48.229139_-101.255272@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294347,
+    "wof:geomhash":"36a0b0c695409451d8a97b5af85a4a3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873547597
+        }
+    ],
+    "wof:id":873547597,
+    "wof:lastmodified":1464294347,
+    "wof:name":"Automated Maintenance Svc",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -101.255272,
+    48.229139,
+    -101.255272,
+    48.229139
+],
+  "geometry": {"coordinates":[-101.25527200000001,48.229139],"type":"Point"}
+}

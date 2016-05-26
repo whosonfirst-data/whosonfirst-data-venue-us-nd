@@ -1,0 +1,79 @@
+{
+  "id": 873763121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.825459,46.818091,-96.825459,46.818091",
+    "geom:latitude":46.818091,
+    "geom:longitude":-96.825459,
+    "iso:country":"US",
+    "sg:address":"2905 40th Ave SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 7180",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "finding",
+        "apartment",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877333,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55qHxYgy7BgqgZ3my68jQ8_46.818091_-96.825459@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297261,
+    "wof:geomhash":"736462593ce448bd8c097ad0ea84810d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877333,
+            "region_id":85688525,
+            "venue_id":873763121
+        }
+    ],
+    "wof:id":873763121,
+    "wof:lastmodified":1464297261,
+    "wof:name":"Mistwood Townhomes",
+    "wof:parent_id":85877333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "finding",
+        "apartment",
+        "rental"
+    ]
+},
+  "bbox": [
+    -96.825459,
+    46.818091,
+    -96.825459,
+    46.818091
+],
+  "geometry": {"coordinates":[-96.825459,46.818091],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873670695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.898025,46.872679,-96.898025,46.872679",
+    "geom:latitude":46.872679,
+    "geom:longitude":-96.898025,
+    "iso:country":"US",
+    "sg:address":"109 4th Ave E",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 799 8615",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rYMLtXgxJIwoAkLoNui3Q_46.872679_-96.898025@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295809,
+    "wof:geomhash":"491de156015c7a9b741480731d8928d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873670695
+        }
+    ],
+    "wof:id":873670695,
+    "wof:lastmodified":1464295809,
+    "wof:name":"Barons Handyman Service",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -96.898025,
+    46.872679,
+    -96.898025,
+    46.872679
+],
+  "geometry": {"coordinates":[-96.898025,46.872679],"type":"Point"}
+}

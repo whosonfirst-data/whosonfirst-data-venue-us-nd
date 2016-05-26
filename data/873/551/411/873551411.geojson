@@ -1,0 +1,71 @@
+{
+  "id": 873551411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.775551,46.805313,-100.775551,46.805313",
+    "geom:latitude":46.805313,
+    "geom:longitude":-100.775551,
+    "iso:country":"US",
+    "sg:address":"901 E Main Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 221 2400",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "battery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JNrYnGAyeyVwyjZiIa8IW_46.805313_-100.775551@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294393,
+    "wof:geomhash":"e9081a8fd1e29289249287470f4a3eec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873551411
+        }
+    ],
+    "wof:id":873551411,
+    "wof:lastmodified":1464294393,
+    "wof:name":"Interstate Battery Western ND",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "battery"
+    ]
+},
+  "bbox": [
+    -100.775551,
+    46.805313,
+    -100.775551,
+    46.805313
+],
+  "geometry": {"coordinates":[-100.77555099999999,46.805313],"type":"Point"}
+}

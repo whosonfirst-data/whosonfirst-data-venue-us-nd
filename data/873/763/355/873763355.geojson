@@ -1,0 +1,71 @@
+{
+  "id": 873763355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.30578,48.224941,-101.30578,48.224941",
+    "geom:latitude":48.224941,
+    "geom:longitude":-101.30578,
+    "iso:country":"US",
+    "sg:address":"1112 9th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 837 0021",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2j5sg9vl3iYopu4jcM5Q9P_48.224941_-101.305780@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297263,
+    "wof:geomhash":"489f142b4ad25ca6680c4a46f63fb4ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873763355
+        }
+    ],
+    "wof:id":873763355,
+    "wof:lastmodified":1464297263,
+    "wof:name":"Tyrone O Langager MD",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -101.30578,
+    48.224941,
+    -101.30578,
+    48.224941
+],
+  "geometry": {"coordinates":[-101.30578,48.224941],"type":"Point"}
+}

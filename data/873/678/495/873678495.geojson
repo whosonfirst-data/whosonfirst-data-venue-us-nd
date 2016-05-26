@@ -1,0 +1,73 @@
+{
+  "id": 873678495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.580801,47.969404,-97.580801,47.969404",
+    "geom:latitude":47.969404,
+    "geom:longitude":-97.580801,
+    "iso:country":"US",
+    "sg:address":"2077 35th St",
+    "sg:city":"Larimore",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 343 2835",
+    "sg:postcode":"58251",
+    "sg:province":"ND",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6n9i7L2xmu72ptZJcW8LKP_47.969404_-97.580801@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295953,
+    "wof:geomhash":"a32c5670507d5a944771d692b5ad83d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873678495
+        }
+    ],
+    "wof:id":873678495,
+    "wof:lastmodified":1464295953,
+    "wof:name":"Knudson Farm",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -97.580801,
+    47.969404,
+    -97.580801,
+    47.969404
+],
+  "geometry": {"coordinates":[-97.58080099999999,47.969404],"type":"Point"}
+}

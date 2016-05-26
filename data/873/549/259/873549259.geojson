@@ -1,0 +1,73 @@
+{
+  "id": 873549259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.798066,46.805372,-100.798066,46.805372",
+    "geom:latitude":46.805372,
+    "geom:longitude":-100.798066,
+    "iso:country":"US",
+    "sg:address":"124 S Hannifin St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 224 9074",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4i5ZZZtMFSkDG4Rshe8nOy_46.805372_-100.798066@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294370,
+    "wof:geomhash":"5ec7a07d5ae374927bb57022de2b0a12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873549259
+        }
+    ],
+    "wof:id":873549259,
+    "wof:lastmodified":1464294370,
+    "wof:name":"Barnes Transmissions & Mntnc",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -100.798066,
+    46.805372,
+    -100.798066,
+    46.805372
+],
+  "geometry": {"coordinates":[-100.79806600000001,46.805372],"type":"Point"}
+}

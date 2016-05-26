@@ -1,0 +1,73 @@
+{
+  "id": 873551143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.49715,46.962436,-100.49715,46.962436",
+    "geom:latitude":46.962436,
+    "geom:longitude":-100.49715,
+    "iso:country":"US",
+    "sg:address":"14302 184th St NE",
+    "sg:city":"Menoken",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 673 3477",
+    "sg:postcode":"58558",
+    "sg:province":"ND",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3frxNHFJ51EuDgvb73utbX_46.962436_-100.497150@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294390,
+    "wof:geomhash":"2ff873a2ed0199eb020fe985296eec5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873551143
+        }
+    ],
+    "wof:id":873551143,
+    "wof:lastmodified":1464294390,
+    "wof:name":"Winkler Wood & Roofing",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.49715,
+    46.962436,
+    -100.49715,
+    46.962436
+],
+  "geometry": {"coordinates":[-100.49715,46.962436],"type":"Point"}
+}

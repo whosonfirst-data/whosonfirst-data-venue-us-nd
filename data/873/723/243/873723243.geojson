@@ -1,0 +1,75 @@
+{
+  "id": 873723243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.047919,47.91011,-97.047919,47.91011",
+    "geom:latitude":47.91011,
+    "geom:longitude":-97.047919,
+    "iso:country":"US",
+    "sg:address":"1419 12th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Aerospace",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 0203",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "engine",
+        "aircraft",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tepWgbVh3dk0X6TJQUnFf_47.910110_-97.047919@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296690,
+    "wof:geomhash":"77d6d074f9e3b9945d9ea1a7cc2b33eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873723243
+        }
+    ],
+    "wof:id":873723243,
+    "wof:lastmodified":1464296690,
+    "wof:name":"D & D Manufacturing",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "aircraft",
+        "parts"
+    ]
+},
+  "bbox": [
+    -97.047919,
+    47.91011,
+    -97.047919,
+    47.91011
+],
+  "geometry": {"coordinates":[-97.04791899999999,47.91011],"type":"Point"}
+}

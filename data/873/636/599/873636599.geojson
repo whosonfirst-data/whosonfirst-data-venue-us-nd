@@ -1,0 +1,78 @@
+{
+  "id": 873636599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.819455,46.883132,-96.819455,46.883132",
+    "geom:latitude":46.883132,
+    "geom:longitude":-96.819455,
+    "iso:country":"US",
+    "sg:address":"2414 7th Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 237 3100",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "photo",
+        "finishing"
+    ],
+    "sg:website":"www.monarchphoto.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uxvikj7TLYGCrA3LxnMCv_46.883132_-96.819455@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295438,
+    "wof:geomhash":"13c060e2f195ddad7ec38960c7fb6d12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873636599
+        }
+    ],
+    "wof:id":873636599,
+    "wof:lastmodified":1464295438,
+    "wof:name":"Monarch Photo",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo",
+        "finishing"
+    ]
+},
+  "bbox": [
+    -96.819455,
+    46.883132,
+    -96.819455,
+    46.883132
+],
+  "geometry": {"coordinates":[-96.819455,46.883132],"type":"Point"}
+}

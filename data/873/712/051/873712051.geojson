@@ -1,0 +1,73 @@
+{
+  "id": 873712051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.741111,46.895911,-100.741111,46.895911",
+    "geom:latitude":46.895911,
+    "geom:longitude":-100.741111,
+    "iso:country":"US",
+    "sg:address":"3301 84th Ave NE",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 6379",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XeL2RJYpnNo9mYGFoo25B_46.895911_-100.741111@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296545,
+    "wof:geomhash":"e2e16c9a16a52adc7f31a3718f8f1aa2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873712051
+        }
+    ],
+    "wof:id":873712051,
+    "wof:lastmodified":1464296545,
+    "wof:name":"Jim Bertch Farm",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -100.741111,
+    46.895911,
+    -100.741111,
+    46.895911
+],
+  "geometry": {"coordinates":[-100.741111,46.895911],"type":"Point"}
+}

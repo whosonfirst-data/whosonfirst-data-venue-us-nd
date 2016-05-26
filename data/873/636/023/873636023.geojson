@@ -1,0 +1,66 @@
+{
+  "id": 873636023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.758662,46.805063,-100.758662,46.805063",
+    "geom:latitude":46.805063,
+    "geom:longitude":-100.758662,
+    "iso:country":"US",
+    "sg:address":"2215 E Main Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 3013",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PQJGefpiqSpVkPwnX7ujC_46.805063_-100.758662@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295432,
+    "wof:geomhash":"8d289e8ea35ca74b965d180facd22783",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873636023
+        }
+    ],
+    "wof:id":873636023,
+    "wof:lastmodified":1464295432,
+    "wof:name":"Kraft Chiropractic Clinic",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.758662,
+    46.805063,
+    -100.758662,
+    46.805063
+],
+  "geometry": {"coordinates":[-100.758662,46.805063],"type":"Point"}
+}

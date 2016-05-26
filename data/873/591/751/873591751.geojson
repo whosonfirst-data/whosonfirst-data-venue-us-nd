@@ -1,0 +1,66 @@
+{
+  "id": 873591751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.245293,46.651335,-97.245293,46.651335",
+    "geom:latitude":46.651335,
+    "geom:longitude":-97.245293,
+    "iso:country":"US",
+    "sg:address":"406 Railroad Ave S",
+    "sg:city":"Leonard",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 645 2323",
+    "sg:postcode":"58052",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cfetCjWeq5nxOiwJGf1D4_46.651335_-97.245293@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294857,
+    "wof:geomhash":"42ba9cec17b6ebded194902977194fe9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873591751
+        }
+    ],
+    "wof:id":873591751,
+    "wof:lastmodified":1464294857,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.245293,
+    46.651335,
+    -97.245293,
+    46.651335
+],
+  "geometry": {"coordinates":[-97.245293,46.651335],"type":"Point"}
+}

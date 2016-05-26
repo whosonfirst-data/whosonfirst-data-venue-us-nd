@@ -1,0 +1,74 @@
+{
+  "id": 873626089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.010688,46.641153,-97.010688,46.641153",
+    "geom:latitude":46.641153,
+    "geom:longitude":-97.010688,
+    "iso:country":"US",
+    "sg:address":"5324 165th Ave SE",
+    "sg:city":"Kindred",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 428 3134",
+    "sg:postcode":"58051",
+    "sg:province":"ND",
+    "sg:tags":[
+        "grain",
+        "elevator"
+    ],
+    "sg:website":"www.chsinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7efrMmHKVQBfyBnBQXFIHR_46.641153_-97.010688@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295321,
+    "wof:geomhash":"4c58f0cc739f8a644e860da038b01275",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873626089
+        }
+    ],
+    "wof:id":873626089,
+    "wof:lastmodified":1464295321,
+    "wof:name":"CHS Inc",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grain",
+        "elevator"
+    ]
+},
+  "bbox": [
+    -97.010688,
+    46.641153,
+    -97.010688,
+    46.641153
+],
+  "geometry": {"coordinates":[-97.010688,46.641153],"type":"Point"}
+}

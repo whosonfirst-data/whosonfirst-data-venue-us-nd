@@ -1,0 +1,77 @@
+{
+  "id": 873688777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.405935,48.107901,-97.405935,48.107901",
+    "geom:latitude":48.107901,
+    "geom:longitude":-97.405935,
+    "iso:country":"US",
+    "sg:address":"2731 30th Ave NE",
+    "sg:city":"Gilby",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 739 2329",
+    "sg:postcode":"58235",
+    "sg:province":"ND",
+    "sg:tags":[
+        "sell",
+        "installs",
+        "video",
+        "telephone"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ra1Nek8DCPGlVHH1Bl0sn_48.107901_-97.405935@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296243,
+    "wof:geomhash":"d810e468edbe0bbb952a37c0905b9026",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873688777
+        }
+    ],
+    "wof:id":873688777,
+    "wof:lastmodified":1464296243,
+    "wof:name":"Larson Technologies",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sell",
+        "installs",
+        "video",
+        "telephone"
+    ]
+},
+  "bbox": [
+    -97.405935,
+    48.107901,
+    -97.405935,
+    48.107901
+],
+  "geometry": {"coordinates":[-97.405935,48.107901],"type":"Point"}
+}

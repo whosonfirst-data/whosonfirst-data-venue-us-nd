@@ -1,0 +1,75 @@
+{
+  "id": 873779035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.775008,46.821893,-100.775008,46.821893",
+    "geom:latitude":46.821893,
+    "geom:longitude":-100.775008,
+    "iso:country":"US",
+    "sg:address":"1501 N 12th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 5900",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iIIdGlGjQjwJbqvLJljhK_46.821893_-100.775008@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297476,
+    "wof:geomhash":"f650df752e0fe0ef48ecb7f0b1fcbdd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873779035
+        }
+    ],
+    "wof:id":873779035,
+    "wof:lastmodified":1464297476,
+    "wof:name":"Bruce Madlom Law Office",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -100.775008,
+    46.821893,
+    -100.775008,
+    46.821893
+],
+  "geometry": {"coordinates":[-100.775008,46.821893],"type":"Point"}
+}

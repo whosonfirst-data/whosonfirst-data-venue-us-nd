@@ -1,0 +1,77 @@
+{
+  "id": 873759229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.827694,46.876116,-96.827694,46.876116",
+    "geom:latitude":46.876116,
+    "geom:longitude":-96.827694,
+    "iso:country":"US",
+    "sg:address":"3007 Main Ave",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 9486",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kq2ecah1maNc9hQCv5ODa_46.876116_-96.827694@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297197,
+    "wof:geomhash":"ab280634a86d93105b114419fcbb3349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873759229
+        }
+    ],
+    "wof:id":873759229,
+    "wof:lastmodified":1464297197,
+    "wof:name":"Cars",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.827694,
+    46.876116,
+    -96.827694,
+    46.876116
+],
+  "geometry": {"coordinates":[-96.82769399999999,46.876116],"type":"Point"}
+}

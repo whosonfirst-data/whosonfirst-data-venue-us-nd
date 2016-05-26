@@ -1,0 +1,71 @@
+{
+  "id": 873743649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.705732,46.759245,-100.705732,46.759245",
+    "geom:latitude":46.759245,
+    "geom:longitude":-100.705732,
+    "iso:country":"US",
+    "sg:address":"18 Penenah Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 8063",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MRni0OLSjveM0HHXdx97X_46.759245_-100.705732@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296982,
+    "wof:geomhash":"19210e556dcd23aa7968b4dc1ca1e2c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873743649
+        }
+    ],
+    "wof:id":873743649,
+    "wof:lastmodified":1464296982,
+    "wof:name":"Mc Mahen & Mc Mahen",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -100.705732,
+    46.759245,
+    -100.705732,
+    46.759245
+],
+  "geometry": {"coordinates":[-100.705732,46.759245],"type":"Point"}
+}

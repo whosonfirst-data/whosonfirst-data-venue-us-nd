@@ -1,0 +1,71 @@
+{
+  "id": 873612193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.100339,47.932889,-97.100339,47.932889",
+    "geom:latitude":47.932889,
+    "geom:longitude":-97.100339,
+    "iso:country":"US",
+    "sg:address":"5030 Gateway Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 9707",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nlSeooAmv5CnInvoZ05QP_47.932889_-97.100339@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295169,
+    "wof:geomhash":"1037fdae89a84f09fc73ed451bd2ae7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873612193
+        }
+    ],
+    "wof:id":873612193,
+    "wof:lastmodified":1464295169,
+    "wof:name":"All Pets Hosp & Pet Supl Store",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -97.100339,
+    47.932889,
+    -97.100339,
+    47.932889
+],
+  "geometry": {"coordinates":[-97.10033900000001,47.932889],"type":"Point"}
+}

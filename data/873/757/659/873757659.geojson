@@ -1,0 +1,73 @@
+{
+  "id": 873757659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.213498,47.9332,-97.213498,47.9332",
+    "geom:latitude":47.9332,
+    "geom:longitude":-97.213498,
+    "iso:country":"US",
+    "sg:address":"1780 US Hwy 2",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 0185",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "mobile",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HKH5ENKLuw2Ipt1cglYnQ_47.933200_-97.213498@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297177,
+    "wof:geomhash":"4ef30d343dcc2136a03b1733eacafb4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873757659
+        }
+    ],
+    "wof:id":873757659,
+    "wof:lastmodified":1464297177,
+    "wof:name":"Midwest Home Svc Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home"
+    ]
+},
+  "bbox": [
+    -97.213498,
+    47.9332,
+    -97.213498,
+    47.9332
+],
+  "geometry": {"coordinates":[-97.213498,47.9332],"type":"Point"}
+}

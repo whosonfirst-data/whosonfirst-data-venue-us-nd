@@ -1,0 +1,73 @@
+{
+  "id": 873576823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.307175,48.253346,-101.307175,48.253346",
+    "geom:latitude":48.253346,
+    "geom:longitude":-101.307175,
+    "iso:country":"US",
+    "sg:address":"6 Debra Ct",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 6531",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_043h6iD2F2TLkV8bwAzbTF_48.253346_-101.307175@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294682,
+    "wof:geomhash":"1d664f11a5262e077c76be9d85d64914",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873576823
+        }
+    ],
+    "wof:id":873576823,
+    "wof:lastmodified":1464294682,
+    "wof:name":"Routledge Brothers LLP",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -101.307175,
+    48.253346,
+    -101.307175,
+    48.253346
+],
+  "geometry": {"coordinates":[-101.307175,48.253346],"type":"Point"}
+}

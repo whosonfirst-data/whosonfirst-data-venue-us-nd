@@ -1,0 +1,75 @@
+{
+  "id": 873543305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.039305,47.903048,-97.039305,47.903048",
+    "geom:latitude":47.903048,
+    "geom:longitude":-97.039305,
+    "iso:country":"US",
+    "sg:address":"906 18th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 1054",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dLx9SJ9HItPhqIiyN3dFe_47.903048_-97.039305@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294294,
+    "wof:geomhash":"c9bc536de72d43ad64d85394c3b9eedc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873543305
+        }
+    ],
+    "wof:id":873543305,
+    "wof:lastmodified":1464294294,
+    "wof:name":"Andrew Mc Cloud Master Piano",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -97.039305,
+    47.903048,
+    -97.039305,
+    47.903048
+],
+  "geometry": {"coordinates":[-97.039305,47.903048],"type":"Point"}
+}

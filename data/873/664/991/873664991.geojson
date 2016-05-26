@@ -1,0 +1,71 @@
+{
+  "id": 873664991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.061581,47.907497,-97.061581,47.907497",
+    "geom:latitude":47.907497,
+    "geom:longitude":-97.061581,
+    "iso:country":"US",
+    "sg:address":"2514 W Fallcreek Ct",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 335 2431",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "carpenter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29VDF3lnUKrbiTIr1VzbYG_47.907497_-97.061581@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295750,
+    "wof:geomhash":"9dd9275a84151685d3b42ce7eabb0fc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873664991
+        }
+    ],
+    "wof:id":873664991,
+    "wof:lastmodified":1464295750,
+    "wof:name":"A Carpenter",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpenter"
+    ]
+},
+  "bbox": [
+    -97.061581,
+    47.907497,
+    -97.061581,
+    47.907497
+],
+  "geometry": {"coordinates":[-97.061581,47.907497],"type":"Point"}
+}

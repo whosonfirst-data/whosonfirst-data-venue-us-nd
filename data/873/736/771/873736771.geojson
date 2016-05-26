@@ -1,0 +1,70 @@
+{
+  "id": 873736771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.79425,46.808554,-100.79425,46.808554",
+    "geom:latitude":46.808554,
+    "geom:longitude":-100.79425,
+    "iso:country":"US",
+    "sg:address":"311 N Washington St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 221 9824",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IsK6L3536mftgTaMruvyd_46.808554_-100.794250@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296879,
+    "wof:geomhash":"f67b56319cfba7336ce49878245125c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873736771
+        }
+    ],
+    "wof:id":873736771,
+    "wof:lastmodified":1464296879,
+    "wof:name":"Community Health Care Assn",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.79425,
+    46.808554,
+    -100.79425,
+    46.808554
+],
+  "geometry": {"coordinates":[-100.79425000000001,46.808554],"type":"Point"}
+}

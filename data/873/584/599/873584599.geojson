@@ -1,0 +1,73 @@
+{
+  "id": 873584599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.061996,47.891164,-97.061996,47.891164",
+    "geom:latitude":47.891164,
+    "geom:longitude":-97.061996,
+    "iso:country":"US",
+    "sg:address":"2450 30th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 4041",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KIldZaOILgd0lv1HVDB4U_47.891164_-97.061996@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294768,
+    "wof:geomhash":"f5bf84fa583c4ce05c589af8b7a8fde2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873584599
+        }
+    ],
+    "wof:id":873584599,
+    "wof:lastmodified":1464294768,
+    "wof:name":"Southwinds Apartment",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -97.061996,
+    47.891164,
+    -97.061996,
+    47.891164
+],
+  "geometry": {"coordinates":[-97.06199599999999,47.891164],"type":"Point"}
+}

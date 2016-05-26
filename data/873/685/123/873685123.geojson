@@ -1,0 +1,73 @@
+{
+  "id": 873685123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.048836,47.878024,-97.048836,47.878024",
+    "geom:latitude":47.878024,
+    "geom:longitude":-97.048836,
+    "iso:country":"US",
+    "sg:address":"1451 44th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 2500",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2K2YNWb4dLDJLni9iGmKRj_47.878024_-97.048836@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296141,
+    "wof:geomhash":"79b2bba182a037bb5216b9249a2c7d4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873685123
+        }
+    ],
+    "wof:id":873685123,
+    "wof:lastmodified":1464296141,
+    "wof:name":"Center For Psychiatric Care",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -97.048836,
+    47.878024,
+    -97.048836,
+    47.878024
+],
+  "geometry": {"coordinates":[-97.04883599999999,47.878024],"type":"Point"}
+}

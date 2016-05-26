@@ -1,0 +1,71 @@
+{
+  "id": 873544759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.033392,47.910557,-97.033392,47.910557",
+    "geom:latitude":47.910557,
+    "geom:longitude":-97.033392,
+    "iso:country":"US",
+    "sg:address":"1020 Cottonwood St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 0541",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7T71qYy6Z5JlXKRsFrnTtU_47.910557_-97.033392@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294314,
+    "wof:geomhash":"f662a3386906d4960d19cf4bd0e3997a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873544759
+        }
+    ],
+    "wof:id":873544759,
+    "wof:lastmodified":1464294314,
+    "wof:name":"Sannes Antiques & Restoration",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -97.033392,
+    47.910557,
+    -97.033392,
+    47.910557
+],
+  "geometry": {"coordinates":[-97.03339200000001,47.910557],"type":"Point"}
+}

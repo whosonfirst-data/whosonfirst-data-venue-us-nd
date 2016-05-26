@@ -1,0 +1,71 @@
+{
+  "id": 873587415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.088216,47.892513,-97.088216,47.892513",
+    "geom:latitude":47.892513,
+    "geom:longitude":-97.088216,
+    "iso:country":"US",
+    "sg:address":"2975 S 42nd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 7070",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GF7SLpT6OVXdJc9ID1f9h_47.892513_-97.088216@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294801,
+    "wof:geomhash":"615f9aeb61c8f6f79aa1195aec03e719",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873587415
+        }
+    ],
+    "wof:id":873587415,
+    "wof:lastmodified":1464294801,
+    "wof:name":"Amundson Funeral Home",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -97.088216,
+    47.892513,
+    -97.088216,
+    47.892513
+],
+  "geometry": {"coordinates":[-97.088216,47.892513],"type":"Point"}
+}

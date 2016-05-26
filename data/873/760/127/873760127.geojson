@@ -1,0 +1,77 @@
+{
+  "id": 873760127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.81038,46.831494,-96.81038,46.831494",
+    "geom:latitude":46.831494,
+    "geom:longitude":-96.81038,
+    "iso:country":"US",
+    "sg:address":"3256 18th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 7559",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534487,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06gbftiod8LD206ajcIwB4_46.831494_-96.810380@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297208,
+    "wof:geomhash":"79f2f63de3f54c83fc2ae14d599da385",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534487,
+            "region_id":85688525,
+            "venue_id":873760127
+        }
+    ],
+    "wof:id":873760127,
+    "wof:lastmodified":1464297208,
+    "wof:name":"Armstrong Concrete & Cnstrctn",
+    "wof:parent_id":420534487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.81038,
+    46.831494,
+    -96.81038,
+    46.831494
+],
+  "geometry": {"coordinates":[-96.81037999999999,46.831494],"type":"Point"}
+}

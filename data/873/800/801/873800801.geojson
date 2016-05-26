@@ -1,0 +1,91 @@
+{
+  "id": 873800801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.794021,46.88255,-96.794021,46.88255",
+    "geom:latitude":46.88255,
+    "geom:longitude":-96.794021,
+    "iso:country":"US",
+    "sg:address":"1002 6th Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 237 5661",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "body",
+        "shop",
+        "automobile",
+        "supply-wholesale",
+        "equipment",
+        "parts",
+        "accessories-wholesale",
+        "service-equipment",
+        "painting",
+        "repairing",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zFImxQIq1yJbPYpwmI8sH_46.882550_-96.794021@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297783,
+    "wof:geomhash":"62a4a84d57e724bf10c1de2ea9e8f5c2",
+    "wof:hierarchy":[],
+    "wof:id":873800801,
+    "wof:lastmodified":1464297783,
+    "wof:name":"Fargo Bumper Exchange",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "automobile",
+        "supply-wholesale",
+        "equipment",
+        "parts",
+        "accessories-wholesale",
+        "service-equipment",
+        "painting",
+        "repairing",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -96.794021,
+    46.88255,
+    -96.794021,
+    46.88255
+],
+  "geometry": {"coordinates":[-96.794021,46.88255],"type":"Point"}
+}

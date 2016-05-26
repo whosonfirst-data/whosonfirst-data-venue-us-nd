@@ -1,0 +1,66 @@
+{
+  "id": 873627911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.462297,47.961656,-97.462297,47.961656",
+    "geom:latitude":47.961656,
+    "geom:longitude":-97.462297,
+    "iso:country":"US",
+    "sg:address":"2952 20th Ave NE",
+    "sg:city":"Arvilla",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 594 9766",
+    "sg:postcode":"58214",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cG9uxby2va3Sk49l9UpfH_47.961656_-97.462297@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295340,
+    "wof:geomhash":"edb2d9bd8945f5482fb191b6dce3ecc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873627911
+        }
+    ],
+    "wof:id":873627911,
+    "wof:lastmodified":1464295340,
+    "wof:name":"Rask Insurance Agency",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.462297,
+    47.961656,
+    -97.462297,
+    47.961656
+],
+  "geometry": {"coordinates":[-97.46229700000001,47.961656],"type":"Point"}
+}

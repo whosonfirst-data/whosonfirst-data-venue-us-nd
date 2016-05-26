@@ -1,0 +1,71 @@
+{
+  "id": 873799869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.983475,46.630019,-96.983475,46.630019",
+    "geom:latitude":46.630019,
+    "geom:longitude":-96.983475,
+    "iso:country":"US",
+    "sg:address":"16637 54th St SE",
+    "sg:city":"Kindred",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 428 3804",
+    "sg:postcode":"58051",
+    "sg:province":"ND",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SGfhaDXp6G53YIuoCCMik_46.630019_-96.983475@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297772,
+    "wof:geomhash":"0e2dc144a8131ef276716aafd9603f79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873799869
+        }
+    ],
+    "wof:id":873799869,
+    "wof:lastmodified":1464297772,
+    "wof:name":"Busy Beaver Stump Grinding",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -96.983475,
+    46.630019,
+    -96.983475,
+    46.630019
+],
+  "geometry": {"coordinates":[-96.983475,46.630019],"type":"Point"}
+}

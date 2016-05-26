@@ -1,0 +1,71 @@
+{
+  "id": 873731121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.070716,47.925641,-97.070716,47.925641",
+    "geom:latitude":47.925641,
+    "geom:longitude":-97.070716,
+    "iso:country":"US",
+    "sg:address":"505 Cambridge St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 777 7432",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "sorority"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5F376E0a87ihFp0kenMBme_47.925641_-97.070716@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296792,
+    "wof:geomhash":"2b0b628e3d2dfd0d119a59f8c86c8fea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873731121
+        }
+    ],
+    "wof:id":873731121,
+    "wof:lastmodified":1464296792,
+    "wof:name":"Alpha Chi Omega",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sorority"
+    ]
+},
+  "bbox": [
+    -97.070716,
+    47.925641,
+    -97.070716,
+    47.925641
+],
+  "geometry": {"coordinates":[-97.070716,47.925641],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873544025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.04496,47.907909,-97.04496,47.907909",
+    "geom:latitude":47.907909,
+    "geom:longitude":-97.04496,
+    "iso:country":"US",
+    "sg:address":"1439 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 5361",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TXfsqeWwmRun4WU6p40zq_47.907909_-97.044960@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294307,
+    "wof:geomhash":"7aa1d84f9755b2f199bc8acad3c8ce65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873544025
+        }
+    ],
+    "wof:id":873544025,
+    "wof:lastmodified":1464294307,
+    "wof:name":"Firestone",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.04496,
+    47.907909,
+    -97.04496,
+    47.907909
+],
+  "geometry": {"coordinates":[-97.04496,47.907909],"type":"Point"}
+}

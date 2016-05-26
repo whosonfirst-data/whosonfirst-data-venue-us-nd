@@ -1,0 +1,73 @@
+{
+  "id": 873704435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.794444,46.799282,-100.794444,46.799282",
+    "geom:latitude":46.799282,
+    "geom:longitude":-100.794444,
+    "iso:country":"US",
+    "sg:address":"601 S Washington St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 1889",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mTm4o8XDFVlotgBWAlJx1_46.799282_-100.794444@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296450,
+    "wof:geomhash":"98ba3bab6932f72b21034ad410b5b139",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873704435
+        }
+    ],
+    "wof:id":873704435,
+    "wof:lastmodified":1464296450,
+    "wof:name":"Salvation Army",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -100.794444,
+    46.799282,
+    -100.794444,
+    46.799282
+],
+  "geometry": {"coordinates":[-100.794444,46.799282],"type":"Point"}
+}

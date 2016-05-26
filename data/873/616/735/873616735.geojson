@@ -1,0 +1,71 @@
+{
+  "id": 873616735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.062445,47.905788,-97.062445,47.905788",
+    "geom:latitude":47.905788,
+    "geom:longitude":-97.062445,
+    "iso:country":"US",
+    "sg:address":"2414 W Fallcreek Ct",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 4923",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xdYSUi8dbA9vnNPgcuPx5_47.905788_-97.062445@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295213,
+    "wof:geomhash":"23ebd52f3df805824be84499e1396403",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873616735
+        }
+    ],
+    "wof:id":873616735,
+    "wof:lastmodified":1464295213,
+    "wof:name":"Sickels Dale",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architectural"
+    ]
+},
+  "bbox": [
+    -97.062445,
+    47.905788,
+    -97.062445,
+    47.905788
+],
+  "geometry": {"coordinates":[-97.062445,47.905788],"type":"Point"}
+}

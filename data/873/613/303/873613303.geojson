@@ -1,0 +1,71 @@
+{
+  "id": 873613303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.676676,46.810595,-100.676676,46.810595",
+    "geom:latitude":46.810595,
+    "geom:longitude":-100.676676,
+    "iso:country":"US",
+    "sg:address":"600 Barston Ln",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 3852",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48hW4tqSepQXYAhgpdS2sH_46.810595_-100.676676@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295179,
+    "wof:geomhash":"af165eaa77ba1219b599b2c10ea7674a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873613303
+        }
+    ],
+    "wof:id":873613303,
+    "wof:lastmodified":1464295179,
+    "wof:name":"Celley Sports",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -100.676676,
+    46.810595,
+    -100.676676,
+    46.810595
+],
+  "geometry": {"coordinates":[-100.676676,46.810595],"type":"Point"}
+}

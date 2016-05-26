@@ -1,0 +1,71 @@
+{
+  "id": 873534289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.780117,46.807402,-100.780117,46.807402",
+    "geom:latitude":46.807402,
+    "geom:longitude":-100.780117,
+    "iso:country":"US",
+    "sg:address":"206 N 8th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 1050",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wiuZpwEQS7hMsW7m5Xea0_46.807402_-100.780117@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294194,
+    "wof:geomhash":"095d4ce72a6ea468267b99794e25f19d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873534289
+        }
+    ],
+    "wof:id":873534289,
+    "wof:lastmodified":1464294194,
+    "wof:name":"Al's Barber Shop",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -100.780117,
+    46.807402,
+    -100.780117,
+    46.807402
+],
+  "geometry": {"coordinates":[-100.780117,46.807402],"type":"Point"}
+}

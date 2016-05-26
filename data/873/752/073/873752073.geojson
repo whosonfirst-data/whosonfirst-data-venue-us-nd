@@ -1,0 +1,71 @@
+{
+  "id": 873752073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.895487,46.873803,-96.895487,46.873803",
+    "geom:latitude":46.873803,
+    "geom:longitude":-96.895487,
+    "iso:country":"US",
+    "sg:address":"330 3rd Ave E",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 356 2020",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "sg:website":"www.west-fargo.k12.nd.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AxwpAWxnmAfI5jxkHqtbC_46.873803_-96.895487@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297101,
+    "wof:geomhash":"6be0449426f9ce483e170ad8c033754f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873752073
+        }
+    ],
+    "wof:id":873752073,
+    "wof:lastmodified":1464297101,
+    "wof:name":"West Fargo Early Childhood Ctr",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.895487,
+    46.873803,
+    -96.895487,
+    46.873803
+],
+  "geometry": {"coordinates":[-96.895487,46.873803],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873762065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.531178,46.81904,-100.531178,46.81904",
+    "geom:latitude":46.81904,
+    "geom:longitude":-100.531178,
+    "iso:country":"US",
+    "sg:address":"12 Front Ave E",
+    "sg:city":"Menoken",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 673 3262",
+    "sg:postcode":"58558",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2k0Mac8TWmB1mENhR5p9Pa_46.819040_-100.531178@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297238,
+    "wof:geomhash":"d2282f2d8d27e59834e4d9568986623c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873762065
+        }
+    ],
+    "wof:id":873762065,
+    "wof:lastmodified":1464297238,
+    "wof:name":"Menoken Post Office",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.531178,
+    46.81904,
+    -100.531178,
+    46.81904
+],
+  "geometry": {"coordinates":[-100.531178,46.81904],"type":"Point"}
+}

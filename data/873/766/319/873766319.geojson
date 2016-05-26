@@ -1,0 +1,73 @@
+{
+  "id": 873766319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.690791,46.88422,-100.690791,46.88422",
+    "geom:latitude":46.88422,
+    "geom:longitude":-100.690791,
+    "iso:country":"US",
+    "sg:address":"7507 Twilight Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 1917",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XlLt0JgOlpfHeeqQbgSTt_46.884220_-100.690791@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297316,
+    "wof:geomhash":"20780213799d7e47963788818133cc11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873766319
+        }
+    ],
+    "wof:id":873766319,
+    "wof:lastmodified":1464297316,
+    "wof:name":"Jacobsons Roofing",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.690791,
+    46.88422,
+    -100.690791,
+    46.88422
+],
+  "geometry": {"coordinates":[-100.690791,46.88422],"type":"Point"}
+}

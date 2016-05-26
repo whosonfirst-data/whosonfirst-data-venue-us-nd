@@ -1,0 +1,71 @@
+{
+  "id": 873617813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.292958,48.234853,-101.292958,48.234853",
+    "geom:latitude":48.234853,
+    "geom:longitude":-101.292958,
+    "iso:country":"US",
+    "sg:address":"215 Main St S",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 1705",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "western"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4697JjpeAX9LfleERJGA8C_48.234853_-101.292958@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295223,
+    "wof:geomhash":"d8515e82344279470ca58c71aaa9b7c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873617813
+        }
+    ],
+    "wof:id":873617813,
+    "wof:lastmodified":1464295223,
+    "wof:name":"Bray's Saddlery Western Wear",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "western"
+    ]
+},
+  "bbox": [
+    -101.292958,
+    48.234853,
+    -101.292958,
+    48.234853
+],
+  "geometry": {"coordinates":[-101.292958,48.234853],"type":"Point"}
+}

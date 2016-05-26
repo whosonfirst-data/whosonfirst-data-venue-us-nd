@@ -1,0 +1,75 @@
+{
+  "id": 873722809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.765167,46.798359,-100.765167,46.798359",
+    "geom:latitude":46.798359,
+    "geom:longitude":-100.765167,
+    "iso:country":"US",
+    "sg:address":"1723 Michigan Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 4070",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "system",
+        "automation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qkJSTmjwnBCEuKO1lGdma_46.798359_-100.765167@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296685,
+    "wof:geomhash":"4b7d8b5d0fd21ada6b4bcd4ac9f69018",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873722809
+        }
+    ],
+    "wof:id":873722809,
+    "wof:lastmodified":1464296685,
+    "wof:name":"Tech Spec Sales",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "system",
+        "automation"
+    ]
+},
+  "bbox": [
+    -100.765167,
+    46.798359,
+    -100.765167,
+    46.798359
+],
+  "geometry": {"coordinates":[-100.76516700000001,46.798359],"type":"Point"}
+}

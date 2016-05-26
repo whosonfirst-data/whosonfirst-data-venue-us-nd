@@ -1,0 +1,71 @@
+{
+  "id": 873639619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.117456,48.095312,-101.117456,48.095312",
+    "geom:latitude":48.095312,
+    "geom:longitude":-101.117456,
+    "iso:country":"US",
+    "sg:address":"11600 135th Ave SE",
+    "sg:city":"Sawyer",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 624 5226",
+    "sg:postcode":"58781",
+    "sg:province":"ND",
+    "sg:tags":[
+        "rodeo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zEDPX7BS0z1FiBzSqIsuc_48.095312_-101.117456@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295469,
+    "wof:geomhash":"32eb8132c111f2b1bae02c954e89bb87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873639619
+        }
+    ],
+    "wof:id":873639619,
+    "wof:lastmodified":1464295469,
+    "wof:name":"Roughrider Rodeo Assn ND",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rodeo"
+    ]
+},
+  "bbox": [
+    -101.117456,
+    48.095312,
+    -101.117456,
+    48.095312
+],
+  "geometry": {"coordinates":[-101.117456,48.095312],"type":"Point"}
+}

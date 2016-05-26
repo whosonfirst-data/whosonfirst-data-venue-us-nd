@@ -1,0 +1,71 @@
+{
+  "id": 873627217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.752163,46.807921,-100.752163,46.807921",
+    "geom:latitude":46.807921,
+    "geom:longitude":-100.752163,
+    "iso:country":"US",
+    "sg:address":"322 N 26th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 4794",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PEydehOvrDjX4E2AOnWHo_46.807921_-100.752163@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295332,
+    "wof:geomhash":"cef772e1b704f73df5de3c675538519c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873627217
+        }
+    ],
+    "wof:id":873627217,
+    "wof:lastmodified":1464295332,
+    "wof:name":"Deans Cstm Rugs Installation",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.752163,
+    46.807921,
+    -100.752163,
+    46.807921
+],
+  "geometry": {"coordinates":[-100.752163,46.807921],"type":"Point"}
+}

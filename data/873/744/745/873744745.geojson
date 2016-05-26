@@ -1,0 +1,66 @@
+{
+  "id": 873744745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.289265,48.210992,-101.289265,48.210992",
+    "geom:latitude":48.210992,
+    "geom:longitude":-101.289265,
+    "iso:country":"US",
+    "sg:address":"416 20th Ave SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 3381",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lkpGA9qHxR1sqsXSwijnv_48.210992_-101.289265@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297007,
+    "wof:geomhash":"64a15ff535974cca8191c143394b9b2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873744745
+        }
+    ],
+    "wof:id":873744745,
+    "wof:lastmodified":1464297007,
+    "wof:name":"Gaffaney's Of Minot Inc",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.289265,
+    48.210992,
+    -101.289265,
+    48.210992
+],
+  "geometry": {"coordinates":[-101.289265,48.210992],"type":"Point"}
+}

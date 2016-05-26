@@ -1,0 +1,77 @@
+{
+  "id": 873600173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.841516,46.89149,-96.841516,46.89149",
+    "geom:latitude":46.89149,
+    "geom:longitude":-96.841516,
+    "iso:country":"US",
+    "sg:address":"1230 38th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 277 0344",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "lighting",
+        "fixture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Cnrhj4WcM0XOwvowLbVKj_46.891490_-96.841516@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294989,
+    "wof:geomhash":"10c14cf8e2737ca65ac5376780f47a26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873600173
+        }
+    ],
+    "wof:id":873600173,
+    "wof:lastmodified":1464294989,
+    "wof:name":"Valley Lights",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lighting",
+        "fixture"
+    ]
+},
+  "bbox": [
+    -96.841516,
+    46.89149,
+    -96.841516,
+    46.89149
+],
+  "geometry": {"coordinates":[-96.841516,46.89149],"type":"Point"}
+}

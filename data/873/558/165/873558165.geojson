@@ -1,0 +1,71 @@
+{
+  "id": 873558165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.309213,48.23893,-101.309213,48.23893",
+    "geom:latitude":48.23893,
+    "geom:longitude":-101.309213,
+    "iso:country":"US",
+    "sg:address":"1124 4th Ave NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 2027",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Hfi3B8zIYHGzD9WU8D0i5_48.238930_-101.309213@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294473,
+    "wof:geomhash":"f2a1abed219d877783018f56a89962a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873558165
+        }
+    ],
+    "wof:id":873558165,
+    "wof:lastmodified":1464294473,
+    "wof:name":"Riviera Lounge",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -101.309213,
+    48.23893,
+    -101.309213,
+    48.23893
+],
+  "geometry": {"coordinates":[-101.309213,48.23893],"type":"Point"}
+}

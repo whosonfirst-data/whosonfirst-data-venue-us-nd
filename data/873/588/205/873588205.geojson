@@ -1,0 +1,71 @@
+{
+  "id": 873588205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.294613,48.223445,-101.294613,48.223445",
+    "geom:latitude":48.223445,
+    "geom:longitude":-101.294613,
+    "iso:country":"US",
+    "sg:address":"1315 1st St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 1051",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "carrier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jZGsFjhYoLS8alqizPc8W_48.223445_-101.294613@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294809,
+    "wof:geomhash":"1d9eb35a4126c71a8060b0a19df49564",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873588205
+        }
+    ],
+    "wof:id":873588205,
+    "wof:lastmodified":1464294809,
+    "wof:name":"Prudential",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier"
+    ]
+},
+  "bbox": [
+    -101.294613,
+    48.223445,
+    -101.294613,
+    48.223445
+],
+  "geometry": {"coordinates":[-101.294613,48.223445],"type":"Point"}
+}

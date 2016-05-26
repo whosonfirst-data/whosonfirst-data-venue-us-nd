@@ -1,0 +1,75 @@
+{
+  "id": 873561187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.784778,46.884717,-96.784778,46.884717",
+    "geom:latitude":46.884717,
+    "geom:longitude":-96.784778,
+    "iso:country":"US",
+    "sg:address":"820 4th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 234 5126",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534465,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GYoQhaRCsmu6CAZlW0t64_46.884717_-96.784778@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294512,
+    "wof:geomhash":"b3b4e94138edee2508feec396f69c150",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534465,
+            "region_id":85688525,
+            "venue_id":873561187
+        }
+    ],
+    "wof:id":873561187,
+    "wof:lastmodified":1464294512,
+    "wof:name":"Robert M Arusell Inc",
+    "wof:parent_id":420534465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -96.784778,
+    46.884717,
+    -96.784778,
+    46.884717
+],
+  "geometry": {"coordinates":[-96.784778,46.884717],"type":"Point"}
+}

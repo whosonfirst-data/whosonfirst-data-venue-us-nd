@@ -1,0 +1,71 @@
+{
+  "id": 873751939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.771045,46.803934,-100.771045,46.803934",
+    "geom:latitude":46.803934,
+    "geom:longitude":-100.771045,
+    "iso:country":"US",
+    "sg:address":"1305 E Front Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 1901",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "bar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1m5eY8g436klpATBSw4lZ2_46.803934_-100.771045@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297100,
+    "wof:geomhash":"d95723e8ac2d448d8b0cfa7381f405a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873751939
+        }
+    ],
+    "wof:id":873751939,
+    "wof:lastmodified":1464297100,
+    "wof:name":"Our Place Tavern",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bar"
+    ]
+},
+  "bbox": [
+    -100.771045,
+    46.803934,
+    -100.771045,
+    46.803934
+],
+  "geometry": {"coordinates":[-100.771045,46.803934],"type":"Point"}
+}

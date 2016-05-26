@@ -1,0 +1,74 @@
+{
+  "id": 873771929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.078604,47.933031,-97.078604,47.933031",
+    "geom:latitude":47.933031,
+    "geom:longitude":-97.078604,
+    "iso:country":"US",
+    "sg:address":"3401 Gateway Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 9444",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.hansenchryslertoyota.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eZFbgM6920uISiqmlD3lK_47.933031_-97.078604@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297388,
+    "wof:geomhash":"7d648f7f174e5d98509893e6729b83ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873771929
+        }
+    ],
+    "wof:id":873771929,
+    "wof:lastmodified":1464297388,
+    "wof:name":"Hansen Chrysler Toyota",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -97.078604,
+    47.933031,
+    -97.078604,
+    47.933031
+],
+  "geometry": {"coordinates":[-97.078604,47.933031],"type":"Point"}
+}

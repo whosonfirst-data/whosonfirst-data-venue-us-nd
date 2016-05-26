@@ -1,0 +1,71 @@
+{
+  "id": 873563349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.767666,46.825905,-100.767666,46.825905",
+    "geom:latitude":46.825905,
+    "geom:longitude":-100.767666,
+    "iso:country":"US",
+    "sg:address":"1823 N 16th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 355 4312",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Htb5KTBGdI4aVnajA7eIn_46.825905_-100.767666@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294535,
+    "wof:geomhash":"6796ce35e0d024f02c1aa80cd44a1d20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873563349
+        }
+    ],
+    "wof:id":873563349,
+    "wof:lastmodified":1464294535,
+    "wof:name":"Qwest Solutions Ctr",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -100.767666,
+    46.825905,
+    -100.767666,
+    46.825905
+],
+  "geometry": {"coordinates":[-100.76766600000001,46.825905],"type":"Point"}
+}

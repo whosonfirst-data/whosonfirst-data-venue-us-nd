@@ -1,0 +1,73 @@
+{
+  "id": 873652659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.054628,47.89115,-97.054628,47.89115",
+    "geom:latitude":47.89115,
+    "geom:longitude":-97.054628,
+    "iso:country":"US",
+    "sg:address":"1898 30th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 9394",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xSQsPaE8brGX5uGGD3MFW_47.891150_-97.054628@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295621,
+    "wof:geomhash":"1a4a066e0530f897bea81f1e9be54e67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873652659
+        }
+    ],
+    "wof:id":873652659,
+    "wof:lastmodified":1464295621,
+    "wof:name":"Creative Concrete",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.054628,
+    47.89115,
+    -97.054628,
+    47.89115
+],
+  "geometry": {"coordinates":[-97.05462799999999,47.89115],"type":"Point"}
+}

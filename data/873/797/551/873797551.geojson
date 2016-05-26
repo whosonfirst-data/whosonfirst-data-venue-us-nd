@@ -1,0 +1,74 @@
+{
+  "id": 873797551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.085606,47.889402,-97.085606,47.889402",
+    "geom:latitude":47.889402,
+    "geom:longitude":-97.085606,
+    "iso:country":"US",
+    "sg:address":"3951 32nd Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/grand-forks/109380-village-inn/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 7241",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "new",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zePUDvpCJB6J3w1Fmv7hI_47.889402_-97.085606@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297744,
+    "wof:geomhash":"c95eec5ecfb6ec9d4526f0f03134f8a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873797551
+        }
+    ],
+    "wof:id":873797551,
+    "wof:lastmodified":1464297744,
+    "wof:name":"Village Inn",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american"
+    ]
+},
+  "bbox": [
+    -97.085606,
+    47.889402,
+    -97.085606,
+    47.889402
+],
+  "geometry": {"coordinates":[-97.085606,47.889402],"type":"Point"}
+}

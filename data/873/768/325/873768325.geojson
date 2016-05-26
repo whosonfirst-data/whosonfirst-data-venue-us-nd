@@ -1,0 +1,71 @@
+{
+  "id": 873768325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.424936,48.31003,-101.424936,48.31003",
+    "geom:latitude":48.31003,
+    "geom:longitude":-101.424936,
+    "iso:country":"US",
+    "sg:address":"8300 Co Rd 15 W",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 725 4910",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pnGF15FDu6g5w1NBQLK9K_48.310030_-101.424936@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297342,
+    "wof:geomhash":"6d2fba9eb8dac3b18d96cbdc4e9fb20d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873768325
+        }
+    ],
+    "wof:id":873768325,
+    "wof:lastmodified":1464297342,
+    "wof:name":"Stroschein Contracting",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.424936,
+    48.31003,
+    -101.424936,
+    48.31003
+],
+  "geometry": {"coordinates":[-101.424936,48.31003],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 873686563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.812242,46.877634,-96.812242,46.877634",
+    "geom:latitude":46.877634,
+    "geom:longitude":-96.812242,
+    "iso:country":"US",
+    "sg:address":"100 20th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 5370",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "building"
+    ],
+    "sg:website":"www.alliedbuilding.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WPugvSKJDEX6AKsBe6nru_46.877634_-96.812242@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296181,
+    "wof:geomhash":"a44d94e4416f47853b6576d8034fdb52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873686563
+        }
+    ],
+    "wof:id":873686563,
+    "wof:lastmodified":1464296181,
+    "wof:name":"Allied Building Products Corp",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building"
+    ]
+},
+  "bbox": [
+    -96.812242,
+    46.877634,
+    -96.812242,
+    46.877634
+],
+  "geometry": {"coordinates":[-96.812242,46.877634],"type":"Point"}
+}

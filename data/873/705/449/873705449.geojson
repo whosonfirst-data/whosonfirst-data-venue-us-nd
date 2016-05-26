@@ -1,0 +1,77 @@
+{
+  "id": 873705449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.832974,46.832304,-96.832974,46.832304",
+    "geom:latitude":46.832304,
+    "geom:longitude":-96.832974,
+    "iso:country":"US",
+    "sg:address":"3202 33rd St SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 9831",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877355,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lZfFCiBFN4QdEFwHzRhLK_46.832304_-96.832974@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296463,
+    "wof:geomhash":"ff78b44717d03893d317f3eaf80e4dca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877355,
+            "region_id":85688525,
+            "venue_id":873705449
+        }
+    ],
+    "wof:id":873705449,
+    "wof:lastmodified":1464296463,
+    "wof:name":"Amoco",
+    "wof:parent_id":85877355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -96.832974,
+    46.832304,
+    -96.832974,
+    46.832304
+],
+  "geometry": {"coordinates":[-96.83297399999999,46.832304],"type":"Point"}
+}

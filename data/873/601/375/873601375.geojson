@@ -1,0 +1,71 @@
+{
+  "id": 873601375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.745354,46.808538,-100.745354,46.808538",
+    "geom:latitude":46.808538,
+    "geom:longitude":-100.745354,
+    "iso:country":"US",
+    "sg:address":"300 N 31st St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 6070",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jU78dRoUDCLkuuWl7wtS0_46.808538_-100.745354@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295002,
+    "wof:geomhash":"38a9caede36b0c3723da9aff4020ad1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873601375
+        }
+    ],
+    "wof:id":873601375,
+    "wof:lastmodified":1464295002,
+    "wof:name":"K & L Apartments",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -100.745354,
+    46.808538,
+    -100.745354,
+    46.808538
+],
+  "geometry": {"coordinates":[-100.74535400000001,46.808538],"type":"Point"}
+}

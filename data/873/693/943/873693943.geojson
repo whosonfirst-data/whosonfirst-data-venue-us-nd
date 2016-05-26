@@ -1,0 +1,73 @@
+{
+  "id": 873693943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.382798,48.233538,-101.382798,48.233538",
+    "geom:latitude":48.233538,
+    "geom:longitude":-101.382798,
+    "iso:country":"US",
+    "sg:address":"260 62nd St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Signs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 6494",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repair",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LOlpXBi5RAsS80aJKaSOE_48.233538_-101.382798@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296338,
+    "wof:geomhash":"a2d5d965a25d456f2b5c365f57669f8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873693943
+        }
+    ],
+    "wof:id":873693943,
+    "wof:lastmodified":1464296338,
+    "wof:name":"Sign Doctor",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -101.382798,
+    48.233538,
+    -101.382798,
+    48.233538
+],
+  "geometry": {"coordinates":[-101.38279799999999,48.233538],"type":"Point"}
+}

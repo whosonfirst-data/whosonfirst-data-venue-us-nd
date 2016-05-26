@@ -1,0 +1,73 @@
+{
+  "id": 873541147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.32899,48.234951,-101.32899,48.234951",
+    "geom:latitude":48.234951,
+    "geom:longitude":-101.32899,
+    "iso:country":"US",
+    "sg:address":"117 24th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 3457",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "animal",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pQ9ZBRaJUGNr0GI1RgAbN_48.234951_-101.328990@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294271,
+    "wof:geomhash":"f9e098f8e84090d883fb969376323a56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873541147
+        }
+    ],
+    "wof:id":873541147,
+    "wof:lastmodified":1464294271,
+    "wof:name":"Dale Zarr",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "animal",
+        "general"
+    ]
+},
+  "bbox": [
+    -101.32899,
+    48.234951,
+    -101.32899,
+    48.234951
+],
+  "geometry": {"coordinates":[-101.32899,48.234951],"type":"Point"}
+}

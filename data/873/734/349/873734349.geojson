@@ -1,0 +1,77 @@
+{
+  "id": 873734349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.762886,46.793355,-100.762886,46.793355",
+    "geom:latitude":46.793355,
+    "geom:longitude":-100.762886,
+    "iso:country":"US",
+    "sg:address":"1919 Lovett Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 4625",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "concrete",
+        "brick",
+        "prod",
+        "block"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33rasQ6dU1SmkeuI37KKzM_46.793355_-100.762886@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296837,
+    "wof:geomhash":"65491fbafddca9b8c0b9edf3958c04da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873734349
+        }
+    ],
+    "wof:id":873734349,
+    "wof:lastmodified":1464296837,
+    "wof:name":"James Vault & Precast Co",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "brick",
+        "prod",
+        "block"
+    ]
+},
+  "bbox": [
+    -100.762886,
+    46.793355,
+    -100.762886,
+    46.793355
+],
+  "geometry": {"coordinates":[-100.76288599999999,46.793355],"type":"Point"}
+}

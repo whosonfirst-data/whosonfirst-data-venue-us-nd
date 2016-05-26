@@ -1,0 +1,66 @@
+{
+  "id": 873722757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.305492,48.219299,-101.305492,48.219299",
+    "geom:latitude":48.219299,
+    "geom:longitude":-101.305492,
+    "iso:country":"US",
+    "sg:address":"1513 9th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 6593",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ho3VQWw3stRFW6VkdPnax_48.219299_-101.305492@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296684,
+    "wof:geomhash":"364b4b245ee53c44e1ec0749f2294a84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873722757
+        }
+    ],
+    "wof:id":873722757,
+    "wof:lastmodified":1464296684,
+    "wof:name":"Splatters Too",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.305492,
+    48.219299,
+    -101.305492,
+    48.219299
+],
+  "geometry": {"coordinates":[-101.305492,48.219299],"type":"Point"}
+}

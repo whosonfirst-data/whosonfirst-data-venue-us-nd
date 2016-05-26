@@ -1,0 +1,79 @@
+{
+  "id": 873708323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.793656,46.892177,-96.793656,46.892177",
+    "geom:latitude":46.892177,
+    "geom:longitude":-96.793656,
+    "iso:country":"US",
+    "sg:address":"1225 10th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 6125",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "safety",
+        "clothing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877359,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lyTlmV09zx0Y8HxC9x89y_46.892177_-96.793656@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296499,
+    "wof:geomhash":"9c9f79627838f30a4ac5f963dd9a6f1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877359,
+            "region_id":85688525,
+            "venue_id":873708323
+        }
+    ],
+    "wof:id":873708323,
+    "wof:lastmodified":1464296499,
+    "wof:name":"Safety Guy",
+    "wof:parent_id":85877359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "safety",
+        "clothing"
+    ]
+},
+  "bbox": [
+    -96.793656,
+    46.892177,
+    -96.793656,
+    46.892177
+],
+  "geometry": {"coordinates":[-96.793656,46.892177],"type":"Point"}
+}

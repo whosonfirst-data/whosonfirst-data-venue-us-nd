@@ -1,0 +1,72 @@
+{
+  "id": 873761599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.034678,47.926046,-97.034678,47.926046",
+    "geom:latitude":47.926046,
+    "geom:longitude":-97.034678,
+    "iso:country":"US",
+    "sg:address":"255 N 4th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 2626",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "city"
+    ],
+    "sg:website":"www.gfgov.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55RIu13CgdfAw9U7l0alKp_47.926046_-97.034678@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297230,
+    "wof:geomhash":"1a741434e551afea2dfa69a1821cc454",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873761599
+        }
+    ],
+    "wof:id":873761599,
+    "wof:lastmodified":1464297230,
+    "wof:name":"Grand Forks City Clerk",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -97.034678,
+    47.926046,
+    -97.034678,
+    47.926046
+],
+  "geometry": {"coordinates":[-97.034678,47.926046],"type":"Point"}
+}

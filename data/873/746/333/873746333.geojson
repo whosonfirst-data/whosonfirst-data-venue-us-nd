@@ -1,0 +1,77 @@
+{
+  "id": 873746333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.86208,46.854963,-96.86208,46.854963",
+    "geom:latitude":46.854963,
+    "geom:longitude":-96.86208,
+    "iso:country":"US",
+    "sg:address":"1621 45th St SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 9258",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EQGlbtWNnmHiuBt38PKOR_46.854963_-96.862080@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297030,
+    "wof:geomhash":"50e6260778c905e9a05a14b39aa9c726",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873746333
+        }
+    ],
+    "wof:id":873746333,
+    "wof:lastmodified":1464297030,
+    "wof:name":"Innes Construction",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.86208,
+    46.854963,
+    -96.86208,
+    46.854963
+],
+  "geometry": {"coordinates":[-96.86208000000001,46.854963],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 873798415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.296025,48.219746,-101.296025,48.219746",
+    "geom:latitude":48.219746,
+    "geom:longitude":-101.296025,
+    "iso:country":"US",
+    "sg:address":"1519 S Broadway",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/minot/181585-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 2651",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bZc0wwnF3dOSPNIySFvuS_48.219746_-101.296025@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297755,
+    "wof:geomhash":"4215e6868e4381329c2c0b5dc815ce72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873798415
+        }
+    ],
+    "wof:id":873798415,
+    "wof:lastmodified":1464297755,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -101.296025,
+    48.219746,
+    -101.296025,
+    48.219746
+],
+  "geometry": {"coordinates":[-101.296025,48.219746],"type":"Point"}
+}

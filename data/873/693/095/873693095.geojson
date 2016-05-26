@@ -1,0 +1,71 @@
+{
+  "id": 873693095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.048656,47.897678,-97.048656,47.897678",
+    "geom:latitude":47.897678,
+    "geom:longitude":-97.048656,
+    "iso:country":"US",
+    "sg:address":"2300 Library Cir",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 0651",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "bean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_378pvpurkAao7pEJFRKAzD_47.897678_-97.048656@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296328,
+    "wof:geomhash":"2cc5c218bf669f42fa6a4e60f0c5591b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873693095
+        }
+    ],
+    "wof:id":873693095,
+    "wof:lastmodified":1464296328,
+    "wof:name":"C H S",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bean"
+    ]
+},
+  "bbox": [
+    -97.048656,
+    47.897678,
+    -97.048656,
+    47.897678
+],
+  "geometry": {"coordinates":[-97.04865599999999,47.897678],"type":"Point"}
+}

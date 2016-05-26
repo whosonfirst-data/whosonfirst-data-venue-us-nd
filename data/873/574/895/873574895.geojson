@@ -1,0 +1,63 @@
+{
+  "id": 873574895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-99.522985,47.959604,-99.522985,47.959604",
+    "geom:latitude":47.959604,
+    "geom:longitude":-99.522985,
+    "iso:country":"US",
+    "sg:address":"301 Roosevelt Ave",
+    "sg:city":"Maddock",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 438 2555",
+    "sg:postcode":"58348",
+    "sg:province":"ND",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07S8gA8E596Fgr6LrEcX4A_47.959604_-99.522985@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294662,
+    "wof:geomhash":"7671a435966770ff707bceee62fe6868",
+    "wof:hierarchy":[],
+    "wof:id":873574895,
+    "wof:lastmodified":1464294662,
+    "wof:name":"Johnson Clinic PC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -99.522985,
+    47.959604,
+    -99.522985,
+    47.959604
+],
+  "geometry": {"coordinates":[-99.52298500000001,47.959604],"type":"Point"}
+}

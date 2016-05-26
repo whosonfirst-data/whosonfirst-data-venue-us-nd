@@ -1,0 +1,73 @@
+{
+  "id": 873573631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.05358,47.916469,-97.05358,47.916469",
+    "geom:latitude":47.916469,
+    "geom:longitude":-97.05358,
+    "iso:country":"US",
+    "sg:address":"1916 Demers Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Beer",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 0341",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "distributor",
+        "ale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NK7lxy1ioV3R46H1TzEdw_47.916469_-97.053580@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294648,
+    "wof:geomhash":"c86152527031d0c529054b84fd5fad24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873573631
+        }
+    ],
+    "wof:id":873573631,
+    "wof:lastmodified":1464294648,
+    "wof:name":"Dakota Sales Co Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distributor",
+        "ale"
+    ]
+},
+  "bbox": [
+    -97.05358,
+    47.916469,
+    -97.05358,
+    47.916469
+],
+  "geometry": {"coordinates":[-97.05358,47.916469],"type":"Point"}
+}

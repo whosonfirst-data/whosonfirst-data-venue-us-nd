@@ -1,0 +1,75 @@
+{
+  "id": 873690773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.798573,46.855656,-96.798573,46.855656",
+    "geom:latitude":46.855656,
+    "geom:longitude":-96.798573,
+    "iso:country":"US",
+    "sg:address":"1533 S University Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 476 1694",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534481,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nc3jOynXSspqljuhbU77x_46.855656_-96.798573@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296293,
+    "wof:geomhash":"9ba6dbbb8fad18c6f71c742a16806858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534481,
+            "region_id":85688525,
+            "venue_id":873690773
+        }
+    ],
+    "wof:id":873690773,
+    "wof:lastmodified":1464296293,
+    "wof:name":"Edward Jones Co",
+    "wof:parent_id":420534481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -96.798573,
+    46.855656,
+    -96.798573,
+    46.855656
+],
+  "geometry": {"coordinates":[-96.798573,46.855656],"type":"Point"}
+}

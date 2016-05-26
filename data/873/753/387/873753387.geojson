@@ -1,0 +1,73 @@
+{
+  "id": 873753387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.090455,47.928884,-97.090455,47.928884",
+    "geom:latitude":47.928884,
+    "geom:longitude":-97.090455,
+    "iso:country":"US",
+    "sg:address":"750 N 43rd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 7763",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "janitor",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_160UDfaJqNW3WU893FXP20_47.928884_-97.090455@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297125,
+    "wof:geomhash":"90d500e5e9f80e0ac9c55d5c9488846f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873753387
+        }
+    ],
+    "wof:id":873753387,
+    "wof:lastmodified":1464297125,
+    "wof:name":"Tim's General Maintenance",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -97.090455,
+    47.928884,
+    -97.090455,
+    47.928884
+],
+  "geometry": {"coordinates":[-97.09045500000001,47.928884],"type":"Point"}
+}

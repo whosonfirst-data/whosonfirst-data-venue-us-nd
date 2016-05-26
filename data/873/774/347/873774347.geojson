@@ -1,0 +1,71 @@
+{
+  "id": 873774347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.29386,48.240976,-101.29386,48.240976",
+    "geom:latitude":48.240976,
+    "geom:longitude":-101.29386,
+    "iso:country":"US",
+    "sg:address":"420 1st St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 4465",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GwPX0iPItiKVPE11ydAox_48.240976_-101.293860@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297417,
+    "wof:geomhash":"85859a2783191fdee6d3e3929e2ffa6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873774347
+        }
+    ],
+    "wof:id":873774347,
+    "wof:lastmodified":1464297417,
+    "wof:name":"Drain Doctor",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.29386,
+    48.240976,
+    -101.29386,
+    48.240976
+],
+  "geometry": {"coordinates":[-101.29386,48.240976],"type":"Point"}
+}

@@ -1,0 +1,96 @@
+{
+  "id": 873801883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.821708,46.88319,-96.821708,46.88319",
+    "geom:latitude":46.88319,
+    "geom:longitude":-96.821708,
+    "iso:country":"US",
+    "sg:address":"2650 7th Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 4446",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "electric",
+        "consumer",
+        "equipment-testing",
+        "equipment",
+        "supplies-wholesale",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.wescodist.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ff59IVGvcLtzJzisF7QoW_46.883190_-96.821708@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297795,
+    "wof:geomhash":"6823cc65123ce8288f7e6b35da32055e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873801883
+        }
+    ],
+    "wof:id":873801883,
+    "wof:lastmodified":1464297795,
+    "wof:name":"Wesco Distribution, Inc.",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "consumer",
+        "equipment-testing",
+        "equipment",
+        "supplies-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -96.821708,
+    46.88319,
+    -96.821708,
+    46.88319
+],
+  "geometry": {"coordinates":[-96.821708,46.88319],"type":"Point"}
+}

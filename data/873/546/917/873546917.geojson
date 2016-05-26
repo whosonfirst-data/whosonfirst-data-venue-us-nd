@@ -1,0 +1,71 @@
+{
+  "id": 873546917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.762738,46.798277,-100.762738,46.798277",
+    "geom:latitude":46.798277,
+    "geom:longitude":-100.762738,
+    "iso:country":"US",
+    "sg:address":"707 Airport Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 5600",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wUmwuX7O4nt4Hk3ohDSTN_46.798277_-100.762738@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294338,
+    "wof:geomhash":"98d988ff1345cff9d13ff3b5695b8804",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873546917
+        }
+    ],
+    "wof:id":873546917,
+    "wof:lastmodified":1464294338,
+    "wof:name":"Supervalu",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -100.762738,
+    46.798277,
+    -100.762738,
+    46.798277
+],
+  "geometry": {"coordinates":[-100.762738,46.798277],"type":"Point"}
+}

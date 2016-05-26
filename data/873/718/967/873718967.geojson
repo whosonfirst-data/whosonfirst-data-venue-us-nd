@@ -1,0 +1,71 @@
+{
+  "id": 873718967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.088207,47.93494,-97.088207,47.93494",
+    "geom:latitude":47.93494,
+    "geom:longitude":-97.088207,
+    "iso:country":"US",
+    "sg:address":"1555 N 42nd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 7106",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2C6eeAA3iD8rCDDDrPGmCf_47.934940_-97.088207@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296631,
+    "wof:geomhash":"cb9e1a5775b813e7d43703c6696d5c2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873718967
+        }
+    ],
+    "wof:id":873718967,
+    "wof:lastmodified":1464296631,
+    "wof:name":"Bud & Ralph's Appliance Svc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -97.088207,
+    47.93494,
+    -97.088207,
+    47.93494
+],
+  "geometry": {"coordinates":[-97.088207,47.93494],"type":"Point"}
+}

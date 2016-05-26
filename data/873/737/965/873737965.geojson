@@ -1,0 +1,80 @@
+{
+  "id": 873737965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.761628,46.803806,-100.761628,46.803806",
+    "geom:latitude":46.803806,
+    "geom:longitude":-100.761628,
+    "iso:country":"US",
+    "sg:address":"2123 E Front Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 2420",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "company",
+        "holding",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4P8ozEzGCOyh7tU3rltEBp_46.803806_-100.761628@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296896,
+    "wof:geomhash":"6b82356789d984c5aa2ddc8340fe5b32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873737965
+        }
+    ],
+    "wof:id":873737965,
+    "wof:lastmodified":1464296896,
+    "wof:name":"Prairie Rose Construction Supl",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "holding",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.761628,
+    46.803806,
+    -100.761628,
+    46.803806
+],
+  "geometry": {"coordinates":[-100.761628,46.803806],"type":"Point"}
+}

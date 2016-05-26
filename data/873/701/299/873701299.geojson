@@ -1,0 +1,73 @@
+{
+  "id": 873701299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.066389,47.908687,-97.066389,47.908687",
+    "geom:latitude":47.908687,
+    "geom:longitude":-97.066389,
+    "iso:country":"US",
+    "sg:address":"1375 S Columbia Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 3860",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "craft",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DvvB9g11oIiQWTlqUzt9D_47.908687_-97.066389@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296418,
+    "wof:geomhash":"6c1dc396396417ecdd30030918aa817c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873701299
+        }
+    ],
+    "wof:id":873701299,
+    "wof:lastmodified":1464296418,
+    "wof:name":"Scrapbooking 4 Fun",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "craft",
+        "supply"
+    ]
+},
+  "bbox": [
+    -97.066389,
+    47.908687,
+    -97.066389,
+    47.908687
+],
+  "geometry": {"coordinates":[-97.066389,47.908687],"type":"Point"}
+}

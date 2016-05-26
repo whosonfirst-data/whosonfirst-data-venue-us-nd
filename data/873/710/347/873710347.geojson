@@ -1,0 +1,75 @@
+{
+  "id": 873710347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-102.784436,46.878711,-102.784436,46.878711",
+    "geom:latitude":46.878711,
+    "geom:longitude":-102.784436,
+    "iso:country":"US",
+    "sg:address":"31 E Villard St",
+    "sg:city":"Dickinson",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 225 9182",
+    "sg:postcode":"58601",
+    "sg:province":"ND",
+    "sg:tags":[
+        "internet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877119,
+        102191575,
+        404482179,
+        85633793,
+        85982521,
+        102082105,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oUDefyy94GEbVGJHzxrr9_46.878711_-102.784436@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296525,
+    "wof:geomhash":"b2bd48ba8b54252c647254840ed12358",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082105,
+            "localadmin_id":404482179,
+            "locality_id":85982521,
+            "neighbourhood_id":85877119,
+            "region_id":85688525,
+            "venue_id":873710347
+        }
+    ],
+    "wof:id":873710347,
+    "wof:lastmodified":1464296525,
+    "wof:name":"CFR Wireless",
+    "wof:parent_id":85877119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "internet"
+    ]
+},
+  "bbox": [
+    -102.784436,
+    46.878711,
+    -102.784436,
+    46.878711
+],
+  "geometry": {"coordinates":[-102.784436,46.878711],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 873613887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.787729,46.806342,-100.787729,46.806342",
+    "geom:latitude":46.806342,
+    "geom:longitude":-100.787729,
+    "iso:country":"US",
+    "sg:address":"114 N 3rd St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 9505",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "home",
+        "retirement",
+        "community"
+    ],
+    "sg:website":"www.sunriseseniorliving.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aGLW1ooEEptSvNAitJjZI_46.806342_-100.787729@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295184,
+    "wof:geomhash":"68311c8db16f88ba390f8fb46b59a8ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873613887
+        }
+    ],
+    "wof:id":873613887,
+    "wof:lastmodified":1464295184,
+    "wof:name":"Sunrise Assisted Living-Bismrk",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "retirement",
+        "community"
+    ]
+},
+  "bbox": [
+    -100.787729,
+    46.806342,
+    -100.787729,
+    46.806342
+],
+  "geometry": {"coordinates":[-100.787729,46.806342],"type":"Point"}
+}

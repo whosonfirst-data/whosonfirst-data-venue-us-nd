@@ -1,0 +1,75 @@
+{
+  "id": 873755799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.046624,47.913503,-97.046624,47.913503",
+    "geom:latitude":47.913503,
+    "geom:longitude":-97.046624,
+    "iso:country":"US",
+    "sg:address":"820 S 14th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 6887",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bXy9x11tiIY5fXhaQr3vK_47.913503_-97.046624@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297154,
+    "wof:geomhash":"ef1483cb91caeecd901e0c5e4e4a151b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873755799
+        }
+    ],
+    "wof:id":873755799,
+    "wof:lastmodified":1464297154,
+    "wof:name":"Al's Auto Repair",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -97.046624,
+    47.913503,
+    -97.046624,
+    47.913503
+],
+  "geometry": {"coordinates":[-97.04662399999999,47.913503],"type":"Point"}
+}

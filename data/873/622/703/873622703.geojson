@@ -1,0 +1,71 @@
+{
+  "id": 873622703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.801712,46.785491,-100.801712,46.785491",
+    "geom:latitude":46.785491,
+    "geom:longitude":-100.801712,
+    "iso:country":"US",
+    "sg:address":"811 Augsburg Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 8550",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vg8qygudjhCnzzfhWu5KJ_46.785491_-100.801712@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295278,
+    "wof:geomhash":"ae74d86bbcd62b688b7ca595b93d9167",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873622703
+        }
+    ],
+    "wof:id":873622703,
+    "wof:lastmodified":1464295278,
+    "wof:name":"Underval Monument Co",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -100.801712,
+    46.785491,
+    -100.801712,
+    46.785491
+],
+  "geometry": {"coordinates":[-100.80171199999999,46.785491],"type":"Point"}
+}

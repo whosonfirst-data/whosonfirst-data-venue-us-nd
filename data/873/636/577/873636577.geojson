@@ -1,0 +1,71 @@
+{
+  "id": 873636577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.290558,48.249142,-101.290558,48.249142",
+    "geom:latitude":48.249142,
+    "geom:longitude":-101.290558,
+    "iso:country":"US",
+    "sg:address":"108 13th Ave NE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 2003",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RIjwTlLszflACYn0yglgp_48.249142_-101.290558@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295437,
+    "wof:geomhash":"c05d0bde2856dea9a68f1a9b41990498",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873636577
+        }
+    ],
+    "wof:id":873636577,
+    "wof:lastmodified":1464295437,
+    "wof:name":"Robert Fougner Architect",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architectural"
+    ]
+},
+  "bbox": [
+    -101.290558,
+    48.249142,
+    -101.290558,
+    48.249142
+],
+  "geometry": {"coordinates":[-101.290558,48.249142],"type":"Point"}
+}

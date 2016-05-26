@@ -1,0 +1,71 @@
+{
+  "id": 873581217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.088908,47.935864,-97.088908,47.935864",
+    "geom:latitude":47.935864,
+    "geom:longitude":-97.088908,
+    "iso:country":"US",
+    "sg:address":"4297 16th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 2111",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1887vQdXys38D2uR5AOYDK_47.935864_-97.088908@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294735,
+    "wof:geomhash":"e0d87ffcb754f58b797efa5b222234fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873581217
+        }
+    ],
+    "wof:id":873581217,
+    "wof:lastmodified":1464294735,
+    "wof:name":"Community Contractors Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.088908,
+    47.935864,
+    -97.088908,
+    47.935864
+],
+  "geometry": {"coordinates":[-97.088908,47.935864],"type":"Point"}
+}

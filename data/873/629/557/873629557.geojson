@@ -1,0 +1,71 @@
+{
+  "id": 873629557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.078917,47.903591,-97.078917,47.903591",
+    "geom:latitude":47.903591,
+    "geom:longitude":-97.078917,
+    "iso:country":"US",
+    "sg:address":"1726 S 35th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 8056",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zyjidjXDkaWvBRHWnCkga_47.903591_-97.078917@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295361,
+    "wof:geomhash":"bdfbe628e5f12acf949d6d7a6a335e0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873629557
+        }
+    ],
+    "wof:id":873629557,
+    "wof:lastmodified":1464295361,
+    "wof:name":"Defining Moments Videography",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -97.078917,
+    47.903591,
+    -97.078917,
+    47.903591
+],
+  "geometry": {"coordinates":[-97.078917,47.903591],"type":"Point"}
+}

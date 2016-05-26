@@ -1,0 +1,73 @@
+{
+  "id": 873559661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.026616,47.871371,-97.026616,47.871371",
+    "geom:latitude":47.871371,
+    "geom:longitude":-97.026616,
+    "iso:country":"US",
+    "sg:address":"81 Rivers Edge Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 9117",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jTHQs5EYRgjhSXuwqGRIB_47.871371_-97.026616@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294496,
+    "wof:geomhash":"76a6a455ef03dde8c64b670d5bf92cac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873559661
+        }
+    ],
+    "wof:id":873559661,
+    "wof:lastmodified":1464294496,
+    "wof:name":"Horizon Properties LLP",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -97.026616,
+    47.871371,
+    -97.026616,
+    47.871371
+],
+  "geometry": {"coordinates":[-97.026616,47.871371],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873630301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.295739,48.248647,-101.295739,48.248647",
+    "geom:latitude":48.248647,
+    "geom:longitude":-101.295739,
+    "iso:country":"US",
+    "sg:address":"1505 N Broadway",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Arcade",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 837 1684",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "casino"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102531137,
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22FPNuqx3xuvxXgXlUBkYG_48.248647_-101.295739@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295368,
+    "wof:geomhash":"fd19dd79512bf959b26690988081f526",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531137,
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873630301
+        }
+    ],
+    "wof:id":873630301,
+    "wof:lastmodified":1464295368,
+    "wof:name":"Reflections Lounge",
+    "wof:parent_id":102531137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "casino"
+    ]
+},
+  "bbox": [
+    -101.295739,
+    48.248647,
+    -101.295739,
+    48.248647
+],
+  "geometry": {"coordinates":[-101.295739,48.248647],"type":"Point"}
+}

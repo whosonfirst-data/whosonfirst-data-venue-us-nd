@@ -1,0 +1,74 @@
+{
+  "id": 873604337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.762371,46.766214,-100.762371,46.766214",
+    "geom:latitude":46.766214,
+    "geom:longitude":-100.762371,
+    "iso:country":"US",
+    "sg:address":"3325 University Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 8607",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "federal",
+        "security"
+    ],
+    "sg:website":"www.army.mil",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wov9HMjpEYXZJw8lsKb6B_46.766214_-100.762371@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295033,
+    "wof:geomhash":"eff7309c98370544f1ff1cd2b1f0449d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873604337
+        }
+    ],
+    "wof:id":873604337,
+    "wof:lastmodified":1464295033,
+    "wof:name":"US Army Dept",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "security"
+    ]
+},
+  "bbox": [
+    -100.762371,
+    46.766214,
+    -100.762371,
+    46.766214
+],
+  "geometry": {"coordinates":[-100.762371,46.766214],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873637883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.762869,46.801573,-100.762869,46.801573",
+    "geom:latitude":46.801573,
+    "geom:longitude":-100.762869,
+    "iso:country":"US",
+    "sg:address":"404 Airport Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 9150",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0C3GYso1D74dVIlSabcZQ1_46.801573_-100.762869@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295454,
+    "wof:geomhash":"798e135b1356648339d240ea90ac7ccd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873637883
+        }
+    ],
+    "wof:id":873637883,
+    "wof:lastmodified":1464295454,
+    "wof:name":"Aid Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -100.762869,
+    46.801573,
+    -100.762869,
+    46.801573
+],
+  "geometry": {"coordinates":[-100.76286899999999,46.801573],"type":"Point"}
+}

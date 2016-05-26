@@ -1,0 +1,75 @@
+{
+  "id": 873646991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.799066,46.83493,-96.799066,46.83493",
+    "geom:latitude":46.83493,
+    "geom:longitude":-96.799066,
+    "iso:country":"US",
+    "sg:address":"2851 S University Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 3205",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534475,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4doQxBZW9xSDf1zdkvAiaF_46.834930_-96.799066@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295556,
+    "wof:geomhash":"27f58ccb4c08f5ce65c4f2305c97494d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534475,
+            "region_id":85688525,
+            "venue_id":873646991
+        }
+    ],
+    "wof:id":873646991,
+    "wof:lastmodified":1464295556,
+    "wof:name":"Robert A Bond DDS",
+    "wof:parent_id":420534475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -96.799066,
+    46.83493,
+    -96.799066,
+    46.83493
+],
+  "geometry": {"coordinates":[-96.799066,46.83493],"type":"Point"}
+}

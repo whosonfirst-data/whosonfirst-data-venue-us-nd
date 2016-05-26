@@ -1,0 +1,71 @@
+{
+  "id": 873744731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.713214,46.837292,-100.713214,46.837292",
+    "geom:latitude":46.837292,
+    "geom:longitude":-100.713214,
+    "iso:country":"US",
+    "sg:address":"5135 Redcoat Loop",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 8261",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GFtIwLurjsC7mTLdhejle_46.837292_-100.713214@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297007,
+    "wof:geomhash":"cbbd24545beba6026be90eb95651436d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873744731
+        }
+    ],
+    "wof:id":873744731,
+    "wof:lastmodified":1464297007,
+    "wof:name":"R J Hopfauf",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxidermist"
+    ]
+},
+  "bbox": [
+    -100.713214,
+    46.837292,
+    -100.713214,
+    46.837292
+],
+  "geometry": {"coordinates":[-100.71321399999999,46.837292],"type":"Point"}
+}

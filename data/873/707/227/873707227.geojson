@@ -1,0 +1,79 @@
+{
+  "id": 873707227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.296045,48.257031,-101.296045,48.257031",
+    "geom:latitude":48.257031,
+    "geom:longitude":-101.296045,
+    "iso:country":"US",
+    "sg:address":"2029 N Broadway",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 837 9613",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "compact",
+        "record",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102531137,
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ClPltGpJkmDD5RnQP9hH1_48.257031_-101.296045@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296486,
+    "wof:geomhash":"6e3e3e7131b420bd52f8570cba4e7992",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531137,
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873707227
+        }
+    ],
+    "wof:id":873707227,
+    "wof:lastmodified":1464296486,
+    "wof:name":"Pleasure Palace",
+    "wof:parent_id":102531137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "compact",
+        "record",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -101.296045,
+    48.257031,
+    -101.296045,
+    48.257031
+],
+  "geometry": {"coordinates":[-101.29604500000001,48.257031],"type":"Point"}
+}

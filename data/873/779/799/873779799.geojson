@@ -1,0 +1,71 @@
+{
+  "id": 873779799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.904103,46.786399,-96.904103,46.786399",
+    "geom:latitude":46.786399,
+    "geom:longitude":-96.904103,
+    "iso:country":"US",
+    "sg:address":"6819 Sunnyside Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 277 9498",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5V9glEtmYJa8qqSMB9wdKZ_46.786399_-96.904103@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297488,
+    "wof:geomhash":"8c2627fd827e2a903f93c1f7382995de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873779799
+        }
+    ],
+    "wof:id":873779799,
+    "wof:lastmodified":1464297488,
+    "wof:name":"Kenville Consulting",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -96.904103,
+    46.786399,
+    -96.904103,
+    46.786399
+],
+  "geometry": {"coordinates":[-96.90410300000001,46.786399],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873626495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.292836,48.243541,-101.292836,48.243541",
+    "geom:latitude":48.243541,
+    "geom:longitude":-101.292836,
+    "iso:country":"US",
+    "sg:address":"629 Lake St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 0720",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jbh0wigKo0eL514Avl8LM_48.243541_-101.292836@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295325,
+    "wof:geomhash":"cf12890123e15915b17e0ffe7f5b8049",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873626495
+        }
+    ],
+    "wof:id":873626495,
+    "wof:lastmodified":1464295325,
+    "wof:name":"Gere & Assoc",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -101.292836,
+    48.243541,
+    -101.292836,
+    48.243541
+],
+  "geometry": {"coordinates":[-101.29283599999999,48.243541],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873767549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.263078,48.22909,-101.263078,48.22909",
+    "geom:latitude":48.22909,
+    "geom:longitude":-101.263078,
+    "iso:country":"US",
+    "sg:address":"2020 8th Ave SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 7221",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UccMoobfSG7PypUkewuL9_48.229090_-101.263078@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297332,
+    "wof:geomhash":"3be6f0c5ef061b593734b5011b1c6526",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873767549
+        }
+    ],
+    "wof:id":873767549,
+    "wof:lastmodified":1464297332,
+    "wof:name":"Affordable Housing Developers",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -101.263078,
+    48.22909,
+    -101.263078,
+    48.22909
+],
+  "geometry": {"coordinates":[-101.26307799999999,48.22909],"type":"Point"}
+}

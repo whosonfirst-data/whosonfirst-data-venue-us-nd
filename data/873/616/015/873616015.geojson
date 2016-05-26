@@ -1,0 +1,73 @@
+{
+  "id": 873616015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.066825,47.902248,-97.066825,47.902248",
+    "geom:latitude":47.902248,
+    "geom:longitude":-97.066825,
+    "iso:country":"US",
+    "sg:address":"2820 19th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 1610",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WRwub1FA9xML7yDwdclIC_47.902248_-97.066825@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295205,
+    "wof:geomhash":"c401a1e6bedcecd56340c987120096e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873616015
+        }
+    ],
+    "wof:id":873616015,
+    "wof:lastmodified":1464295205,
+    "wof:name":"Red River Imaging",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -97.066825,
+    47.902248,
+    -97.066825,
+    47.902248
+],
+  "geometry": {"coordinates":[-97.06682499999999,47.902248],"type":"Point"}
+}

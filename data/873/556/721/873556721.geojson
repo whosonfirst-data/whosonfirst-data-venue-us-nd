@@ -1,0 +1,72 @@
+{
+  "id": 873556721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.044883,47.915432,-97.044883,47.915432",
+    "geom:latitude":47.915432,
+    "geom:longitude":-97.044883,
+    "iso:country":"US",
+    "sg:address":"1210 7th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 2750",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "parks"
+    ],
+    "sg:website":"www.gfparks.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SL3MvL4LkMjpHRIehaWbP_47.915432_-97.044883@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294456,
+    "wof:geomhash":"8430c6477d75d4579c2f5c4909670398",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873556721
+        }
+    ],
+    "wof:id":873556721,
+    "wof:lastmodified":1464294456,
+    "wof:name":"Grand Forks Park District Ofc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -97.044883,
+    47.915432,
+    -97.044883,
+    47.915432
+],
+  "geometry": {"coordinates":[-97.044883,47.915432],"type":"Point"}
+}

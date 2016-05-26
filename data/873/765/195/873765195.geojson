@@ -1,0 +1,71 @@
+{
+  "id": 873765195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.06655,47.894969,-97.06655,47.894969",
+    "geom:latitude":47.894969,
+    "geom:longitude":-97.06655,
+    "iso:country":"US",
+    "sg:address":"2451 S Columbia Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 7241",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HHIQsSVZETYZplqSYWzQ1_47.894969_-97.066550@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297299,
+    "wof:geomhash":"0166e62474198ba519030e928df1d92c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873765195
+        }
+    ],
+    "wof:id":873765195,
+    "wof:lastmodified":1464297299,
+    "wof:name":"Village Inn Restaurant",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -97.06655,
+    47.894969,
+    -97.06655,
+    47.894969
+],
+  "geometry": {"coordinates":[-97.06655000000001,47.894969],"type":"Point"}
+}

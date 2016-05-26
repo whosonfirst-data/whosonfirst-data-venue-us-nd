@@ -1,0 +1,71 @@
+{
+  "id": 873804809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.89827,46.812446,-96.89827,46.812446",
+    "geom:latitude":46.812446,
+    "geom:longitude":-96.89827,
+    "iso:country":"US",
+    "sg:address":"4509 66th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 281 0540",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57f51NUeQAFDQoE7KniTLO_46.812446_-96.898270@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297832,
+    "wof:geomhash":"4e5fd2b5d5a7bff325f5cd96ef97a5ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873804809
+        }
+    ],
+    "wof:id":873804809,
+    "wof:lastmodified":1464297832,
+    "wof:name":"Gerrit De Vries",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm"
+    ]
+},
+  "bbox": [
+    -96.89827,
+    46.812446,
+    -96.89827,
+    46.812446
+],
+  "geometry": {"coordinates":[-96.89827,46.812446],"type":"Point"}
+}

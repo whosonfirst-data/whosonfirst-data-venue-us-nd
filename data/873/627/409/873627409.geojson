@@ -1,0 +1,71 @@
+{
+  "id": 873627409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.292975,48.236526,-101.292975,48.236526",
+    "geom:latitude":48.236526,
+    "geom:longitude":-101.292975,
+    "iso:country":"US",
+    "sg:address":"7 Central Ave E",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 8749",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QZAYQJGOOAdy2MvbnuukC_48.236526_-101.292975@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295334,
+    "wof:geomhash":"b11ff13e003b973ad5a53d066f753659",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873627409
+        }
+    ],
+    "wof:id":873627409,
+    "wof:lastmodified":1464295334,
+    "wof:name":"Mark B Rasmuson",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -101.292975,
+    48.236526,
+    -101.292975,
+    48.236526
+],
+  "geometry": {"coordinates":[-101.292975,48.236526],"type":"Point"}
+}

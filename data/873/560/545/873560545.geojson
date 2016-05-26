@@ -1,0 +1,73 @@
+{
+  "id": 873560545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.027302,47.922047,-97.027302,47.922047",
+    "geom:latitude":47.922047,
+    "geom:longitude":-97.027302,
+    "iso:country":"US",
+    "sg:address":"303 Division Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 8792",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "home",
+        "improvement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40ee2sFLrkVaswGKNb9EXr_47.922047_-97.027302@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294506,
+    "wof:geomhash":"ec74d1b5a703ad6a1cc0ca15d2f5a2e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873560545
+        }
+    ],
+    "wof:id":873560545,
+    "wof:lastmodified":1464294506,
+    "wof:name":"Paul Davis Restoration",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "improvement"
+    ]
+},
+  "bbox": [
+    -97.027302,
+    47.922047,
+    -97.027302,
+    47.922047
+],
+  "geometry": {"coordinates":[-97.02730200000001,47.922047],"type":"Point"}
+}

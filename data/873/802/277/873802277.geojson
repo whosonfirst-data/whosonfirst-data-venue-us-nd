@@ -1,0 +1,90 @@
+{
+  "id": 873802277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.816427,46.874626,-96.816427,46.874626",
+    "geom:latitude":46.874626,
+    "geom:longitude":-96.816427,
+    "iso:country":"US",
+    "sg:address":"122 23rd St S Ste E",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 297 0856",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "door",
+        "accessory",
+        "garage",
+        "opener",
+        "doors",
+        "frames"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18IbmSgdcVFOlT8LhCupI5_46.874626_-96.816427@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297801,
+    "wof:geomhash":"420fd5098b0b7adde85ed56445ce7d4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873802277
+        }
+    ],
+    "wof:id":873802277,
+    "wof:lastmodified":1464297801,
+    "wof:name":"A-1 Garage Door",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "door",
+        "accessory",
+        "garage",
+        "opener",
+        "doors",
+        "frames"
+    ]
+},
+  "bbox": [
+    -96.816427,
+    46.874626,
+    -96.816427,
+    46.874626
+],
+  "geometry": {"coordinates":[-96.816427,46.874626],"type":"Point"}
+}

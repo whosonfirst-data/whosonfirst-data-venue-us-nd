@@ -1,0 +1,82 @@
+{
+  "id": 873801573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.787758,46.886742,-96.787758,46.886742",
+    "geom:latitude":46.886742,
+    "geom:longitude":-96.787758,
+    "iso:country":"US",
+    "sg:address":"1001 Broadway N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 237 5432",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534465,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SwI8mKQJt6Shllnc72bG3_46.886742_-96.787758@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297792,
+    "wof:geomhash":"3e8c29926e2441f41b0f34fba8b20268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534465,
+            "region_id":85688525,
+            "venue_id":873801573
+        }
+    ],
+    "wof:id":873801573,
+    "wof:lastmodified":1464297792,
+    "wof:name":"Diane Frentress Realty",
+    "wof:parent_id":420534465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [
+    -96.787758,
+    46.886742,
+    -96.787758,
+    46.886742
+],
+  "geometry": {"coordinates":[-96.787758,46.886742],"type":"Point"}
+}

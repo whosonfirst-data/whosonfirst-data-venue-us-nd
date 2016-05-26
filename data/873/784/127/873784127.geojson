@@ -1,0 +1,69 @@
+{
+  "id": 873784127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.023749,47.814907,-97.023749,47.814907",
+    "geom:latitude":47.814907,
+    "geom:longitude":-97.023749,
+    "iso:country":"US",
+    "sg:address":"982 9th St NE",
+    "sg:city":"Thompson",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 0655",
+    "sg:postcode":"58278",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "field",
+        "crop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xIeW62LEiEV55q1htz468_47.814907_-97.023749@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297545,
+    "wof:geomhash":"3f6206dbe8ad3cbc1e41a262791d2f6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873784127
+        }
+    ],
+    "wof:id":873784127,
+    "wof:lastmodified":1464297545,
+    "wof:name":"Bunde Farms",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "field",
+        "crop"
+    ]
+},
+  "bbox": [
+    -97.023749,
+    47.814907,
+    -97.023749,
+    47.814907
+],
+  "geometry": {"coordinates":[-97.023749,47.814907],"type":"Point"}
+}

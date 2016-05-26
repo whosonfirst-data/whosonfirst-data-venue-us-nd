@@ -1,0 +1,66 @@
+{
+  "id": 873680433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.044606,47.898777,-97.044606,47.898777",
+    "geom:latitude":47.898777,
+    "geom:longitude":-97.044606,
+    "iso:country":"US",
+    "sg:address":"2305 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 9280",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3x0SjoBa9fyJM75sTtS3kv_47.898777_-97.044606@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296008,
+    "wof:geomhash":"9ef0f7c40456f49d2d25b353bda79d25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873680433
+        }
+    ],
+    "wof:id":873680433,
+    "wof:lastmodified":1464296008,
+    "wof:name":"Rod Mittelsteadt Insurance",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.044606,
+    47.898777,
+    -97.044606,
+    47.898777
+],
+  "geometry": {"coordinates":[-97.044606,47.898777],"type":"Point"}
+}

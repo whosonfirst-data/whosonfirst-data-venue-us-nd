@@ -1,0 +1,75 @@
+{
+  "id": 873583431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.9098,46.762441,-96.9098,46.762441",
+    "geom:latitude":46.762441,
+    "geom:longitude":-96.9098,
+    "iso:country":"US",
+    "sg:address":"412 Orchard St",
+    "sg:city":"Horace",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 729 8768",
+    "sg:postcode":"58047",
+    "sg:province":"ND",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GCVazpmy3cTAzeOIGgGae_46.762441_-96.909800@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294757,
+    "wof:geomhash":"cf03a99a118f1d58bbc3093c3957a4d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873583431
+        }
+    ],
+    "wof:id":873583431,
+    "wof:lastmodified":1464294757,
+    "wof:name":"Quality Carpet Care",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -96.9098,
+    46.762441,
+    -96.9098,
+    46.762441
+],
+  "geometry": {"coordinates":[-96.9098,46.762441],"type":"Point"}
+}

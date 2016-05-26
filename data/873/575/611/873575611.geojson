@@ -1,0 +1,78 @@
+{
+  "id": 873575611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.271655,47.998424,-101.271655,47.998424",
+    "geom:latitude":47.998424,
+    "geom:longitude":-101.271655,
+    "iso:country":"US",
+    "sg:address":"21901 13th St SE",
+    "sg:city":"Max",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 722 3703",
+    "sg:postcode":"58759",
+    "sg:province":"ND",
+    "sg:tags":[
+        "product",
+        "ceramic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sHVcLnEC7ZTREY4iy5nDv_47.998424_-101.271655@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294670,
+    "wof:geomhash":"627ecf6412a0a95003cd2e9aa66dd06f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873575611
+        }
+    ],
+    "wof:id":873575611,
+    "wof:lastmodified":1464294670,
+    "wof:name":"Bev's Ceramics",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "ceramic"
+    ]
+},
+  "bbox": [
+    -101.271655,
+    47.998424,
+    -101.271655,
+    47.998424
+],
+  "geometry": {"coordinates":[-101.271655,47.998424],"type":"Point"}
+}

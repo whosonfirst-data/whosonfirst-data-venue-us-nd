@@ -1,0 +1,71 @@
+{
+  "id": 873564555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.794653,46.789376,-100.794653,46.789376",
+    "geom:latitude":46.789376,
+    "geom:longitude":-100.794653,
+    "iso:country":"US",
+    "sg:address":"1470 S Washington St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 2202",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VZd6zzHzrRl2d62NZ5zMx_46.789376_-100.794653@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294550,
+    "wof:geomhash":"1450eb1ac64ff34fe40d78d16ed547ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873564555
+        }
+    ],
+    "wof:id":873564555,
+    "wof:lastmodified":1464294550,
+    "wof:name":"House Of Prayer-Lutheran Chr",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -100.794653,
+    46.789376,
+    -100.794653,
+    46.789376
+],
+  "geometry": {"coordinates":[-100.794653,46.789376],"type":"Point"}
+}

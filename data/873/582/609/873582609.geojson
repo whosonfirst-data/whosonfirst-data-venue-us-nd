@@ -1,0 +1,71 @@
+{
+  "id": 873582609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.528531,47.158229,-100.528531,47.158229",
+    "geom:latitude":47.158229,
+    "geom:longitude":-100.528531,
+    "iso:country":"US",
+    "sg:address":"101 Main St",
+    "sg:city":"Regan",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 286 7115",
+    "sg:postcode":"58477",
+    "sg:province":"ND",
+    "sg:tags":[
+        "feed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15FFRprF4MhfGje9ip9mes_47.158229_-100.528531@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294748,
+    "wof:geomhash":"cdee95e85a823cae36c31c14bf19a6a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873582609
+        }
+    ],
+    "wof:id":873582609,
+    "wof:lastmodified":1464294748,
+    "wof:name":"Farmers Union Elevator Co",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feed"
+    ]
+},
+  "bbox": [
+    -100.528531,
+    47.158229,
+    -100.528531,
+    47.158229
+],
+  "geometry": {"coordinates":[-100.528531,47.158229],"type":"Point"}
+}

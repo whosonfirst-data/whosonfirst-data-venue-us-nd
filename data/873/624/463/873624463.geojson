@@ -1,0 +1,75 @@
+{
+  "id": 873624463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.098878,47.921409,-97.098878,47.921409",
+    "geom:latitude":47.921409,
+    "geom:longitude":-97.098878,
+    "iso:country":"US",
+    "sg:address":"4775 Technology Cir",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 0441",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "federal",
+        "planning",
+        "dev"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cESjsFUo1KqXGM7ZrwDkB_47.921409_-97.098878@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295305,
+    "wof:geomhash":"3a46248f24e5175d7bd8391398676d8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873624463
+        }
+    ],
+    "wof:id":873624463,
+    "wof:lastmodified":1464295305,
+    "wof:name":"USDA Rural Development",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "planning",
+        "dev"
+    ]
+},
+  "bbox": [
+    -97.098878,
+    47.921409,
+    -97.098878,
+    47.921409
+],
+  "geometry": {"coordinates":[-97.098878,47.921409],"type":"Point"}
+}

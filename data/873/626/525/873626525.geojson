@@ -1,0 +1,73 @@
+{
+  "id": 873626525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.04478,47.88696,-97.04478,47.88696",
+    "geom:latitude":47.88696,
+    "geom:longitude":-97.04478,
+    "iso:country":"US",
+    "sg:address":"3325 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 2412",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "stock",
+        "bond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OBOgOuL9zLcqdASdbQLDz_47.886960_-97.044780@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295325,
+    "wof:geomhash":"8d977da8fa45285a2aee52ae946b18cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873626525
+        }
+    ],
+    "wof:id":873626525,
+    "wof:lastmodified":1464295325,
+    "wof:name":"Edward Jones Co",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stock",
+        "bond"
+    ]
+},
+  "bbox": [
+    -97.04478,
+    47.88696,
+    -97.04478,
+    47.88696
+],
+  "geometry": {"coordinates":[-97.04478,47.88696],"type":"Point"}
+}

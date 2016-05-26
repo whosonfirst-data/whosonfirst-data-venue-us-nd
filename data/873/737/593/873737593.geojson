@@ -1,0 +1,73 @@
+{
+  "id": 873737593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.772463,46.811376,-100.772463,46.811376",
+    "geom:latitude":46.811376,
+    "geom:longitude":-100.772463,
+    "iso:country":"US",
+    "sg:address":"618 N 13th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 3961",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qW1ri1Yibkr7JyLJu9ESw_46.811376_-100.772463@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296890,
+    "wof:geomhash":"c8965fe421f50dc8dc0c4fb61fa7e96e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873737593
+        }
+    ],
+    "wof:id":873737593,
+    "wof:lastmodified":1464296890,
+    "wof:name":"Terry's Construction",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.772463,
+    46.811376,
+    -100.772463,
+    46.811376
+],
+  "geometry": {"coordinates":[-100.772463,46.811376],"type":"Point"}
+}

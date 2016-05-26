@@ -1,0 +1,77 @@
+{
+  "id": 873657793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.046241,47.919018,-97.046241,47.919018",
+    "geom:latitude":47.919018,
+    "geom:longitude":-97.046241,
+    "iso:country":"US",
+    "sg:address":"1321 Dyke Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 9621",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "body",
+        "shop",
+        "painting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qEp46ZgEkdSsMdzFAPlJr_47.919018_-97.046241@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295676,
+    "wof:geomhash":"c8da4305106baaa9f4ddca84ca6d491a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873657793
+        }
+    ],
+    "wof:id":873657793,
+    "wof:lastmodified":1464295676,
+    "wof:name":"Dunham's Body Shop",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "painting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -97.046241,
+    47.919018,
+    -97.046241,
+    47.919018
+],
+  "geometry": {"coordinates":[-97.04624099999999,47.919018],"type":"Point"}
+}

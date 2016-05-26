@@ -1,0 +1,71 @@
+{
+  "id": 873580933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.794421,46.795051,-100.794421,46.795051",
+    "geom:latitude":46.795051,
+    "geom:longitude":-100.794421,
+    "iso:country":"US",
+    "sg:address":"919 S Washington St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 224 8483",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6L1VhUrmbn7sjHTI8hfKWT_46.795051_-100.794421@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294732,
+    "wof:geomhash":"f1416429892bbcae9263648ab45085b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873580933
+        }
+    ],
+    "wof:id":873580933,
+    "wof:lastmodified":1464294732,
+    "wof:name":"Expressway Amoco",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -100.794421,
+    46.795051,
+    -100.794421,
+    46.795051
+],
+  "geometry": {"coordinates":[-100.794421,46.795051],"type":"Point"}
+}

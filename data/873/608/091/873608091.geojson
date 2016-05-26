@@ -1,0 +1,71 @@
+{
+  "id": 873608091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.226697,48.218236,-101.226697,48.218236",
+    "geom:latitude":48.218236,
+    "geom:longitude":-101.226697,
+    "iso:country":"US",
+    "sg:address":"1611 46th St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Toys & Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 2001",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2q9RqgoqmxANso1bEsHaOw_48.218236_-101.226697@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295100,
+    "wof:geomhash":"8c9fd6ed8375c25070224e6d8036b8f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873608091
+        }
+    ],
+    "wof:id":873608091,
+    "wof:lastmodified":1464295100,
+    "wof:name":"Trophy Tackle Inc",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -101.226697,
+    48.218236,
+    -101.226697,
+    48.218236
+],
+  "geometry": {"coordinates":[-101.226697,48.218236],"type":"Point"}
+}

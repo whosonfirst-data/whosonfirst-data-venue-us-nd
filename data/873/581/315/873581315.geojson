@@ -1,0 +1,78 @@
+{
+  "id": 873581315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.836423,46.864615,-96.836423,46.864615",
+    "geom:latitude":46.864615,
+    "geom:longitude":-96.836423,
+    "iso:country":"US",
+    "sg:address":"3453 Interstate Blvd S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 6755",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "consultant",
+        "designer"
+    ],
+    "sg:website":"www.allegiancesoftware.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dUXJdcBL9K0p4OxiGwzOp_46.864615_-96.836423@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294736,
+    "wof:geomhash":"287cad79b4a82698112bf76cf6f18cbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873581315
+        }
+    ],
+    "wof:id":873581315,
+    "wof:lastmodified":1464294736,
+    "wof:name":"Allegiance Software Inc",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "designer"
+    ]
+},
+  "bbox": [
+    -96.836423,
+    46.864615,
+    -96.836423,
+    46.864615
+],
+  "geometry": {"coordinates":[-96.836423,46.864615],"type":"Point"}
+}

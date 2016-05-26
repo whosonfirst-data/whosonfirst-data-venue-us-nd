@@ -1,0 +1,75 @@
+{
+  "id": 873551883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.108562,47.933067,-97.108562,47.933067",
+    "geom:latitude":47.933067,
+    "geom:longitude":-97.108562,
+    "iso:country":"US",
+    "sg:address":"5210 Gateway Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 2231",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "sport",
+        "trailer",
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UafHsbo4TMyqRJSVMSwW9_47.933067_-97.108562@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294399,
+    "wof:geomhash":"4a3213b01e9427cac2abdbfbbead50fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873551883
+        }
+    ],
+    "wof:id":873551883,
+    "wof:lastmodified":1464294399,
+    "wof:name":"Trailer Connection",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sport",
+        "trailer",
+        "utility"
+    ]
+},
+  "bbox": [
+    -97.108562,
+    47.933067,
+    -97.108562,
+    47.933067
+],
+  "geometry": {"coordinates":[-97.10856200000001,47.933067],"type":"Point"}
+}

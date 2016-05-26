@@ -1,0 +1,66 @@
+{
+  "id": 873596415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.055648,47.909818,-97.055648,47.909818",
+    "geom:latitude":47.909818,
+    "geom:longitude":-97.055648,
+    "iso:country":"US",
+    "sg:address":"2005 Blackwood Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 740 5991",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uE0o7GSLZN3Vhe0g3wGUa_47.909818_-97.055648@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294934,
+    "wof:geomhash":"e7013818b47510b64687586afb00b9aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873596415
+        }
+    ],
+    "wof:id":873596415,
+    "wof:lastmodified":1464294934,
+    "wof:name":"Civil Contracting Services",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.055648,
+    47.909818,
+    -97.055648,
+    47.909818
+],
+  "geometry": {"coordinates":[-97.05564800000001,47.909818],"type":"Point"}
+}

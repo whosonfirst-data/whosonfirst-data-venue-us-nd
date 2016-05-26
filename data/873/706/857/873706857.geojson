@@ -1,0 +1,77 @@
+{
+  "id": 873706857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.798909,46.843621,-96.798909,46.843621",
+    "geom:latitude":46.843621,
+    "geom:longitude":-96.798909,
+    "iso:country":"US",
+    "sg:address":"2507 S University Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 237 5451",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "chicken",
+        "fast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534475,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lWRw6rYYqChFu0KGdd1lw_46.843621_-96.798909@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296480,
+    "wof:geomhash":"4fd8e61a9f0482579cf520631527d8eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534475,
+            "region_id":85688525,
+            "venue_id":873706857
+        }
+    ],
+    "wof:id":873706857,
+    "wof:lastmodified":1464296480,
+    "wof:name":"KFC",
+    "wof:parent_id":420534475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chicken",
+        "fast"
+    ]
+},
+  "bbox": [
+    -96.798909,
+    46.843621,
+    -96.798909,
+    46.843621
+],
+  "geometry": {"coordinates":[-96.79890899999999,46.843621],"type":"Point"}
+}

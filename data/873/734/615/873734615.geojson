@@ -1,0 +1,77 @@
+{
+  "id": 873734615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.038832,47.929831,-97.038832,47.929831",
+    "geom:latitude":47.929831,
+    "geom:longitude":-97.038832,
+    "iso:country":"US",
+    "sg:address":"625 N 3rd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 4683",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "door",
+        "gate",
+        "operating",
+        "devices"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KYnzuu1zpMCKau94lQupG_47.929831_-97.038832@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296841,
+    "wof:geomhash":"b16e811ada38154a9a4bf7d62007c75b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873734615
+        }
+    ],
+    "wof:id":873734615,
+    "wof:lastmodified":1464296841,
+    "wof:name":"Valley Garage Door",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "door",
+        "gate",
+        "operating",
+        "devices"
+    ]
+},
+  "bbox": [
+    -97.038832,
+    47.929831,
+    -97.038832,
+    47.929831
+],
+  "geometry": {"coordinates":[-97.038832,47.929831],"type":"Point"}
+}

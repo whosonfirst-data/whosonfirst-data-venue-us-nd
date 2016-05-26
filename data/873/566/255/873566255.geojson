@@ -1,0 +1,71 @@
+{
+  "id": 873566255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.066582,47.892356,-97.066582,47.892356",
+    "geom:latitude":47.892356,
+    "geom:longitude":-97.066582,
+    "iso:country":"US",
+    "sg:address":"2617 S Columbia Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 6820",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KyLrSjLo2hd6SvrE8JyQ1_47.892356_-97.066582@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294568,
+    "wof:geomhash":"c8a6d1634df37c6321f91c6f8049f163",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873566255
+        }
+    ],
+    "wof:id":873566255,
+    "wof:lastmodified":1464294568,
+    "wof:name":"Hepper Olson Architects Ltd",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architectural"
+    ]
+},
+  "bbox": [
+    -97.066582,
+    47.892356,
+    -97.066582,
+    47.892356
+],
+  "geometry": {"coordinates":[-97.066582,47.892356],"type":"Point"}
+}

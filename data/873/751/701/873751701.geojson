@@ -1,0 +1,72 @@
+{
+  "id": 873751701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.331961,48.246567,-101.331961,48.246567",
+    "geom:latitude":48.246567,
+    "geom:longitude":-101.331961,
+    "iso:country":"US",
+    "sg:address":"928 26th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 3240",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "mfg"
+    ],
+    "sg:website":"www.dacotahdocks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VSjUJQKWt94ZU3Zfj0AVt_48.246567_-101.331961@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297097,
+    "wof:geomhash":"4900744c0c7260174bd8a0088f0a5644",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873751701
+        }
+    ],
+    "wof:id":873751701,
+    "wof:lastmodified":1464297097,
+    "wof:name":"Dacotah Docks & Lifts",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -101.331961,
+    48.246567,
+    -101.331961,
+    48.246567
+],
+  "geometry": {"coordinates":[-101.33196100000001,48.246567],"type":"Point"}
+}

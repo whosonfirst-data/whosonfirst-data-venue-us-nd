@@ -1,0 +1,71 @@
+{
+  "id": 873766249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.290544,48.254371,-101.290544,48.254371",
+    "geom:latitude":48.254371,
+    "geom:longitude":-101.290544,
+    "iso:country":"US",
+    "sg:address":"317 Airport Rd",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 2346",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bti6YJ7dH0H9HJKJHwhID_48.254371_-101.290544@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297315,
+    "wof:geomhash":"211b4f26f3e2c6bd7c10c31ee410e727",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873766249
+        }
+    ],
+    "wof:id":873766249,
+    "wof:lastmodified":1464297315,
+    "wof:name":"US Air Traffic Control",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -101.290544,
+    48.254371,
+    -101.290544,
+    48.254371
+],
+  "geometry": {"coordinates":[-101.290544,48.254371],"type":"Point"}
+}

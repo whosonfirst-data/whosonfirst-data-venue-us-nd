@@ -1,0 +1,75 @@
+{
+  "id": 873565771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.296141,48.24059,-101.296141,48.24059",
+    "geom:latitude":48.24059,
+    "geom:longitude":-101.296141,
+    "iso:country":"US",
+    "sg:address":"623 N Broadway",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 8709",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "used",
+        "local",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FELs29NE9JzEjqfjklmDj_48.240590_-101.296141@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294564,
+    "wof:geomhash":"1cd520e97ef7a48f7f7725b3023756bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873565771
+        }
+    ],
+    "wof:id":873565771,
+    "wof:lastmodified":1464294564,
+    "wof:name":"Jacobsen Piano & Organ",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used",
+        "local",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -101.296141,
+    48.24059,
+    -101.296141,
+    48.24059
+],
+  "geometry": {"coordinates":[-101.29614100000001,48.24059],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873726559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.029838,47.922116,-97.029838,47.922116",
+    "geom:latitude":47.922116,
+    "geom:longitude":-97.029838,
+    "iso:country":"US",
+    "sg:address":"124 S 5th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 780 8238",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ybdBXB4f1DaT5hzsmyDmz_47.922116_-97.029838@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296733,
+    "wof:geomhash":"0572ee168cce7c5189f63ee4ff384e18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873726559
+        }
+    ],
+    "wof:id":873726559,
+    "wof:lastmodified":1464296733,
+    "wof:name":"Grand Forks County Court",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.029838,
+    47.922116,
+    -97.029838,
+    47.922116
+],
+  "geometry": {"coordinates":[-97.029838,47.922116],"type":"Point"}
+}

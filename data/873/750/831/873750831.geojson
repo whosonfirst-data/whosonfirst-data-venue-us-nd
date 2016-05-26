@@ -1,0 +1,79 @@
+{
+  "id": 873750831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.796954,46.83656,-96.796954,46.83656",
+    "geom:latitude":46.83656,
+    "geom:longitude":-96.796954,
+    "iso:country":"US",
+    "sg:address":"2913 12th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 2092",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534475,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AvqeYlG5ph7LqvlCQyyBS_46.836560_-96.796954@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297086,
+    "wof:geomhash":"71c9ac5d7a255c46a08367b49bd1d142",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534475,
+            "region_id":85688525,
+            "venue_id":873750831
+        }
+    ],
+    "wof:id":873750831,
+    "wof:lastmodified":1464297086,
+    "wof:name":"Vosburg Counseling-Seniors",
+    "wof:parent_id":420534475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ]
+},
+  "bbox": [
+    -96.796954,
+    46.83656,
+    -96.796954,
+    46.83656
+],
+  "geometry": {"coordinates":[-96.796954,46.83656],"type":"Point"}
+}

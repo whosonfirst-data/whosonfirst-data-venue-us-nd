@@ -1,0 +1,73 @@
+{
+  "id": 873623769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.767996,46.803909,-100.767996,46.803909",
+    "geom:latitude":46.803909,
+    "geom:longitude":-100.767996,
+    "iso:country":"US",
+    "sg:address":"1500 E Front Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 3582",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Dh7nkL2WVrk8j4ffymBdj_46.803909_-100.767996@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295295,
+    "wof:geomhash":"afdefd9a7a99c5561399ab76f1bf6ef2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873623769
+        }
+    ],
+    "wof:id":873623769,
+    "wof:lastmodified":1464295295,
+    "wof:name":"Dakota Boys Ranch-Another Chnc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -100.767996,
+    46.803909,
+    -100.767996,
+    46.803909
+],
+  "geometry": {"coordinates":[-100.767996,46.803909],"type":"Point"}
+}

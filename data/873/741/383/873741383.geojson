@@ -1,0 +1,75 @@
+{
+  "id": 873741383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.766062,46.790946,-100.766062,46.790946",
+    "geom:latitude":46.790946,
+    "geom:longitude":-100.766062,
+    "iso:country":"US",
+    "sg:address":"1605 Park Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 224 8656",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "fitness",
+        "physical",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2P4rqmvrDPH8KuEcuT5Zfh_46.790946_-100.766062@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296944,
+    "wof:geomhash":"52a17391cd1fa5e716082d3974252ef0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873741383
+        }
+    ],
+    "wof:id":873741383,
+    "wof:lastmodified":1464296944,
+    "wof:name":"Third Street Gym",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fitness",
+        "physical",
+        "facility"
+    ]
+},
+  "bbox": [
+    -100.766062,
+    46.790946,
+    -100.766062,
+    46.790946
+],
+  "geometry": {"coordinates":[-100.76606200000001,46.790946],"type":"Point"}
+}

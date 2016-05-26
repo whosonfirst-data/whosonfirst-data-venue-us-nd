@@ -1,0 +1,71 @@
+{
+  "id": 873668221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.306205,48.245126,-101.306205,48.245126",
+    "geom:latitude":48.245126,
+    "geom:longitude":-101.306205,
+    "iso:country":"US",
+    "sg:address":"800 University Ave W",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 5882",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "religious"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bjMMHhAJWSR5SnYPdDrGN_48.245126_-101.306205@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295782,
+    "wof:geomhash":"fa62cb5aab214d6d9f402232d8ce406b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873668221
+        }
+    ],
+    "wof:id":873668221,
+    "wof:lastmodified":1464295782,
+    "wof:name":"Little Flower Catholic School",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "religious"
+    ]
+},
+  "bbox": [
+    -101.306205,
+    48.245126,
+    -101.306205,
+    48.245126
+],
+  "geometry": {"coordinates":[-101.30620500000001,48.245126],"type":"Point"}
+}

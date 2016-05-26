@@ -1,0 +1,75 @@
+{
+  "id": 873800473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.823951,46.884731,-96.823951,46.884731",
+    "geom:latitude":46.884731,
+    "geom:longitude":-96.823951,
+    "iso:country":"US",
+    "sg:address":"2802 8th Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 540 1986",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fxS7QALTxPtJDb7Ot9xg0_46.884731_-96.823951@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297779,
+    "wof:geomhash":"8f43b894b8e1eaa931fb4f48fc5db6d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873800473
+        }
+    ],
+    "wof:id":873800473,
+    "wof:lastmodified":1464297779,
+    "wof:name":"Weber Apartments",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.823951,
+    46.884731,
+    -96.823951,
+    46.884731
+],
+  "geometry": {"coordinates":[-96.82395099999999,46.884731],"type":"Point"}
+}

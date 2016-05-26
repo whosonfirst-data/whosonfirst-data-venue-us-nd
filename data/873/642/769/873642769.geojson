@@ -1,0 +1,71 @@
+{
+  "id": 873642769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.288808,48.217427,-101.288808,48.217427",
+    "geom:latitude":48.217427,
+    "geom:longitude":-101.288808,
+    "iso:country":"US",
+    "sg:address":"1618 Elmwood Dr SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 372 2084",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_085xnv84V3KUjHnbriRzq5_48.217427_-101.288808@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295508,
+    "wof:geomhash":"e6b8703989cdf2a5aed8fcc5ca2aa3da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873642769
+        }
+    ],
+    "wof:id":873642769,
+    "wof:lastmodified":1464295508,
+    "wof:name":"Tsn Bin Builders",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -101.288808,
+    48.217427,
+    -101.288808,
+    48.217427
+],
+  "geometry": {"coordinates":[-101.288808,48.217427],"type":"Point"}
+}

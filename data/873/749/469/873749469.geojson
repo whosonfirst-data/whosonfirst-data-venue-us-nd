@@ -1,0 +1,73 @@
+{
+  "id": 873749469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.319618,48.229959,-101.319618,48.229959",
+    "geom:latitude":48.229959,
+    "geom:longitude":-101.319618,
+    "iso:country":"US",
+    "sg:address":"625 18th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 837 0706",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "consultant",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lRrXiQFZpf3fRn2NvQEto_48.229959_-101.319618@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297068,
+    "wof:geomhash":"565b131eb42f1aaf1ff0e30971588012",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873749469
+        }
+    ],
+    "wof:id":873749469,
+    "wof:lastmodified":1464297068,
+    "wof:name":"Synnovation Consulting",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "business"
+    ]
+},
+  "bbox": [
+    -101.319618,
+    48.229959,
+    -101.319618,
+    48.229959
+],
+  "geometry": {"coordinates":[-101.31961800000001,48.229959],"type":"Point"}
+}

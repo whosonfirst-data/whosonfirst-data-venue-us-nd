@@ -1,0 +1,78 @@
+{
+  "id": 873655293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.822302,46.86351,-96.822302,46.86351",
+    "geom:latitude":46.86351,
+    "geom:longitude":-96.822302,
+    "iso:country":"US",
+    "sg:address":"2700 12th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 526 0361",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "treatment",
+        "skin"
+    ],
+    "sg:website":"www.susanmathisonmd.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mOZpgjjT09Yb8q9AhS97Y_46.863510_-96.822302@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295649,
+    "wof:geomhash":"b79296b5121aa2a9b61374ffdcd5b865",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873655293
+        }
+    ],
+    "wof:id":873655293,
+    "wof:lastmodified":1464295649,
+    "wof:name":"Center For Specialty Care",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "treatment",
+        "skin"
+    ]
+},
+  "bbox": [
+    -96.822302,
+    46.86351,
+    -96.822302,
+    46.86351
+],
+  "geometry": {"coordinates":[-96.82230199999999,46.86351],"type":"Point"}
+}

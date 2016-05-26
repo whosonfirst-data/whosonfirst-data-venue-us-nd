@@ -1,0 +1,77 @@
+{
+  "id": 873596885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.832525,46.864092,-96.832525,46.864092",
+    "geom:latitude":46.864092,
+    "geom:longitude":-96.832525,
+    "iso:country":"US",
+    "sg:address":"3310 Fiechtner Dr S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 893 9068",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "company",
+        "title"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HIUevMlnxIUw8h15k9spk_46.864092_-96.832525@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294943,
+    "wof:geomhash":"84c80f9e60e8b1c46832c3042017b2c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873596885
+        }
+    ],
+    "wof:id":873596885,
+    "wof:lastmodified":1464294943,
+    "wof:name":"United Title LLC",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "title"
+    ]
+},
+  "bbox": [
+    -96.832525,
+    46.864092,
+    -96.832525,
+    46.864092
+],
+  "geometry": {"coordinates":[-96.832525,46.864092],"type":"Point"}
+}

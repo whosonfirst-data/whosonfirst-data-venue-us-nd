@@ -1,0 +1,66 @@
+{
+  "id": 873733493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.304125,48.247506,-101.304125,48.247506",
+    "geom:latitude":48.247506,
+    "geom:longitude":-101.304125,
+    "iso:country":"US",
+    "sg:address":"1223 7th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 3853",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14w8RjVpXg9Efhlg7WO3NX_48.247506_-101.304125@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296821,
+    "wof:geomhash":"a2c29d2efacb08a616c1a833491b0f9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873733493
+        }
+    ],
+    "wof:id":873733493,
+    "wof:lastmodified":1464296821,
+    "wof:name":"Kc Rentals LLP",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.304125,
+    48.247506,
+    -101.304125,
+    48.247506
+],
+  "geometry": {"coordinates":[-101.304125,48.247506],"type":"Point"}
+}

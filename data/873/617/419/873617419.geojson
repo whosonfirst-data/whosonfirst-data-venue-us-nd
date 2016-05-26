@@ -1,0 +1,75 @@
+{
+  "id": 873617419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.762809,46.803872,-100.762809,46.803872",
+    "geom:latitude":46.803872,
+    "geom:longitude":-100.762809,
+    "iso:country":"US",
+    "sg:address":"131 Airport Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 3353",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZuZka1UzejGAUUiiS51IH_46.803872_-100.762809@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295219,
+    "wof:geomhash":"1f377f6feec944d8aa95f4ce733af4f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873617419
+        }
+    ],
+    "wof:id":873617419,
+    "wof:lastmodified":1464295219,
+    "wof:name":"Shop",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ]
+},
+  "bbox": [
+    -100.762809,
+    46.803872,
+    -100.762809,
+    46.803872
+],
+  "geometry": {"coordinates":[-100.762809,46.803872],"type":"Point"}
+}

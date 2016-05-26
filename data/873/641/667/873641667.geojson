@@ -1,0 +1,79 @@
+{
+  "id": 873641667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.81519,46.877528,-96.81519,46.877528",
+    "geom:latitude":46.877528,
+    "geom:longitude":-96.81519,
+    "iso:country":"US",
+    "sg:address":"2001 1st Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 5310",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "spa",
+        "hot",
+        "tub"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Yw0Ob5XrteKJUCEf3mFNy_46.877528_-96.815190@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295494,
+    "wof:geomhash":"f7fb7b675ee996cdf282b39976006733",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873641667
+        }
+    ],
+    "wof:id":873641667,
+    "wof:lastmodified":1464295494,
+    "wof:name":"Western Products Inc",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spa",
+        "hot",
+        "tub"
+    ]
+},
+  "bbox": [
+    -96.81519,
+    46.877528,
+    -96.81519,
+    46.877528
+],
+  "geometry": {"coordinates":[-96.81519,46.877528],"type":"Point"}
+}

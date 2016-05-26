@@ -1,0 +1,73 @@
+{
+  "id": 873573227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.24531,46.651324,-97.24531,46.651324",
+    "geom:latitude":46.651324,
+    "geom:longitude":-97.24531,
+    "iso:country":"US",
+    "sg:address":"408 Railroad Ave S",
+    "sg:city":"Leonard",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 645 2477",
+    "sg:postcode":"58052",
+    "sg:province":"ND",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Uv9iycNYfOE6X4sm1H1km_46.651324_-97.245310@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294644,
+    "wof:geomhash":"1ec84629662c6d914abc5f05a7659d2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873573227
+        }
+    ],
+    "wof:id":873573227,
+    "wof:lastmodified":1464294644,
+    "wof:name":"Bremer Bank",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -97.24531,
+    46.651324,
+    -97.24531,
+    46.651324
+],
+  "geometry": {"coordinates":[-97.24531,46.651324],"type":"Point"}
+}

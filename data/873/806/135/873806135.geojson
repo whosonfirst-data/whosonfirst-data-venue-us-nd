@@ -1,0 +1,99 @@
+{
+  "id": 873806135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.781577,46.802027,-100.781577,46.802027",
+    "geom:latitude":46.802027,
+    "geom:longitude":-100.781577,
+    "iso:country":"US",
+    "sg:address":"710 E Bowen Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 4232",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "crating",
+        "mailbox-rental",
+        "shipping",
+        "packaging",
+        "packing",
+        "mail",
+        "receiving"
+    ],
+    "sg:website":"http://www.pakmail.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QGuzcSR6vPuUWRJbltHjn_46.802027_-100.781577@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297853,
+    "wof:geomhash":"da10ff983cfc8e6da2024c448f2e1ffe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873806135
+        }
+    ],
+    "wof:id":873806135,
+    "wof:lastmodified":1464297853,
+    "wof:name":"Pak Mail",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crating",
+        "mailbox-rental",
+        "shipping",
+        "packaging",
+        "packing",
+        "mail",
+        "receiving"
+    ]
+},
+  "bbox": [
+    -100.781577,
+    46.802027,
+    -100.781577,
+    46.802027
+],
+  "geometry": {"coordinates":[-100.781577,46.802027],"type":"Point"}
+}

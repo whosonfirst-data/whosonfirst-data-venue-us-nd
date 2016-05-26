@@ -1,0 +1,71 @@
+{
+  "id": 873691127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.787745,46.804098,-100.787745,46.804098",
+    "geom:latitude":46.804098,
+    "geom:longitude":-100.787745,
+    "iso:country":"US",
+    "sg:address":"207 E Front Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 4245",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EfE5mbflC2PHMoAdYyzWy_46.804098_-100.787745@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296302,
+    "wof:geomhash":"feb3a2c86cb2bdcad6e586f066378c07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873691127
+        }
+    ],
+    "wof:id":873691127,
+    "wof:lastmodified":1464296302,
+    "wof:name":"Pop-A-Dent",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -100.787745,
+    46.804098,
+    -100.787745,
+    46.804098
+],
+  "geometry": {"coordinates":[-100.787745,46.804098],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873780199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.309936,48.197351,-101.309936,48.197351",
+    "geom:latitude":48.197351,
+    "geom:longitude":-101.309936,
+    "iso:country":"US",
+    "sg:address":"1202 Adams Ave",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 2874",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Q8HGSURFy2Sy0vgvUh3Vt_48.197351_-101.309936@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297495,
+    "wof:geomhash":"306e1ae5aedcfa766ea37300326a0060",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873780199
+        }
+    ],
+    "wof:id":873780199,
+    "wof:lastmodified":1464297495,
+    "wof:name":"Ware's The Magic",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [
+    -101.309936,
+    48.197351,
+    -101.309936,
+    48.197351
+],
+  "geometry": {"coordinates":[-101.30993599999999,48.197351],"type":"Point"}
+}

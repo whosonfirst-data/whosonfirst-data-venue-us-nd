@@ -1,0 +1,84 @@
+{
+  "id": 873801053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.787567,46.89663,-96.787567,46.89663",
+    "geom:latitude":46.89663,
+    "geom:longitude":-96.787567,
+    "iso:country":"US",
+    "sg:address":"1461 Broadway N Suite 103",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 7727",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "public",
+        "payroll",
+        "representative",
+        "accountants-certified",
+        "taxes-consultants"
+    ],
+    "sg:website":"http://www.bfa-cpa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534483,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YmOWRQIPdrYDDAe0sRyKQ_46.896630_-96.787567@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297785,
+    "wof:geomhash":"1a8acfe246145585a75111f5eafb8bc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534483,
+            "region_id":85688525,
+            "venue_id":873801053
+        }
+    ],
+    "wof:id":873801053,
+    "wof:lastmodified":1464297785,
+    "wof:name":"Bryce, Anderson & Associates PLLC",
+    "wof:parent_id":420534483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "public",
+        "payroll",
+        "representative",
+        "accountants-certified",
+        "taxes-consultants"
+    ]
+},
+  "bbox": [
+    -96.787567,
+    46.89663,
+    -96.787567,
+    46.89663
+],
+  "geometry": {"coordinates":[-96.787567,46.89663],"type":"Point"}
+}

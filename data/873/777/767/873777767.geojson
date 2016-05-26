@@ -1,0 +1,73 @@
+{
+  "id": 873777767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.321717,48.24175,-101.321717,48.24175",
+    "geom:latitude":48.24175,
+    "geom:longitude":-101.321717,
+    "iso:country":"US",
+    "sg:address":"408 19th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 4954",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "heavy",
+        "construction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jgigSxEdayNsLUaaaw6MN_48.241750_-101.321717@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297460,
+    "wof:geomhash":"fc50e041413f8b44b2cb2f4a63362d31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873777767
+        }
+    ],
+    "wof:id":873777767,
+    "wof:lastmodified":1464297460,
+    "wof:name":"Travl Construction",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heavy",
+        "construction"
+    ]
+},
+  "bbox": [
+    -101.321717,
+    48.24175,
+    -101.321717,
+    48.24175
+],
+  "geometry": {"coordinates":[-101.32171700000001,48.24175],"type":"Point"}
+}

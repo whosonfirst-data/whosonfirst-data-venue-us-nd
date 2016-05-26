@@ -1,0 +1,73 @@
+{
+  "id": 873774669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.040021,47.929204,-97.040021,47.929204",
+    "geom:latitude":47.929204,
+    "geom:longitude":-97.040021,
+    "iso:country":"US",
+    "sg:address":"605 N 4th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 8232",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "broker",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_676RkhHUscCMdkqg20QMkv_47.929204_-97.040021@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297422,
+    "wof:geomhash":"019ccb10f11579aa5a09426a1fe84931",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873774669
+        }
+    ],
+    "wof:id":873774669,
+    "wof:lastmodified":1464297422,
+    "wof:name":"A & L Trucking",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -97.040021,
+    47.929204,
+    -97.040021,
+    47.929204
+],
+  "geometry": {"coordinates":[-97.040021,47.929204],"type":"Point"}
+}

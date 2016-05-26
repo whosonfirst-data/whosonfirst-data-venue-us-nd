@@ -1,0 +1,71 @@
+{
+  "id": 873761905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.070571,47.924153,-97.070571,47.924153",
+    "geom:latitude":47.924153,
+    "geom:longitude":-97.070571,
+    "iso:country":"US",
+    "sg:address":"314 Cambridge St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 777 3664",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "arbitration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49ETfksmHYezswpCZebPYC_47.924153_-97.070571@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297235,
+    "wof:geomhash":"9703284b04a2cc601d31a04af7776933",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873761905
+        }
+    ],
+    "wof:id":873761905,
+    "wof:lastmodified":1464297235,
+    "wof:name":"Conflict Resolution CTR-Und",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arbitration"
+    ]
+},
+  "bbox": [
+    -97.070571,
+    47.924153,
+    -97.070571,
+    47.924153
+],
+  "geometry": {"coordinates":[-97.070571,47.924153],"type":"Point"}
+}

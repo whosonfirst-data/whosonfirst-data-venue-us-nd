@@ -1,0 +1,73 @@
+{
+  "id": 873568801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.109587,47.933062,-97.109587,47.933062",
+    "geom:latitude":47.933062,
+    "geom:longitude":-97.109587,
+    "iso:country":"US",
+    "sg:address":"5118 Gateway Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 8191",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pYiKdIBO84Ux00zEeLKGS_47.933062_-97.109587@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294593,
+    "wof:geomhash":"7b92583a6220201fd5e75a648177d6ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873568801
+        }
+    ],
+    "wof:id":873568801,
+    "wof:lastmodified":1464294593,
+    "wof:name":"Gateway Storage",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -97.109587,
+    47.933062,
+    -97.109587,
+    47.933062
+],
+  "geometry": {"coordinates":[-97.109587,47.933062],"type":"Point"}
+}

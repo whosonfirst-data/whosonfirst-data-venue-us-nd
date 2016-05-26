@@ -1,0 +1,71 @@
+{
+  "id": 873780707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.771225,46.786757,-100.771225,46.786757",
+    "geom:latitude":46.786757,
+    "geom:longitude":-100.771225,
+    "iso:country":"US",
+    "sg:address":"1213 Continental Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 7640",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "optical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47ZTxI9W1LSsGUxvS0yN4g_46.786757_-100.771225@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297501,
+    "wof:geomhash":"3af46a31f98b46c24b78bf741f18e281",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873780707
+        }
+    ],
+    "wof:id":873780707,
+    "wof:lastmodified":1464297501,
+    "wof:name":"Twin City Optical Co",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "optical"
+    ]
+},
+  "bbox": [
+    -100.771225,
+    46.786757,
+    -100.771225,
+    46.786757
+],
+  "geometry": {"coordinates":[-100.771225,46.786757],"type":"Point"}
+}

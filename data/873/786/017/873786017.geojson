@@ -1,0 +1,67 @@
+{
+  "id": 873786017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.312705,48.257943,-101.312705,48.257943",
+    "geom:latitude":48.257943,
+    "geom:longitude":-101.312705,
+    "iso:country":"US",
+    "sg:address":"2046 13th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 0645",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "corn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Yj0ho89bpanZtxR42mDEx_48.257943_-101.312705@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297568,
+    "wof:geomhash":"86f4b4b6ff68152ff7859f6d1274ebb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873786017
+        }
+    ],
+    "wof:id":873786017,
+    "wof:lastmodified":1464297568,
+    "wof:name":"Roger Spelhaug",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "corn"
+    ]
+},
+  "bbox": [
+    -101.312705,
+    48.257943,
+    -101.312705,
+    48.257943
+],
+  "geometry": {"coordinates":[-101.31270499999999,48.257943],"type":"Point"}
+}

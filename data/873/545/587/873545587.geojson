@@ -1,0 +1,75 @@
+{
+  "id": 873545587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.830121,46.861719,-96.830121,46.861719",
+    "geom:latitude":46.861719,
+    "geom:longitude":-96.830121,
+    "iso:country":"US",
+    "sg:address":"3005 13th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 8770",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61133WEnjKSGV2VAKb88en_46.861719_-96.830121@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294322,
+    "wof:geomhash":"da40140d0fb11d90b6b504d21c474e96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873545587
+        }
+    ],
+    "wof:id":873545587,
+    "wof:lastmodified":1464294322,
+    "wof:name":"A J's Westown Beach Tanning",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -96.830121,
+    46.861719,
+    -96.830121,
+    46.861719
+],
+  "geometry": {"coordinates":[-96.83012100000001,46.861719],"type":"Point"}
+}

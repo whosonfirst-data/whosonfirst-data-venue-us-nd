@@ -1,0 +1,82 @@
+{
+  "id": 873537467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.61352,46.80491,-100.61352,46.80491",
+    "geom:latitude":46.80491,
+    "geom:longitude":-100.61352,
+    "iso:country":"US",
+    "sg:address":"260 Mees Ln",
+    "sg:city":"Menoken",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 400 7937",
+    "sg:postcode":"58558",
+    "sg:province":"ND",
+    "sg:tags":[
+        "candle",
+        "product",
+        "merchandise",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_031pf8ay6cv2RDJ79F5koG_46.804910_-100.613520@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294233,
+    "wof:geomhash":"a02583a5de20a10b6bd6c09dc4b45604",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873537467
+        }
+    ],
+    "wof:id":873537467,
+    "wof:lastmodified":1464294233,
+    "wof:name":"Heavenly Scents Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "candle",
+        "product",
+        "merchandise",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -100.61352,
+    46.80491,
+    -100.61352,
+    46.80491
+],
+  "geometry": {"coordinates":[-100.61351999999999,46.80491],"type":"Point"}
+}

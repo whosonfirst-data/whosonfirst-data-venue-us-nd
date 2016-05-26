@@ -1,0 +1,77 @@
+{
+  "id": 873762055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.068041,47.933151,-97.068041,47.933151",
+    "geom:latitude":47.933151,
+    "geom:longitude":-97.068041,
+    "iso:country":"US",
+    "sg:address":"2902 Gateway Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 4839",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "engine",
+        "automotive",
+        "retail",
+        "including"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cdZfyrCKCZXcHMeUHA6t6_47.933151_-97.068041@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297238,
+    "wof:geomhash":"ae1622033ddc68150daac5258f3f330e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873762055
+        }
+    ],
+    "wof:id":873762055,
+    "wof:lastmodified":1464297238,
+    "wof:name":"H E Everson Company Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "automotive",
+        "retail",
+        "including"
+    ]
+},
+  "bbox": [
+    -97.068041,
+    47.933151,
+    -97.068041,
+    47.933151
+],
+  "geometry": {"coordinates":[-97.06804099999999,47.933151],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873610273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.781603,46.80158,-100.781603,46.80158",
+    "geom:latitude":46.80158,
+    "geom:longitude":-100.781603,
+    "iso:country":"US",
+    "sg:address":"517 S 7th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 4512",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "banks",
+        "blood",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2K4svIbeoUREY9ybK15R61_46.801580_-100.781603@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295146,
+    "wof:geomhash":"2c517a15c4b56d5991ee24ea3c1fd5ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873610273
+        }
+    ],
+    "wof:id":873610273,
+    "wof:lastmodified":1464295146,
+    "wof:name":"United Blood Svc",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banks",
+        "blood",
+        "center"
+    ]
+},
+  "bbox": [
+    -100.781603,
+    46.80158,
+    -100.781603,
+    46.80158
+],
+  "geometry": {"coordinates":[-100.781603,46.80158],"type":"Point"}
+}

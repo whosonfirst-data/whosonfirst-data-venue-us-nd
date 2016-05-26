@@ -1,0 +1,72 @@
+{
+  "id": 873715253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.762796,46.800728,-100.762796,46.800728",
+    "geom:latitude":46.800728,
+    "geom:longitude":-100.762796,
+    "iso:country":"US",
+    "sg:address":"511 Airport Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 530 9500",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "furniture"
+    ],
+    "sg:website":"www.brown-saenger.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OjxkZxDeMC5ptdxQQQiIs_46.800728_-100.762796@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296584,
+    "wof:geomhash":"6a0cc890f372f7e80c77a86e8a30d173",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873715253
+        }
+    ],
+    "wof:id":873715253,
+    "wof:lastmodified":1464296584,
+    "wof:name":"Brown & Saenger",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furniture"
+    ]
+},
+  "bbox": [
+    -100.762796,
+    46.800728,
+    -100.762796,
+    46.800728
+],
+  "geometry": {"coordinates":[-100.76279599999999,46.800728],"type":"Point"}
+}

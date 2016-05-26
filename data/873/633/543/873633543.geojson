@@ -1,0 +1,73 @@
+{
+  "id": 873633543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.282095,48.300665,-101.282095,48.300665",
+    "geom:latitude":48.300665,
+    "geom:longitude":-101.282095,
+    "iso:country":"US",
+    "sg:address":"721 64th Ave NE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 1031",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "website",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Z8IU8Si6tFcb6LPk2wv7F_48.300665_-101.282095@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295407,
+    "wof:geomhash":"83fd85b382626bb1bc6a4501d77f37e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873633543
+        }
+    ],
+    "wof:id":873633543,
+    "wof:lastmodified":1464295407,
+    "wof:name":"Webs 4 Business",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "website",
+        "design"
+    ]
+},
+  "bbox": [
+    -101.282095,
+    48.300665,
+    -101.282095,
+    48.300665
+],
+  "geometry": {"coordinates":[-101.282095,48.300665],"type":"Point"}
+}

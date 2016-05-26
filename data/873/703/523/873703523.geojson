@@ -1,0 +1,75 @@
+{
+  "id": 873703523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.663101,48.269421,-101.663101,48.269421",
+    "geom:latitude":48.269421,
+    "geom:longitude":-101.663101,
+    "iso:country":"US",
+    "sg:address":"24001 30th Ave NW",
+    "sg:city":"Berthold",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 725 4432",
+    "sg:postcode":"58718",
+    "sg:province":"ND",
+    "sg:tags":[
+        "custom",
+        "crop",
+        "harvesting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UXfzI5oKUR6cbRUDgWnY1_48.269421_-101.663101@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296440,
+    "wof:geomhash":"15e4d11f799648da1d3c66565ebfb1a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873703523
+        }
+    ],
+    "wof:id":873703523,
+    "wof:lastmodified":1464296440,
+    "wof:name":"Neshem Inc",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "custom",
+        "crop",
+        "harvesting"
+    ]
+},
+  "bbox": [
+    -101.663101,
+    48.269421,
+    -101.663101,
+    48.269421
+],
+  "geometry": {"coordinates":[-101.663101,48.269421],"type":"Point"}
+}

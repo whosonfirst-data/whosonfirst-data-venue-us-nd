@@ -1,0 +1,83 @@
+{
+  "id": 873782797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.823884,46.879488,-96.823884,46.879488",
+    "geom:latitude":46.879488,
+    "geom:longitude":-96.823884,
+    "iso:country":"US",
+    "sg:address":"2810 3rd Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 239 8343",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "household",
+        "appliance",
+        "system",
+        "equipment",
+        "air conditioning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aPztpraw35Oac9r9KdriH_46.879428_-96.823889@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464297528,
+    "wof:geomhash":"b19c26906efd00c658fc5d63290fc295",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873782797
+        }
+    ],
+    "wof:id":873782797,
+    "wof:lastmodified":1464297528,
+    "wof:name":"Dey Distributing",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "household",
+        "appliance",
+        "system",
+        "equipment",
+        "air conditioning"
+    ]
+},
+  "bbox": [
+    -96.823884,
+    46.879488,
+    -96.823884,
+    46.879488
+],
+  "geometry": {"coordinates":[-96.82388400000001,46.879488],"type":"Point"}
+}

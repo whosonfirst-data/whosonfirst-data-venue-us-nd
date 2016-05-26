@@ -1,0 +1,75 @@
+{
+  "id": 873781255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.757413,46.80318,-100.757413,46.80318",
+    "geom:latitude":46.80318,
+    "geom:longitude":-100.757413,
+    "iso:country":"US",
+    "sg:address":"2222 E Front Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 0035",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "oil",
+        "gas",
+        "producer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vExnVsZMkWxDuNExmugRx_46.803180_-100.757413@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297508,
+    "wof:geomhash":"06ff8a2ff42f6fa1144753e9b2701c61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873781255
+        }
+    ],
+    "wof:id":873781255,
+    "wof:lastmodified":1464297508,
+    "wof:name":"Froelich Oil Co",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "gas",
+        "producer"
+    ]
+},
+  "bbox": [
+    -100.757413,
+    46.80318,
+    -100.757413,
+    46.80318
+],
+  "geometry": {"coordinates":[-100.757413,46.80318],"type":"Point"}
+}

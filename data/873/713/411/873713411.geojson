@@ -1,0 +1,73 @@
+{
+  "id": 873713411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.044916,47.911906,-97.044916,47.911906",
+    "geom:latitude":47.911906,
+    "geom:longitude":-97.044916,
+    "iso:country":"US",
+    "sg:address":"1211 10th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 335 4015",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5A41nlDUH3gbwNw43a6OIb_47.911906_-97.044916@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296561,
+    "wof:geomhash":"231fcc1f1e9dae2481099f66751443f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873713411
+        }
+    ],
+    "wof:id":873713411,
+    "wof:lastmodified":1464296561,
+    "wof:name":"Development Homes Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -97.044916,
+    47.911906,
+    -97.044916,
+    47.911906
+],
+  "geometry": {"coordinates":[-97.044916,47.911906],"type":"Point"}
+}

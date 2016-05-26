@@ -1,0 +1,75 @@
+{
+  "id": 873536951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.871592,46.852423,-96.871592,46.852423",
+    "geom:latitude":46.852423,
+    "geom:longitude":-96.871592,
+    "iso:country":"US",
+    "sg:address":"1824 52nd St SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 281 2554",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vqOQgNqkqIp6kiWAj2zeN_46.852423_-96.871592@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294226,
+    "wof:geomhash":"bdc3796b86a515b2bc27a939332cab96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873536951
+        }
+    ],
+    "wof:id":873536951,
+    "wof:lastmodified":1464294226,
+    "wof:name":"All Saints Christian Orthodox",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -96.871592,
+    46.852423,
+    -96.871592,
+    46.852423
+],
+  "geometry": {"coordinates":[-96.87159200000001,46.852423],"type":"Point"}
+}

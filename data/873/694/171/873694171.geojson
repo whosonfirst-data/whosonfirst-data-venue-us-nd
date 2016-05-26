@@ -1,0 +1,70 @@
+{
+  "id": 873694171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-102.786676,46.881717,-102.786676,46.881717",
+    "geom:latitude":46.881717,
+    "geom:longitude":-102.786676,
+    "iso:country":"US",
+    "sg:address":"221 1st Ave W",
+    "sg:city":"Dickinson",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 483 1962",
+    "sg:postcode":"58601",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877119,
+        102191575,
+        404482179,
+        85633793,
+        85982521,
+        102082105,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70MRxTDfIBFOzHo7msxjAE_46.881717_-102.786676@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296340,
+    "wof:geomhash":"e786f410c745d16fea35ca70cf4bd7e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082105,
+            "localadmin_id":404482179,
+            "locality_id":85982521,
+            "neighbourhood_id":85877119,
+            "region_id":85688525,
+            "venue_id":873694171
+        }
+    ],
+    "wof:id":873694171,
+    "wof:lastmodified":1464296340,
+    "wof:name":"Kirkwood Bank & Trust Co",
+    "wof:parent_id":85877119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -102.786676,
+    46.881717,
+    -102.786676,
+    46.881717
+],
+  "geometry": {"coordinates":[-102.786676,46.881717],"type":"Point"}
+}

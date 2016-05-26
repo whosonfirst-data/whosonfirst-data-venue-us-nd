@@ -1,0 +1,73 @@
+{
+  "id": 873653015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.408637,48.229739,-101.408637,48.229739",
+    "geom:latitude":48.229739,
+    "geom:longitude":-101.408637,
+    "iso:country":"US",
+    "sg:address":"8100 Co Rd 12 W",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 3705",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "picture",
+        "frame"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NWOI1kmebi3f10v0zboDG_48.229739_-101.408637@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295624,
+    "wof:geomhash":"f26096dd986894ab0508cea952e3e33c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873653015
+        }
+    ],
+    "wof:id":873653015,
+    "wof:lastmodified":1464295624,
+    "wof:name":"Mark Hamilton Enterprises",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "picture",
+        "frame"
+    ]
+},
+  "bbox": [
+    -101.408637,
+    48.229739,
+    -101.408637,
+    48.229739
+],
+  "geometry": {"coordinates":[-101.408637,48.229739],"type":"Point"}
+}

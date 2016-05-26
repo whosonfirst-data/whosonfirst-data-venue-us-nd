@@ -1,0 +1,66 @@
+{
+  "id": 873737399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.044567,47.900959,-97.044567,47.900959",
+    "geom:latitude":47.900959,
+    "geom:longitude":-97.044567,
+    "iso:country":"US",
+    "sg:address":"1911 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 5683",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CVn5p3k0Jjx5n1m9txJ8t_47.900959_-97.044567@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296887,
+    "wof:geomhash":"d16d26a6c9b4da8664ceefc100a28005",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873737399
+        }
+    ],
+    "wof:id":873737399,
+    "wof:lastmodified":1464296887,
+    "wof:name":"Debra Kays' Styling Salon",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.044567,
+    47.900959,
+    -97.044567,
+    47.900959
+],
+  "geometry": {"coordinates":[-97.044567,47.900959],"type":"Point"}
+}

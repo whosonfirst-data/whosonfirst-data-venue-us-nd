@@ -1,0 +1,75 @@
+{
+  "id": 873553523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.049891,47.895874,-97.049891,47.895874",
+    "geom:latitude":47.895874,
+    "geom:longitude":-97.049891,
+    "iso:country":"US",
+    "sg:address":"1420 24th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 9514",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34VQKWI4DLcwy68xdMI1vY_47.895874_-97.049891@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294417,
+    "wof:geomhash":"cb67f03f8693777c02068e2f03f62007",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873553523
+        }
+    ],
+    "wof:id":873553523,
+    "wof:lastmodified":1464294417,
+    "wof:name":"Little Scholar Ship-Montessori",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -97.049891,
+    47.895874,
+    -97.049891,
+    47.895874
+],
+  "geometry": {"coordinates":[-97.049891,47.895874],"type":"Point"}
+}

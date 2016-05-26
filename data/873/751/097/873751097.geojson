@@ -1,0 +1,67 @@
+{
+  "id": 873751097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.04465,47.895964,-97.04465,47.895964",
+    "geom:latitude":47.895964,
+    "geom:longitude":-97.04465,
+    "iso:country":"US",
+    "sg:address":"2715 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 1975",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:website":"www.wsn-mn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_376BPifukqAZPZno5iQIwm_47.895964_-97.044650@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297089,
+    "wof:geomhash":"393e57b53f0b69948ee71e0cab8a110e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873751097
+        }
+    ],
+    "wof:id":873751097,
+    "wof:lastmodified":1464297089,
+    "wof:name":"Widseth Smith Nolting & Assoc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.04465,
+    47.895964,
+    -97.04465,
+    47.895964
+],
+  "geometry": {"coordinates":[-97.04465,47.895964],"type":"Point"}
+}

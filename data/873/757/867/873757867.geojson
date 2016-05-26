@@ -1,0 +1,73 @@
+{
+  "id": 873757867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.052175,47.919026,-97.052175,47.919026",
+    "geom:latitude":47.919026,
+    "geom:longitude":-97.052175,
+    "iso:country":"US",
+    "sg:address":"1723 Dyke Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 4622",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bRGjv2PtyjjpVQO3xLpRN_47.919026_-97.052175@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297180,
+    "wof:geomhash":"19c443e608b07c4a74b05977f56270c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873757867
+        }
+    ],
+    "wof:id":873757867,
+    "wof:lastmodified":1464297180,
+    "wof:name":"Water Boys Plumbing Svc Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.052175,
+    47.919026,
+    -97.052175,
+    47.919026
+],
+  "geometry": {"coordinates":[-97.05217500000001,47.919026],"type":"Point"}
+}

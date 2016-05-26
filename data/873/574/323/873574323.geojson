@@ -1,0 +1,73 @@
+{
+  "id": 873574323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.774227,46.799071,-100.774227,46.799071",
+    "geom:latitude":46.799071,
+    "geom:longitude":-100.774227,
+    "iso:country":"US",
+    "sg:address":"614 S 12th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 0266",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "club",
+        "membership"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CrUgoWNxUp1KC04K6mu2s_46.799071_-100.774227@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294656,
+    "wof:geomhash":"2c43ad2e04c7743056762103c0810533",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873574323
+        }
+    ],
+    "wof:id":873574323,
+    "wof:lastmodified":1464294656,
+    "wof:name":"Senior Goslings Goose Lodge",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "membership"
+    ]
+},
+  "bbox": [
+    -100.774227,
+    46.799071,
+    -100.774227,
+    46.799071
+],
+  "geometry": {"coordinates":[-100.774227,46.799071],"type":"Point"}
+}

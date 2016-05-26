@@ -1,0 +1,74 @@
+{
+  "id": 873614179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.763079,46.792157,-100.763079,46.792157",
+    "geom:latitude":46.792157,
+    "geom:longitude":-100.763079,
+    "iso:country":"US",
+    "sg:address":"1812 Lee Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 221 2000",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automobile",
+        "supply"
+    ],
+    "sg:website":"www.factorymotorparts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WmKGLXfuqeRvy9n6NVA4n_46.792157_-100.763079@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295187,
+    "wof:geomhash":"84d88129555bf679ae342b0fe68c5665",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873614179
+        }
+    ],
+    "wof:id":873614179,
+    "wof:lastmodified":1464295187,
+    "wof:name":"Factory Motor Parts Co",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "supply"
+    ]
+},
+  "bbox": [
+    -100.763079,
+    46.792157,
+    -100.763079,
+    46.792157
+],
+  "geometry": {"coordinates":[-100.763079,46.792157],"type":"Point"}
+}

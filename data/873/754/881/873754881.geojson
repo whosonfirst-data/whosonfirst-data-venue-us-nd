@@ -1,0 +1,71 @@
+{
+  "id": 873754881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.371732,47.918585,-97.371732,47.918585",
+    "geom:latitude":47.918585,
+    "geom:longitude":-97.371732,
+    "iso:country":"US",
+    "sg:address":"101 Browell St",
+    "sg:city":"Emerado",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 594 4435",
+    "sg:postcode":"58228",
+    "sg:province":"ND",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Gh8ALGhUs3Y68gE2EB3Py_47.918585_-97.371732@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297143,
+    "wof:geomhash":"6a399287b71be3b870627aeb859c7dcc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873754881
+        }
+    ],
+    "wof:id":873754881,
+    "wof:lastmodified":1464297143,
+    "wof:name":"Sand Steel Buildings Co",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.371732,
+    47.918585,
+    -97.371732,
+    47.918585
+],
+  "geometry": {"coordinates":[-97.37173199999999,47.918585],"type":"Point"}
+}

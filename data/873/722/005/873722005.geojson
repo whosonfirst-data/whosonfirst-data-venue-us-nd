@@ -1,0 +1,71 @@
+{
+  "id": 873722005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.762728,46.799412,-100.762728,46.799412",
+    "geom:latitude":46.799412,
+    "geom:longitude":-100.762728,
+    "iso:country":"US",
+    "sg:address":"541 Airport Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 250 9964",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "camp"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3P1KMQ8f1Uf13VzRmsz9GM_46.799412_-100.762728@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296674,
+    "wof:geomhash":"fb5e6e34effe6f9eee31e5b555a5e64c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873722005
+        }
+    ],
+    "wof:id":873722005,
+    "wof:lastmodified":1464296674,
+    "wof:name":"Cross Training Christian Camps",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -100.762728,
+    46.799412,
+    -100.762728,
+    46.799412
+],
+  "geometry": {"coordinates":[-100.762728,46.799412],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873739313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.78774,46.788302,-100.78774,46.788302",
+    "geom:latitude":46.788302,
+    "geom:longitude":-100.78774,
+    "iso:country":"US",
+    "sg:address":"1545 Wichita Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 4913",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "pharmacist",
+        "contract"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sNbYplSDPcrRWmMqrphym_46.788302_-100.787740@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296911,
+    "wof:geomhash":"fec93624991522febe238dd48b961f72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873739313
+        }
+    ],
+    "wof:id":873739313,
+    "wof:lastmodified":1464296911,
+    "wof:name":"Kurt Regstad",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmacist",
+        "contract"
+    ]
+},
+  "bbox": [
+    -100.78774,
+    46.788302,
+    -100.78774,
+    46.788302
+],
+  "geometry": {"coordinates":[-100.78774,46.788302],"type":"Point"}
+}

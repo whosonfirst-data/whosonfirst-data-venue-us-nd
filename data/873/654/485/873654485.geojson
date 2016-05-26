@@ -1,0 +1,66 @@
+{
+  "id": 873654485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.746484,46.809112,-100.746484,46.809112",
+    "geom:latitude":46.809112,
+    "geom:longitude":-100.746484,
+    "iso:country":"US",
+    "sg:address":"611 N 31st St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 221 3424",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cBHDx9C7YcTfH16IFvpjS_46.809112_-100.746484@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295641,
+    "wof:geomhash":"0bdcc263b14446bc92f212c288004cc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873654485
+        }
+    ],
+    "wof:id":873654485,
+    "wof:lastmodified":1464295641,
+    "wof:name":"Rita Murphy Elementary School",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.746484,
+    46.809112,
+    -100.746484,
+    46.809112
+],
+  "geometry": {"coordinates":[-100.746484,46.809112],"type":"Point"}
+}

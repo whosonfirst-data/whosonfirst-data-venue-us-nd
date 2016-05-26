@@ -1,0 +1,56 @@
+{
+  "id": 873655331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-98.694447,46.899145,-98.694447,46.899145",
+    "geom:latitude":46.899145,
+    "geom:longitude":-98.694447,
+    "iso:country":"US",
+    "sg:address":"1011 10th St SE",
+    "sg:city":"Jamestown",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 252 4444",
+    "sg:postcode":"58401",
+    "sg:province":"ND",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YjaRs9YFsagW42p6FEPOX_46.899145_-98.694447@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295649,
+    "wof:geomhash":"01a130b1fe2db87ffa5642d7a146a9b0",
+    "wof:hierarchy":[],
+    "wof:id":873655331,
+    "wof:lastmodified":1464295649,
+    "wof:name":"Buffalo City Cab",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -98.694447,
+    46.899145,
+    -98.694447,
+    46.899145
+],
+  "geometry": {"coordinates":[-98.694447,46.899145],"type":"Point"}
+}

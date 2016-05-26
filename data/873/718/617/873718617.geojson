@@ -1,0 +1,71 @@
+{
+  "id": 873718617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.066395,47.90748,-97.066395,47.90748",
+    "geom:latitude":47.90748,
+    "geom:longitude":-97.066395,
+    "iso:country":"US",
+    "sg:address":"1315 S Columbia Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 7283",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40AcAa7XWcBpvVEjRqIT8U_47.907480_-97.066395@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296628,
+    "wof:geomhash":"28ef4d29c2c0e9f7c849fa904cdbb214",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873718617
+        }
+    ],
+    "wof:id":873718617,
+    "wof:lastmodified":1464296628,
+    "wof:name":"Hugo's",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -97.066395,
+    47.90748,
+    -97.066395,
+    47.90748
+],
+  "geometry": {"coordinates":[-97.066395,47.90748],"type":"Point"}
+}

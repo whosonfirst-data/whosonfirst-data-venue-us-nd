@@ -1,0 +1,81 @@
+{
+  "id": 873732631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.812703,46.831033,-96.812703,46.831033",
+    "geom:latitude":46.831033,
+    "geom:longitude":-96.812703,
+    "iso:country":"US",
+    "sg:address":"3260 20th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 478 3627",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "bureau",
+        "information"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534487,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SwBd7k7vQUoEiCrAtUZiT_46.831033_-96.812703@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296811,
+    "wof:geomhash":"bf56f89da89ac79378ad6d2bc6d8afe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534487,
+            "region_id":85688525,
+            "venue_id":873732631
+        }
+    ],
+    "wof:id":873732631,
+    "wof:lastmodified":1464296811,
+    "wof:name":"Heartland Independent Provider",
+    "wof:parent_id":420534487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "bureau",
+        "information"
+    ]
+},
+  "bbox": [
+    -96.812703,
+    46.831033,
+    -96.812703,
+    46.831033
+],
+  "geometry": {"coordinates":[-96.812703,46.831033],"type":"Point"}
+}

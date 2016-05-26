@@ -1,0 +1,71 @@
+{
+  "id": 873625993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.647549,46.750949,-100.647549,46.750949",
+    "geom:latitude":46.750949,
+    "geom:longitude":-100.647549,
+    "iso:country":"US",
+    "sg:address":"5050 93rd St SE",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 224 9261",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "sanitary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33ZPXzLCvp0H9BJk4pUYCr_46.750949_-100.647549@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295320,
+    "wof:geomhash":"247fc1b9074045717e18829dc72fdf27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873625993
+        }
+    ],
+    "wof:id":873625993,
+    "wof:lastmodified":1464295320,
+    "wof:name":"Guthmiller & Son Dirt Works",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sanitary"
+    ]
+},
+  "bbox": [
+    -100.647549,
+    46.750949,
+    -100.647549,
+    46.750949
+],
+  "geometry": {"coordinates":[-100.647549,46.750949],"type":"Point"}
+}

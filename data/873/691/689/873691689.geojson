@@ -1,0 +1,77 @@
+{
+  "id": 873691689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.801521,46.874051,-96.801521,46.874051",
+    "geom:latitude":46.874051,
+    "geom:longitude":-96.801521,
+    "iso:country":"US",
+    "sg:address":"1419 1st Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 7716",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "club",
+        "social"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ABsqNLhCtpRe4vd5PbhBm_46.874051_-96.801521@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296312,
+    "wof:geomhash":"29d89134704cb8bd062928bcf938e1ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873691689
+        }
+    ],
+    "wof:id":873691689,
+    "wof:lastmodified":1464296312,
+    "wof:name":"Mental Health Assn Social CLB",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "social"
+    ]
+},
+  "bbox": [
+    -96.801521,
+    46.874051,
+    -96.801521,
+    46.874051
+],
+  "geometry": {"coordinates":[-96.80152099999999,46.874051],"type":"Point"}
+}

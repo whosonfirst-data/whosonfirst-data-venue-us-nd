@@ -1,0 +1,81 @@
+{
+  "id": 873566457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.306702,48.231372,-101.306702,48.231372",
+    "geom:latitude":48.231372,
+    "geom:longitude":-101.306702,
+    "iso:country":"US",
+    "sg:address":"911 Burdick Expy W",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 6726",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "trophy",
+        "engraving",
+        "award",
+        "doe",
+        "printing",
+        "medal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hUc9BfOsROC28P1lEvWwL_48.231372_-101.306702@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294570,
+    "wof:geomhash":"b8edd56dc1bc12a2df76fc563dd2caa1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873566457
+        }
+    ],
+    "wof:id":873566457,
+    "wof:lastmodified":1464294570,
+    "wof:name":"Northern Trophy & Engraving Co",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trophy",
+        "engraving",
+        "award",
+        "doe",
+        "printing",
+        "medal"
+    ]
+},
+  "bbox": [
+    -101.306702,
+    48.231372,
+    -101.306702,
+    48.231372
+],
+  "geometry": {"coordinates":[-101.306702,48.231372],"type":"Point"}
+}

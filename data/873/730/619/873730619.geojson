@@ -1,0 +1,73 @@
+{
+  "id": 873730619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.234657,48.119152,-97.234657,48.119152",
+    "geom:latitude":48.119152,
+    "geom:longitude":-97.234657,
+    "iso:country":"US",
+    "sg:address":"3095 19th St NE",
+    "sg:city":"Manvel",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 696 2572",
+    "sg:postcode":"58256",
+    "sg:province":"ND",
+    "sg:tags":[
+        "specialty",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jPYBrnskY5p5JQfqRc1tH_48.119152_-97.234657@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296786,
+    "wof:geomhash":"50f2bdc81d0d5fa1a7bbf0ed4a610e0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873730619
+        }
+    ],
+    "wof:id":873730619,
+    "wof:lastmodified":1464296786,
+    "wof:name":"North Country Sports",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "animal"
+    ]
+},
+  "bbox": [
+    -97.234657,
+    48.119152,
+    -97.234657,
+    48.119152
+],
+  "geometry": {"coordinates":[-97.234657,48.119152],"type":"Point"}
+}

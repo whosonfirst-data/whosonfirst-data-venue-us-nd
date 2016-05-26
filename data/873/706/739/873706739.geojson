@@ -1,0 +1,71 @@
+{
+  "id": 873706739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.706406,48.36424,-101.706406,48.36424",
+    "geom:latitude":48.36424,
+    "geom:longitude":-101.706406,
+    "iso:country":"US",
+    "sg:address":"12100 268th St NW",
+    "sg:city":"Berthold",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 453 3537",
+    "sg:postcode":"58718",
+    "sg:province":"ND",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0k9QoErrDM8Tx2qcICtBh6_48.364240_-101.706406@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296478,
+    "wof:geomhash":"e87d90c3c7fae3bfd067ba5015767fc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873706739
+        }
+    ],
+    "wof:id":873706739,
+    "wof:lastmodified":1464296478,
+    "wof:name":"Berthold City Ambulance",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -101.706406,
+    48.36424,
+    -101.706406,
+    48.36424
+],
+  "geometry": {"coordinates":[-101.706406,48.36424],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873694857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.787841,46.785787,-100.787841,46.785787",
+    "geom:latitude":46.785787,
+    "geom:longitude":-100.787841,
+    "iso:country":"US",
+    "sg:address":"1638 Wichita Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 4216",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "stone",
+        "cut",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61UTOhZaeYj9CUvOmgGZYA_46.785787_-100.787841@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296348,
+    "wof:geomhash":"623c7d15e93ae2d65a56d122475d7904",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873694857
+        }
+    ],
+    "wof:id":873694857,
+    "wof:lastmodified":1464296348,
+    "wof:name":"Klein's Agates & Designs",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stone",
+        "cut",
+        "product"
+    ]
+},
+  "bbox": [
+    -100.787841,
+    46.785787,
+    -100.787841,
+    46.785787
+],
+  "geometry": {"coordinates":[-100.787841,46.785787],"type":"Point"}
+}

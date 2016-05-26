@@ -1,0 +1,71 @@
+{
+  "id": 873564189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.567631,47.735331,-97.567631,47.735331",
+    "geom:latitude":47.735331,
+    "geom:longitude":-97.567631,
+    "iso:country":"US",
+    "sg:address":"504 2nd Ave",
+    "sg:city":"Northwood",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 587 5375",
+    "sg:postcode":"58267",
+    "sg:province":"ND",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mPrKdxkk41F30BpTg24XG_47.735331_-97.567631@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294546,
+    "wof:geomhash":"58a32fa5121530416baecff94e9bc5ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873564189
+        }
+    ],
+    "wof:id":873564189,
+    "wof:lastmodified":1464294546,
+    "wof:name":"Valley Oil",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -97.567631,
+    47.735331,
+    -97.567631,
+    47.735331
+],
+  "geometry": {"coordinates":[-97.56763100000001,47.735331],"type":"Point"}
+}

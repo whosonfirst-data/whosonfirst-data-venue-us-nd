@@ -1,0 +1,75 @@
+{
+  "id": 873688269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.099178,47.918234,-97.099178,47.918234",
+    "geom:latitude":47.918234,
+    "geom:longitude":-97.099178,
+    "iso:country":"US",
+    "sg:address":"4700 Demers Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 1813",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3m5e2wYeytUNNrIGSIVc69_47.918234_-97.099178@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296227,
+    "wof:geomhash":"85bbaa5e1d0a01b21f60b6212ebfdd21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873688269
+        }
+    ],
+    "wof:id":873688269,
+    "wof:lastmodified":1464296227,
+    "wof:name":"Budget Truck Rental",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -97.099178,
+    47.918234,
+    -97.099178,
+    47.918234
+],
+  "geometry": {"coordinates":[-97.09917799999999,47.918234],"type":"Point"}
+}

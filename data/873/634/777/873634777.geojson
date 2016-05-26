@@ -1,0 +1,75 @@
+{
+  "id": 873634777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.66815,46.796987,-100.66815,46.796987",
+    "geom:latitude":46.796987,
+    "geom:longitude":-100.66815,
+    "iso:country":"US",
+    "sg:address":"750 80th St SE",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 250 0652",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shop",
+        "tanning",
+        "booth"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BAd7MOcnyBCKFAWlorKFW_46.796987_-100.668150@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295421,
+    "wof:geomhash":"13a1ba54db03003c155e72ac29f123f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873634777
+        }
+    ],
+    "wof:id":873634777,
+    "wof:lastmodified":1464295421,
+    "wof:name":"New Look Salon The",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "tanning",
+        "booth"
+    ]
+},
+  "bbox": [
+    -100.66815,
+    46.796987,
+    -100.66815,
+    46.796987
+],
+  "geometry": {"coordinates":[-100.66815,46.796987],"type":"Point"}
+}

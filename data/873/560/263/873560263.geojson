@@ -1,0 +1,72 @@
+{
+  "id": 873560263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.771205,46.806379,-100.771205,46.806379",
+    "geom:latitude":46.806379,
+    "geom:longitude":-100.771205,
+    "iso:country":"US",
+    "sg:address":"1326 E Broadway Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 1525",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "military"
+    ],
+    "sg:website":"www.vfw.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ELA3GL3FiBnoszJCAcsry_46.806379_-100.771205@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294503,
+    "wof:geomhash":"72c28dc8fcab88d06d1e414cf9b39b32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873560263
+        }
+    ],
+    "wof:id":873560263,
+    "wof:lastmodified":1464294503,
+    "wof:name":"Veterans Of Foreign Wars",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "military"
+    ]
+},
+  "bbox": [
+    -100.771205,
+    46.806379,
+    -100.771205,
+    46.806379
+],
+  "geometry": {"coordinates":[-100.77120499999999,46.806379],"type":"Point"}
+}

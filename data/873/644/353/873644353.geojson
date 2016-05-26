@@ -1,0 +1,73 @@
+{
+  "id": 873644353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.716919,46.834726,-100.716919,46.834726",
+    "geom:latitude":46.834726,
+    "geom:longitude":-100.716919,
+    "iso:country":"US",
+    "sg:address":"4525 Patriot Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 8408",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "club",
+        "membership"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gB5CA24KvRC0h8e0aa3YS_46.834726_-100.716919@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295529,
+    "wof:geomhash":"1dfa6b19754b8eac4a6c250adddb5d40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873644353
+        }
+    ],
+    "wof:id":873644353,
+    "wof:lastmodified":1464295529,
+    "wof:name":"Mr Green Power Club LLC",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "membership"
+    ]
+},
+  "bbox": [
+    -100.716919,
+    46.834726,
+    -100.716919,
+    46.834726
+],
+  "geometry": {"coordinates":[-100.716919,46.834726],"type":"Point"}
+}

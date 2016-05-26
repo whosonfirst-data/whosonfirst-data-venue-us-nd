@@ -1,0 +1,73 @@
+{
+  "id": 873727287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.101277,48.086085,-101.101277,48.086085",
+    "geom:latitude":48.086085,
+    "geom:longitude":-101.101277,
+    "iso:country":"US",
+    "sg:address":"14201 125th St SE",
+    "sg:city":"Sawyer",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 624 5310",
+    "sg:postcode":"58781",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5APhYujU4TPsUX1X2Hjdet_48.086085_-101.101277@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296745,
+    "wof:geomhash":"beda2dff4ada68e25db1a838a851dba6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873727287
+        }
+    ],
+    "wof:id":873727287,
+    "wof:lastmodified":1464296745,
+    "wof:name":"Hauser's Farm Supply",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -101.101277,
+    48.086085,
+    -101.101277,
+    48.086085
+],
+  "geometry": {"coordinates":[-101.101277,48.086085],"type":"Point"}
+}

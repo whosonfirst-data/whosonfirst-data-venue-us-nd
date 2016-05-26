@@ -1,0 +1,70 @@
+{
+  "id": 873570691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.885957,46.863422,-96.885957,46.863422",
+    "geom:latitude":46.863422,
+    "geom:longitude":-96.885957,
+    "iso:country":"US",
+    "sg:address":"1211 Prairie Pkwy",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 4995",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MvEPwh3fTNLplRR86fq9W_46.863422_-96.885957@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294617,
+    "wof:geomhash":"9f0cdc68360990a84dbe63e915f7f301",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873570691
+        }
+    ],
+    "wof:id":873570691,
+    "wof:lastmodified":1464294617,
+    "wof:name":"West Fargo Insurance Inc",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.885957,
+    46.863422,
+    -96.885957,
+    46.863422
+],
+  "geometry": {"coordinates":[-96.885957,46.863422],"type":"Point"}
+}

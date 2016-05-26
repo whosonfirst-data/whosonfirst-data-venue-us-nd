@@ -1,0 +1,71 @@
+{
+  "id": 873689635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.140519,47.932838,-97.140519,47.932838",
+    "geom:latitude":47.932838,
+    "geom:longitude":-97.140519,
+    "iso:country":"US",
+    "sg:address":"7596 Gateway Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 4044",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JetUGVKTDdmMJJ73YdAeP_47.932838_-97.140519@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296264,
+    "wof:geomhash":"bdde830f08baba33416ef724808ceb01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873689635
+        }
+    ],
+    "wof:id":873689635,
+    "wof:lastmodified":1464296264,
+    "wof:name":"Swangler Auto Wrecking",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -97.140519,
+    47.932838,
+    -97.140519,
+    47.932838
+],
+  "geometry": {"coordinates":[-97.140519,47.932838],"type":"Point"}
+}

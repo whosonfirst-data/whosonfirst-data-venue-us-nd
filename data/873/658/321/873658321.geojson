@@ -1,0 +1,71 @@
+{
+  "id": 873658321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.051118,47.900392,-97.051118,47.900392",
+    "geom:latitude":47.900392,
+    "geom:longitude":-97.051118,
+    "iso:country":"US",
+    "sg:address":"1914 S 17th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 8044",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YEd1uf7TEdFbEItBOQF5Y_47.900392_-97.051118@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295681,
+    "wof:geomhash":"f79a7fff554d9a4af625acc704ad529a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873658321
+        }
+    ],
+    "wof:id":873658321,
+    "wof:lastmodified":1464295681,
+    "wof:name":"Erickson Photography",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -97.051118,
+    47.900392,
+    -97.051118,
+    47.900392
+],
+  "geometry": {"coordinates":[-97.051118,47.900392],"type":"Point"}
+}

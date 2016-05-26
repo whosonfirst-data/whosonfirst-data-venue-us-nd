@@ -1,0 +1,67 @@
+{
+  "id": 873589699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.762728,46.799301,-100.762728,46.799301",
+    "geom:latitude":46.799301,
+    "geom:longitude":-100.762728,
+    "iso:country":"US",
+    "sg:address":"531 Airport Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 1385",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:website":"www.ndna.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5n79addvXduuHSvMRP6Ich_46.799301_-100.762728@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294827,
+    "wof:geomhash":"f0f1e9e19963cad770930eff5552c2f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873589699
+        }
+    ],
+    "wof:id":873589699,
+    "wof:lastmodified":1464294827,
+    "wof:name":"North Dakota Nurses Assn",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.762728,
+    46.799301,
+    -100.762728,
+    46.799301
+],
+  "geometry": {"coordinates":[-100.762728,46.799301],"type":"Point"}
+}

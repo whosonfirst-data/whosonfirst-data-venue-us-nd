@@ -1,0 +1,103 @@
+{
+  "id": 873802193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.835288,46.876309,-96.835288,46.876309",
+    "geom:latitude":46.876309,
+    "geom:longitude":-96.835288,
+    "iso:country":"US",
+    "sg:address":"3515 Main Ave",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Painting Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 1155",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "lawn",
+        "paint",
+        "equipment",
+        "part",
+        "plumbing",
+        "fixtures",
+        "store"
+    ],
+    "sg:website":"http://www.truevalue.com/nodakstores",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GQW7TuTVL5Q2SyM0GFnLo_46.876309_-96.835288@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297800,
+    "wof:geomhash":"5e47d2722ed2b3c0112853b9ded3e4d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873802193
+        }
+    ],
+    "wof:id":873802193,
+    "wof:lastmodified":1464297800,
+    "wof:name":"Nodak Stores",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "paint",
+        "equipment",
+        "part",
+        "plumbing",
+        "fixtures",
+        "store"
+    ]
+},
+  "bbox": [
+    -96.835288,
+    46.876309,
+    -96.835288,
+    46.876309
+],
+  "geometry": {"coordinates":[-96.83528800000001,46.876309],"type":"Point"}
+}

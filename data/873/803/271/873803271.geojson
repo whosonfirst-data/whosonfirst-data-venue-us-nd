@@ -1,0 +1,77 @@
+{
+  "id": 873803271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.806131,46.855415,-96.806131,46.855415",
+    "geom:latitude":46.855415,
+    "geom:longitude":-96.806131,
+    "iso:country":"US",
+    "sg:address":"1617 16th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 5486",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "new",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877331,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OOqp1L0kX7rkwK7pqz1nQ_46.855415_-96.806131@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297813,
+    "wof:geomhash":"038cd0f5abf540b9a0633351f53ef84f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877331,
+            "region_id":85688525,
+            "venue_id":873803271
+        }
+    ],
+    "wof:id":873803271,
+    "wof:lastmodified":1464297813,
+    "wof:name":"Joe Parsley Sales",
+    "wof:parent_id":85877331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "car"
+    ]
+},
+  "bbox": [
+    -96.806131,
+    46.855415,
+    -96.806131,
+    46.855415
+],
+  "geometry": {"coordinates":[-96.80613099999999,46.855415],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873597683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.294559,48.22198,-101.294559,48.22198",
+    "geom:latitude":48.22198,
+    "geom:longitude":-101.294559,
+    "iso:country":"US",
+    "sg:address":"14 14th Ave SW",
+    "sg:city":"Parshall",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 862 3113",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "grain",
+        "elevator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eDRmft2zfe5HnAcWuCNTA_48.221980_-101.294559@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294955,
+    "wof:geomhash":"5e90b6fedee9b7dac7df615f1801d1db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873597683
+        }
+    ],
+    "wof:id":873597683,
+    "wof:lastmodified":1464294955,
+    "wof:name":"Dakota Quality Grain Co-Op",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grain",
+        "elevator"
+    ]
+},
+  "bbox": [
+    -101.294559,
+    48.22198,
+    -101.294559,
+    48.22198
+],
+  "geometry": {"coordinates":[-101.29455900000001,48.22198],"type":"Point"}
+}

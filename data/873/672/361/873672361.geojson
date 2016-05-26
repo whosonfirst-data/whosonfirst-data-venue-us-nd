@@ -1,0 +1,66 @@
+{
+  "id": 873672361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.741887,46.804221,-100.741887,46.804221",
+    "geom:latitude":46.804221,
+    "geom:longitude":-100.741887,
+    "iso:country":"US",
+    "sg:address":"3303 E Main Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 328 6161",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SPkwOk2JblwJZDYINIHB5_46.804221_-100.741887@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295825,
+    "wof:geomhash":"188d2f3e0cbe24e548547ccef2a18789",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873672361
+        }
+    ],
+    "wof:id":873672361,
+    "wof:lastmodified":1464295825,
+    "wof:name":"Rough Rider Industries",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.741887,
+    46.804221,
+    -100.741887,
+    46.804221
+],
+  "geometry": {"coordinates":[-100.74188700000001,46.804221],"type":"Point"}
+}

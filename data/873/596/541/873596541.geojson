@@ -1,0 +1,76 @@
+{
+  "id": 873596541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.050981,47.933179,-97.050981,47.933179",
+    "geom:latitude":47.933179,
+    "geom:longitude":-97.050981,
+    "iso:country":"US",
+    "sg:address":"1616 Gateway Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 0586",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "sg:website":"www.uhaul.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7k3jpy26eDc9PGsBi8ALqb_47.933179_-97.050981@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294937,
+    "wof:geomhash":"a65a4715c96c0924c2ccb61d43f4e248",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873596541
+        }
+    ],
+    "wof:id":873596541,
+    "wof:lastmodified":1464294937,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -97.050981,
+    47.933179,
+    -97.050981,
+    47.933179
+],
+  "geometry": {"coordinates":[-97.05098099999999,47.933179],"type":"Point"}
+}

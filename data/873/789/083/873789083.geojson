@@ -1,0 +1,69 @@
+{
+  "id": 873789083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.2174,47.192619,-97.2174,47.192619",
+    "geom:latitude":47.192619,
+    "geom:longitude":-97.2174,
+    "iso:country":"US",
+    "sg:address":"401 Main St",
+    "sg:city":"Hunter",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 874 2182",
+    "sg:postcode":"58048",
+    "sg:province":"ND",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lAiOTdgjSGlts0kIogHtG_47.192619_-97.217400@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297630,
+    "wof:geomhash":"b9bfd3a9354292c42489af432285d8cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873789083
+        }
+    ],
+    "wof:id":873789083,
+    "wof:lastmodified":1464297630,
+    "wof:name":"Jorgensen Oil Co",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -97.2174,
+    47.192619,
+    -97.2174,
+    47.192619
+],
+  "geometry": {"coordinates":[-97.2174,47.192619],"type":"Point"}
+}

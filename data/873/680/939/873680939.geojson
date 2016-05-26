@@ -1,0 +1,66 @@
+{
+  "id": 873680939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.309988,48.213221,-101.309988,48.213221",
+    "geom:latitude":48.213221,
+    "geom:longitude":-101.309988,
+    "iso:country":"US",
+    "sg:address":"1825 12th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 4884",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49CWuP6bcDZRcWIJqIdhsr_48.213221_-101.309988@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296021,
+    "wof:geomhash":"33977aaddd503c169b319f878ede436c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873680939
+        }
+    ],
+    "wof:id":873680939,
+    "wof:lastmodified":1464296021,
+    "wof:name":"A & R Hafner Inc",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.309988,
+    48.213221,
+    -101.309988,
+    48.213221
+],
+  "geometry": {"coordinates":[-101.309988,48.213221],"type":"Point"}
+}

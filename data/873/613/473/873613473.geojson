@@ -1,0 +1,75 @@
+{
+  "id": 873613473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.846485,46.874176,-96.846485,46.874176",
+    "geom:latitude":46.874176,
+    "geom:longitude":-96.846485,
+    "iso:country":"US",
+    "sg:address":"4001 2nd Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 7600",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PYbyrDXKE8X8VA1cKR35j_46.874176_-96.846485@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295180,
+    "wof:geomhash":"8971c4227051f6f3573d968eec07f39e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873613473
+        }
+    ],
+    "wof:id":873613473,
+    "wof:lastmodified":1464295180,
+    "wof:name":"Lunde Lincoln Mercury Inc",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sales"
+    ]
+},
+  "bbox": [
+    -96.846485,
+    46.874176,
+    -96.846485,
+    46.874176
+],
+  "geometry": {"coordinates":[-96.846485,46.874176],"type":"Point"}
+}

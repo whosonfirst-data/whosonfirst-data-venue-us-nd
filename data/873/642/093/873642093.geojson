@@ -1,0 +1,82 @@
+{
+  "id": 873642093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.044684,47.934186,-97.044684,47.934186",
+    "geom:latitude":47.934186,
+    "geom:longitude":-97.044684,
+    "iso:country":"US",
+    "sg:address":"218 Seward Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Paper Products",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 0168",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "bag",
+        "knit",
+        "fabric",
+        "yarn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34HQu5o6ppRYNQW3kRE8Tz_47.934186_-97.044684@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295500,
+    "wof:geomhash":"06469cccbf0fe78595ebc7142f1487b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873642093
+        }
+    ],
+    "wof:id":873642093,
+    "wof:lastmodified":1464295500,
+    "wof:name":"North Star Packaging Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bag",
+        "knit",
+        "fabric",
+        "yarn"
+    ]
+},
+  "bbox": [
+    -97.044684,
+    47.934186,
+    -97.044684,
+    47.934186
+],
+  "geometry": {"coordinates":[-97.044684,47.934186],"type":"Point"}
+}

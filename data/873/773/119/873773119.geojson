@@ -1,0 +1,84 @@
+{
+  "id": 873773119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.803361,46.883247,-96.803361,46.883247",
+    "geom:latitude":46.883247,
+    "geom:longitude":-96.803361,
+    "iso:country":"US",
+    "sg:address":"1431 7th Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 277 8342",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "cabinet",
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877363,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WgLhRbivHXKBgn42MdMIT_46.883247_-96.803361@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297402,
+    "wof:geomhash":"725975a1d836d53a14e59e721cc881cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877363,
+            "region_id":85688525,
+            "venue_id":873773119
+        }
+    ],
+    "wof:id":873773119,
+    "wof:lastmodified":1464297402,
+    "wof:name":"T/A Custom Woodworks",
+    "wof:parent_id":85877363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cabinet",
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.803361,
+    46.883247,
+    -96.803361,
+    46.883247
+],
+  "geometry": {"coordinates":[-96.803361,46.883247],"type":"Point"}
+}

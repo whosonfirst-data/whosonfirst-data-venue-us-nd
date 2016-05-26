@@ -1,0 +1,73 @@
+{
+  "id": 873651485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.252677,48.234534,-101.252677,48.234534",
+    "geom:latitude":48.234534,
+    "geom:longitude":-101.252677,
+    "iso:country":"US",
+    "sg:address":"25 27th St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 837 4777",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "grain",
+        "elevator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AgStnTggDrCUbu5kk0raZ_48.234534_-101.252677@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295602,
+    "wof:geomhash":"f8f7d49a92d7d631a9d559757437c3f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873651485
+        }
+    ],
+    "wof:id":873651485,
+    "wof:lastmodified":1464295602,
+    "wof:name":"Premier Pulses Intl Inc",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grain",
+        "elevator"
+    ]
+},
+  "bbox": [
+    -101.252677,
+    48.234534,
+    -101.252677,
+    48.234534
+],
+  "geometry": {"coordinates":[-101.25267700000001,48.234534],"type":"Point"}
+}

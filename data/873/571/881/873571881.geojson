@@ -1,0 +1,72 @@
+{
+  "id": 873571881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.066616,47.890817,-97.066616,47.890817",
+    "geom:latitude":47.890817,
+    "geom:longitude":-97.066616,
+    "iso:country":"US",
+    "sg:address":"3001 S Columbia Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 2521",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "furnishing"
+    ],
+    "sg:website":"www.robinsilverman.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qLppAyZVcz3b4DKhCTIpW_47.890817_-97.066616@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294629,
+    "wof:geomhash":"b56db0ab088cdb73c96c149cb7d0aaf5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873571881
+        }
+    ],
+    "wof:id":873571881,
+    "wof:lastmodified":1464294629,
+    "wof:name":"Silverman's",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furnishing"
+    ]
+},
+  "bbox": [
+    -97.066616,
+    47.890817,
+    -97.066616,
+    47.890817
+],
+  "geometry": {"coordinates":[-97.066616,47.890817],"type":"Point"}
+}

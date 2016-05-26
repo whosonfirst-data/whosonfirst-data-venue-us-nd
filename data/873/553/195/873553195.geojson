@@ -1,0 +1,73 @@
+{
+  "id": 873553195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.33863,48.426567,-101.33863,48.426567",
+    "geom:latitude":48.426567,
+    "geom:longitude":-101.33863,
+    "iso:country":"US",
+    "sg:address":"300 Missile Ave",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 727 4114",
+    "sg:postcode":"58704",
+    "sg:province":"ND",
+    "sg:tags":[
+        "merchandise",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pYz40tjuljpK74A07LMBf_48.426567_-101.338630@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294413,
+    "wof:geomhash":"8b58e5074e24d57346419d647b3ed32e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873553195
+        }
+    ],
+    "wof:id":873553195,
+    "wof:lastmodified":1464294413,
+    "wof:name":"Army and Air Force Exch Svc",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise",
+        "general"
+    ]
+},
+  "bbox": [
+    -101.33863,
+    48.426567,
+    -101.33863,
+    48.426567
+],
+  "geometry": {"coordinates":[-101.33862999999999,48.426567],"type":"Point"}
+}

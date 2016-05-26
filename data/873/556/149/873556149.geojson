@@ -1,0 +1,77 @@
+{
+  "id": 873556149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.292962,48.235627,-101.292962,48.235627",
+    "geom:latitude":48.235627,
+    "geom:longitude":-101.292962,
+    "iso:country":"US",
+    "sg:address":"111 Main St S",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 6680",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "a",
+        "as",
+        "provider",
+        "operates"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_716oa9eVWkAtemVRK6TuX4_48.235627_-101.292962@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294450,
+    "wof:geomhash":"2f6d727f1b2e742d344a791ec497cc44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873556149
+        }
+    ],
+    "wof:id":873556149,
+    "wof:lastmodified":1464294450,
+    "wof:name":"Walters",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "a",
+        "as",
+        "provider",
+        "operates"
+    ]
+},
+  "bbox": [
+    -101.292962,
+    48.235627,
+    -101.292962,
+    48.235627
+],
+  "geometry": {"coordinates":[-101.292962,48.235627],"type":"Point"}
+}

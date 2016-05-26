@@ -1,0 +1,81 @@
+{
+  "id": 873735845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.802427,46.830934,-96.802427,46.830934",
+    "geom:latitude":46.830934,
+    "geom:longitude":-96.802427,
+    "iso:country":"US",
+    "sg:address":"3239 15th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 8891",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534487,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_616sNOKl9XgDdYk8hDc8ip_46.830934_-96.802427@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296868,
+    "wof:geomhash":"ef96914415a98e9754e79c6abd75aa01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534487,
+            "region_id":85688525,
+            "venue_id":873735845
+        }
+    ],
+    "wof:id":873735845,
+    "wof:lastmodified":1464296868,
+    "wof:name":"Grant's Mechanical Inc",
+    "wof:parent_id":420534487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.802427,
+    46.830934,
+    -96.802427,
+    46.830934
+],
+  "geometry": {"coordinates":[-96.80242699999999,46.830934],"type":"Point"}
+}

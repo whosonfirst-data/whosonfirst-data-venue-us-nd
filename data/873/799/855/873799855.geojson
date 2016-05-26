@@ -1,0 +1,80 @@
+{
+  "id": 873799855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.02025,46.647858,-97.02025,46.647858",
+    "geom:latitude":46.647858,
+    "geom:longitude":-97.02025,
+    "iso:country":"US",
+    "sg:address":"60 7th Ave S",
+    "sg:city":"Kindred",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 261 1715",
+    "sg:postcode":"58051",
+    "sg:province":"ND",
+    "sg:tags":[
+        "home",
+        "builder",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qzJUtIGvDlS8JKCv5Blyt_46.647858_-97.020250@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297772,
+    "wof:geomhash":"0e363ffe3209898e827973cbba99eb6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873799855
+        }
+    ],
+    "wof:id":873799855,
+    "wof:lastmodified":1464297772,
+    "wof:name":"Cr Construction",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.02025,
+    46.647858,
+    -97.02025,
+    46.647858
+],
+  "geometry": {"coordinates":[-97.02025,46.647858],"type":"Point"}
+}

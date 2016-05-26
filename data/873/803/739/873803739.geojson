@@ -1,0 +1,88 @@
+{
+  "id": 873803739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.81547,46.864347,-96.81547,46.864347",
+    "geom:latitude":46.864347,
+    "geom:longitude":-96.81547,
+    "iso:country":"US",
+    "sg:address":"2211 11th Ave S Apt 104",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 234 0702",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877331,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QRA7budtxYY8C0FG19tWR_46.864347_-96.815470@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297818,
+    "wof:geomhash":"86331f47672ee01d00d3a90786d94811",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877331,
+            "region_id":85688525,
+            "venue_id":873803739
+        }
+    ],
+    "wof:id":873803739,
+    "wof:lastmodified":1464297818,
+    "wof:name":"Maplewood Bend Apartments Inc",
+    "wof:parent_id":85877331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ]
+},
+  "bbox": [
+    -96.81547,
+    46.864347,
+    -96.81547,
+    46.864347
+],
+  "geometry": {"coordinates":[-96.81547,46.864347],"type":"Point"}
+}

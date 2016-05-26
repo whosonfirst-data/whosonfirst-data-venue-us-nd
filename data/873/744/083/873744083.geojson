@@ -1,0 +1,70 @@
+{
+  "id": 873744083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-102.786865,46.879432,-102.786865,46.879432",
+    "geom:latitude":46.879432,
+    "geom:longitude":-102.786865,
+    "iso:country":"US",
+    "sg:address":"40 1st Ave W",
+    "sg:city":"Dickinson",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 483 4680",
+    "sg:postcode":"58601",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877119,
+        102191575,
+        404482179,
+        85633793,
+        85982521,
+        102082105,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cvKu6IQhWSadeaCH6RDwh_46.879432_-102.786865@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296995,
+    "wof:geomhash":"86d9aea94a9b042fbc23b44fa780b349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082105,
+            "localadmin_id":404482179,
+            "locality_id":85982521,
+            "neighbourhood_id":85877119,
+            "region_id":85688525,
+            "venue_id":873744083
+        }
+    ],
+    "wof:id":873744083,
+    "wof:lastmodified":1464296995,
+    "wof:name":"Washington County Bank",
+    "wof:parent_id":85877119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -102.786865,
+    46.879432,
+    -102.786865,
+    46.879432
+],
+  "geometry": {"coordinates":[-102.78686500000001,46.879432],"type":"Point"}
+}

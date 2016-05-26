@@ -1,0 +1,78 @@
+{
+  "id": 873755819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.773834,46.823662,-100.773834,46.823662",
+    "geom:latitude":46.823662,
+    "geom:longitude":-100.773834,
+    "iso:country":"US",
+    "sg:address":"1727 State St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 9000",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "institution",
+        "business"
+    ],
+    "sg:website":"www.dakotacommunitybank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SIyy4yFZv1CZLHb2Vv2jE_46.823662_-100.773834@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297154,
+    "wof:geomhash":"32b1ac7a03acd82290f6b57b66882ff8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873755819
+        }
+    ],
+    "wof:id":873755819,
+    "wof:lastmodified":1464297154,
+    "wof:name":"Dakota Community Bank",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "institution",
+        "business"
+    ]
+},
+  "bbox": [
+    -100.773834,
+    46.823662,
+    -100.773834,
+    46.823662
+],
+  "geometry": {"coordinates":[-100.77383399999999,46.823662],"type":"Point"}
+}

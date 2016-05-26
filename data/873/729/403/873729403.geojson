@@ -1,0 +1,73 @@
+{
+  "id": 873729403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.298742,48.238154,-101.298742,48.238154",
+    "geom:latitude":48.238154,
+    "geom:longitude":-101.298742,
+    "iso:country":"US",
+    "sg:address":"215 4th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 240 2172",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "administrator",
+        "network"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02hWueIyMjBjlMJeOEUNrl_48.238154_-101.298742@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296772,
+    "wof:geomhash":"b6dad0c1c6837e7f0dff05da5e1c6f14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873729403
+        }
+    ],
+    "wof:id":873729403,
+    "wof:lastmodified":1464296772,
+    "wof:name":"Brent Hildebrandt",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "administrator",
+        "network"
+    ]
+},
+  "bbox": [
+    -101.298742,
+    48.238154,
+    -101.298742,
+    48.238154
+],
+  "geometry": {"coordinates":[-101.298742,48.238154],"type":"Point"}
+}

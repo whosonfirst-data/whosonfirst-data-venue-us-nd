@@ -1,0 +1,66 @@
+{
+  "id": 873591825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.736699,48.31533,-101.736699,48.31533",
+    "geom:latitude":48.31533,
+    "geom:longitude":-101.736699,
+    "iso:country":"US",
+    "sg:address":"209 Main St N",
+    "sg:city":"Berthold",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 453 3456",
+    "sg:postcode":"58718",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xuAWlFhTbwPJHmhSSf6Mn_48.315330_-101.736699@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294858,
+    "wof:geomhash":"1fb74079f5187515192433d95e2fd114",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873591825
+        }
+    ],
+    "wof:id":873591825,
+    "wof:lastmodified":1464294858,
+    "wof:name":"Bremer Bank",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.736699,
+    48.31533,
+    -101.736699,
+    48.31533
+],
+  "geometry": {"coordinates":[-101.736699,48.31533],"type":"Point"}
+}

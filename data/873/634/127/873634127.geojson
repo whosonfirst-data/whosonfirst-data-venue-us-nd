@@ -1,0 +1,79 @@
+{
+  "id": 873634127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.055201,47.932073,-97.055201,47.932073",
+    "geom:latitude":47.932073,
+    "geom:longitude":-97.055201,
+    "iso:country":"US",
+    "sg:address":"1705 13th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 6481",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "metalworking",
+        "woodworking",
+        "tool",
+        "suppl"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ByjInZVmQ3nxGN7ECrBjW_47.932073_-97.055201@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295414,
+    "wof:geomhash":"6d429a917bf79c32dad3d5d59584d22d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873634127
+        }
+    ],
+    "wof:id":873634127,
+    "wof:lastmodified":1464295414,
+    "wof:name":"Tool Crib of The North",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "metalworking",
+        "woodworking",
+        "tool",
+        "suppl"
+    ]
+},
+  "bbox": [
+    -97.055201,
+    47.932073,
+    -97.055201,
+    47.932073
+],
+  "geometry": {"coordinates":[-97.055201,47.932073],"type":"Point"}
+}

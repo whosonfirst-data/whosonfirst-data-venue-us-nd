@@ -1,0 +1,72 @@
+{
+  "id": 873660723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.292513,48.205079,-101.292513,48.205079",
+    "geom:latitude":48.205079,
+    "geom:longitude":-101.292513,
+    "iso:country":"US",
+    "sg:address":"101 28th Ave SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 857 8900",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "center"
+    ],
+    "sg:website":"www.menards.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IH3nqT8YJK5GYwNOgINPe_48.205079_-101.292513@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295705,
+    "wof:geomhash":"398a54b5996fd2bedd190d92c6722ac6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873660723
+        }
+    ],
+    "wof:id":873660723,
+    "wof:lastmodified":1464295705,
+    "wof:name":"Menards",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -101.292513,
+    48.205079,
+    -101.292513,
+    48.205079
+],
+  "geometry": {"coordinates":[-101.292513,48.205079],"type":"Point"}
+}

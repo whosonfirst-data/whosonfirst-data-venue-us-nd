@@ -1,0 +1,71 @@
+{
+  "id": 873686449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.757387,46.806219,-100.757387,46.806219",
+    "geom:latitude":46.806219,
+    "geom:longitude":-100.757387,
+    "iso:country":"US",
+    "sg:address":"2210 E Broadway Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"News",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 0818",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "magazine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PJbbsGrabuqldb7crNu4c_46.806219_-100.757387@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296178,
+    "wof:geomhash":"19dd980e7aeedceefee6a7a416bed703",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873686449
+        }
+    ],
+    "wof:id":873686449,
+    "wof:lastmodified":1464296178,
+    "wof:name":"Saks News",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "magazine"
+    ]
+},
+  "bbox": [
+    -100.757387,
+    46.806219,
+    -100.757387,
+    46.806219
+],
+  "geometry": {"coordinates":[-100.75738699999999,46.806219],"type":"Point"}
+}

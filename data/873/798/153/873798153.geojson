@@ -1,0 +1,74 @@
+{
+  "id": 873798153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.74835,46.796669,-100.74835,46.796669",
+    "geom:latitude":46.796669,
+    "geom:longitude":-100.74835,
+    "iso:country":"US",
+    "sg:address":"913 Burlington Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/bismarck/167525-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 5068",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gA6WEQAvrugrp0vIT6QHZ_46.796669_-100.748350@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297752,
+    "wof:geomhash":"a36b5448cd9c2a7a3e80b5ed3926c5b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873798153
+        }
+    ],
+    "wof:id":873798153,
+    "wof:lastmodified":1464297752,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -100.74835,
+    46.796669,
+    -100.74835,
+    46.796669
+],
+  "geometry": {"coordinates":[-100.74835,46.796669],"type":"Point"}
+}

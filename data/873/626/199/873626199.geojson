@@ -1,0 +1,73 @@
+{
+  "id": 873626199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.100565,47.93289,-97.100565,47.93289",
+    "geom:latitude":47.93289,
+    "geom:longitude":-97.100565,
+    "iso:country":"US",
+    "sg:address":"5010 Gateway Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 5605",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "information",
+        "referral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Dwnp7l9EUxs2ur2HqCSnp_47.932890_-97.100565@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295322,
+    "wof:geomhash":"c400816f6f160862ba3048c2bfcb2a74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873626199
+        }
+    ],
+    "wof:id":873626199,
+    "wof:lastmodified":1464295322,
+    "wof:name":"Marin Information Systems",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "referral"
+    ]
+},
+  "bbox": [
+    -97.100565,
+    47.93289,
+    -97.100565,
+    47.93289
+],
+  "geometry": {"coordinates":[-97.100565,47.93289],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 873753605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.310628,48.231564,-101.310628,48.231564",
+    "geom:latitude":48.231564,
+    "geom:longitude":-101.310628,
+    "iso:country":"US",
+    "sg:address":"1030 5th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 4746",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "mobile",
+        "home",
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GxFlWfaYWXjI9YNPZ4MD5_48.231564_-101.310628@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297128,
+    "wof:geomhash":"4bb3132e8d4f1e401daca60ce504b00b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873753605
+        }
+    ],
+    "wof:id":873753605,
+    "wof:lastmodified":1464297128,
+    "wof:name":"Odd's Mobile Home Park",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home",
+        "trailer"
+    ]
+},
+  "bbox": [
+    -101.310628,
+    48.231564,
+    -101.310628,
+    48.231564
+],
+  "geometry": {"coordinates":[-101.31062799999999,48.231564],"type":"Point"}
+}

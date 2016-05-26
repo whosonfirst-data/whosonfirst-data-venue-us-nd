@@ -1,0 +1,70 @@
+{
+  "id": 873748361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.787448,46.912508,-96.787448,46.912508",
+    "geom:latitude":46.912508,
+    "geom:longitude":-96.787448,
+    "iso:country":"US",
+    "sg:address":"2824 Broadway",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 478 2828",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877353,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ah79dfBIiBqy47RHMuWFZ_46.912508_-96.787448@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297054,
+    "wof:geomhash":"5175598a1cb352be97058f75747785e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877353,
+            "region_id":85688525,
+            "venue_id":873748361
+        }
+    ],
+    "wof:id":873748361,
+    "wof:lastmodified":1464297054,
+    "wof:name":"Tomacelli's Pizza & Pasta",
+    "wof:parent_id":85877353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.787448,
+    46.912508,
+    -96.787448,
+    46.912508
+],
+  "geometry": {"coordinates":[-96.787448,46.912508],"type":"Point"}
+}

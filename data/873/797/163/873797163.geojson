@@ -1,0 +1,80 @@
+{
+  "id": 873797163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.861324,46.852269,-96.861324,46.852269",
+    "geom:latitude":46.852269,
+    "geom:longitude":-96.861324,
+    "iso:country":"US",
+    "sg:address":"4430 18th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/fargo/181582-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 433 0651",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60FXI2YddRJXIvH7Ht40UT_46.852269_-96.861324@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297740,
+    "wof:geomhash":"4e81e87262f2ad3578dd17b842f11e25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873797163
+        }
+    ],
+    "wof:id":873797163,
+    "wof:lastmodified":1464297740,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -96.861324,
+    46.852269,
+    -96.861324,
+    46.852269
+],
+  "geometry": {"coordinates":[-96.861324,46.852269],"type":"Point"}
+}

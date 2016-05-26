@@ -1,0 +1,71 @@
+{
+  "id": 873645051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.761854,46.80815,-100.761854,46.80815",
+    "geom:latitude":46.80815,
+    "geom:longitude":-100.761854,
+    "iso:country":"US",
+    "sg:address":"312 N 20th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 224 8326",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DEK3Xzn2Ixdx02wZYVRRd_46.808150_-100.761854@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295536,
+    "wof:geomhash":"29f71753736fe1b942cf08534d889c16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873645051
+        }
+    ],
+    "wof:id":873645051,
+    "wof:lastmodified":1464295536,
+    "wof:name":"Loyal Order Of Moose",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -100.761854,
+    46.80815,
+    -100.761854,
+    46.80815
+],
+  "geometry": {"coordinates":[-100.761854,46.80815],"type":"Point"}
+}

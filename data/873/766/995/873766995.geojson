@@ -1,0 +1,71 @@
+{
+  "id": 873766995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.234002,48.229233,-101.234002,48.229233",
+    "geom:latitude":48.229233,
+    "geom:longitude":-101.234002,
+    "iso:country":"US",
+    "sg:address":"3615 Burdick Expy E",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 4895",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wGXLAFm2DqTgMwxgYrRAq_48.229233_-101.234002@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297325,
+    "wof:geomhash":"0d838ecb62c3cecf009ff8c0a81f4c28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873766995
+        }
+    ],
+    "wof:id":873766995,
+    "wof:lastmodified":1464297325,
+    "wof:name":"Quantum Contracting",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -101.234002,
+    48.229233,
+    -101.234002,
+    48.229233
+],
+  "geometry": {"coordinates":[-101.234002,48.229233],"type":"Point"}
+}

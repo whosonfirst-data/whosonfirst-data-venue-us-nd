@@ -1,0 +1,73 @@
+{
+  "id": 873555979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.784858,46.799931,-100.784858,46.799931",
+    "geom:latitude":46.799931,
+    "geom:longitude":-100.784858,
+    "iso:country":"US",
+    "sg:address":"722 Kirkwood Mall",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 8859",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "jewelry",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3b562NdySevNtQ6470dKDk_46.799931_-100.784858@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294448,
+    "wof:geomhash":"ff88bf072e330bac52ae330641d5c4ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873555979
+        }
+    ],
+    "wof:id":873555979,
+    "wof:lastmodified":1464294448,
+    "wof:name":"Antique & Coin Exchange",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jewelry",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -100.784858,
+    46.799931,
+    -100.784858,
+    46.799931
+],
+  "geometry": {"coordinates":[-100.784858,46.799931],"type":"Point"}
+}

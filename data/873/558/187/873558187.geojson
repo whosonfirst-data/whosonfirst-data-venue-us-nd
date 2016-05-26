@@ -1,0 +1,73 @@
+{
+  "id": 873558187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.035914,47.885711,-97.035914,47.885711",
+    "geom:latitude":47.885711,
+    "geom:longitude":-97.035914,
+    "iso:country":"US",
+    "sg:address":"3607 Cherry St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 4125",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "preparation",
+        "soil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Icn6JmUfuoXltbBGlsgmb_47.885711_-97.035914@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294474,
+    "wof:geomhash":"c8c9adfda6bf94340ede1cc77029f823",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873558187
+        }
+    ],
+    "wof:id":873558187,
+    "wof:lastmodified":1464294474,
+    "wof:name":"Crop Spray LLP",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preparation",
+        "soil"
+    ]
+},
+  "bbox": [
+    -97.035914,
+    47.885711,
+    -97.035914,
+    47.885711
+],
+  "geometry": {"coordinates":[-97.03591400000001,47.885711],"type":"Point"}
+}

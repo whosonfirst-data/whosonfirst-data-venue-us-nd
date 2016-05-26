@@ -1,0 +1,73 @@
+{
+  "id": 873601981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.10181,47.730062,-97.10181,47.730062",
+    "geom:latitude":47.730062,
+    "geom:longitude":-97.10181,
+    "iso:country":"US",
+    "sg:address":"1264 4th Ave NE",
+    "sg:city":"Thompson",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 599 2626",
+    "sg:postcode":"58278",
+    "sg:province":"ND",
+    "sg:tags":[
+        "aerial",
+        "applicator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wNUmUFP4EXOnC3DUThGvu_47.730062_-97.101810@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295008,
+    "wof:geomhash":"da1a60c287d9e89fd95b78fb2be7a238",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873601981
+        }
+    ],
+    "wof:id":873601981,
+    "wof:lastmodified":1464295008,
+    "wof:name":"Thompson Aero-Spray",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aerial",
+        "applicator"
+    ]
+},
+  "bbox": [
+    -97.10181,
+    47.730062,
+    -97.10181,
+    47.730062
+],
+  "geometry": {"coordinates":[-97.10181,47.730062],"type":"Point"}
+}

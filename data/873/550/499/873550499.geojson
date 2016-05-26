@@ -1,0 +1,73 @@
+{
+  "id": 873550499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.566588,47.734062,-97.566588,47.734062",
+    "geom:latitude":47.734062,
+    "geom:longitude":-97.566588,
+    "iso:country":"US",
+    "sg:address":"214 Main St",
+    "sg:city":"Northwood",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 587 6336",
+    "sg:postcode":"58267",
+    "sg:province":"ND",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EiU9PBS7SufKdQZk8JYaW_47.734062_-97.566588@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294383,
+    "wof:geomhash":"d0e93eb3c726da2422028a713819c070",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873550499
+        }
+    ],
+    "wof:id":873550499,
+    "wof:lastmodified":1464294383,
+    "wof:name":"Northwood Plumbing & Heating",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.566588,
+    47.734062,
+    -97.566588,
+    47.734062
+],
+  "geometry": {"coordinates":[-97.566588,47.734062],"type":"Point"}
+}

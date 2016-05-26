@@ -1,0 +1,77 @@
+{
+  "id": 873640559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.21826,47.00231,-97.21826,47.00231",
+    "geom:latitude":47.00231,
+    "geom:longitude":-97.21826,
+    "iso:country":"US",
+    "sg:address":"202 Gridley Ave",
+    "sg:city":"Amenia",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 347 5463",
+    "sg:postcode":"58004",
+    "sg:province":"ND",
+    "sg:tags":[
+        "grain",
+        "elevator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nurvZ8W94bCbiz7wVPwIR_47.002310_-97.218260@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295483,
+    "wof:geomhash":"e6f8cc6fd23b991f2156ece0f16e252a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873640559
+        }
+    ],
+    "wof:id":873640559,
+    "wof:lastmodified":1464295483,
+    "wof:name":"Busch Agricultural Resources",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grain",
+        "elevator"
+    ]
+},
+  "bbox": [
+    -97.21826,
+    47.00231,
+    -97.21826,
+    47.00231
+],
+  "geometry": {"coordinates":[-97.21826,47.00231],"type":"Point"}
+}

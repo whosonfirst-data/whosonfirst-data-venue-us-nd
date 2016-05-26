@@ -1,0 +1,78 @@
+{
+  "id": 873797075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.86877,46.861983,-96.86877,46.861983",
+    "geom:latitude":46.861983,
+    "geom:longitude":-96.86877,
+    "iso:country":"US",
+    "sg:address":"4971 13th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/fargo/10222-texas-roadhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 8590",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dYM5AF0VfJ2olkGmTdJ7E_46.861983_-96.868770@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297739,
+    "wof:geomhash":"9806a2a25382b30ac207ef457a5b3467",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873797075
+        }
+    ],
+    "wof:id":873797075,
+    "wof:lastmodified":1464297739,
+    "wof:name":"Texas Roadhouse",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -96.86877,
+    46.861983,
+    -96.86877,
+    46.861983
+],
+  "geometry": {"coordinates":[-96.86877,46.861983],"type":"Point"}
+}

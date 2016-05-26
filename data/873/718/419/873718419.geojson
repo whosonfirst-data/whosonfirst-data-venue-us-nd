@@ -1,0 +1,82 @@
+{
+  "id": 873718419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.822216,46.876003,-96.822216,46.876003",
+    "geom:latitude":46.876003,
+    "geom:longitude":-96.822216,
+    "iso:country":"US",
+    "sg:address":"2775 Main Ave",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 281 5051",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32F896wV5YlsoyzajKPlMK_46.876003_-96.822216@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296625,
+    "wof:geomhash":"b4d075ec87ac0108718b637db5acdba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873718419
+        }
+    ],
+    "wof:id":873718419,
+    "wof:lastmodified":1464296625,
+    "wof:name":"Wild Bill's Auto Sales",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.822216,
+    46.876003,
+    -96.822216,
+    46.876003
+],
+  "geometry": {"coordinates":[-96.822216,46.876003],"type":"Point"}
+}

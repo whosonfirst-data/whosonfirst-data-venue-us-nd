@@ -1,0 +1,73 @@
+{
+  "id": 873759783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.68628,46.973248,-100.68628,46.973248",
+    "geom:latitude":46.973248,
+    "geom:longitude":-100.68628,
+    "iso:country":"US",
+    "sg:address":"15251 66th St NE",
+    "sg:city":"Baldwin",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 673 3301",
+    "sg:postcode":"58521",
+    "sg:province":"ND",
+    "sg:tags":[
+        "ranch",
+        "acres"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KuISHw0Oysh1JJU0QVncQ_46.973248_-100.686280@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297203,
+    "wof:geomhash":"866e6069422a375be55262c63d65d56e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873759783
+        }
+    ],
+    "wof:id":873759783,
+    "wof:lastmodified":1464297203,
+    "wof:name":"Cecil L Ringgenberg",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ranch",
+        "acres"
+    ]
+},
+  "bbox": [
+    -100.68628,
+    46.973248,
+    -100.68628,
+    46.973248
+],
+  "geometry": {"coordinates":[-100.68628,46.973248],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 873563041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.823424,46.879427,-96.823424,46.879427",
+    "geom:latitude":46.879427,
+    "geom:longitude":-96.823424,
+    "iso:country":"US",
+    "sg:address":"2710 3rd Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 3284",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "engine",
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5m3wYYNzjpIh0AroLq26fg_46.879427_-96.823424@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294532,
+    "wof:geomhash":"b127da40a0ec61b1a0176d533c8f0726",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873563041
+        }
+    ],
+    "wof:id":873563041,
+    "wof:lastmodified":1464294532,
+    "wof:name":"Northern Engine & Supply Inc",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "industrial"
+    ]
+},
+  "bbox": [
+    -96.823424,
+    46.879427,
+    -96.823424,
+    46.879427
+],
+  "geometry": {"coordinates":[-96.823424,46.879427],"type":"Point"}
+}

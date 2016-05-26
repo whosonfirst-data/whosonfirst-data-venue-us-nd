@@ -1,0 +1,78 @@
+{
+  "id": 873797143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.82047,46.833612,-96.82047,46.833612",
+    "geom:latitude":46.833612,
+    "geom:longitude":-96.82047,
+    "iso:country":"US",
+    "sg:address":"3185 25th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/fargo/158910-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 271 8711",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534467,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3y5YuslUv5SlJpwJhLNt2X_46.833612_-96.820470@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297739,
+    "wof:geomhash":"07e93ed7ec958c3af65d8678f538ad74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534467,
+            "region_id":85688525,
+            "venue_id":873797143
+        }
+    ],
+    "wof:id":873797143,
+    "wof:lastmodified":1464297739,
+    "wof:name":"Arby's",
+    "wof:parent_id":420534467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -96.82047,
+    46.833612,
+    -96.82047,
+    46.833612
+],
+  "geometry": {"coordinates":[-96.82047,46.833612],"type":"Point"}
+}

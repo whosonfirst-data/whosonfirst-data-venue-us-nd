@@ -1,0 +1,82 @@
+{
+  "id": 873668201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.034261,47.883918,-97.034261,47.883918",
+    "geom:latitude":47.883918,
+    "geom:longitude":-97.034261,
+    "iso:country":"US",
+    "sg:address":"3908 Simonview Ct",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 8910",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "sound",
+        "equipment",
+        "electronic",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ozklWkF06pePCiMWJx0kt_47.883918_-97.034261@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295782,
+    "wof:geomhash":"0ad86cadac9ac9c614dc674271e73cd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873668201
+        }
+    ],
+    "wof:id":873668201,
+    "wof:lastmodified":1464295782,
+    "wof:name":"Gene's Classic Sound",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sound",
+        "equipment",
+        "electronic",
+        "system"
+    ]
+},
+  "bbox": [
+    -97.034261,
+    47.883918,
+    -97.034261,
+    47.883918
+],
+  "geometry": {"coordinates":[-97.034261,47.883918],"type":"Point"}
+}

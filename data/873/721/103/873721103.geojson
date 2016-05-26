@@ -1,0 +1,71 @@
+{
+  "id": 873721103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.271713,48.185857,-101.271713,48.185857",
+    "geom:latitude":48.185857,
+    "geom:longitude":-101.271713,
+    "iso:country":"US",
+    "sg:address":"5025 14th St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 837 6423",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69sDN5PIOaIbitKAncsPuM_48.185857_-101.271713@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296664,
+    "wof:geomhash":"0c9a6f2ec4dc69f1c5dd26a4f3e63aed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873721103
+        }
+    ],
+    "wof:id":873721103,
+    "wof:lastmodified":1464296664,
+    "wof:name":"Kleanco",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -101.271713,
+    48.185857,
+    -101.271713,
+    48.185857
+],
+  "geometry": {"coordinates":[-101.27171300000001,48.185857],"type":"Point"}
+}

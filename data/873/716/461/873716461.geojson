@@ -1,0 +1,71 @@
+{
+  "id": 873716461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.292073,48.224502,-101.292073,48.224502",
+    "geom:latitude":48.224502,
+    "geom:longitude":-101.292073,
+    "iso:country":"US",
+    "sg:address":"1212 1st St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 837 0484",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "drafting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Cp5LIjQokzYUG7eNgcfyX_48.224502_-101.292073@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296599,
+    "wof:geomhash":"4203b8bf3ec581caa7b88e49a2a18ce1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873716461
+        }
+    ],
+    "wof:id":873716461,
+    "wof:lastmodified":1464296599,
+    "wof:name":"Magic Drafting Inc",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drafting"
+    ]
+},
+  "bbox": [
+    -101.292073,
+    48.224502,
+    -101.292073,
+    48.224502
+],
+  "geometry": {"coordinates":[-101.292073,48.224502],"type":"Point"}
+}

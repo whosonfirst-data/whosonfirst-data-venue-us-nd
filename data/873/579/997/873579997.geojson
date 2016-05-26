@@ -1,0 +1,82 @@
+{
+  "id": 873579997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.703478,46.758688,-100.703478,46.758688",
+    "geom:latitude":46.758688,
+    "geom:longitude":-100.703478,
+    "iso:country":"US",
+    "sg:address":"69 Custer Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 3837",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "direct",
+        "wedding",
+        "sales",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39J8jL6wjlEJwQFg2G2ttd_46.758688_-100.703478@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294718,
+    "wof:geomhash":"3c5a667e8df8527763e980a7366844d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873579997
+        }
+    ],
+    "wof:id":873579997,
+    "wof:lastmodified":1464294718,
+    "wof:name":"Enchanted Occasions",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "direct",
+        "wedding",
+        "sales",
+        "supply"
+    ]
+},
+  "bbox": [
+    -100.703478,
+    46.758688,
+    -100.703478,
+    46.758688
+],
+  "geometry": {"coordinates":[-100.703478,46.758688],"type":"Point"}
+}

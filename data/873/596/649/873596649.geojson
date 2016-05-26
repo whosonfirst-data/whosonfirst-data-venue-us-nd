@@ -1,0 +1,66 @@
+{
+  "id": 873596649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.044907,47.924095,-97.044907,47.924095",
+    "geom:latitude":47.924095,
+    "geom:longitude":-97.044907,
+    "iso:country":"US",
+    "sg:address":"418 N Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 3335",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wyDDHuYiz6dheVsfMUK2p_47.924095_-97.044907@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294939,
+    "wof:geomhash":"9472626c8094c756e89b9b7643eee8cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873596649
+        }
+    ],
+    "wof:id":873596649,
+    "wof:lastmodified":1464294939,
+    "wof:name":"Deek's Pizza",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.044907,
+    47.924095,
+    -97.044907,
+    47.924095
+],
+  "geometry": {"coordinates":[-97.04490699999999,47.924095],"type":"Point"}
+}

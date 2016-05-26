@@ -1,0 +1,66 @@
+{
+  "id": 873533915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.100022,47.920148,-97.100022,47.920148",
+    "geom:latitude":47.920148,
+    "geom:longitude":-97.100022,
+    "iso:country":"US",
+    "sg:address":"5056 W Elm Ct",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 1029",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bgu9H4fpR7PyVO4f63P1U_47.920148_-97.100022@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294186,
+    "wof:geomhash":"9c0922f21ffe613d0d38fc37ba50ffba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873533915
+        }
+    ],
+    "wof:id":873533915,
+    "wof:lastmodified":1464294186,
+    "wof:name":"Quality Cycles LLC",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.100022,
+    47.920148,
+    -97.100022,
+    47.920148
+],
+  "geometry": {"coordinates":[-97.100022,47.920148],"type":"Point"}
+}

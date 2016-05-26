@@ -1,0 +1,70 @@
+{
+  "id": 873801625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.790655,46.895675,-96.790655,46.895675",
+    "geom:latitude":46.895675,
+    "geom:longitude":-96.790655,
+    "iso:country":"US",
+    "sg:address":"1420 8th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 241 4799",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534483,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dWvCiO18zBwVdertCTZVa_46.895675_-96.790655@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297793,
+    "wof:geomhash":"72894c05fe5d6cc10a46b1334dcdf864",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534483,
+            "region_id":85688525,
+            "venue_id":873801625
+        }
+    ],
+    "wof:id":873801625,
+    "wof:lastmodified":1464297793,
+    "wof:name":"Trollwood Performing Arts Schl",
+    "wof:parent_id":420534483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.790655,
+    46.895675,
+    -96.790655,
+    46.895675
+],
+  "geometry": {"coordinates":[-96.790655,46.895675],"type":"Point"}
+}

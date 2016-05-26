@@ -1,0 +1,71 @@
+{
+  "id": 873593943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.296157,48.19637,-101.296157,48.19637",
+    "geom:latitude":48.19637,
+    "geom:longitude":-101.296157,
+    "iso:country":"US",
+    "sg:address":"3800 2nd St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 4029",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wKPogQcCkfkmUvmZDQhH4_48.196370_-101.296157@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294882,
+    "wof:geomhash":"049d9c334393f587a40d0bf06a9bc0cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873593943
+        }
+    ],
+    "wof:id":873593943,
+    "wof:lastmodified":1464294882,
+    "wof:name":"Country Kitchen",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -101.296157,
+    48.19637,
+    -101.296157,
+    48.19637
+],
+  "geometry": {"coordinates":[-101.29615699999999,48.19637],"type":"Point"}
+}

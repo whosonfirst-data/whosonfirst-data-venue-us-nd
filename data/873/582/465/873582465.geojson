@@ -1,0 +1,71 @@
+{
+  "id": 873582465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.324741,48.241527,-101.324741,48.241527",
+    "geom:latitude":48.241527,
+    "geom:longitude":-101.324741,
+    "iso:country":"US",
+    "sg:address":"421 21st St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 2030",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "drafting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_054AQjJ9m4wN5rcyf0kvha_48.241527_-101.324741@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294747,
+    "wof:geomhash":"dabb61ce22a6f8a69895e03d6a8456b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873582465
+        }
+    ],
+    "wof:id":873582465,
+    "wof:lastmodified":1464294747,
+    "wof:name":"Home Grown Designs",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drafting"
+    ]
+},
+  "bbox": [
+    -101.324741,
+    48.241527,
+    -101.324741,
+    48.241527
+],
+  "geometry": {"coordinates":[-101.324741,48.241527],"type":"Point"}
+}

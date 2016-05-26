@@ -1,0 +1,71 @@
+{
+  "id": 873681847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.072414,47.889377,-97.072414,47.889377",
+    "geom:latitude":47.889377,
+    "geom:longitude":-97.072414,
+    "iso:country":"US",
+    "sg:address":"2791 32nd Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 3821",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2shatvmDL9wjl9RrrsNiv3_47.889377_-97.072414@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296048,
+    "wof:geomhash":"86be0674db514d969bbb4e487abc2fc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873681847
+        }
+    ],
+    "wof:id":873681847,
+    "wof:lastmodified":1464296048,
+    "wof:name":"Beauty Mart",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -97.072414,
+    47.889377,
+    -97.072414,
+    47.889377
+],
+  "geometry": {"coordinates":[-97.07241399999999,47.889377],"type":"Point"}
+}

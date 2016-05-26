@@ -1,0 +1,71 @@
+{
+  "id": 873571071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.287721,48.246232,-101.287721,48.246232",
+    "geom:latitude":48.246232,
+    "geom:longitude":-101.287721,
+    "iso:country":"US",
+    "sg:address":"1000 3rd St NE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 0315",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AUtxXzO1R2h8PGVEU0RTA_48.246232_-101.287721@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294621,
+    "wof:geomhash":"3c4f54a7c62b783dd32d00cb46cd326d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873571071
+        }
+    ],
+    "wof:id":873571071,
+    "wof:lastmodified":1464294621,
+    "wof:name":"Presbyterian Church First",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -101.287721,
+    48.246232,
+    -101.287721,
+    48.246232
+],
+  "geometry": {"coordinates":[-101.287721,48.246232],"type":"Point"}
+}

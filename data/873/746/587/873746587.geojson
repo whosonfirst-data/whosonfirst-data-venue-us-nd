@@ -1,0 +1,79 @@
+{
+  "id": 873746587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.775452,46.823692,-100.775452,46.823692",
+    "geom:latitude":46.823692,
+    "geom:longitude":-100.775452,
+    "iso:country":"US",
+    "sg:address":"1022 E Divide Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 224 2969",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "division",
+        "oil",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nVuiAhBhbK5Y3cfMBwI0e_46.823692_-100.775452@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297033,
+    "wof:geomhash":"92a74b7775d950c7fff4277db744fc2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873746587
+        }
+    ],
+    "wof:id":873746587,
+    "wof:lastmodified":1464297033,
+    "wof:name":"Industrial Commission ND",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "division",
+        "oil",
+        "gas"
+    ]
+},
+  "bbox": [
+    -100.775452,
+    46.823692,
+    -100.775452,
+    46.823692
+],
+  "geometry": {"coordinates":[-100.775452,46.823692],"type":"Point"}
+}

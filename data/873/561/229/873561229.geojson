@@ -1,0 +1,73 @@
+{
+  "id": 873561229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.962659,48.517347,-101.962659,48.517347",
+    "geom:latitude":48.517347,
+    "geom:longitude":-101.962659,
+    "iso:country":"US",
+    "sg:address":"42801 268th Ave NW",
+    "sg:city":"Donnybrook",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 482 7710",
+    "sg:postcode":"58734",
+    "sg:province":"ND",
+    "sg:tags":[
+        "product",
+        "ceramic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tU3UbjyzwOztIuSoOtupO_48.517347_-101.962659@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294512,
+    "wof:geomhash":"1d7d7226f1196cb7b8bbd8e06f42e3fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873561229
+        }
+    ],
+    "wof:id":873561229,
+    "wof:lastmodified":1464294512,
+    "wof:name":"Ceramics On The Prairie",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "ceramic"
+    ]
+},
+  "bbox": [
+    -101.962659,
+    48.517347,
+    -101.962659,
+    48.517347
+],
+  "geometry": {"coordinates":[-101.962659,48.517347],"type":"Point"}
+}

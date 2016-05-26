@@ -1,0 +1,73 @@
+{
+  "id": 873696589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.492156,48.178923,-97.492156,48.178923",
+    "geom:latitude":48.178923,
+    "geom:longitude":-97.492156,
+    "iso:country":"US",
+    "sg:address":"3487 31st St NE",
+    "sg:city":"Forest River",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 248 3053",
+    "sg:postcode":"58233",
+    "sg:province":"ND",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HpZWSiJsO3Vnc8iVHTLVM_48.178923_-97.492156@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296371,
+    "wof:geomhash":"e75f471067ab7699aa0bf963e874ef1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873696589
+        }
+    ],
+    "wof:id":873696589,
+    "wof:lastmodified":1464296371,
+    "wof:name":"Shawn Landeis Farm",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -97.492156,
+    48.178923,
+    -97.492156,
+    48.178923
+],
+  "geometry": {"coordinates":[-97.49215599999999,48.178923],"type":"Point"}
+}

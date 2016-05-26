@@ -1,0 +1,69 @@
+{
+  "id": 873791463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.416016,46.758581,-100.416016,46.758581",
+    "geom:latitude":46.758581,
+    "geom:longitude":-100.416016,
+    "iso:country":"US",
+    "sg:address":"4000 236th St SE",
+    "sg:city":"Sterling",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 673 3101",
+    "sg:postcode":"58572",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "grain",
+        "cash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TyRGUJEXgjRxvPKSqHrN5_46.758581_-100.416016@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297663,
+    "wof:geomhash":"2bd68a26a624446be1071fb514d32876",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873791463
+        }
+    ],
+    "wof:id":873791463,
+    "wof:lastmodified":1464297663,
+    "wof:name":"Gus Wolbaum",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "grain",
+        "cash"
+    ]
+},
+  "bbox": [
+    -100.416016,
+    46.758581,
+    -100.416016,
+    46.758581
+],
+  "geometry": {"coordinates":[-100.416016,46.758581],"type":"Point"}
+}

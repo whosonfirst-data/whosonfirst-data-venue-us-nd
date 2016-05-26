@@ -1,0 +1,66 @@
+{
+  "id": 873595427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.396945,48.25081,-101.396945,48.25081",
+    "geom:latitude":48.25081,
+    "geom:longitude":-101.396945,
+    "iso:country":"US",
+    "sg:address":"1611 69th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 8559",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hBTIfc9N7PawbGgakJxmD_48.250810_-101.396945@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294914,
+    "wof:geomhash":"239569612e6d9d1d3449659a82a7f6a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873595427
+        }
+    ],
+    "wof:id":873595427,
+    "wof:lastmodified":1464294914,
+    "wof:name":"Abundant Life Community Church",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.396945,
+    48.25081,
+    -101.396945,
+    48.25081
+],
+  "geometry": {"coordinates":[-101.396945,48.25081],"type":"Point"}
+}

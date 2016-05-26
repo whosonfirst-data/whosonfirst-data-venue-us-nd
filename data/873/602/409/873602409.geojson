@@ -1,0 +1,75 @@
+{
+  "id": 873602409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.905353,46.886339,-96.905353,46.886339",
+    "geom:latitude":46.886339,
+    "geom:longitude":-96.905353,
+    "iso:country":"US",
+    "sg:address":"709 Riverwood Dr",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 866 4782",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18PA4DQSggKWvyjUjzm5tb_46.886339_-96.905353@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295012,
+    "wof:geomhash":"5296b9c799eea43560cc05b0e9e09d66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873602409
+        }
+    ],
+    "wof:id":873602409,
+    "wof:lastmodified":1464295012,
+    "wof:name":"Classic Touch Domestic Svc",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -96.905353,
+    46.886339,
+    -96.905353,
+    46.886339
+],
+  "geometry": {"coordinates":[-96.90535300000001,46.886339],"type":"Point"}
+}

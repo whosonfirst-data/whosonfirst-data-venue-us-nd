@@ -1,0 +1,73 @@
+{
+  "id": 873562897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.801964,46.803344,-100.801964,46.803344",
+    "geom:latitude":46.803344,
+    "geom:longitude":-100.801964,
+    "iso:country":"US",
+    "sg:address":"219 S Bell St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 5985",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "consultant",
+        "designer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25XGWLip6yzAfnii6cr7pp_46.803344_-100.801964@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294530,
+    "wof:geomhash":"d14ba0a270d260ecc47c1e4a60153e6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873562897
+        }
+    ],
+    "wof:id":873562897,
+    "wof:lastmodified":1464294530,
+    "wof:name":"Solutions Onsight",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "designer"
+    ]
+},
+  "bbox": [
+    -100.801964,
+    46.803344,
+    -100.801964,
+    46.803344
+],
+  "geometry": {"coordinates":[-100.801964,46.803344],"type":"Point"}
+}

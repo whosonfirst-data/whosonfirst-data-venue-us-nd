@@ -1,0 +1,73 @@
+{
+  "id": 873762467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.047891,47.90014,-97.047891,47.90014",
+    "geom:latitude":47.90014,
+    "geom:longitude":-97.047891,
+    "iso:country":"US",
+    "sg:address":"2212 Library Cir",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 7511",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "utensil",
+        "cooking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_466Gx32vfE7E7E12QhrC8p_47.900140_-97.047891@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297248,
+    "wof:geomhash":"98a1009ed7e9022e9fa358e4bcc2a50d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873762467
+        }
+    ],
+    "wof:id":873762467,
+    "wof:lastmodified":1464297248,
+    "wof:name":"Protech",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "utensil",
+        "cooking"
+    ]
+},
+  "bbox": [
+    -97.047891,
+    47.90014,
+    -97.047891,
+    47.90014
+],
+  "geometry": {"coordinates":[-97.04789100000001,47.90014],"type":"Point"}
+}

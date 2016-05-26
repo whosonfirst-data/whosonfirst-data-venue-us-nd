@@ -1,0 +1,72 @@
+{
+  "id": 873749991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.096053,47.908856,-97.096053,47.908856",
+    "geom:latitude":47.908856,
+    "geom:longitude":-97.096053,
+    "iso:country":"US",
+    "sg:address":"1002 S 46th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 4431",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "wood"
+    ],
+    "sg:website":"www.woodproductsinc.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0z3srqbSZnaL0hDpjZWO1r_47.908856_-97.096053@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297074,
+    "wof:geomhash":"c9fb7d7469e3e75de1c35984f7558c44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873749991
+        }
+    ],
+    "wof:id":873749991,
+    "wof:lastmodified":1464297074,
+    "wof:name":"Wood Products Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wood"
+    ]
+},
+  "bbox": [
+    -97.096053,
+    47.908856,
+    -97.096053,
+    47.908856
+],
+  "geometry": {"coordinates":[-97.096053,47.908856],"type":"Point"}
+}

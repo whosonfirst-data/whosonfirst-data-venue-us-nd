@@ -1,0 +1,71 @@
+{
+  "id": 873748957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.280347,47.14152,-100.280347,47.14152",
+    "geom:latitude":47.14152,
+    "geom:longitude":-100.280347,
+    "iso:country":"US",
+    "sg:address":"4 2nd Ave W",
+    "sg:city":"Wing",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 943 2395",
+    "sg:postcode":"58494",
+    "sg:province":"ND",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sPKe4CRCPJh15QyfvOI5N_47.141520_-100.280347@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297061,
+    "wof:geomhash":"421cb6e89e60b3abbb0e7f987e7981c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873748957
+        }
+    ],
+    "wof:id":873748957,
+    "wof:lastmodified":1464297061,
+    "wof:name":"Wing Fire Protection Dist",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -100.280347,
+    47.14152,
+    -100.280347,
+    47.14152
+],
+  "geometry": {"coordinates":[-100.28034700000001,47.14152],"type":"Point"}
+}

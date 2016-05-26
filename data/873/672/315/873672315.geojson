@@ -1,0 +1,77 @@
+{
+  "id": 873672315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.762978,46.791022,-100.762978,46.791022",
+    "geom:latitude":46.791022,
+    "geom:longitude":-100.762978,
+    "iso:country":"US",
+    "sg:address":"1224 Airport Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 221 3283",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37XKwOHXxKGf9aVVfWQAiE_46.791022_-100.762978@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295824,
+    "wof:geomhash":"4410aac02b3952cc878a4194f2aa94f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873672315
+        }
+    ],
+    "wof:id":873672315,
+    "wof:lastmodified":1464295824,
+    "wof:name":"Comfort Products Distributing",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.762978,
+    46.791022,
+    -100.762978,
+    46.791022
+],
+  "geometry": {"coordinates":[-100.762978,46.791022],"type":"Point"}
+}

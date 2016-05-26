@@ -1,0 +1,71 @@
+{
+  "id": 873591943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.055461,47.896648,-97.055461,47.896648",
+    "geom:latitude":47.896648,
+    "geom:longitude":-97.055461,
+    "iso:country":"US",
+    "sg:address":"1981 24th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 6940",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43ueu0dcJZ1GhKZk8cZ4cb_47.896648_-97.055461@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294859,
+    "wof:geomhash":"8ae29c59a60721a75a97e1e8433ccd84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873591943
+        }
+    ],
+    "wof:id":873591943,
+    "wof:lastmodified":1464294859,
+    "wof:name":"Middle Grove Church",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -97.055461,
+    47.896648,
+    -97.055461,
+    47.896648
+],
+  "geometry": {"coordinates":[-97.05546099999999,47.896648],"type":"Point"}
+}

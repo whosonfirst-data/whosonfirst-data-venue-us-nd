@@ -1,0 +1,77 @@
+{
+  "id": 873747919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.318469,48.224302,-101.318469,48.224302",
+    "geom:latitude":48.224302,
+    "geom:longitude":-101.318469,
+    "iso:country":"US",
+    "sg:address":"1820 US Hwy 2 Bus",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 5030",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "landscape",
+        "paving",
+        "asphalt",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ehmohkGUecI0WrBFL97dt_48.224302_-101.318469@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297049,
+    "wof:geomhash":"9d3b7f53b8a05bb659a9d5aeb518acd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873747919
+        }
+    ],
+    "wof:id":873747919,
+    "wof:lastmodified":1464297049,
+    "wof:name":"Keller Paving & Landscaping",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "paving",
+        "asphalt",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.318469,
+    48.224302,
+    -101.318469,
+    48.224302
+],
+  "geometry": {"coordinates":[-101.31846899999999,48.224302],"type":"Point"}
+}

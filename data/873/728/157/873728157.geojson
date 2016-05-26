@@ -1,0 +1,70 @@
+{
+  "id": 873728157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.787451,46.911281,-96.787451,46.911281",
+    "geom:latitude":46.911281,
+    "geom:longitude":-96.787451,
+    "iso:country":"US",
+    "sg:address":"2726 Broadway",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 5212",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877353,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QUFCjPByTXn3eFp89CSCW_46.911281_-96.787451@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296756,
+    "wof:geomhash":"a335947e88dbb26348fe50ae4bb8c710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877353,
+            "region_id":85688525,
+            "venue_id":873728157
+        }
+    ],
+    "wof:id":873728157,
+    "wof:lastmodified":1464296756,
+    "wof:name":"Royal Liquors",
+    "wof:parent_id":85877353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.787451,
+    46.911281,
+    -96.787451,
+    46.911281
+],
+  "geometry": {"coordinates":[-96.787451,46.911281],"type":"Point"}
+}

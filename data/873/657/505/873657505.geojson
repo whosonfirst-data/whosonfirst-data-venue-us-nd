@@ -1,0 +1,73 @@
+{
+  "id": 873657505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.061955,47.93988,-97.061955,47.93988",
+    "geom:latitude":47.93988,
+    "geom:longitude":-97.061955,
+    "iso:country":"US",
+    "sg:address":"2107 N Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 787 5473",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "new",
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gmDWONbhZITpQCDiBtWPo_47.939880_-97.061955@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295673,
+    "wof:geomhash":"8d92beb055abdd35027109255504ba2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873657505
+        }
+    ],
+    "wof:id":873657505,
+    "wof:lastmodified":1464295673,
+    "wof:name":"Northgate Homes Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "used"
+    ]
+},
+  "bbox": [
+    -97.061955,
+    47.93988,
+    -97.061955,
+    47.93988
+],
+  "geometry": {"coordinates":[-97.061955,47.93988],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 873803199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.855477,46.851933,-96.855477,46.851933",
+    "geom:latitude":46.851933,
+    "geom:longitude":-96.855477,
+    "iso:country":"US",
+    "sg:address":"4334 18th Ave S Ste 101",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 237 6022",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "consultant",
+        "coach",
+        "public",
+        "accountants-certified"
+    ],
+    "sg:website":"http://www.widmerroelcpa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36EQjxpYHCRLTYv6hiARP0_46.851933_-96.855477@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297812,
+    "wof:geomhash":"1847acd66c0ba61ad7a3b0a278c690d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873803199
+        }
+    ],
+    "wof:id":873803199,
+    "wof:lastmodified":1464297812,
+    "wof:name":"Roel Widmer Pc",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "coach",
+        "public",
+        "accountants-certified"
+    ]
+},
+  "bbox": [
+    -96.855477,
+    46.851933,
+    -96.855477,
+    46.851933
+],
+  "geometry": {"coordinates":[-96.85547699999999,46.851933],"type":"Point"}
+}

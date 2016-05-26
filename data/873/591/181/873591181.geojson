@@ -1,0 +1,71 @@
+{
+  "id": 873591181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.314663,48.220883,-101.314663,48.220883",
+    "geom:latitude":48.220883,
+    "geom:longitude":-101.314663,
+    "iso:country":"US",
+    "sg:address":"1406 Cook Dr",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 2065",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6N9daeObsFxLFObwKf5EDx_48.220883_-101.314663@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294845,
+    "wof:geomhash":"5a1920ef2f917d8eda8881ba94e8b062",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873591181
+        }
+    ],
+    "wof:id":873591181,
+    "wof:lastmodified":1464294845,
+    "wof:name":"Superior Cleaning Service",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -101.314663,
+    48.220883,
+    -101.314663,
+    48.220883
+],
+  "geometry": {"coordinates":[-101.314663,48.220883],"type":"Point"}
+}

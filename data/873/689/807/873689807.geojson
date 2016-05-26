@@ -1,0 +1,75 @@
+{
+  "id": 873689807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.80606,46.857625,-96.80606,46.857625",
+    "geom:latitude":46.857625,
+    "geom:longitude":-96.80606,
+    "iso:country":"US",
+    "sg:address":"1541 16th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 6400",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877331,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vJTvVABhYuGnnOP2niAqd_46.857625_-96.806060@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296268,
+    "wof:geomhash":"5d6a4b0f00432b2a07984b6f18c8d09c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877331,
+            "region_id":85688525,
+            "venue_id":873689807
+        }
+    ],
+    "wof:id":873689807,
+    "wof:lastmodified":1464296268,
+    "wof:name":"Lovelace Specialties",
+    "wof:parent_id":85877331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -96.80606,
+    46.857625,
+    -96.80606,
+    46.857625
+],
+  "geometry": {"coordinates":[-96.80606,46.857625],"type":"Point"}
+}

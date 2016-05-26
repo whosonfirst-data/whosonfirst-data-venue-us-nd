@@ -1,0 +1,69 @@
+{
+  "id": 873782471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.325043,47.83173,-97.325043,47.83173",
+    "geom:latitude":47.83173,
+    "geom:longitude":-97.325043,
+    "iso:country":"US",
+    "sg:address":"1091 23rd St NE",
+    "sg:city":"Emerado",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 594 2933",
+    "sg:postcode":"58228",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "corn",
+        "soybean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0064Ic5DMsM822DGssZorH_47.831730_-97.325043@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297524,
+    "wof:geomhash":"fa0af4016285670ac9718cd28e939c72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873782471
+        }
+    ],
+    "wof:id":873782471,
+    "wof:lastmodified":1464297524,
+    "wof:name":"Robert C Leake",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "corn",
+        "soybean"
+    ]
+},
+  "bbox": [
+    -97.325043,
+    47.83173,
+    -97.325043,
+    47.83173
+],
+  "geometry": {"coordinates":[-97.32504299999999,47.83173],"type":"Point"}
+}

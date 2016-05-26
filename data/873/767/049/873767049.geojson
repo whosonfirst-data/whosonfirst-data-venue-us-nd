@@ -1,0 +1,79 @@
+{
+  "id": 873767049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.882773,46.876607,-96.882773,46.876607",
+    "geom:latitude":46.876607,
+    "geom:longitude":-96.882773,
+    "iso:country":"US",
+    "sg:address":"801 Main Ave E",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 281 1772",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57CobTpiBDYOdjQzHZrmS2_46.876607_-96.882773@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297326,
+    "wof:geomhash":"2ee85c5e405ffd90a1e3b01df74df32d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873767049
+        }
+    ],
+    "wof:id":873767049,
+    "wof:lastmodified":1464297326,
+    "wof:name":"West Fargo Autobody",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -96.882773,
+    46.876607,
+    -96.882773,
+    46.876607
+],
+  "geometry": {"coordinates":[-96.882773,46.876607],"type":"Point"}
+}

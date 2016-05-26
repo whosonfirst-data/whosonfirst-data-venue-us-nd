@@ -1,0 +1,73 @@
+{
+  "id": 873627267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.037753,47.92274,-97.037753,47.92274",
+    "geom:latitude":47.92274,
+    "geom:longitude":-97.037753,
+    "iso:country":"US",
+    "sg:address":"899 2nd Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 740 3719",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4c1XJ2JsYxj6NHSiMweVnN_47.922740_-97.037753@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295332,
+    "wof:geomhash":"ddd963a6b829ebe33d215e3c3934d44a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873627267
+        }
+    ],
+    "wof:id":873627267,
+    "wof:lastmodified":1464295332,
+    "wof:name":"Freight House Partnership",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -97.037753,
+    47.92274,
+    -97.037753,
+    47.92274
+],
+  "geometry": {"coordinates":[-97.037753,47.92274],"type":"Point"}
+}

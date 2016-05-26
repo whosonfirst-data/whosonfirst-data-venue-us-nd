@@ -1,0 +1,71 @@
+{
+  "id": 873735783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.041668,47.88833,-97.041668,47.88833",
+    "geom:latitude":47.88833,
+    "geom:longitude":-97.041668,
+    "iso:country":"US",
+    "sg:address":"190 Filmore Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 4357",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "mission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bEBnd39iZL6DH2RN710HW_47.888330_-97.041668@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296867,
+    "wof:geomhash":"be771a1751115c736a451ffb449c7049",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873735783
+        }
+    ],
+    "wof:id":873735783,
+    "wof:lastmodified":1464296867,
+    "wof:name":"Socorro Mission",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mission"
+    ]
+},
+  "bbox": [
+    -97.041668,
+    47.88833,
+    -97.041668,
+    47.88833
+],
+  "geometry": {"coordinates":[-97.041668,47.88833],"type":"Point"}
+}

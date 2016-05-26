@@ -1,0 +1,67 @@
+{
+  "id": 873794513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.663072,48.348835,-101.663072,48.348835",
+    "geom:latitude":48.348835,
+    "geom:longitude":-101.663072,
+    "iso:country":"US",
+    "sg:address":"10811 240th St NW",
+    "sg:city":"Berthold",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 453 3621",
+    "sg:postcode":"58718",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "wheat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nyYBsWxg75fJEX1tJh7Gc_48.348835_-101.663072@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297709,
+    "wof:geomhash":"5cd8adf44798b48c14fec28d5730ba30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873794513
+        }
+    ],
+    "wof:id":873794513,
+    "wof:lastmodified":1464297709,
+    "wof:name":"Fegley Farm",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "wheat"
+    ]
+},
+  "bbox": [
+    -101.663072,
+    48.348835,
+    -101.663072,
+    48.348835
+],
+  "geometry": {"coordinates":[-101.663072,48.348835],"type":"Point"}
+}

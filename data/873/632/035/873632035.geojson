@@ -1,0 +1,71 @@
+{
+  "id": 873632035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.296069,48.258778,-101.296069,48.258778",
+    "geom:latitude":48.258778,
+    "geom:longitude":-101.296069,
+    "iso:country":"US",
+    "sg:address":"2121 N Broadway",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 5144",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "boot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uunkhTN4t2fShlppZg7t5_48.258778_-101.296069@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295385,
+    "wof:geomhash":"5a191b3b3d56acd7ae62a3fbad0830c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873632035
+        }
+    ],
+    "wof:id":873632035,
+    "wof:lastmodified":1464295385,
+    "wof:name":"Lyle's Western Wear Inc",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boot"
+    ]
+},
+  "bbox": [
+    -101.296069,
+    48.258778,
+    -101.296069,
+    48.258778
+],
+  "geometry": {"coordinates":[-101.296069,48.258778],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873661283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.315755,48.232036,-101.315755,48.232036",
+    "geom:latitude":48.232036,
+    "geom:longitude":-101.315755,
+    "iso:country":"US",
+    "sg:address":"1505 4th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 7890",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6utkalZdH66fekZJIWyrFf_48.232036_-101.315755@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295711,
+    "wof:geomhash":"30df8609af5b93d8a40c0a042cb79b5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873661283
+        }
+    ],
+    "wof:id":873661283,
+    "wof:lastmodified":1464295711,
+    "wof:name":"Glamor Nails",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -101.315755,
+    48.232036,
+    -101.315755,
+    48.232036
+],
+  "geometry": {"coordinates":[-101.315755,48.232036],"type":"Point"}
+}

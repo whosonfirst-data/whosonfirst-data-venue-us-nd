@@ -1,0 +1,81 @@
+{
+  "id": 873645073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.811456,46.879395,-96.811456,46.879395",
+    "geom:latitude":46.879395,
+    "geom:longitude":-96.811456,
+    "iso:country":"US",
+    "sg:address":"1902 3rd Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 4453",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shelter",
+        "organization",
+        "religious",
+        "homeless"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64YUnrqj5HAn70ywJhVluz_46.879395_-96.811456@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295537,
+    "wof:geomhash":"df083ba201af8da2a1a34f6435df6655",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873645073
+        }
+    ],
+    "wof:id":873645073,
+    "wof:lastmodified":1464295537,
+    "wof:name":"New Life Center Thrift Store",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shelter",
+        "organization",
+        "religious",
+        "homeless"
+    ]
+},
+  "bbox": [
+    -96.811456,
+    46.879395,
+    -96.811456,
+    46.879395
+],
+  "geometry": {"coordinates":[-96.81145600000001,46.879395],"type":"Point"}
+}

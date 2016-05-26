@@ -1,0 +1,66 @@
+{
+  "id": 873720557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.764765,46.807011,-100.764765,46.807011",
+    "geom:latitude":46.807011,
+    "geom:longitude":-100.764765,
+    "iso:country":"US",
+    "sg:address":"225 N 18th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 4534",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jlmGu6dplwFQ9CfJb1PoA_46.807011_-100.764765@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296658,
+    "wof:geomhash":"13b58b3eb674509c34c4d5e5d3932b02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873720557
+        }
+    ],
+    "wof:id":873720557,
+    "wof:lastmodified":1464296658,
+    "wof:name":"Johns Meat Market Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.764765,
+    46.807011,
+    -100.764765,
+    46.807011
+],
+  "geometry": {"coordinates":[-100.764765,46.807011],"type":"Point"}
+}

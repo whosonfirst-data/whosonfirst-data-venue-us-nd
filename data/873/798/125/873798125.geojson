@@ -1,0 +1,72 @@
+{
+  "id": 873798125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.78174,46.799937,-100.78174,46.799937",
+    "geom:latitude":46.799937,
+    "geom:longitude":-100.78174,
+    "iso:country":"US",
+    "sg:address":"600 S 7th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/bismarck/124902-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 250 3180",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01fMS60BptFpC3apbfWZml_46.799937_-100.781740@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297752,
+    "wof:geomhash":"72ee42503285cd63bbe485104d0ccb8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873798125
+        }
+    ],
+    "wof:id":873798125,
+    "wof:lastmodified":1464297752,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -100.78174,
+    46.799937,
+    -100.78174,
+    46.799937
+],
+  "geometry": {"coordinates":[-100.78174,46.799937],"type":"Point"}
+}

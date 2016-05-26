@@ -1,0 +1,75 @@
+{
+  "id": 873773713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.078406,47.892104,-97.078406,47.892104",
+    "geom:latitude":47.892104,
+    "geom:longitude":-97.078406,
+    "iso:country":"US",
+    "sg:address":"3500 30th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 8500",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ngle2WgGmeOnBFFRSeUgm_47.892104_-97.078406@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297409,
+    "wof:geomhash":"a6a51c595661b18ba5c463ac40c4a10f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873773713
+        }
+    ],
+    "wof:id":873773713,
+    "wof:lastmodified":1464297409,
+    "wof:name":"Sundby Carpet Cleaning",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -97.078406,
+    47.892104,
+    -97.078406,
+    47.892104
+],
+  "geometry": {"coordinates":[-97.078406,47.892104],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 873733217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.778762,46.915927,-96.778762,46.915927",
+    "geom:latitude":46.915927,
+    "geom:longitude":-96.778762,
+    "iso:country":"US",
+    "sg:address":"4 Cedar Ave",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 7458",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877353,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mdvfwrf6UEDaBsaKKjg8l_46.915927_-96.778762@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296818,
+    "wof:geomhash":"591d33225fbaaa103d05a2ba6384dd2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877353,
+            "region_id":85688525,
+            "venue_id":873733217
+        }
+    ],
+    "wof:id":873733217,
+    "wof:lastmodified":1464296818,
+    "wof:name":"Munch N More Candy Co",
+    "wof:parent_id":85877353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.778762,
+    46.915927,
+    -96.778762,
+    46.915927
+],
+  "geometry": {"coordinates":[-96.778762,46.915927],"type":"Point"}
+}

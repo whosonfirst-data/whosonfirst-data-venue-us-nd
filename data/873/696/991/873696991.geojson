@@ -1,0 +1,71 @@
+{
+  "id": 873696991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.300676,47.921768,-97.300676,47.921768",
+    "geom:latitude":47.921768,
+    "geom:longitude":-97.300676,
+    "iso:country":"US",
+    "sg:address":"1726 Cedar St NE",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 1390",
+    "sg:postcode":"58228",
+    "sg:province":"ND",
+    "sg:tags":[
+        "transportation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2naqi2n5Gywn7ZPVPgGEaG_47.921768_-97.300676@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296375,
+    "wof:geomhash":"595e5d4b47246713e51eac2eb661f4e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873696991
+        }
+    ],
+    "wof:id":873696991,
+    "wof:lastmodified":1464296375,
+    "wof:name":"Motor Vehicle BR Grnd Forks",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transportation"
+    ]
+},
+  "bbox": [
+    -97.300676,
+    47.921768,
+    -97.300676,
+    47.921768
+],
+  "geometry": {"coordinates":[-97.300676,47.921768],"type":"Point"}
+}

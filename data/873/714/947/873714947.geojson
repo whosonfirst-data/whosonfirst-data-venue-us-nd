@@ -1,0 +1,70 @@
+{
+  "id": 873714947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.798361,46.860937,-96.798361,46.860937",
+    "geom:latitude":46.860937,
+    "geom:longitude":-96.798361,
+    "iso:country":"US",
+    "sg:address":"1330 S University Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 6603",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534479,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QtYwi7EdCFQDwJwPDRJji_46.860937_-96.798361@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296581,
+    "wof:geomhash":"94a1f24c8a6eaeb041b0710141e08651",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534479,
+            "region_id":85688525,
+            "venue_id":873714947
+        }
+    ],
+    "wof:id":873714947,
+    "wof:lastmodified":1464296581,
+    "wof:name":"Lutheran Church",
+    "wof:parent_id":420534479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.798361,
+    46.860937,
+    -96.798361,
+    46.860937
+],
+  "geometry": {"coordinates":[-96.798361,46.860937],"type":"Point"}
+}

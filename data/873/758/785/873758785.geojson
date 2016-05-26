@@ -1,0 +1,73 @@
+{
+  "id": 873758785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.756251,46.82366,-100.756251,46.82366",
+    "geom:latitude":46.82366,
+    "geom:longitude":-100.756251,
+    "iso:country":"US",
+    "sg:address":"2510 E Divide Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 4885",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "lutheran",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qdltjC8LQAcrPG1ZGXjva_46.823660_-100.756251@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297192,
+    "wof:geomhash":"986265c4fdaaec50e9387c3342fa5cca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873758785
+        }
+    ],
+    "wof:id":873758785,
+    "wof:lastmodified":1464297192,
+    "wof:name":"Church of Lutheran Confession",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lutheran",
+        "church"
+    ]
+},
+  "bbox": [
+    -100.756251,
+    46.82366,
+    -100.756251,
+    46.82366
+],
+  "geometry": {"coordinates":[-100.75625100000001,46.82366],"type":"Point"}
+}

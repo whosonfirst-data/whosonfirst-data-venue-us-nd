@@ -1,0 +1,77 @@
+{
+  "id": 873729995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.79425,46.808512,-100.79425,46.808512",
+    "geom:latitude":46.808512,
+    "geom:longitude":-100.79425,
+    "iso:country":"US",
+    "sg:address":"315 N Washington St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 224 8745",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qLA3GeuxTDG3OMPtsCJEG_46.808512_-100.794250@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296779,
+    "wof:geomhash":"f9ca601e8d696292566047ffe6c5789e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873729995
+        }
+    ],
+    "wof:id":873729995,
+    "wof:lastmodified":1464296779,
+    "wof:name":"Lorraine Dopson MD",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -100.79425,
+    46.808512,
+    -100.79425,
+    46.808512
+],
+  "geometry": {"coordinates":[-100.79425000000001,46.808512],"type":"Point"}
+}

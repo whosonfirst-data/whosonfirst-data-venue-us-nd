@@ -1,0 +1,76 @@
+{
+  "id": 873778739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.096635,47.987595,-97.096635,47.987595",
+    "geom:latitude":47.987595,
+    "geom:longitude":-97.096635,
+    "iso:country":"US",
+    "sg:address":"6600 N Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 5866",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4e3hVaYswXFkEgnPht7uj5_47.987595_-97.096635@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297473,
+    "wof:geomhash":"18918dcc9d60d843feb7273ad7256a12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873778739
+        }
+    ],
+    "wof:id":873778739,
+    "wof:lastmodified":1464297473,
+    "wof:name":"Simplot Growers Solutions",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [
+    -97.096635,
+    47.987595,
+    -97.096635,
+    47.987595
+],
+  "geometry": {"coordinates":[-97.09663500000001,47.987595],"type":"Point"}
+}

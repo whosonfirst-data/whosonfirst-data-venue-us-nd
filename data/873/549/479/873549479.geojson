@@ -1,0 +1,71 @@
+{
+  "id": 873549479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.041543,47.908119,-97.041543,47.908119",
+    "geom:latitude":47.908119,
+    "geom:longitude":-97.041543,
+    "iso:country":"US",
+    "sg:address":"1026 14th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 6186",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mkEfgzJnLZ8KDpLT9eX3l_47.908119_-97.041543@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294372,
+    "wof:geomhash":"d2f00874d9475968eb9c49e1110b831e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873549479
+        }
+    ],
+    "wof:id":873549479,
+    "wof:lastmodified":1464294372,
+    "wof:name":"Wakeman S Family Day Care",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -97.041543,
+    47.908119,
+    -97.041543,
+    47.908119
+],
+  "geometry": {"coordinates":[-97.041543,47.908119],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873618209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.252819,48.214763,-101.252819,48.214763",
+    "geom:latitude":48.214763,
+    "geom:longitude":-101.252819,
+    "iso:country":"US",
+    "sg:address":"2604 Valley St",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 4332",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PsaqnnlZHRlnnh062R3hV_48.214763_-101.252819@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295226,
+    "wof:geomhash":"2ec183a6257079876e652dece5aad394",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873618209
+        }
+    ],
+    "wof:id":873618209,
+    "wof:lastmodified":1464295226,
+    "wof:name":"Aasen's Landscaping Inc",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.252819,
+    48.214763,
+    -101.252819,
+    48.214763
+],
+  "geometry": {"coordinates":[-101.252819,48.214763],"type":"Point"}
+}

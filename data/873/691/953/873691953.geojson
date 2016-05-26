@@ -1,0 +1,77 @@
+{
+  "id": 873691953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.801571,46.859642,-96.801571,46.859642",
+    "geom:latitude":46.859642,
+    "geom:longitude":-96.801571,
+    "iso:country":"US",
+    "sg:address":"1303 14th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 7106",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877331,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WLLaqceXL8oaRpcX3Y0tb_46.859642_-96.801571@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296315,
+    "wof:geomhash":"ff3701930bc3e9cfed78e6c6c28dd19a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877331,
+            "region_id":85688525,
+            "venue_id":873691953
+        }
+    ],
+    "wof:id":873691953,
+    "wof:lastmodified":1464296315,
+    "wof:name":"Quality Roofing Plus",
+    "wof:parent_id":85877331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.801571,
+    46.859642,
+    -96.801571,
+    46.859642
+],
+  "geometry": {"coordinates":[-96.801571,46.859642],"type":"Point"}
+}

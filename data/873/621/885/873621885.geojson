@@ -1,0 +1,73 @@
+{
+  "id": 873621885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.736278,46.824112,-100.736278,46.824112",
+    "geom:latitude":46.824112,
+    "geom:longitude":-100.736278,
+    "iso:country":"US",
+    "sg:address":"1801 Channel Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 9664",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "boiler",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SfbsaUwPrtdCYrdUc8KzH_46.824112_-100.736278@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295269,
+    "wof:geomhash":"5820415e9656ea7ad10a18d06cb27df8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873621885
+        }
+    ],
+    "wof:id":873621885,
+    "wof:lastmodified":1464295269,
+    "wof:name":"Advantage Plumbing & Htg Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boiler",
+        "cleaning"
+    ]
+},
+  "bbox": [
+    -100.736278,
+    46.824112,
+    -100.736278,
+    46.824112
+],
+  "geometry": {"coordinates":[-100.736278,46.824112],"type":"Point"}
+}

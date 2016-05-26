@@ -1,0 +1,71 @@
+{
+  "id": 873805377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.531757,47.915388,-97.531757,47.915388",
+    "geom:latitude":47.915388,
+    "geom:longitude":-97.531757,
+    "iso:country":"US",
+    "sg:address":"3264 17th Ave NE",
+    "sg:city":"Arvilla",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 343 2992",
+    "sg:postcode":"58214",
+    "sg:province":"ND",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TOMNLj00JGIaSPHZoKHPC_47.915388_-97.531757@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297840,
+    "wof:geomhash":"32acbd4e09ae930f0b39980a8e8f554b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873805377
+        }
+    ],
+    "wof:id":873805377,
+    "wof:lastmodified":1464297840,
+    "wof:name":"Turtle River State Park Maintenance Shop",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -97.531757,
+    47.915388,
+    -97.531757,
+    47.915388
+],
+  "geometry": {"coordinates":[-97.531757,47.915388],"type":"Point"}
+}

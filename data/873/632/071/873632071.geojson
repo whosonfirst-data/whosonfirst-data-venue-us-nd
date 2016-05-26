@@ -1,0 +1,77 @@
+{
+  "id": 873632071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.827851,46.939343,-96.827851,46.939343",
+    "geom:latitude":46.939343,
+    "geom:longitude":-96.827851,
+    "iso:country":"US",
+    "sg:address":"3155 44th Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 6716",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877363,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZcXjh7eaAEv5paKjnTmwY_46.939343_-96.827851@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295385,
+    "wof:geomhash":"28256615557da966683b26f3ba2e9ce6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877363,
+            "region_id":85688525,
+            "venue_id":873632071
+        }
+    ],
+    "wof:id":873632071,
+    "wof:lastmodified":1464295385,
+    "wof:name":"Olander Contracting Co",
+    "wof:parent_id":85877363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.827851,
+    46.939343,
+    -96.827851,
+    46.939343
+],
+  "geometry": {"coordinates":[-96.827851,46.939343],"type":"Point"}
+}

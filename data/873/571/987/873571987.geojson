@@ -1,0 +1,76 @@
+{
+  "id": 873571987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.573916,47.735187,-97.573916,47.735187",
+    "geom:latitude":47.735187,
+    "geom:longitude":-97.573916,
+    "iso:country":"US",
+    "sg:address":"8 Park St",
+    "sg:city":"Northwood",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 587 5502",
+    "sg:postcode":"58267",
+    "sg:province":"ND",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lFaYiCQeVA6GWCYOPibIF_47.735187_-97.573916@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294631,
+    "wof:geomhash":"b6d6d3be704394d67797406437b3b2e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873571987
+        }
+    ],
+    "wof:id":873571987,
+    "wof:lastmodified":1464294631,
+    "wof:name":"Valley Vision Clinic",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -97.573916,
+    47.735187,
+    -97.573916,
+    47.735187
+],
+  "geometry": {"coordinates":[-97.573916,47.735187],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873683241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.058727,47.919032,-97.058727,47.919032",
+    "geom:latitude":47.919032,
+    "geom:longitude":-97.058727,
+    "iso:country":"US",
+    "sg:address":"2211 Dyke Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 6378",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "internet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3C6Oge20Dm8Fu8JVmfPCQ0_47.919032_-97.058727@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296087,
+    "wof:geomhash":"1d648782e0fc18b07b7b26fe815ac9fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873683241
+        }
+    ],
+    "wof:id":873683241,
+    "wof:lastmodified":1464296087,
+    "wof:name":"Sun Dot Communications LLC",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "internet"
+    ]
+},
+  "bbox": [
+    -97.058727,
+    47.919032,
+    -97.058727,
+    47.919032
+],
+  "geometry": {"coordinates":[-97.058727,47.919032],"type":"Point"}
+}

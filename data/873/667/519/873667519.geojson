@@ -1,0 +1,78 @@
+{
+  "id": 873667519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.053161,47.94049,-97.053161,47.94049",
+    "geom:latitude":47.94049,
+    "geom:longitude":-97.053161,
+    "iso:country":"US",
+    "sg:address":"728 Red Dot Pl",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 6471",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "fuel",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GlOwoCUxv88iup7eCPd2E_47.940490_-97.053161@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295774,
+    "wof:geomhash":"b66b1e327949b6c8f4b43cf6626b7b44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873667519
+        }
+    ],
+    "wof:id":873667519,
+    "wof:lastmodified":1464295774,
+    "wof:name":"Management Systems Corporation",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fuel",
+        "software"
+    ]
+},
+  "bbox": [
+    -97.053161,
+    47.94049,
+    -97.053161,
+    47.94049
+],
+  "geometry": {"coordinates":[-97.053161,47.94049],"type":"Point"}
+}

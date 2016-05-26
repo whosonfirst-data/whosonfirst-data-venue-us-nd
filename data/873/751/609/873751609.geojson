@@ -1,0 +1,73 @@
+{
+  "id": 873751609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.297681,48.165881,-101.297681,48.165881",
+    "geom:latitude":48.165881,
+    "geom:longitude":-101.297681,
+    "iso:country":"US",
+    "sg:address":"6825 4th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 8862",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KnbfQHUvR4pxb9vYokqy1_48.165881_-101.297681@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297096,
+    "wof:geomhash":"fd5ebf6fb53651b802213db5c9c64efa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873751609
+        }
+    ],
+    "wof:id":873751609,
+    "wof:lastmodified":1464297096,
+    "wof:name":"Southside Storage",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -101.297681,
+    48.165881,
+    -101.297681,
+    48.165881
+],
+  "geometry": {"coordinates":[-101.297681,48.165881],"type":"Point"}
+}

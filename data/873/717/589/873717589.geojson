@@ -1,0 +1,77 @@
+{
+  "id": 873717589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.808628,46.879406,-96.808628,46.879406",
+    "geom:latitude":46.879406,
+    "geom:longitude":-96.808628,
+    "iso:country":"US",
+    "sg:address":"1720 3rd Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 478 8400",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cmN80V7fEHkYlbonxgFVS_46.879406_-96.808628@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296616,
+    "wof:geomhash":"3d3111f35efb8c203fdcd5122302a88e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873717589
+        }
+    ],
+    "wof:id":873717589,
+    "wof:lastmodified":1464296616,
+    "wof:name":"Dakota Boys Ranch",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -96.808628,
+    46.879406,
+    -96.808628,
+    46.879406
+],
+  "geometry": {"coordinates":[-96.808628,46.879406],"type":"Point"}
+}

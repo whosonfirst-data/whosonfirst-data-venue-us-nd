@@ -1,0 +1,71 @@
+{
+  "id": 873712735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.263879,48.229101,-101.263879,48.229101",
+    "geom:latitude":48.229101,
+    "geom:longitude":-101.263879,
+    "iso:country":"US",
+    "sg:address":"1900 8th Ave SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 857 5998",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ma2LDgIKxznhfCLi0bhj6_48.229101_-101.263879@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296553,
+    "wof:geomhash":"4801df200c8f51334d05a6b193835e3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873712735
+        }
+    ],
+    "wof:id":873712735,
+    "wof:lastmodified":1464296553,
+    "wof:name":"Trinity Mental Health Svc",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -101.263879,
+    48.229101,
+    -101.263879,
+    48.229101
+],
+  "geometry": {"coordinates":[-101.263879,48.229101],"type":"Point"}
+}

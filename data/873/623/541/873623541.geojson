@@ -1,0 +1,78 @@
+{
+  "id": 873623541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.832199,46.871166,-96.832199,46.871166",
+    "geom:latitude":46.871166,
+    "geom:longitude":-96.832199,
+    "iso:country":"US",
+    "sg:address":"3302 4th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 298 6594",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "parts",
+        "supply"
+    ],
+    "sg:website":"www.printersolutions.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ygWt3mJMcb8kKSnMmeEIL_46.871166_-96.832199@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295292,
+    "wof:geomhash":"3616d00c327f5427948479eab038e753",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873623541
+        }
+    ],
+    "wof:id":873623541,
+    "wof:lastmodified":1464295292,
+    "wof:name":"Printer Solutions",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parts",
+        "supply"
+    ]
+},
+  "bbox": [
+    -96.832199,
+    46.871166,
+    -96.832199,
+    46.871166
+],
+  "geometry": {"coordinates":[-96.832199,46.871166],"type":"Point"}
+}

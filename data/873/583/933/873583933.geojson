@@ -1,0 +1,71 @@
+{
+  "id": 873583933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.043464,47.909879,-97.043464,47.909879",
+    "geom:latitude":47.909879,
+    "geom:longitude":-97.043464,
+    "iso:country":"US",
+    "sg:address":"1001 S 12th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 5892",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fRHrbqn4nOZOJ8WngPDJo_47.909879_-97.043464@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294762,
+    "wof:geomhash":"9130563a38964e4556f14ce2ec9ee1c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873583933
+        }
+    ],
+    "wof:id":873583933,
+    "wof:lastmodified":1464294762,
+    "wof:name":"Cunninghams Family Day Care",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -97.043464,
+    47.909879,
+    -97.043464,
+    47.909879
+],
+  "geometry": {"coordinates":[-97.043464,47.909879],"type":"Point"}
+}

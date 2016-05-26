@@ -1,0 +1,72 @@
+{
+  "id": 873730069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.061373,47.889522,-97.061373,47.889522",
+    "geom:latitude":47.889522,
+    "geom:longitude":-97.061373,
+    "iso:country":"US",
+    "sg:address":"2424 32nd Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 3193",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "loan"
+    ],
+    "sg:website":"www.fcsdirect.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SX9EzKNTPVwidl1YkJQTz_47.889522_-97.061373@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296780,
+    "wof:geomhash":"da9671a26495bbc3618e312fd5ac9e3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873730069
+        }
+    ],
+    "wof:id":873730069,
+    "wof:lastmodified":1464296780,
+    "wof:name":"Farm Credit Svc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -97.061373,
+    47.889522,
+    -97.061373,
+    47.889522
+],
+  "geometry": {"coordinates":[-97.061373,47.889522],"type":"Point"}
+}

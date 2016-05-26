@@ -1,0 +1,70 @@
+{
+  "id": 873736867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.85844,46.866296,-96.85844,46.866296",
+    "geom:latitude":46.866296,
+    "geom:longitude":-96.85844,
+    "iso:country":"US",
+    "sg:address":"4440 9th Ave SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 9700",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dXCwY2gyJuXp82NyLuWXE_46.866296_-96.858440@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296880,
+    "wof:geomhash":"f97d32452979a72ce2d0885e60d0ed3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873736867
+        }
+    ],
+    "wof:id":873736867,
+    "wof:lastmodified":1464296880,
+    "wof:name":"Cenex Convenience Store",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.85844,
+    46.866296,
+    -96.85844,
+    46.866296
+],
+  "geometry": {"coordinates":[-96.85844,46.866296],"type":"Point"}
+}

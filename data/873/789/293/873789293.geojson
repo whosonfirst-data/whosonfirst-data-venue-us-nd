@@ -1,0 +1,67 @@
+{
+  "id": 873789293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.498472,46.867229,-100.498472,46.867229",
+    "geom:latitude":46.867229,
+    "geom:longitude":-100.498472,
+    "iso:country":"US",
+    "sg:address":"5800 184th St NE",
+    "sg:city":"Menoken",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 673 3353",
+    "sg:postcode":"58558",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "wheat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nFRI2Iip4lFjN956u6CrL_46.867229_-100.498472@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297632,
+    "wof:geomhash":"446cd2eb17e4e555be599346d27b78f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873789293
+        }
+    ],
+    "wof:id":873789293,
+    "wof:lastmodified":1464297632,
+    "wof:name":"Agnew Cattle & Grain Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "wheat"
+    ]
+},
+  "bbox": [
+    -100.498472,
+    46.867229,
+    -100.498472,
+    46.867229
+],
+  "geometry": {"coordinates":[-100.49847200000001,46.867229],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873771695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.765114,46.792207,-100.765114,46.792207",
+    "geom:latitude":46.792207,
+    "geom:longitude":-100.765114,
+    "iso:country":"US",
+    "sg:address":"1107 S 18th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 4924",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39pxglRzoCzbReDKO9f1mL_46.792207_-100.765114@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297386,
+    "wof:geomhash":"925c732bb36cd63b8f3d01300fb12277",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873771695
+        }
+    ],
+    "wof:id":873771695,
+    "wof:lastmodified":1464297386,
+    "wof:name":"Duanes Body and Frame Shop",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -100.765114,
+    46.792207,
+    -100.765114,
+    46.792207
+],
+  "geometry": {"coordinates":[-100.765114,46.792207],"type":"Point"}
+}

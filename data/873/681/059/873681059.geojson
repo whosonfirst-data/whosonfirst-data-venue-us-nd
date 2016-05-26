@@ -1,0 +1,75 @@
+{
+  "id": 873681059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.24122,46.667558,-97.24122,46.667558",
+    "geom:latitude":46.667558,
+    "geom:longitude":-97.24122,
+    "iso:country":"US",
+    "sg:address":"5144 154th Ave SE",
+    "sg:city":"Leonard",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 645 2252",
+    "sg:postcode":"58052",
+    "sg:province":"ND",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pa1rVDS201fkEJnRG5jAj_46.667558_-97.241220@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296024,
+    "wof:geomhash":"4d7357295a7bb441302281a9cb445d62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873681059
+        }
+    ],
+    "wof:id":873681059,
+    "wof:lastmodified":1464296024,
+    "wof:name":"Lemke Trucking Inc",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -97.24122,
+    46.667558,
+    -97.24122,
+    46.667558
+],
+  "geometry": {"coordinates":[-97.24122,46.667558],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873565125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.054894,47.916446,-97.054894,47.916446",
+    "geom:latitude":47.916446,
+    "geom:longitude":-97.054894,
+    "iso:country":"US",
+    "sg:address":"1796 Demers Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Railroad",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 1255",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "operator",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60V70YRx5DftZcNuaQpGNC_47.916446_-97.054894@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294557,
+    "wof:geomhash":"91912e2736e461ec63c0e5315a613f05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873565125
+        }
+    ],
+    "wof:id":873565125,
+    "wof:lastmodified":1464294557,
+    "wof:name":"Bn Railroad",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "line"
+    ]
+},
+  "bbox": [
+    -97.054894,
+    47.916446,
+    -97.054894,
+    47.916446
+],
+  "geometry": {"coordinates":[-97.054894,47.916446],"type":"Point"}
+}

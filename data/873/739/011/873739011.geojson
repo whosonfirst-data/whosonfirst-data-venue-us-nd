@@ -1,0 +1,86 @@
+{
+  "id": 873739011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.271655,47.998424,-101.271655,47.998424",
+    "geom:latitude":47.998424,
+    "geom:longitude":-101.271655,
+    "iso:country":"US",
+    "sg:address":"21901 13th St SE",
+    "sg:city":"Max",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Stationery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 8340",
+    "sg:postcode":"58759",
+    "sg:province":"ND",
+    "sg:tags":[
+        "stamp",
+        "mi",
+        "plastic",
+        "rubber",
+        "design",
+        "sup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qPkJDJlBNOeu7YDG3aq66_47.998424_-101.271655@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296908,
+    "wof:geomhash":"627ecf6412a0a95003cd2e9aa66dd06f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873739011
+        }
+    ],
+    "wof:id":873739011,
+    "wof:lastmodified":1464296908,
+    "wof:name":"U Stamp It - Printing & Design",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stamp",
+        "mi",
+        "plastic",
+        "rubber",
+        "design",
+        "sup"
+    ]
+},
+  "bbox": [
+    -101.271655,
+    47.998424,
+    -101.271655,
+    47.998424
+],
+  "geometry": {"coordinates":[-101.271655,47.998424],"type":"Point"}
+}

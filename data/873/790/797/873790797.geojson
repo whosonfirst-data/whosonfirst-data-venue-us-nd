@@ -1,0 +1,67 @@
+{
+  "id": 873790797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.78612,46.806461,-100.78612,46.806461",
+    "geom:latitude":46.806461,
+    "geom:longitude":-100.78612,
+    "iso:country":"US",
+    "sg:address":"301 E Broadway Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 7550",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "communications",
+        "telegraph"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4io4dcp5NP8HipMUHIy1Rd_46.806461_-100.786120@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297650,
+    "wof:geomhash":"5ad5b2a42fe9a9a3a57a30cb3fa7ad58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873790797
+        }
+    ],
+    "wof:id":873790797,
+    "wof:lastmodified":1464297650,
+    "wof:name":"Fax Service",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications",
+        "telegraph"
+    ]
+},
+  "bbox": [
+    -100.78612,
+    46.806461,
+    -100.78612,
+    46.806461
+],
+  "geometry": {"coordinates":[-100.78612,46.806461],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873625361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.751235,46.814029,-100.751235,46.814029",
+    "geom:latitude":46.814029,
+    "geom:longitude":-100.751235,
+    "iso:country":"US",
+    "sg:address":"2605 E Ave F",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 4300",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "paging",
+        "answering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZlhEtLJh3VlknqWMIQ9vr_46.814029_-100.751235@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295314,
+    "wof:geomhash":"189b426407c1c7f0f7e04a1e9af47d56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873625361
+        }
+    ],
+    "wof:id":873625361,
+    "wof:lastmodified":1464295314,
+    "wof:name":"I'Ll Get It",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paging",
+        "answering"
+    ]
+},
+  "bbox": [
+    -100.751235,
+    46.814029,
+    -100.751235,
+    46.814029
+],
+  "geometry": {"coordinates":[-100.75123499999999,46.814029],"type":"Point"}
+}

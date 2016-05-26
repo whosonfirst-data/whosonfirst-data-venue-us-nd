@@ -1,0 +1,72 @@
+{
+  "id": 873663195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.64736,46.769994,-100.64736,46.769994",
+    "geom:latitude":46.769994,
+    "geom:longitude":-100.64736,
+    "iso:country":"US",
+    "sg:address":"3000 93rd St SE",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 323 9828",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "establishment"
+    ],
+    "sg:website":"www.toycatch.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VHFRsdKpnfp0XU4OfDz5k_46.769994_-100.647360@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295732,
+    "wof:geomhash":"15e97e6309ace6b16bc9dd62b1c44597",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873663195
+        }
+    ],
+    "wof:id":873663195,
+    "wof:lastmodified":1464295732,
+    "wof:name":"Toy Catch",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -100.64736,
+    46.769994,
+    -100.64736,
+    46.769994
+],
+  "geometry": {"coordinates":[-100.64736000000001,46.769994],"type":"Point"}
+}

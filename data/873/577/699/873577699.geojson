@@ -1,0 +1,66 @@
+{
+  "id": 873577699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.761818,46.80934,-100.761818,46.80934",
+    "geom:latitude":46.80934,
+    "geom:longitude":-100.761818,
+    "iso:country":"US",
+    "sg:address":"504 N 20th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Dairy Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 387 4574",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KFnVj5srpzzdNKkhYDdr0_46.809340_-100.761818@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294691,
+    "wof:geomhash":"46e9708d13d9aee7b6f2316116b7f59d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873577699
+        }
+    ],
+    "wof:id":873577699,
+    "wof:lastmodified":1464294691,
+    "wof:name":"Goetz Farm",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.761818,
+    46.80934,
+    -100.761818,
+    46.80934
+],
+  "geometry": {"coordinates":[-100.76181800000001,46.80934],"type":"Point"}
+}

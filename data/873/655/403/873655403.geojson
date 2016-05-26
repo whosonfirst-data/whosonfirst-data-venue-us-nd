@@ -1,0 +1,75 @@
+{
+  "id": 873655403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.831957,46.864818,-96.831957,46.864818",
+    "geom:latitude":46.864818,
+    "geom:longitude":-96.831957,
+    "iso:country":"US",
+    "sg:address":"1005 Westrac Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 365 0850",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_093yYJ0joZt8fbOQ87C0Om_46.864818_-96.831957@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295650,
+    "wof:geomhash":"cfc26463a3a6a2f1caa80555c378842f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873655403
+        }
+    ],
+    "wof:id":873655403,
+    "wof:lastmodified":1464295650,
+    "wof:name":"Spectrum Printing Design",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -96.831957,
+    46.864818,
+    -96.831957,
+    46.864818
+],
+  "geometry": {"coordinates":[-96.831957,46.864818],"type":"Point"}
+}

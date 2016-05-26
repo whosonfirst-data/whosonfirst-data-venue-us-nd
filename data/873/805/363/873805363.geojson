@@ -1,0 +1,103 @@
+{
+  "id": 873805363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.876027,46.80327,-96.876027,46.80327",
+    "geom:latitude":46.80327,
+    "geom:longitude":-96.876027,
+    "iso:country":"US",
+    "sg:address":"5524 53rd Ave South",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 729 6951",
+    "sg:postcode":"58105",
+    "sg:province":"ND",
+    "sg:tags":[
+        "roofing",
+        "gutter",
+        "deck",
+        "snow",
+        "roof",
+        "contractor",
+        "downspouts",
+        "removal",
+        "structure"
+    ],
+    "sg:website":"http://www.Fargoroof.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dS8x3ZHN5c523ZJauwJCG_46.803270_-96.876027@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297840,
+    "wof:geomhash":"801ab30da4b1676262c031dfe3856cc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873805363
+        }
+    ],
+    "wof:id":873805363,
+    "wof:lastmodified":1464297840,
+    "wof:name":"fargoroof",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "gutter",
+        "deck",
+        "snow",
+        "roof",
+        "contractor",
+        "downspouts",
+        "removal",
+        "structure"
+    ]
+},
+  "bbox": [
+    -96.876027,
+    46.80327,
+    -96.876027,
+    46.80327
+],
+  "geometry": {"coordinates":[-96.87602699999999,46.80327],"type":"Point"}
+}

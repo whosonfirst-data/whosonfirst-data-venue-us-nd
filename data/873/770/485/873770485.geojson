@@ -1,0 +1,77 @@
+{
+  "id": 873770485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.877557,46.874916,-96.877557,46.874916",
+    "geom:latitude":46.874916,
+    "geom:longitude":-96.877557,
+    "iso:country":"US",
+    "sg:address":"1007 Brookwood Ln",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 799 4013",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "sg:tags":[
+        "cosmetic",
+        "perfume"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JL9Kg8ms78H9P5gVGgnzu_46.874916_-96.877557@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297372,
+    "wof:geomhash":"8b4453fd2572dc3407801a03ddb1fa2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873770485
+        }
+    ],
+    "wof:id":873770485,
+    "wof:lastmodified":1464297372,
+    "wof:name":"Avon Independent Rep",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cosmetic",
+        "perfume"
+    ]
+},
+  "bbox": [
+    -96.877557,
+    46.874916,
+    -96.877557,
+    46.874916
+],
+  "geometry": {"coordinates":[-96.877557,46.874916],"type":"Point"}
+}

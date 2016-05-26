@@ -1,0 +1,73 @@
+{
+  "id": 873600733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.288376,48.237234,-101.288376,48.237234",
+    "geom:latitude":48.237234,
+    "geom:longitude":-101.288376,
+    "iso:country":"US",
+    "sg:address":"36 3rd St NE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 6826",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PMruTLSFs1wctUsF8qd3r_48.237234_-101.288376@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294995,
+    "wof:geomhash":"be3d051c8fd6d5d1f450ff612af84b87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873600733
+        }
+    ],
+    "wof:id":873600733,
+    "wof:lastmodified":1464294995,
+    "wof:name":"All Season Heating & Air Cond",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.288376,
+    48.237234,
+    -101.288376,
+    48.237234
+],
+  "geometry": {"coordinates":[-101.288376,48.237234],"type":"Point"}
+}

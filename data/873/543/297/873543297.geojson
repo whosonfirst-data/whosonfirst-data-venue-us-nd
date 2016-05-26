@@ -1,0 +1,73 @@
+{
+  "id": 873543297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.304664,48.210814,-101.304664,48.210814",
+    "geom:latitude":48.210814,
+    "geom:longitude":-101.304664,
+    "iso:country":"US",
+    "sg:address":"728 20th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 4147",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "flag",
+        "banner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FDHlN9TNeF5yz5LdYLFwX_48.210814_-101.304664@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294294,
+    "wof:geomhash":"954bf3c4bd3fe60a90083a6c56d5ac6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873543297
+        }
+    ],
+    "wof:id":873543297,
+    "wof:lastmodified":1464294294,
+    "wof:name":"Signs Today",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flag",
+        "banner"
+    ]
+},
+  "bbox": [
+    -101.304664,
+    48.210814,
+    -101.304664,
+    48.210814
+],
+  "geometry": {"coordinates":[-101.304664,48.210814],"type":"Point"}
+}

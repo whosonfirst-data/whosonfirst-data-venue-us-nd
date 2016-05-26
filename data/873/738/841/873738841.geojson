@@ -1,0 +1,72 @@
+{
+  "id": 873738841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.033531,47.922875,-97.033531,47.922875",
+    "geom:latitude":47.922875,
+    "geom:longitude":-97.033531,
+    "iso:country":"US",
+    "sg:address":"501 Demers Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 0590",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "mortgage"
+    ],
+    "sg:website":"www.gatecitybank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AXhe2vg7YBsGaxdRn0PQk_47.922875_-97.033531@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296906,
+    "wof:geomhash":"aba857260c0f871b3be5d639a05e5864",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873738841
+        }
+    ],
+    "wof:id":873738841,
+    "wof:lastmodified":1464296906,
+    "wof:name":"Gate City Bank",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -97.033531,
+    47.922875,
+    -97.033531,
+    47.922875
+],
+  "geometry": {"coordinates":[-97.033531,47.922875],"type":"Point"}
+}

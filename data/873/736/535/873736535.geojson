@@ -1,0 +1,67 @@
+{
+  "id": 873736535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.781621,46.80635,-100.781621,46.80635",
+    "geom:latitude":46.80635,
+    "geom:longitude":-100.781621,
+    "iso:country":"US",
+    "sg:address":"605 E Broadway Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 6000",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:website":"www.radisson.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yaGJg9kt4lnaCqCdIYpF9_46.806350_-100.781621@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296877,
+    "wof:geomhash":"9de66809420126a1b5ed39beb4aaf368",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873736535
+        }
+    ],
+    "wof:id":873736535,
+    "wof:lastmodified":1464296877,
+    "wof:name":"Radisson Hotel",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.781621,
+    46.80635,
+    -100.781621,
+    46.80635
+],
+  "geometry": {"coordinates":[-100.781621,46.80635],"type":"Point"}
+}

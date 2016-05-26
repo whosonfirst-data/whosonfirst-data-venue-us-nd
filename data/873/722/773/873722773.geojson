@@ -1,0 +1,71 @@
+{
+  "id": 873722773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.020805,47.877458,-97.020805,47.877458",
+    "geom:latitude":47.877458,
+    "geom:longitude":-97.020805,
+    "iso:country":"US",
+    "sg:address":"59 Sloping Hills Cove",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 5467",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wfsNr8lSgkvF4TSky0jKV_47.877458_-97.020805@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296684,
+    "wof:geomhash":"bbba7a521d9ab3d8dbd2012c3a272bbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873722773
+        }
+    ],
+    "wof:id":873722773,
+    "wof:lastmodified":1464296684,
+    "wof:name":"Shirley L Jahnke",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -97.020805,
+    47.877458,
+    -97.020805,
+    47.877458
+],
+  "geometry": {"coordinates":[-97.020805,47.877458],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873792599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.144793,47.773623,-97.144793,47.773623",
+    "geom:latitude":47.773623,
+    "geom:longitude":-97.144793,
+    "iso:country":"US",
+    "sg:address":"1456 7th Ave NE",
+    "sg:city":"Thompson",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 599 2028",
+    "sg:postcode":"58278",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "wheat",
+        "grain",
+        "cash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5msAYAgkjYjKmFPjN8KexB_47.773623_-97.144793@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297685,
+    "wof:geomhash":"ad86554334032233fa36217787d61c80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873792599
+        }
+    ],
+    "wof:id":873792599,
+    "wof:lastmodified":1464297685,
+    "wof:name":"Quern Vaughn",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "wheat",
+        "grain",
+        "cash"
+    ]
+},
+  "bbox": [
+    -97.144793,
+    47.773623,
+    -97.144793,
+    47.773623
+],
+  "geometry": {"coordinates":[-97.14479300000001,47.773623],"type":"Point"}
+}

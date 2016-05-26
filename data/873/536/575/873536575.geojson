@@ -1,0 +1,75 @@
+{
+  "id": 873536575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.49679,46.976339,-100.49679,46.976339",
+    "geom:latitude":46.976339,
+    "geom:longitude":-100.49679,
+    "iso:country":"US",
+    "sg:address":"15701 184th St NE",
+    "sg:city":"Menoken",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 673 3291",
+    "sg:postcode":"58558",
+    "sg:province":"ND",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AyMqvn5DbaBxEQgS4s6pe_46.976339_-100.496790@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294221,
+    "wof:geomhash":"0834f3c16877b4f3a00e6431e72639df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873536575
+        }
+    ],
+    "wof:id":873536575,
+    "wof:lastmodified":1464294221,
+    "wof:name":"Donald McCormick Trucking",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -100.49679,
+    46.976339,
+    -100.49679,
+    46.976339
+],
+  "geometry": {"coordinates":[-100.49679,46.976339],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 873545383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.300799,48.236732,-101.300799,48.236732",
+    "geom:latitude":48.236732,
+    "geom:longitude":-101.300799,
+    "iso:country":"US",
+    "sg:address":"23 5th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 0587",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "tackle",
+        "parts",
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ljtRTf64zjH1j1jmPQH97_48.236732_-101.300799@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294320,
+    "wof:geomhash":"d2cfb25b1a231ef34944794b020cfab0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873545383
+        }
+    ],
+    "wof:id":873545383,
+    "wof:lastmodified":1464294320,
+    "wof:name":"Dave's Rod & Reel Repair",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tackle",
+        "parts",
+        "fishing"
+    ]
+},
+  "bbox": [
+    -101.300799,
+    48.236732,
+    -101.300799,
+    48.236732
+],
+  "geometry": {"coordinates":[-101.300799,48.236732],"type":"Point"}
+}

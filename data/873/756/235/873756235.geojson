@@ -1,0 +1,77 @@
+{
+  "id": 873756235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.804089,46.871478,-96.804089,46.871478",
+    "geom:latitude":46.871478,
+    "geom:longitude":-96.804089,
+    "iso:country":"US",
+    "sg:address":"315 15th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 541 2412",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "personal",
+        "trainer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UoRHDa3JrxV766wEhLHZJ_46.871478_-96.804089@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297160,
+    "wof:geomhash":"9b48066745d9e3dca87f4de46d3795cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873756235
+        }
+    ],
+    "wof:id":873756235,
+    "wof:lastmodified":1464297160,
+    "wof:name":"Fitness On The Go",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "trainer"
+    ]
+},
+  "bbox": [
+    -96.804089,
+    46.871478,
+    -96.804089,
+    46.871478
+],
+  "geometry": {"coordinates":[-96.804089,46.871478],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873657835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.316021,48.225504,-101.316021,48.225504",
+    "geom:latitude":48.225504,
+    "geom:longitude":-101.316021,
+    "iso:country":"US",
+    "sg:address":"1515 Burdick Expy W",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 0568",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56y6QRvsE2N0E0FFIbhzH9_48.225504_-101.316021@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295676,
+    "wof:geomhash":"24f7609fd7a67cd25fca92e0d84c860f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873657835
+        }
+    ],
+    "wof:id":873657835,
+    "wof:lastmodified":1464295676,
+    "wof:name":"Agsco",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.316021,
+    48.225504,
+    -101.316021,
+    48.225504
+],
+  "geometry": {"coordinates":[-101.31602100000001,48.225504],"type":"Point"}
+}

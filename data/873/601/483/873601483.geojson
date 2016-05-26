@@ -1,0 +1,73 @@
+{
+  "id": 873601483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.066638,47.900205,-97.066638,47.900205",
+    "geom:latitude":47.900205,
+    "geom:longitude":-97.066638,
+    "iso:country":"US",
+    "sg:address":"2100 S Columbia Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 787 5628",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "communication",
+        "radiotelephone"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lzUYoBgKysahFUqVsGxQ3_47.900205_-97.066638@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295003,
+    "wof:geomhash":"b4dc04c132d13ce0a93559da637f56c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873601483
+        }
+    ],
+    "wof:id":873601483,
+    "wof:lastmodified":1464295003,
+    "wof:name":"Cellular 2000/Keypage",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication",
+        "radiotelephone"
+    ]
+},
+  "bbox": [
+    -97.066638,
+    47.900205,
+    -97.066638,
+    47.900205
+],
+  "geometry": {"coordinates":[-97.066638,47.900205],"type":"Point"}
+}

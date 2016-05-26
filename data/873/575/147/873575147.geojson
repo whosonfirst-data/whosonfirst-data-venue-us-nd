@@ -1,0 +1,75 @@
+{
+  "id": 873575147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.777451,46.916912,-96.777451,46.916912",
+    "geom:latitude":46.916912,
+    "geom:longitude":-96.777451,
+    "iso:country":"US",
+    "sg:address":"95 Forest Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 0440",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877353,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ukSrktXMNJ6vamrsLoOQt_46.916912_-96.777451@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294666,
+    "wof:geomhash":"323de810eb1e0c67b3916f7e0de15dd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877353,
+            "region_id":85688525,
+            "venue_id":873575147
+        }
+    ],
+    "wof:id":873575147,
+    "wof:lastmodified":1464294666,
+    "wof:name":"Edgewood Untd Mthdst Parsonage",
+    "wof:parent_id":85877353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -96.777451,
+    46.916912,
+    -96.777451,
+    46.916912
+],
+  "geometry": {"coordinates":[-96.777451,46.916912],"type":"Point"}
+}

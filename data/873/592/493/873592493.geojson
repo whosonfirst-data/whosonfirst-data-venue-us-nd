@@ -1,0 +1,71 @@
+{
+  "id": 873592493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.066573,47.893344,-97.066573,47.893344",
+    "geom:latitude":47.893344,
+    "geom:longitude":-97.066573,
+    "iso:country":"US",
+    "sg:address":"2701 S Columbia Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 7100",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Y4hS8NLrNMMxepFIPBCeD_47.893344_-97.066573@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294864,
+    "wof:geomhash":"7c2ae1691c6fb1d9a0daefc2a03ecffc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873592493
+        }
+    ],
+    "wof:id":873592493,
+    "wof:lastmodified":1464294864,
+    "wof:name":"N D Board Of Accounting & CPA",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -97.066573,
+    47.893344,
+    -97.066573,
+    47.893344
+],
+  "geometry": {"coordinates":[-97.06657300000001,47.893344],"type":"Point"}
+}

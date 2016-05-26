@@ -1,0 +1,74 @@
+{
+  "id": 873602917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.778589,46.80408,-100.778589,46.80408",
+    "geom:latitude":46.80408,
+    "geom:longitude":-100.778589,
+    "iso:country":"US",
+    "sg:address":"801 E Front Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 4903",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "refrigerator",
+        "freezer"
+    ],
+    "sg:website":"www.galarson.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30b3rk9PZWFy3eVs5BVp0v_46.804080_-100.778589@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295018,
+    "wof:geomhash":"09d5a2796a90640ebe51d83141635a02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873602917
+        }
+    ],
+    "wof:id":873602917,
+    "wof:lastmodified":1464295018,
+    "wof:name":"Gustave A Larson",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigerator",
+        "freezer"
+    ]
+},
+  "bbox": [
+    -100.778589,
+    46.80408,
+    -100.778589,
+    46.80408
+],
+  "geometry": {"coordinates":[-100.778589,46.80408],"type":"Point"}
+}

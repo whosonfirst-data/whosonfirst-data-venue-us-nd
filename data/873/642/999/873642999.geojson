@@ -1,0 +1,71 @@
+{
+  "id": 873642999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.370744,46.822475,-100.370744,46.822475",
+    "geom:latitude":46.822475,
+    "geom:longitude":-100.370744,
+    "iso:country":"US",
+    "sg:address":"26401 Co Hwy 10",
+    "sg:city":"Sterling",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 673 3140",
+    "sg:postcode":"58572",
+    "sg:province":"ND",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bMraDi7uWrqzfasWIocgB_46.822475_-100.370744@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295511,
+    "wof:geomhash":"137491ce40dfe6ae6aab0a35d66f5a03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873642999
+        }
+    ],
+    "wof:id":873642999,
+    "wof:lastmodified":1464295511,
+    "wof:name":"Lucille L Burke Family Lia",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -100.370744,
+    46.822475,
+    -100.370744,
+    46.822475
+],
+  "geometry": {"coordinates":[-100.370744,46.822475],"type":"Point"}
+}

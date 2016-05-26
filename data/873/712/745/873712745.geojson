@@ -1,0 +1,71 @@
+{
+  "id": 873712745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.731215,46.821966,-100.731215,46.821966",
+    "geom:latitude":46.821966,
+    "geom:longitude":-100.731215,
+    "iso:country":"US",
+    "sg:address":"1600 Industrial Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 4030",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iPgEnLiZdlNvNuNbt3pCW_46.821966_-100.731215@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296553,
+    "wof:geomhash":"bcb062b13453c0ea86c74bf79e45b591",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873712745
+        }
+    ],
+    "wof:id":873712745,
+    "wof:lastmodified":1464296553,
+    "wof:name":"Sweeney Brothers",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment"
+    ]
+},
+  "bbox": [
+    -100.731215,
+    46.821966,
+    -100.731215,
+    46.821966
+],
+  "geometry": {"coordinates":[-100.73121500000001,46.821966],"type":"Point"}
+}

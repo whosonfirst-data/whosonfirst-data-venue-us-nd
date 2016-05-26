@@ -1,0 +1,77 @@
+{
+  "id": 873736117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.85331,46.861813,-96.85331,46.861813",
+    "geom:latitude":46.861813,
+    "geom:longitude":-96.85331,
+    "iso:country":"US",
+    "sg:address":"4325 13th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 277 5884",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "sewing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ihtjArGnx6dXlvqsEZMG9_46.861813_-96.853310@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296872,
+    "wof:geomhash":"48f367033416ce3ef43a3b6da9bd761e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873736117
+        }
+    ],
+    "wof:id":873736117,
+    "wof:lastmodified":1464296872,
+    "wof:name":"R B Sewing Ctr",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sewing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.85331,
+    46.861813,
+    -96.85331,
+    46.861813
+],
+  "geometry": {"coordinates":[-96.85330999999999,46.861813],"type":"Point"}
+}

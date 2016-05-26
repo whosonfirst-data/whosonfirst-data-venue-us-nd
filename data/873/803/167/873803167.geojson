@@ -1,0 +1,71 @@
+{
+  "id": 873803167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.83773,46.859909,-96.83773,46.859909",
+    "geom:latitude":46.859909,
+    "geom:longitude":-96.83773,
+    "iso:country":"US",
+    "sg:address":"1401 35th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 424 6423",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:website":"http://www.econolodge.com/hotel-fargo-north_dakota-ND008?promo=yplocal",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YKGhhX2BYoYVE5C1U97ml_46.859909_-96.837730@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297811,
+    "wof:geomhash":"647c7bf58343d4749b84922095fb1534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873803167
+        }
+    ],
+    "wof:id":873803167,
+    "wof:lastmodified":1464297811,
+    "wof:name":"Econo Lodge Fargo",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.83773,
+    46.859909,
+    -96.83773,
+    46.859909
+],
+  "geometry": {"coordinates":[-96.83772999999999,46.859909],"type":"Point"}
+}

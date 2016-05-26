@@ -1,0 +1,71 @@
+{
+  "id": 873782183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.035697,47.906466,-97.035697,47.906466",
+    "geom:latitude":47.906466,
+    "geom:longitude":-97.035697,
+    "iso:country":"US",
+    "sg:address":"616 15th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 2035",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KX3wgo58sYlRC9Nl75YB4_47.906466_-97.035697@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297520,
+    "wof:geomhash":"d0846c3ede793194f4900942194a400c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873782183
+        }
+    ],
+    "wof:id":873782183,
+    "wof:lastmodified":1464297520,
+    "wof:name":"Service Master Of Greater",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -97.035697,
+    47.906466,
+    -97.035697,
+    47.906466
+],
+  "geometry": {"coordinates":[-97.035697,47.906466],"type":"Point"}
+}

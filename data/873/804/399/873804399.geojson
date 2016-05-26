@@ -1,0 +1,80 @@
+{
+  "id": 873804399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.830316,46.865588,-96.830316,46.865588",
+    "geom:latitude":46.865588,
+    "geom:longitude":-96.830316,
+    "iso:country":"US",
+    "sg:address":"3209 Fiechtner Dr S #6",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 8095",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "payroll",
+        "public",
+        "accountants-certified"
+    ],
+    "sg:website":"http://www.andersonfercho.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05myfUYW77R5zLxeHAIps6_46.865588_-96.830316@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297827,
+    "wof:geomhash":"1b6fabcd9ef71710ad56a776234bf0ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873804399
+        }
+    ],
+    "wof:id":873804399,
+    "wof:lastmodified":1464297827,
+    "wof:name":"Anderson & Fercho PLLC",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "payroll",
+        "public",
+        "accountants-certified"
+    ]
+},
+  "bbox": [
+    -96.830316,
+    46.865588,
+    -96.830316,
+    46.865588
+],
+  "geometry": {"coordinates":[-96.830316,46.865588],"type":"Point"}
+}

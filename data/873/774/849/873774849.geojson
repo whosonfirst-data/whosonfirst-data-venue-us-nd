@@ -1,0 +1,71 @@
+{
+  "id": 873774849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.772461,46.809356,-100.772461,46.809356",
+    "geom:latitude":46.809356,
+    "geom:longitude":-100.772461,
+    "iso:country":"US",
+    "sg:address":"508 N 13th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 9789",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RFIfYCAKT9HM1MxS7tDiO_46.809356_-100.772461@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297424,
+    "wof:geomhash":"89b9ab0a7ddf7acadc32d5a8760de2e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873774849
+        }
+    ],
+    "wof:id":873774849,
+    "wof:lastmodified":1464297424,
+    "wof:name":"Jim Fetter Masonry Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.772461,
+    46.809356,
+    -100.772461,
+    46.809356
+],
+  "geometry": {"coordinates":[-100.77246100000001,46.809356],"type":"Point"}
+}

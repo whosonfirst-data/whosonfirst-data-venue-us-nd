@@ -1,0 +1,75 @@
+{
+  "id": 873704311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.05945,47.932219,-97.05945,47.932219",
+    "geom:latitude":47.932219,
+    "geom:longitude":-97.05945,
+    "iso:country":"US",
+    "sg:address":"2014 13th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 2523",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "residential",
+        "commercial",
+        "remodeling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78tRE9C4iAPmqVoHpwfePL_47.932219_-97.059450@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296448,
+    "wof:geomhash":"3528d2c347bba6e16cbe6ec0cba8fc70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873704311
+        }
+    ],
+    "wof:id":873704311,
+    "wof:lastmodified":1464296448,
+    "wof:name":"Vreeland Remodeling",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "commercial",
+        "remodeling"
+    ]
+},
+  "bbox": [
+    -97.05945,
+    47.932219,
+    -97.05945,
+    47.932219
+],
+  "geometry": {"coordinates":[-97.05945,47.932219],"type":"Point"}
+}

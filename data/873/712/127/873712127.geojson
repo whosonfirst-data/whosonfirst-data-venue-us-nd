@@ -1,0 +1,73 @@
+{
+  "id": 873712127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.781602,46.801853,-100.781602,46.801853",
+    "geom:latitude":46.801853,
+    "geom:longitude":-100.781602,
+    "iso:country":"US",
+    "sg:address":"543 S 7th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 6191",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "return",
+        "filing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mnDOwPM7YGe6P2nyevKAF_46.801853_-100.781602@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296546,
+    "wof:geomhash":"e18a05d811fde707569b3cf55ca2f57a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873712127
+        }
+    ],
+    "wof:id":873712127,
+    "wof:lastmodified":1464296546,
+    "wof:name":"H & R Block Tax Svc",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return",
+        "filing"
+    ]
+},
+  "bbox": [
+    -100.781602,
+    46.801853,
+    -100.781602,
+    46.801853
+],
+  "geometry": {"coordinates":[-100.78160200000001,46.801853],"type":"Point"}
+}

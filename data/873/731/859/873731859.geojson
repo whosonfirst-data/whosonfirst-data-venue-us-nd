@@ -1,0 +1,75 @@
+{
+  "id": 873731859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.303369,48.202905,-101.303369,48.202905",
+    "geom:latitude":48.202905,
+    "geom:longitude":-101.303369,
+    "iso:country":"US",
+    "sg:address":"701 31st Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 4621",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automobile",
+        "stereo",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TvJSu2oh1J7kl9vHVjAuR_48.202905_-101.303369@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296802,
+    "wof:geomhash":"a2e61259df76c12645dc7b439ff53c0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873731859
+        }
+    ],
+    "wof:id":873731859,
+    "wof:lastmodified":1464296802,
+    "wof:name":"Roadsounds Motors",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "stereo",
+        "radio"
+    ]
+},
+  "bbox": [
+    -101.303369,
+    48.202905,
+    -101.303369,
+    48.202905
+],
+  "geometry": {"coordinates":[-101.303369,48.202905],"type":"Point"}
+}

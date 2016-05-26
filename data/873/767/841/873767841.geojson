@@ -1,0 +1,78 @@
+{
+  "id": 873767841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.851041,46.854307,-96.851041,46.854307",
+    "geom:latitude":46.854307,
+    "geom:longitude":-96.851041,
+    "iso:country":"US",
+    "sg:address":"1700 42nd St SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 241 7832",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "processing",
+        "datum"
+    ],
+    "sg:website":"www.interceptcorporation.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CmPlN4E2l0gaazcFpzf9L_46.854307_-96.851041@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297336,
+    "wof:geomhash":"64d6dcbf0ad4d8422c71d013cef07d6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873767841
+        }
+    ],
+    "wof:id":873767841,
+    "wof:lastmodified":1464297336,
+    "wof:name":"Intercept Corp",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "processing",
+        "datum"
+    ]
+},
+  "bbox": [
+    -96.851041,
+    46.854307,
+    -96.851041,
+    46.854307
+],
+  "geometry": {"coordinates":[-96.851041,46.854307],"type":"Point"}
+}

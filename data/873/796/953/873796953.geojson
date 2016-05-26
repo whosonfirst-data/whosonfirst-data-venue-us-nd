@@ -1,0 +1,84 @@
+{
+  "id": 873796953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.836169,46.861544,-96.836169,46.861544",
+    "geom:latitude":46.861544,
+    "geom:longitude":-96.836169,
+    "iso:country":"US",
+    "sg:address":"3402 13th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/fargo/11757-erbert-and-gerberts-subs/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 3445",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kT0Jse8XBELCmwrqQwzf5_46.861544_-96.836169@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297737,
+    "wof:geomhash":"1ceafcda38105abbb1e458d5ed449136",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873796953
+        }
+    ],
+    "wof:id":873796953,
+    "wof:lastmodified":1464297737,
+    "wof:name":"Erbert and Gerbert's Subs",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ]
+},
+  "bbox": [
+    -96.836169,
+    46.861544,
+    -96.836169,
+    46.861544
+],
+  "geometry": {"coordinates":[-96.836169,46.861544],"type":"Point"}
+}

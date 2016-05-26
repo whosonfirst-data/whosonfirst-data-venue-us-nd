@@ -1,0 +1,75 @@
+{
+  "id": 873728895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.696969,46.873343,-100.696969,46.873343",
+    "geom:latitude":46.873343,
+    "geom:longitude":-100.696969,
+    "iso:country":"US",
+    "sg:address":"6100 Rocky Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 6867",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "control",
+        "security",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jvoqm5FfhbcMWh6vLDyFQ_46.873343_-100.696969@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296766,
+    "wof:geomhash":"525559c811f0574f2641b3589a60384d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873728895
+        }
+    ],
+    "wof:id":873728895,
+    "wof:lastmodified":1464296766,
+    "wof:name":"Midwest Investigation & Sec",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "security",
+        "system"
+    ]
+},
+  "bbox": [
+    -100.696969,
+    46.873343,
+    -100.696969,
+    46.873343
+],
+  "geometry": {"coordinates":[-100.696969,46.873343],"type":"Point"}
+}

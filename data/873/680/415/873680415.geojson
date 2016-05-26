@@ -1,0 +1,82 @@
+{
+  "id": 873680415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.801866,46.873906,-96.801866,46.873906",
+    "geom:latitude":46.873906,
+    "geom:longitude":-96.801866,
+    "iso:country":"US",
+    "sg:address":"1402 1st Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 1345",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "lawn",
+        "mower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nvpqT1IvAgViXUGQBw2aU_46.873906_-96.801866@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296007,
+    "wof:geomhash":"795ed023bc8c2110edf063ecbcd6efb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873680415
+        }
+    ],
+    "wof:id":873680415,
+    "wof:lastmodified":1464296007,
+    "wof:name":"F M Lawn Equipment",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "mower"
+    ]
+},
+  "bbox": [
+    -96.801866,
+    46.873906,
+    -96.801866,
+    46.873906
+],
+  "geometry": {"coordinates":[-96.801866,46.873906],"type":"Point"}
+}

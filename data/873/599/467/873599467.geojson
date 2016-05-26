@@ -1,0 +1,75 @@
+{
+  "id": 873599467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.216191,47.191457,-97.216191,47.191457",
+    "geom:latitude":47.191457,
+    "geom:longitude":-97.216191,
+    "iso:country":"US",
+    "sg:address":"315 1st St E",
+    "sg:city":"Hunter",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 874 2398",
+    "sg:postcode":"58048",
+    "sg:province":"ND",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_174WBVIK80pXjCNw5a65hb_47.191457_-97.216191@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294982,
+    "wof:geomhash":"6578c40ed702337e480426df4f7db076",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873599467
+        }
+    ],
+    "wof:id":873599467,
+    "wof:lastmodified":1464294982,
+    "wof:name":"Steve Petersen Cnstr LLC",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -97.216191,
+    47.191457,
+    -97.216191,
+    47.191457
+],
+  "geometry": {"coordinates":[-97.21619099999999,47.191457],"type":"Point"}
+}

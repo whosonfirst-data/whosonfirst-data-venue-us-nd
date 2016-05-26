@@ -1,0 +1,75 @@
+{
+  "id": 873580837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.837804,46.814866,-96.837804,46.814866",
+    "geom:latitude":46.814866,
+    "geom:longitude":-96.837804,
+    "iso:country":"US",
+    "sg:address":"3403 43rd Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 5375",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "drafting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877333,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20q4gcztC3b02Gkv58dNMy_46.814866_-96.837804@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294731,
+    "wof:geomhash":"a6e7a8bf1eaeda00ea638204a1965348",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877333,
+            "region_id":85688525,
+            "venue_id":873580837
+        }
+    ],
+    "wof:id":873580837,
+    "wof:lastmodified":1464294731,
+    "wof:name":"David King",
+    "wof:parent_id":85877333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drafting"
+    ]
+},
+  "bbox": [
+    -96.837804,
+    46.814866,
+    -96.837804,
+    46.814866
+],
+  "geometry": {"coordinates":[-96.83780400000001,46.814866],"type":"Point"}
+}

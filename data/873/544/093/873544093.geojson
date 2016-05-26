@@ -1,0 +1,77 @@
+{
+  "id": 873544093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.289792,48.229923,-101.289792,48.229923",
+    "geom:latitude":48.229923,
+    "geom:longitude":-101.289792,
+    "iso:country":"US",
+    "sg:address":"203 7th Ave SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 2325",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "building",
+        "ope",
+        "apartment",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0D8Of5lFWFbzhUweCOKyxx_48.229923_-101.289792@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294307,
+    "wof:geomhash":"0baaf001ffb773754153fd04bd952442",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873544093
+        }
+    ],
+    "wof:id":873544093,
+    "wof:lastmodified":1464294307,
+    "wof:name":"Ellison Realty Co",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "ope",
+        "apartment",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -101.289792,
+    48.229923,
+    -101.289792,
+    48.229923
+],
+  "geometry": {"coordinates":[-101.28979200000001,48.229923],"type":"Point"}
+}

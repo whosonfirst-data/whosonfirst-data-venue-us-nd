@@ -1,0 +1,71 @@
+{
+  "id": 873583149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.201696,47.9331,-97.201696,47.9331",
+    "geom:latitude":47.9331,
+    "geom:longitude":-97.201696,
+    "iso:country":"US",
+    "sg:address":"1726 US Hwy 2",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 1726",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "steel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7G0J2ZBuJuM5zsFsBodkih_47.933100_-97.201696@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294753,
+    "wof:geomhash":"ef3a0e8739dff3fa6ab4a7955bbc8b50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873583149
+        }
+    ],
+    "wof:id":873583149,
+    "wof:lastmodified":1464294753,
+    "wof:name":"Pribbs Steel & Mfg",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel"
+    ]
+},
+  "bbox": [
+    -97.201696,
+    47.9331,
+    -97.201696,
+    47.9331
+],
+  "geometry": {"coordinates":[-97.201696,47.9331],"type":"Point"}
+}

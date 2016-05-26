@@ -1,0 +1,73 @@
+{
+  "id": 873628745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.030212,47.906613,-97.030212,47.906613",
+    "geom:latitude":47.906613,
+    "geom:longitude":-97.030212,
+    "iso:country":"US",
+    "sg:address":"1319 Chestnut St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 7147",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automobile",
+        "customizing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wAvI70phKqE1xf3xwNWjP_47.906613_-97.030212@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295347,
+    "wof:geomhash":"32dcbdc60e3db5570114c23ba6d3dbf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873628745
+        }
+    ],
+    "wof:id":873628745,
+    "wof:lastmodified":1464295347,
+    "wof:name":"Auto Authorities",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "customizing"
+    ]
+},
+  "bbox": [
+    -97.030212,
+    47.906613,
+    -97.030212,
+    47.906613
+],
+  "geometry": {"coordinates":[-97.03021200000001,47.906613],"type":"Point"}
+}

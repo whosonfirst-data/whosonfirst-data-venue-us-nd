@@ -1,0 +1,78 @@
+{
+  "id": 873679355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.083222,47.890958,-97.083222,47.890958",
+    "geom:latitude":47.890958,
+    "geom:longitude":-97.083222,
+    "iso:country":"US",
+    "sg:address":"3000 S 38th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 8180",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "commercial",
+        "storage",
+        "special",
+        "general"
+    ],
+    "sg:website":"www.allreasons.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZKvRlU31Kv6CFA1UldjWV_47.890958_-97.083222@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295977,
+    "wof:geomhash":"3a7b9c18ad20964154d7d0a1f35fe194",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873679355
+        }
+    ],
+    "wof:id":873679355,
+    "wof:lastmodified":1464295977,
+    "wof:name":"All Reasons Self Storage Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage",
+        "special",
+        "general"
+    ]
+},
+  "bbox": [
+    -97.083222,
+    47.890958,
+    -97.083222,
+    47.890958
+],
+  "geometry": {"coordinates":[-97.08322200000001,47.890958],"type":"Point"}
+}

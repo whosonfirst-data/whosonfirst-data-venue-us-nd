@@ -1,0 +1,66 @@
+{
+  "id": 873578201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.755885,46.804187,-100.755885,46.804187",
+    "geom:latitude":46.804187,
+    "geom:longitude":-100.755885,
+    "iso:country":"US",
+    "sg:address":"112 S 24th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 7777",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aLOmMKL0gXCTJmwGqQOM3_46.804187_-100.755885@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294696,
+    "wof:geomhash":"27a0d9fa7ed3a28f88cf44f4dbdbddc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873578201
+        }
+    ],
+    "wof:id":873578201,
+    "wof:lastmodified":1464294696,
+    "wof:name":"Bismarck Telco Federal Cr Un",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.755885,
+    46.804187,
+    -100.755885,
+    46.804187
+],
+  "geometry": {"coordinates":[-100.75588500000001,46.804187],"type":"Point"}
+}

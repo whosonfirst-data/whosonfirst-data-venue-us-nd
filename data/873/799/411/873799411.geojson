@@ -1,0 +1,75 @@
+{
+  "id": 873799411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.029934,47.049775,-97.029934,47.049775",
+    "geom:latitude":47.049775,
+    "geom:longitude":-97.029934,
+    "iso:country":"US",
+    "sg:address":"16388 25th St SE",
+    "sg:city":"Argusville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 484 5598",
+    "sg:postcode":"58005",
+    "sg:province":"ND",
+    "sg:tags":[
+        "bean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LkWkMEyzsAdXd7Tkq2BoV_47.049775_-97.029934@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297766,
+    "wof:geomhash":"fe39026987c713b0a65692c61b69f402",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873799411
+        }
+    ],
+    "wof:id":873799411,
+    "wof:lastmodified":1464297766,
+    "wof:name":"Glen W Hagemeister",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bean"
+    ]
+},
+  "bbox": [
+    -97.029934,
+    47.049775,
+    -97.029934,
+    47.049775
+],
+  "geometry": {"coordinates":[-97.029934,47.049775],"type":"Point"}
+}

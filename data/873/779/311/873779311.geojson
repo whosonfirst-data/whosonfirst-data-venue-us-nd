@@ -1,0 +1,73 @@
+{
+  "id": 873779311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.301236,48.241436,-101.301236,48.241436",
+    "geom:latitude":48.241436,
+    "geom:longitude":-101.301236,
+    "iso:country":"US",
+    "sg:address":"426 5th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 1120",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BwSF0wvKkhDmu48P558sq_48.241436_-101.301236@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297480,
+    "wof:geomhash":"07d9c8f335d8e55654a5d991607e12b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873779311
+        }
+    ],
+    "wof:id":873779311,
+    "wof:lastmodified":1464297480,
+    "wof:name":"Hoskin Construction",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.301236,
+    48.241436,
+    -101.301236,
+    48.241436
+],
+  "geometry": {"coordinates":[-101.301236,48.241436],"type":"Point"}
+}

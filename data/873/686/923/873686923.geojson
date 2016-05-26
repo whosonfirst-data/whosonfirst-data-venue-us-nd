@@ -1,0 +1,73 @@
+{
+  "id": 873686923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.310831,48.250252,-101.310831,48.250252",
+    "geom:latitude":48.250252,
+    "geom:longitude":-101.310831,
+    "iso:country":"US",
+    "sg:address":"8 Moraine Pt",
+    "sg:city":"Mandaree",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 759 3366",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "tackle",
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5URlOJUwDsNOdf0OfLsmKP_48.250252_-101.310831@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296190,
+    "wof:geomhash":"944e7f410c4ae45792d91b06f1bf8a3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873686923
+        }
+    ],
+    "wof:id":873686923,
+    "wof:lastmodified":1464296190,
+    "wof:name":"Mc Kenzie Bay Marina",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tackle",
+        "fishing"
+    ]
+},
+  "bbox": [
+    -101.310831,
+    48.250252,
+    -101.310831,
+    48.250252
+],
+  "geometry": {"coordinates":[-101.31083099999999,48.250252],"type":"Point"}
+}

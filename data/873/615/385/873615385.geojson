@@ -1,0 +1,73 @@
+{
+  "id": 873615385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.227714,48.22909,-101.227714,48.22909",
+    "geom:latitude":48.22909,
+    "geom:longitude":-101.227714,
+    "iso:country":"US",
+    "sg:address":"4320 Burdick Expy E",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 837 6446",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shop",
+        "consignment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dKEH3sE1yFEDIbZwcB4TA_48.229090_-101.227714@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295199,
+    "wof:geomhash":"eb4fa1ef0cf75a8c58f4de03a28e4083",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873615385
+        }
+    ],
+    "wof:id":873615385,
+    "wof:lastmodified":1464295199,
+    "wof:name":"Ducks In A Row Rummage Barn",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "consignment"
+    ]
+},
+  "bbox": [
+    -101.227714,
+    48.22909,
+    -101.227714,
+    48.22909
+],
+  "geometry": {"coordinates":[-101.22771400000001,48.22909],"type":"Point"}
+}

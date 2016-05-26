@@ -1,0 +1,66 @@
+{
+  "id": 873684673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.736699,48.31529,-101.736699,48.31529",
+    "geom:latitude":48.31529,
+    "geom:longitude":-101.736699,
+    "iso:country":"US",
+    "sg:address":"213 Main St N",
+    "sg:city":"Berthold",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 453 3452",
+    "sg:postcode":"58718",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YKS09lboCQj8bLSq57pmk_48.315290_-101.736699@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296129,
+    "wof:geomhash":"7a23426931c311e9e088bc3b403e6fbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873684673
+        }
+    ],
+    "wof:id":873684673,
+    "wof:lastmodified":1464296129,
+    "wof:name":"Tumbleweed Cafe",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.736699,
+    48.31529,
+    -101.736699,
+    48.31529
+],
+  "geometry": {"coordinates":[-101.736699,48.31529],"type":"Point"}
+}

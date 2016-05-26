@@ -1,0 +1,71 @@
+{
+  "id": 873535661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.84033,46.815544,-96.84033,46.815544",
+    "geom:latitude":46.815544,
+    "geom:longitude":-96.84033,
+    "iso:country":"US",
+    "sg:address":"4141 38th St SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 356 6400",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1f1PRNkRt6D1ZEdLiXd5Zz_46.815544_-96.840330@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294211,
+    "wof:geomhash":"51f2fe04512594c98912da7fe063ee7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873535661
+        }
+    ],
+    "wof:id":873535661,
+    "wof:lastmodified":1464294211,
+    "wof:name":"Valesco Mortgage",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -96.84033,
+    46.815544,
+    -96.84033,
+    46.815544
+],
+  "geometry": {"coordinates":[-96.84032999999999,46.815544],"type":"Point"}
+}

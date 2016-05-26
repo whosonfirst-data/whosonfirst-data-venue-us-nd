@@ -1,0 +1,75 @@
+{
+  "id": 873619549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.823726,46.824242,-96.823726,46.824242",
+    "geom:latitude":46.824242,
+    "geom:longitude":-96.823726,
+    "iso:country":"US",
+    "sg:address":"2510 36th Ave SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 1600",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534467,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64SRhw9XtqLaVrLnBTYbRn_46.824242_-96.823726@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295245,
+    "wof:geomhash":"ba543e0aeb2b27fde6856fddc2237f5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534467,
+            "region_id":85688525,
+            "venue_id":873619549
+        }
+    ],
+    "wof:id":873619549,
+    "wof:lastmodified":1464295245,
+    "wof:name":"Stonebridge Apartments",
+    "wof:parent_id":420534467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.823726,
+    46.824242,
+    -96.823726,
+    46.824242
+],
+  "geometry": {"coordinates":[-96.82372599999999,46.824242],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 873546155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.048226,47.874983,-97.048226,47.874983",
+    "geom:latitude":47.874983,
+    "geom:longitude":-97.048226,
+    "iso:country":"US",
+    "sg:address":"1550 47th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 6691",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "communications",
+        "radiotelephone"
+    ],
+    "sg:website":"www.stonesmobileradio.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vGk8qLxjR5V2qWrA1joot_47.874983_-97.048226@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294330,
+    "wof:geomhash":"2c3c49aee4e6ba31baf6262773b97155",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873546155
+        }
+    ],
+    "wof:id":873546155,
+    "wof:lastmodified":1464294330,
+    "wof:name":"Stone's Security Systems Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications",
+        "radiotelephone"
+    ]
+},
+  "bbox": [
+    -97.048226,
+    47.874983,
+    -97.048226,
+    47.874983
+],
+  "geometry": {"coordinates":[-97.048226,47.874983],"type":"Point"}
+}

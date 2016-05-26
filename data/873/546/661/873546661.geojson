@@ -1,0 +1,73 @@
+{
+  "id": 873546661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.312642,48.234606,-101.312642,48.234606",
+    "geom:latitude":48.234606,
+    "geom:longitude":-101.312642,
+    "iso:country":"US",
+    "sg:address":"1225 2nd Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 1886",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05UO8PlGqQQnJKzMV0trNy_48.234606_-101.312642@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294336,
+    "wof:geomhash":"2a47b0ace2068fb1b7c365d6125af1b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873546661
+        }
+    ],
+    "wof:id":873546661,
+    "wof:lastmodified":1464294336,
+    "wof:name":"North Prairie Rural Water Assn",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -101.312642,
+    48.234606,
+    -101.312642,
+    48.234606
+],
+  "geometry": {"coordinates":[-101.312642,48.234606],"type":"Point"}
+}

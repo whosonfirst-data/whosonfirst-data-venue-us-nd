@@ -1,0 +1,73 @@
+{
+  "id": 873690545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.486024,48.15124,-97.486024,48.15124",
+    "geom:latitude":48.15124,
+    "geom:longitude":-97.486024,
+    "iso:country":"US",
+    "sg:address":"3070 33rd Ave NE",
+    "sg:city":"Johnstown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 869 2864",
+    "sg:postcode":"58235",
+    "sg:province":"ND",
+    "sg:tags":[
+        "breeder",
+        "horse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Wh2XbSTa5oWMdFrnNdwR1_48.151240_-97.486024@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296288,
+    "wof:geomhash":"0b205e96ebf41989d55f552a44441aed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873690545
+        }
+    ],
+    "wof:id":873690545,
+    "wof:lastmodified":1464296288,
+    "wof:name":"Skogen's Arabians",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breeder",
+        "horse"
+    ]
+},
+  "bbox": [
+    -97.486024,
+    48.15124,
+    -97.486024,
+    48.15124
+],
+  "geometry": {"coordinates":[-97.486024,48.15124],"type":"Point"}
+}

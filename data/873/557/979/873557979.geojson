@@ -1,0 +1,71 @@
+{
+  "id": 873557979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.786181,46.807331,-100.786181,46.807331",
+    "geom:latitude":46.807331,
+    "geom:longitude":-100.786181,
+    "iso:country":"US",
+    "sg:address":"220 N 4th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 5300",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4popKnQc4C3cUp2rBQmTBf_46.807331_-100.786181@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294471,
+    "wof:geomhash":"e18b286bce00da4fece518763fd77ce2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873557979
+        }
+    ],
+    "wof:id":873557979,
+    "wof:lastmodified":1464294471,
+    "wof:name":"Wheeler Wolf Law Firm",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -100.786181,
+    46.807331,
+    -100.786181,
+    46.807331
+],
+  "geometry": {"coordinates":[-100.786181,46.807331],"type":"Point"}
+}

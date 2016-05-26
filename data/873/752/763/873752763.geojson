@@ -1,0 +1,75 @@
+{
+  "id": 873752763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.044927,47.935089,-97.044927,47.935089",
+    "geom:latitude":47.935089,
+    "geom:longitude":-97.044927,
+    "iso:country":"US",
+    "sg:address":"1501 N 3rd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 256 2915",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "craft",
+        "gallery",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5i3H0VyjHcj2hcUpgoD5R1_47.935089_-97.044927@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297115,
+    "wof:geomhash":"13234eb1ce86d6743dc3281e90f746e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873752763
+        }
+    ],
+    "wof:id":873752763,
+    "wof:lastmodified":1464297115,
+    "wof:name":"Dresden Dreams",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "craft",
+        "gallery",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -97.044927,
+    47.935089,
+    -97.044927,
+    47.935089
+],
+  "geometry": {"coordinates":[-97.044927,47.935089],"type":"Point"}
+}

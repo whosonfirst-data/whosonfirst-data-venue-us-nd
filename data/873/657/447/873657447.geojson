@@ -1,0 +1,66 @@
+{
+  "id": 873657447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.288816,46.821229,-100.288816,46.821229",
+    "geom:latitude":46.821229,
+    "geom:longitude":-100.288816,
+    "iso:country":"US",
+    "sg:address":"1412 US Hwy 83",
+    "sg:city":"Coleharbor",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 337 5513",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QSeoFBv4iw8b8VBvof1aF_46.821229_-100.288816@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295672,
+    "wof:geomhash":"53244d494299ff3e40acb6d4497c5d35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873657447
+        }
+    ],
+    "wof:id":873657447,
+    "wof:lastmodified":1464295672,
+    "wof:name":"Totten Trail",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.288816,
+    46.821229,
+    -100.288816,
+    46.821229
+],
+  "geometry": {"coordinates":[-100.288816,46.821229],"type":"Point"}
+}

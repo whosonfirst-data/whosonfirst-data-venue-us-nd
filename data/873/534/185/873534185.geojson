@@ -1,0 +1,73 @@
+{
+  "id": 873534185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.72879,48.182371,-101.72879,48.182371",
+    "geom:latitude":48.182371,
+    "geom:longitude":-101.72879,
+    "iso:country":"US",
+    "sg:address":"30203 54th Ave SW",
+    "sg:city":"Berthold",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 453 3577",
+    "sg:postcode":"58718",
+    "sg:province":"ND",
+    "sg:tags":[
+        "animal",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08psH7KZF1iwTEpE80wfgR_48.182371_-101.728790@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294192,
+    "wof:geomhash":"1c0027cb2c076bbb23666a616fc826ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873534185
+        }
+    ],
+    "wof:id":873534185,
+    "wof:lastmodified":1464294192,
+    "wof:name":"Shane Gunderson",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "animal",
+        "general"
+    ]
+},
+  "bbox": [
+    -101.72879,
+    48.182371,
+    -101.72879,
+    48.182371
+],
+  "geometry": {"coordinates":[-101.72879,48.182371],"type":"Point"}
+}

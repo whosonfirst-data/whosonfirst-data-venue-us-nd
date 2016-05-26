@@ -1,0 +1,71 @@
+{
+  "id": 873650083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.882422,46.789684,-96.882422,46.789684",
+    "geom:latitude":46.789684,
+    "geom:longitude":-96.882422,
+    "iso:country":"US",
+    "sg:address":"6005 64th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 277 1860",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cpWLTjfSxwgOf5n8ClR8M_46.789684_-96.882422@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295587,
+    "wof:geomhash":"1979e9017324223dfebd243bc93f49e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873650083
+        }
+    ],
+    "wof:id":873650083,
+    "wof:lastmodified":1464295587,
+    "wof:name":"Joe Hesse Construction",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -96.882422,
+    46.789684,
+    -96.882422,
+    46.789684
+],
+  "geometry": {"coordinates":[-96.88242200000001,46.789684],"type":"Point"}
+}

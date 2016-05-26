@@ -1,0 +1,71 @@
+{
+  "id": 873703749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.039752,47.906354,-97.039752,47.906354",
+    "geom:latitude":47.906354,
+    "geom:longitude":-97.039752,
+    "iso:country":"US",
+    "sg:address":"1422 S 10th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 5662",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "musician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0X0zJuo8gWhcr0EPRBmOGl_47.906354_-97.039752@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296443,
+    "wof:geomhash":"8b0f2a1e6e9667c3844ee3fe02f5f9bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873703749
+        }
+    ],
+    "wof:id":873703749,
+    "wof:lastmodified":1464296443,
+    "wof:name":"Allison J Weisser",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "musician"
+    ]
+},
+  "bbox": [
+    -97.039752,
+    47.906354,
+    -97.039752,
+    47.906354
+],
+  "geometry": {"coordinates":[-97.03975199999999,47.906354],"type":"Point"}
+}

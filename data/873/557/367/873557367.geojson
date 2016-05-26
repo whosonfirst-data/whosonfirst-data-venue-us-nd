@@ -1,0 +1,86 @@
+{
+  "id": 873557367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.769361,46.813997,-100.769361,46.813997",
+    "geom:latitude":46.813997,
+    "geom:longitude":-100.769361,
+    "iso:country":"US",
+    "sg:address":"1402 E Ave E",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 3942",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "installs",
+        "heating",
+        "air",
+        "refrigeration",
+        "conditioner",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2F9TC5jr4EJFvDrD9TQNWW_46.813997_-100.769361@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294464,
+    "wof:geomhash":"7ebb2e4ff6c966d5ad12b0c923964022",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873557367
+        }
+    ],
+    "wof:id":873557367,
+    "wof:lastmodified":1464294464,
+    "wof:name":"J F Refrigeration Heating & AC",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installs",
+        "heating",
+        "air",
+        "refrigeration",
+        "conditioner",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.769361,
+    46.813997,
+    -100.769361,
+    46.813997
+],
+  "geometry": {"coordinates":[-100.769361,46.813997],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873741071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.098907,47.911154,-97.098907,47.911154",
+    "geom:latitude":47.911154,
+    "geom:longitude":-97.098907,
+    "iso:country":"US",
+    "sg:address":"1003 S 48th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 6935",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "underground",
+        "wire",
+        "laying",
+        "cable"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07CrWkGVYhcKkqj6ekKS9W_47.911154_-97.098907@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296938,
+    "wof:geomhash":"433726f1dcdc0f97e9d124bac7bf3f0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873741071
+        }
+    ],
+    "wof:id":873741071,
+    "wof:lastmodified":1464296938,
+    "wof:name":"Rhino Contracting",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "underground",
+        "wire",
+        "laying",
+        "cable"
+    ]
+},
+  "bbox": [
+    -97.098907,
+    47.911154,
+    -97.098907,
+    47.911154
+],
+  "geometry": {"coordinates":[-97.098907,47.911154],"type":"Point"}
+}

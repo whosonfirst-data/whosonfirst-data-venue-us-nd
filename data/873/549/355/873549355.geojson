@@ -1,0 +1,73 @@
+{
+  "id": 873549355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.040004,47.889344,-97.040004,47.889344",
+    "geom:latitude":47.889344,
+    "geom:longitude":-97.040004,
+    "iso:country":"US",
+    "sg:address":"3315 S 10th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 739 4241",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "trailer",
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rvrHRRMqZdLdhGTFlGsEZ_47.889344_-97.040004@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294370,
+    "wof:geomhash":"5cebebaa995b59beafe233720c713ff6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873549355
+        }
+    ],
+    "wof:id":873549355,
+    "wof:lastmodified":1464294370,
+    "wof:name":"Hhh Rentals LLP",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trailer",
+        "utility"
+    ]
+},
+  "bbox": [
+    -97.040004,
+    47.889344,
+    -97.040004,
+    47.889344
+],
+  "geometry": {"coordinates":[-97.040004,47.889344],"type":"Point"}
+}

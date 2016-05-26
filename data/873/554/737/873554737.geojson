@@ -1,0 +1,71 @@
+{
+  "id": 873554737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.004469,46.632124,-97.004469,46.632124",
+    "geom:latitude":46.632124,
+    "geom:longitude":-97.004469,
+    "iso:country":"US",
+    "sg:address":"414 Woodlawn Dr",
+    "sg:city":"Kindred",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Toys & Hobbies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 0388",
+    "sg:postcode":"58051",
+    "sg:province":"ND",
+    "sg:tags":[
+        "firework"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TENvfbD6zZVaQEGGR2ZP8_46.632124_-97.004469@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294432,
+    "wof:geomhash":"7439d71d6b66830196e108a8b7167d60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873554737
+        }
+    ],
+    "wof:id":873554737,
+    "wof:lastmodified":1464294432,
+    "wof:name":"Starr Display Fireworks Inc",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "firework"
+    ]
+},
+  "bbox": [
+    -97.004469,
+    46.632124,
+    -97.004469,
+    46.632124
+],
+  "geometry": {"coordinates":[-97.004469,46.632124],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873616713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.762902,46.796979,-100.762902,46.796979",
+    "geom:latitude":46.796979,
+    "geom:longitude":-100.762902,
+    "iso:country":"US",
+    "sg:address":"722 Airport Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 4867",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "cleaners",
+        "vacuum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76Ea77Il6WOnEOz2edRYbs_46.796979_-100.762902@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295212,
+    "wof:geomhash":"d7b30eab105086345688387a3e53a3b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873616713
+        }
+    ],
+    "wof:id":873616713,
+    "wof:lastmodified":1464295212,
+    "wof:name":"Arus",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "vacuum"
+    ]
+},
+  "bbox": [
+    -100.762902,
+    46.796979,
+    -100.762902,
+    46.796979
+],
+  "geometry": {"coordinates":[-100.762902,46.796979],"type":"Point"}
+}

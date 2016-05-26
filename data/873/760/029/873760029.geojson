@@ -1,0 +1,83 @@
+{
+  "id": 873760029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.259527,48.211137,-101.259527,48.211137",
+    "geom:latitude":48.211137,
+    "geom:longitude":-101.259527,
+    "iso:country":"US",
+    "sg:address":"2125 24th St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 2453",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "sell",
+        "room",
+        "mfg",
+        "upholstered",
+        "dining",
+        "wood",
+        "bedroom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HoHGQcuY3AR1TUkyIpvtm_48.211137_-101.259527@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297207,
+    "wof:geomhash":"cc2547dd12f152c7e93fffd1f8acb454",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873760029
+        }
+    ],
+    "wof:id":873760029,
+    "wof:lastmodified":1464297207,
+    "wof:name":"Dakota Custom Furniture Inc",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sell",
+        "room",
+        "mfg",
+        "upholstered",
+        "dining",
+        "wood",
+        "bedroom"
+    ]
+},
+  "bbox": [
+    -101.259527,
+    48.211137,
+    -101.259527,
+    48.211137
+],
+  "geometry": {"coordinates":[-101.25952700000001,48.211137],"type":"Point"}
+}

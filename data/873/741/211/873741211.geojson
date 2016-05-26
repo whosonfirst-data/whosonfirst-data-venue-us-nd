@@ -1,0 +1,74 @@
+{
+  "id": 873741211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.104187,47.935132,-97.104187,47.935132",
+    "geom:latitude":47.935132,
+    "geom:longitude":-97.104187,
+    "iso:country":"US",
+    "sg:address":"1562 N 52nd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 5495",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "chemical",
+        "agricultural"
+    ],
+    "sg:website":"www.wilburellis.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27kFkarS9BdARBBIzpM63P_47.935132_-97.104187@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296940,
+    "wof:geomhash":"51a175a39b64915373c5c880347ea05e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873741211
+        }
+    ],
+    "wof:id":873741211,
+    "wof:lastmodified":1464296940,
+    "wof:name":"Wilbur Ellis Co",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical",
+        "agricultural"
+    ]
+},
+  "bbox": [
+    -97.104187,
+    47.935132,
+    -97.104187,
+    47.935132
+],
+  "geometry": {"coordinates":[-97.104187,47.935132],"type":"Point"}
+}

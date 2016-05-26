@@ -1,0 +1,71 @@
+{
+  "id": 873614325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.14398,47.141246,-100.14398,47.141246",
+    "geom:latitude":47.141246,
+    "geom:longitude":-100.14398,
+    "iso:country":"US",
+    "sg:address":"40004 State Hwy 36",
+    "sg:city":"Wing",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 943 2666",
+    "sg:postcode":"58494",
+    "sg:province":"ND",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XBD1CKCdUPWqYAfHSAr5b_47.141246_-100.143980@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295188,
+    "wof:geomhash":"36e4eebbc5d189a4c95cfe3798c17121",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873614325
+        }
+    ],
+    "wof:id":873614325,
+    "wof:lastmodified":1464295188,
+    "wof:name":"Arena Welding & Mfg",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -100.14398,
+    47.141246,
+    -100.14398,
+    47.141246
+],
+  "geometry": {"coordinates":[-100.14398,47.141246],"type":"Point"}
+}

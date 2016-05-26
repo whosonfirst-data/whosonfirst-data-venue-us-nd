@@ -1,0 +1,75 @@
+{
+  "id": 873724669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.821947,46.850508,-96.821947,46.850508",
+    "geom:latitude":46.850508,
+    "geom:longitude":-96.821947,
+    "iso:country":"US",
+    "sg:address":"68 Prairiewood Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 241 4484",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420558815,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cJ433dxiGwcW1OIfVwTRS_46.850508_-96.821947@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296708,
+    "wof:geomhash":"62f6cf5bbb5854fee936996249320b66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420558815,
+            "region_id":85688525,
+            "venue_id":873724669
+        }
+    ],
+    "wof:id":873724669,
+    "wof:lastmodified":1464296708,
+    "wof:name":"G & T Plumbing & Heating Inc",
+    "wof:parent_id":420558815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.821947,
+    46.850508,
+    -96.821947,
+    46.850508
+],
+  "geometry": {"coordinates":[-96.82194699999999,46.850508],"type":"Point"}
+}

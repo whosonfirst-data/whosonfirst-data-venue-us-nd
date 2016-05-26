@@ -1,0 +1,75 @@
+{
+  "id": 873744117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.075789,47.914401,-97.075789,47.914401",
+    "geom:latitude":47.914401,
+    "geom:longitude":-97.075789,
+    "iso:country":"US",
+    "sg:address":"815 Duke Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 1278",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "support",
+        "collection",
+        "child"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dhNmV3S9mywHldOtepXrl_47.914401_-97.075789@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296995,
+    "wof:geomhash":"8b02f6bd0effc6a2bdffcdab6d0f61ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873744117
+        }
+    ],
+    "wof:id":873744117,
+    "wof:lastmodified":1464296995,
+    "wof:name":"Childrens Center",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "support",
+        "collection",
+        "child"
+    ]
+},
+  "bbox": [
+    -97.075789,
+    47.914401,
+    -97.075789,
+    47.914401
+],
+  "geometry": {"coordinates":[-97.075789,47.914401],"type":"Point"}
+}

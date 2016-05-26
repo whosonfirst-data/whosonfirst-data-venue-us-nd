@@ -1,0 +1,73 @@
+{
+  "id": 873584529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.057594,47.897446,-97.057594,47.897446",
+    "geom:latitude":47.897446,
+    "geom:longitude":-97.057594,
+    "iso:country":"US",
+    "sg:address":"119 Victoria Ct",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 0000",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EB9P2ay92JjXYmN2gdDkG_47.897446_-97.057594@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294768,
+    "wof:geomhash":"6071bfe1206edb7fa108101d95becd29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873584529
+        }
+    ],
+    "wof:id":873584529,
+    "wof:lastmodified":1464294768,
+    "wof:name":"Blue Star Therapeutic Massage",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -97.057594,
+    47.897446,
+    -97.057594,
+    47.897446
+],
+  "geometry": {"coordinates":[-97.05759399999999,47.897446],"type":"Point"}
+}

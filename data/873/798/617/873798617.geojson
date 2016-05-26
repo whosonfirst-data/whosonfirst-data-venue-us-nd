@@ -1,0 +1,72 @@
+{
+  "id": 873798617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.295954,48.26134,-101.295954,48.26134",
+    "geom:latitude":48.26134,
+    "geom:longitude":-101.295954,
+    "iso:country":"US",
+    "sg:address":"2315 N Broadway",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/minot/235651-sevens-bar--restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 4343",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EJSFlaKJzhP89uUb0XHYG_48.261340_-101.295954@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297757,
+    "wof:geomhash":"28ad421d17674e99e81389bc2addf71b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873798617
+        }
+    ],
+    "wof:id":873798617,
+    "wof:lastmodified":1464297757,
+    "wof:name":"Sevens Bar & Restaurant",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -101.295954,
+    48.26134,
+    -101.295954,
+    48.26134
+],
+  "geometry": {"coordinates":[-101.29595399999999,48.26134],"type":"Point"}
+}

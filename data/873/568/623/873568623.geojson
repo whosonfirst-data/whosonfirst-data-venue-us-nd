@@ -1,0 +1,70 @@
+{
+  "id": 873568623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.798665,46.815465,-100.798665,46.815465",
+    "geom:latitude":46.815465,
+    "geom:longitude":-100.798665,
+    "iso:country":"US",
+    "sg:address":"921 N Anderson St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 1260",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6C3s8ZvMFrOxVktAKYjUxK_46.815465_-100.798665@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294592,
+    "wof:geomhash":"3399a6c4d460a9efc3f0d45a5bc4a6fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873568623
+        }
+    ],
+    "wof:id":873568623,
+    "wof:lastmodified":1464294592,
+    "wof:name":"Hopkins Piano Studio",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.798665,
+    46.815465,
+    -100.798665,
+    46.815465
+],
+  "geometry": {"coordinates":[-100.798665,46.815465],"type":"Point"}
+}

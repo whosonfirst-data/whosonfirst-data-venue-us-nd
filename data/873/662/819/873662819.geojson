@@ -1,0 +1,79 @@
+{
+  "id": 873662819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.81472,46.875885,-96.81472,46.875885",
+    "geom:latitude":46.875885,
+    "geom:longitude":-96.81472,
+    "iso:country":"US",
+    "sg:address":"2111 Main Ave",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 281 2678",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "dictating",
+        "machine",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pkgHB3eLzYAd6K4f2gMGh_46.875885_-96.814720@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295729,
+    "wof:geomhash":"90435b6f3b63e34ce9cba98bde95635a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873662819
+        }
+    ],
+    "wof:id":873662819,
+    "wof:lastmodified":1464295729,
+    "wof:name":"Voulgarakis Electronic Clinic",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dictating",
+        "machine",
+        "supply"
+    ]
+},
+  "bbox": [
+    -96.81472,
+    46.875885,
+    -96.81472,
+    46.875885
+],
+  "geometry": {"coordinates":[-96.81471999999999,46.875885],"type":"Point"}
+}

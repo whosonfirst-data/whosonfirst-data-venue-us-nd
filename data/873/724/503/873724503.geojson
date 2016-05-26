@@ -1,0 +1,77 @@
+{
+  "id": 873724503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.830157,46.871152,-96.830157,46.871152",
+    "geom:latitude":46.871152,
+    "geom:longitude":-96.830157,
+    "iso:country":"US",
+    "sg:address":"3242 4th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 6633",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3e9e676MpmG8Y7hha8naat_46.871152_-96.830157@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296706,
+    "wof:geomhash":"908dca415cdca59c5141af4b6abea298",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873724503
+        }
+    ],
+    "wof:id":873724503,
+    "wof:lastmodified":1464296706,
+    "wof:name":"Paschke Heating & Air Cond",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.830157,
+    46.871152,
+    -96.830157,
+    46.871152
+],
+  "geometry": {"coordinates":[-96.830157,46.871152],"type":"Point"}
+}

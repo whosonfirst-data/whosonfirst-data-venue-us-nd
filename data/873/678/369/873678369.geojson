@@ -1,0 +1,77 @@
+{
+  "id": 873678369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.834173,46.802387,-96.834173,46.802387",
+    "geom:latitude":46.802387,
+    "geom:longitude":-96.834173,
+    "iso:country":"US",
+    "sg:address":"5321 34th St SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 5171",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "steel",
+        "erectors"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877333,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5d4V2hj4QFFxRbMEG0deB7_46.802387_-96.834173@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295950,
+    "wof:geomhash":"8c455ca730afce3eb79f1d145a0df118",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877333,
+            "region_id":85688525,
+            "venue_id":873678369
+        }
+    ],
+    "wof:id":873678369,
+    "wof:lastmodified":1464295950,
+    "wof:name":"Image Building Systems Inc",
+    "wof:parent_id":85877333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "erectors"
+    ]
+},
+  "bbox": [
+    -96.834173,
+    46.802387,
+    -96.834173,
+    46.802387
+],
+  "geometry": {"coordinates":[-96.83417300000001,46.802387],"type":"Point"}
+}

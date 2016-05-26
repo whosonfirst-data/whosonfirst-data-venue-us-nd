@@ -1,0 +1,75 @@
+{
+  "id": 873781889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.798582,46.855389,-96.798582,46.855389",
+    "geom:latitude":46.855389,
+    "geom:longitude":-96.798582,
+    "iso:country":"US",
+    "sg:address":"1623 S University Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 237 5699",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534481,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LI7F4DKG4iJjszYtxwqrw_46.855389_-96.798582@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297517,
+    "wof:geomhash":"a93ae2dcba4e575f1d747d410cba323c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534481,
+            "region_id":85688525,
+            "venue_id":873781889
+        }
+    ],
+    "wof:id":873781889,
+    "wof:lastmodified":1464297517,
+    "wof:name":"Anthony Altobelli Hairstyling",
+    "wof:parent_id":420534481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -96.798582,
+    46.855389,
+    -96.798582,
+    46.855389
+],
+  "geometry": {"coordinates":[-96.798582,46.855389],"type":"Point"}
+}

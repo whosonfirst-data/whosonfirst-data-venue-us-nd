@@ -1,0 +1,66 @@
+{
+  "id": 873732617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.291502,48.237802,-101.291502,48.237802",
+    "geom:latitude":48.237802,
+    "geom:longitude":-101.291502,
+    "iso:country":"US",
+    "sg:address":"19 1st St NE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 7091",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Nv44sCWrzXfKbWCtj49W0_48.237802_-101.291502@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296810,
+    "wof:geomhash":"a80a70f5f98f32372be5254d48fdb201",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873732617
+        }
+    ],
+    "wof:id":873732617,
+    "wof:lastmodified":1464296810,
+    "wof:name":"Railroad Museum",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.291502,
+    48.237802,
+    -101.291502,
+    48.237802
+],
+  "geometry": {"coordinates":[-101.29150199999999,48.237802],"type":"Point"}
+}

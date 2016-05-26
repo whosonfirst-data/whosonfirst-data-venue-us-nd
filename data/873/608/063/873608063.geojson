@@ -1,0 +1,71 @@
+{
+  "id": 873608063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.272175,48.185096,-101.272175,48.185096",
+    "geom:latitude":48.185096,
+    "geom:longitude":-101.272175,
+    "iso:country":"US",
+    "sg:address":"5111 14th St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 8679",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "group"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vYsQDKgNO9lmvZr4VDD0Z_48.185096_-101.272175@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295100,
+    "wof:geomhash":"899d1951c5e148a12cd9e57d76f74290",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873608063
+        }
+    ],
+    "wof:id":873608063,
+    "wof:lastmodified":1464295100,
+    "wof:name":"H & C Disk Jockey",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "group"
+    ]
+},
+  "bbox": [
+    -101.272175,
+    48.185096,
+    -101.272175,
+    48.185096
+],
+  "geometry": {"coordinates":[-101.272175,48.185096],"type":"Point"}
+}

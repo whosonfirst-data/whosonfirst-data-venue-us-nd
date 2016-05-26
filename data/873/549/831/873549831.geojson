@@ -1,0 +1,73 @@
+{
+  "id": 873549831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.452433,47.758841,-97.452433,47.758841",
+    "geom:latitude":47.758841,
+    "geom:longitude":-97.452433,
+    "iso:country":"US",
+    "sg:address":"637 29th St NE",
+    "sg:city":"Northwood",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 587 5073",
+    "sg:postcode":"58267",
+    "sg:province":"ND",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SAlewrtcLoHI3ifr9FV7a_47.758841_-97.452433@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294376,
+    "wof:geomhash":"fe37f0c32bfc296fb4d584238088216d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873549831
+        }
+    ],
+    "wof:id":873549831,
+    "wof:lastmodified":1464294376,
+    "wof:name":"Richard Mandt",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -97.452433,
+    47.758841,
+    -97.452433,
+    47.758841
+],
+  "geometry": {"coordinates":[-97.452433,47.758841],"type":"Point"}
+}

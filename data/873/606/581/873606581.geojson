@@ -1,0 +1,75 @@
+{
+  "id": 873606581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.833486,46.814829,-96.833486,46.814829",
+    "geom:latitude":46.814829,
+    "geom:longitude":-96.833486,
+    "iso:country":"US",
+    "sg:address":"3225 43rd Ave SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 237 5900",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "mail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877333,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3k347dUJF7P5yMKkPlo6aK_46.814829_-96.833486@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295068,
+    "wof:geomhash":"eab9f75754f11dae7e9e8d81d1aa0563",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877333,
+            "region_id":85688525,
+            "venue_id":873606581
+        }
+    ],
+    "wof:id":873606581,
+    "wof:lastmodified":1464295068,
+    "wof:name":"Mailbox Marketing",
+    "wof:parent_id":85877333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail"
+    ]
+},
+  "bbox": [
+    -96.833486,
+    46.814829,
+    -96.833486,
+    46.814829
+],
+  "geometry": {"coordinates":[-96.83348599999999,46.814829],"type":"Point"}
+}

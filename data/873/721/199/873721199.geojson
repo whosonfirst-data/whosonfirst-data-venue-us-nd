@@ -1,0 +1,77 @@
+{
+  "id": 873721199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.069577,47.902974,-97.069577,47.902974",
+    "geom:latitude":47.902974,
+    "geom:longitude":-97.069577,
+    "iso:country":"US",
+    "sg:address":"2100 S 29th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 8053",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "resurfacing",
+        "laying",
+        "refinishing",
+        "floor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pYsGNXLNCueJx6eEQFeju_47.902974_-97.069577@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296665,
+    "wof:geomhash":"36e9388dea20f55f8af1f24658dc13d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873721199
+        }
+    ],
+    "wof:id":873721199,
+    "wof:lastmodified":1464296665,
+    "wof:name":"Dakota Floor Covering Spec",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resurfacing",
+        "laying",
+        "refinishing",
+        "floor"
+    ]
+},
+  "bbox": [
+    -97.069577,
+    47.902974,
+    -97.069577,
+    47.902974
+],
+  "geometry": {"coordinates":[-97.069577,47.902974],"type":"Point"}
+}

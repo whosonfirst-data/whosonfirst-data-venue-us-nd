@@ -1,0 +1,75 @@
+{
+  "id": 873762051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.752413,46.790546,-100.752413,46.790546",
+    "geom:latitude":46.790546,
+    "geom:longitude":-100.752413,
+    "iso:country":"US",
+    "sg:address":"1222 S 26th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 3517",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wxA01qGrXLTPfAVXgXh4T_46.790546_-100.752413@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297238,
+    "wof:geomhash":"ad7c94074feaeacfe1b003d4acef8963",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873762051
+        }
+    ],
+    "wof:id":873762051,
+    "wof:lastmodified":1464297238,
+    "wof:name":"LSI Truck Sales",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -100.752413,
+    46.790546,
+    -100.752413,
+    46.790546
+],
+  "geometry": {"coordinates":[-100.752413,46.790546],"type":"Point"}
+}

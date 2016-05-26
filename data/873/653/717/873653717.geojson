@@ -1,0 +1,75 @@
+{
+  "id": 873653717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.654805,46.770841,-100.654805,46.770841",
+    "geom:latitude":46.770841,
+    "geom:longitude":-100.654805,
+    "iso:country":"US",
+    "sg:address":"8820 Bar-D Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 7847",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "mobile",
+        "house",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CsZKFX2EVysgE1NrIJZ9j_46.770841_-100.654805@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295632,
+    "wof:geomhash":"c476b5eb808e0915f3871d89f752e896",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873653717
+        }
+    ],
+    "wof:id":873653717,
+    "wof:lastmodified":1464295632,
+    "wof:name":"E R VS Mobile Home Service",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "house",
+        "home"
+    ]
+},
+  "bbox": [
+    -100.654805,
+    46.770841,
+    -100.654805,
+    46.770841
+],
+  "geometry": {"coordinates":[-100.654805,46.770841],"type":"Point"}
+}

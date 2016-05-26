@@ -1,0 +1,77 @@
+{
+  "id": 873583365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.775804,46.805242,-100.775804,46.805242",
+    "geom:latitude":46.805242,
+    "geom:longitude":-100.775804,
+    "iso:country":"US",
+    "sg:address":"925 E Main Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 7000",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "designer",
+        "dealer",
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_463gcCLOJGBU1higAC6SDP_46.805242_-100.775804@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294756,
+    "wof:geomhash":"0cb4abdf37094c9ec6234e3ee585b031",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873583365
+        }
+    ],
+    "wof:id":873583365,
+    "wof:lastmodified":1464294756,
+    "wof:name":"Meisner Pool Supply Co",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "designer",
+        "dealer",
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -100.775804,
+    46.805242,
+    -100.775804,
+    46.805242
+],
+  "geometry": {"coordinates":[-100.77580399999999,46.805242],"type":"Point"}
+}

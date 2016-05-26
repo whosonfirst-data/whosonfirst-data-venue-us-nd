@@ -1,0 +1,66 @@
+{
+  "id": 873654611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.252711,48.229862,-101.252711,48.229862",
+    "geom:latitude":48.229862,
+    "geom:longitude":-101.252711,
+    "iso:country":"US",
+    "sg:address":"725 27th St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 8723",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gPXWpZ2zI6kWDUkTEOadb_48.229862_-101.252711@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295642,
+    "wof:geomhash":"e59d6b306f1566db4f6fd495d672768a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873654611
+        }
+    ],
+    "wof:id":873654611,
+    "wof:lastmodified":1464295642,
+    "wof:name":"Express Mart",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.252711,
+    48.229862,
+    -101.252711,
+    48.229862
+],
+  "geometry": {"coordinates":[-101.25271100000001,48.229862],"type":"Point"}
+}

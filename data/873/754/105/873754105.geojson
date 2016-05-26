@@ -1,0 +1,73 @@
+{
+  "id": 873754105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.783326,46.806356,-100.783326,46.806356",
+    "geom:latitude":46.806356,
+    "geom:longitude":-100.783326,
+    "iso:country":"US",
+    "sg:address":"523 E Broadway Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 328 9579",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VHP1IXRBqDFe54yNNLJit_46.806356_-100.783326@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297134,
+    "wof:geomhash":"775cd2d36bb846f76e1725d32534ed16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873754105
+        }
+    ],
+    "wof:id":873754105,
+    "wof:lastmodified":1464297134,
+    "wof:name":"University Of North Dakota",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -100.783326,
+    46.806356,
+    -100.783326,
+    46.806356
+],
+  "geometry": {"coordinates":[-100.783326,46.806356],"type":"Point"}
+}

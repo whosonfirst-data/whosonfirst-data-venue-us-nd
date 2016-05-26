@@ -1,0 +1,69 @@
+{
+  "id": 873794261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.254277,48.429521,-101.254277,48.429521",
+    "geom:latitude":48.429521,
+    "geom:longitude":-101.254277,
+    "iso:country":"US",
+    "sg:address":"2900 184th Ave NE",
+    "sg:city":"Glenburn",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 362 7797",
+    "sg:postcode":"58740",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "field",
+        "crop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JXSSgpkD4vsqSDbg6q8DD_48.429521_-101.254277@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297706,
+    "wof:geomhash":"da04eb445874d517a78f7085dd99fd68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873794261
+        }
+    ],
+    "wof:id":873794261,
+    "wof:lastmodified":1464297706,
+    "wof:name":"Dennis Erber",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "field",
+        "crop"
+    ]
+},
+  "bbox": [
+    -101.254277,
+    48.429521,
+    -101.254277,
+    48.429521
+],
+  "geometry": {"coordinates":[-101.254277,48.429521],"type":"Point"}
+}

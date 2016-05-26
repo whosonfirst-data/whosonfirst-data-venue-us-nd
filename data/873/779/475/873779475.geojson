@@ -1,0 +1,71 @@
+{
+  "id": 873779475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.084502,47.933125,-97.084502,47.933125",
+    "geom:latitude":47.933125,
+    "geom:longitude":-97.084502,
+    "iso:country":"US",
+    "sg:address":"3630 Gateway Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 1637",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6S6MM46bSPPzKCW0vTZQ6b_47.933125_-97.084502@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297483,
+    "wof:geomhash":"37325ab83560f72a37853689dba9d1ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873779475
+        }
+    ],
+    "wof:id":873779475,
+    "wof:lastmodified":1464297483,
+    "wof:name":"Ag World Support Systems",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -97.084502,
+    47.933125,
+    -97.084502,
+    47.933125
+],
+  "geometry": {"coordinates":[-97.084502,47.933125],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873765311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.426228,48.276107,-101.426228,48.276107",
+    "geom:latitude":48.276107,
+    "geom:longitude":-101.426228,
+    "iso:country":"US",
+    "sg:address":"336 Colton Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 7893",
+    "sg:postcode":"58722",
+    "sg:province":"ND",
+    "sg:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BzRoxkvh0gjY1VxUEFU07_48.276107_-101.426228@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297301,
+    "wof:geomhash":"a4baf665dedc9111d0c03c4591fa3fce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873765311
+        }
+    ],
+    "wof:id":873765311,
+    "wof:lastmodified":1464297301,
+    "wof:name":"Terry Grad Flooring Specialist",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.426228,
+    48.276107,
+    -101.426228,
+    48.276107
+],
+  "geometry": {"coordinates":[-101.42622799999999,48.276107],"type":"Point"}
+}

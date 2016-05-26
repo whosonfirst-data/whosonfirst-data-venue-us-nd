@@ -1,0 +1,71 @@
+{
+  "id": 873593731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.033493,47.90086,-97.033493,47.90086",
+    "geom:latitude":47.90086,
+    "geom:longitude":-97.033493,
+    "iso:country":"US",
+    "sg:address":"1812 Cottonwood St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 787 5270",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7g518bcZ1Y6iLQ3wZmEDJ1_47.900860_-97.033493@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294879,
+    "wof:geomhash":"d754485ab7ba0a9d946ecfd8a42b3628",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873593731
+        }
+    ],
+    "wof:id":873593731,
+    "wof:lastmodified":1464294879,
+    "wof:name":"Horizon Environmental Services",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -97.033493,
+    47.90086,
+    -97.033493,
+    47.90086
+],
+  "geometry": {"coordinates":[-97.03349300000001,47.90086],"type":"Point"}
+}

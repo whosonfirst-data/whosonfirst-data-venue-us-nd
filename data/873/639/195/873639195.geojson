@@ -1,0 +1,73 @@
+{
+  "id": 873639195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.903723,46.760349,-96.903723,46.760349",
+    "geom:latitude":46.760349,
+    "geom:longitude":-96.903723,
+    "iso:country":"US",
+    "sg:address":"126 Main St",
+    "sg:city":"Horace",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 2040",
+    "sg:postcode":"58047",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DaAKD9xJitG6peo4Z1Cqb_46.760349_-96.903723@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295465,
+    "wof:geomhash":"2acd09f7096a9173fefe20bb6e619199",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873639195
+        }
+    ],
+    "wof:id":873639195,
+    "wof:lastmodified":1464295465,
+    "wof:name":"Horace Supply",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -96.903723,
+    46.760349,
+    -96.903723,
+    46.760349
+],
+  "geometry": {"coordinates":[-96.903723,46.760349],"type":"Point"}
+}

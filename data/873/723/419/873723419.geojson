@@ -1,0 +1,75 @@
+{
+  "id": 873723419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.09656,47.926363,-97.09656,47.926363",
+    "geom:latitude":47.926363,
+    "geom:longitude":-97.09656,
+    "iso:country":"US",
+    "sg:address":"724 N 47th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 2570",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5g4Hdfz8KmPlBoJzsXlKRW_47.926363_-97.096560@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296692,
+    "wof:geomhash":"74ab0f4aa8d6294fd74abc3fadfe623d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873723419
+        }
+    ],
+    "wof:id":873723419,
+    "wof:lastmodified":1464296692,
+    "wof:name":"Grand Forks Street Dept",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -97.09656,
+    47.926363,
+    -97.09656,
+    47.926363
+],
+  "geometry": {"coordinates":[-97.09656,47.926363],"type":"Point"}
+}

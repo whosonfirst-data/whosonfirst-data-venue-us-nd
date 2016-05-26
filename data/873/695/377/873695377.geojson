@@ -1,0 +1,71 @@
+{
+  "id": 873695377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.045288,47.876487,-97.045288,47.876487",
+    "geom:latitude":47.876487,
+    "geom:longitude":-97.045288,
+    "iso:country":"US",
+    "sg:address":"4400 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 335 2120",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PUhndv52TE8ggEXyi3cWb_47.876487_-97.045288@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296355,
+    "wof:geomhash":"cb7f266af6b881b9c227286333d7f569",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873695377
+        }
+    ],
+    "wof:id":873695377,
+    "wof:lastmodified":1464296355,
+    "wof:name":"Center For Psychiatric Care",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -97.045288,
+    47.876487,
+    -97.045288,
+    47.876487
+],
+  "geometry": {"coordinates":[-97.045288,47.876487],"type":"Point"}
+}

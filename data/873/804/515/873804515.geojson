@@ -1,0 +1,79 @@
+{
+  "id": 873804515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.815953,46.849846,-96.815953,46.849846",
+    "geom:latitude":46.849846,
+    "geom:longitude":-96.815953,
+    "iso:country":"US",
+    "sg:address":"2363 20th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 2754",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "consultant",
+        "designer",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534475,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3j7zzBNkeWzVu861WimCNH_46.849846_-96.815953@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297829,
+    "wof:geomhash":"fa6cc94fb897b4274a42c97393a9b028",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534475,
+            "region_id":85688525,
+            "venue_id":873804515
+        }
+    ],
+    "wof:id":873804515,
+    "wof:lastmodified":1464297829,
+    "wof:name":"Ziejewski, Mariusz",
+    "wof:parent_id":420534475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "designer",
+        "system"
+    ]
+},
+  "bbox": [
+    -96.815953,
+    46.849846,
+    -96.815953,
+    46.849846
+],
+  "geometry": {"coordinates":[-96.81595299999999,46.849846],"type":"Point"}
+}

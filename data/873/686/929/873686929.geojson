@@ -1,0 +1,73 @@
+{
+  "id": 873686929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.075339,47.907499,-97.075339,47.907499",
+    "geom:latitude":47.907499,
+    "geom:longitude":-97.075339,
+    "iso:country":"US",
+    "sg:address":"1602 Baron Blvd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 0087",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "clocks",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ESMhB9RGIzdCqJoEKykfk_47.907499_-97.075339@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296191,
+    "wof:geomhash":"6c3c1839467eec88b68d4d4b64889c07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873686929
+        }
+    ],
+    "wof:id":873686929,
+    "wof:lastmodified":1464296191,
+    "wof:name":"Dave's Clock Repair",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clocks",
+        "parts"
+    ]
+},
+  "bbox": [
+    -97.075339,
+    47.907499,
+    -97.075339,
+    47.907499
+],
+  "geometry": {"coordinates":[-97.075339,47.907499],"type":"Point"}
+}

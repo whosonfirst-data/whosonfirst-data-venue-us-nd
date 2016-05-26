@@ -1,0 +1,77 @@
+{
+  "id": 873639013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.836799,46.841859,-96.836799,46.841859",
+    "geom:latitude":46.841859,
+    "geom:longitude":-96.836799,
+    "iso:country":"US",
+    "sg:address":"3561 Woodbury Park Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 8533",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877355,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aD1cGPf1zVocu33i7JYkj_46.841859_-96.836799@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295464,
+    "wof:geomhash":"8be252218524c6cec3399bca1e9e9bd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877355,
+            "region_id":85688525,
+            "venue_id":873639013
+        }
+    ],
+    "wof:id":873639013,
+    "wof:lastmodified":1464295464,
+    "wof:name":"Sundhans Properties Inc",
+    "wof:parent_id":85877355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -96.836799,
+    46.841859,
+    -96.836799,
+    46.841859
+],
+  "geometry": {"coordinates":[-96.836799,46.841859],"type":"Point"}
+}

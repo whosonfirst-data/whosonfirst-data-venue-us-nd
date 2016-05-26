@@ -1,0 +1,77 @@
+{
+  "id": 873787341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.345668,47.214296,-100.345668,47.214296",
+    "geom:latitude":47.214296,
+    "geom:longitude":-100.345668,
+    "iso:country":"US",
+    "sg:address":"27600 370th Ave NE",
+    "sg:city":"Wing",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 943 2465",
+    "sg:postcode":"58494",
+    "sg:province":"ND",
+    "sg:tags":[
+        "wheat",
+        "beef",
+        "farm",
+        "cash",
+        "grain",
+        "cattle",
+        "feedlot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2p7ctFGfujmbziLrVyC030_47.214296_-100.345668@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297599,
+    "wof:geomhash":"3762c7e9b51391c11bc1810aa6d930c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873787341
+        }
+    ],
+    "wof:id":873787341,
+    "wof:lastmodified":1464297599,
+    "wof:name":"Saeman Farms",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wheat",
+        "beef",
+        "farm",
+        "cash",
+        "grain",
+        "cattle",
+        "feedlot"
+    ]
+},
+  "bbox": [
+    -100.345668,
+    47.214296,
+    -100.345668,
+    47.214296
+],
+  "geometry": {"coordinates":[-100.345668,47.214296],"type":"Point"}
+}

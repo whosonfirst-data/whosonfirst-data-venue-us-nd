@@ -1,0 +1,73 @@
+{
+  "id": 873582395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.049061,47.93303,-97.049061,47.93303",
+    "geom:latitude":47.93303,
+    "geom:longitude":-97.049061,
+    "iso:country":"US",
+    "sg:address":"405 Gateway Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 2317",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "used",
+        "rent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ofUvAewG2ygYT3Xy3JKO7_47.933030_-97.049061@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294746,
+    "wof:geomhash":"6a4d0a8cb86c34f6e4fa8bac9f541bb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873582395
+        }
+    ],
+    "wof:id":873582395,
+    "wof:lastmodified":1464294746,
+    "wof:name":"Econo Rent-A-Car & Sales",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used",
+        "rent"
+    ]
+},
+  "bbox": [
+    -97.049061,
+    47.93303,
+    -97.049061,
+    47.93303
+],
+  "geometry": {"coordinates":[-97.04906099999999,47.93303],"type":"Point"}
+}

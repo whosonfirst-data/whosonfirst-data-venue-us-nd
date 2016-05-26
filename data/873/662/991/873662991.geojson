@@ -1,0 +1,87 @@
+{
+  "id": 873662991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.798629,46.869801,-96.798629,46.869801",
+    "geom:latitude":46.869801,
+    "geom:longitude":-96.798629,
+    "iso:country":"US",
+    "sg:address":"1323 5th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 297 9379",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "retail",
+        "paper",
+        "design",
+        "interior",
+        "ha",
+        "painting",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0q3L9Zb1fWgzSOZCkFDymC_46.869801_-96.798629@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295730,
+    "wof:geomhash":"03194bcaab5965308daefc6c3f4bc2e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873662991
+        }
+    ],
+    "wof:id":873662991,
+    "wof:lastmodified":1464295730,
+    "wof:name":"Morgan Design",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "retail",
+        "paper",
+        "design",
+        "interior",
+        "ha",
+        "painting",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -96.798629,
+    46.869801,
+    -96.798629,
+    46.869801
+],
+  "geometry": {"coordinates":[-96.79862900000001,46.869801],"type":"Point"}
+}

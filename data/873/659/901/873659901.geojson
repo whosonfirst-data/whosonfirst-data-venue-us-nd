@@ -1,0 +1,66 @@
+{
+  "id": 873659901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.64505,48.152424,-97.64505,48.152424",
+    "geom:latitude":48.152424,
+    "geom:longitude":-97.64505,
+    "iso:country":"US",
+    "sg:address":"323 University Ave",
+    "sg:city":"Inkster",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 865 4142",
+    "sg:postcode":"58244",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RhRk62agjp7BdyjmcpkC4_48.152424_-97.645050@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295697,
+    "wof:geomhash":"f8583a6bd392bfa7eb232518a191bafe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873659901
+        }
+    ],
+    "wof:id":873659901,
+    "wof:lastmodified":1464295697,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.64505,
+    48.152424,
+    -97.64505,
+    48.152424
+],
+  "geometry": {"coordinates":[-97.64505,48.152424],"type":"Point"}
+}

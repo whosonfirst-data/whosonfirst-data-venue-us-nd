@@ -1,0 +1,73 @@
+{
+  "id": 873606621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.753496,48.042697,-97.753496,48.042697",
+    "geom:latitude":48.042697,
+    "geom:longitude":-97.753496,
+    "iso:country":"US",
+    "sg:address":"4320 Camp Ave",
+    "sg:city":"Larimore",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 397 5260",
+    "sg:postcode":"58251",
+    "sg:province":"ND",
+    "sg:tags":[
+        "crop",
+        "harvesting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07GelTHw6U66fG4Bxg3reH_48.042697_-97.753496@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295069,
+    "wof:geomhash":"21adea873010eb19e1e22795a51956b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873606621
+        }
+    ],
+    "wof:id":873606621,
+    "wof:lastmodified":1464295069,
+    "wof:name":"H&H Custom Harvesting",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "harvesting"
+    ]
+},
+  "bbox": [
+    -97.753496,
+    48.042697,
+    -97.753496,
+    48.042697
+],
+  "geometry": {"coordinates":[-97.753496,48.042697],"type":"Point"}
+}

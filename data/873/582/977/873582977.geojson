@@ -1,0 +1,75 @@
+{
+  "id": 873582977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.860464,48.090528,-97.860464,48.090528",
+    "geom:latitude":48.090528,
+    "geom:longitude":-97.860464,
+    "iso:country":"US",
+    "sg:address":"2878 48th St NE",
+    "sg:city":"Niagara",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 397 5826",
+    "sg:postcode":"58266",
+    "sg:province":"ND",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KV98fMTYUbiYYapHS3X4J_48.090528_-97.860464@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294752,
+    "wof:geomhash":"7477566eccb8991856de537764af809f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873582977
+        }
+    ],
+    "wof:id":873582977,
+    "wof:lastmodified":1464294752,
+    "wof:name":"Allen Pic",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -97.860464,
+    48.090528,
+    -97.860464,
+    48.090528
+],
+  "geometry": {"coordinates":[-97.86046399999999,48.090528],"type":"Point"}
+}

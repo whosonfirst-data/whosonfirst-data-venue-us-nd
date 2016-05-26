@@ -1,0 +1,77 @@
+{
+  "id": 873564599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.836973,46.849343,-96.836973,46.849343",
+    "geom:latitude":46.849343,
+    "geom:longitude":-96.836973,
+    "iso:country":"US",
+    "sg:address":"341 Prairiewood Cir",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 2039",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420558815,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yuftiS021s2obZnKHl9Kp_46.849343_-96.836973@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294550,
+    "wof:geomhash":"428b08683bc332889bb46f317776e38d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420558815,
+            "region_id":85688525,
+            "venue_id":873564599
+        }
+    ],
+    "wof:id":873564599,
+    "wof:lastmodified":1464294550,
+    "wof:name":"Martin Auger Svc",
+    "wof:parent_id":420558815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.836973,
+    46.849343,
+    -96.836973,
+    46.849343
+],
+  "geometry": {"coordinates":[-96.836973,46.849343],"type":"Point"}
+}

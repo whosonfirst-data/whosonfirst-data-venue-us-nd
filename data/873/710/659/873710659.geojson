@@ -1,0 +1,73 @@
+{
+  "id": 873710659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.736806,46.825126,-100.736806,46.825126",
+    "geom:latitude":46.825126,
+    "geom:longitude":-100.736806,
+    "iso:country":"US",
+    "sg:address":"1700 Channel Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 4679",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29e6SIWbyuxQ4A3YqUauPV_46.825126_-100.736806@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296529,
+    "wof:geomhash":"262089f9c84e2e2ebbc7fc1559e63ece",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873710659
+        }
+    ],
+    "wof:id":873710659,
+    "wof:lastmodified":1464296529,
+    "wof:name":"Dakota Sanitation",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -100.736806,
+    46.825126,
+    -100.736806,
+    46.825126
+],
+  "geometry": {"coordinates":[-100.736806,46.825126],"type":"Point"}
+}

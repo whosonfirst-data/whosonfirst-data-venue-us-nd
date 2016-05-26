@@ -1,0 +1,71 @@
+{
+  "id": 873568669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.077215,47.917763,-97.077215,47.917763",
+    "geom:latitude":47.917763,
+    "geom:longitude":-97.077215,
+    "iso:country":"US",
+    "sg:address":"3375 Demers Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 7263",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "urologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17DEJQX8sl9JyYYFY29KoA_47.917763_-97.077215@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294592,
+    "wof:geomhash":"6ca3df35e1dab4962a007384855baf8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873568669
+        }
+    ],
+    "wof:id":873568669,
+    "wof:lastmodified":1464294592,
+    "wof:name":"Steven Shultz Mbpc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "urologist"
+    ]
+},
+  "bbox": [
+    -97.077215,
+    47.917763,
+    -97.077215,
+    47.917763
+],
+  "geometry": {"coordinates":[-97.077215,47.917763],"type":"Point"}
+}

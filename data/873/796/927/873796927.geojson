@@ -1,0 +1,76 @@
+{
+  "id": 873796927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.798996,46.855339,-96.798996,46.855339",
+    "geom:latitude":46.855339,
+    "geom:longitude":-96.798996,
+    "iso:country":"US",
+    "sg:address":"1601 University Dr S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/fargo/124906-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 298 0002",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534481,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6URaIsOTVYu95Xa8P10xgN_46.855339_-96.798996@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297737,
+    "wof:geomhash":"3010d02b8de112bccb8a03b78ce97bbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534481,
+            "region_id":85688525,
+            "venue_id":873796927
+        }
+    ],
+    "wof:id":873796927,
+    "wof:lastmodified":1464297737,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":420534481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -96.798996,
+    46.855339,
+    -96.798996,
+    46.855339
+],
+  "geometry": {"coordinates":[-96.798996,46.855339],"type":"Point"}
+}

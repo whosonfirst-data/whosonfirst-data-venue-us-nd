@@ -1,0 +1,78 @@
+{
+  "id": 873803447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.853245,46.86175,-96.853245,46.86175",
+    "geom:latitude":46.86175,
+    "geom:longitude":-96.853245,
+    "iso:country":"US",
+    "sg:address":"71555 43rd South Suite 4",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 850 3961",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "alternative",
+        "loan"
+    ],
+    "sg:website":"http://www.clairviewbrokers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wZChzZOGvgGk3dpP2Az4h_46.861750_-96.853245@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297815,
+    "wof:geomhash":"25e8ff8b97e326f616371aab37c43d6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873803447
+        }
+    ],
+    "wof:id":873803447,
+    "wof:lastmodified":1464297815,
+    "wof:name":"Clairview Brokers",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alternative",
+        "loan"
+    ]
+},
+  "bbox": [
+    -96.853245,
+    46.86175,
+    -96.853245,
+    46.86175
+],
+  "geometry": {"coordinates":[-96.853245,46.86175],"type":"Point"}
+}

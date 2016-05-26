@@ -1,0 +1,73 @@
+{
+  "id": 873754805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.295879,48.255439,-101.295879,48.255439",
+    "geom:latitude":48.255439,
+    "geom:longitude":-101.295879,
+    "iso:country":"US",
+    "sg:address":"1949 N Broadway",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 3860",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102531137,
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AIHU1Zd5SzMxWmOvqJZF8_48.255439_-101.295879@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297142,
+    "wof:geomhash":"a87b9cf0879b6b41f96feb20d795667f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531137,
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873754805
+        }
+    ],
+    "wof:id":873754805,
+    "wof:lastmodified":1464297142,
+    "wof:name":"Bernies Northhill Barber Shop",
+    "wof:parent_id":102531137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -101.295879,
+    48.255439,
+    -101.295879,
+    48.255439
+],
+  "geometry": {"coordinates":[-101.295879,48.255439],"type":"Point"}
+}

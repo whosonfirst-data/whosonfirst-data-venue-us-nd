@@ -1,0 +1,73 @@
+{
+  "id": 873621527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.495201,48.412381,-101.495201,48.412381",
+    "geom:latitude":48.412381,
+    "geom:longitude":-101.495201,
+    "iso:country":"US",
+    "sg:address":"16603 128th St NW",
+    "sg:city":"Berthold",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 468 5649",
+    "sg:postcode":"58718",
+    "sg:province":"ND",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vccj9by1BPkGbdpfKdR2e_48.412381_-101.495201@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295266,
+    "wof:geomhash":"0294abd1707d2d138fb6b6e232214d28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873621527
+        }
+    ],
+    "wof:id":873621527,
+    "wof:lastmodified":1464295266,
+    "wof:name":"Murray Bock",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -101.495201,
+    48.412381,
+    -101.495201,
+    48.412381
+],
+  "geometry": {"coordinates":[-101.49520099999999,48.412381],"type":"Point"}
+}

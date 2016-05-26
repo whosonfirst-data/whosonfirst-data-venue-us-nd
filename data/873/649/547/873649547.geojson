@@ -1,0 +1,75 @@
+{
+  "id": 873649547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.296041,48.242069,-101.296041,48.242069",
+    "geom:latitude":48.242069,
+    "geom:longitude":-101.296041,
+    "iso:country":"US",
+    "sg:address":"900 N Broadway",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 857 7688",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "govt",
+        "state",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bSvcQbkmp7XxjR6N3RD0u_48.242069_-101.296041@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295582,
+    "wof:geomhash":"79a7d1fc6cd9e2db21ffdcfc5a690e25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873649547
+        }
+    ],
+    "wof:id":873649547,
+    "wof:lastmodified":1464295582,
+    "wof:name":"US Juvenile Svc Div",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "institution"
+    ]
+},
+  "bbox": [
+    -101.296041,
+    48.242069,
+    -101.296041,
+    48.242069
+],
+  "geometry": {"coordinates":[-101.296041,48.242069],"type":"Point"}
+}

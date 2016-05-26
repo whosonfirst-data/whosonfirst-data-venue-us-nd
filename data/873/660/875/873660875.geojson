@@ -1,0 +1,73 @@
+{
+  "id": 873660875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.045649,47.897918,-97.045649,47.897918",
+    "geom:latitude":47.897918,
+    "geom:longitude":-97.045649,
+    "iso:country":"US",
+    "sg:address":"2318 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 6259",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "federal",
+        "affairs"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DFVYtGPFME7kdWt6Rkj3n_47.897918_-97.045649@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295707,
+    "wof:geomhash":"d58f58ada25902ef85c86e2e866a7f84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873660875
+        }
+    ],
+    "wof:id":873660875,
+    "wof:lastmodified":1464295707,
+    "wof:name":"US Border Patrol",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "affairs"
+    ]
+},
+  "bbox": [
+    -97.045649,
+    47.897918,
+    -97.045649,
+    47.897918
+],
+  "geometry": {"coordinates":[-97.045649,47.897918],"type":"Point"}
+}

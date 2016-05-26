@@ -1,0 +1,80 @@
+{
+  "id": 873798737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.873104,46.862034,-96.873104,46.862034",
+    "geom:latitude":46.862034,
+    "geom:longitude":-96.873104,
+    "iso:country":"US",
+    "sg:address":"1660 13th Ave E",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/west-fargo/68259-uno-chicago-grill/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 478 8667",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "sg:tags":[
+        "american",
+        "italian",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23TgcNmuVC6N848DzKhQEh_46.862116_-96.873947@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297759,
+    "wof:geomhash":"b81b73822f3cdecee9a6d348108c935a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873798737
+        }
+    ],
+    "wof:id":873798737,
+    "wof:lastmodified":1464297759,
+    "wof:name":"Uno Chicago Grill",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "italian",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -96.873104,
+    46.862034,
+    -96.873104,
+    46.862034
+],
+  "geometry": {"coordinates":[-96.873104,46.862034],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873557075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.066707,47.889454,-97.066707,47.889454",
+    "geom:latitude":47.889454,
+    "geom:longitude":-97.066707,
+    "iso:country":"US",
+    "sg:address":"2800 S Columbia Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 8130",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "compact",
+        "record",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uR60tKU8oice8MVMBFWN1_47.889454_-97.066707@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294461,
+    "wof:geomhash":"5737ba9289b78081a8d5509f6abc188f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873557075
+        }
+    ],
+    "wof:id":873557075,
+    "wof:lastmodified":1464294461,
+    "wof:name":"Fye",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "compact",
+        "record",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -97.066707,
+    47.889454,
+    -97.066707,
+    47.889454
+],
+  "geometry": {"coordinates":[-97.06670699999999,47.889454],"type":"Point"}
+}

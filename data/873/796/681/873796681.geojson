@@ -1,0 +1,78 @@
+{
+  "id": 873796681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.874773,46.862057,-96.874773,46.862057",
+    "geom:latitude":46.862057,
+    "geom:longitude":-96.874773,
+    "iso:country":"US",
+    "sg:address":"1560 13th Ave E",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/west-fargo/17808-wing-zone/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 478 7878",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "sg:tags":[
+        "american",
+        "wing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JuGstTFRMSilmQmRReZ1F_46.862057_-96.874773@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297734,
+    "wof:geomhash":"d76db24513de8426b34a5617541541af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873796681
+        }
+    ],
+    "wof:id":873796681,
+    "wof:lastmodified":1464297734,
+    "wof:name":"Wing Zone",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing"
+    ]
+},
+  "bbox": [
+    -96.874773,
+    46.862057,
+    -96.874773,
+    46.862057
+],
+  "geometry": {"coordinates":[-96.874773,46.862057],"type":"Point"}
+}

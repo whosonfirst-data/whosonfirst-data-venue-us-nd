@@ -1,0 +1,71 @@
+{
+  "id": 873748743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.04531,47.930946,-97.04531,47.930946",
+    "geom:latitude":47.930946,
+    "geom:longitude":-97.04531,
+    "iso:country":"US",
+    "sg:address":"901 N 5th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 4993",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "out"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52xX2iVOWK77nHclzhHaKO_47.930946_-97.045310@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297058,
+    "wof:geomhash":"f44e528b874b0c4c0234a0b2fe13d966",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873748743
+        }
+    ],
+    "wof:id":873748743,
+    "wof:lastmodified":1464297058,
+    "wof:name":"Kegs",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "out"
+    ]
+},
+  "bbox": [
+    -97.04531,
+    47.930946,
+    -97.04531,
+    47.930946
+],
+  "geometry": {"coordinates":[-97.04531,47.930946],"type":"Point"}
+}

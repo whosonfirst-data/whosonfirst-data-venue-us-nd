@@ -1,0 +1,70 @@
+{
+  "id": 873778353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.824672,46.861079,-96.824672,46.861079",
+    "geom:latitude":46.861079,
+    "geom:longitude":-96.824672,
+    "iso:country":"US",
+    "sg:address":"1300 Gateway Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 0280",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877331,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xUDGYkdY5bXZHY1vI7KMP_46.861079_-96.824672@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297468,
+    "wof:geomhash":"09d804c874120a567c61d1ce09e39f6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877331,
+            "region_id":85688525,
+            "venue_id":873778353
+        }
+    ],
+    "wof:id":873778353,
+    "wof:lastmodified":1464297468,
+    "wof:name":"Giedt Robert Od",
+    "wof:parent_id":85877331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.824672,
+    46.861079,
+    -96.824672,
+    46.861079
+],
+  "geometry": {"coordinates":[-96.82467200000001,46.861079],"type":"Point"}
+}

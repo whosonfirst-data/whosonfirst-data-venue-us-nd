@@ -1,0 +1,79 @@
+{
+  "id": 873760957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.806117,46.858545,-96.806117,46.858545",
+    "geom:latitude":46.858545,
+    "geom:longitude":-96.806117,
+    "iso:country":"US",
+    "sg:address":"1447 16th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 281 3487",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "break",
+        "coffee",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877331,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QyE55ED2zGA9uLFWeAdai_46.858545_-96.806117@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297219,
+    "wof:geomhash":"f3f22a25a9a1af31815debc655d47a93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877331,
+            "region_id":85688525,
+            "venue_id":873760957
+        }
+    ],
+    "wof:id":873760957,
+    "wof:lastmodified":1464297219,
+    "wof:name":"Coffee Break Svc",
+    "wof:parent_id":85877331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "break",
+        "coffee",
+        "supply"
+    ]
+},
+  "bbox": [
+    -96.806117,
+    46.858545,
+    -96.806117,
+    46.858545
+],
+  "geometry": {"coordinates":[-96.806117,46.858545],"type":"Point"}
+}

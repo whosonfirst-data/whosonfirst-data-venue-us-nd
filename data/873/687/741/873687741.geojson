@@ -1,0 +1,73 @@
+{
+  "id": 873687741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.057406,47.925746,-97.057406,47.925746",
+    "geom:latitude":47.925746,
+    "geom:longitude":-97.057406,
+    "iso:country":"US",
+    "sg:address":"2020 6th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 780 9613",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35OK3DLrUlVdvdcipZ5RuH_47.925746_-97.057406@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296213,
+    "wof:geomhash":"0e69fd6fa5d9a27d654399760b5e2b12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873687741
+        }
+    ],
+    "wof:id":873687741,
+    "wof:lastmodified":1464296213,
+    "wof:name":"Penguin Properties LLC",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -97.057406,
+    47.925746,
+    -97.057406,
+    47.925746
+],
+  "geometry": {"coordinates":[-97.057406,47.925746],"type":"Point"}
+}

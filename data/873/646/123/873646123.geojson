@@ -1,0 +1,75 @@
+{
+  "id": 873646123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.799554,46.82402,-96.799554,46.82402",
+    "geom:latitude":46.82402,
+    "geom:longitude":-96.799554,
+    "iso:country":"US",
+    "sg:address":"3608 S Kennedy St",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 271 1110",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "basketball"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534487,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zjxp6xdoP2rYl99vJHlsW_46.824020_-96.799554@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295548,
+    "wof:geomhash":"f7a69e87c4f177bb84a0f2c072d021ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534487,
+            "region_id":85688525,
+            "venue_id":873646123
+        }
+    ],
+    "wof:id":873646123,
+    "wof:lastmodified":1464295548,
+    "wof:name":"Basketball Shooters Inc",
+    "wof:parent_id":420534487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "basketball"
+    ]
+},
+  "bbox": [
+    -96.799554,
+    46.82402,
+    -96.799554,
+    46.82402
+],
+  "geometry": {"coordinates":[-96.799554,46.82402],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873674483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.096387,47.93164,-97.096387,47.93164",
+    "geom:latitude":47.93164,
+    "geom:longitude":-97.096387,
+    "iso:country":"US",
+    "sg:address":"1209 N 47th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 1157",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "federal",
+        "taxation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KJZBhOUfoOfGZnCYYsvlJ_47.931640_-97.096387@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295852,
+    "wof:geomhash":"b888d5a50121d9d1a1224c91b4a8e39e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873674483
+        }
+    ],
+    "wof:id":873674483,
+    "wof:lastmodified":1464295852,
+    "wof:name":"US Customs Svc Enforcement",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "taxation"
+    ]
+},
+  "bbox": [
+    -97.096387,
+    47.93164,
+    -97.096387,
+    47.93164
+],
+  "geometry": {"coordinates":[-97.09638699999999,47.93164],"type":"Point"}
+}

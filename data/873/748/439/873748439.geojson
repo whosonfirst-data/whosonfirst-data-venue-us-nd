@@ -1,0 +1,73 @@
+{
+  "id": 873748439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.099477,47.927237,-97.099477,47.927237",
+    "geom:latitude":47.927237,
+    "geom:longitude":-97.099477,
+    "iso:country":"US",
+    "sg:address":"701 Horizon Cir",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 594 5079",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cJEaCtKm5BHGbOvwnxPUs_47.927237_-97.099477@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297055,
+    "wof:geomhash":"9c22520b79259501323422cc270cf08b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873748439
+        }
+    ],
+    "wof:id":873748439,
+    "wof:lastmodified":1464297055,
+    "wof:name":"GE",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.099477,
+    47.927237,
+    -97.099477,
+    47.927237
+],
+  "geometry": {"coordinates":[-97.09947699999999,47.927237],"type":"Point"}
+}

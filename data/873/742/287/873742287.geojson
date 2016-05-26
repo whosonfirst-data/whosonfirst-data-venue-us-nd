@@ -1,0 +1,75 @@
+{
+  "id": 873742287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.834368,46.797172,-96.834368,46.797172",
+    "geom:latitude":46.797172,
+    "geom:longitude":-96.834368,
+    "iso:country":"US",
+    "sg:address":"5621 34th St SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 6875",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "group"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877333,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oO47DE7bzcmCjpSkQmmh7_46.797172_-96.834368@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296960,
+    "wof:geomhash":"1495768d9ac6541dc153fce851273692",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877333,
+            "region_id":85688525,
+            "venue_id":873742287
+        }
+    ],
+    "wof:id":873742287,
+    "wof:lastmodified":1464296960,
+    "wof:name":"T J Music",
+    "wof:parent_id":85877333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "group"
+    ]
+},
+  "bbox": [
+    -96.834368,
+    46.797172,
+    -96.834368,
+    46.797172
+],
+  "geometry": {"coordinates":[-96.834368,46.797172],"type":"Point"}
+}

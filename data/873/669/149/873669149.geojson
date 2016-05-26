@@ -1,0 +1,80 @@
+{
+  "id": 873669149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.766062,46.790946,-100.766062,46.790946",
+    "geom:latitude":46.790946,
+    "geom:longitude":-100.766062,
+    "iso:country":"US",
+    "sg:address":"1605 Park Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 221 0750",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "hardware",
+        "door",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PO4ecjRXp6o1mLQzva4G2_46.790946_-100.766062@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295792,
+    "wof:geomhash":"52a17391cd1fa5e716082d3974252ef0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873669149
+        }
+    ],
+    "wof:id":873669149,
+    "wof:lastmodified":1464295792,
+    "wof:name":"Precision Door & Hardware Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hardware",
+        "door",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -100.766062,
+    46.790946,
+    -100.766062,
+    46.790946
+],
+  "geometry": {"coordinates":[-100.76606200000001,46.790946],"type":"Point"}
+}

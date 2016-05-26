@@ -1,0 +1,79 @@
+{
+  "id": 873565159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.401675,48.138881,-101.401675,48.138881",
+    "geom:latitude":48.138881,
+    "geom:longitude":-101.401675,
+    "iso:country":"US",
+    "sg:address":"6900 93rd Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 722 3576",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "feedlot",
+        "grain",
+        "cash",
+        "beef",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UrObHgiCNWYxSYdAUYeEy_48.138881_-101.401675@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294557,
+    "wof:geomhash":"c4dbd1a289373dee187bcd11371f5706",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873565159
+        }
+    ],
+    "wof:id":873565159,
+    "wof:lastmodified":1464294557,
+    "wof:name":"Blain Schumacher",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feedlot",
+        "grain",
+        "cash",
+        "beef",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -101.401675,
+    48.138881,
+    -101.401675,
+    48.138881
+],
+  "geometry": {"coordinates":[-101.401675,48.138881],"type":"Point"}
+}

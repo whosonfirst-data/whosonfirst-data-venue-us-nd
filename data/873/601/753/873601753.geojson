@@ -1,0 +1,71 @@
+{
+  "id": 873601753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.467826,48.083212,-97.467826,48.083212",
+    "geom:latitude":48.083212,
+    "geom:longitude":-97.467826,
+    "iso:country":"US",
+    "sg:address":"125 3rd St",
+    "sg:city":"Gilby",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 869 2493",
+    "sg:postcode":"58235",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6F3HbYBiKcr40HKbn6L3Y3_48.083212_-97.467826@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295005,
+    "wof:geomhash":"2a8550b8be32a5d01889fbbc065b4c39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873601753
+        }
+    ],
+    "wof:id":873601753,
+    "wof:lastmodified":1464295005,
+    "wof:name":"Gilby Presbyterian Church",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -97.467826,
+    48.083212,
+    -97.467826,
+    48.083212
+],
+  "geometry": {"coordinates":[-97.467826,48.083212],"type":"Point"}
+}

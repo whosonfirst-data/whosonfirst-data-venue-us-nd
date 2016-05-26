@@ -1,0 +1,79 @@
+{
+  "id": 873612559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.307515,48.261979,-101.307515,48.261979",
+    "geom:latitude":48.261979,
+    "geom:longitude":-101.307515,
+    "iso:country":"US",
+    "sg:address":"2325 8th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 3300",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "downspouts",
+        "house",
+        "gutter",
+        "construct",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fjwoO5J8W1ZuwxUH1KS1j_48.261979_-101.307515@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295172,
+    "wof:geomhash":"8780f9d58e60c53f63c2f2b7a9e4f34f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873612559
+        }
+    ],
+    "wof:id":873612559,
+    "wof:lastmodified":1464295172,
+    "wof:name":"Goebel Raingutter & Constr",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "downspouts",
+        "house",
+        "gutter",
+        "construct",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.307515,
+    48.261979,
+    -101.307515,
+    48.261979
+],
+  "geometry": {"coordinates":[-101.307515,48.261979],"type":"Point"}
+}

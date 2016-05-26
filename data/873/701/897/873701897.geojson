@@ -1,0 +1,77 @@
+{
+  "id": 873701897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.826475,46.829256,-100.826475,46.829256",
+    "geom:latitude":46.829256,
+    "geom:longitude":-100.826475,
+    "iso:country":"US",
+    "sg:address":"1937 N Grandview Ln",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 1370",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "instruction",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mGu7RGajSffWvY4ePbVo4_46.829256_-100.826475@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296424,
+    "wof:geomhash":"5ab76fb8bda247a45b966bc42442c4db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873701897
+        }
+    ],
+    "wof:id":873701897,
+    "wof:lastmodified":1464296424,
+    "wof:name":"Marlena Miller Suzuki Studio",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "music"
+    ]
+},
+  "bbox": [
+    -100.826475,
+    46.829256,
+    -100.826475,
+    46.829256
+],
+  "geometry": {"coordinates":[-100.826475,46.829256],"type":"Point"}
+}

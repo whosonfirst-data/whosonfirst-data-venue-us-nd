@@ -1,0 +1,74 @@
+{
+  "id": 873751845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.044554,47.901991,-97.044554,47.901991",
+    "geom:latitude":47.901991,
+    "geom:longitude":-97.044554,
+    "iso:country":"US",
+    "sg:address":"1711 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 5567",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "skiing"
+    ],
+    "sg:website":"www.skiandbikeshop.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5htP6m3YwaxjdiVhil7DSx_47.901991_-97.044554@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297099,
+    "wof:geomhash":"6d056d33532820dae27c44bef8bedf60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873751845
+        }
+    ],
+    "wof:id":873751845,
+    "wof:lastmodified":1464297099,
+    "wof:name":"Ski & Bike Shop Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "skiing"
+    ]
+},
+  "bbox": [
+    -97.044554,
+    47.901991,
+    -97.044554,
+    47.901991
+],
+  "geometry": {"coordinates":[-97.04455400000001,47.901991],"type":"Point"}
+}

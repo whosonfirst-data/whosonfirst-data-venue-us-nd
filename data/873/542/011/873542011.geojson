@@ -1,0 +1,79 @@
+{
+  "id": 873542011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.804871,46.874074,-96.804871,46.874074",
+    "geom:latitude":46.874074,
+    "geom:longitude":-96.804871,
+    "iso:country":"US",
+    "sg:address":"1519 1st Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 218 790 6486",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kRuzSNsxcfoVuL6Ne0xmp_46.874074_-96.804871@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294281,
+    "wof:geomhash":"04828d13ecaaae8eec51bca0cdc8d23e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873542011
+        }
+    ],
+    "wof:id":873542011,
+    "wof:lastmodified":1464294281,
+    "wof:name":"A & K Specialties",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ]
+},
+  "bbox": [
+    -96.804871,
+    46.874074,
+    -96.804871,
+    46.874074
+],
+  "geometry": {"coordinates":[-96.80487100000001,46.874074],"type":"Point"}
+}

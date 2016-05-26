@@ -1,0 +1,72 @@
+{
+  "id": 873768445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.059008,47.889369,-97.059008,47.889369",
+    "geom:latitude":47.889369,
+    "geom:longitude":-97.059008,
+    "iso:country":"US",
+    "sg:address":"2051 32nd Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 780 0902",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "wine"
+    ],
+    "sg:website":"www.happy-harrys.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5a1cRjEz57cu5xFl3p9pO6_47.889369_-97.059008@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297343,
+    "wof:geomhash":"bb33c79de0a02d137985732f98a7ba7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873768445
+        }
+    ],
+    "wof:id":873768445,
+    "wof:lastmodified":1464297343,
+    "wof:name":"Happy Harry's Bottle Shops",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wine"
+    ]
+},
+  "bbox": [
+    -97.059008,
+    47.889369,
+    -97.059008,
+    47.889369
+],
+  "geometry": {"coordinates":[-97.05900800000001,47.889369],"type":"Point"}
+}

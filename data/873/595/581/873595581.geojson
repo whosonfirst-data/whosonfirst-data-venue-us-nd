@@ -1,0 +1,70 @@
+{
+  "id": 873595581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.817039,46.868682,-96.817039,46.868682",
+    "geom:latitude":46.868682,
+    "geom:longitude":-96.817039,
+    "iso:country":"US",
+    "sg:address":"618 23rd St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 5635",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877331,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qF7fBPRQrnue0ZRXgk9m5_46.868682_-96.817039@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294917,
+    "wof:geomhash":"16a68dc6d474c28c4a00e0c7ca2da4fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877331,
+            "region_id":85688525,
+            "venue_id":873595581
+        }
+    ],
+    "wof:id":873595581,
+    "wof:lastmodified":1464294917,
+    "wof:name":"Nokomis Child Care Ctr",
+    "wof:parent_id":85877331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.817039,
+    46.868682,
+    -96.817039,
+    46.868682
+],
+  "geometry": {"coordinates":[-96.81703899999999,46.868682],"type":"Point"}
+}

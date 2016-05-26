@@ -1,0 +1,73 @@
+{
+  "id": 873645857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.305672,48.418584,-101.305672,48.418584",
+    "geom:latitude":48.418584,
+    "geom:longitude":-101.305672,
+    "iso:country":"US",
+    "sg:address":"10 Missile Ave",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 723 5365",
+    "sg:postcode":"58704",
+    "sg:province":"ND",
+    "sg:tags":[
+        "merchandise",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VwlfmPAQP18hVmtfQNRAM_48.418584_-101.305672@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295545,
+    "wof:geomhash":"db4c08af1ec436af9be6e8e2c4616eef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873645857
+        }
+    ],
+    "wof:id":873645857,
+    "wof:lastmodified":1464295545,
+    "wof:name":"US Air Force Dodaac Fu 45",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise",
+        "general"
+    ]
+},
+  "bbox": [
+    -101.305672,
+    48.418584,
+    -101.305672,
+    48.418584
+],
+  "geometry": {"coordinates":[-101.305672,48.418584],"type":"Point"}
+}

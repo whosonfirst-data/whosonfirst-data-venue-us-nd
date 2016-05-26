@@ -1,0 +1,74 @@
+{
+  "id": 873797583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.045577,47.896671,-97.045577,47.896671",
+    "geom:latitude":47.896671,
+    "geom:longitude":-97.045577,
+    "iso:country":"US",
+    "sg:address":"2400 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/grand-forks/87118-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 402 0377",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jysXTJ15AKfc1alSvPCYz_47.896671_-97.045577@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297745,
+    "wof:geomhash":"7c804148aeed0c8c89ccd3946e3cc9fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873797583
+        }
+    ],
+    "wof:id":873797583,
+    "wof:lastmodified":1464297745,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -97.045577,
+    47.896671,
+    -97.045577,
+    47.896671
+],
+  "geometry": {"coordinates":[-97.04557699999999,47.896671],"type":"Point"}
+}

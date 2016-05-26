@@ -1,0 +1,73 @@
+{
+  "id": 873630635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.77572,46.805241,-100.77572,46.805241",
+    "geom:latitude":46.805241,
+    "geom:longitude":-100.77572,
+    "iso:country":"US",
+    "sg:address":"917 E Main Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 4466",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QKRUx9yvE7HmXa96VVfdN_46.805241_-100.775720@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295371,
+    "wof:geomhash":"a6cfc62e9bdd1817d79fc7e8770f6ab1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873630635
+        }
+    ],
+    "wof:id":873630635,
+    "wof:lastmodified":1464295371,
+    "wof:name":"Auto Wizard",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -100.77572,
+    46.805241,
+    -100.77572,
+    46.805241
+],
+  "geometry": {"coordinates":[-100.77572000000001,46.805241],"type":"Point"}
+}

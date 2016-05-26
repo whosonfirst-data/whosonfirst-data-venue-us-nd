@@ -1,0 +1,71 @@
+{
+  "id": 873747361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.346504,48.231321,-101.346504,48.231321",
+    "geom:latitude":48.231321,
+    "geom:longitude":-101.346504,
+    "iso:country":"US",
+    "sg:address":"500 36th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 8112",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "administrative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0enobjpBa2ZEnafo82sfC7_48.231321_-101.346504@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297042,
+    "wof:geomhash":"6a326ec45700ba0b118ae2b7db65757b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873747361
+        }
+    ],
+    "wof:id":873747361,
+    "wof:lastmodified":1464297042,
+    "wof:name":"John M Salling",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "administrative"
+    ]
+},
+  "bbox": [
+    -101.346504,
+    48.231321,
+    -101.346504,
+    48.231321
+],
+  "geometry": {"coordinates":[-101.346504,48.231321],"type":"Point"}
+}

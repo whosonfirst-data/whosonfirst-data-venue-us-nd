@@ -1,0 +1,66 @@
+{
+  "id": 873785149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.016169,46.648572,-97.016169,46.648572",
+    "geom:latitude":46.648572,
+    "geom:longitude":-97.016169,
+    "iso:country":"US",
+    "sg:address":"330 Elm St",
+    "sg:city":"Kindred",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 428 3456",
+    "sg:postcode":"58051",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kPMsced2Si0e4rCyUIeaQ_46.648511_-97.016912@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464297558,
+    "wof:geomhash":"7246bc04859d168c75fba578520fbf91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873785149
+        }
+    ],
+    "wof:id":873785149,
+    "wof:lastmodified":1464297558,
+    "wof:name":"Kindred Public Library",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.016169,
+    46.648572,
+    -97.016169,
+    46.648572
+],
+  "geometry": {"coordinates":[-97.016169,46.648572],"type":"Point"}
+}

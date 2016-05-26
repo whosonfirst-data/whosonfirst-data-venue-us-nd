@@ -1,0 +1,71 @@
+{
+  "id": 873544451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.041767,47.927615,-97.041767,47.927615",
+    "geom:latitude":47.927615,
+    "geom:longitude":-97.041767,
+    "iso:country":"US",
+    "sg:address":"620 N 6th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 7170",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VvMISwixdpyaOpduerbTl_47.927615_-97.041767@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294311,
+    "wof:geomhash":"e556d97a9423705912301abe2dc504c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873544451
+        }
+    ],
+    "wof:id":873544451,
+    "wof:lastmodified":1464294311,
+    "wof:name":"Noble Construction",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -97.041767,
+    47.927615,
+    -97.041767,
+    47.927615
+],
+  "geometry": {"coordinates":[-97.04176699999999,47.927615],"type":"Point"}
+}

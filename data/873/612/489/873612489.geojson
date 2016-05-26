@@ -1,0 +1,70 @@
+{
+  "id": 873612489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-102.802177,46.879024,-102.802177,46.879024",
+    "geom:latitude":46.879024,
+    "geom:longitude":-102.802177,
+    "iso:country":"US",
+    "sg:address":"1113 W Villard St",
+    "sg:city":"Dickinson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 225 9744",
+    "sg:postcode":"58601",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877119,
+        102191575,
+        404482179,
+        85633793,
+        85982521,
+        102082105,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JncAPb8X8EuefwR0QPRW2_46.879024_-102.802177@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295171,
+    "wof:geomhash":"4d01753ee992882f92e980826a533233",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082105,
+            "localadmin_id":404482179,
+            "locality_id":85982521,
+            "neighbourhood_id":85877119,
+            "region_id":85688525,
+            "venue_id":873612489
+        }
+    ],
+    "wof:id":873612489,
+    "wof:lastmodified":1464295171,
+    "wof:name":"Vacuum Cleaning",
+    "wof:parent_id":85877119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -102.802177,
+    46.879024,
+    -102.802177,
+    46.879024
+],
+  "geometry": {"coordinates":[-102.802177,46.879024],"type":"Point"}
+}

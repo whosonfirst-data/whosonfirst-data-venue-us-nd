@@ -1,0 +1,72 @@
+{
+  "id": 873597473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.033892,47.925913,-97.033892,47.925913",
+    "geom:latitude":47.925913,
+    "geom:longitude":-97.033892,
+    "iso:country":"US",
+    "sg:address":"308 2nd Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 7459",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "engineer"
+    ],
+    "sg:website":"www.fscps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LjIk7rNqHfYmMB2CFo23S_47.925913_-97.033892@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294953,
+    "wof:geomhash":"ccb8753cda5227e1b81b12f2878e487d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873597473
+        }
+    ],
+    "wof:id":873597473,
+    "wof:lastmodified":1464294953,
+    "wof:name":"CPS LTD",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -97.033892,
+    47.925913,
+    -97.033892,
+    47.925913
+],
+  "geometry": {"coordinates":[-97.03389199999999,47.925913],"type":"Point"}
+}

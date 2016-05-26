@@ -1,0 +1,73 @@
+{
+  "id": 873617455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.044692,47.92764,-97.044692,47.92764",
+    "geom:latitude":47.92764,
+    "geom:longitude":-97.044692,
+    "iso:country":"US",
+    "sg:address":"624 8th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 7147",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automobile",
+        "customizing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6n0NrXBziM1EZrNPEb4lKA_47.927640_-97.044692@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295219,
+    "wof:geomhash":"af1f1f547ce9801f9fa0639b29be7c18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873617455
+        }
+    ],
+    "wof:id":873617455,
+    "wof:lastmodified":1464295219,
+    "wof:name":"Auto Authorities",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "customizing"
+    ]
+},
+  "bbox": [
+    -97.044692,
+    47.92764,
+    -97.044692,
+    47.92764
+],
+  "geometry": {"coordinates":[-97.044692,47.92764],"type":"Point"}
+}

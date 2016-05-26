@@ -1,0 +1,66 @@
+{
+  "id": 873724757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.033323,47.923002,-97.033323,47.923002",
+    "geom:latitude":47.923002,
+    "geom:longitude":-97.033323,
+    "iso:country":"US",
+    "sg:address":"523 Demers Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 787 5433",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70aLThPVl467MwhkLPOd11_47.923002_-97.033323@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296709,
+    "wof:geomhash":"0adc0cc9e2b5c279c7dd6d5745e49707",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873724757
+        }
+    ],
+    "wof:id":873724757,
+    "wof:lastmodified":1464296709,
+    "wof:name":"Eric Pearson Insurance Agency",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.033323,
+    47.923002,
+    -97.033323,
+    47.923002
+],
+  "geometry": {"coordinates":[-97.033323,47.923002],"type":"Point"}
+}

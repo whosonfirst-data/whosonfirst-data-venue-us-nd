@@ -1,0 +1,77 @@
+{
+  "id": 873774057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.793304,46.918757,-96.793304,46.918757",
+    "geom:latitude":46.918757,
+    "geom:longitude":-96.793304,
+    "iso:country":"US",
+    "sg:address":"3139 10th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 3290",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877353,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0K58y38HajBT8jnoLYA0om_46.918757_-96.793304@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297413,
+    "wof:geomhash":"8708eb70f96ee0125271ead9ed0e06f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877353,
+            "region_id":85688525,
+            "venue_id":873774057
+        }
+    ],
+    "wof:id":873774057,
+    "wof:lastmodified":1464297413,
+    "wof:name":"Portafilletcom",
+    "wof:parent_id":85877353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -96.793304,
+    46.918757,
+    -96.793304,
+    46.918757
+],
+  "geometry": {"coordinates":[-96.79330400000001,46.918757],"type":"Point"}
+}

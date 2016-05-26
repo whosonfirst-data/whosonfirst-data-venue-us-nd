@@ -1,0 +1,73 @@
+{
+  "id": 873583213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.748646,46.825212,-100.748646,46.825212",
+    "geom:latitude":46.825212,
+    "geom:longitude":-100.748646,
+    "iso:country":"US",
+    "sg:address":"1801 Valle-Moor Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 391 6985",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "commercial",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_570D5MY7tbHi8Selq1Fepk_46.825212_-100.748646@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294754,
+    "wof:geomhash":"860a79b4ed357296025b1e7b4f95f2fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873583213
+        }
+    ],
+    "wof:id":873583213,
+    "wof:lastmodified":1464294754,
+    "wof:name":"Cabstract Graphics",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "design"
+    ]
+},
+  "bbox": [
+    -100.748646,
+    46.825212,
+    -100.748646,
+    46.825212
+],
+  "geometry": {"coordinates":[-100.74864599999999,46.825212],"type":"Point"}
+}

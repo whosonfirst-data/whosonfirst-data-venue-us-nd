@@ -1,0 +1,76 @@
+{
+  "id": 873775095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.840477,46.87232,-96.840477,46.87232",
+    "geom:latitude":46.87232,
+    "geom:longitude":-96.840477,
+    "iso:country":"US",
+    "sg:address":"360 36th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 6000",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "janitor"
+    ],
+    "sg:website":"www.accentcontracting.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xvP7lPWDfyDv3VigzBo4v_46.872320_-96.840477@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297427,
+    "wof:geomhash":"5ea3ffc849e6266b64b20839cea6df8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873775095
+        }
+    ],
+    "wof:id":873775095,
+    "wof:lastmodified":1464297427,
+    "wof:name":"Accent Contracting",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -96.840477,
+    46.87232,
+    -96.840477,
+    46.87232
+],
+  "geometry": {"coordinates":[-96.84047700000001,46.87232],"type":"Point"}
+}

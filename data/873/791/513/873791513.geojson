@@ -1,0 +1,67 @@
+{
+  "id": 873791513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.16735,48.225567,-101.16735,48.225567",
+    "geom:latitude":48.225567,
+    "geom:longitude":-101.16735,
+    "iso:country":"US",
+    "sg:address":"8300 11th Ave SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 5161",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "corn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ut9H0QlgT0L12AK8xpDAG_48.225567_-101.167350@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297665,
+    "wof:geomhash":"f71b56029e551af987b9f63eec51b0aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873791513
+        }
+    ],
+    "wof:id":873791513,
+    "wof:lastmodified":1464297665,
+    "wof:name":"Glick Arden",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "corn"
+    ]
+},
+  "bbox": [
+    -101.16735,
+    48.225567,
+    -101.16735,
+    48.225567
+],
+  "geometry": {"coordinates":[-101.16735,48.225567],"type":"Point"}
+}

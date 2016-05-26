@@ -1,0 +1,73 @@
+{
+  "id": 873719699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.770534,46.783847,-100.770534,46.783847",
+    "geom:latitude":46.783847,
+    "geom:longitude":-100.770534,
+    "iso:country":"US",
+    "sg:address":"2000 University Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 0266",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "environmental",
+        "org"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74Ui1pOoUX2kNTmKpAaoBr_46.783847_-100.770534@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296649,
+    "wof:geomhash":"6e2fe7cc5ae0abd6dd5a0ac8ffd3a85b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873719699
+        }
+    ],
+    "wof:id":873719699,
+    "wof:lastmodified":1464296649,
+    "wof:name":"American Foundation For Wldlfe",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "environmental",
+        "org"
+    ]
+},
+  "bbox": [
+    -100.770534,
+    46.783847,
+    -100.770534,
+    46.783847
+],
+  "geometry": {"coordinates":[-100.770534,46.783847],"type":"Point"}
+}

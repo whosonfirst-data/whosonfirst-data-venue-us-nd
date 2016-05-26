@@ -1,0 +1,67 @@
+{
+  "id": 873752637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.733809,46.809166,-100.733809,46.809166",
+    "geom:latitude":46.809166,
+    "geom:longitude":-100.733809,
+    "iso:country":"US",
+    "sg:address":"3751 E Rosser Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 9003",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:website":"www.rivercityboats.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pWujvl7C5C3hOBt0cER72_46.809166_-100.733809@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297108,
+    "wof:geomhash":"150983231526dac60bc9ebcd03e76f8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873752637
+        }
+    ],
+    "wof:id":873752637,
+    "wof:lastmodified":1464297108,
+    "wof:name":"River City Sports Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.733809,
+    46.809166,
+    -100.733809,
+    46.809166
+],
+  "geometry": {"coordinates":[-100.73380899999999,46.809166],"type":"Point"}
+}

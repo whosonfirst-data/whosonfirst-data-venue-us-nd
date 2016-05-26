@@ -1,0 +1,80 @@
+{
+  "id": 873646781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.731492,47.951766,-97.731492,47.951766",
+    "geom:latitude":47.951766,
+    "geom:longitude":-97.731492,
+    "iso:country":"US",
+    "sg:address":"1918 42nd St",
+    "sg:city":"Larimore",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 397 5211",
+    "sg:postcode":"58251",
+    "sg:province":"ND",
+    "sg:tags":[
+        "animal",
+        "market",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XEEDrsE5kZJ2uMt1FEiww_47.951766_-97.731492@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295554,
+    "wof:geomhash":"3d3e239f7e668d5a466db733b747f28d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873646781
+        }
+    ],
+    "wof:id":873646781,
+    "wof:lastmodified":1464295554,
+    "wof:name":"N D Pig Co-Op",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "animal",
+        "market",
+        "general"
+    ]
+},
+  "bbox": [
+    -97.731492,
+    47.951766,
+    -97.731492,
+    47.951766
+],
+  "geometry": {"coordinates":[-97.731492,47.951766],"type":"Point"}
+}

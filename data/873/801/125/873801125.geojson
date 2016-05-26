@@ -1,0 +1,86 @@
+{
+  "id": 873801125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.805359,46.877413,-96.805359,46.877413",
+    "geom:latitude":46.877413,
+    "geom:longitude":-96.805359,
+    "iso:country":"US",
+    "sg:address":"1547 1st Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 365 8880",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "solid",
+        "top",
+        "counter",
+        "surface"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rGtqSDndlXG3a6rUilM9f_46.877413_-96.805359@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297786,
+    "wof:geomhash":"04871b586978626b75839a7ac4315234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873801125
+        }
+    ],
+    "wof:id":873801125,
+    "wof:lastmodified":1464297786,
+    "wof:name":"Granites Unlimited",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "solid",
+        "top",
+        "counter",
+        "surface"
+    ]
+},
+  "bbox": [
+    -96.805359,
+    46.877413,
+    -96.805359,
+    46.877413
+],
+  "geometry": {"coordinates":[-96.805359,46.877413],"type":"Point"}
+}

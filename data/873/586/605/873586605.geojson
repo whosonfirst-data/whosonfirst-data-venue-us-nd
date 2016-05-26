@@ -1,0 +1,71 @@
+{
+  "id": 873586605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.900667,46.759273,-96.900667,46.759273",
+    "geom:latitude":46.759273,
+    "geom:longitude":-96.900667,
+    "iso:country":"US",
+    "sg:address":"401 3rd St E",
+    "sg:city":"Horace",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 281 9927",
+    "sg:postcode":"58047",
+    "sg:province":"ND",
+    "sg:tags":[
+        "reporting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rbHRSDaIkEvPfo4kvk70E_46.759273_-96.900667@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294791,
+    "wof:geomhash":"81121fc4ab43def182276c80390c76a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873586605
+        }
+    ],
+    "wof:id":873586605,
+    "wof:lastmodified":1464294791,
+    "wof:name":"Shellys Clerical Service",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reporting"
+    ]
+},
+  "bbox": [
+    -96.900667,
+    46.759273,
+    -96.900667,
+    46.759273
+],
+  "geometry": {"coordinates":[-96.900667,46.759273],"type":"Point"}
+}

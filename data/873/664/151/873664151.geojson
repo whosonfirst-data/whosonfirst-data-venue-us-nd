@@ -1,0 +1,79 @@
+{
+  "id": 873664151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.816749,46.87895,-96.816749,46.87895",
+    "geom:latitude":46.87895,
+    "geom:longitude":-96.816749,
+    "iso:country":"US",
+    "sg:address":"232 23rd St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 5115",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39Jzij0Vslm3hWZn6p30tp_46.878950_-96.816749@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295742,
+    "wof:geomhash":"34ec4d23f1337748fed931c4e365f1fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873664151
+        }
+    ],
+    "wof:id":873664151,
+    "wof:lastmodified":1464295742,
+    "wof:name":"Commercial Insulation & Supply",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.816749,
+    46.87895,
+    -96.816749,
+    46.87895
+],
+  "geometry": {"coordinates":[-96.816749,46.87895],"type":"Point"}
+}

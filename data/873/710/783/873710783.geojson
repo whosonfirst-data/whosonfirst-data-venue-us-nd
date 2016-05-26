@@ -1,0 +1,81 @@
+{
+  "id": 873710783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.069373,47.933126,-97.069373,47.933126",
+    "geom:latitude":47.933126,
+    "geom:longitude":-97.069373,
+    "iso:country":"US",
+    "sg:address":"2800 Gateway Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 8838",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "specializing",
+        "heating",
+        "contractor",
+        "s",
+        "conditioning",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42AtujpQIJbEB39YsdwxOL_47.933126_-97.069373@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296530,
+    "wof:geomhash":"a2dd4470be80b2560cd2b480ba205770",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873710783
+        }
+    ],
+    "wof:id":873710783,
+    "wof:lastmodified":1464296530,
+    "wof:name":"Grand Forks Heating AC & G",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specializing",
+        "heating",
+        "contractor",
+        "s",
+        "conditioning",
+        "air"
+    ]
+},
+  "bbox": [
+    -97.069373,
+    47.933126,
+    -97.069373,
+    47.933126
+],
+  "geometry": {"coordinates":[-97.069373,47.933126],"type":"Point"}
+}

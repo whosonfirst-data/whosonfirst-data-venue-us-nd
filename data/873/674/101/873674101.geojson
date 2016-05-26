@@ -1,0 +1,73 @@
+{
+  "id": 873674101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.318456,48.224117,-101.318456,48.224117",
+    "geom:latitude":48.224117,
+    "geom:longitude":-101.318456,
+    "iso:country":"US",
+    "sg:address":"1829 Burdick Expy W",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 0227",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "newspaper",
+        "publishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06W1q6qcaVHgO4lz2jAi25_48.224117_-101.318456@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295844,
+    "wof:geomhash":"84771593c69369bb7990571e838e6da4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873674101
+        }
+    ],
+    "wof:id":873674101,
+    "wof:lastmodified":1464295844,
+    "wof:name":"Greater Northwest Publishing",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper",
+        "publishing"
+    ]
+},
+  "bbox": [
+    -101.318456,
+    48.224117,
+    -101.318456,
+    48.224117
+],
+  "geometry": {"coordinates":[-101.318456,48.224117],"type":"Point"}
+}

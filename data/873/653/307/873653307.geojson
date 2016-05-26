@@ -1,0 +1,73 @@
+{
+  "id": 873653307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.598324,46.821821,-100.598324,46.821821",
+    "geom:latitude":46.821821,
+    "geom:longitude":-100.598324,
+    "iso:country":"US",
+    "sg:address":"1522 Haroldson Ln",
+    "sg:city":"Menoken",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 6307",
+    "sg:postcode":"58558",
+    "sg:province":"ND",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YZCigqxUcCjBFAbv9p5ps_46.821821_-100.598324@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295627,
+    "wof:geomhash":"a3c44a6168407a31b300e0a878c262dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873653307
+        }
+    ],
+    "wof:id":873653307,
+    "wof:lastmodified":1464295627,
+    "wof:name":"Barbie Plumbing & Heating Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.598324,
+    46.821821,
+    -100.598324,
+    46.821821
+],
+  "geometry": {"coordinates":[-100.59832400000001,46.821821],"type":"Point"}
+}

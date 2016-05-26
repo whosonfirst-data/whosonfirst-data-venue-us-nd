@@ -1,0 +1,71 @@
+{
+  "id": 873642005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.106646,47.673098,-97.106646,47.673098",
+    "geom:latitude":47.673098,
+    "geom:longitude":-97.106646,
+    "iso:country":"US",
+    "sg:address":"424 5th Ave",
+    "sg:city":"Reynolds",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 599 2574",
+    "sg:postcode":"58275",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VnfesaywDvfmd9EETywG1_47.673098_-97.106646@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295499,
+    "wof:geomhash":"d641ea9d65b1aac2f2e99d6188e09893",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873642005
+        }
+    ],
+    "wof:id":873642005,
+    "wof:lastmodified":1464295499,
+    "wof:name":"St Judes Catholic Church",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -97.106646,
+    47.673098,
+    -97.106646,
+    47.673098
+],
+  "geometry": {"coordinates":[-97.106646,47.673098],"type":"Point"}
+}

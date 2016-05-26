@@ -1,0 +1,66 @@
+{
+  "id": 873688659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.301357,48.221397,-101.301357,48.221397",
+    "geom:latitude":48.221397,
+    "geom:longitude":-101.301357,
+    "iso:country":"US",
+    "sg:address":"1429 6th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 5721",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3g4HP3tlRbwT1KP3v0D7pY_48.221397_-101.301357@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296239,
+    "wof:geomhash":"16a4f84d45fa6d20b9345daae807ed19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873688659
+        }
+    ],
+    "wof:id":873688659,
+    "wof:lastmodified":1464296239,
+    "wof:name":"Magic City Glass",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.301357,
+    48.221397,
+    -101.301357,
+    48.221397
+],
+  "geometry": {"coordinates":[-101.301357,48.221397],"type":"Point"}
+}

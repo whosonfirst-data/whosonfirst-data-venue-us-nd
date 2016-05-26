@@ -1,0 +1,96 @@
+{
+  "id": 873806053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.784674,46.802936,-100.784674,46.802936",
+    "geom:latitude":46.802936,
+    "geom:longitude":-100.784674,
+    "iso:country":"US",
+    "sg:address":"318 S 5th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Hair Removal",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Day Spa",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Skin Care",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Nail Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 4303",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "braiding",
+        "weaving",
+        "stylist"
+    ],
+    "sg:website":"http://myidentitysalon.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tDKk2yOcTWaSelYjjz8Hm_46.802936_-100.784674@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297852,
+    "wof:geomhash":"c7f154a506ee736377e06262e834911e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873806053
+        }
+    ],
+    "wof:id":873806053,
+    "wof:lastmodified":1464297852,
+    "wof:name":"Identity Salon",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "braiding",
+        "weaving",
+        "stylist"
+    ]
+},
+  "bbox": [
+    -100.784674,
+    46.802936,
+    -100.784674,
+    46.802936
+],
+  "geometry": {"coordinates":[-100.784674,46.802936],"type":"Point"}
+}

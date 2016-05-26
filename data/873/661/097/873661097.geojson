@@ -1,0 +1,73 @@
+{
+  "id": 873661097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.074902,47.905384,-97.074902,47.905384",
+    "geom:latitude":47.905384,
+    "geom:longitude":-97.074902,
+    "iso:country":"US",
+    "sg:address":"3209 King Pl",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 5082",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZAFi9YTXSgLXzbGzEBLPv_47.905384_-97.074902@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295709,
+    "wof:geomhash":"52e9d400ea4b75342ea57b5ead99909f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873661097
+        }
+    ],
+    "wof:id":873661097,
+    "wof:lastmodified":1464295709,
+    "wof:name":"Pauls Painting",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.074902,
+    47.905384,
+    -97.074902,
+    47.905384
+],
+  "geometry": {"coordinates":[-97.07490199999999,47.905384],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873760693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.570812,47.733132,-97.570812,47.733132",
+    "geom:latitude":47.733132,
+    "geom:longitude":-97.570812,
+    "iso:country":"US",
+    "sg:address":"324 3rd Ave",
+    "sg:city":"Wales",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 283 5337",
+    "sg:postcode":"58267",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JVZ8fYdZ0jyy3AdGSgpCb_47.733132_-97.570812@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297216,
+    "wof:geomhash":"3b4ab2ac42c4baf3c325933e0530a173",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873760693
+        }
+    ],
+    "wof:id":873760693,
+    "wof:lastmodified":1464297216,
+    "wof:name":"Wales City Park Campground",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.570812,
+    47.733132,
+    -97.570812,
+    47.733132
+],
+  "geometry": {"coordinates":[-97.570812,47.733132],"type":"Point"}
+}

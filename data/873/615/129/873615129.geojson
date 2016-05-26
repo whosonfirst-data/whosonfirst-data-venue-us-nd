@@ -1,0 +1,73 @@
+{
+  "id": 873615129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.028712,47.915366,-97.028712,47.915366",
+    "geom:latitude":47.915366,
+    "geom:longitude":-97.028712,
+    "iso:country":"US",
+    "sg:address":"523 Belmont Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 792 3394",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "marketing",
+        "distribution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5y9dJP4Y6UPnHb10zYVwrT_47.915366_-97.028712@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295196,
+    "wof:geomhash":"b30c66b0f4966f98f2696b373f61ca93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873615129
+        }
+    ],
+    "wof:id":873615129,
+    "wof:lastmodified":1464295196,
+    "wof:name":"Global Sales Advisors",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marketing",
+        "distribution"
+    ]
+},
+  "bbox": [
+    -97.028712,
+    47.915366,
+    -97.028712,
+    47.915366
+],
+  "geometry": {"coordinates":[-97.028712,47.915366],"type":"Point"}
+}

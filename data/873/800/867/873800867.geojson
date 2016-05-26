@@ -1,0 +1,84 @@
+{
+  "id": 873800867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.79369,46.892853,-96.79369,46.892853",
+    "geom:latitude":46.892853,
+    "geom:longitude":-96.79369,
+    "iso:country":"US",
+    "sg:address":"1321 10th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 306 9621",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "home",
+        "builder",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877359,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yHjSjcy2ZL2mWxIdEYklF_46.892853_-96.793690@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297783,
+    "wof:geomhash":"b994ab16cc560453b2f24b876db66957",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877359,
+            "region_id":85688525,
+            "venue_id":873800867
+        }
+    ],
+    "wof:id":873800867,
+    "wof:lastmodified":1464297783,
+    "wof:name":"Red River Home Guide",
+    "wof:parent_id":85877359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.79369,
+    46.892853,
+    -96.79369,
+    46.892853
+],
+  "geometry": {"coordinates":[-96.79369,46.892853],"type":"Point"}
+}

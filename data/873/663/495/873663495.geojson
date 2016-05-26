@@ -1,0 +1,72 @@
+{
+  "id": 873663495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.091227,47.933124,-97.091227,47.933124",
+    "geom:latitude":47.933124,
+    "geom:longitude":-97.091227,
+    "iso:country":"US",
+    "sg:address":"4212 Gateway Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 3667",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "door"
+    ],
+    "sg:website":"www.psdoors.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Vb9ETNBRhukWvKMcnsQZZ_47.933124_-97.091227@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295735,
+    "wof:geomhash":"56d73e88b0fdf594317ba85b7b67d244",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873663495
+        }
+    ],
+    "wof:id":873663495,
+    "wof:lastmodified":1464295735,
+    "wof:name":"Production Specialists Corp",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "door"
+    ]
+},
+  "bbox": [
+    -97.091227,
+    47.933124,
+    -97.091227,
+    47.933124
+],
+  "geometry": {"coordinates":[-97.091227,47.933124],"type":"Point"}
+}

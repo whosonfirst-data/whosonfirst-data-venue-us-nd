@@ -1,0 +1,73 @@
+{
+  "id": 873731381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.051171,47.759155,-97.051171,47.759155",
+    "geom:latitude":47.759155,
+    "geom:longitude":-97.051171,
+    "iso:country":"US",
+    "sg:address":"1026 6th Ave NE",
+    "sg:city":"Thompson",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 599 2986",
+    "sg:postcode":"58278",
+    "sg:province":"ND",
+    "sg:tags":[
+        "animal",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Z1TozwsgMSTAVBCU8Pihi_47.759155_-97.051171@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296797,
+    "wof:geomhash":"e952fe3daa5e76cd66eb0844f5147209",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873731381
+        }
+    ],
+    "wof:id":873731381,
+    "wof:lastmodified":1464296797,
+    "wof:name":"Sannes Systems",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "animal",
+        "general"
+    ]
+},
+  "bbox": [
+    -97.051171,
+    47.759155,
+    -97.051171,
+    47.759155
+],
+  "geometry": {"coordinates":[-97.051171,47.759155],"type":"Point"}
+}

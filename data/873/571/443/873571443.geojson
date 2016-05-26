@@ -1,0 +1,75 @@
+{
+  "id": 873571443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.298839,48.224159,-101.298839,48.224159",
+    "geom:latitude":48.224159,
+    "geom:longitude":-101.298839,
+    "iso:country":"US",
+    "sg:address":"1220 4th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 837 0011",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mbULQ2Wsw8Kkkpii5rZQw_48.224159_-101.298839@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294625,
+    "wof:geomhash":"8b3bd1ba2a7d62883c180998a343dc92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873571443
+        }
+    ],
+    "wof:id":873571443,
+    "wof:lastmodified":1464294625,
+    "wof:name":"Tremont's Pet Sitting Svc",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -101.298839,
+    48.224159,
+    -101.298839,
+    48.224159
+],
+  "geometry": {"coordinates":[-101.298839,48.224159],"type":"Point"}
+}

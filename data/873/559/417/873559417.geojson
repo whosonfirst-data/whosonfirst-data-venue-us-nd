@@ -1,0 +1,73 @@
+{
+  "id": 873559417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.066256,47.975435,-97.066256,47.975435",
+    "geom:latitude":47.975435,
+    "geom:longitude":-97.066256,
+    "iso:country":"US",
+    "sg:address":"5302 N Columbia Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 0123",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08pCmRzOokCse2fn7E2dfN_47.975435_-97.066256@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294493,
+    "wof:geomhash":"8d6e2bf8c0bf6e264251a851ac4571af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873559417
+        }
+    ],
+    "wof:id":873559417,
+    "wof:lastmodified":1464294493,
+    "wof:name":"Thompson Masonry",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.066256,
+    47.975435,
+    -97.066256,
+    47.975435
+],
+  "geometry": {"coordinates":[-97.066256,47.975435],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873803123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.821159,46.873248,-96.821159,46.873248",
+    "geom:latitude":46.873248,
+    "geom:longitude":-96.821159,
+    "iso:country":"US",
+    "sg:address":"60 27th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 4526",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automotive",
+        "tune"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KURytHeSd8vaFUjiZhADf_46.873248_-96.821159@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297811,
+    "wof:geomhash":"3537f528eaed8d1ac318589e45bb4d3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873803123
+        }
+    ],
+    "wof:id":873803123,
+    "wof:lastmodified":1464297811,
+    "wof:name":"Fuel Force",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "tune"
+    ]
+},
+  "bbox": [
+    -96.821159,
+    46.873248,
+    -96.821159,
+    46.873248
+],
+  "geometry": {"coordinates":[-96.82115899999999,46.873248],"type":"Point"}
+}

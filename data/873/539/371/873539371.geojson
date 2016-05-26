@@ -1,0 +1,79 @@
+{
+  "id": 873539371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.046314,47.933184,-97.046314,47.933184",
+    "geom:latitude":47.933184,
+    "geom:longitude":-97.046314,
+    "iso:country":"US",
+    "sg:address":"310 Gateway Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 5801",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "sg:website":"www.gosimonson.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pImRgxnkEduKK6ik3H7qt_47.933184_-97.046314@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294253,
+    "wof:geomhash":"e8751ccdf3a844d04364b2fafbfa0ed6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873539371
+        }
+    ],
+    "wof:id":873539371,
+    "wof:lastmodified":1464294253,
+    "wof:name":"Simonson Station Stores Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -97.046314,
+    47.933184,
+    -97.046314,
+    47.933184
+],
+  "geometry": {"coordinates":[-97.046314,47.933184],"type":"Point"}
+}

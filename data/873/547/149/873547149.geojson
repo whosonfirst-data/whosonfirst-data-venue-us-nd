@@ -1,0 +1,66 @@
+{
+  "id": 873547149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.623633,47.910854,-97.623633,47.910854",
+    "geom:latitude":47.910854,
+    "geom:longitude":-97.623633,
+    "iso:country":"US",
+    "sg:address":"611 Towner Ave",
+    "sg:city":"Larimore",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 343 2416",
+    "sg:postcode":"58251",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PSbq3NsdjXDYOqTbFVsXY_47.910854_-97.623633@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294341,
+    "wof:geomhash":"e6bedc29c49fcaa6c3c9d0f197bf488e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873547149
+        }
+    ],
+    "wof:id":873547149,
+    "wof:lastmodified":1464294341,
+    "wof:name":"Elk Valley Farms",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.623633,
+    47.910854,
+    -97.623633,
+    47.910854
+],
+  "geometry": {"coordinates":[-97.623633,47.910854],"type":"Point"}
+}

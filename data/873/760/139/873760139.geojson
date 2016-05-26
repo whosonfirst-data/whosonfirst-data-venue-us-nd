@@ -1,0 +1,77 @@
+{
+  "id": 873760139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.292952,48.233373,-101.292952,48.233373",
+    "geom:latitude":48.233373,
+    "geom:longitude":-101.292952,
+    "iso:country":"US",
+    "sg:address":"415 Main St S",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 6751",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hQNNSuGTODdAARxLY6uMr_48.233373_-101.292952@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297208,
+    "wof:geomhash":"495469a9104143f29c060f4bfc270f98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873760139
+        }
+    ],
+    "wof:id":873760139,
+    "wof:lastmodified":1464297208,
+    "wof:name":"Design & Decor",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ]
+},
+  "bbox": [
+    -101.292952,
+    48.233373,
+    -101.292952,
+    48.233373
+],
+  "geometry": {"coordinates":[-101.292952,48.233373],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873691977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.564271,48.256549,-101.564271,48.256549",
+    "geom:latitude":48.256549,
+    "geom:longitude":-101.564271,
+    "iso:country":"US",
+    "sg:address":"33 3rd Ave S",
+    "sg:city":"Des Lacs",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 725 4982",
+    "sg:postcode":"58733",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6f772cW48QcHd8RMiOOaha_48.256549_-101.564271@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296315,
+    "wof:geomhash":"3c8a5d45ec22131419e129e7d47f56bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873691977
+        }
+    ],
+    "wof:id":873691977,
+    "wof:lastmodified":1464296315,
+    "wof:name":"Des Lacs United Methodist Chr",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -101.564271,
+    48.256549,
+    -101.564271,
+    48.256549
+],
+  "geometry": {"coordinates":[-101.56427100000001,48.256549],"type":"Point"}
+}

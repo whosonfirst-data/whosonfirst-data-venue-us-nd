@@ -1,0 +1,73 @@
+{
+  "id": 873656521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.362406,47.928838,-97.362406,47.928838",
+    "geom:latitude":47.928838,
+    "geom:longitude":-97.362406,
+    "iso:country":"US",
+    "sg:address":"215 6th St",
+    "sg:city":"Emerado",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 594 3378",
+    "sg:postcode":"58228",
+    "sg:province":"ND",
+    "sg:tags":[
+        "interior",
+        "decorating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mnxv2mcenRnOMIa1On6bd_47.928838_-97.362406@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295662,
+    "wof:geomhash":"9a17d88d3f5d9f353b1e0dba7e310e5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873656521
+        }
+    ],
+    "wof:id":873656521,
+    "wof:lastmodified":1464295662,
+    "wof:name":"Signature Interiors",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "decorating"
+    ]
+},
+  "bbox": [
+    -97.362406,
+    47.928838,
+    -97.362406,
+    47.928838
+],
+  "geometry": {"coordinates":[-97.36240599999999,47.928838],"type":"Point"}
+}

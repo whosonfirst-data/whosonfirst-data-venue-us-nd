@@ -1,0 +1,66 @@
+{
+  "id": 873640817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.028736,47.912177,-97.028736,47.912177",
+    "geom:latitude":47.912177,
+    "geom:longitude":-97.028736,
+    "iso:country":"US",
+    "sg:address":"923 Belmont Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 0906",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iTcNBtdTMcRfTRweumlwa_47.912177_-97.028736@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295485,
+    "wof:geomhash":"4cf49d090c4521f4adacf661200a01a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873640817
+        }
+    ],
+    "wof:id":873640817,
+    "wof:lastmodified":1464295485,
+    "wof:name":"Custom Enterprises Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.028736,
+    47.912177,
+    -97.028736,
+    47.912177
+],
+  "geometry": {"coordinates":[-97.02873599999999,47.912177],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873767213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.101459,47.773646,-97.101459,47.773646",
+    "geom:latitude":47.773646,
+    "geom:longitude":-97.101459,
+    "iso:country":"US",
+    "sg:address":"612 Broadway St",
+    "sg:city":"Thompson",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 599 2600",
+    "sg:postcode":"58278",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TMyZKfoZQsAIYN35hZS0f_47.773646_-97.101459@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297328,
+    "wof:geomhash":"f9da3bcce2e8dea45ad8b9e07fe68923",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873767213
+        }
+    ],
+    "wof:id":873767213,
+    "wof:lastmodified":1464297328,
+    "wof:name":"First State Bank",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.101459,
+    47.773646,
+    -97.101459,
+    47.773646
+],
+  "geometry": {"coordinates":[-97.10145900000001,47.773646],"type":"Point"}
+}

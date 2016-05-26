@@ -1,0 +1,71 @@
+{
+  "id": 873559337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.197362,48.182051,-101.197362,48.182051",
+    "geom:latitude":48.182051,
+    "geom:longitude":-101.197362,
+    "iso:country":"US",
+    "sg:address":"6505 54th Ave SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 8765",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Wf0JTZOWj9DlHZJadOfQZ_48.182051_-101.197362@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294492,
+    "wof:geomhash":"a62abd6df5f9e40f7fa574dd9a42106a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873559337
+        }
+    ],
+    "wof:id":873559337,
+    "wof:lastmodified":1464294492,
+    "wof:name":"J Rs Mobile Home Service",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -101.197362,
+    48.182051,
+    -101.197362,
+    48.182051
+],
+  "geometry": {"coordinates":[-101.197362,48.182051],"type":"Point"}
+}

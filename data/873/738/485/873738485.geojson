@@ -1,0 +1,75 @@
+{
+  "id": 873738485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.758577,46.830274,-100.758577,46.830274",
+    "geom:latitude":46.830274,
+    "geom:longitude":-100.758577,
+    "iso:country":"US",
+    "sg:address":"1977 E Capitol Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 323 9294",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "oil",
+        "gas",
+        "producer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SF4tnJ6c6YgufBh4GZzBE_46.830274_-100.758577@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296902,
+    "wof:geomhash":"4d89c7d2ec58c1c03c2599937f21ee41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873738485
+        }
+    ],
+    "wof:id":873738485,
+    "wof:lastmodified":1464296902,
+    "wof:name":"D & E Oil Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "gas",
+        "producer"
+    ]
+},
+  "bbox": [
+    -100.758577,
+    46.830274,
+    -100.758577,
+    46.830274
+],
+  "geometry": {"coordinates":[-100.758577,46.830274],"type":"Point"}
+}

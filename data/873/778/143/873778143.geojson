@@ -1,0 +1,71 @@
+{
+  "id": 873778143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.100978,47.927042,-97.100978,47.927042",
+    "geom:latitude":47.927042,
+    "geom:longitude":-97.100978,
+    "iso:country":"US",
+    "sg:address":"733 Dawn Cir",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 7669",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "investor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PeQGRFIhNEfM92uEFRkDL_47.927042_-97.100978@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297465,
+    "wof:geomhash":"2e05336133754e69ef15b02a6d145a44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873778143
+        }
+    ],
+    "wof:id":873778143,
+    "wof:lastmodified":1464297465,
+    "wof:name":"Gt Investments LLC",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investor"
+    ]
+},
+  "bbox": [
+    -97.100978,
+    47.927042,
+    -97.100978,
+    47.927042
+],
+  "geometry": {"coordinates":[-97.100978,47.927042],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873541049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.091168,47.933124,-97.091168,47.933124",
+    "geom:latitude":47.933124,
+    "geom:longitude":-97.091168,
+    "iso:country":"US",
+    "sg:address":"4216 Gateway Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 8125",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "building"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wZxTCIULXwriC1tkTdoZK_47.933124_-97.091168@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294270,
+    "wof:geomhash":"4f6683393ca3f963abc37e51cb03367f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873541049
+        }
+    ],
+    "wof:id":873541049,
+    "wof:lastmodified":1464294270,
+    "wof:name":"Rebarchek Construction",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building"
+    ]
+},
+  "bbox": [
+    -97.091168,
+    47.933124,
+    -97.091168,
+    47.933124
+],
+  "geometry": {"coordinates":[-97.091168,47.933124],"type":"Point"}
+}

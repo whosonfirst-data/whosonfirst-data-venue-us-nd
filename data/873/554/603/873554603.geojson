@@ -1,0 +1,78 @@
+{
+  "id": 873554603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.835615,46.826237,-96.835615,46.826237",
+    "geom:latitude":46.826237,
+    "geom:longitude":-96.835615,
+    "iso:country":"US",
+    "sg:address":"3350 35th Ave SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 0941",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "mechanical",
+        "contractor"
+    ],
+    "sg:website":"www.northccinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877355,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NXLE5mq71VlZIuuLUxoou_46.826237_-96.835615@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294431,
+    "wof:geomhash":"7b7f0b62e9aa7ee17baaebde2d0b83c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877355,
+            "region_id":85688525,
+            "venue_id":873554603
+        }
+    ],
+    "wof:id":873554603,
+    "wof:lastmodified":1464294431,
+    "wof:name":"North Central Construction Inc",
+    "wof:parent_id":85877355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mechanical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.835615,
+    46.826237,
+    -96.835615,
+    46.826237
+],
+  "geometry": {"coordinates":[-96.835615,46.826237],"type":"Point"}
+}

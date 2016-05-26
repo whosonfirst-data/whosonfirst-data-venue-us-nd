@@ -1,0 +1,80 @@
+{
+  "id": 873805187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.845865,46.829254,-96.845865,46.829254",
+    "geom:latitude":46.829254,
+    "geom:longitude":-96.845865,
+    "iso:country":"US",
+    "sg:address":"3357 39th St S Ste 4",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 8357",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "forwarding",
+        "container",
+        "broker"
+    ],
+    "sg:website":"http://www.chrobinson.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877355,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zjvKU6tS2NhwuGEmkYxQJ_46.829254_-96.845865@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297837,
+    "wof:geomhash":"dd56ddcf0dee70e77ae7ae9965b4e0ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877355,
+            "region_id":85688525,
+            "venue_id":873805187
+        }
+    ],
+    "wof:id":873805187,
+    "wof:lastmodified":1464297837,
+    "wof:name":"C.H. Robinson 160",
+    "wof:parent_id":85877355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forwarding",
+        "container",
+        "broker"
+    ]
+},
+  "bbox": [
+    -96.845865,
+    46.829254,
+    -96.845865,
+    46.829254
+],
+  "geometry": {"coordinates":[-96.845865,46.829254],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 873671467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.8511,46.855109,-96.8511,46.855109",
+    "geom:latitude":46.855109,
+    "geom:longitude":-96.8511,
+    "iso:country":"US",
+    "sg:address":"1635 42nd St SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 281 7105",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kEKlJOoGfrb03ZtW91LxV_46.855109_-96.851100@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295816,
+    "wof:geomhash":"06c46b585c9d56c9b989091d2596cc03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873671467
+        }
+    ],
+    "wof:id":873671467,
+    "wof:lastmodified":1464295816,
+    "wof:name":"Basie's On 42nd St",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.8511,
+    46.855109,
+    -96.8511,
+    46.855109
+],
+  "geometry": {"coordinates":[-96.8511,46.855109],"type":"Point"}
+}

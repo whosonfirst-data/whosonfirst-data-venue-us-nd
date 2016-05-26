@@ -1,0 +1,75 @@
+{
+  "id": 873634645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.787552,46.810677,-100.787552,46.810677",
+    "geom:latitude":46.810677,
+    "geom:longitude":-100.787552,
+    "iso:country":"US",
+    "sg:address":"500 N 3rd St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 400 7690",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Q2WtEfsAyZucs31ibpu5V_46.810677_-100.787552@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295419,
+    "wof:geomhash":"23c0b50f0a1319de5340a64ad44a82f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873634645
+        }
+    ],
+    "wof:id":873634645,
+    "wof:lastmodified":1464295419,
+    "wof:name":"Xterior Solutions LLP",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.787552,
+    46.810677,
+    -100.787552,
+    46.810677
+],
+  "geometry": {"coordinates":[-100.78755200000001,46.810677],"type":"Point"}
+}

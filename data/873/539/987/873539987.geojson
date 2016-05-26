@@ -1,0 +1,71 @@
+{
+  "id": 873539987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.74188,46.812293,-100.74188,46.812293",
+    "geom:latitude":46.812293,
+    "geom:longitude":-100.74188,
+    "iso:country":"US",
+    "sg:address":"827 N 33rd St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 224 9807",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Hqx7YeLsl6UBEbDSix4jg_46.812293_-100.741880@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294259,
+    "wof:geomhash":"77584282338b4cbc054e67eab402a8e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873539987
+        }
+    ],
+    "wof:id":873539987,
+    "wof:lastmodified":1464294259,
+    "wof:name":"Kent's Floors & More",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [
+    -100.74188,
+    46.812293,
+    -100.74188,
+    46.812293
+],
+  "geometry": {"coordinates":[-100.74187999999999,46.812293],"type":"Point"}
+}

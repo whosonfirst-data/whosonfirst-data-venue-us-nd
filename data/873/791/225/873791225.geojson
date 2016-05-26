@@ -1,0 +1,69 @@
+{
+  "id": 873791225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.523445,47.986441,-101.523445,47.986441",
+    "geom:latitude":47.986441,
+    "geom:longitude":-101.523445,
+    "iso:country":"US",
+    "sg:address":"14900 247th Ave SW",
+    "sg:city":"Douglas",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 722 3594",
+    "sg:postcode":"58735",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "grain",
+        "cash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4R643Eux3one0lngeqK3Km_47.986441_-101.523445@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297657,
+    "wof:geomhash":"f824855f6d3c57893bd802971df318c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873791225
+        }
+    ],
+    "wof:id":873791225,
+    "wof:lastmodified":1464297657,
+    "wof:name":"Homer Nesson",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "grain",
+        "cash"
+    ]
+},
+  "bbox": [
+    -101.523445,
+    47.986441,
+    -101.523445,
+    47.986441
+],
+  "geometry": {"coordinates":[-101.523445,47.986441],"type":"Point"}
+}

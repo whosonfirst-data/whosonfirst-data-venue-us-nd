@@ -1,0 +1,70 @@
+{
+  "id": 873630463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.786109,46.810632,-100.786109,46.810632",
+    "geom:latitude":46.810632,
+    "geom:longitude":-100.786109,
+    "iso:country":"US",
+    "sg:address":"502 N 4th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 3560",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VSbp2r0qUfRIo5Ixs4n9i_46.810632_-100.786109@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295370,
+    "wof:geomhash":"02ac4e7f707eb94d68704e03b1357517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873630463
+        }
+    ],
+    "wof:id":873630463,
+    "wof:lastmodified":1464295370,
+    "wof:name":"Trinity Evangelical Church",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.786109,
+    46.810632,
+    -100.786109,
+    46.810632
+],
+  "geometry": {"coordinates":[-100.786109,46.810632],"type":"Point"}
+}

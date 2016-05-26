@@ -1,0 +1,71 @@
+{
+  "id": 873632027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.792307,46.803736,-100.792307,46.803736",
+    "geom:latitude":46.803736,
+    "geom:longitude":-100.792307,
+    "iso:country":"US",
+    "sg:address":"226 W Sweet Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 471 3290",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mmVDh8b1cwyr7IZ8Bklwy_46.803736_-100.792307@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295385,
+    "wof:geomhash":"eee14c708b26f26b38b5b2035f47b17f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873632027
+        }
+    ],
+    "wof:id":873632027,
+    "wof:lastmodified":1464295385,
+    "wof:name":"F1 Computer Consulting",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "related"
+    ]
+},
+  "bbox": [
+    -100.792307,
+    46.803736,
+    -100.792307,
+    46.803736
+],
+  "geometry": {"coordinates":[-100.79230699999999,46.803736],"type":"Point"}
+}

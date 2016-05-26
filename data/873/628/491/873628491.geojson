@@ -1,0 +1,75 @@
+{
+  "id": 873628491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.806899,46.877487,-96.806899,46.877487",
+    "geom:latitude":46.877487,
+    "geom:longitude":-96.806899,
+    "iso:country":"US",
+    "sg:address":"1615 1st Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 8959",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "windows"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IfSyqfZtIkjC4oQGzuSK9_46.877487_-96.806899@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295345,
+    "wof:geomhash":"a7a0d984e1ec70c25c1c33d174a65376",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873628491
+        }
+    ],
+    "wof:id":873628491,
+    "wof:lastmodified":1464295345,
+    "wof:name":"Energy Systems Inc",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "windows"
+    ]
+},
+  "bbox": [
+    -96.806899,
+    46.877487,
+    -96.806899,
+    46.877487
+],
+  "geometry": {"coordinates":[-96.806899,46.877487],"type":"Point"}
+}

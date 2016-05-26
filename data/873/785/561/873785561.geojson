@@ -1,0 +1,69 @@
+{
+  "id": 873785561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.296158,48.195801,-101.296158,48.195801",
+    "geom:latitude":48.195801,
+    "geom:longitude":-101.296158,
+    "iso:country":"US",
+    "sg:address":"4100 2nd St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 5262",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "bulk",
+        "bottled",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QzkdzwLi77MsY4l1GGVLB_48.195801_-101.296158@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297562,
+    "wof:geomhash":"35c39877aaa295e4e4da97d1f5cf9f2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873785561
+        }
+    ],
+    "wof:id":873785561,
+    "wof:lastmodified":1464297562,
+    "wof:name":"Tri-N Propane",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulk",
+        "bottled",
+        "gas"
+    ]
+},
+  "bbox": [
+    -101.296158,
+    48.195801,
+    -101.296158,
+    48.195801
+],
+  "geometry": {"coordinates":[-101.29615800000001,48.195801],"type":"Point"}
+}

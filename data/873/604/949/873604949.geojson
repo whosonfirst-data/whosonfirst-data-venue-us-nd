@@ -1,0 +1,66 @@
+{
+  "id": 873604949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.077837,47.933101,-97.077837,47.933101",
+    "geom:latitude":47.933101,
+    "geom:longitude":-97.077837,
+    "iso:country":"US",
+    "sg:address":"3400 Gateway Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 5341",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FNFx0XF12WBrOMVkRKWn2_47.933101_-97.077837@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295039,
+    "wof:geomhash":"f3e437c79117f29b125a6c87c8e18cf9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873604949
+        }
+    ],
+    "wof:id":873604949,
+    "wof:lastmodified":1464295039,
+    "wof:name":"Budget Inn Express",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.077837,
+    47.933101,
+    -97.077837,
+    47.933101
+],
+  "geometry": {"coordinates":[-97.077837,47.933101],"type":"Point"}
+}

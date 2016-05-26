@@ -1,0 +1,71 @@
+{
+  "id": 873637025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.033493,47.900996,-97.033493,47.900996",
+    "geom:latitude":47.900996,
+    "geom:longitude":-97.033493,
+    "iso:country":"US",
+    "sg:address":"1824 Cottonwood St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 739 3186",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PnVTjRH956Wb8tXgS6mpS_47.900996_-97.033493@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295445,
+    "wof:geomhash":"d06d9ce71d658c93b7036eec5c76bdf3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873637025
+        }
+    ],
+    "wof:id":873637025,
+    "wof:lastmodified":1464295445,
+    "wof:name":"Wally's House Calls",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -97.033493,
+    47.900996,
+    -97.033493,
+    47.900996
+],
+  "geometry": {"coordinates":[-97.03349300000001,47.900996],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873625503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.779066,46.748006,-100.779066,46.748006",
+    "geom:latitude":46.748006,
+    "geom:longitude":-100.779066,
+    "iso:country":"US",
+    "sg:address":"5131 Willow Oaks Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 4318",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "home",
+        "builder",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Iz9w7wPQPHkIoD2KJWSbt_46.748006_-100.779066@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295316,
+    "wof:geomhash":"cd0531929ce599cda55c0ff518a52b5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873625503
+        }
+    ],
+    "wof:id":873625503,
+    "wof:lastmodified":1464295316,
+    "wof:name":"Kohler's Home Improvements",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder",
+        "house"
+    ]
+},
+  "bbox": [
+    -100.779066,
+    46.748006,
+    -100.779066,
+    46.748006
+],
+  "geometry": {"coordinates":[-100.779066,46.748006],"type":"Point"}
+}

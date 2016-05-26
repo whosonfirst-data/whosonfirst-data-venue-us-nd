@@ -1,0 +1,73 @@
+{
+  "id": 873671027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.274093,48.228861,-101.274093,48.228861",
+    "geom:latitude":48.228861,
+    "geom:longitude":-101.274093,
+    "iso:country":"US",
+    "sg:address":"2405 13th St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 3716",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "downspouts",
+        "gutter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xHfxASNBUgVsks2v16z5a_48.228861_-101.274093@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295812,
+    "wof:geomhash":"baf494b69a9c0d638de52482eabc2a7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873671027
+        }
+    ],
+    "wof:id":873671027,
+    "wof:lastmodified":1464295812,
+    "wof:name":"Gowan Rain Gutter",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "downspouts",
+        "gutter"
+    ]
+},
+  "bbox": [
+    -101.274093,
+    48.228861,
+    -101.274093,
+    48.228861
+],
+  "geometry": {"coordinates":[-101.27409299999999,48.228861],"type":"Point"}
+}

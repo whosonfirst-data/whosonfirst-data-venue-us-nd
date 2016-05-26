@@ -1,0 +1,70 @@
+{
+  "id": 873670831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.819099,46.813672,-96.819099,46.813672",
+    "geom:latitude":46.813672,
+    "geom:longitude":-96.819099,
+    "iso:country":"US",
+    "sg:address":"4201 25th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 446 4309",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877333,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1O8V678UHrOxEsNzkquZH0_46.813672_-96.819099@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295810,
+    "wof:geomhash":"a9b6cc026c730ce39a6c9b45046961f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877333,
+            "region_id":85688525,
+            "venue_id":873670831
+        }
+    ],
+    "wof:id":873670831,
+    "wof:lastmodified":1464295810,
+    "wof:name":"Fargo Public Sch Dist No 1",
+    "wof:parent_id":85877333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.819099,
+    46.813672,
+    -96.819099,
+    46.813672
+],
+  "geometry": {"coordinates":[-96.81909899999999,46.813672],"type":"Point"}
+}

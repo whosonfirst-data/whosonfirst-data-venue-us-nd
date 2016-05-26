@@ -1,0 +1,71 @@
+{
+  "id": 873605405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.642077,46.827226,-100.642077,46.827226",
+    "geom:latitude":46.827226,
+    "geom:longitude":-100.642077,
+    "iso:country":"US",
+    "sg:address":"1751 93rd St NE",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Poultry",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 0060",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "eggs"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48UdLJsuqo6BuevnN7rq6Z_46.827226_-100.642077@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295046,
+    "wof:geomhash":"25194ebb297c6afd1ccf9662dd95c697",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873605405
+        }
+    ],
+    "wof:id":873605405,
+    "wof:lastmodified":1464295046,
+    "wof:name":"Juel Egg Co",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eggs"
+    ]
+},
+  "bbox": [
+    -100.642077,
+    46.827226,
+    -100.642077,
+    46.827226
+],
+  "geometry": {"coordinates":[-100.642077,46.827226],"type":"Point"}
+}

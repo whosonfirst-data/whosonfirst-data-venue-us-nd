@@ -1,0 +1,74 @@
+{
+  "id": 873746713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.293112,48.235615,-101.293112,48.235615",
+    "geom:latitude":48.235615,
+    "geom:longitude":-101.293112,
+    "iso:country":"US",
+    "sg:address":"112 Main St S",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 8181",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "mail",
+        "order"
+    ],
+    "sg:website":"www.carolsetc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43FDddKr0TImxntJTArXWa_48.235615_-101.293112@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297035,
+    "wof:geomhash":"a5db906e18f13b5ab8d278da8893807f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873746713
+        }
+    ],
+    "wof:id":873746713,
+    "wof:lastmodified":1464297035,
+    "wof:name":"Carol's Etc",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "order"
+    ]
+},
+  "bbox": [
+    -101.293112,
+    48.235615,
+    -101.293112,
+    48.235615
+],
+  "geometry": {"coordinates":[-101.29311199999999,48.235615],"type":"Point"}
+}

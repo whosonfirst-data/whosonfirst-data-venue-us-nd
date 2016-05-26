@@ -1,0 +1,75 @@
+{
+  "id": 873548759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.835653,46.811959,-96.835653,46.811959",
+    "geom:latitude":46.811959,
+    "geom:longitude":-96.835653,
+    "iso:country":"US",
+    "sg:address":"3518 46th Ave SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 8884",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877333,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31a0VD1iPbrcW76vij641v_46.811959_-96.835653@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294364,
+    "wof:geomhash":"636322d0681388453159252cbe17ca4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877333,
+            "region_id":85688525,
+            "venue_id":873548759
+        }
+    ],
+    "wof:id":873548759,
+    "wof:lastmodified":1464294364,
+    "wof:name":"Providian Consulting LLC",
+    "wof:parent_id":85877333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -96.835653,
+    46.811959,
+    -96.835653,
+    46.811959
+],
+  "geometry": {"coordinates":[-96.83565299999999,46.811959],"type":"Point"}
+}

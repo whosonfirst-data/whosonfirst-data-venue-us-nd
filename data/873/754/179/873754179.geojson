@@ -1,0 +1,73 @@
+{
+  "id": 873754179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.992338,47.957101,-100.992338,47.957101",
+    "geom:latitude":47.957101,
+    "geom:longitude":-100.992338,
+    "iso:country":"US",
+    "sg:address":"26701 195th St SE",
+    "sg:city":"Velva",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 624 5709",
+    "sg:postcode":"58790",
+    "sg:province":"ND",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PN19NLJ1NcfIYo1gq8beF_47.957101_-100.992338@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297135,
+    "wof:geomhash":"62000b02edb27b0d5572bbcc0ea1a78d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873754179
+        }
+    ],
+    "wof:id":873754179,
+    "wof:lastmodified":1464297135,
+    "wof:name":"Mark's Electric",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.992338,
+    47.957101,
+    -100.992338,
+    47.957101
+],
+  "geometry": {"coordinates":[-100.992338,47.957101],"type":"Point"}
+}

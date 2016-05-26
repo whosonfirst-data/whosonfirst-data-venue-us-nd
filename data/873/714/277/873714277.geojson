@@ -1,0 +1,66 @@
+{
+  "id": 873714277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.787561,46.807383,-100.787561,46.807383",
+    "geom:latitude":46.807383,
+    "geom:longitude":-100.787561,
+    "iso:country":"US",
+    "sg:address":"217 N 3rd St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 4422",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GhI7qlmKCD5T3eUzJpy7J_46.807383_-100.787561@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296568,
+    "wof:geomhash":"a55b7e0efbc22beba3bbe8a11043dfb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873714277
+        }
+    ],
+    "wof:id":873714277,
+    "wof:lastmodified":1464296568,
+    "wof:name":"No Dakota Golf Assn",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.787561,
+    46.807383,
+    -100.787561,
+    46.807383
+],
+  "geometry": {"coordinates":[-100.787561,46.807383],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873633197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.320392,48.256741,-101.320392,48.256741",
+    "geom:latitude":48.256741,
+    "geom:longitude":-101.320392,
+    "iso:country":"US",
+    "sg:address":"1515 20th Ave NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 837 1394",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4T20TpjCLalBKohBY1OWL9_48.256741_-101.320392@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295403,
+    "wof:geomhash":"f52a09c4a451b6cdd1ccc5845be3d59e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873633197
+        }
+    ],
+    "wof:id":873633197,
+    "wof:lastmodified":1464295403,
+    "wof:name":"Maratek Technologies Inc",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -101.320392,
+    48.256741,
+    -101.320392,
+    48.256741
+],
+  "geometry": {"coordinates":[-101.320392,48.256741],"type":"Point"}
+}

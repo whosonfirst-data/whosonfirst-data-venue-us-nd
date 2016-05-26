@@ -1,0 +1,66 @@
+{
+  "id": 873589989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.027458,47.871286,-97.027458,47.871286",
+    "geom:latitude":47.871286,
+    "geom:longitude":-97.027458,
+    "iso:country":"US",
+    "sg:address":"5094 River Crest Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 7756",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6srdpvjsyWDslXPU85meUv_47.871286_-97.027458@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294831,
+    "wof:geomhash":"d2aed211680d37048e9262d72d0848a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873589989
+        }
+    ],
+    "wof:id":873589989,
+    "wof:lastmodified":1464294831,
+    "wof:name":"Ameri Kids Nutrition Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.027458,
+    47.871286,
+    -97.027458,
+    47.871286
+],
+  "geometry": {"coordinates":[-97.027458,47.871286],"type":"Point"}
+}

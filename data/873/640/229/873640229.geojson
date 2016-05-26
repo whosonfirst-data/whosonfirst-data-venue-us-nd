@@ -1,0 +1,71 @@
+{
+  "id": 873640229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.06517,47.947509,-97.06517,47.947509",
+    "geom:latitude":47.947509,
+    "geom:longitude":-97.06517,
+    "iso:country":"US",
+    "sg:address":"2575 27th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 780 9877",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60vClrh9AxxHlMxCc7POiP_47.947509_-97.065170@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295475,
+    "wof:geomhash":"661c738c5e41cf651ab9f1bba2c8a1db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873640229
+        }
+    ],
+    "wof:id":873640229,
+    "wof:lastmodified":1464295475,
+    "wof:name":"Johnson Transport",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -97.06517,
+    47.947509,
+    -97.06517,
+    47.947509
+],
+  "geometry": {"coordinates":[-97.06516999999999,47.947509],"type":"Point"}
+}

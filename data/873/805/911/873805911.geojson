@@ -1,0 +1,91 @@
+{
+  "id": 873805911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.773987,46.805301,-100.773987,46.805301",
+    "geom:latitude":46.805301,
+    "geom:longitude":-100.773987,
+    "iso:country":"US",
+    "sg:address":"1212 E Main Ave Ste 1",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospice",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 530 4500",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "home",
+        "medical",
+        "eldercare-home"
+    ],
+    "sg:website":"http://www.st.alexius.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7D1aiDxhBLqLoOErJlSs1l_46.805301_-100.773987@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297850,
+    "wof:geomhash":"032ffcbb6335a0ab9f552a0b08b2b388",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873805911
+        }
+    ],
+    "wof:id":873805911,
+    "wof:lastmodified":1464297850,
+    "wof:name":"Home Care & Hospice",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "medical",
+        "eldercare-home"
+    ]
+},
+  "bbox": [
+    -100.773987,
+    46.805301,
+    -100.773987,
+    46.805301
+],
+  "geometry": {"coordinates":[-100.77398700000001,46.805301],"type":"Point"}
+}

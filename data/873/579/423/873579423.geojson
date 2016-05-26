@@ -1,0 +1,77 @@
+{
+  "id": 873579423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.052634,47.915495,-97.052634,47.915495",
+    "geom:latitude":47.915495,
+    "geom:longitude":-97.052634,
+    "iso:country":"US",
+    "sg:address":"614 S 18th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 4608",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "specializing",
+        "work",
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Qf7OO2xJG05TK3QjPM6SB_47.915495_-97.052634@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294711,
+    "wof:geomhash":"bca6534ad6912b377e89e26659914d0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873579423
+        }
+    ],
+    "wof:id":873579423,
+    "wof:lastmodified":1464294711,
+    "wof:name":"Comeau Electric Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specializing",
+        "work",
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.052634,
+    47.915495,
+    -97.052634,
+    47.915495
+],
+  "geometry": {"coordinates":[-97.052634,47.915495],"type":"Point"}
+}

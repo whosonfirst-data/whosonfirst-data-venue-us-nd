@@ -1,0 +1,71 @@
+{
+  "id": 873556661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.029459,47.921951,-97.029459,47.921951",
+    "geom:latitude":47.921951,
+    "geom:longitude":-97.029459,
+    "iso:country":"US",
+    "sg:address":"405 Bruce Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 787 8802",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qA16cMar7R7PjRocsSH4O_47.921951_-97.029459@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294455,
+    "wof:geomhash":"b7d4b49c5e40498a5937a2f96be2ba49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873556661
+        }
+    ],
+    "wof:id":873556661,
+    "wof:lastmodified":1464294455,
+    "wof:name":"Reichert Law Offices",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -97.029459,
+    47.921951,
+    -97.029459,
+    47.921951
+],
+  "geometry": {"coordinates":[-97.029459,47.921951],"type":"Point"}
+}

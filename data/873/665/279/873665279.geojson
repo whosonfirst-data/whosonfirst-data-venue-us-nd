@@ -1,0 +1,73 @@
+{
+  "id": 873665279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.767348,46.715832,-100.767348,46.715832",
+    "geom:latitude":46.715832,
+    "geom:longitude":-100.767348,
+    "iso:country":"US",
+    "sg:address":"9001 Briardale Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 0569",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XnYiTzyGEGaL6fNFnLHoA_46.715832_-100.767348@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295753,
+    "wof:geomhash":"871d774aa34dd2f82f300c9c19d31531",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873665279
+        }
+    ],
+    "wof:id":873665279,
+    "wof:lastmodified":1464295753,
+    "wof:name":"Custom Work By Casey Kulish",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.767348,
+    46.715832,
+    -100.767348,
+    46.715832
+],
+  "geometry": {"coordinates":[-100.767348,46.715832],"type":"Point"}
+}

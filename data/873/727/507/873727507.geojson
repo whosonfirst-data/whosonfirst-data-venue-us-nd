@@ -1,0 +1,71 @@
+{
+  "id": 873727507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.301529,48.234029,-101.301529,48.234029",
+    "geom:latitude":48.234029,
+    "geom:longitude":-101.301529,
+    "iso:country":"US",
+    "sg:address":"515 2nd Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 0488",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AevPHMiILWASj20iVpvqk_48.234029_-101.301529@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296747,
+    "wof:geomhash":"561095a9d1d07368a1d236e35b442db8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873727507
+        }
+    ],
+    "wof:id":873727507,
+    "wof:lastmodified":1464296747,
+    "wof:name":"Mayor's Council For Traffic",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -101.301529,
+    48.234029,
+    -101.301529,
+    48.234029
+],
+  "geometry": {"coordinates":[-101.301529,48.234029],"type":"Point"}
+}

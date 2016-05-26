@@ -1,0 +1,73 @@
+{
+  "id": 873674299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.168926,47.915445,-97.168926,47.915445",
+    "geom:latitude":47.915445,
+    "geom:longitude":-97.168926,
+    "iso:country":"US",
+    "sg:address":"9330 Mahlum Ct",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 9195",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "house",
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85842979,
+        102081493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AzSjtZmsEcCSQjRay85sV_47.915445_-97.168926@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295848,
+    "wof:geomhash":"9ee7de4d76e32c6e07ad52e4ebb7399c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "neighbourhood_id":85842979,
+            "region_id":85688525,
+            "venue_id":873674299
+        }
+    ],
+    "wof:id":873674299,
+    "wof:lastmodified":1464295848,
+    "wof:name":"Johnson Reno Construction",
+    "wof:parent_id":85842979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.168926,
+    47.915445,
+    -97.168926,
+    47.915445
+],
+  "geometry": {"coordinates":[-97.168926,47.915445],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 873608127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.785353,46.7915,-100.785353,46.7915",
+    "geom:latitude":46.7915,
+    "geom:longitude":-100.785353,
+    "iso:country":"US",
+    "sg:address":"1312 Columbia Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 221 3415",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:website":"www.bismarck.k12.nd.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7J1vdB4YxYVj4FzaaEF3Cw_46.791500_-100.785353@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295101,
+    "wof:geomhash":"b3da4d87ea9251701b7d4131bbe5aee0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873608127
+        }
+    ],
+    "wof:id":873608127,
+    "wof:lastmodified":1464295101,
+    "wof:name":"Dorothy Moses Elementary Schl",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.785353,
+    46.7915,
+    -100.785353,
+    46.7915
+],
+  "geometry": {"coordinates":[-100.785353,46.7915],"type":"Point"}
+}

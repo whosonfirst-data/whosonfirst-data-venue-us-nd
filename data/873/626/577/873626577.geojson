@@ -1,0 +1,75 @@
+{
+  "id": 873626577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.050081,47.930129,-97.050081,47.930129",
+    "geom:latitude":47.930129,
+    "geom:longitude":-97.050081,
+    "iso:country":"US",
+    "sg:address":"1515 11th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 218 779 6149",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6A54zBZ7Ir0k04zwnXBiGs_47.930129_-97.050081@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295326,
+    "wof:geomhash":"bde34ee890097a9f78e818087ad50098",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873626577
+        }
+    ],
+    "wof:id":873626577,
+    "wof:lastmodified":1464295326,
+    "wof:name":"Awesome Auto Detailing",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -97.050081,
+    47.930129,
+    -97.050081,
+    47.930129
+],
+  "geometry": {"coordinates":[-97.05008100000001,47.930129],"type":"Point"}
+}

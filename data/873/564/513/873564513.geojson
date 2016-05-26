@@ -1,0 +1,73 @@
+{
+  "id": 873564513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.28269,48.21126,-101.28269,48.21126",
+    "geom:latitude":48.21126,
+    "geom:longitude":-101.28269,
+    "iso:country":"US",
+    "sg:address":"717 20th Ave SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 0469",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "television",
+        "advertising"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FYyH2GPV7EaXd5uVqQJek_48.211260_-101.282690@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294549,
+    "wof:geomhash":"a444a41f38c362aa5c43b0b25eeb1367",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873564513
+        }
+    ],
+    "wof:id":873564513,
+    "wof:lastmodified":1464294549,
+    "wof:name":"Midcontinent Communications",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "advertising"
+    ]
+},
+  "bbox": [
+    -101.28269,
+    48.21126,
+    -101.28269,
+    48.21126
+],
+  "geometry": {"coordinates":[-101.28269,48.21126],"type":"Point"}
+}

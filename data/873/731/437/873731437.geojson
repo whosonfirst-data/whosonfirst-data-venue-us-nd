@@ -1,0 +1,77 @@
+{
+  "id": 873731437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.801223,46.829238,-96.801223,46.829238",
+    "geom:latitude":46.829238,
+    "geom:longitude":-96.801223,
+    "iso:country":"US",
+    "sg:address":"3343 S University Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 298 3944",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534487,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79QJsVetv6oZGmbf8zpZsu_46.829238_-96.801223@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296797,
+    "wof:geomhash":"e8ca22cfbc0ac64d1c99e194f92fcaa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534487,
+            "region_id":85688525,
+            "venue_id":873731437
+        }
+    ],
+    "wof:id":873731437,
+    "wof:lastmodified":1464296797,
+    "wof:name":"North Dakota Auto Glass",
+    "wof:parent_id":420534487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -96.801223,
+    46.829238,
+    -96.801223,
+    46.829238
+],
+  "geometry": {"coordinates":[-96.80122299999999,46.829238],"type":"Point"}
+}

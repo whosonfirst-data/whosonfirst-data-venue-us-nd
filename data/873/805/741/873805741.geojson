@@ -1,0 +1,82 @@
+{
+  "id": 873805741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.980955,47.767218,-96.980955,47.767218",
+    "geom:latitude":47.767218,
+    "geom:longitude":-96.980955,
+    "iso:country":"US",
+    "sg:address":"654 7th St NE",
+    "sg:city":"Thompson",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 599 2367",
+    "sg:postcode":"58278",
+    "sg:province":"ND",
+    "sg:tags":[
+        "trucking",
+        "local",
+        "trucking-motor",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mUEK0RI5mzMIGxROkNpZ0_47.767218_-96.980955@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297848,
+    "wof:geomhash":"074495e61d0a19f867904499269f2cd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873805741
+        }
+    ],
+    "wof:id":873805741,
+    "wof:lastmodified":1464297848,
+    "wof:name":"Johnson",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking",
+        "local",
+        "trucking-motor",
+        "broker"
+    ]
+},
+  "bbox": [
+    -96.980955,
+    47.767218,
+    -96.980955,
+    47.767218
+],
+  "geometry": {"coordinates":[-96.98095499999999,47.767218],"type":"Point"}
+}

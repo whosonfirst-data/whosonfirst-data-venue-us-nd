@@ -1,0 +1,71 @@
+{
+  "id": 873655233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.624092,46.794437,-100.624092,46.794437",
+    "geom:latitude":46.794437,
+    "geom:longitude":-100.624092,
+    "iso:country":"US",
+    "sg:address":"10901 Apple Creek Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 4247",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "producer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dewqDWtQeZ3ycjx4YJiTN_46.794437_-100.624092@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295648,
+    "wof:geomhash":"7f5607ccb4b919c133bc2c8cc942225a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873655233
+        }
+    ],
+    "wof:id":873655233,
+    "wof:lastmodified":1464295648,
+    "wof:name":"Braun Angus",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "producer"
+    ]
+},
+  "bbox": [
+    -100.624092,
+    46.794437,
+    -100.624092,
+    46.794437
+],
+  "geometry": {"coordinates":[-100.624092,46.794437],"type":"Point"}
+}

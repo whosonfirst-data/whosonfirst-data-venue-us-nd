@@ -1,0 +1,77 @@
+{
+  "id": 873595981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.833851,46.863394,-96.833851,46.863394",
+    "geom:latitude":46.863394,
+    "geom:longitude":-96.833851,
+    "iso:country":"US",
+    "sg:address":"3411 Fiechtner Dr S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 741 3459",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VuEggvIsU7RWPcM3ETY8Z_46.863394_-96.833851@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294925,
+    "wof:geomhash":"4c1a390f6fd5362eed6d5b519c694c42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873595981
+        }
+    ],
+    "wof:id":873595981,
+    "wof:lastmodified":1464294925,
+    "wof:name":"Optimum Release",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -96.833851,
+    46.863394,
+    -96.833851,
+    46.863394
+],
+  "geometry": {"coordinates":[-96.833851,46.863394],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873732935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.778611,46.803045,-100.778611,46.803045",
+    "geom:latitude":46.803045,
+    "geom:longitude":-100.778611,
+    "iso:country":"US",
+    "sg:address":"800 E Sweet Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 1932",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "dealer",
+        "rug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2agDype1Fj5SUkoYnwQwb5_46.803045_-100.778611@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296814,
+    "wof:geomhash":"40e83372693dc67155e8c83ce2115316",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873732935
+        }
+    ],
+    "wof:id":873732935,
+    "wof:lastmodified":1464296814,
+    "wof:name":"Magi-Touch Carpet-Furniture",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "rug"
+    ]
+},
+  "bbox": [
+    -100.778611,
+    46.803045,
+    -100.778611,
+    46.803045
+],
+  "geometry": {"coordinates":[-100.778611,46.803045],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873728427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.977963,46.659153,-96.977963,46.659153",
+    "geom:latitude":46.659153,
+    "geom:longitude":-96.977963,
+    "iso:country":"US",
+    "sg:address":"16657 52nd St SE",
+    "sg:city":"Kindred",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 428 9838",
+    "sg:postcode":"58051",
+    "sg:province":"ND",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uijjCN9tIZPvPXp0bzD7w_46.659153_-96.977963@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296759,
+    "wof:geomhash":"205b645539da448554a8f616cfa821ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873728427
+        }
+    ],
+    "wof:id":873728427,
+    "wof:lastmodified":1464296759,
+    "wof:name":"Mary Kay Cosmetics",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -96.977963,
+    46.659153,
+    -96.977963,
+    46.659153
+],
+  "geometry": {"coordinates":[-96.977963,46.659153],"type":"Point"}
+}

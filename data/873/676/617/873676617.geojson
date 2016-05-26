@@ -1,0 +1,73 @@
+{
+  "id": 873676617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.772665,46.800845,-100.772665,46.800845",
+    "geom:latitude":46.800845,
+    "geom:longitude":-100.772665,
+    "iso:country":"US",
+    "sg:address":"1207 E Ingals Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 221 9092",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "live",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66WW7GOFrzlrFQ73AQRNt9_46.800845_-100.772665@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295903,
+    "wof:geomhash":"b697f644ff9860d07e3dcfd4e1a9f837",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873676617
+        }
+    ],
+    "wof:id":873676617,
+    "wof:lastmodified":1464295903,
+    "wof:name":"Wild Bill's DJ Svc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "live",
+        "music"
+    ]
+},
+  "bbox": [
+    -100.772665,
+    46.800845,
+    -100.772665,
+    46.800845
+],
+  "geometry": {"coordinates":[-100.772665,46.800845],"type":"Point"}
+}

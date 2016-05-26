@@ -1,0 +1,73 @@
+{
+  "id": 873705181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.308503,48.21074,-101.308503,48.21074",
+    "geom:latitude":48.21074,
+    "geom:longitude":-101.308503,
+    "iso:country":"US",
+    "sg:address":"1001 20th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 4247",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eKO24nNtgRpFS37CAdj5X_48.210740_-101.308503@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296458,
+    "wof:geomhash":"b00f4224bfd6236cf65d466dadd39e20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873705181
+        }
+    ],
+    "wof:id":873705181,
+    "wof:lastmodified":1464296458,
+    "wof:name":"Myohealth Massage Therapy",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -101.308503,
+    48.21074,
+    -101.308503,
+    48.21074
+],
+  "geometry": {"coordinates":[-101.308503,48.21074],"type":"Point"}
+}

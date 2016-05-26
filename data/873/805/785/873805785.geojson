@@ -1,0 +1,77 @@
+{
+  "id": 873805785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.770834,46.806289,-100.770834,46.806289",
+    "geom:latitude":46.806289,
+    "geom:longitude":-100.770834,
+    "iso:country":"US",
+    "sg:address":"1406 E Broadway Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 1928",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aNUX1jNAqJnkgWDTYgOdF_46.806289_-100.770834@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297849,
+    "wof:geomhash":"ecd8cad2647857e9f4093e31b740b85b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873805785
+        }
+    ],
+    "wof:id":873805785,
+    "wof:lastmodified":1464297849,
+    "wof:name":"Continntal Repr Auto Bdy Clnic",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [
+    -100.770834,
+    46.806289,
+    -100.770834,
+    46.806289
+],
+  "geometry": {"coordinates":[-100.77083399999999,46.806289],"type":"Point"}
+}

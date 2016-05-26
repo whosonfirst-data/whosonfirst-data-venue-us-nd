@@ -1,0 +1,73 @@
+{
+  "id": 873729431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.76286,46.789469,-100.76286,46.789469",
+    "geom:latitude":46.789469,
+    "geom:longitude":-100.76286,
+    "iso:country":"US",
+    "sg:address":"1355 Airport Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 400 5078",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eB55YyBkvZrJ9IuTKZ2cv_46.789469_-100.762860@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296772,
+    "wof:geomhash":"1e5abe9087865d9d78fe2886318d405a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873729431
+        }
+    ],
+    "wof:id":873729431,
+    "wof:lastmodified":1464296772,
+    "wof:name":"Women & Balance Therapeutic",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -100.76286,
+    46.789469,
+    -100.76286,
+    46.789469
+],
+  "geometry": {"coordinates":[-100.76286,46.789469],"type":"Point"}
+}

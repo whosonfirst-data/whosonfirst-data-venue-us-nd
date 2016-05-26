@@ -1,0 +1,73 @@
+{
+  "id": 873692449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.758608,46.792068,-100.758608,46.792068",
+    "geom:latitude":46.792068,
+    "geom:longitude":-100.758608,
+    "iso:country":"US",
+    "sg:address":"2000 Lee Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 5524",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0acca9No8Rzpte6mAzMzPC_46.792068_-100.758608@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296321,
+    "wof:geomhash":"15aeb10b4d381350271bdee2aa9236d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873692449
+        }
+    ],
+    "wof:id":873692449,
+    "wof:lastmodified":1464296321,
+    "wof:name":"Lee Avenue Mini-Warehouses",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -100.758608,
+    46.792068,
+    -100.758608,
+    46.792068
+],
+  "geometry": {"coordinates":[-100.758608,46.792068],"type":"Point"}
+}

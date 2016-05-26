@@ -1,0 +1,71 @@
+{
+  "id": 873706927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.415338,48.291809,-101.415338,48.291809",
+    "geom:latitude":48.291809,
+    "geom:longitude":-101.415338,
+    "iso:country":"US",
+    "sg:address":"7700 54th Ave NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 4805",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Po4aIy3T56J5IbyqU5P5L_48.291809_-101.415338@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296480,
+    "wof:geomhash":"9a0a706355bb72df4b57df4bb61e44fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873706927
+        }
+    ],
+    "wof:id":873706927,
+    "wof:lastmodified":1464296480,
+    "wof:name":"Bruns Drywall",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.415338,
+    48.291809,
+    -101.415338,
+    48.291809
+],
+  "geometry": {"coordinates":[-101.41533800000001,48.291809],"type":"Point"}
+}

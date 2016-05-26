@@ -1,0 +1,71 @@
+{
+  "id": 873760273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.039234,47.879766,-97.039234,47.879766",
+    "geom:latitude":47.879766,
+    "geom:longitude":-97.039234,
+    "iso:country":"US",
+    "sg:address":"731 Great Plains Ct",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 780 9313",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64o4xKkLq9f52Y371giU7W_47.879766_-97.039234@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297210,
+    "wof:geomhash":"6719c07f51d20ee8ff6ba29a998cd5a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873760273
+        }
+    ],
+    "wof:id":873760273,
+    "wof:lastmodified":1464297210,
+    "wof:name":"Piper & Piper",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -97.039234,
+    47.879766,
+    -97.039234,
+    47.879766
+],
+  "geometry": {"coordinates":[-97.03923399999999,47.879766],"type":"Point"}
+}

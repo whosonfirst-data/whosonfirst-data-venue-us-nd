@@ -1,0 +1,75 @@
+{
+  "id": 873775415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.864491,46.867698,-96.864491,46.867698",
+    "geom:latitude":46.867698,
+    "geom:longitude":-96.864491,
+    "iso:country":"US",
+    "sg:address":"4645 8th Ave SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 271 0669",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RSR9uBc8SdP4pioFGjyNf_46.867698_-96.864491@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297431,
+    "wof:geomhash":"fd967d9c2171ab140e8f9197e856f52a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873775415
+        }
+    ],
+    "wof:id":873775415,
+    "wof:lastmodified":1464297431,
+    "wof:name":"Intrepid USA Healthcare Svc",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -96.864491,
+    46.867698,
+    -96.864491,
+    46.867698
+],
+  "geometry": {"coordinates":[-96.864491,46.867698],"type":"Point"}
+}

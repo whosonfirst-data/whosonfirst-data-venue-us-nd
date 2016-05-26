@@ -1,0 +1,72 @@
+{
+  "id": 873676025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.260661,47.964703,-97.260661,47.964703",
+    "geom:latitude":47.964703,
+    "geom:longitude":-97.260661,
+    "iso:country":"US",
+    "sg:address":"2010 20th St NE",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tattoo Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 7987",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "tattooing"
+    ],
+    "sg:website":"www.magoostattoos.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1o5A2OzR7ITmQDD9R6oHAn_47.964703_-97.260661@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295890,
+    "wof:geomhash":"c01d6d1759bc7f6efdbabf73c48733c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873676025
+        }
+    ],
+    "wof:id":873676025,
+    "wof:lastmodified":1464295890,
+    "wof:name":"Magoo's Tattoo & Body Piercing",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tattooing"
+    ]
+},
+  "bbox": [
+    -97.260661,
+    47.964703,
+    -97.260661,
+    47.964703
+],
+  "geometry": {"coordinates":[-97.260661,47.964703],"type":"Point"}
+}

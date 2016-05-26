@@ -1,0 +1,73 @@
+{
+  "id": 873753409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.304618,48.232603,-101.304618,48.232603",
+    "geom:latitude":48.232603,
+    "geom:longitude":-101.304618,
+    "iso:country":"US",
+    "sg:address":"700 Western Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 9314",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Az384yDNPe12fZdXiiqNi_48.232603_-101.304618@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297125,
+    "wof:geomhash":"c9e101c76d64f9854ddb1058b87918b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873753409
+        }
+    ],
+    "wof:id":873753409,
+    "wof:lastmodified":1464297125,
+    "wof:name":"Helping Hands Therapeutic Msg",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -101.304618,
+    48.232603,
+    -101.304618,
+    48.232603
+],
+  "geometry": {"coordinates":[-101.304618,48.232603],"type":"Point"}
+}

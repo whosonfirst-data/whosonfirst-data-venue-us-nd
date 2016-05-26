@@ -1,0 +1,71 @@
+{
+  "id": 873774411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.0258,47.918322,-97.0258,47.918322",
+    "geom:latitude":47.918322,
+    "geom:longitude":-97.0258,
+    "iso:country":"US",
+    "sg:address":"109 4th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 787 6085",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NtIiEErHUTcGZnmMzEDBV_47.918322_-97.025800@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297418,
+    "wof:geomhash":"29013f33ac374633c5f93f81d5aba59e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873774411
+        }
+    ],
+    "wof:id":873774411,
+    "wof:lastmodified":1464297418,
+    "wof:name":"Prairie Management",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -97.0258,
+    47.918322,
+    -97.0258,
+    47.918322
+],
+  "geometry": {"coordinates":[-97.0258,47.918322],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873656099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.758751,46.827595,-100.758751,46.827595",
+    "geom:latitude":46.827595,
+    "geom:longitude":-100.758751,
+    "iso:country":"US",
+    "sg:address":"2109 Grant Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 7400",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wOsSwRUg48RqUZDnCbqho_46.827595_-100.758751@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295657,
+    "wof:geomhash":"543044be51b16a07c33d8b36b6d5487e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873656099
+        }
+    ],
+    "wof:id":873656099,
+    "wof:lastmodified":1464295657,
+    "wof:name":"Bar Bee Carpet Cleaning",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -100.758751,
+    46.827595,
+    -100.758751,
+    46.827595
+],
+  "geometry": {"coordinates":[-100.758751,46.827595],"type":"Point"}
+}

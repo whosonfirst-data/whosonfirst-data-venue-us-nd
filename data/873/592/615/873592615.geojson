@@ -1,0 +1,77 @@
+{
+  "id": 873592615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.820316,46.88321,-96.820316,46.88321",
+    "geom:latitude":46.88321,
+    "geom:longitude":-96.820316,
+    "iso:country":"US",
+    "sg:address":"2501 7th Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 241 9513",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "return",
+        "filing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LidcsXo6gRwm0qbYAKPtb_46.883210_-96.820316@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294865,
+    "wof:geomhash":"ef702f32a4cfd1eaab347741065cc03a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873592615
+        }
+    ],
+    "wof:id":873592615,
+    "wof:lastmodified":1464294865,
+    "wof:name":"Jon Erickson Tax Svc",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return",
+        "filing"
+    ]
+},
+  "bbox": [
+    -96.820316,
+    46.88321,
+    -96.820316,
+    46.88321
+],
+  "geometry": {"coordinates":[-96.82031600000001,46.88321],"type":"Point"}
+}

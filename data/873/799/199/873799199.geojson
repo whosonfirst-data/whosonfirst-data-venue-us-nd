@@ -1,0 +1,76 @@
+{
+  "id": 873799199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.794426,46.79446,-100.794426,46.79446",
+    "geom:latitude":46.79446,
+    "geom:longitude":-100.794426,
+    "iso:country":"US",
+    "sg:address":"1031 S Washington St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/bismarck/78219-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 3100",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Oa45hQDLvgtogrPBiabJ7_46.794084_-100.794349@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297764,
+    "wof:geomhash":"f96e5a61ff4a7d62223a3bc45a9c677a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873799199
+        }
+    ],
+    "wof:id":873799199,
+    "wof:lastmodified":1464297764,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -100.794426,
+    46.79446,
+    -100.794426,
+    46.79446
+],
+  "geometry": {"coordinates":[-100.794426,46.79446],"type":"Point"}
+}

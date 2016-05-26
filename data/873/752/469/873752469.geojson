@@ -1,0 +1,73 @@
+{
+  "id": 873752469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.772743,46.794878,-100.772743,46.794878",
+    "geom:latitude":46.794878,
+    "geom:longitude":-100.772743,
+    "iso:country":"US",
+    "sg:address":"1026 E Bismarck Expy",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 4015",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "merchandise",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AJkoxzzmoZcv9mGxadRuE_46.794878_-100.772743@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297106,
+    "wof:geomhash":"1d0868abb53745018a61463aee2e749c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873752469
+        }
+    ],
+    "wof:id":873752469,
+    "wof:lastmodified":1464297106,
+    "wof:name":"Consolidated Stores Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise",
+        "general"
+    ]
+},
+  "bbox": [
+    -100.772743,
+    46.794878,
+    -100.772743,
+    46.794878
+],
+  "geometry": {"coordinates":[-100.77274300000001,46.794878],"type":"Point"}
+}

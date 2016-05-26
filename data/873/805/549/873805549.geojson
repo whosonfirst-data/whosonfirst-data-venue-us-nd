@@ -1,0 +1,78 @@
+{
+  "id": 873805549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.413709,48.411459,-97.413709,48.411459",
+    "geom:latitude":48.411459,
+    "geom:longitude":-97.413709,
+    "iso:country":"US",
+    "sg:address":"164 W 13th St",
+    "sg:city":"Grafton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospice",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 352 9399",
+    "sg:postcode":"58237",
+    "sg:province":"ND",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "eldercare-home",
+        "home"
+    ],
+    "sg:website":"http://altru.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zIZ3aw6H5VK175hL3RFgA_48.411459_-97.413709@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297844,
+    "wof:geomhash":"342fc16da928764bfdf5946394bae996",
+    "wof:hierarchy":[],
+    "wof:id":873805549,
+    "wof:lastmodified":1464297844,
+    "wof:name":"Altru's Hospice",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "eldercare-home",
+        "home"
+    ]
+},
+  "bbox": [
+    -97.413709,
+    48.411459,
+    -97.413709,
+    48.411459
+],
+  "geometry": {"coordinates":[-97.413709,48.411459],"type":"Point"}
+}

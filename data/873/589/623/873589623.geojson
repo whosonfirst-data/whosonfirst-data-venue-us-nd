@@ -1,0 +1,73 @@
+{
+  "id": 873589623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.116671,47.933052,-97.116671,47.933052",
+    "geom:latitude":47.933052,
+    "geom:longitude":-97.116671,
+    "iso:country":"US",
+    "sg:address":"6105 Gateway Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 5999",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "fabricator",
+        "fiber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eyqez2kMKWBJyHKqnPP0E_47.933052_-97.116671@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294826,
+    "wof:geomhash":"3a013a0c9753478480d417a61ffd5f83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873589623
+        }
+    ],
+    "wof:id":873589623,
+    "wof:lastmodified":1464294826,
+    "wof:name":"Acrylon Composites",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fabricator",
+        "fiber"
+    ]
+},
+  "bbox": [
+    -97.116671,
+    47.933052,
+    -97.116671,
+    47.933052
+],
+  "geometry": {"coordinates":[-97.116671,47.933052],"type":"Point"}
+}

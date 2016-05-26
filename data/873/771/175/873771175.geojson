@@ -1,0 +1,73 @@
+{
+  "id": 873771175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.620694,47.904717,-97.620694,47.904717",
+    "geom:latitude":47.904717,
+    "geom:longitude":-97.620694,
+    "iso:country":"US",
+    "sg:address":"110 Pate Ave",
+    "sg:city":"Larimore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 343 2751",
+    "sg:postcode":"58267",
+    "sg:province":"ND",
+    "sg:tags":[
+        "picture",
+        "frame"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64mA6Hu3ynKc48KMDkqj6n_47.904717_-97.620694@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297379,
+    "wof:geomhash":"cc9b7aba07e4674bac6003dd6968f71d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873771175
+        }
+    ],
+    "wof:id":873771175,
+    "wof:lastmodified":1464297379,
+    "wof:name":"Out Of The Woods",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "picture",
+        "frame"
+    ]
+},
+  "bbox": [
+    -97.620694,
+    47.904717,
+    -97.620694,
+    47.904717
+],
+  "geometry": {"coordinates":[-97.620694,47.904717],"type":"Point"}
+}

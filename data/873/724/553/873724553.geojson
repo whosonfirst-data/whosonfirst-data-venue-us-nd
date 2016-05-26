@@ -1,0 +1,75 @@
+{
+  "id": 873724553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.039151,47.881993,-97.039151,47.881993",
+    "geom:latitude":47.881993,
+    "geom:longitude":-97.039151,
+    "iso:country":"US",
+    "sg:address":"725 40th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 9210",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "owner",
+        "residential",
+        "property"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WncA8cD1AJD7IUFx0Kxsq_47.881993_-97.039151@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296706,
+    "wof:geomhash":"e65ed42b2b2f1b7f34b2cf61a820636e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873724553
+        }
+    ],
+    "wof:id":873724553,
+    "wof:lastmodified":1464296706,
+    "wof:name":"M H R Properties",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "owner",
+        "residential",
+        "property"
+    ]
+},
+  "bbox": [
+    -97.039151,
+    47.881993,
+    -97.039151,
+    47.881993
+],
+  "geometry": {"coordinates":[-97.039151,47.881993],"type":"Point"}
+}

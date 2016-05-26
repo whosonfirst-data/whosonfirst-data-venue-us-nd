@@ -1,0 +1,84 @@
+{
+  "id": 873796961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.848869,46.861236,-96.848869,46.861236",
+    "geom:latitude":46.861236,
+    "geom:longitude":-96.848869,
+    "iso:country":"US",
+    "sg:address":"4000 13th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/fargo/110364-chilis/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 2669",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "tex-mex",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MSkhCeYjvAsZZD5uNxLJc_46.861236_-96.848869@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297737,
+    "wof:geomhash":"89594f9802dc3f28a69323c2251d69bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873796961
+        }
+    ],
+    "wof:id":873796961,
+    "wof:lastmodified":1464297737,
+    "wof:name":"Chili's",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "tex-mex",
+        "soup"
+    ]
+},
+  "bbox": [
+    -96.848869,
+    46.861236,
+    -96.848869,
+    46.861236
+],
+  "geometry": {"coordinates":[-96.84886899999999,46.861236],"type":"Point"}
+}

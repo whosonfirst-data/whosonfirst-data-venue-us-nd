@@ -1,0 +1,71 @@
+{
+  "id": 873558021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.062033,47.909041,-97.062033,47.909041",
+    "geom:latitude":47.909041,
+    "geom:longitude":-97.062033,
+    "iso:country":"US",
+    "sg:address":"2445 Glen Cir",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 7883",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "plan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25JPNfsXTboLRSiW3huQQU_47.909041_-97.062033@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294471,
+    "wof:geomhash":"0ddedb0107066123534a4ec19fa729bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873558021
+        }
+    ],
+    "wof:id":873558021,
+    "wof:lastmodified":1464294471,
+    "wof:name":"Porphyrin Press/Porphyria",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plan"
+    ]
+},
+  "bbox": [
+    -97.062033,
+    47.909041,
+    -97.062033,
+    47.909041
+],
+  "geometry": {"coordinates":[-97.062033,47.909041],"type":"Point"}
+}

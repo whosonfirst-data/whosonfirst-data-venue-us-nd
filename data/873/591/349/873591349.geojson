@@ -1,0 +1,71 @@
+{
+  "id": 873591349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.786272,46.80639,-100.786272,46.80639",
+    "geom:latitude":46.80639,
+    "geom:longitude":-100.786272,
+    "iso:country":"US",
+    "sg:address":"315 E Broadway Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 221 0722",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60JqPJrrRSon6oBuA7JXX4_46.806390_-100.786272@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294847,
+    "wof:geomhash":"7eb19ffe0cb4fbbcac2852678277311e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873591349
+        }
+    ],
+    "wof:id":873591349,
+    "wof:lastmodified":1464294847,
+    "wof:name":"International Ambassadors",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -100.786272,
+    46.80639,
+    -100.786272,
+    46.80639
+],
+  "geometry": {"coordinates":[-100.786272,46.80639],"type":"Point"}
+}

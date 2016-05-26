@@ -1,0 +1,71 @@
+{
+  "id": 873723745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.052952,48.09061,-101.052952,48.09061",
+    "geom:latitude":48.09061,
+    "geom:longitude":-101.052952,
+    "iso:country":"US",
+    "sg:address":"101 Dakota Ave N",
+    "sg:city":"Sawyer",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 624 5329",
+    "sg:postcode":"58781",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25OGfQZZc6sL6qvngbS9ov_48.090610_-101.052952@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296696,
+    "wof:geomhash":"02c88e45a385dcaf4a8af8fd2f9c7f6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873723745
+        }
+    ],
+    "wof:id":873723745,
+    "wof:lastmodified":1464296696,
+    "wof:name":"Shear Shak",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -101.052952,
+    48.09061,
+    -101.052952,
+    48.09061
+],
+  "geometry": {"coordinates":[-101.052952,48.09061],"type":"Point"}
+}

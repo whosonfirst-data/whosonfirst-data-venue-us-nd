@@ -1,0 +1,71 @@
+{
+  "id": 873538295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.69585,46.7644,-100.69585,46.7644",
+    "geom:latitude":46.7644,
+    "geom:longitude":-100.69585,
+    "iso:country":"US",
+    "sg:address":"64 Santee Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 6496",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77qevDg6rsDgHf0lzLN5vE_46.764400_-100.695850@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294242,
+    "wof:geomhash":"788084727ad8398d2db02a4f243a7629",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873538295
+        }
+    ],
+    "wof:id":873538295,
+    "wof:lastmodified":1464294242,
+    "wof:name":"John's Food Ctr",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -100.69585,
+    46.7644,
+    -100.69585,
+    46.7644
+],
+  "geometry": {"coordinates":[-100.69584999999999,46.7644],"type":"Point"}
+}

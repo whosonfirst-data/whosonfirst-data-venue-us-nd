@@ -1,0 +1,71 @@
+{
+  "id": 873650003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.785195,46.792303,-100.785195,46.792303",
+    "geom:latitude":46.792303,
+    "geom:longitude":-100.785195,
+    "iso:country":"US",
+    "sg:address":"402 E Denver Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 4615",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "conservation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TLnzSvuqIOuYMJhqhVYBX_46.792303_-100.785195@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295586,
+    "wof:geomhash":"fa152eb53dea985a9b34ad0b03ea2302",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873650003
+        }
+    ],
+    "wof:id":873650003,
+    "wof:lastmodified":1464295586,
+    "wof:name":"Soil & Water Conservation",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conservation"
+    ]
+},
+  "bbox": [
+    -100.785195,
+    46.792303,
+    -100.785195,
+    46.792303
+],
+  "geometry": {"coordinates":[-100.785195,46.792303],"type":"Point"}
+}

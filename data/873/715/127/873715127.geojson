@@ -1,0 +1,80 @@
+{
+  "id": 873715127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.815429,46.823732,-100.815429,46.823732",
+    "geom:latitude":46.823732,
+    "geom:longitude":-100.815429,
+    "iso:country":"US",
+    "sg:address":"1700 Schafer St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 6033",
+    "sg:postcode":"58505",
+    "sg:province":"ND",
+    "sg:tags":[
+        "machine",
+        "duplicating",
+        "copying"
+    ],
+    "sg:website":"www.officesystems4me.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2x9aFUsJ9N3aqLzYL5K9Hm_46.823732_-100.815429@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296583,
+    "wof:geomhash":"6ce1d3b0d983283656ffc6bc97ed3115",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873715127
+        }
+    ],
+    "wof:id":873715127,
+    "wof:lastmodified":1464296583,
+    "wof:name":"Office Systems Inc",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "duplicating",
+        "copying"
+    ]
+},
+  "bbox": [
+    -100.815429,
+    46.823732,
+    -100.815429,
+    46.823732
+],
+  "geometry": {"coordinates":[-100.81542899999999,46.823732],"type":"Point"}
+}

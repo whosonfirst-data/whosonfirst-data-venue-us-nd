@@ -1,0 +1,73 @@
+{
+  "id": 873566715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.76484,46.81871,-100.76484,46.81871",
+    "geom:latitude":46.81871,
+    "geom:longitude":-100.76484,
+    "iso:country":"US",
+    "sg:address":"1210 N 18th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 8047",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "parts",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NQADuEWLgcFy0qmzB7Gt9_46.818710_-100.764840@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294573,
+    "wof:geomhash":"251fe8991cea176b96ba856601822082",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873566715
+        }
+    ],
+    "wof:id":873566715,
+    "wof:lastmodified":1464294573,
+    "wof:name":"Ken's Laser Recharge",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parts",
+        "supply"
+    ]
+},
+  "bbox": [
+    -100.76484,
+    46.81871,
+    -100.76484,
+    46.81871
+],
+  "geometry": {"coordinates":[-100.76484000000001,46.81871],"type":"Point"}
+}

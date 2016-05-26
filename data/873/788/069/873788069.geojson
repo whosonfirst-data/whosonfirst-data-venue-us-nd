@@ -1,0 +1,77 @@
+{
+  "id": 873788069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.806871,46.87552,-96.806871,46.87552",
+    "geom:latitude":46.87552,
+    "geom:longitude":-96.806871,
+    "iso:country":"US",
+    "sg:address":"1606 Main Ave",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 9494",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "store",
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yQpOsBOgjSmlOhFB2EkVW_46.875481_-96.807722@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464297616,
+    "wof:geomhash":"55120f318a399c99c3d20bd362756afe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873788069
+        }
+    ],
+    "wof:id":873788069,
+    "wof:lastmodified":1464297616,
+    "wof:name":"Royal Liquors",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store",
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -96.806871,
+    46.87552,
+    -96.806871,
+    46.87552
+],
+  "geometry": {"coordinates":[-96.806871,46.87552],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873558277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.305649,48.207266,-101.305649,48.207266",
+    "geom:latitude":48.207266,
+    "geom:longitude":-101.305649,
+    "iso:country":"US",
+    "sg:address":"900 24th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 2424",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IzR2KvguPxOoN2rgnEAOn_48.207266_-101.305649@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294480,
+    "wof:geomhash":"ba5ca319f5cc43f5a9d5defc4ac6a279",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873558277
+        }
+    ],
+    "wof:id":873558277,
+    "wof:lastmodified":1464294480,
+    "wof:name":"Fairfield Inn",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -101.305649,
+    48.207266,
+    -101.305649,
+    48.207266
+],
+  "geometry": {"coordinates":[-101.305649,48.207266],"type":"Point"}
+}

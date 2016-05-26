@@ -1,0 +1,71 @@
+{
+  "id": 873748397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.781527,46.808527,-100.781527,46.808527",
+    "geom:latitude":46.808527,
+    "geom:longitude":-100.781527,
+    "iso:country":"US",
+    "sg:address":"300 N 7th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 323 5740",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gnJoPIBX59kvuytEz4lyZ_46.808527_-100.781527@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297054,
+    "wof:geomhash":"aa8d89a44b5bff9a0603408dfe68fd2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873748397
+        }
+    ],
+    "wof:id":873748397,
+    "wof:lastmodified":1464297054,
+    "wof:name":"Fyfe Alistair",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -100.781527,
+    46.808527,
+    -100.781527,
+    46.808527
+],
+  "geometry": {"coordinates":[-100.781527,46.808527],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 873765245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.819794,46.804509,-96.819794,46.804509",
+    "geom:latitude":46.804509,
+    "geom:longitude":-96.819794,
+    "iso:country":"US",
+    "sg:address":"5002 Meadow Creek Dr SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 5719",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877333,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rq0xu7344rccNnLFYttiK_46.804509_-96.819794@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297300,
+    "wof:geomhash":"937d573a1508cbd8496ade63a95e8cd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877333,
+            "region_id":85688525,
+            "venue_id":873765245
+        }
+    ],
+    "wof:id":873765245,
+    "wof:lastmodified":1464297300,
+    "wof:name":"Jim Samuelson Evangelical",
+    "wof:parent_id":85877333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.819794,
+    46.804509,
+    -96.819794,
+    46.804509
+],
+  "geometry": {"coordinates":[-96.819794,46.804509],"type":"Point"}
+}

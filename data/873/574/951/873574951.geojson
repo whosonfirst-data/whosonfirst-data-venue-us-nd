@@ -1,0 +1,73 @@
+{
+  "id": 873574951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.031587,47.925924,-97.031587,47.925924",
+    "geom:latitude":47.925924,
+    "geom:longitude":-97.031587,
+    "iso:country":"US",
+    "sg:address":"10 N 3rd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 3362",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "club",
+        "night"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6V9pJzoJ34GV3l9uA51PtN_47.925924_-97.031587@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294663,
+    "wof:geomhash":"af6ade06e3e3366a7d91a4166edd27ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873574951
+        }
+    ],
+    "wof:id":873574951,
+    "wof:lastmodified":1464294663,
+    "wof:name":"Edge",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "night"
+    ]
+},
+  "bbox": [
+    -97.031587,
+    47.925924,
+    -97.031587,
+    47.925924
+],
+  "geometry": {"coordinates":[-97.031587,47.925924],"type":"Point"}
+}

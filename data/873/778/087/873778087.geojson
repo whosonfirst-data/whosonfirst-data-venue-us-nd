@@ -1,0 +1,73 @@
+{
+  "id": 873778087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.465033,48.08324,-97.465033,48.08324",
+    "geom:latitude":48.08324,
+    "geom:longitude":-97.465033,
+    "iso:country":"US",
+    "sg:address":"306 Eastern Ave",
+    "sg:city":"Gilby",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 869 2354",
+    "sg:postcode":"58235",
+    "sg:province":"ND",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hBDJmXCIibwydzHHhbzFB_48.083240_-97.465033@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297464,
+    "wof:geomhash":"f9972552bd3fff01d7838019b5702847",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873778087
+        }
+    ],
+    "wof:id":873778087,
+    "wof:lastmodified":1464297464,
+    "wof:name":"Andy's Electric",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.465033,
+    48.08324,
+    -97.465033,
+    48.08324
+],
+  "geometry": {"coordinates":[-97.46503300000001,48.08324],"type":"Point"}
+}

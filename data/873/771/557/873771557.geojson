@@ -1,0 +1,71 @@
+{
+  "id": 873771557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.708137,46.820859,-100.708137,46.820859",
+    "geom:latitude":46.820859,
+    "geom:longitude":-100.708137,
+    "iso:country":"US",
+    "sg:address":"1310 Knollwood Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 4313",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "uniform"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZK6Or11wx1wBZ9B45Gu4Q_46.820859_-100.708137@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297384,
+    "wof:geomhash":"73358858f9b70a2a0695187f77ab61a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873771557
+        }
+    ],
+    "wof:id":873771557,
+    "wof:lastmodified":1464297384,
+    "wof:name":"Dakota Uniforms",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "uniform"
+    ]
+},
+  "bbox": [
+    -100.708137,
+    46.820859,
+    -100.708137,
+    46.820859
+],
+  "geometry": {"coordinates":[-100.70813699999999,46.820859],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873546703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.061398,47.921267,-97.061398,47.921267",
+    "geom:latitude":47.921267,
+    "geom:longitude":-97.061398,
+    "iso:country":"US",
+    "sg:address":"2420 2nd Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 8358",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AMbNeo60FcJz13qB6eErc_47.921267_-97.061398@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294336,
+    "wof:geomhash":"1fe706b758206879c4f9fcd1a208e906",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873546703
+        }
+    ],
+    "wof:id":873546703,
+    "wof:lastmodified":1464294336,
+    "wof:name":"Human Nutrition Research Ctr",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -97.061398,
+    47.921267,
+    -97.061398,
+    47.921267
+],
+  "geometry": {"coordinates":[-97.061398,47.921267],"type":"Point"}
+}

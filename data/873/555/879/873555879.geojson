@@ -1,0 +1,73 @@
+{
+  "id": 873555879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.050046,47.916337,-97.050046,47.916337",
+    "geom:latitude":47.916337,
+    "geom:longitude":-97.050046,
+    "iso:country":"US",
+    "sg:address":"1501 Demers Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 739 2462",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "truck",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZB785TeCyopsuxkd32wXi_47.916337_-97.050046@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294447,
+    "wof:geomhash":"c6cdfd8071ca71267ff4da67e900aee9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873555879
+        }
+    ],
+    "wof:id":873555879,
+    "wof:lastmodified":1464294447,
+    "wof:name":"Nelson Custom Truck",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -97.050046,
+    47.916337,
+    -97.050046,
+    47.916337
+],
+  "geometry": {"coordinates":[-97.05004599999999,47.916337],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873745167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.786008,46.808547,-100.786008,46.808547",
+    "geom:latitude":46.808547,
+    "geom:longitude":-100.786008,
+    "iso:country":"US",
+    "sg:address":"303 N 4th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 2424",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AcOeLp3qszWLhATvKdJAu_46.808547_-100.786008@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297013,
+    "wof:geomhash":"806ff0999c356bca2d5664a501958595",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873745167
+        }
+    ],
+    "wof:id":873745167,
+    "wof:lastmodified":1464297013,
+    "wof:name":"Mayo Pharmacy Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -100.786008,
+    46.808547,
+    -100.786008,
+    46.808547
+],
+  "geometry": {"coordinates":[-100.786008,46.808547],"type":"Point"}
+}

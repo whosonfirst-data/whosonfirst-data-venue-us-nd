@@ -1,0 +1,73 @@
+{
+  "id": 873707281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.066088,47.773695,-97.066088,47.773695",
+    "geom:latitude":47.773695,
+    "geom:longitude":-97.066088,
+    "iso:country":"US",
+    "sg:address":"1095 7th Ave NE",
+    "sg:city":"Thompson",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 599 2065",
+    "sg:postcode":"58278",
+    "sg:province":"ND",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1utDy9YfY45hCqTH08o3xF_47.773695_-97.066088@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296487,
+    "wof:geomhash":"4f2d3a4907d8d4f0177ad1335499d726",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873707281
+        }
+    ],
+    "wof:id":873707281,
+    "wof:lastmodified":1464296487,
+    "wof:name":"Larry Holien Farm",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -97.066088,
+    47.773695,
+    -97.066088,
+    47.773695
+],
+  "geometry": {"coordinates":[-97.06608799999999,47.773695],"type":"Point"}
+}

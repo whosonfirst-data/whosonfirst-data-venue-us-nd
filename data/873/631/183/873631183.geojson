@@ -1,0 +1,71 @@
+{
+  "id": 873631183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.777133,46.804141,-100.777133,46.804141",
+    "geom:latitude":46.804141,
+    "geom:longitude":-100.777133,
+    "iso:country":"US",
+    "sg:address":"904 E Front Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 2727",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0g41IQbcVh7ohOo1CSJegS_46.804141_-100.777133@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295376,
+    "wof:geomhash":"c509f4164a841eb8912067f27de2b93d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873631183
+        }
+    ],
+    "wof:id":873631183,
+    "wof:lastmodified":1464295376,
+    "wof:name":"Flash Printing",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -100.777133,
+    46.804141,
+    -100.777133,
+    46.804141
+],
+  "geometry": {"coordinates":[-100.77713300000001,46.804141],"type":"Point"}
+}

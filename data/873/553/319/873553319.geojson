@@ -1,0 +1,66 @@
+{
+  "id": 873553319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.112412,47.920125,-97.112412,47.920125",
+    "geom:latitude":47.920125,
+    "geom:longitude":-97.112412,
+    "iso:country":"US",
+    "sg:address":"5550 1st Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 5493",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6X0rXQZ2NjpxNu5U66lAnw_47.920125_-97.112412@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294415,
+    "wof:geomhash":"2636d485f16b85f522b93d8e5abd9d8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873553319
+        }
+    ],
+    "wof:id":873553319,
+    "wof:lastmodified":1464294415,
+    "wof:name":"O K Enterprises Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.112412,
+    47.920125,
+    -97.112412,
+    47.920125
+],
+  "geometry": {"coordinates":[-97.11241200000001,47.920125],"type":"Point"}
+}

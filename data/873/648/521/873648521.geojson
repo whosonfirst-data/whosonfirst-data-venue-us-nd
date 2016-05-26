@@ -1,0 +1,74 @@
+{
+  "id": 873648521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.044711,47.889693,-97.044711,47.889693",
+    "geom:latitude":47.889693,
+    "geom:longitude":-97.044711,
+    "iso:country":"US",
+    "sg:address":"2815 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 7247",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "sg:website":"www.napaonline.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1W8M004n4lbX7VkQmrrh5d_47.889693_-97.044711@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295572,
+    "wof:geomhash":"f6e0fcf90c53c98659e9840ccecb9f4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873648521
+        }
+    ],
+    "wof:id":873648521,
+    "wof:lastmodified":1464295572,
+    "wof:name":"NAPA Auto Parts",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -97.044711,
+    47.889693,
+    -97.044711,
+    47.889693
+],
+  "geometry": {"coordinates":[-97.04471100000001,47.889693],"type":"Point"}
+}

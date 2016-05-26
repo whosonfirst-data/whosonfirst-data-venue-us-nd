@@ -1,0 +1,71 @@
+{
+  "id": 873675095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.048003,47.911316,-97.048003,47.911316",
+    "geom:latitude":47.911316,
+    "geom:longitude":-97.048003,
+    "iso:country":"US",
+    "sg:address":"1410 11th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 9984",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ot4XGMgqsYiFnLclmyvmW_47.911316_-97.048003@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295871,
+    "wof:geomhash":"e8adea9034939119b2c75487dadcc00a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873675095
+        }
+    ],
+    "wof:id":873675095,
+    "wof:lastmodified":1464295871,
+    "wof:name":"Demaraiss Family Day Care",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -97.048003,
+    47.911316,
+    -97.048003,
+    47.911316
+],
+  "geometry": {"coordinates":[-97.04800299999999,47.911316],"type":"Point"}
+}

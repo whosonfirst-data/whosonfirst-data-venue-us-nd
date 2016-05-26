@@ -1,0 +1,71 @@
+{
+  "id": 873721849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.696037,46.882628,-100.696037,46.882628",
+    "geom:latitude":46.882628,
+    "geom:longitude":-100.696037,
+    "iso:country":"US",
+    "sg:address":"7502 Moonlite Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 5518",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TwmtqxTg99q6EAGuR35dp_46.882628_-100.696037@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296672,
+    "wof:geomhash":"ddf58f04d782235e421c9d7caf3322c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873721849
+        }
+    ],
+    "wof:id":873721849,
+    "wof:lastmodified":1464296672,
+    "wof:name":"Meier Construction",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -100.696037,
+    46.882628,
+    -100.696037,
+    46.882628
+],
+  "geometry": {"coordinates":[-100.696037,46.882628],"type":"Point"}
+}

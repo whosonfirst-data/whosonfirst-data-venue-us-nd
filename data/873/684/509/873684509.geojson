@@ -1,0 +1,71 @@
+{
+  "id": 873684509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.78327,46.805487,-100.78327,46.805487",
+    "geom:latitude":46.805487,
+    "geom:longitude":-100.78327,
+    "iso:country":"US",
+    "sg:address":"514 E Main Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 221 3007",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "sporting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VELtpHTTLR2XNEEOa1ZOP_46.805487_-100.783270@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296125,
+    "wof:geomhash":"500ad05249ec48063a4825974baac36e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873684509
+        }
+    ],
+    "wof:id":873684509,
+    "wof:lastmodified":1464296125,
+    "wof:name":"Discontent",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sporting"
+    ]
+},
+  "bbox": [
+    -100.78327,
+    46.805487,
+    -100.78327,
+    46.805487
+],
+  "geometry": {"coordinates":[-100.78327,46.805487],"type":"Point"}
+}

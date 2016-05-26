@@ -1,0 +1,80 @@
+{
+  "id": 873638771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.837021,46.871338,-96.837021,46.871338",
+    "geom:latitude":46.871338,
+    "geom:longitude":-96.837021,
+    "iso:country":"US",
+    "sg:address":"3551 4th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 6000",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "sg:website":"www.accentcontracting.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gwqsBYS8UjfHE8M3WNbvO_46.871338_-96.837021@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295462,
+    "wof:geomhash":"fd50d87f45840b2cc201b4f8c879dcc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873638771
+        }
+    ],
+    "wof:id":873638771,
+    "wof:lastmodified":1464295462,
+    "wof:name":"Accent Carpet Cleaning",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -96.837021,
+    46.871338,
+    -96.837021,
+    46.871338
+],
+  "geometry": {"coordinates":[-96.83702099999999,46.871338],"type":"Point"}
+}

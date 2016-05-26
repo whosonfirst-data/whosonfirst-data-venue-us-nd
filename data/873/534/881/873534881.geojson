@@ -1,0 +1,66 @@
+{
+  "id": 873534881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.29596,48.237646,-101.29596,48.237646",
+    "geom:latitude":48.237646,
+    "geom:longitude":-101.29596,
+    "iso:country":"US",
+    "sg:address":"408 N Broadway",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 4870",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UBqqG5TzgHOmSxmTP8qLF_48.237646_-101.295960@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294202,
+    "wof:geomhash":"ca4f9e0d62dffc66db9ca75be7a96085",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873534881
+        }
+    ],
+    "wof:id":873534881,
+    "wof:lastmodified":1464294202,
+    "wof:name":"College Financial Aid Svc",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.29596,
+    48.237646,
+    -101.29596,
+    48.237646
+],
+  "geometry": {"coordinates":[-101.29595999999999,48.237646],"type":"Point"}
+}

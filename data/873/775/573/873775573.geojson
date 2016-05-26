@@ -1,0 +1,73 @@
+{
+  "id": 873775573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.798921,46.80551,-100.798921,46.80551",
+    "geom:latitude":46.80551,
+    "geom:longitude":-100.798921,
+    "iso:country":"US",
+    "sg:address":"555 Memorial Hwy",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 1465",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "bakery",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7m6fkHgx4KMIM4b1o1G6yp_46.805510_-100.798921@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297433,
+    "wof:geomhash":"7a2cbc2ffcdab98c3ff62d7286ed29dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873775573
+        }
+    ],
+    "wof:id":873775573,
+    "wof:lastmodified":1464297433,
+    "wof:name":"Master Bread",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bakery",
+        "product"
+    ]
+},
+  "bbox": [
+    -100.798921,
+    46.80551,
+    -100.798921,
+    46.80551
+],
+  "geometry": {"coordinates":[-100.79892100000001,46.80551],"type":"Point"}
+}

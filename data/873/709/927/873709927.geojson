@@ -1,0 +1,75 @@
+{
+  "id": 873709927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.760661,46.796955,-100.760661,46.796955",
+    "geom:latitude":46.796955,
+    "geom:longitude":-100.760661,
+    "iso:country":"US",
+    "sg:address":"2008 Vermont Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 0231",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cum2Y4TQpb9H07Mi9J4Xo_46.796955_-100.760661@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296520,
+    "wof:geomhash":"088ffbf777b097b354ccfff2014f77ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873709927
+        }
+    ],
+    "wof:id":873709927,
+    "wof:lastmodified":1464296520,
+    "wof:name":"Dakota Warehouse",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "shop"
+    ]
+},
+  "bbox": [
+    -100.760661,
+    46.796955,
+    -100.760661,
+    46.796955
+],
+  "geometry": {"coordinates":[-100.760661,46.796955],"type":"Point"}
+}

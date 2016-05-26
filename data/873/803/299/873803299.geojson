@@ -1,0 +1,80 @@
+{
+  "id": 873803299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.819053,46.861439,-96.819053,46.861439",
+    "geom:latitude":46.861439,
+    "geom:longitude":-96.819053,
+    "iso:country":"US",
+    "sg:address":"2424 13th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 365 0802",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877331,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PyrC8fXcxBaIL17g9jlgw_46.861439_-96.819053@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297813,
+    "wof:geomhash":"bc47cb01ac96d59e5d8f75439b2d9686",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877331,
+            "region_id":85688525,
+            "venue_id":873803299
+        }
+    ],
+    "wof:id":873803299,
+    "wof:lastmodified":1464297813,
+    "wof:name":"Extreme Pita",
+    "wof:parent_id":85877331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -96.819053,
+    46.861439,
+    -96.819053,
+    46.861439
+],
+  "geometry": {"coordinates":[-96.819053,46.861439],"type":"Point"}
+}

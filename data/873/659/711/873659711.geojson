@@ -1,0 +1,75 @@
+{
+  "id": 873659711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.90412,46.872349,-96.90412,46.872349",
+    "geom:latitude":46.872349,
+    "geom:longitude":-96.90412,
+    "iso:country":"US",
+    "sg:address":"416 Sheyenne St",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 5438",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eosS3r6U3871oiv0sO2CK_46.872349_-96.904120@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295695,
+    "wof:geomhash":"10447f3c36eda42d21ac880f70df1ab5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873659711
+        }
+    ],
+    "wof:id":873659711,
+    "wof:lastmodified":1464295695,
+    "wof:name":"Liquormart",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -96.90412,
+    46.872349,
+    -96.90412,
+    46.872349
+],
+  "geometry": {"coordinates":[-96.90412000000001,46.872349],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873701611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.818344,46.861642,-96.818344,46.861642",
+    "geom:latitude":46.861642,
+    "geom:longitude":-96.818344,
+    "iso:country":"US",
+    "sg:address":"2425 13th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 280 9700",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877331,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ofW6uEmekPiB90QIeYPSB_46.861642_-96.818344@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296421,
+    "wof:geomhash":"9564dc6c8d2c0743869c6493c4faa287",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877331,
+            "region_id":85688525,
+            "venue_id":873701611
+        }
+    ],
+    "wof:id":873701611,
+    "wof:lastmodified":1464296421,
+    "wof:name":"Advanced Auto Parts",
+    "wof:parent_id":85877331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -96.818344,
+    46.861642,
+    -96.818344,
+    46.861642
+],
+  "geometry": {"coordinates":[-96.818344,46.861642],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873770533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.752012,46.808026,-100.752012,46.808026",
+    "geom:latitude":46.808026,
+    "geom:longitude":-100.752012,
+    "iso:country":"US",
+    "sg:address":"313 N 26th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 2045",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zNO2TiaqJ05cwAktpVkGZ_46.808026_-100.752012@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297372,
+    "wof:geomhash":"0a453413f10373db1ba1e284bb754097",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873770533
+        }
+    ],
+    "wof:id":873770533,
+    "wof:lastmodified":1464297372,
+    "wof:name":"Eagles Club",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -100.752012,
+    46.808026,
+    -100.752012,
+    46.808026
+],
+  "geometry": {"coordinates":[-100.75201199999999,46.808026],"type":"Point"}
+}

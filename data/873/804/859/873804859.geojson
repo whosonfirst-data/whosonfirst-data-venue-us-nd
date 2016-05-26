@@ -1,0 +1,75 @@
+{
+  "id": 873804859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.828442,46.829155,-96.828442,46.829155",
+    "geom:latitude":46.829155,
+    "geom:longitude":-96.828442,
+    "iso:country":"US",
+    "sg:address":"3101 34th Ave S Apt 122",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 491 0312",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "lawn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534467,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00tSpsauUO6wGUomxpcZD0_46.829155_-96.828442@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297833,
+    "wof:geomhash":"367a7f0a4a77764b435865d86b9408a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534467,
+            "region_id":85688525,
+            "venue_id":873804859
+        }
+    ],
+    "wof:id":873804859,
+    "wof:lastmodified":1464297833,
+    "wof:name":"A & D Landscape",
+    "wof:parent_id":420534467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn"
+    ]
+},
+  "bbox": [
+    -96.828442,
+    46.829155,
+    -96.828442,
+    46.829155
+],
+  "geometry": {"coordinates":[-96.828442,46.829155],"type":"Point"}
+}

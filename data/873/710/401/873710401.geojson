@@ -1,0 +1,66 @@
+{
+  "id": 873710401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.090808,47.874992,-97.090808,47.874992",
+    "geom:latitude":47.874992,
+    "geom:longitude":-97.090808,
+    "iso:country":"US",
+    "sg:address":"5100 47th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 6526",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_641d3U7G7k5scZo4oggc5u_47.874992_-97.090808@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296525,
+    "wof:geomhash":"ff74634520ca2c05e8c7caaea343b3a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873710401
+        }
+    ],
+    "wof:id":873710401,
+    "wof:lastmodified":1464296525,
+    "wof:name":"Kuster Wagon Wheel Stables",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.090808,
+    47.874992,
+    -97.090808,
+    47.874992
+],
+  "geometry": {"coordinates":[-97.090808,47.874992],"type":"Point"}
+}

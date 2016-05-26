@@ -1,0 +1,73 @@
+{
+  "id": 873537269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.099126,47.913745,-97.099126,47.913745",
+    "geom:latitude":47.913745,
+    "geom:longitude":-97.099126,
+    "iso:country":"US",
+    "sg:address":"705 S 48th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 5474",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60BU2wuv1Ibhj579DLHx75_47.913745_-97.099126@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294231,
+    "wof:geomhash":"3d10a49deaeb8876522e96a4576b0010",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873537269
+        }
+    ],
+    "wof:id":873537269,
+    "wof:lastmodified":1464294231,
+    "wof:name":"Molstad Excavating Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.099126,
+    47.913745,
+    -97.099126,
+    47.913745
+],
+  "geometry": {"coordinates":[-97.099126,47.913745],"type":"Point"}
+}

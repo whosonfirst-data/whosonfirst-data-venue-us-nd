@@ -1,0 +1,73 @@
+{
+  "id": 873654641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.809191,46.805126,-100.809191,46.805126",
+    "geom:latitude":46.805126,
+    "geom:longitude":-100.809191,
+    "iso:country":"US",
+    "sg:address":"102 Riverside Park Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 667 5785",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "consultant",
+        "mining"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KZvZqcyLRWnF7mYtjIPrd_46.805126_-100.809191@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295642,
+    "wof:geomhash":"3566d5654dfdc036a386cd6fd688c3c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873654641
+        }
+    ],
+    "wof:id":873654641,
+    "wof:lastmodified":1464295642,
+    "wof:name":"Calder & Workman Inc",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "mining"
+    ]
+},
+  "bbox": [
+    -100.809191,
+    46.805126,
+    -100.809191,
+    46.805126
+],
+  "geometry": {"coordinates":[-100.809191,46.805126],"type":"Point"}
+}

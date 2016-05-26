@@ -1,0 +1,80 @@
+{
+  "id": 873568317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.817114,46.863052,-96.817114,46.863052",
+    "geom:latitude":46.863052,
+    "geom:longitude":-96.817114,
+    "iso:country":"US",
+    "sg:address":"1202 23rd St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 5429",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ],
+    "sg:website":"www.drakecounselingservices.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877331,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Vn9HNufRUTUyCNPgu7TQP_46.863052_-96.817114@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294589,
+    "wof:geomhash":"c920d54475fb34f6137e8d527a876515",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877331,
+            "region_id":85688525,
+            "venue_id":873568317
+        }
+    ],
+    "wof:id":873568317,
+    "wof:lastmodified":1464294589,
+    "wof:name":"Drake Counseling Svc",
+    "wof:parent_id":85877331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ]
+},
+  "bbox": [
+    -96.817114,
+    46.863052,
+    -96.817114,
+    46.863052
+],
+  "geometry": {"coordinates":[-96.817114,46.863052],"type":"Point"}
+}

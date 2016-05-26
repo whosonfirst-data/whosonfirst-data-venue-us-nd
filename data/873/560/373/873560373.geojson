@@ -1,0 +1,73 @@
+{
+  "id": 873560373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.736479,46.823654,-100.736479,46.823654",
+    "geom:latitude":46.823654,
+    "geom:longitude":-100.736479,
+    "iso:country":"US",
+    "sg:address":"3556 E Divide Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 9898",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "top",
+        "counter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_014MXmmGbhYan0RWt2BoAH_46.823654_-100.736479@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294504,
+    "wof:geomhash":"0c0db7bd0c27c734ee43799f731e2f0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873560373
+        }
+    ],
+    "wof:id":873560373,
+    "wof:lastmodified":1464294504,
+    "wof:name":"Precision Countertops",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "top",
+        "counter"
+    ]
+},
+  "bbox": [
+    -100.736479,
+    46.823654,
+    -100.736479,
+    46.823654
+],
+  "geometry": {"coordinates":[-100.736479,46.823654],"type":"Point"}
+}

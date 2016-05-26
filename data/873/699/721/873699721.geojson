@@ -1,0 +1,75 @@
+{
+  "id": 873699721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.968559,46.78527,-96.968559,46.78527",
+    "geom:latitude":46.78527,
+    "geom:longitude":-96.968559,
+    "iso:country":"US",
+    "sg:address":"4333 167th Ave SE",
+    "sg:city":"Horace",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 3805",
+    "sg:postcode":"58047",
+    "sg:province":"ND",
+    "sg:tags":[
+        "range",
+        "trap",
+        "skeet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69SjAp7J0lE4J9WNL47iPJ_46.785270_-96.968559@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296403,
+    "wof:geomhash":"4ab6d880316a415e6ff04d45708ae728",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873699721
+        }
+    ],
+    "wof:id":873699721,
+    "wof:lastmodified":1464296403,
+    "wof:name":"Shooting Park",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "range",
+        "trap",
+        "skeet"
+    ]
+},
+  "bbox": [
+    -96.968559,
+    46.78527,
+    -96.968559,
+    46.78527
+],
+  "geometry": {"coordinates":[-96.968559,46.78527],"type":"Point"}
+}

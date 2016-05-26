@@ -1,0 +1,71 @@
+{
+  "id": 873565511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.045555,47.904985,-97.045555,47.904985",
+    "geom:latitude":47.904985,
+    "geom:longitude":-97.045555,
+    "iso:country":"US",
+    "sg:address":"1604 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 7525",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yR2lErQbrQeTYR7ENbCTY_47.904985_-97.045555@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294561,
+    "wof:geomhash":"dc243db856cdb9d36125c995155d6f13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873565511
+        }
+    ],
+    "wof:id":873565511,
+    "wof:lastmodified":1464294561,
+    "wof:name":"Daniel G Lysne DDS",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -97.045555,
+    47.904985,
+    -97.045555,
+    47.904985
+],
+  "geometry": {"coordinates":[-97.04555499999999,47.904985],"type":"Point"}
+}

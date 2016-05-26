@@ -1,0 +1,73 @@
+{
+  "id": 873592289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.798129,46.805254,-100.798129,46.805254",
+    "geom:latitude":46.805254,
+    "geom:longitude":-100.798129,
+    "iso:country":"US",
+    "sg:address":"112 S Hannifin St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Home Furnishings",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 1330",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "floor",
+        "covering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74GnsQEoCqjmPWPQARtQEx_46.805254_-100.798129@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294862,
+    "wof:geomhash":"a9a7acf5956a0e59def098ed093051bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873592289
+        }
+    ],
+    "wof:id":873592289,
+    "wof:lastmodified":1464294862,
+    "wof:name":"Keller Specialties",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "covering"
+    ]
+},
+  "bbox": [
+    -100.798129,
+    46.805254,
+    -100.798129,
+    46.805254
+],
+  "geometry": {"coordinates":[-100.798129,46.805254],"type":"Point"}
+}

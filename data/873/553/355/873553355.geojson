@@ -1,0 +1,66 @@
+{
+  "id": 873553355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.28987,48.229426,-101.28987,48.229426",
+    "geom:latitude":48.229426,
+    "geom:longitude":-101.28987,
+    "iso:country":"US",
+    "sg:address":"1024 2nd St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 8190",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ulTIeOJZihVUw2uqLAikF_48.229426_-101.289870@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294415,
+    "wof:geomhash":"8b5afa20fa13e7b57292fc535d1e4b9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873553355
+        }
+    ],
+    "wof:id":873553355,
+    "wof:lastmodified":1464294415,
+    "wof:name":"Good Shepherd Day Care Ctr",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.28987,
+    48.229426,
+    -101.28987,
+    48.229426
+],
+  "geometry": {"coordinates":[-101.28986999999999,48.229426],"type":"Point"}
+}

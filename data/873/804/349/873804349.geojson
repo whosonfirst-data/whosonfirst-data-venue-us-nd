@@ -1,0 +1,76 @@
+{
+  "id": 873804349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.832689,46.861643,-96.832689,46.861643",
+    "geom:latitude":46.861643,
+    "geom:longitude":-96.832689,
+    "iso:country":"US",
+    "sg:address":"3333 13th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 877 574 2464",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "lodging"
+    ],
+    "sg:website":"http://book.bestwestern.com/bestwestern/priceAvail.do?propertyCode=35024&cm_mmc=IYP-_-YP-_-property-_-35024",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00YNSMsPS0b3E5nD9l1RCw_46.861643_-96.832689@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297827,
+    "wof:geomhash":"a22edc83879c02623ab5961577227182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873804349
+        }
+    ],
+    "wof:id":873804349,
+    "wof:lastmodified":1464297827,
+    "wof:name":"Best Western Fargo Doublewood Inn",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lodging"
+    ]
+},
+  "bbox": [
+    -96.832689,
+    46.861643,
+    -96.832689,
+    46.861643
+],
+  "geometry": {"coordinates":[-96.832689,46.861643],"type":"Point"}
+}

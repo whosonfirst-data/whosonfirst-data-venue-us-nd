@@ -1,0 +1,71 @@
+{
+  "id": 873657323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.296035,48.23766,-101.296035,48.23766",
+    "geom:latitude":48.23766,
+    "geom:longitude":-101.296035,
+    "iso:country":"US",
+    "sg:address":"400 N Broadway",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 4486",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iS9eRb1DqmlA2UpoylBHf_48.237660_-101.296035@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295670,
+    "wof:geomhash":"09655f76e7eed653ab7d05340f66908b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873657323
+        }
+    ],
+    "wof:id":873657323,
+    "wof:lastmodified":1464295670,
+    "wof:name":"Sammys Pizza",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -101.296035,
+    48.23766,
+    -101.296035,
+    48.23766
+],
+  "geometry": {"coordinates":[-101.296035,48.23766],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 873688057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.810677,46.806569,-100.810677,46.806569",
+    "geom:latitude":46.806569,
+    "geom:longitude":-100.810677,
+    "iso:country":"US",
+    "sg:address":"1139 Memorial Hwy",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 1310",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "sg:website":"www.maas-nd.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ArgkxlH4jU5LxKjswHFRy_46.806569_-100.810677@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296222,
+    "wof:geomhash":"7ce94725432064220f90f5354bb774c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873688057
+        }
+    ],
+    "wof:id":873688057,
+    "wof:lastmodified":1464296222,
+    "wof:name":"Metro Area Ambulance Svc Inc",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -100.810677,
+    46.806569,
+    -100.810677,
+    46.806569
+],
+  "geometry": {"coordinates":[-100.810677,46.806569],"type":"Point"}
+}

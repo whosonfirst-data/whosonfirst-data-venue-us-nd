@@ -1,0 +1,75 @@
+{
+  "id": 873748999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.758567,46.803387,-100.758567,46.803387",
+    "geom:latitude":46.803387,
+    "geom:longitude":-100.758567,
+    "iso:country":"US",
+    "sg:address":"1920 E Front Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 9900",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72tOaxl00GpGqze2QAn6VY_46.803387_-100.758567@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297062,
+    "wof:geomhash":"cbc7b424b903131e805b4daef63606de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873748999
+        }
+    ],
+    "wof:id":873748999,
+    "wof:lastmodified":1464297062,
+    "wof:name":"Morris Auto Sales Svc Detail",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -100.758567,
+    46.803387,
+    -100.758567,
+    46.803387
+],
+  "geometry": {"coordinates":[-100.758567,46.803387],"type":"Point"}
+}

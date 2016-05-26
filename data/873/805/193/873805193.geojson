@@ -1,0 +1,84 @@
+{
+  "id": 873805193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.850952,46.818249,-96.850952,46.818249",
+    "geom:latitude":46.818249,
+    "geom:longitude":-96.850952,
+    "iso:country":"US",
+    "sg:address":"4040 42nd St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 241 7600",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "auto",
+        "homeowner"
+    ],
+    "sg:website":"http://apps.amfam.com/agentlocator/?sourceid=yp3",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Rwpivfu7kUCNrOiZaHQ3A_46.818249_-96.850952@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297837,
+    "wof:geomhash":"404db840df36f22a3c39cd9d0d09a707",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873805193
+        }
+    ],
+    "wof:id":873805193,
+    "wof:lastmodified":1464297837,
+    "wof:name":"American Family Insurance- Micah Arnold",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto",
+        "homeowner"
+    ]
+},
+  "bbox": [
+    -96.850952,
+    46.818249,
+    -96.850952,
+    46.818249
+],
+  "geometry": {"coordinates":[-96.85095200000001,46.818249],"type":"Point"}
+}

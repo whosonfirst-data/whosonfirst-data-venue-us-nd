@@ -1,0 +1,75 @@
+{
+  "id": 873573125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.83967,47.969131,-97.83967,47.969131",
+    "geom:latitude":47.969131,
+    "geom:longitude":-97.83967,
+    "iso:country":"US",
+    "sg:address":"2066 47th St NE",
+    "sg:city":"Niagara",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 397 5789",
+    "sg:postcode":"58266",
+    "sg:province":"ND",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZFXlLbGY7BUdEw9vxPOYv_47.969131_-97.839670@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294643,
+    "wof:geomhash":"42e83bdb5e2e39cf163cb45fb77767e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873573125
+        }
+    ],
+    "wof:id":873573125,
+    "wof:lastmodified":1464294643,
+    "wof:name":"G&J Trucking Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -97.83967,
+    47.969131,
+    -97.83967,
+    47.969131
+],
+  "geometry": {"coordinates":[-97.83967,47.969131],"type":"Point"}
+}

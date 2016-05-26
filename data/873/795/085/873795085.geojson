@@ -1,0 +1,69 @@
+{
+  "id": 873795085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.8833,46.721822,-96.8833,46.721822",
+    "geom:latitude":46.721822,
+    "geom:longitude":-96.8833,
+    "iso:country":"US",
+    "sg:address":"12004 57th St S",
+    "sg:city":"Horace",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 588 4337",
+    "sg:postcode":"58047",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "grain",
+        "cash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yWme0pWOp9cKxwoV0OD0b_46.721822_-96.883300@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297716,
+    "wof:geomhash":"dd64dea0b107f621d69474a2e9f545d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873795085
+        }
+    ],
+    "wof:id":873795085,
+    "wof:lastmodified":1464297716,
+    "wof:name":"Terry Sauvageau",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "grain",
+        "cash"
+    ]
+},
+  "bbox": [
+    -96.8833,
+    46.721822,
+    -96.8833,
+    46.721822
+],
+  "geometry": {"coordinates":[-96.88330000000001,46.721822],"type":"Point"}
+}

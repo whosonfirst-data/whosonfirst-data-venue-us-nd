@@ -1,0 +1,73 @@
+{
+  "id": 873608137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.29612,48.241542,-101.29612,48.241542",
+    "geom:latitude":48.241542,
+    "geom:longitude":-101.29612,
+    "iso:country":"US",
+    "sg:address":"815 N Broadway",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 8633",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07ysXJr9Q3GBnP6PvDUiKW_48.241542_-101.296120@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295101,
+    "wof:geomhash":"78149b52c921d061282f56c87deb265e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873608137
+        }
+    ],
+    "wof:id":873608137,
+    "wof:lastmodified":1464295101,
+    "wof:name":"Bellissimo Caffe Casa",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -101.29612,
+    48.241542,
+    -101.29612,
+    48.241542
+],
+  "geometry": {"coordinates":[-101.29612,48.241542],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873736761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.371947,48.236764,-101.371947,48.236764",
+    "geom:latitude":48.236764,
+    "geom:longitude":-101.371947,
+    "iso:country":"US",
+    "sg:address":"115 54th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 9661",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "soil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4arMgSLX3WT1IiuV6BrEFm_48.236764_-101.371947@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296879,
+    "wof:geomhash":"13354da6f716e3e3e6814597aec5f86e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873736761
+        }
+    ],
+    "wof:id":873736761,
+    "wof:lastmodified":1464296879,
+    "wof:name":"Ag Soil Science",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "soil"
+    ]
+},
+  "bbox": [
+    -101.371947,
+    48.236764,
+    -101.371947,
+    48.236764
+],
+  "geometry": {"coordinates":[-101.37194700000001,48.236764],"type":"Point"}
+}

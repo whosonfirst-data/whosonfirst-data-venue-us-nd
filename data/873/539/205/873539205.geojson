@@ -1,0 +1,72 @@
+{
+  "id": 873539205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.763379,46.806147,-100.763379,46.806147",
+    "geom:latitude":46.806147,
+    "geom:longitude":-100.763379,
+    "iso:country":"US",
+    "sg:address":"1803 E Broadway Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 4000",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "commercial"
+    ],
+    "sg:website":"www.imageprinting.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ncCUU9gJyd7nVr2huxBrb_46.806147_-100.763379@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294252,
+    "wof:geomhash":"d5a8c2acca937211926c7ffad8b894cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873539205
+        }
+    ],
+    "wof:id":873539205,
+    "wof:lastmodified":1464294252,
+    "wof:name":"Image Printing",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial"
+    ]
+},
+  "bbox": [
+    -100.763379,
+    46.806147,
+    -100.763379,
+    46.806147
+],
+  "geometry": {"coordinates":[-100.763379,46.806147],"type":"Point"}
+}

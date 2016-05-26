@@ -1,0 +1,73 @@
+{
+  "id": 873775733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.327731,48.243682,-101.327731,48.243682",
+    "geom:latitude":48.243682,
+    "geom:longitude":-101.327731,
+    "iso:country":"US",
+    "sg:address":"2300 7th Ave NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 240 9991",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "live",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2r7N7K2xxYVYzmiyoQnrhX_48.243682_-101.327731@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297434,
+    "wof:geomhash":"c0cc58724bccf842f281dd2568f3f00a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873775733
+        }
+    ],
+    "wof:id":873775733,
+    "wof:lastmodified":1464297434,
+    "wof:name":"Bill & Bill Disc Jockeys",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "live",
+        "music"
+    ]
+},
+  "bbox": [
+    -101.327731,
+    48.243682,
+    -101.327731,
+    48.243682
+],
+  "geometry": {"coordinates":[-101.327731,48.243682],"type":"Point"}
+}

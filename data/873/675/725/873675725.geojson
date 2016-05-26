@@ -1,0 +1,71 @@
+{
+  "id": 873675725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.30482,48.210815,-101.30482,48.210815",
+    "geom:latitude":48.210815,
+    "geom:longitude":-101.30482,
+    "iso:country":"US",
+    "sg:address":"710 20th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 8033",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ny8THZCcU4g10X9Fr0oqV_48.210815_-101.304820@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295883,
+    "wof:geomhash":"969b18b81ad65b73487cea355ded7842",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873675725
+        }
+    ],
+    "wof:id":873675725,
+    "wof:lastmodified":1464295883,
+    "wof:name":"A Moving & Storage",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -101.30482,
+    48.210815,
+    -101.30482,
+    48.210815
+],
+  "geometry": {"coordinates":[-101.30482000000001,48.210815],"type":"Point"}
+}

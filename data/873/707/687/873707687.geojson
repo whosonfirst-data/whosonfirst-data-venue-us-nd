@@ -1,0 +1,77 @@
+{
+  "id": 873707687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.760046,46.793252,-100.760046,46.793252",
+    "geom:latitude":46.793252,
+    "geom:longitude":-100.760046,
+    "iso:country":"US",
+    "sg:address":"2121 Lovett Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 6012",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "designer",
+        "dealer",
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sKvmqEmZsv95TtlAjgQci_46.793252_-100.760046@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296491,
+    "wof:geomhash":"26cbbcea72eeae3612e55c986c31ac2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873707687
+        }
+    ],
+    "wof:id":873707687,
+    "wof:lastmodified":1464296491,
+    "wof:name":"Associated Pool Builders Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "designer",
+        "dealer",
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -100.760046,
+    46.793252,
+    -100.760046,
+    46.793252
+],
+  "geometry": {"coordinates":[-100.760046,46.793252],"type":"Point"}
+}

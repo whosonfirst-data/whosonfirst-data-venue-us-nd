@@ -1,0 +1,75 @@
+{
+  "id": 873546281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.622512,48.035331,-97.622512,48.035331",
+    "geom:latitude":48.035331,
+    "geom:longitude":-97.622512,
+    "iso:country":"US",
+    "sg:address":"2451 37th St NE",
+    "sg:city":"Larimore",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 343 2862",
+    "sg:postcode":"58251",
+    "sg:province":"ND",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21vTniHA9ww2kdtufLi04q_48.035331_-97.622512@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294331,
+    "wof:geomhash":"9e0868927702b6f583781dcbe693f766",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873546281
+        }
+    ],
+    "wof:id":873546281,
+    "wof:lastmodified":1464294331,
+    "wof:name":"Robert Amundson",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -97.622512,
+    48.035331,
+    -97.622512,
+    48.035331
+],
+  "geometry": {"coordinates":[-97.622512,48.035331],"type":"Point"}
+}

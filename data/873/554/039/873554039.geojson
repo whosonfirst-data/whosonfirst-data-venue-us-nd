@@ -1,0 +1,66 @@
+{
+  "id": 873554039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.029268,47.875353,-97.029268,47.875353",
+    "geom:latitude":47.875353,
+    "geom:longitude":-97.029268,
+    "iso:country":"US",
+    "sg:address":"4666 Belmont Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Political Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 3001",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bxGjvFVc9l9MhcKMPG3na_47.875353_-97.029268@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294422,
+    "wof:geomhash":"1bf6d58ec1392cd5f15bf71c3cf04ea1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873554039
+        }
+    ],
+    "wof:id":873554039,
+    "wof:lastmodified":1464294422,
+    "wof:name":"Grand Forks Republicans",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.029268,
+    47.875353,
+    -97.029268,
+    47.875353
+],
+  "geometry": {"coordinates":[-97.029268,47.875353],"type":"Point"}
+}

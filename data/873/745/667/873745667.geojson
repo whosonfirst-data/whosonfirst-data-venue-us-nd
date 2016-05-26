@@ -1,0 +1,80 @@
+{
+  "id": 873745667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.754749,46.804997,-100.754749,46.804997",
+    "geom:latitude":46.804997,
+    "geom:longitude":-100.754749,
+    "iso:country":"US",
+    "sg:address":"2405 E Main Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 4960",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "station"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eIFFvwPAoGxlDrlfLJbYj_46.804997_-100.754749@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297021,
+    "wof:geomhash":"65dc671b3f3b44154079c85a088c66a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873745667
+        }
+    ],
+    "wof:id":873745667,
+    "wof:lastmodified":1464297021,
+    "wof:name":"Isaak's Service",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "station"
+    ]
+},
+  "bbox": [
+    -100.754749,
+    46.804997,
+    -100.754749,
+    46.804997
+],
+  "geometry": {"coordinates":[-100.754749,46.804997],"type":"Point"}
+}

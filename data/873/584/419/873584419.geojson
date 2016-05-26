@@ -1,0 +1,71 @@
+{
+  "id": 873584419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.787686,46.801363,-100.787686,46.801363",
+    "geom:latitude":46.801363,
+    "geom:longitude":-100.787686,
+    "iso:country":"US",
+    "sg:address":"525 S 3rd St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 3198",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bcb7TAmlGTpLBWjd3TRVf_46.801363_-100.787686@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294767,
+    "wof:geomhash":"d01bb4f3c75db435976e81f36014ff89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873584419
+        }
+    ],
+    "wof:id":873584419,
+    "wof:lastmodified":1464294767,
+    "wof:name":"Krikwood Amoco Svc Center",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -100.787686,
+    46.801363,
+    -100.787686,
+    46.801363
+],
+  "geometry": {"coordinates":[-100.78768599999999,46.801363],"type":"Point"}
+}

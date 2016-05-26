@@ -1,0 +1,71 @@
+{
+  "id": 873566275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.295479,48.227925,-101.295479,48.227925",
+    "geom:latitude":48.227925,
+    "geom:longitude":-101.295479,
+    "iso:country":"US",
+    "sg:address":"831 S Broadway St",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 857 5343",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "nurse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ake4y4DYxlJ8vFIKtgjhh_48.227925_-101.295479@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294569,
+    "wof:geomhash":"71ec66aaec4582422939d88d74eedc57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873566275
+        }
+    ],
+    "wof:id":873566275,
+    "wof:lastmodified":1464294569,
+    "wof:name":"Trinity Familycare",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse"
+    ]
+},
+  "bbox": [
+    -101.295479,
+    48.227925,
+    -101.295479,
+    48.227925
+],
+  "geometry": {"coordinates":[-101.295479,48.227925],"type":"Point"}
+}

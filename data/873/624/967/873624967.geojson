@@ -1,0 +1,77 @@
+{
+  "id": 873624967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.878744,46.875119,-96.878744,46.875119",
+    "geom:latitude":46.875119,
+    "geom:longitude":-96.878744,
+    "iso:country":"US",
+    "sg:address":"1034 Brookwood Ln",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 277 9863",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wKuWmBpNjlxMjHDpoYISB_46.875119_-96.878744@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295310,
+    "wof:geomhash":"4f9cb27b7e3146f205f3d88ba8daf6df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873624967
+        }
+    ],
+    "wof:id":873624967,
+    "wof:lastmodified":1464295310,
+    "wof:name":"Dakota Finishing Inc",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.878744,
+    46.875119,
+    -96.878744,
+    46.875119
+],
+  "geometry": {"coordinates":[-96.878744,46.875119],"type":"Point"}
+}

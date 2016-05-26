@@ -1,0 +1,70 @@
+{
+  "id": 873596645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.782861,46.920191,-96.782861,46.920191",
+    "geom:latitude":46.920191,
+    "geom:longitude":-96.782861,
+    "iso:country":"US",
+    "sg:address":"38 E Lynmar Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 237 0102",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877353,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Gd2bwaz4DvakfVzCeWbcn_46.920191_-96.782861@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294939,
+    "wof:geomhash":"c8a53610dad7fc17c6ce53232bddbad6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877353,
+            "region_id":85688525,
+            "venue_id":873596645
+        }
+    ],
+    "wof:id":873596645,
+    "wof:lastmodified":1464294939,
+    "wof:name":"Superior Sound",
+    "wof:parent_id":85877353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.782861,
+    46.920191,
+    -96.782861,
+    46.920191
+],
+  "geometry": {"coordinates":[-96.782861,46.920191],"type":"Point"}
+}

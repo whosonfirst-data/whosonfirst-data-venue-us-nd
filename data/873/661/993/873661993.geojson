@@ -1,0 +1,73 @@
+{
+  "id": 873661993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.774075,46.737061,-100.774075,46.737061",
+    "geom:latitude":46.737061,
+    "geom:longitude":-100.774075,
+    "iso:country":"US",
+    "sg:address":"1201 Oahe Bend",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 0183",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "loan",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oFitIm7YYHQcBvBRQ7sOk_46.737061_-100.774075@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295719,
+    "wof:geomhash":"b7df8c2172c8249e8c657939a60d6558",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873661993
+        }
+    ],
+    "wof:id":873661993,
+    "wof:lastmodified":1464295719,
+    "wof:name":"Dunn Family Ltd",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "broker"
+    ]
+},
+  "bbox": [
+    -100.774075,
+    46.737061,
+    -100.774075,
+    46.737061
+],
+  "geometry": {"coordinates":[-100.774075,46.737061],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 873805601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.350807,48.00563,-97.350807,48.00563",
+    "geom:latitude":48.00563,
+    "geom:longitude":-97.350807,
+    "iso:country":"US",
+    "sg:address":"2424 23rd Ave NE",
+    "sg:city":"Mekinock",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 594 5310",
+    "sg:postcode":"58258",
+    "sg:province":"ND",
+    "sg:tags":[
+        "lutheran",
+        "america",
+        "churches-lutheran",
+        "churches-lutheran-evangelical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CGBrrjPccjq2VYsvb4Xkq_48.005630_-97.350807@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297845,
+    "wof:geomhash":"60ffeb54b47888407a6a9e1094bc6b7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873805601
+        }
+    ],
+    "wof:id":873805601,
+    "wof:lastmodified":1464297845,
+    "wof:name":"Ness Lutheran Church",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lutheran",
+        "america",
+        "churches-lutheran",
+        "churches-lutheran-evangelical"
+    ]
+},
+  "bbox": [
+    -97.350807,
+    48.00563,
+    -97.350807,
+    48.00563
+],
+  "geometry": {"coordinates":[-97.350807,48.00563],"type":"Point"}
+}

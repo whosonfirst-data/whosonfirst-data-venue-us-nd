@@ -1,0 +1,66 @@
+{
+  "id": 873564319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.0449,47.927068,-97.0449,47.927068",
+    "geom:latitude":47.927068,
+    "geom:longitude":-97.0449,
+    "iso:country":"US",
+    "sg:address":"724 N Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 787 8811",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Jvn1NfPBo1XF8162fEgPB_47.927068_-97.044900@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294547,
+    "wof:geomhash":"7d970cdfac2e4c681944c6ef158b620a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873564319
+        }
+    ],
+    "wof:id":873564319,
+    "wof:lastmodified":1464294547,
+    "wof:name":"State Farm Insurance",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.0449,
+    47.927068,
+    -97.0449,
+    47.927068
+],
+  "geometry": {"coordinates":[-97.0449,47.927068],"type":"Point"}
+}

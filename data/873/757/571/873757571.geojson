@@ -1,0 +1,71 @@
+{
+  "id": 873757571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.053822,47.889506,-97.053822,47.889506",
+    "geom:latitude":47.889506,
+    "geom:longitude":-97.053822,
+    "iso:country":"US",
+    "sg:address":"1950 32nd Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 4684",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27J3J8HLlR90lwukOOwSSO_47.889506_-97.053822@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297176,
+    "wof:geomhash":"a9b21b079d7a51100995290e11badc72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873757571
+        }
+    ],
+    "wof:id":873757571,
+    "wof:lastmodified":1464297176,
+    "wof:name":"Columbia Liquors",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -97.053822,
+    47.889506,
+    -97.053822,
+    47.889506
+],
+  "geometry": {"coordinates":[-97.053822,47.889506],"type":"Point"}
+}

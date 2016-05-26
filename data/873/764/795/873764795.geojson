@@ -1,0 +1,71 @@
+{
+  "id": 873764795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.714324,46.865477,-100.714324,46.865477",
+    "geom:latitude":46.865477,
+    "geom:longitude":-100.714324,
+    "iso:country":"US",
+    "sg:address":"4740 Grassy Ln",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 0181",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "agricultural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yIMfwjrm6VC3i1gYdsxAx_46.865477_-100.714324@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297292,
+    "wof:geomhash":"dfddf063b7c7aa1151c5f767cc44a955",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873764795
+        }
+    ],
+    "wof:id":873764795,
+    "wof:lastmodified":1464297292,
+    "wof:name":"Prairies Diversified",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agricultural"
+    ]
+},
+  "bbox": [
+    -100.714324,
+    46.865477,
+    -100.714324,
+    46.865477
+],
+  "geometry": {"coordinates":[-100.714324,46.865477],"type":"Point"}
+}

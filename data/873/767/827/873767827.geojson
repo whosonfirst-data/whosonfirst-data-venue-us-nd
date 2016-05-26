@@ -1,0 +1,73 @@
+{
+  "id": 873767827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.314703,48.227968,-101.314703,48.227968",
+    "geom:latitude":48.227968,
+    "geom:longitude":-101.314703,
+    "iso:country":"US",
+    "sg:address":"900 16th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 857 4760",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "govt",
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hRk7iCw7toPKFbtmvAoIe_48.227968_-101.314703@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297336,
+    "wof:geomhash":"18457aa1cdcb46ea3be226af5fefec58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873767827
+        }
+    ],
+    "wof:id":873767827,
+    "wof:lastmodified":1464297336,
+    "wof:name":"Water Treatment Plant",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "city"
+    ]
+},
+  "bbox": [
+    -101.314703,
+    48.227968,
+    -101.314703,
+    48.227968
+],
+  "geometry": {"coordinates":[-101.31470299999999,48.227968],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873664063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.292823,48.235494,-101.292823,48.235494",
+    "geom:latitude":48.235494,
+    "geom:longitude":-101.292823,
+    "iso:country":"US",
+    "sg:address":"21 1st Ave SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 0561",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3I2ah45gJLYr0HwaRmwrYo_48.235494_-101.292823@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295741,
+    "wof:geomhash":"e77f6a1a69ed3a6044099d88b0574b61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873664063
+        }
+    ],
+    "wof:id":873664063,
+    "wof:lastmodified":1464295741,
+    "wof:name":"Minot Commission On Aging Inc",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "senior",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -101.292823,
+    48.235494,
+    -101.292823,
+    48.235494
+],
+  "geometry": {"coordinates":[-101.292823,48.235494],"type":"Point"}
+}

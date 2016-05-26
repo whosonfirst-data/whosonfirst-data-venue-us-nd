@@ -1,0 +1,66 @@
+{
+  "id": 873726873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.798354,46.768826,-100.798354,46.768826",
+    "geom:latitude":46.768826,
+    "geom:longitude":-100.798354,
+    "iso:country":"US",
+    "sg:address":"3017 Manchester St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 224 0213",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3r2JvSE8RKSmy15jYtddif_46.768826_-100.798354@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296739,
+    "wof:geomhash":"fa7475cc7089c544cdea8fb91bcd3dd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873726873
+        }
+    ],
+    "wof:id":873726873,
+    "wof:lastmodified":1464296739,
+    "wof:name":"D&L Enterprises",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.798354,
+    46.768826,
+    -100.798354,
+    46.768826
+],
+  "geometry": {"coordinates":[-100.798354,46.768826],"type":"Point"}
+}

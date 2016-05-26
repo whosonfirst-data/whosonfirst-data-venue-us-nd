@@ -1,0 +1,77 @@
+{
+  "id": 873547503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.308023,48.22393,-101.308023,48.22393",
+    "geom:latitude":48.22393,
+    "geom:longitude":-101.308023,
+    "iso:country":"US",
+    "sg:address":"1116 12th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 5407",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "contractor",
+        "electrical",
+        "merchandise",
+        "consult"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fsXlG0Vz3nfTZ10KKmqEB_48.223930_-101.308023@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294345,
+    "wof:geomhash":"c252bc34d5b5cf39dba9404680ad36a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873547503
+        }
+    ],
+    "wof:id":873547503,
+    "wof:lastmodified":1464294345,
+    "wof:name":"Security Plus",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "electrical",
+        "merchandise",
+        "consult"
+    ]
+},
+  "bbox": [
+    -101.308023,
+    48.22393,
+    -101.308023,
+    48.22393
+],
+  "geometry": {"coordinates":[-101.30802300000001,48.22393],"type":"Point"}
+}

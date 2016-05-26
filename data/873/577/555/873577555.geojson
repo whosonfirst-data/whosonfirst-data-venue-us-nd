@@ -1,0 +1,77 @@
+{
+  "id": 873577555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.845936,46.829221,-96.845936,46.829221",
+    "geom:latitude":46.829221,
+    "geom:longitude":-96.845936,
+    "iso:country":"US",
+    "sg:address":"3357 39th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 3454",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877355,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5H9YPVRQUkyll0y8d3EPE8_46.829221_-96.845936@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294689,
+    "wof:geomhash":"6ac75d524ae352ce4d2ff946031d7db9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877355,
+            "region_id":85688525,
+            "venue_id":873577555
+        }
+    ],
+    "wof:id":873577555,
+    "wof:lastmodified":1464294689,
+    "wof:name":"Gast Construction",
+    "wof:parent_id":85877355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.845936,
+    46.829221,
+    -96.845936,
+    46.829221
+],
+  "geometry": {"coordinates":[-96.84593599999999,46.829221],"type":"Point"}
+}

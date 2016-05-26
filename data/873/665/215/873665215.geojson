@@ -1,0 +1,65 @@
+{
+  "id": 873665215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.627373,48.154122,-103.627373,48.154122",
+    "geom:latitude":48.154122,
+    "geom:longitude":-103.627373,
+    "iso:country":"US",
+    "sg:address":"311 11th St W",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 572 3400",
+    "sg:postcode":"58801",
+    "sg:province":"ND",
+    "sg:tags":[
+        "department",
+        "passenger",
+        "executive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3a6PwDuH86NWJvVvY5cpJe_48.154122_-103.627373@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295752,
+    "wof:geomhash":"404b01c7061ec5178ea9895a42df8dbb",
+    "wof:hierarchy":[],
+    "wof:id":873665215,
+    "wof:lastmodified":1464295752,
+    "wof:name":"Williston Ambulance Service",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "passenger",
+        "executive"
+    ]
+},
+  "bbox": [
+    -103.627373,
+    48.154122,
+    -103.627373,
+    48.154122
+],
+  "geometry": {"coordinates":[-103.62737300000001,48.154122],"type":"Point"}
+}

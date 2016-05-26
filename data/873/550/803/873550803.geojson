@@ -1,0 +1,73 @@
+{
+  "id": 873550803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.293241,48.216551,-101.293241,48.216551",
+    "geom:latitude":48.216551,
+    "geom:longitude":-101.293241,
+    "iso:country":"US",
+    "sg:address":"5 17th Ave SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 5564",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kqmxh2MLrMtnqxrBp57xe_48.216551_-101.293241@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294387,
+    "wof:geomhash":"6fd0264d33b4f91ba348682531088646",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873550803
+        }
+    ],
+    "wof:id":873550803,
+    "wof:lastmodified":1464294387,
+    "wof:name":"Air Hydrous",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -101.293241,
+    48.216551,
+    -101.293241,
+    48.216551
+],
+  "geometry": {"coordinates":[-101.29324099999999,48.216551],"type":"Point"}
+}

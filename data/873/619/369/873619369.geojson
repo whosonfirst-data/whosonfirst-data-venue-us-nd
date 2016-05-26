@@ -1,0 +1,71 @@
+{
+  "id": 873619369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.406948,48.262278,-101.406948,48.262278",
+    "geom:latitude":48.262278,
+    "geom:longitude":-101.406948,
+    "iso:country":"US",
+    "sg:address":"2220 73rd St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 2756",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4p5UUcenWkhQTktgLiUGA9_48.262278_-101.406948@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295244,
+    "wof:geomhash":"69f7ea8ebf9e68aa2b2bc9d8ee541853",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873619369
+        }
+    ],
+    "wof:id":873619369,
+    "wof:lastmodified":1464295244,
+    "wof:name":"Ostlund Photography",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -101.406948,
+    48.262278,
+    -101.406948,
+    48.262278
+],
+  "geometry": {"coordinates":[-101.406948,48.262278],"type":"Point"}
+}

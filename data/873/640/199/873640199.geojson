@@ -1,0 +1,76 @@
+{
+  "id": 873640199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.810721,46.883173,-96.810721,46.883173",
+    "geom:latitude":46.883173,
+    "geom:longitude":-96.810721,
+    "iso:country":"US",
+    "sg:address":"1801 7th Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Painting Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 4441",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "paint"
+    ],
+    "sg:website":"www.fargoglass.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877363,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XFUnYz9SSEtZ5sBB7ihcV_46.883173_-96.810721@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295475,
+    "wof:geomhash":"42166b804dc936355aa1824ac3a1d430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877363,
+            "region_id":85688525,
+            "venue_id":873640199
+        }
+    ],
+    "wof:id":873640199,
+    "wof:lastmodified":1464295475,
+    "wof:name":"Fargo Glass & Paint Co",
+    "wof:parent_id":85877363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -96.810721,
+    46.883173,
+    -96.810721,
+    46.883173
+],
+  "geometry": {"coordinates":[-96.810721,46.883173],"type":"Point"}
+}

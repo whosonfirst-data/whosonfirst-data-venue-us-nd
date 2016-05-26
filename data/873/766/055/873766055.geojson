@@ -1,0 +1,75 @@
+{
+  "id": 873766055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.088171,47.896704,-97.088171,47.896704",
+    "geom:latitude":47.896704,
+    "geom:longitude":-97.088171,
+    "iso:country":"US",
+    "sg:address":"4006 24th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 787 7621",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "home",
+        "retirement",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SdHO2H5aql5t24Lgibmfy_47.896704_-97.088171@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297313,
+    "wof:geomhash":"86caaa3700211e647e10656d878b8c3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873766055
+        }
+    ],
+    "wof:id":873766055,
+    "wof:lastmodified":1464297313,
+    "wof:name":"Wheatland Terrace Vly Meml Hms",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "retirement",
+        "community"
+    ]
+},
+  "bbox": [
+    -97.088171,
+    47.896704,
+    -97.088171,
+    47.896704
+],
+  "geometry": {"coordinates":[-97.088171,47.896704],"type":"Point"}
+}

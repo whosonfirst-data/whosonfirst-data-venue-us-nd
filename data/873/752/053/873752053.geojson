@@ -1,0 +1,71 @@
+{
+  "id": 873752053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.903789,46.758245,-96.903789,46.758245",
+    "geom:latitude":46.758245,
+    "geom:longitude":-96.903789,
+    "iso:country":"US",
+    "sg:address":"412 Main St",
+    "sg:city":"Horace",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 0532",
+    "sg:postcode":"58047",
+    "sg:province":"ND",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1S3twPeSkasT9FOAA8CUZp_46.758245_-96.903789@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297101,
+    "wof:geomhash":"1a8ade86b92a2d046fc30a0c5fc60590",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873752053
+        }
+    ],
+    "wof:id":873752053,
+    "wof:lastmodified":1464297101,
+    "wof:name":"Sheyenne Bar & Lounge",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -96.903789,
+    46.758245,
+    -96.903789,
+    46.758245
+],
+  "geometry": {"coordinates":[-96.903789,46.758245],"type":"Point"}
+}

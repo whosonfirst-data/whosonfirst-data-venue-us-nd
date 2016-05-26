@@ -1,0 +1,73 @@
+{
+  "id": 873666463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.046383,47.910257,-97.046383,47.910257",
+    "geom:latitude":47.910257,
+    "geom:longitude":-97.046383,
+    "iso:country":"US",
+    "sg:address":"1318 12th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 5522",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sgN4xDyzACanoWTdAidSQ_47.910257_-97.046383@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295764,
+    "wof:geomhash":"79c3707a4a4c3d882fa67122c2b8eda4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873666463
+        }
+    ],
+    "wof:id":873666463,
+    "wof:lastmodified":1464295764,
+    "wof:name":"Custom Aire Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.046383,
+    47.910257,
+    -97.046383,
+    47.910257
+],
+  "geometry": {"coordinates":[-97.04638300000001,47.910257],"type":"Point"}
+}

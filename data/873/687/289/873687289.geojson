@@ -1,0 +1,66 @@
+{
+  "id": 873687289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.072061,46.711218,-97.072061,46.711218",
+    "geom:latitude":46.711218,
+    "geom:longitude":-97.072061,
+    "iso:country":"US",
+    "sg:address":"40 1st Ave",
+    "sg:city":"Davenport",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 428 3738",
+    "sg:postcode":"58021",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NbmlWGWmcuCj2ZEXG7yK6_46.711218_-97.072061@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296200,
+    "wof:geomhash":"38a389aa4adab4a7b4f254f5620bf352",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873687289
+        }
+    ],
+    "wof:id":873687289,
+    "wof:lastmodified":1464296200,
+    "wof:name":"Cutting Edge Salon",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.072061,
+    46.711218,
+    -97.072061,
+    46.711218
+],
+  "geometry": {"coordinates":[-97.07206100000001,46.711218],"type":"Point"}
+}

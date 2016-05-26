@@ -1,0 +1,75 @@
+{
+  "id": 873722109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.641955,48.06462,-101.641955,48.06462",
+    "geom:latitude":48.06462,
+    "geom:longitude":-101.641955,
+    "iso:country":"US",
+    "sg:address":"16501 226th St SW",
+    "sg:city":"Ryder",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 725 4937",
+    "sg:postcode":"58779",
+    "sg:province":"ND",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Jhz1aySOD74lfqMRTfVny_48.064620_-101.641955@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296675,
+    "wof:geomhash":"4bfaba125a4a6962b664c22ee5f9ad90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873722109
+        }
+    ],
+    "wof:id":873722109,
+    "wof:lastmodified":1464296675,
+    "wof:name":"Don Leifson",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -101.641955,
+    48.06462,
+    -101.641955,
+    48.06462
+],
+  "geometry": {"coordinates":[-101.641955,48.06462],"type":"Point"}
+}

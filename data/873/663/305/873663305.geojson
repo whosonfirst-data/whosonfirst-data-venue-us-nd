@@ -1,0 +1,73 @@
+{
+  "id": 873663305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.099919,47.775107,-97.099919,47.775107",
+    "geom:latitude":47.775107,
+    "geom:longitude":-97.099919,
+    "iso:country":"US",
+    "sg:address":"606 2nd St",
+    "sg:city":"Thompson",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 599 2114",
+    "sg:postcode":"58278",
+    "sg:province":"ND",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TKqEHRZGAxWJ6RB8Iyekh_47.775107_-97.099919@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295734,
+    "wof:geomhash":"2a0d5673b72866bf656f7bb31b2ac37e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873663305
+        }
+    ],
+    "wof:id":873663305,
+    "wof:lastmodified":1464295734,
+    "wof:name":"Six Pines Properties Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -97.099919,
+    47.775107,
+    -97.099919,
+    47.775107
+],
+  "geometry": {"coordinates":[-97.099919,47.775107],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873682207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.122867,48.13867,-101.122867,48.13867",
+    "geom:latitude":48.13867,
+    "geom:longitude":-101.122867,
+    "iso:country":"US",
+    "sg:address":"9301 111th St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 5110",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "cabinet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WAbFVdMTv3UIMtdZ9zYR5_48.138670_-101.122867@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296059,
+    "wof:geomhash":"d7d6b6f34ad24b50ef5611b61f0f6e20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873682207
+        }
+    ],
+    "wof:id":873682207,
+    "wof:lastmodified":1464296059,
+    "wof:name":"Beck's Woodworks",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cabinet"
+    ]
+},
+  "bbox": [
+    -101.122867,
+    48.13867,
+    -101.122867,
+    48.13867
+],
+  "geometry": {"coordinates":[-101.122867,48.13867],"type":"Point"}
+}

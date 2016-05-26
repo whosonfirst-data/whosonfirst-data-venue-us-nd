@@ -1,0 +1,75 @@
+{
+  "id": 873633989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.827425,46.860758,-96.827425,46.860758",
+    "geom:latitude":46.860758,
+    "geom:longitude":-96.827425,
+    "iso:country":"US",
+    "sg:address":"1330 Page Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 280 1700",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mm1csjh11DfBTvSWWHriK_46.860758_-96.827425@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295413,
+    "wof:geomhash":"3cfdcd27838bf2393c283b0c3543804c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873633989
+        }
+    ],
+    "wof:id":873633989,
+    "wof:lastmodified":1464295413,
+    "wof:name":"Pocket MD",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [
+    -96.827425,
+    46.860758,
+    -96.827425,
+    46.860758
+],
+  "geometry": {"coordinates":[-96.82742500000001,46.860758],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 873781459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-102.78695,46.892983,-102.78695,46.892983",
+    "geom:latitude":46.892983,
+    "geom:longitude":-102.78695,
+    "iso:country":"US",
+    "sg:address":"105 Osborn Dr",
+    "sg:city":"Dickinson",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 225 0736",
+    "sg:postcode":"58601",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877119,
+        102191575,
+        404482179,
+        85633793,
+        85982521,
+        102082105,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aSm7L4MvD7zkusGzn2edA_46.892983_-102.786950@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297510,
+    "wof:geomhash":"af23e37bf35321d543b82937a8a2faa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082105,
+            "localadmin_id":404482179,
+            "locality_id":85982521,
+            "neighbourhood_id":85877119,
+            "region_id":85688525,
+            "venue_id":873781459
+        }
+    ],
+    "wof:id":873781459,
+    "wof:lastmodified":1464297510,
+    "wof:name":"North Dakota Educational Assn",
+    "wof:parent_id":85877119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -102.78695,
+    46.892983,
+    -102.78695,
+    46.892983
+],
+  "geometry": {"coordinates":[-102.78695,46.892983],"type":"Point"}
+}

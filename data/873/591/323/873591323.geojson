@@ -1,0 +1,71 @@
+{
+  "id": 873591323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.770938,46.81636,-100.770938,46.81636",
+    "geom:latitude":46.81636,
+    "geom:longitude":-100.770938,
+    "iso:country":"US",
+    "sg:address":"1010 N 14th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 0258",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LCxLS4OlBPe5wBwTXPghO_46.816360_-100.770938@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294847,
+    "wof:geomhash":"18b963552e9d3ab63a2f27af183a0548",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873591323
+        }
+    ],
+    "wof:id":873591323,
+    "wof:lastmodified":1464294847,
+    "wof:name":"Nedlynn's Painting & Drywall",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -100.770938,
+    46.81636,
+    -100.770938,
+    46.81636
+],
+  "geometry": {"coordinates":[-100.770938,46.81636],"type":"Point"}
+}

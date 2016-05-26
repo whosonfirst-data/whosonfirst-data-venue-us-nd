@@ -1,0 +1,66 @@
+{
+  "id": 873657551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.740284,46.80783,-100.740284,46.80783",
+    "geom:latitude":46.80783,
+    "geom:longitude":-100.740284,
+    "iso:country":"US",
+    "sg:address":"3333 E Broadway Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 6417",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hvJRozZfKIvu98j929slW_46.807830_-100.740284@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295674,
+    "wof:geomhash":"c894f86483e286e25994430a03550506",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873657551
+        }
+    ],
+    "wof:id":873657551,
+    "wof:lastmodified":1464295674,
+    "wof:name":"Vanderscoff Financial Svc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.740284,
+    46.80783,
+    -100.740284,
+    46.80783
+],
+  "geometry": {"coordinates":[-100.740284,46.80783],"type":"Point"}
+}

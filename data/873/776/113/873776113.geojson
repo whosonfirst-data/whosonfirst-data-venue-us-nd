@@ -1,0 +1,73 @@
+{
+  "id": 873776113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.033394,47.896754,-97.033394,47.896754",
+    "geom:latitude":47.896754,
+    "geom:longitude":-97.033394,
+    "iso:country":"US",
+    "sg:address":"2303 Cottonwood St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 5400",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "house",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6neeqpsxbZzsqbjLzDRcBQ_47.896754_-97.033394@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297439,
+    "wof:geomhash":"989cebaa64a5b75453f7a1c45ff75db5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873776113
+        }
+    ],
+    "wof:id":873776113,
+    "wof:lastmodified":1464297439,
+    "wof:name":"Ernest Pearson Enterprise",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -97.033394,
+    47.896754,
+    -97.033394,
+    47.896754
+],
+  "geometry": {"coordinates":[-97.033394,47.896754],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873611607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.301993,48.425324,-101.301993,48.425324",
+    "geom:latitude":48.425324,
+    "geom:longitude":-101.301993,
+    "iso:country":"US",
+    "sg:address":"196 Winding Way",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 727 4924",
+    "sg:postcode":"58704",
+    "sg:province":"ND",
+    "sg:tags":[
+        "mail",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZJeVF8bc9DWZB2Hdfjiw7_48.425324_-101.301993@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295162,
+    "wof:geomhash":"7fbe2307d552cbc473d83772e9b6a759",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873611607
+        }
+    ],
+    "wof:id":873611607,
+    "wof:lastmodified":1464295162,
+    "wof:name":"Y K Gifts",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "house"
+    ]
+},
+  "bbox": [
+    -101.301993,
+    48.425324,
+    -101.301993,
+    48.425324
+],
+  "geometry": {"coordinates":[-101.301993,48.425324],"type":"Point"}
+}

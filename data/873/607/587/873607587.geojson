@@ -1,0 +1,78 @@
+{
+  "id": 873607587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.777578,46.823697,-100.777578,46.823697",
+    "geom:latitude":46.823697,
+    "geom:longitude":-100.777578,
+    "iso:country":"US",
+    "sg:address":"1000 E Divide Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 328 2825",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "rehab",
+        "government"
+    ],
+    "sg:website":"www.jobsnd.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5it2ijHgNunZTmunnm14uk_46.823697_-100.777578@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295089,
+    "wof:geomhash":"850299ddd3cc7e7770342d5e99f40347",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873607587
+        }
+    ],
+    "wof:id":873607587,
+    "wof:lastmodified":1464295089,
+    "wof:name":"Job Service",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehab",
+        "government"
+    ]
+},
+  "bbox": [
+    -100.777578,
+    46.823697,
+    -100.777578,
+    46.823697
+],
+  "geometry": {"coordinates":[-100.77757800000001,46.823697],"type":"Point"}
+}

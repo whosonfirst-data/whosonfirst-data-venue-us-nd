@@ -1,0 +1,66 @@
+{
+  "id": 873703723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.293268,46.814351,-100.293268,46.814351",
+    "geom:latitude":46.814351,
+    "geom:longitude":-100.293268,
+    "iso:country":"US",
+    "sg:address":"225 Mc Kenzie St",
+    "sg:city":"Sterling",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 387 4792",
+    "sg:postcode":"58572",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MTpqCW64rHJqYgyDalZf9_46.814351_-100.293268@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296443,
+    "wof:geomhash":"0d38a9c9da380d9e85611150d39fd661",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873703723
+        }
+    ],
+    "wof:id":873703723,
+    "wof:lastmodified":1464296443,
+    "wof:name":"Sterling United Methdst Church",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.293268,
+    46.814351,
+    -100.293268,
+    46.814351
+],
+  "geometry": {"coordinates":[-100.293268,46.814351],"type":"Point"}
+}

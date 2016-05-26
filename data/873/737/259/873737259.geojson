@@ -1,0 +1,73 @@
+{
+  "id": 873737259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.395993,48.253787,-101.395993,48.253787",
+    "geom:latitude":48.253787,
+    "geom:longitude":-101.395993,
+    "iso:country":"US",
+    "sg:address":"6800 18th Ave NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 6114",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Evl8HWdzIDfEPjR5k3ouL_48.253787_-101.395993@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296885,
+    "wof:geomhash":"300a8f1c1a2dcc772ae3fd2ac703e42e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873737259
+        }
+    ],
+    "wof:id":873737259,
+    "wof:lastmodified":1464296885,
+    "wof:name":"Robert E Hankins MD",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -101.395993,
+    48.253787,
+    -101.395993,
+    48.253787
+],
+  "geometry": {"coordinates":[-101.395993,48.253787],"type":"Point"}
+}

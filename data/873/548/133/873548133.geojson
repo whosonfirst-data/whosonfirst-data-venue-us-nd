@@ -1,0 +1,73 @@
+{
+  "id": 873548133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.284579,48.239831,-101.284579,48.239831",
+    "geom:latitude":48.239831,
+    "geom:longitude":-101.284579,
+    "iso:country":"US",
+    "sg:address":"436 4th Ave NE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 3512",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repairing",
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_094qycZqIf94sdEReaw7B6_48.239831_-101.284579@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294357,
+    "wof:geomhash":"1c35e3945093d216c89dc7fc054b4efe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873548133
+        }
+    ],
+    "wof:id":873548133,
+    "wof:lastmodified":1464294357,
+    "wof:name":"Tires Only Inc",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "tire"
+    ]
+},
+  "bbox": [
+    -101.284579,
+    48.239831,
+    -101.284579,
+    48.239831
+],
+  "geometry": {"coordinates":[-101.28457899999999,48.239831],"type":"Point"}
+}

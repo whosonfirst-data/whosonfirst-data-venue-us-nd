@@ -1,0 +1,79 @@
+{
+  "id": 873719645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.812684,46.83172,-96.812684,46.83172",
+    "geom:latitude":46.83172,
+    "geom:longitude":-96.812684,
+    "iso:country":"US",
+    "sg:address":"3236 20th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 4171",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "consultant",
+        "planning",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534467,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Xw3uXSEeGBtNf2ggZAXQE_46.831720_-96.812684@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296648,
+    "wof:geomhash":"1468329a8432135af06a0197743c7a99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534467,
+            "region_id":85688525,
+            "venue_id":873719645
+        }
+    ],
+    "wof:id":873719645,
+    "wof:lastmodified":1464296648,
+    "wof:name":"American Express Financial Adv",
+    "wof:parent_id":420534467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "planning",
+        "financial"
+    ]
+},
+  "bbox": [
+    -96.812684,
+    46.83172,
+    -96.812684,
+    46.83172
+],
+  "geometry": {"coordinates":[-96.812684,46.83172],"type":"Point"}
+}

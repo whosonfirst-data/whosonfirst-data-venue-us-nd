@@ -1,0 +1,71 @@
+{
+  "id": 873581653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.75225,46.807187,-100.75225,46.807187",
+    "geom:latitude":46.807187,
+    "geom:longitude":-100.75225,
+    "iso:country":"US",
+    "sg:address":"2510 E Thayer Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 2895",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QYH9VgYU70TGQf0AbI3ay_46.807187_-100.752250@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294739,
+    "wof:geomhash":"7b46ae22ca84ad70d1915869f3a10d5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873581653
+        }
+    ],
+    "wof:id":873581653,
+    "wof:lastmodified":1464294739,
+    "wof:name":"Pet Place Grooming",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -100.75225,
+    46.807187,
+    -100.75225,
+    46.807187
+],
+  "geometry": {"coordinates":[-100.75225,46.807187],"type":"Point"}
+}

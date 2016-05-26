@@ -1,0 +1,66 @@
+{
+  "id": 873593313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.031816,47.915441,-97.031816,47.915441",
+    "geom:latitude":47.915441,
+    "geom:longitude":-97.031816,
+    "iso:country":"US",
+    "sg:address":"612 Walnut St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 5595",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01Y4rss6Y6DwusQbntfv0l_47.915441_-97.031816@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294872,
+    "wof:geomhash":"b00390024aad2464b37611b2bd179b19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873593313
+        }
+    ],
+    "wof:id":873593313,
+    "wof:lastmodified":1464294872,
+    "wof:name":"Chickadee Press",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.031816,
+    47.915441,
+    -97.031816,
+    47.915441
+],
+  "geometry": {"coordinates":[-97.03181600000001,47.915441],"type":"Point"}
+}

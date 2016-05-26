@@ -1,0 +1,73 @@
+{
+  "id": 873698335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.57691,46.794164,-100.57691,46.794164",
+    "geom:latitude":46.794164,
+    "geom:longitude":-100.57691,
+    "iso:country":"US",
+    "sg:address":"13801 10th Ave SE",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 8200",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oapjPmNyfShyNRzEbSzLa_46.794164_-100.576910@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296387,
+    "wof:geomhash":"6101bee443db4c60d325dff60352ed15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873698335
+        }
+    ],
+    "wof:id":873698335,
+    "wof:lastmodified":1464296387,
+    "wof:name":"J S K Country Home Care",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -100.57691,
+    46.794164,
+    -100.57691,
+    46.794164
+],
+  "geometry": {"coordinates":[-100.57691,46.794164],"type":"Point"}
+}

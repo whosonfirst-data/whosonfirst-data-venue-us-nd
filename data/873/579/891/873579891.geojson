@@ -1,0 +1,71 @@
+{
+  "id": 873579891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.792266,46.804238,-100.792266,46.804238",
+    "geom:latitude":46.804238,
+    "geom:longitude":-100.792266,
+    "iso:country":"US",
+    "sg:address":"228 W Front Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 2292",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uReeLCuSXCzMlc1J0tSOP_46.804238_-100.792266@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294716,
+    "wof:geomhash":"ff3e16687a918d5be59f3a85e9550de9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873579891
+        }
+    ],
+    "wof:id":873579891,
+    "wof:lastmodified":1464294716,
+    "wof:name":"Party Universe",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -100.792266,
+    46.804238,
+    -100.792266,
+    46.804238
+],
+  "geometry": {"coordinates":[-100.792266,46.804238],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873669829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.297206,48.228427,-101.297206,48.228427",
+    "geom:latitude":48.228427,
+    "geom:longitude":-101.297206,
+    "iso:country":"US",
+    "sg:address":"812 3rd St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 3454",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3y0a8cO1FZQhcfhYnoXSXZ_48.228427_-101.297206@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295800,
+    "wof:geomhash":"e8529573efb3f9ce10eef8c0fb5804b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873669829
+        }
+    ],
+    "wof:id":873669829,
+    "wof:lastmodified":1464295800,
+    "wof:name":"Key Construction Services",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -101.297206,
+    48.228427,
+    -101.297206,
+    48.228427
+],
+  "geometry": {"coordinates":[-101.297206,48.228427],"type":"Point"}
+}

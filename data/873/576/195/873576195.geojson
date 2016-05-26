@@ -1,0 +1,71 @@
+{
+  "id": 873576195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.296067,48.258478,-101.296067,48.258478",
+    "geom:latitude":48.258478,
+    "geom:longitude":-101.296067,
+    "iso:country":"US",
+    "sg:address":"2105 N Broadway",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 3055",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gF96zglLXhkervrKwL5xo_48.258478_-101.296067@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294676,
+    "wof:geomhash":"caff38d42b907ce5eb98510fbcc003df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873576195
+        }
+    ],
+    "wof:id":873576195,
+    "wof:lastmodified":1464294676,
+    "wof:name":"Pinkerton Animal Hospital",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment"
+    ]
+},
+  "bbox": [
+    -101.296067,
+    48.258478,
+    -101.296067,
+    48.258478
+],
+  "geometry": {"coordinates":[-101.29606699999999,48.258478],"type":"Point"}
+}

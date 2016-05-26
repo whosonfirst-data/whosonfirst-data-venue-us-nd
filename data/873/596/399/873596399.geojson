@@ -1,0 +1,73 @@
+{
+  "id": 873596399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.752295,46.794736,-100.752295,46.794736",
+    "geom:latitude":46.794736,
+    "geom:longitude":-100.752295,
+    "iso:country":"US",
+    "sg:address":"2300 E Bismarck Expy",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 9350",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "floor",
+        "covering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79DOBnYFaYn9mJ01SxbYtW_46.794736_-100.752295@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294934,
+    "wof:geomhash":"1c19452a387c370ef927af29a9f3fa98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873596399
+        }
+    ],
+    "wof:id":873596399,
+    "wof:lastmodified":1464294934,
+    "wof:name":"Carpet Garage The",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "covering"
+    ]
+},
+  "bbox": [
+    -100.752295,
+    46.794736,
+    -100.752295,
+    46.794736
+],
+  "geometry": {"coordinates":[-100.752295,46.794736],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 873734285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-102.790481,46.898818,-102.790481,46.898818",
+    "geom:latitude":46.898818,
+    "geom:longitude":-102.790481,
+    "iso:country":"US",
+    "sg:address":"397 15th St W",
+    "sg:city":"Dickinson",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 225 4003",
+    "sg:postcode":"58601",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "video",
+        "disc",
+        "leasing",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877119,
+        102191575,
+        404482179,
+        85633793,
+        85982521,
+        102082105,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bs9pmy1u5DazB6rIEmuTG_46.898818_-102.790481@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296836,
+    "wof:geomhash":"c20a16254b9181b9f3fbd66e0db2d483",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082105,
+            "localadmin_id":404482179,
+            "locality_id":85982521,
+            "neighbourhood_id":85877119,
+            "region_id":85688525,
+            "venue_id":873734285
+        }
+    ],
+    "wof:id":873734285,
+    "wof:lastmodified":1464296836,
+    "wof:name":"Total Entertainment Center",
+    "wof:parent_id":85877119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "video",
+        "disc",
+        "leasing",
+        "tape"
+    ]
+},
+  "bbox": [
+    -102.790481,
+    46.898818,
+    -102.790481,
+    46.898818
+],
+  "geometry": {"coordinates":[-102.790481,46.898818],"type":"Point"}
+}

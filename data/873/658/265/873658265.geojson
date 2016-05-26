@@ -1,0 +1,73 @@
+{
+  "id": 873658265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.045672,47.894183,-97.045672,47.894183",
+    "geom:latitude":47.894183,
+    "geom:longitude":-97.045672,
+    "iso:country":"US",
+    "sg:address":"2520 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 792 3806",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "control",
+        "weight"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HCqlwCG6Bsd4etNL7IMJq_47.894183_-97.045672@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295680,
+    "wof:geomhash":"65c0e30b9a5a67c55abcff520a4615f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873658265
+        }
+    ],
+    "wof:id":873658265,
+    "wof:lastmodified":1464295680,
+    "wof:name":"Wise About Weights Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "weight"
+    ]
+},
+  "bbox": [
+    -97.045672,
+    47.894183,
+    -97.045672,
+    47.894183
+],
+  "geometry": {"coordinates":[-97.045672,47.894183],"type":"Point"}
+}

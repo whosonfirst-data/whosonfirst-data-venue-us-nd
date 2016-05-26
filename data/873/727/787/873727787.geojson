@@ -1,0 +1,71 @@
+{
+  "id": 873727787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.079477,47.910645,-97.079477,47.910645",
+    "geom:latitude":47.910645,
+    "geom:longitude":-97.079477,
+    "iso:country":"US",
+    "sg:address":"3517 Norkota Ct",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 5316",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7D3TdIM0ksNe1z33tn8KS6_47.910645_-97.079477@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296751,
+    "wof:geomhash":"2f2781f3d5eb4d580b11a37a0fa94af1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873727787
+        }
+    ],
+    "wof:id":873727787,
+    "wof:lastmodified":1464296751,
+    "wof:name":"Johnsons Family Day Care",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -97.079477,
+    47.910645,
+    -97.079477,
+    47.910645
+],
+  "geometry": {"coordinates":[-97.079477,47.910645],"type":"Point"}
+}

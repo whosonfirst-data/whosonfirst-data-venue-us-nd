@@ -1,0 +1,73 @@
+{
+  "id": 873548007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.050719,48.094497,-101.050719,48.094497",
+    "geom:latitude":48.094497,
+    "geom:longitude":-101.050719,
+    "iso:country":"US",
+    "sg:address":"401 Dakota Ave N",
+    "sg:city":"Sawyer",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 624 5780",
+    "sg:postcode":"58781",
+    "sg:province":"ND",
+    "sg:tags":[
+        "live",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qAr7N7Ph8LHdAu5fsxF8P_48.094497_-101.050719@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294356,
+    "wof:geomhash":"377adc8ad0e5fa7807050573719752b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873548007
+        }
+    ],
+    "wof:id":873548007,
+    "wof:lastmodified":1464294356,
+    "wof:name":"Nite Owls' DJ Svc",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "live",
+        "music"
+    ]
+},
+  "bbox": [
+    -101.050719,
+    48.094497,
+    -101.050719,
+    48.094497
+],
+  "geometry": {"coordinates":[-101.050719,48.094497],"type":"Point"}
+}

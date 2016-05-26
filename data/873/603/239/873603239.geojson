@@ -1,0 +1,66 @@
+{
+  "id": 873603239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.73655,48.315207,-101.73655,48.315207",
+    "geom:latitude":48.315207,
+    "geom:longitude":-101.73655,
+    "iso:country":"US",
+    "sg:address":"220 Main St N",
+    "sg:city":"Makoti",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 726 5516",
+    "sg:postcode":"58718",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gc10tp3C8witJi6qKHToK_48.315207_-101.736550@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295022,
+    "wof:geomhash":"7e0a570851a15f054b86b70507b55c21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873603239
+        }
+    ],
+    "wof:id":873603239,
+    "wof:lastmodified":1464295022,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.73655,
+    48.315207,
+    -101.73655,
+    48.315207
+],
+  "geometry": {"coordinates":[-101.73654999999999,48.315207],"type":"Point"}
+}

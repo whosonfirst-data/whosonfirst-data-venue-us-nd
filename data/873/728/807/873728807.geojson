@@ -1,0 +1,75 @@
+{
+  "id": 873728807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-102.802053,46.879022,-102.802053,46.879022",
+    "geom:latitude":46.879022,
+    "geom:longitude":-102.802053,
+    "iso:country":"US",
+    "sg:address":"1125 W Villard St",
+    "sg:city":"Dickinson",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Bowling",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 225 2345",
+    "sg:postcode":"58601",
+    "sg:province":"ND",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877119,
+        102191575,
+        404482179,
+        85633793,
+        85982521,
+        102082105,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GTrN6Iak5s82xp3PBJwhY_46.879022_-102.802053@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296765,
+    "wof:geomhash":"ecf0e9e58eec1569a878d47a36241257",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082105,
+            "localadmin_id":404482179,
+            "locality_id":85982521,
+            "neighbourhood_id":85877119,
+            "region_id":85688525,
+            "venue_id":873728807
+        }
+    ],
+    "wof:id":873728807,
+    "wof:lastmodified":1464296765,
+    "wof:name":"Paragon Bowl Bar & Grill",
+    "wof:parent_id":85877119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -102.802053,
+    46.879022,
+    -102.802053,
+    46.879022
+],
+  "geometry": {"coordinates":[-102.802053,46.879022],"type":"Point"}
+}

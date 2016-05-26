@@ -1,0 +1,66 @@
+{
+  "id": 873536881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.290154,48.226796,-101.290154,48.226796",
+    "geom:latitude":48.226796,
+    "geom:longitude":-101.290154,
+    "iso:country":"US",
+    "sg:address":"213 10th Ave SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 2895",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5U6LofxFdHodZn9H8XVItG_48.226796_-101.290154@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294224,
+    "wof:geomhash":"1c50fb50964f5003477bdcb52a46050c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873536881
+        }
+    ],
+    "wof:id":873536881,
+    "wof:lastmodified":1464294224,
+    "wof:name":"A Special Place LLP",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.290154,
+    48.226796,
+    -101.290154,
+    48.226796
+],
+  "geometry": {"coordinates":[-101.290154,48.226796],"type":"Point"}
+}

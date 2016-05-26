@@ -1,0 +1,76 @@
+{
+  "id": 873577421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.731266,46.818337,-100.731266,46.818337",
+    "geom:latitude":46.818337,
+    "geom:longitude":-100.731266,
+    "iso:country":"US",
+    "sg:address":"1100 Industrial Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 224 1164",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "design",
+        "grain",
+        "elevator"
+    ],
+    "sg:website":"www.jsonsinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MrEVSa1QM1haz7dZSnPtH_46.818337_-100.731266@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294688,
+    "wof:geomhash":"178c8d2df63f3a4bbc47764d100220c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873577421
+        }
+    ],
+    "wof:id":873577421,
+    "wof:lastmodified":1464294688,
+    "wof:name":"J-Sons Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "design",
+        "grain",
+        "elevator"
+    ]
+},
+  "bbox": [
+    -100.731266,
+    46.818337,
+    -100.731266,
+    46.818337
+],
+  "geometry": {"coordinates":[-100.73126600000001,46.818337],"type":"Point"}
+}

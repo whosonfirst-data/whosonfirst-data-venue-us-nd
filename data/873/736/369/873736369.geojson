@@ -1,0 +1,73 @@
+{
+  "id": 873736369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.217039,48.190938,-101.217039,48.190938",
+    "geom:latitude":48.190938,
+    "geom:longitude":-101.217039,
+    "iso:country":"US",
+    "sg:address":"4715 US Hwy 52",
+    "sg:city":"Carpio",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 468 5514",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "breeder",
+        "livestock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_771EDA3x4cvCKvFGSZIc30_48.190938_-101.217039@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296875,
+    "wof:geomhash":"41b241e3bdde9465733c15044c11fcb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873736369
+        }
+    ],
+    "wof:id":873736369,
+    "wof:lastmodified":1464296875,
+    "wof:name":"Graff Arabians",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breeder",
+        "livestock"
+    ]
+},
+  "bbox": [
+    -101.217039,
+    48.190938,
+    -101.217039,
+    48.190938
+],
+  "geometry": {"coordinates":[-101.217039,48.190938],"type":"Point"}
+}

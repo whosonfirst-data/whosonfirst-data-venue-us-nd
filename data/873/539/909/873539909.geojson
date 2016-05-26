@@ -1,0 +1,73 @@
+{
+  "id": 873539909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.111865,47.933018,-97.111865,47.933018",
+    "geom:latitude":47.933018,
+    "geom:longitude":-97.111865,
+    "iso:country":"US",
+    "sg:address":"5500 Gateway Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 6605",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "dealer",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ee27U3lJ01KAll2hkTMYi_47.933018_-97.111865@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294259,
+    "wof:geomhash":"9fa12188818e9a5157ea2a6f5b310cf3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873539909
+        }
+    ],
+    "wof:id":873539909,
+    "wof:lastmodified":1464294259,
+    "wof:name":"Westgate Marine",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "sales"
+    ]
+},
+  "bbox": [
+    -97.111865,
+    47.933018,
+    -97.111865,
+    47.933018
+],
+  "geometry": {"coordinates":[-97.11186499999999,47.933018],"type":"Point"}
+}

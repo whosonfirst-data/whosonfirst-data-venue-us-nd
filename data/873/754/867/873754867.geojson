@@ -1,0 +1,71 @@
+{
+  "id": 873754867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.066547,47.895558,-97.066547,47.895558",
+    "geom:latitude":47.895558,
+    "geom:longitude":-97.066547,
+    "iso:country":"US",
+    "sg:address":"2501 S Columbia Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 0092",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "battery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DVWQAOKz6NKiTsRRhL4XT_47.895558_-97.066547@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297143,
+    "wof:geomhash":"e8c7658607a8912d26f173e68255c7c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873754867
+        }
+    ],
+    "wof:id":873754867,
+    "wof:lastmodified":1464297143,
+    "wof:name":"Batteries Plus",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "battery"
+    ]
+},
+  "bbox": [
+    -97.066547,
+    47.895558,
+    -97.066547,
+    47.895558
+],
+  "geometry": {"coordinates":[-97.066547,47.895558],"type":"Point"}
+}

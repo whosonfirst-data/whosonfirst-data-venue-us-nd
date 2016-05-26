@@ -1,0 +1,66 @@
+{
+  "id": 873674385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.073068,47.899693,-97.073068,47.899693",
+    "geom:latitude":47.899693,
+    "geom:longitude":-97.073068,
+    "iso:country":"US",
+    "sg:address":"3382 Primrose Ct",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 6138",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0flvcDYKhu7EkojzNZzuQ0_47.899693_-97.073068@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295850,
+    "wof:geomhash":"b6fdd7f04f53ab82f8764476fe76e5f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873674385
+        }
+    ],
+    "wof:id":873674385,
+    "wof:lastmodified":1464295850,
+    "wof:name":"P&W Rentals LLP",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.073068,
+    47.899693,
+    -97.073068,
+    47.899693
+],
+  "geometry": {"coordinates":[-97.07306800000001,47.899693],"type":"Point"}
+}

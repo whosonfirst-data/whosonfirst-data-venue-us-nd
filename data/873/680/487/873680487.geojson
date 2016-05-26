@@ -1,0 +1,71 @@
+{
+  "id": 873680487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.132556,47.889403,-97.132556,47.889403",
+    "geom:latitude":47.889403,
+    "geom:longitude":-97.132556,
+    "iso:country":"US",
+    "sg:address":"7173 32nd Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 0797",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3doAJRWm9eN3iCJcTVoTaJ_47.889403_-97.132556@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296009,
+    "wof:geomhash":"1b72cc3365d34163d288b8150e98e550",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873680487
+        }
+    ],
+    "wof:id":873680487,
+    "wof:lastmodified":1464296009,
+    "wof:name":"Freedom Plastics",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial"
+    ]
+},
+  "bbox": [
+    -97.132556,
+    47.889403,
+    -97.132556,
+    47.889403
+],
+  "geometry": {"coordinates":[-97.13255599999999,47.889403],"type":"Point"}
+}

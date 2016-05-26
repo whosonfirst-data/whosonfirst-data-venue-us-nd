@@ -1,0 +1,71 @@
+{
+  "id": 873745661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.76182,46.809205,-100.76182,46.809205",
+    "geom:latitude":46.809205,
+    "geom:longitude":-100.76182,
+    "iso:country":"US",
+    "sg:address":"516 N 20th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 4986",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23rXgewzSktB8VpO64WGCp_46.809205_-100.761820@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297021,
+    "wof:geomhash":"18a11e0e2ffae20eb5b0c0ae618b832a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873745661
+        }
+    ],
+    "wof:id":873745661,
+    "wof:lastmodified":1464297021,
+    "wof:name":"North Dakota Gem & Mineral Soc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -100.76182,
+    46.809205,
+    -100.76182,
+    46.809205
+],
+  "geometry": {"coordinates":[-100.76182,46.809205],"type":"Point"}
+}

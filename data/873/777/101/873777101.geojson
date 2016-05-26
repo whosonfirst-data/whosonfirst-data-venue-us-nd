@@ -1,0 +1,77 @@
+{
+  "id": 873777101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.810359,46.824244,-100.810359,46.824244",
+    "geom:latitude":46.824244,
+    "geom:longitude":-100.810359,
+    "iso:country":"US",
+    "sg:address":"1237 W Divide Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 328 8700",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "state",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MLU2WnVA7dP8GCDctRNhN_46.824244_-100.810359@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297452,
+    "wof:geomhash":"4b0bb6449f66fe0b83cbe2252f3b554c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873777101
+        }
+    ],
+    "wof:id":873777101,
+    "wof:lastmodified":1464297452,
+    "wof:name":"Social Security Disability",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "resource"
+    ]
+},
+  "bbox": [
+    -100.810359,
+    46.824244,
+    -100.810359,
+    46.824244
+],
+  "geometry": {"coordinates":[-100.81035900000001,46.824244],"type":"Point"}
+}

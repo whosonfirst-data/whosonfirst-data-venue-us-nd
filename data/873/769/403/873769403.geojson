@@ -1,0 +1,73 @@
+{
+  "id": 873769403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.761705,46.790772,-100.761705,46.790772",
+    "geom:latitude":46.790772,
+    "geom:longitude":-100.761705,
+    "iso:country":"US",
+    "sg:address":"2008 Morrison Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 6648",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "dealer",
+        "rug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_677idqr4Wvm1d6fMUkmzCm_46.790772_-100.761705@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297354,
+    "wof:geomhash":"fa17a2b85df1e88a46d4114709bae912",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873769403
+        }
+    ],
+    "wof:id":873769403,
+    "wof:lastmodified":1464297354,
+    "wof:name":"Hruby Flooring",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "rug"
+    ]
+},
+  "bbox": [
+    -100.761705,
+    46.790772,
+    -100.761705,
+    46.790772
+],
+  "geometry": {"coordinates":[-100.76170500000001,46.790772],"type":"Point"}
+}

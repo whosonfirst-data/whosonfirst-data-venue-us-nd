@@ -1,0 +1,73 @@
+{
+  "id": 873755525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.598761,48.129891,-101.598761,48.129891",
+    "geom:latitude":48.129891,
+    "geom:longitude":-101.598761,
+    "iso:country":"US",
+    "sg:address":"9515 198th St SW",
+    "sg:city":"Des Lacs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 725 4364",
+    "sg:postcode":"58733",
+    "sg:province":"ND",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MIToIOjvmNBsqmVAdmc7p_48.129891_-101.598761@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297151,
+    "wof:geomhash":"3541a7beb9c5f6cfac86e25ba043a1f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873755525
+        }
+    ],
+    "wof:id":873755525,
+    "wof:lastmodified":1464297151,
+    "wof:name":"Hanson's Excavating Inc",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.598761,
+    48.129891,
+    -101.598761,
+    48.129891
+],
+  "geometry": {"coordinates":[-101.598761,48.129891],"type":"Point"}
+}

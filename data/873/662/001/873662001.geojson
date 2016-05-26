@@ -1,0 +1,72 @@
+{
+  "id": 873662001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.301647,48.24507,-101.301647,48.24507",
+    "geom:latitude":48.24507,
+    "geom:longitude":-101.301647,
+    "iso:country":"US",
+    "sg:address":"500 University Ave W",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 858 3000",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "university"
+    ],
+    "sg:website":"www.minotstateu.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eu1VA2JWhpkUKXFl5Bl5S_48.245070_-101.301647@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295719,
+    "wof:geomhash":"db639094e1b242a27a0038a4fc16e584",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873662001
+        }
+    ],
+    "wof:id":873662001,
+    "wof:lastmodified":1464295719,
+    "wof:name":"Minot State University",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "university"
+    ]
+},
+  "bbox": [
+    -101.301647,
+    48.24507,
+    -101.301647,
+    48.24507
+],
+  "geometry": {"coordinates":[-101.301647,48.24507],"type":"Point"}
+}

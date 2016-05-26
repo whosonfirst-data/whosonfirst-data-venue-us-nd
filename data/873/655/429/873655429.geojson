@@ -1,0 +1,66 @@
+{
+  "id": 873655429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.758882,46.807272,-100.758882,46.807272",
+    "geom:latitude":46.807272,
+    "geom:longitude":-100.758882,
+    "iso:country":"US",
+    "sg:address":"2110 E Thayer Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 224 0043",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YC83vSBhrq3XQpW8xHiZ3_46.807272_-100.758882@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295650,
+    "wof:geomhash":"f9ef84e87e8c4eae0b81ecdc008a8e8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873655429
+        }
+    ],
+    "wof:id":873655429,
+    "wof:lastmodified":1464295650,
+    "wof:name":"Kitzan & Associates",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.758882,
+    46.807272,
+    -100.758882,
+    46.807272
+],
+  "geometry": {"coordinates":[-100.758882,46.807272],"type":"Point"}
+}

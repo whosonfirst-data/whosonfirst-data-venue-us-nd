@@ -1,0 +1,66 @@
+{
+  "id": 873581073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.778559,46.805349,-100.778559,46.805349",
+    "geom:latitude":46.805349,
+    "geom:longitude":-100.778559,
+    "iso:country":"US",
+    "sg:address":"801 E Main Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 1032",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25cCKoRea5MPIA96kQwuFA_46.805349_-100.778559@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294733,
+    "wof:geomhash":"68f0b7bf8aaf2c68ba692e712b1ca091",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873581073
+        }
+    ],
+    "wof:id":873581073,
+    "wof:lastmodified":1464294733,
+    "wof:name":"Modern Hair Works",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.778559,
+    46.805349,
+    -100.778559,
+    46.805349
+],
+  "geometry": {"coordinates":[-100.778559,46.805349],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873703639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.05406,47.938144,-97.05406,47.938144",
+    "geom:latitude":47.938144,
+    "geom:longitude":-97.05406,
+    "iso:country":"US",
+    "sg:address":"1823 Mill Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 7320",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Xggi5Th29x93sHSYV9cac_47.938144_-97.054060@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296442,
+    "wof:geomhash":"2e35b6a0b97db466b6fd92b2d99dc84e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873703639
+        }
+    ],
+    "wof:id":873703639,
+    "wof:lastmodified":1464296442,
+    "wof:name":"Interstates Construction Svc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.05406,
+    47.938144,
+    -97.05406,
+    47.938144
+],
+  "geometry": {"coordinates":[-97.05406000000001,47.938144],"type":"Point"}
+}

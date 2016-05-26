@@ -1,0 +1,75 @@
+{
+  "id": 873560985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.821843,46.875926,-96.821843,46.875926",
+    "geom:latitude":46.875926,
+    "geom:longitude":-96.821843,
+    "iso:country":"US",
+    "sg:address":"2714 Main Ave",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 297 7638",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "construction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sYaBfLA1jVuC8gCqdxu6g_46.875926_-96.821843@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294510,
+    "wof:geomhash":"9b1f8ffd39d69e9da461e9fc68ec4246",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873560985
+        }
+    ],
+    "wof:id":873560985,
+    "wof:lastmodified":1464294510,
+    "wof:name":"CPM Inc",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "construction"
+    ]
+},
+  "bbox": [
+    -96.821843,
+    46.875926,
+    -96.821843,
+    46.875926
+],
+  "geometry": {"coordinates":[-96.821843,46.875926],"type":"Point"}
+}

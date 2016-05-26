@@ -1,0 +1,66 @@
+{
+  "id": 873687959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.034085,47.927186,-97.034085,47.927186",
+    "geom:latitude":47.927186,
+    "geom:longitude":-97.034085,
+    "iso:country":"US",
+    "sg:address":"205 N 3rd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 7443",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZFSb5Z2O450N3kTbCL41O_47.927186_-97.034085@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296219,
+    "wof:geomhash":"aaba831258af9928d50dfa04822bfa94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873687959
+        }
+    ],
+    "wof:id":873687959,
+    "wof:lastmodified":1464296219,
+    "wof:name":"Hub Bar",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.034085,
+    47.927186,
+    -97.034085,
+    47.927186
+],
+  "geometry": {"coordinates":[-97.034085,47.927186],"type":"Point"}
+}

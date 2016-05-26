@@ -1,0 +1,73 @@
+{
+  "id": 873763013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.30555,48.20466,-101.30555,48.20466",
+    "geom:latitude":48.20466,
+    "geom:longitude":-101.30555,
+    "iso:country":"US",
+    "sg:address":"924 28th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 6587",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aYekuxsSg58fnN4NiUCxf_48.204660_-101.305550@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297258,
+    "wof:geomhash":"4ff3982f2c0a275e3b32a981c49a7f6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873763013
+        }
+    ],
+    "wof:id":873763013,
+    "wof:lastmodified":1464297258,
+    "wof:name":"Dennis H Grad",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -101.30555,
+    48.20466,
+    -101.30555,
+    48.20466
+],
+  "geometry": {"coordinates":[-101.30555,48.20466],"type":"Point"}
+}

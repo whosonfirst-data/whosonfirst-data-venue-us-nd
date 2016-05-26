@@ -1,0 +1,78 @@
+{
+  "id": 873799899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.052088,46.889266,-97.052088,46.889266",
+    "geom:latitude":46.889266,
+    "geom:longitude":-97.052088,
+    "iso:country":"US",
+    "sg:address":"651 2nd St",
+    "sg:city":"Mapleton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"City Hall",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 6992",
+    "sg:postcode":"58059",
+    "sg:province":"ND",
+    "sg:tags":[
+        "town",
+        "planner",
+        "protection",
+        "village",
+        "department",
+        "township",
+        "government-city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OcUk1SmCmIEzzNUAFa49P_46.889266_-97.052088@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297772,
+    "wof:geomhash":"a9447de17ad5bb2143a437c7664a34d4",
+    "wof:hierarchy":[],
+    "wof:id":873799899,
+    "wof:lastmodified":1464297772,
+    "wof:name":"City Of Mapleton",
+    "wof:parent_id":420534471,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "town",
+        "planner",
+        "protection",
+        "village",
+        "department",
+        "township",
+        "government-city"
+    ]
+},
+  "bbox": [
+    -97.052088,
+    46.889266,
+    -97.052088,
+    46.889266
+],
+  "geometry": {"coordinates":[-97.052088,46.889266],"type":"Point"}
+}

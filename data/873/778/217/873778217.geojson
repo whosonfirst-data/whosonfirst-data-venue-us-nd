@@ -1,0 +1,75 @@
+{
+  "id": 873778217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.043294,47.919164,-97.043294,47.919164",
+    "geom:latitude":47.919164,
+    "geom:longitude":-97.043294,
+    "iso:country":"US",
+    "sg:address":"1120 Dyke Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 0509",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Jropr40itLJMPHkEj5MW0_47.919164_-97.043294@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297466,
+    "wof:geomhash":"0647d9da5bb98185296949c6f77208c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873778217
+        }
+    ],
+    "wof:id":873778217,
+    "wof:lastmodified":1464297466,
+    "wof:name":"Economy Plumbing Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.043294,
+    47.919164,
+    -97.043294,
+    47.919164
+],
+  "geometry": {"coordinates":[-97.043294,47.919164],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 873736895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.793907,46.803696,-100.793907,46.803696",
+    "geom:latitude":46.803696,
+    "geom:longitude":-100.793907,
+    "iso:country":"US",
+    "sg:address":"213 W Sweet Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 3430",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "establishment",
+        "instruction",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mG5eTnRGaN5e3NZWAUVgu_46.803696_-100.793907@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296881,
+    "wof:geomhash":"2aa7ac2f7a797abd3be89ded92887283",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873736895
+        }
+    ],
+    "wof:id":873736895,
+    "wof:lastmodified":1464296881,
+    "wof:name":"Christianson Conservatory",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment",
+        "instruction",
+        "music"
+    ]
+},
+  "bbox": [
+    -100.793907,
+    46.803696,
+    -100.793907,
+    46.803696
+],
+  "geometry": {"coordinates":[-100.793907,46.803696],"type":"Point"}
+}

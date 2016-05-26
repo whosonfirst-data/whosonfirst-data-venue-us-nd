@@ -1,0 +1,71 @@
+{
+  "id": 873571519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.324841,48.240154,-101.324841,48.240154",
+    "geom:latitude":48.240154,
+    "geom:longitude":-101.324841,
+    "iso:country":"US",
+    "sg:address":"2116 4th Ave NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 2442",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60CDNLw44rupmLf7kBCQnI_48.240154_-101.324841@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294625,
+    "wof:geomhash":"948af804c3ee43a3fc9a7a3abc49ad95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873571519
+        }
+    ],
+    "wof:id":873571519,
+    "wof:lastmodified":1464294625,
+    "wof:name":"Marriage Clinic",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -101.324841,
+    48.240154,
+    -101.324841,
+    48.240154
+],
+  "geometry": {"coordinates":[-101.32484100000001,48.240154],"type":"Point"}
+}

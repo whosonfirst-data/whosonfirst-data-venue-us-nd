@@ -1,0 +1,77 @@
+{
+  "id": 873643643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.308348,48.243959,-101.308348,48.243959",
+    "geom:latitude":48.243959,
+    "geom:longitude":-101.308348,
+    "iso:country":"US",
+    "sg:address":"920 7th Ave NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 0758",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "hearing",
+        "equipment",
+        "supply",
+        "impaired"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MPkucIYZ4trtGv27csSit_48.243959_-101.308348@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295521,
+    "wof:geomhash":"f2b82bd3fb62cf2b01e5e98064df2e67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873643643
+        }
+    ],
+    "wof:id":873643643,
+    "wof:lastmodified":1464295521,
+    "wof:name":"College Financial Aid Svc",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hearing",
+        "equipment",
+        "supply",
+        "impaired"
+    ]
+},
+  "bbox": [
+    -101.308348,
+    48.243959,
+    -101.308348,
+    48.243959
+],
+  "geometry": {"coordinates":[-101.308348,48.243959],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 873544297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.833743,46.815598,-96.833743,46.815598",
+    "geom:latitude":46.815598,
+    "geom:longitude":-96.833743,
+    "iso:country":"US",
+    "sg:address":"3216 42nd Ave SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 297 9646",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877333,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LuGhyTBEywpg4lKO9O4jV_46.815598_-96.833743@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294309,
+    "wof:geomhash":"05f41d660906d1be3aa017db6ea1346a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877333,
+            "region_id":85688525,
+            "venue_id":873544297
+        }
+    ],
+    "wof:id":873544297,
+    "wof:lastmodified":1464294309,
+    "wof:name":"Valley Laminating",
+    "wof:parent_id":85877333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.833743,
+    46.815598,
+    -96.833743,
+    46.815598
+],
+  "geometry": {"coordinates":[-96.833743,46.815598],"type":"Point"}
+}

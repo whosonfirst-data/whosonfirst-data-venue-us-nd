@@ -1,0 +1,73 @@
+{
+  "id": 873706285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.062656,47.925296,-97.062656,47.925296",
+    "geom:latitude":47.925296,
+    "geom:longitude":-97.062656,
+    "iso:country":"US",
+    "sg:address":"701 N 25th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 4774",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "piano",
+        "tuning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EOMt63WQ5RGtvQqfJ0PPj_47.925296_-97.062656@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296473,
+    "wof:geomhash":"af35015daa28179d6aaeb2851ad5dfb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873706285
+        }
+    ],
+    "wof:id":873706285,
+    "wof:lastmodified":1464296473,
+    "wof:name":"L & C Piano Tuning and Repair",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "piano",
+        "tuning"
+    ]
+},
+  "bbox": [
+    -97.062656,
+    47.925296,
+    -97.062656,
+    47.925296
+],
+  "geometry": {"coordinates":[-97.062656,47.925296],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873648561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.392689,47.831588,-97.392689,47.831588",
+    "geom:latitude":47.831588,
+    "geom:longitude":-97.392689,
+    "iso:country":"US",
+    "sg:address":"2655 11th Ave NE",
+    "sg:city":"Emerado",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 594 4284",
+    "sg:postcode":"58228",
+    "sg:province":"ND",
+    "sg:tags":[
+        "correctional",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YCbN6pPWGONSD5sjkTl9l_47.831588_-97.392689@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295572,
+    "wof:geomhash":"596b64054616736f768d508b8cc8557c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873648561
+        }
+    ],
+    "wof:id":873648561,
+    "wof:lastmodified":1464295572,
+    "wof:name":"Karen Hagert",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "correctional",
+        "institution"
+    ]
+},
+  "bbox": [
+    -97.392689,
+    47.831588,
+    -97.392689,
+    47.831588
+],
+  "geometry": {"coordinates":[-97.392689,47.831588],"type":"Point"}
+}

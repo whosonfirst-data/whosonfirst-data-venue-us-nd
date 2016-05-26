@@ -1,0 +1,71 @@
+{
+  "id": 873716491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.099024,47.924013,-97.099024,47.924013",
+    "geom:latitude":47.924013,
+    "geom:longitude":-97.099024,
+    "iso:country":"US",
+    "sg:address":"4809 4th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 0717",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "social"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1V3Y22fNJ6AWGcySPUI9Sw_47.924013_-97.099024@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296600,
+    "wof:geomhash":"e5cdd83850b233da3e37c80f27c392f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873716491
+        }
+    ],
+    "wof:id":873716491,
+    "wof:lastmodified":1464296600,
+    "wof:name":"Carol Shower",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "social"
+    ]
+},
+  "bbox": [
+    -97.099024,
+    47.924013,
+    -97.099024,
+    47.924013
+],
+  "geometry": {"coordinates":[-97.099024,47.924013],"type":"Point"}
+}

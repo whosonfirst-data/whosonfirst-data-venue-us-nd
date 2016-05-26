@@ -1,0 +1,73 @@
+{
+  "id": 873549731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.794931,46.799654,-100.794931,46.799654",
+    "geom:latitude":46.799654,
+    "geom:longitude":-100.794931,
+    "iso:country":"US",
+    "sg:address":"315 W Indiana Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 4966",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0y6JZJGRrxijsHDdXjp9fi_46.799654_-100.794931@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294375,
+    "wof:geomhash":"4b498cfbb623a0c6782c541d0387c294",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873549731
+        }
+    ],
+    "wof:id":873549731,
+    "wof:lastmodified":1464294375,
+    "wof:name":"Centre Inc",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -100.794931,
+    46.799654,
+    -100.794931,
+    46.799654
+],
+  "geometry": {"coordinates":[-100.79493100000001,46.799654],"type":"Point"}
+}

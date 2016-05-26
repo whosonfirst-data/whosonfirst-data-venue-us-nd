@@ -1,0 +1,71 @@
+{
+  "id": 873745393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.042407,47.905292,-97.042407,47.905292",
+    "geom:latitude":47.905292,
+    "geom:longitude":-97.042407,
+    "iso:country":"US",
+    "sg:address":"1107 Letnes Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Credit Reporting & Collection",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 6253",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kzZS1YCQgRuxsHmpIfayJ_47.905292_-97.042407@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297017,
+    "wof:geomhash":"3f290cbe1e9b8ebab4fde7c52f0b23ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873745393
+        }
+    ],
+    "wof:id":873745393,
+    "wof:lastmodified":1464297017,
+    "wof:name":"Service Bureau Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -97.042407,
+    47.905292,
+    -97.042407,
+    47.905292
+],
+  "geometry": {"coordinates":[-97.042407,47.905292],"type":"Point"}
+}

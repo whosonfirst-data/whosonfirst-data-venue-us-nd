@@ -1,0 +1,78 @@
+{
+  "id": 873752757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.845755,46.835127,-96.845755,46.835127",
+    "geom:latitude":46.835127,
+    "geom:longitude":-96.845755,
+    "iso:country":"US",
+    "sg:address":"3070 39th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 6244",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "sg:website":"www.publicstorage.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877355,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23lclLyuTNgONjxyGhDGJy_46.835127_-96.845755@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297115,
+    "wof:geomhash":"ecab5688d8cf294e24b1cc5fda68867a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877355,
+            "region_id":85688525,
+            "venue_id":873752757
+        }
+    ],
+    "wof:id":873752757,
+    "wof:lastmodified":1464297115,
+    "wof:name":"Public Storage",
+    "wof:parent_id":85877355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -96.845755,
+    46.835127,
+    -96.845755,
+    46.835127
+],
+  "geometry": {"coordinates":[-96.845755,46.835127],"type":"Point"}
+}

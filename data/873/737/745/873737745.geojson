@@ -1,0 +1,80 @@
+{
+  "id": 873737745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.839407,46.842142,-96.839407,46.842142",
+    "geom:latitude":46.842142,
+    "geom:longitude":-96.839407,
+    "iso:country":"US",
+    "sg:address":"3549 Woodbury Park Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 5815",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534473,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06EAaNhDRgLv8bm8SMaZli_46.842142_-96.839407@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296892,
+    "wof:geomhash":"20657c68ea88b9ec60600ffbd0d859e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534473,
+            "region_id":85688525,
+            "venue_id":873737745
+        }
+    ],
+    "wof:id":873737745,
+    "wof:lastmodified":1464296892,
+    "wof:name":"Caren Mikesh & Associates",
+    "wof:parent_id":420534473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty"
+    ]
+},
+  "bbox": [
+    -96.839407,
+    46.842142,
+    -96.839407,
+    46.842142
+],
+  "geometry": {"coordinates":[-96.83940699999999,46.842142],"type":"Point"}
+}

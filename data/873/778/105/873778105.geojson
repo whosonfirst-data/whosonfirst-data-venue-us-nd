@@ -1,0 +1,82 @@
+{
+  "id": 873778105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.301196,48.241856,-101.301196,48.241856",
+    "geom:latitude":48.241856,
+    "geom:longitude":-101.301196,
+    "iso:country":"US",
+    "sg:address":"403 5th Ave NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 4979",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ejn1FSJS6CmQ326ZKOOJY_48.241856_-101.301196@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297464,
+    "wof:geomhash":"be320e4d353ded361f5dafa23c4586b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873778105
+        }
+    ],
+    "wof:id":873778105,
+    "wof:lastmodified":1464297464,
+    "wof:name":"Elda's Cottage Of Interiors",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ]
+},
+  "bbox": [
+    -101.301196,
+    48.241856,
+    -101.301196,
+    48.241856
+],
+  "geometry": {"coordinates":[-101.301196,48.241856],"type":"Point"}
+}

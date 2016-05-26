@@ -1,0 +1,66 @@
+{
+  "id": 873738223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.757604,46.793323,-100.757604,46.793323",
+    "geom:latitude":46.793323,
+    "geom:longitude":-100.757604,
+    "iso:country":"US",
+    "sg:address":"1001 S 22nd St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 5609",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_526U5zh6Sn0c2bmnDEiPgG_46.793323_-100.757604@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296899,
+    "wof:geomhash":"d4b40725e6a81bd50915952fe83875d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873738223
+        }
+    ],
+    "wof:id":873738223,
+    "wof:lastmodified":1464296899,
+    "wof:name":"Abate Of Nd",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.757604,
+    46.793323,
+    -100.757604,
+    46.793323
+],
+  "geometry": {"coordinates":[-100.757604,46.793323],"type":"Point"}
+}

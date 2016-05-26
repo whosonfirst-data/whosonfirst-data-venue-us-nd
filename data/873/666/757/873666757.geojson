@@ -1,0 +1,66 @@
+{
+  "id": 873666757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.055101,47.925347,-97.055101,47.925347",
+    "geom:latitude":47.925347,
+    "geom:longitude":-97.055101,
+    "iso:country":"US",
+    "sg:address":"1914 6th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 1902",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hU4dtqdSwDjANg8iDy2yk_47.925347_-97.055101@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295767,
+    "wof:geomhash":"bb9ce17c4bf827a60de9436ffbbb8b56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873666757
+        }
+    ],
+    "wof:id":873666757,
+    "wof:lastmodified":1464295767,
+    "wof:name":"Ever Green Lawn Service",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.055101,
+    47.925347,
+    -97.055101,
+    47.925347
+],
+  "geometry": {"coordinates":[-97.05510099999999,47.925347],"type":"Point"}
+}

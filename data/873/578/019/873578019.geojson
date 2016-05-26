@@ -1,0 +1,75 @@
+{
+  "id": 873578019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.028287,47.9215,-97.028287,47.9215",
+    "geom:latitude":47.9215,
+    "geom:longitude":-97.028287,
+    "iso:country":"US",
+    "sg:address":"420 Division Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 6609",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "organization",
+        "membership",
+        "religious"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3O0FeCpk9n5uSnffIviC5c_47.921500_-97.028287@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294694,
+    "wof:geomhash":"a4d79177e1c6dd2e5561c25ca2cf94a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873578019
+        }
+    ],
+    "wof:id":873578019,
+    "wof:lastmodified":1464294694,
+    "wof:name":"Northlands Rescue Mission",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "membership",
+        "religious"
+    ]
+},
+  "bbox": [
+    -97.028287,
+    47.9215,
+    -97.028287,
+    47.9215
+],
+  "geometry": {"coordinates":[-97.02828700000001,47.9215],"type":"Point"}
+}

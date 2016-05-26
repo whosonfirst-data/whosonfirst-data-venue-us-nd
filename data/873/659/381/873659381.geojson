@@ -1,0 +1,79 @@
+{
+  "id": 873659381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.222979,48.229123,-101.222979,48.229123",
+    "geom:latitude":48.229123,
+    "geom:longitude":-101.222979,
+    "iso:country":"US",
+    "sg:address":"4821 Burdick Expy E",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 0504",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "plumbing",
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14vq2IoGSVsOPqnq5S2P08_48.229123_-101.222979@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295692,
+    "wof:geomhash":"c3c1c810e7554a8f6703d6369d411659",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873659381
+        }
+    ],
+    "wof:id":873659381,
+    "wof:lastmodified":1464295692,
+    "wof:name":"Haps Plumbing & Heating Inc",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.222979,
+    48.229123,
+    -101.222979,
+    48.229123
+],
+  "geometry": {"coordinates":[-101.222979,48.229123],"type":"Point"}
+}

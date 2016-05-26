@@ -1,0 +1,79 @@
+{
+  "id": 873619863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.801505,46.867791,-96.801505,46.867791",
+    "geom:latitude":46.867791,
+    "geom:longitude":-96.801505,
+    "iso:country":"US",
+    "sg:address":"1424 7th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 5268",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "outdoor",
+        "spec",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dwKYs6Pdp4KGU0v92DQNH_46.867791_-96.801505@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295249,
+    "wof:geomhash":"f6cc22d3f7c92ef8ac4a0f3c67a40b51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873619863
+        }
+    ],
+    "wof:id":873619863,
+    "wof:lastmodified":1464295249,
+    "wof:name":"Acme Sign",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "outdoor",
+        "spec",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -96.801505,
+    46.867791,
+    -96.801505,
+    46.867791
+],
+  "geometry": {"coordinates":[-96.80150500000001,46.867791],"type":"Point"}
+}

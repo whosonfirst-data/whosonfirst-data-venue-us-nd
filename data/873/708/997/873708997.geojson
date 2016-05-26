@@ -1,0 +1,80 @@
+{
+  "id": 873708997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.196247,47.932392,-97.196247,47.932392",
+    "geom:latitude":47.932392,
+    "geom:longitude":-97.196247,
+    "iso:country":"US",
+    "sg:address":"1796 17th St NE",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 5212",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "agriculture",
+        "trailer",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BuxlfjR6oXzwpyrho0nwQ_47.932392_-97.196247@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296507,
+    "wof:geomhash":"513224636a66e2fc69a2142f66a051b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873708997
+        }
+    ],
+    "wof:id":873708997,
+    "wof:lastmodified":1464296507,
+    "wof:name":"Northern Manufacturing & Sales",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agriculture",
+        "trailer",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.196247,
+    47.932392,
+    -97.196247,
+    47.932392
+],
+  "geometry": {"coordinates":[-97.196247,47.932392],"type":"Point"}
+}

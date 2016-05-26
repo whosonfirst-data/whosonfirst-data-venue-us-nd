@@ -1,0 +1,75 @@
+{
+  "id": 873719787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.784716,46.80206,-100.784716,46.80206",
+    "geom:latitude":46.80206,
+    "geom:longitude":-100.784716,
+    "iso:country":"US",
+    "sg:address":"300 S 5th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 1456",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "machine",
+        "teller",
+        "automated"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zg4dD4591xRyWGKt17uUK_46.802060_-100.784716@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296649,
+    "wof:geomhash":"4c839e47f92d087757870f405c147e92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873719787
+        }
+    ],
+    "wof:id":873719787,
+    "wof:lastmodified":1464296649,
+    "wof:name":"ATM Cash Advances",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "teller",
+        "automated"
+    ]
+},
+  "bbox": [
+    -100.784716,
+    46.80206,
+    -100.784716,
+    46.80206
+],
+  "geometry": {"coordinates":[-100.784716,46.80206],"type":"Point"}
+}

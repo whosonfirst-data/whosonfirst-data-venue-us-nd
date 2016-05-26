@@ -1,0 +1,73 @@
+{
+  "id": 873762373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.323793,48.230061,-101.323793,48.230061",
+    "geom:latitude":48.230061,
+    "geom:longitude":-101.323793,
+    "iso:country":"US",
+    "sg:address":"705 21st St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 5267",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "representative",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vu1q8xv1eyl2kmOOqzO9m_48.230061_-101.323793@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297246,
+    "wof:geomhash":"ddb91fe99609abf081ddfc3005a2acf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873762373
+        }
+    ],
+    "wof:id":873762373,
+    "wof:lastmodified":1464297246,
+    "wof:name":"Lystad's Inc",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "representative",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -101.323793,
+    48.230061,
+    -101.323793,
+    48.230061
+],
+  "geometry": {"coordinates":[-101.32379299999999,48.230061],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 873560409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.095875,47.914543,-97.095875,47.914543",
+    "geom:latitude":47.914543,
+    "geom:longitude":-97.095875,
+    "iso:country":"US",
+    "sg:address":"917 S 46th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Recreational Vehicle Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 5596",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shell",
+        "mfg",
+        "cap",
+        "cover",
+        "bed",
+        "truck",
+        "pick",
+        "canopy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4glxOerEjBbyvEbqh42Ofg_47.914543_-97.095875@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294504,
+    "wof:geomhash":"a362fdb83f1fb2a52328c9e2c7a24ea9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873560409
+        }
+    ],
+    "wof:id":873560409,
+    "wof:lastmodified":1464294504,
+    "wof:name":"Applied Products Retrax",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shell",
+        "mfg",
+        "cap",
+        "cover",
+        "bed",
+        "truck",
+        "pick",
+        "canopy"
+    ]
+},
+  "bbox": [
+    -97.095875,
+    47.914543,
+    -97.095875,
+    47.914543
+],
+  "geometry": {"coordinates":[-97.09587500000001,47.914543],"type":"Point"}
+}

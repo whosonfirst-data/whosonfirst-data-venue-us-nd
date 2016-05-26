@@ -1,0 +1,84 @@
+{
+  "id": 873605929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.803408,46.829474,-96.803408,46.829474",
+    "geom:latitude":46.829474,
+    "geom:longitude":-96.803408,
+    "iso:country":"US",
+    "sg:address":"3302 15th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 237 9520",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "mfg",
+        "bed",
+        "mattress"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534487,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EQD4tsLkiPcwOCxMkP3BL_46.829474_-96.803408@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295058,
+    "wof:geomhash":"339f7fd6b22c0d55f2ee7178e1cc8353",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534487,
+            "region_id":85688525,
+            "venue_id":873605929
+        }
+    ],
+    "wof:id":873605929,
+    "wof:lastmodified":1464295058,
+    "wof:name":"Comforth King Mattress Factory",
+    "wof:parent_id":420534487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "bed",
+        "mattress"
+    ]
+},
+  "bbox": [
+    -96.803408,
+    46.829474,
+    -96.803408,
+    46.829474
+],
+  "geometry": {"coordinates":[-96.803408,46.829474],"type":"Point"}
+}

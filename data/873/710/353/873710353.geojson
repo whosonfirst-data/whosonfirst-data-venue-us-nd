@@ -1,0 +1,70 @@
+{
+  "id": 873710353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.83145,46.864479,-96.83145,46.864479",
+    "geom:latitude":46.864479,
+    "geom:longitude":-96.83145,
+    "iso:country":"US",
+    "sg:address":"1121 Westrac Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Labor Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 8307",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vWzeUcgeEYQktYfSeNSN1_46.864479_-96.831450@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296525,
+    "wof:geomhash":"61915fa1e8fc1a73dd04f2695cc9491f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873710353
+        }
+    ],
+    "wof:id":873710353,
+    "wof:lastmodified":1464296525,
+    "wof:name":"Nd Public Employees",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.83145,
+    46.864479,
+    -96.83145,
+    46.864479
+],
+  "geometry": {"coordinates":[-96.83145,46.864479],"type":"Point"}
+}

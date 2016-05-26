@@ -1,0 +1,75 @@
+{
+  "id": 873562593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.836696,46.864528,-96.836696,46.864528",
+    "geom:latitude":46.864528,
+    "geom:longitude":-96.836696,
+    "iso:country":"US",
+    "sg:address":"3441 Interstate Blvd S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Computers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 476 0051",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "whole"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GbkT5k2ALPaVaxuZOSwOW_46.864528_-96.836696@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294527,
+    "wof:geomhash":"1826015110c2ef64be72f1465673bfb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873562593
+        }
+    ],
+    "wof:id":873562593,
+    "wof:lastmodified":1464294527,
+    "wof:name":"Linntech",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "whole"
+    ]
+},
+  "bbox": [
+    -96.836696,
+    46.864528,
+    -96.836696,
+    46.864528
+],
+  "geometry": {"coordinates":[-96.836696,46.864528],"type":"Point"}
+}

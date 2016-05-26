@@ -1,0 +1,75 @@
+{
+  "id": 873789119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.758837,46.829268,-100.758837,46.829268",
+    "geom:latitude":46.829268,
+    "geom:longitude":-100.758837,
+    "iso:country":"US",
+    "sg:address":"1943 Jackson Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 8886",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "beef",
+        "farm",
+        "cash",
+        "grain",
+        "cattle",
+        "feedlot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ljuqncl0qpV81AusHTveW_46.829268_-100.758837@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297630,
+    "wof:geomhash":"82597278395bb9093e2779759d145af2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873789119
+        }
+    ],
+    "wof:id":873789119,
+    "wof:lastmodified":1464297630,
+    "wof:name":"Ronald Espeland",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "farm",
+        "cash",
+        "grain",
+        "cattle",
+        "feedlot"
+    ]
+},
+  "bbox": [
+    -100.758837,
+    46.829268,
+    -100.758837,
+    46.829268
+],
+  "geometry": {"coordinates":[-100.758837,46.829268],"type":"Point"}
+}

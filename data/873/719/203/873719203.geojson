@@ -1,0 +1,75 @@
+{
+  "id": 873719203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.741887,46.804221,-100.741887,46.804221",
+    "geom:latitude":46.804221,
+    "geom:longitude":-100.741887,
+    "iso:country":"US",
+    "sg:address":"3303 E Main Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 328 6390",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "govt",
+        "state",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0efAxgiSSblDT7UI1Hojr5_46.804221_-100.741887@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296634,
+    "wof:geomhash":"188d2f3e0cbe24e548547ccef2a18789",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873719203
+        }
+    ],
+    "wof:id":873719203,
+    "wof:lastmodified":1464296634,
+    "wof:name":"Corrections & Rehabilitation",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "institution"
+    ]
+},
+  "bbox": [
+    -100.741887,
+    46.804221,
+    -100.741887,
+    46.804221
+],
+  "geometry": {"coordinates":[-100.74188700000001,46.804221],"type":"Point"}
+}

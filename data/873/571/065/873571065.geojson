@@ -1,0 +1,83 @@
+{
+  "id": 873571065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.075962,47.905506,-97.075962,47.905506",
+    "geom:latitude":47.905506,
+    "geom:longitude":-97.075962,
+    "iso:country":"US",
+    "sg:address":"3356 Crown Cove",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 6159",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "fire",
+        "cleaners",
+        "rug",
+        "damage",
+        "water",
+        "restoration",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZV8evM7Qqy9qFYMPkudPE_47.905506_-97.075962@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294621,
+    "wof:geomhash":"073ae18c1f38a406c7694a4ab95c38d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873571065
+        }
+    ],
+    "wof:id":873571065,
+    "wof:lastmodified":1464294621,
+    "wof:name":"Merle's Steam Clean Carpet Svc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "cleaners",
+        "rug",
+        "damage",
+        "water",
+        "restoration",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -97.075962,
+    47.905506,
+    -97.075962,
+    47.905506
+],
+  "geometry": {"coordinates":[-97.075962,47.905506],"type":"Point"}
+}

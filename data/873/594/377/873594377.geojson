@@ -1,0 +1,66 @@
+{
+  "id": 873594377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.786355,46.802176,-100.786355,46.802176",
+    "geom:latitude":46.802176,
+    "geom:longitude":-100.786355,
+    "iso:country":"US",
+    "sg:address":"412 E Bowen Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 530 0936",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02O1aUMcEW3qKIoT9JiYOG_46.802176_-100.786355@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294891,
+    "wof:geomhash":"5600384a60bd3f91588b405376801b45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873594377
+        }
+    ],
+    "wof:id":873594377,
+    "wof:lastmodified":1464294891,
+    "wof:name":"Nutri Sport Bismarck",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.786355,
+    46.802176,
+    -100.786355,
+    46.802176
+],
+  "geometry": {"coordinates":[-100.786355,46.802176],"type":"Point"}
+}

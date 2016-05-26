@@ -1,0 +1,77 @@
+{
+  "id": 873619961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.216834,47.108094,-97.216834,47.108094",
+    "geom:latitude":47.108094,
+    "geom:longitude":-97.216834,
+    "iso:country":"US",
+    "sg:address":"150 Co Rd 34",
+    "sg:city":"Arthur",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 967 8316",
+    "sg:postcode":"58006",
+    "sg:province":"ND",
+    "sg:tags":[
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LGMIEyy1Yw0BfZrOk6xaV_47.108094_-97.216834@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295250,
+    "wof:geomhash":"7bc19497ad31828f8e53df580c9c5976",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873619961
+        }
+    ],
+    "wof:id":873619961,
+    "wof:lastmodified":1464295250,
+    "wof:name":"Care Companions",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "senior",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -97.216834,
+    47.108094,
+    -97.216834,
+    47.108094
+],
+  "geometry": {"coordinates":[-97.21683400000001,47.108094],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 873556693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.10223,47.925008,-97.10223,47.925008",
+    "geom:latitude":47.925008,
+    "geom:longitude":-97.10223,
+    "iso:country":"US",
+    "sg:address":"5042 5th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 7857",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "counseling",
+        "information",
+        "treatment",
+        "alcoholism"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36yLU5AgZQZ6H5lXx2Wg5b_47.925008_-97.102230@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294455,
+    "wof:geomhash":"3ecc492a81e38a888c417313325ad194",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873556693
+        }
+    ],
+    "wof:id":873556693,
+    "wof:lastmodified":1464294455,
+    "wof:name":"Don Foley Counseling Service",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling",
+        "information",
+        "treatment",
+        "alcoholism"
+    ]
+},
+  "bbox": [
+    -97.10223,
+    47.925008,
+    -97.10223,
+    47.925008
+],
+  "geometry": {"coordinates":[-97.10223000000001,47.925008],"type":"Point"}
+}

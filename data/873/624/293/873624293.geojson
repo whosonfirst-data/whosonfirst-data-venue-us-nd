@@ -1,0 +1,73 @@
+{
+  "id": 873624293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.293114,48.23633,-101.293114,48.23633",
+    "geom:latitude":48.23633,
+    "geom:longitude":-101.293114,
+    "iso:country":"US",
+    "sg:address":"18 Main St S",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 1509",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repair",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eixgQtQFfsB8NN5gptGR8_48.236330_-101.293114@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295302,
+    "wof:geomhash":"5f34ff7ff06347e9bed72c0fa2030348",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873624293
+        }
+    ],
+    "wof:id":873624293,
+    "wof:lastmodified":1464295302,
+    "wof:name":"Gallery 18 Inc",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -101.293114,
+    48.23633,
+    -101.293114,
+    48.23633
+],
+  "geometry": {"coordinates":[-101.293114,48.23633],"type":"Point"}
+}

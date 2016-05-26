@@ -1,0 +1,73 @@
+{
+  "id": 873590331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.755884,46.804229,-100.755884,46.804229",
+    "geom:latitude":46.804229,
+    "geom:longitude":-100.755884,
+    "iso:country":"US",
+    "sg:address":"116 S 24th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 8893",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fnxfdt2TuFPCjvHPcyBLo_46.804229_-100.755884@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294834,
+    "wof:geomhash":"9dc268a21a5a09d4a77b57283ecca905",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873590331
+        }
+    ],
+    "wof:id":873590331,
+    "wof:lastmodified":1464294834,
+    "wof:name":"Frontier Electric Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.755884,
+    46.804229,
+    -100.755884,
+    46.804229
+],
+  "geometry": {"coordinates":[-100.75588399999999,46.804229],"type":"Point"}
+}

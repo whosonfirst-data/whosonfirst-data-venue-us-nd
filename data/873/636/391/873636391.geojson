@@ -1,0 +1,70 @@
+{
+  "id": 873636391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.841747,46.855664,-96.841747,46.855664",
+    "geom:latitude":46.855664,
+    "geom:longitude":-96.841747,
+    "iso:country":"US",
+    "sg:address":"1649 38th St SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 6130",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Bmn4K1GOnb4B6aMP6gztv_46.855664_-96.841747@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295435,
+    "wof:geomhash":"eb3784760c0304e04dea9e06d5492677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873636391
+        }
+    ],
+    "wof:id":873636391,
+    "wof:lastmodified":1464295435,
+    "wof:name":"I-29 Bingo",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.841747,
+    46.855664,
+    -96.841747,
+    46.855664
+],
+  "geometry": {"coordinates":[-96.841747,46.855664],"type":"Point"}
+}

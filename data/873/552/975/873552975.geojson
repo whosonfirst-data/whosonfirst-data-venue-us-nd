@@ -1,0 +1,80 @@
+{
+  "id": 873552975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.045584,47.902672,-97.045584,47.902672",
+    "geom:latitude":47.902672,
+    "geom:longitude":-97.045584,
+    "iso:country":"US",
+    "sg:address":"1830 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Jewelry",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 6224",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "goldsmith",
+        "product",
+        "silversmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DPV7PDoRazeJ0ZmladC4k_47.902672_-97.045584@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294411,
+    "wof:geomhash":"97b957b3bb2535ee434ecad366e06c1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873552975
+        }
+    ],
+    "wof:id":873552975,
+    "wof:lastmodified":1464294411,
+    "wof:name":"Village Goldsmith",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "goldsmith",
+        "product",
+        "silversmith"
+    ]
+},
+  "bbox": [
+    -97.045584,
+    47.902672,
+    -97.045584,
+    47.902672
+],
+  "geometry": {"coordinates":[-97.04558400000001,47.902672],"type":"Point"}
+}

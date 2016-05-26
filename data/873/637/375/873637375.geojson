@@ -1,0 +1,86 @@
+{
+  "id": 873637375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.761949,46.807301,-100.761949,46.807301",
+    "geom:latitude":46.807301,
+    "geom:longitude":-100.761949,
+    "iso:country":"US",
+    "sg:address":"1914 E Thayer Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 0020",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repair",
+        "transportation",
+        "trade",
+        "equipment",
+        "propeller",
+        "con"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2K6cNGzFUL5uKEgngVmVRS_46.807301_-100.761949@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295449,
+    "wof:geomhash":"053c498fcc796b4f72c0452b5e8e0653",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873637375
+        }
+    ],
+    "wof:id":873637375,
+    "wof:lastmodified":1464295449,
+    "wof:name":"Als Prairie Prop Shop",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "transportation",
+        "trade",
+        "equipment",
+        "propeller",
+        "con"
+    ]
+},
+  "bbox": [
+    -100.761949,
+    46.807301,
+    -100.761949,
+    46.807301
+],
+  "geometry": {"coordinates":[-100.761949,46.807301],"type":"Point"}
+}

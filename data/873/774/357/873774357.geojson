@@ -1,0 +1,71 @@
+{
+  "id": 873774357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.28976,48.243257,-101.28976,48.243257",
+    "geom:latitude":48.243257,
+    "geom:longitude":-101.28976,
+    "iso:country":"US",
+    "sg:address":"201 7th Ave NE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 9534",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SrNIYluKTG5IVYBqnpnSb_48.243257_-101.289760@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297418,
+    "wof:geomhash":"10630253a25e20fc4c9076c0f817b5f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873774357
+        }
+    ],
+    "wof:id":873774357,
+    "wof:lastmodified":1464297418,
+    "wof:name":"Melissa's Happy Home Daycare",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -101.28976,
+    48.243257,
+    -101.28976,
+    48.243257
+],
+  "geometry": {"coordinates":[-101.28976,48.243257],"type":"Point"}
+}

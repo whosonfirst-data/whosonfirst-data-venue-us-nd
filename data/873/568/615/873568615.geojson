@@ -1,0 +1,71 @@
+{
+  "id": 873568615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.136237,46.637547,-97.136237,46.637547",
+    "geom:latitude":46.637547,
+    "geom:longitude":-97.136237,
+    "iso:country":"US",
+    "sg:address":"5345 159th Ave SE",
+    "sg:city":"Kindred",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 428 3206",
+    "sg:postcode":"58051",
+    "sg:province":"ND",
+    "sg:tags":[
+        "feed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ErH6Opn2dD6W1RSPCttNF_46.637547_-97.136237@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294592,
+    "wof:geomhash":"ced6230cdc1b7287665c9a5f38d0ad70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873568615
+        }
+    ],
+    "wof:id":873568615,
+    "wof:lastmodified":1464294592,
+    "wof:name":"Lunder & Lunder",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feed"
+    ]
+},
+  "bbox": [
+    -97.136237,
+    46.637547,
+    -97.136237,
+    46.637547
+],
+  "geometry": {"coordinates":[-97.13623699999999,46.637547],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873757645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.755929,46.806206,-100.755929,46.806206",
+    "geom:latitude":46.806206,
+    "geom:longitude":-100.755929,
+    "iso:country":"US",
+    "sg:address":"2316 E Broadway Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 8586",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bNWHqCA3EjI1czroKrLR6_46.806206_-100.755929@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297177,
+    "wof:geomhash":"72976608593360d72b56f8b19b7b0be9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873757645
+        }
+    ],
+    "wof:id":873757645,
+    "wof:lastmodified":1464297177,
+    "wof:name":"Mark V Studio Apartments",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -100.755929,
+    46.806206,
+    -100.755929,
+    46.806206
+],
+  "geometry": {"coordinates":[-100.75592899999999,46.806206],"type":"Point"}
+}

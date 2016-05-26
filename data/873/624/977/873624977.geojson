@@ -1,0 +1,72 @@
+{
+  "id": 873624977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.296733,48.225444,-101.296733,48.225444",
+    "geom:latitude":48.225444,
+    "geom:longitude":-101.296733,
+    "iso:country":"US",
+    "sg:address":"203 11th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 1195",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "bookbinder"
+    ],
+    "sg:website":"www.easyfarm.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6V6KFwbW3m18dwRL0b4irM_48.225444_-101.296733@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295310,
+    "wof:geomhash":"cad9cb89a1e26e4986f0a30cf68dd27a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873624977
+        }
+    ],
+    "wof:id":873624977,
+    "wof:lastmodified":1464295310,
+    "wof:name":"Vertical Solutions",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookbinder"
+    ]
+},
+  "bbox": [
+    -101.296733,
+    48.225444,
+    -101.296733,
+    48.225444
+],
+  "geometry": {"coordinates":[-101.296733,48.225444],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873664837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.755915,46.820783,-100.755915,46.820783",
+    "geom:latitude":46.820783,
+    "geom:longitude":-100.755915,
+    "iso:country":"US",
+    "sg:address":"2441 Laforest Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 5337",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CNL6tSGxmNoZhjRVYH0Q3_46.820783_-100.755915@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295748,
+    "wof:geomhash":"00b02de214ffc0f5d6a938a466586b59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873664837
+        }
+    ],
+    "wof:id":873664837,
+    "wof:lastmodified":1464295748,
+    "wof:name":"Regency Storage Center",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -100.755915,
+    46.820783,
+    -100.755915,
+    46.820783
+],
+  "geometry": {"coordinates":[-100.755915,46.820783],"type":"Point"}
+}

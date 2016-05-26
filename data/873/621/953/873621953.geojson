@@ -1,0 +1,72 @@
+{
+  "id": 873621953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.03247,47.925035,-97.03247,47.925035",
+    "geom:latitude":47.925035,
+    "geom:longitude":-97.03247,
+    "iso:country":"US",
+    "sg:address":"24 N 4th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 0521",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "attorney"
+    ],
+    "sg:website":"www.grandforkslaw.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jo0I92VWZMaY9i0L07AJz_47.925035_-97.032470@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295270,
+    "wof:geomhash":"ffeaa770e40ecd019368c146e25c8538",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873621953
+        }
+    ],
+    "wof:id":873621953,
+    "wof:lastmodified":1464295270,
+    "wof:name":"Pearson Christensen",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -97.03247,
+    47.925035,
+    -97.03247,
+    47.925035
+],
+  "geometry": {"coordinates":[-97.03247,47.925035],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873689055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.803939,46.871432,-96.803939,46.871432",
+    "geom:latitude":46.871432,
+    "geom:longitude":-96.803939,
+    "iso:country":"US",
+    "sg:address":"310 15th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 476 1841",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "guard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39bvSfBzEoNIUkjLZyNq48_46.871432_-96.803939@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296250,
+    "wof:geomhash":"16a326576258a8655236b0d285e4bccb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873689055
+        }
+    ],
+    "wof:id":873689055,
+    "wof:lastmodified":1464296250,
+    "wof:name":"Todd A Kensinger",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guard"
+    ]
+},
+  "bbox": [
+    -96.803939,
+    46.871432,
+    -96.803939,
+    46.871432
+],
+  "geometry": {"coordinates":[-96.803939,46.871432],"type":"Point"}
+}

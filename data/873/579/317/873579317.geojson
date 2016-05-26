@@ -1,0 +1,71 @@
+{
+  "id": 873579317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.044754,47.893085,-97.044754,47.893085",
+    "geom:latitude":47.893085,
+    "geom:longitude":-97.044754,
+    "iso:country":"US",
+    "sg:address":"2401 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 0682",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cviNWfm1hqObe6lSAbwWy_47.893085_-97.044754@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294709,
+    "wof:geomhash":"2c5ea34981e3a5a8037601a36043b5f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873579317
+        }
+    ],
+    "wof:id":873579317,
+    "wof:lastmodified":1464294709,
+    "wof:name":"Glenn W La Bine DDS",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -97.044754,
+    47.893085,
+    -97.044754,
+    47.893085
+],
+  "geometry": {"coordinates":[-97.044754,47.893085],"type":"Point"}
+}

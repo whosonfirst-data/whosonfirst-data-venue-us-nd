@@ -1,0 +1,75 @@
+{
+  "id": 873699285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.840482,46.871486,-96.840482,46.871486",
+    "geom:latitude":46.871486,
+    "geom:longitude":-96.840482,
+    "iso:country":"US",
+    "sg:address":"402 36th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 476 7076",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BnnXKTeBODETKMepQeQp6_46.871486_-96.840482@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296397,
+    "wof:geomhash":"83d8ffb05f2fdd6599488f5c8b2eca9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873699285
+        }
+    ],
+    "wof:id":873699285,
+    "wof:lastmodified":1464296397,
+    "wof:name":"Truck Body Shop",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -96.840482,
+    46.871486,
+    -96.840482,
+    46.871486
+],
+  "geometry": {"coordinates":[-96.84048199999999,46.871486],"type":"Point"}
+}

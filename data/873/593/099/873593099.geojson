@@ -1,0 +1,71 @@
+{
+  "id": 873593099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.64212,48.196967,-101.64212,48.196967",
+    "geom:latitude":48.196967,
+    "geom:longitude":-101.64212,
+    "iso:country":"US",
+    "sg:address":"5100 226th St SW",
+    "sg:city":"Des Lacs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 725 4841",
+    "sg:postcode":"58733",
+    "sg:province":"ND",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4n8VxVOEn7L5QkZJROphYY_48.196967_-101.642120@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294869,
+    "wof:geomhash":"79417f772dfab49eadda448f191304d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873593099
+        }
+    ],
+    "wof:id":873593099,
+    "wof:lastmodified":1464294869,
+    "wof:name":"Hennessy Builders",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.64212,
+    48.196967,
+    -101.64212,
+    48.196967
+],
+  "geometry": {"coordinates":[-101.64212000000001,48.196967],"type":"Point"}
+}

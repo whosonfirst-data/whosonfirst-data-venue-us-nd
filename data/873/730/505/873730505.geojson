@@ -1,0 +1,66 @@
+{
+  "id": 873730505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.319257,48.240162,-101.319257,48.240162",
+    "geom:latitude":48.240162,
+    "geom:longitude":-101.319257,
+    "iso:country":"US",
+    "sg:address":"1720 4th Ave NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 0916",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hMwmEgagUjBPZUXzBVAun_48.240162_-101.319257@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296785,
+    "wof:geomhash":"4e228d9544be2d3ff9ef6f13db14b434",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873730505
+        }
+    ],
+    "wof:id":873730505,
+    "wof:lastmodified":1464296785,
+    "wof:name":"Bible Fellowship Church",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.319257,
+    48.240162,
+    -101.319257,
+    48.240162
+],
+  "geometry": {"coordinates":[-101.31925699999999,48.240162],"type":"Point"}
+}

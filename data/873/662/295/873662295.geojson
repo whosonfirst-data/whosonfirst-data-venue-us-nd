@@ -1,0 +1,75 @@
+{
+  "id": 873662295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.297636,48.258865,-101.297636,48.258865",
+    "geom:latitude":48.258865,
+    "geom:longitude":-101.297636,
+    "iso:country":"US",
+    "sg:address":"2101 3rd St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 4157",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "mobile",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102531137,
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lUzyXwuC28o7rry0yG9y2_48.258865_-101.297636@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295723,
+    "wof:geomhash":"5fff27546c06b9384aebcd4fa23f6e83",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531137,
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873662295
+        }
+    ],
+    "wof:id":873662295,
+    "wof:lastmodified":1464295723,
+    "wof:name":"North Star Mobile Home Park",
+    "wof:parent_id":102531137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home"
+    ]
+},
+  "bbox": [
+    -101.297636,
+    48.258865,
+    -101.297636,
+    48.258865
+],
+  "geometry": {"coordinates":[-101.297636,48.258865],"type":"Point"}
+}

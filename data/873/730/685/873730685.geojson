@@ -1,0 +1,73 @@
+{
+  "id": 873730685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.29183,48.248837,-101.29183,48.248837",
+    "geom:latitude":48.248837,
+    "geom:longitude":-101.29183,
+    "iso:country":"US",
+    "sg:address":"1301 Robert St NE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 7206",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ed4ZiYzj5RgvyWNd19VQC_48.248837_-101.291830@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296787,
+    "wof:geomhash":"f7e89dba494cd090dd16e77f96732bfd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873730685
+        }
+    ],
+    "wof:id":873730685,
+    "wof:lastmodified":1464296787,
+    "wof:name":"Quality Plumbing",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.29183,
+    48.248837,
+    -101.29183,
+    48.248837
+],
+  "geometry": {"coordinates":[-101.29183,48.248837],"type":"Point"}
+}

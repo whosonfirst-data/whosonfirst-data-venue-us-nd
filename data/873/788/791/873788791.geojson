@@ -1,0 +1,69 @@
+{
+  "id": 873788791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.730348,48.313936,-101.730348,48.313936",
+    "geom:latitude":48.313936,
+    "geom:longitude":-101.730348,
+    "iso:country":"US",
+    "sg:address":"417 Moore Ave NE",
+    "sg:city":"Berthold",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 453 3107",
+    "sg:postcode":"58718",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "wheat",
+        "grain"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3G1OIu6SGy0Y7jynEcZEYu_48.313936_-101.730348@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297626,
+    "wof:geomhash":"bd9f9306b6f4439de2d34ba0831a2918",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873788791
+        }
+    ],
+    "wof:id":873788791,
+    "wof:lastmodified":1464297626,
+    "wof:name":"Haaland Roger",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "wheat",
+        "grain"
+    ]
+},
+  "bbox": [
+    -101.730348,
+    48.313936,
+    -101.730348,
+    48.313936
+],
+  "geometry": {"coordinates":[-101.73034800000001,48.313936],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 873798925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.829672,46.862157,-96.829672,46.862157",
+    "geom:latitude":46.862157,
+    "geom:longitude":-96.829672,
+    "iso:country":"US",
+    "sg:address":"3111 13th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/fargo/181581-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 239 0356",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rX6f26rjGNZNCp6bivRI7_46.861712_-96.829506@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464297761,
+    "wof:geomhash":"1c04a06145f00f334130a978d88707f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873798925
+        }
+    ],
+    "wof:id":873798925,
+    "wof:lastmodified":1464297761,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -96.829672,
+    46.862157,
+    -96.829672,
+    46.862157
+],
+  "geometry": {"coordinates":[-96.829672,46.862157],"type":"Point"}
+}

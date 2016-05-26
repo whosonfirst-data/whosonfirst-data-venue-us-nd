@@ -1,0 +1,66 @@
+{
+  "id": 873740441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.036114,47.925748,-97.036114,47.925748",
+    "geom:latitude":47.925748,
+    "geom:longitude":-97.036114,
+    "iso:country":"US",
+    "sg:address":"402 University Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 6491",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14JwxDYXnaSOy2oFjLt6a3_47.925748_-97.036114@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296927,
+    "wof:geomhash":"860d3301a1a24f69cbbb6023ebccf8c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873740441
+        }
+    ],
+    "wof:id":873740441,
+    "wof:lastmodified":1464296927,
+    "wof:name":"Book Fair",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.036114,
+    47.925748,
+    -97.036114,
+    47.925748
+],
+  "geometry": {"coordinates":[-97.036114,47.925748],"type":"Point"}
+}

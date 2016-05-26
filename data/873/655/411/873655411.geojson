@@ -1,0 +1,77 @@
+{
+  "id": 873655411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.899689,46.890078,-96.899689,46.890078",
+    "geom:latitude":46.890078,
+    "geom:longitude":-96.899689,
+    "iso:country":"US",
+    "sg:address":"1101 Center St",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 218 287 7674",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74WrbKUM24MptdHXP2EJIX_46.890078_-96.899689@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295650,
+    "wof:geomhash":"8869822295843b471ccb7b9f4f078de9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873655411
+        }
+    ],
+    "wof:id":873655411,
+    "wof:lastmodified":1464295650,
+    "wof:name":"Weivoda Automotive",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -96.899689,
+    46.890078,
+    -96.899689,
+    46.890078
+],
+  "geometry": {"coordinates":[-96.899689,46.890078],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873536439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.757176,46.797152,-100.757176,46.797152",
+    "geom:latitude":46.797152,
+    "geom:longitude":-100.757176,
+    "iso:country":"US",
+    "sg:address":"2385 Vermont Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 250 0597",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "machine",
+        "duplicating",
+        "copying"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eqz7gLBv1HkU8RjJ6qUcc_46.797152_-100.757176@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294219,
+    "wof:geomhash":"a6ce9c1b6120f5a0ece6c4fccea744a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873536439
+        }
+    ],
+    "wof:id":873536439,
+    "wof:lastmodified":1464294219,
+    "wof:name":"Advanced Offices Solutions",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "duplicating",
+        "copying"
+    ]
+},
+  "bbox": [
+    -100.757176,
+    46.797152,
+    -100.757176,
+    46.797152
+],
+  "geometry": {"coordinates":[-100.757176,46.797152],"type":"Point"}
+}

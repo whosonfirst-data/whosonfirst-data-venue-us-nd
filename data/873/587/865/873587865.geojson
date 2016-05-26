@@ -1,0 +1,71 @@
+{
+  "id": 873587865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.096638,47.924232,-97.096638,47.924232",
+    "geom:latitude":47.924232,
+    "geom:longitude":-97.096638,
+    "iso:country":"US",
+    "sg:address":"479 Burdick Ct",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 3559",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "nurse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xOqnUfqCN74anZU8pLBoa_47.924232_-97.096638@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294806,
+    "wof:geomhash":"dff4b4fc407df1487ca302fdf328fa04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873587865
+        }
+    ],
+    "wof:id":873587865,
+    "wof:lastmodified":1464294806,
+    "wof:name":"Elaine M Gunville",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse"
+    ]
+},
+  "bbox": [
+    -97.096638,
+    47.924232,
+    -97.096638,
+    47.924232
+],
+  "geometry": {"coordinates":[-97.096638,47.924232],"type":"Point"}
+}

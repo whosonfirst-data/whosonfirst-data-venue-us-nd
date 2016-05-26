@@ -1,0 +1,73 @@
+{
+  "id": 873609873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.767064,46.798535,-100.767064,46.798535",
+    "geom:latitude":46.798535,
+    "geom:longitude":-100.767064,
+    "iso:country":"US",
+    "sg:address":"406 S 17th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 2332",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mhQ7RJaF2gBC3vCLEzfC4_46.798535_-100.767064@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295140,
+    "wof:geomhash":"5c9949305aa64d27329a61ea04ac11b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873609873
+        }
+    ],
+    "wof:id":873609873,
+    "wof:lastmodified":1464295140,
+    "wof:name":"Dakota Dermatology",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -100.767064,
+    46.798535,
+    -100.767064,
+    46.798535
+],
+  "geometry": {"coordinates":[-100.767064,46.798535],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873638679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.187866,48.220655,-101.187866,48.220655",
+    "geom:latitude":48.220655,
+    "geom:longitude":-101.187866,
+    "iso:country":"US",
+    "sg:address":"1504 72nd St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 837 9111",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ipF84LuxnKHtBDetyTxPW_48.220655_-101.187866@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295461,
+    "wof:geomhash":"344f14d4bc585accbc4fe8c240a8a694",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873638679
+        }
+    ],
+    "wof:id":873638679,
+    "wof:lastmodified":1464295461,
+    "wof:name":"Cg Brekhus & Sons",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -101.187866,
+    48.220655,
+    -101.187866,
+    48.220655
+],
+  "geometry": {"coordinates":[-101.187866,48.220655],"type":"Point"}
+}

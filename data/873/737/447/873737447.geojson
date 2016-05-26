@@ -1,0 +1,66 @@
+{
+  "id": 873737447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.736755,46.839468,-100.736755,46.839468",
+    "geom:latitude":46.839468,
+    "geom:longitude":-100.736755,
+    "iso:country":"US",
+    "sg:address":"3503 Franklin Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 224 9655",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ge0qHq5uGLICeJINMtuGq_46.839468_-100.736755@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296889,
+    "wof:geomhash":"881952892f587b6c6a4df484563b103d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873737447
+        }
+    ],
+    "wof:id":873737447,
+    "wof:lastmodified":1464296889,
+    "wof:name":"Enterprise Solutions",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.736755,
+    46.839468,
+    -100.736755,
+    46.839468
+],
+  "geometry": {"coordinates":[-100.736755,46.839468],"type":"Point"}
+}

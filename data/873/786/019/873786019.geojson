@@ -1,0 +1,77 @@
+{
+  "id": 873786019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.796623,46.894005,-96.796623,46.894005",
+    "geom:latitude":46.894005,
+    "geom:longitude":-96.796623,
+    "iso:country":"US",
+    "sg:address":"1350 12th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 298 0519",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "electrician",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877363,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yJIyA2Xmplh6qwJD77shp_46.893953_-96.796720@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464297568,
+    "wof:geomhash":"816369cc46d26242693f610ab168fbbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877363,
+            "region_id":85688525,
+            "venue_id":873786019
+        }
+    ],
+    "wof:id":873786019,
+    "wof:lastmodified":1464297568,
+    "wof:name":"Lennys Electric Inc",
+    "wof:parent_id":85877363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.796623,
+    46.894005,
+    -96.796623,
+    46.894005
+],
+  "geometry": {"coordinates":[-96.796623,46.894005],"type":"Point"}
+}

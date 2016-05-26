@@ -1,0 +1,71 @@
+{
+  "id": 873662915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.038975,47.923396,-97.038975,47.923396",
+    "geom:latitude":47.923396,
+    "geom:longitude":-97.038975,
+    "iso:country":"US",
+    "sg:address":"201 N 8th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Stationery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 4531",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "paper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15ics9YjGiYVns591AC4QU_47.923396_-97.038975@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295730,
+    "wof:geomhash":"6a161400d8e6a55199ff9a52591d622f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873662915
+        }
+    ],
+    "wof:id":873662915,
+    "wof:lastmodified":1464295730,
+    "wof:name":"Cole Papers Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paper"
+    ]
+},
+  "bbox": [
+    -97.038975,
+    47.923396,
+    -97.038975,
+    47.923396
+],
+  "geometry": {"coordinates":[-97.03897499999999,47.923396],"type":"Point"}
+}

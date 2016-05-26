@@ -1,0 +1,71 @@
+{
+  "id": 873765383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.310911,48.239082,-101.310911,48.239082",
+    "geom:latitude":48.239082,
+    "geom:longitude":-101.310911,
+    "iso:country":"US",
+    "sg:address":"1314 4th Ave NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 1722",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shoes"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KYIB7GqofAg1hI5RDXy1m_48.239082_-101.310911@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297302,
+    "wof:geomhash":"92b1c75e7fa0770db292b1fc6c9e8f9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873765383
+        }
+    ],
+    "wof:id":873765383,
+    "wof:lastmodified":1464297302,
+    "wof:name":"Service Shoe Shop",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shoes"
+    ]
+},
+  "bbox": [
+    -101.310911,
+    48.239082,
+    -101.310911,
+    48.239082
+],
+  "geometry": {"coordinates":[-101.310911,48.239082],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 873544201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.62381,47.946338,-97.62381,47.946338",
+    "geom:latitude":47.946338,
+    "geom:longitude":-97.62381,
+    "iso:country":"US",
+    "sg:address":"1895 37th St NE",
+    "sg:city":"Larimore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 343 6224",
+    "sg:postcode":"58251",
+    "sg:province":"ND",
+    "sg:tags":[
+        "potato"
+    ],
+    "sg:website":"www.hoversonfarms.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iJmxVJ4voqXisFkH4tCW9_47.946338_-97.623810@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294308,
+    "wof:geomhash":"810e9b4c6a4e03a164ae9f2c4fa60cb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873544201
+        }
+    ],
+    "wof:id":873544201,
+    "wof:lastmodified":1464294308,
+    "wof:name":"Hoverson Farms",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "potato"
+    ]
+},
+  "bbox": [
+    -97.62381,
+    47.946338,
+    -97.62381,
+    47.946338
+],
+  "geometry": {"coordinates":[-97.62381000000001,47.946338],"type":"Point"}
+}

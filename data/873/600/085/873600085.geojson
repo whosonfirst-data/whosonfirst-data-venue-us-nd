@@ -1,0 +1,75 @@
+{
+  "id": 873600085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.140784,46.823609,-100.140784,46.823609",
+    "geom:latitude":46.823609,
+    "geom:longitude":-100.140784,
+    "iso:country":"US",
+    "sg:address":"1851 405th St NE",
+    "sg:city":"Driscoll",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 387 4799",
+    "sg:postcode":"58532",
+    "sg:province":"ND",
+    "sg:tags":[
+        "pipe",
+        "line",
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oEtAAMVhfcruorj5bsPJd_46.823609_-100.140784@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294988,
+    "wof:geomhash":"373c86c535f01b01c4249d8b1a0c341a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873600085
+        }
+    ],
+    "wof:id":873600085,
+    "wof:lastmodified":1464294988,
+    "wof:name":"Kaneb Pipeline Operating",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pipe",
+        "line",
+        "company"
+    ]
+},
+  "bbox": [
+    -100.140784,
+    46.823609,
+    -100.140784,
+    46.823609
+],
+  "geometry": {"coordinates":[-100.140784,46.823609],"type":"Point"}
+}

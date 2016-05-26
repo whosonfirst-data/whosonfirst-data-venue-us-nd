@@ -1,0 +1,74 @@
+{
+  "id": 873798505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.296033,48.215992,-101.296033,48.215992",
+    "geom:latitude":48.215992,
+    "geom:longitude":-101.296033,
+    "iso:country":"US",
+    "sg:address":"1725 S Broadway",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/minot/96335-taco-johns/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 3289",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Efv7VJdeeJrOnpqlEL8hP_48.215992_-101.296033@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297756,
+    "wof:geomhash":"efc7901f3cd489fd05055101dc0b6515",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873798505
+        }
+    ],
+    "wof:id":873798505,
+    "wof:lastmodified":1464297756,
+    "wof:name":"Taco John's",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -101.296033,
+    48.215992,
+    -101.296033,
+    48.215992
+],
+  "geometry": {"coordinates":[-101.29603299999999,48.215992],"type":"Point"}
+}

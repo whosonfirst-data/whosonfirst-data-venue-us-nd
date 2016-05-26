@@ -1,0 +1,73 @@
+{
+  "id": 873577475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.169905,48.116183,-97.169905,48.116183",
+    "geom:latitude":48.116183,
+    "geom:longitude":-97.169905,
+    "iso:country":"US",
+    "sg:address":"3008 16th St NE",
+    "sg:city":"Manvel",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 787 5660",
+    "sg:postcode":"58256",
+    "sg:province":"ND",
+    "sg:tags":[
+        "agricultural",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cNwaCyhmzBm3eyRNzHphK_48.116183_-97.169905@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294688,
+    "wof:geomhash":"731df0cf7f0029315593cdf6e1d88def",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873577475
+        }
+    ],
+    "wof:id":873577475,
+    "wof:lastmodified":1464294688,
+    "wof:name":"Philom Bios LTD",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agricultural",
+        "consultant"
+    ]
+},
+  "bbox": [
+    -97.169905,
+    48.116183,
+    -97.169905,
+    48.116183
+],
+  "geometry": {"coordinates":[-97.169905,48.116183],"type":"Point"}
+}

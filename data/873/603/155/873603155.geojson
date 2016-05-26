@@ -1,0 +1,73 @@
+{
+  "id": 873603155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.645235,46.917609,-100.645235,46.917609",
+    "geom:latitude":46.917609,
+    "geom:longitude":-100.645235,
+    "iso:country":"US",
+    "sg:address":"10450 93rd St NE",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 673 3113",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automobile",
+        "wrecking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mymfpcAIf3tZXZBzuBNVL_46.917609_-100.645235@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295020,
+    "wof:geomhash":"531556929ba1c4d9d71f861f707b78d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873603155
+        }
+    ],
+    "wof:id":873603155,
+    "wof:lastmodified":1464295020,
+    "wof:name":"Wetch Auto Wrecking",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "wrecking"
+    ]
+},
+  "bbox": [
+    -100.645235,
+    46.917609,
+    -100.645235,
+    46.917609
+],
+  "geometry": {"coordinates":[-100.645235,46.917609],"type":"Point"}
+}

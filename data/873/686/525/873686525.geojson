@@ -1,0 +1,71 @@
+{
+  "id": 873686525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.305595,48.23193,-101.305595,48.23193",
+    "geom:latitude":48.23193,
+    "geom:longitude":-101.305595,
+    "iso:country":"US",
+    "sg:address":"827 Burdick Expy W",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 6537",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "brake"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Q0pQmpV11G6bgtChgqEQs_48.231930_-101.305595@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296180,
+    "wof:geomhash":"9b2fb9b465c5d67f3ff84358c6b30506",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873686525
+        }
+    ],
+    "wof:id":873686525,
+    "wof:lastmodified":1464296180,
+    "wof:name":"Northern Brake Svc",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brake"
+    ]
+},
+  "bbox": [
+    -101.305595,
+    48.23193,
+    -101.305595,
+    48.23193
+],
+  "geometry": {"coordinates":[-101.305595,48.23193],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 873799727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.90385,46.759393,-96.90385,46.759393",
+    "geom:latitude":46.759393,
+    "geom:longitude":-96.90385,
+    "iso:country":"US",
+    "sg:address":"301 Main St",
+    "sg:city":"Horace",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 0208",
+    "sg:postcode":"58047",
+    "sg:province":"ND",
+    "sg:tags":[
+        "feed",
+        "grain",
+        "concentrate",
+        "supplement"
+    ],
+    "sg:website":"http://www.dakotaprairieag.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GAD7yNfZ0i8qiUeI6S2BL_46.759393_-96.903850@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297770,
+    "wof:geomhash":"9abf600f35b214aff9d59fd099b993b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873799727
+        }
+    ],
+    "wof:id":873799727,
+    "wof:lastmodified":1464297770,
+    "wof:name":"Dakota Ag",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feed",
+        "grain",
+        "concentrate",
+        "supplement"
+    ]
+},
+  "bbox": [
+    -96.90385,
+    46.759393,
+    -96.90385,
+    46.759393
+],
+  "geometry": {"coordinates":[-96.90385000000001,46.759393],"type":"Point"}
+}

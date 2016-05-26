@@ -1,0 +1,75 @@
+{
+  "id": 873752225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.769966,46.786597,-100.769966,46.786597",
+    "geom:latitude":46.786597,
+    "geom:longitude":-100.769966,
+    "iso:country":"US",
+    "sg:address":"1522 Continental Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 1056",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bz5zbtwVURVtMw7mF9kxH_46.786597_-100.769966@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297103,
+    "wof:geomhash":"5afd88a2996c8dfa4629d7f50eeecf62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873752225
+        }
+    ],
+    "wof:id":873752225,
+    "wof:lastmodified":1464297103,
+    "wof:name":"Lunn's Kennel Club",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -100.769966,
+    46.786597,
+    -100.769966,
+    46.786597
+],
+  "geometry": {"coordinates":[-100.769966,46.786597],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873622145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.045555,47.905107,-97.045555,47.905107",
+    "geom:latitude":47.905107,
+    "geom:longitude":-97.045555,
+    "iso:country":"US",
+    "sg:address":"1616 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 780 7706",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "consultant",
+        "planning",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KsRrKMgjORFqHfYgJXRkB_47.905107_-97.045555@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295272,
+    "wof:geomhash":"5c60661670769d6d63051810169527df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873622145
+        }
+    ],
+    "wof:id":873622145,
+    "wof:lastmodified":1464295272,
+    "wof:name":"Investment Centers Of America",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "planning",
+        "financial"
+    ]
+},
+  "bbox": [
+    -97.045555,
+    47.905107,
+    -97.045555,
+    47.905107
+],
+  "geometry": {"coordinates":[-97.04555499999999,47.905107],"type":"Point"}
+}

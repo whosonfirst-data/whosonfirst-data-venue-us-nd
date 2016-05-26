@@ -1,0 +1,66 @@
+{
+  "id": 873768637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.090142,47.930863,-97.090142,47.930863",
+    "geom:latitude":47.930863,
+    "geom:longitude":-97.090142,
+    "iso:country":"US",
+    "sg:address":"4223 12th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 7115",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1F0GtGaOG8K4uVQtfYWt0Q_47.930863_-97.090142@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297345,
+    "wof:geomhash":"46522db89ab065b887bfb94e33f60fe6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873768637
+        }
+    ],
+    "wof:id":873768637,
+    "wof:lastmodified":1464297345,
+    "wof:name":"G F Goodribs Steakhouse",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.090142,
+    47.930863,
+    -97.090142,
+    47.930863
+],
+  "geometry": {"coordinates":[-97.090142,47.930863],"type":"Point"}
+}

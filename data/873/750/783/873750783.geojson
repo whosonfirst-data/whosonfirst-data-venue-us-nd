@@ -1,0 +1,79 @@
+{
+  "id": 873750783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.752577,46.808087,-100.752577,46.808087",
+    "geom:latitude":46.808087,
+    "geom:longitude":-100.752577,
+    "iso:country":"US",
+    "sg:address":"2525 E Rosser Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 224 8000",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "consultant",
+        "program",
+        "health",
+        "miscellaneous",
+        "fitness"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wxXg1HwVrCWXrvdOijsQF_46.808087_-100.752577@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297085,
+    "wof:geomhash":"6a9c2f9364e580c0e097c9468432c904",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873750783
+        }
+    ],
+    "wof:id":873750783,
+    "wof:lastmodified":1464297085,
+    "wof:name":"Body Connection",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "program",
+        "health",
+        "miscellaneous",
+        "fitness"
+    ]
+},
+  "bbox": [
+    -100.752577,
+    46.808087,
+    -100.752577,
+    46.808087
+],
+  "geometry": {"coordinates":[-100.752577,46.808087],"type":"Point"}
+}

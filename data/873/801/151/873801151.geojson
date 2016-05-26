@@ -1,0 +1,81 @@
+{
+  "id": 873801151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.822392,46.883274,-96.822392,46.883274",
+    "geom:latitude":46.883274,
+    "geom:longitude":-96.822392,
+    "iso:country":"US",
+    "sg:address":"706 27th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 237 3703",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "body",
+        "painting",
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iW2VcAkA6XPycHHsula5w_46.883274_-96.822392@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297787,
+    "wof:geomhash":"bf7940943eab6b2ca70d9eb5025f82ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873801151
+        }
+    ],
+    "wof:id":873801151,
+    "wof:lastmodified":1464297787,
+    "wof:name":"Red River Vinyl",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "painting",
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -96.822392,
+    46.883274,
+    -96.822392,
+    46.883274
+],
+  "geometry": {"coordinates":[-96.82239199999999,46.883274],"type":"Point"}
+}

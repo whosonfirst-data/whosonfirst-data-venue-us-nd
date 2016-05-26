@@ -1,0 +1,66 @@
+{
+  "id": 873551813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.795296,46.791253,-100.795296,46.791253",
+    "geom:latitude":46.791253,
+    "geom:longitude":-100.795296,
+    "iso:country":"US",
+    "sg:address":"1309 Eastwood St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 0968",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AAABMUVHR5VFIlnzgBvNV_46.791253_-100.795296@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294398,
+    "wof:geomhash":"a1d1b0a31ea95b24ec0cd63ee1a9d9a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873551813
+        }
+    ],
+    "wof:id":873551813,
+    "wof:lastmodified":1464294398,
+    "wof:name":"Condominium Square Association",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.795296,
+    46.791253,
+    -100.795296,
+    46.791253
+],
+  "geometry": {"coordinates":[-100.79529599999999,46.791253],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873717665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.046175,47.929965,-97.046175,47.929965",
+    "geom:latitude":47.929965,
+    "geom:longitude":-97.046175,
+    "iso:country":"US",
+    "sg:address":"919 N 6th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 1109",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38waWzjBMkYtrJYZwVvNM5_47.929965_-97.046175@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296617,
+    "wof:geomhash":"5c548e4533d0378c5e969252cb2ba1c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873717665
+        }
+    ],
+    "wof:id":873717665,
+    "wof:lastmodified":1464296617,
+    "wof:name":"Susan M Krenelka CPA",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -97.046175,
+    47.929965,
+    -97.046175,
+    47.929965
+],
+  "geometry": {"coordinates":[-97.04617500000001,47.929965],"type":"Point"}
+}

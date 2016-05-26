@@ -1,0 +1,73 @@
+{
+  "id": 873557491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.029227,47.92467,-97.029227,47.92467",
+    "geom:latitude":47.92467,
+    "geom:longitude":-97.029227,
+    "iso:country":"US",
+    "sg:address":"25 S 3rd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 780 9575",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DYXwkInaeeGuWxcBzZaTK_47.924670_-97.029227@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294465,
+    "wof:geomhash":"ffe70bb99defdfa7f5a22daf55081a4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873557491
+        }
+    ],
+    "wof:id":873557491,
+    "wof:lastmodified":1464294465,
+    "wof:name":"Anderson Shoe Repair",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -97.029227,
+    47.92467,
+    -97.029227,
+    47.92467
+],
+  "geometry": {"coordinates":[-97.02922700000001,47.92467],"type":"Point"}
+}

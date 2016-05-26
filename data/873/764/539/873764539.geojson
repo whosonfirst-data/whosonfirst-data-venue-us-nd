@@ -1,0 +1,79 @@
+{
+  "id": 873764539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.046605,47.931732,-97.046605,47.931732",
+    "geom:latitude":47.931732,
+    "geom:longitude":-97.046605,
+    "iso:country":"US",
+    "sg:address":"1010 N 5th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 5336",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "drycleaning",
+        "plant",
+        "linen",
+        "power",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YA4mdpKcxaP8Ad3MShz2a_47.931732_-97.046605@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297286,
+    "wof:geomhash":"14315688c9c1ddce86c84e1c01cd4b71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873764539
+        }
+    ],
+    "wof:id":873764539,
+    "wof:lastmodified":1464297286,
+    "wof:name":"C & R Cleaners & Laundry",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant",
+        "linen",
+        "power",
+        "supply"
+    ]
+},
+  "bbox": [
+    -97.046605,
+    47.931732,
+    -97.046605,
+    47.931732
+],
+  "geometry": {"coordinates":[-97.046605,47.931732],"type":"Point"}
+}

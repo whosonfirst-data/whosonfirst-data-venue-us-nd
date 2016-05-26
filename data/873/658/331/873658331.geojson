@@ -1,0 +1,66 @@
+{
+  "id": 873658331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.744262,46.808637,-100.744262,46.808637",
+    "geom:latitude":46.808637,
+    "geom:longitude":-100.744262,
+    "iso:country":"US",
+    "sg:address":"3120 E Rosser Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 530 0355",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wJGlj3kOkP0wQrGeVtF7R_46.808637_-100.744262@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295681,
+    "wof:geomhash":"82baad577a374c00fa234fe86f18e41e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873658331
+        }
+    ],
+    "wof:id":873658331,
+    "wof:lastmodified":1464295681,
+    "wof:name":"Tr 7",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.744262,
+    46.808637,
+    -100.744262,
+    46.808637
+],
+  "geometry": {"coordinates":[-100.74426200000001,46.808637],"type":"Point"}
+}

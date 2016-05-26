@@ -1,0 +1,73 @@
+{
+  "id": 873779795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.23662,48.200061,-101.23662,48.200061",
+    "geom:latitude":48.200061,
+    "geom:longitude":-101.23662,
+    "iso:country":"US",
+    "sg:address":"3300 38th St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 7957",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "environmental",
+        "ecological"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xlgB9vYUGxXuuJyHZlsBt_48.200061_-101.236620@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297488,
+    "wof:geomhash":"d5172a773862056e29654e9db3497f8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873779795
+        }
+    ],
+    "wof:id":873779795,
+    "wof:lastmodified":1464297488,
+    "wof:name":"Midwest Environmental Svc Inc",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "environmental",
+        "ecological"
+    ]
+},
+  "bbox": [
+    -101.23662,
+    48.200061,
+    -101.23662,
+    48.200061
+],
+  "geometry": {"coordinates":[-101.23662,48.200061],"type":"Point"}
+}

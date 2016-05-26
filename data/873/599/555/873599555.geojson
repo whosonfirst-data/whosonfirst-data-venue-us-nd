@@ -1,0 +1,71 @@
+{
+  "id": 873599555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.762841,46.796126,-100.762841,46.796126",
+    "geom:latitude":46.796126,
+    "geom:longitude":-100.762841,
+    "iso:country":"US",
+    "sg:address":"800 Airport Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 4797",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "auctioneer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FpMLhXvdygDQ6gsKLZxxw_46.796126_-100.762841@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294982,
+    "wof:geomhash":"7d793086a4096b7ababeab6685302e08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873599555
+        }
+    ],
+    "wof:id":873599555,
+    "wof:lastmodified":1464294982,
+    "wof:name":"Twin City Auction Mart-Second",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auctioneer"
+    ]
+},
+  "bbox": [
+    -100.762841,
+    46.796126,
+    -100.762841,
+    46.796126
+],
+  "geometry": {"coordinates":[-100.76284099999999,46.796126],"type":"Point"}
+}

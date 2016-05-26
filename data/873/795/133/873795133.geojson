@@ -1,0 +1,71 @@
+{
+  "id": 873795133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.131536,47.889553,-97.131536,47.889553",
+    "geom:latitude":47.889553,
+    "geom:longitude":-97.131536,
+    "iso:country":"US",
+    "sg:address":"6526 32nd Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 1595",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "grain",
+        "wheat",
+        "cash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zhERom41GhuUUG7ksTKoX_47.889553_-97.131536@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297716,
+    "wof:geomhash":"c8f1ce896733765ec87101eb26e4bad7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873795133
+        }
+    ],
+    "wof:id":873795133,
+    "wof:lastmodified":1464297716,
+    "wof:name":"Bateman Farm",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "grain",
+        "wheat",
+        "cash"
+    ]
+},
+  "bbox": [
+    -97.131536,
+    47.889553,
+    -97.131536,
+    47.889553
+],
+  "geometry": {"coordinates":[-97.131536,47.889553],"type":"Point"}
+}

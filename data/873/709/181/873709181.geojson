@@ -1,0 +1,73 @@
+{
+  "id": 873709181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.047645,47.896041,-97.047645,47.896041",
+    "geom:latitude":47.896041,
+    "geom:longitude":-97.047645,
+    "iso:country":"US",
+    "sg:address":"1551 24th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 335 4000",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "home",
+        "group"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nvx6tAnZA4DKy5xyCavTE_47.896041_-97.047645@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296510,
+    "wof:geomhash":"780550f8602e8c34b4da893265a2e400",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873709181
+        }
+    ],
+    "wof:id":873709181,
+    "wof:lastmodified":1464296510,
+    "wof:name":"Development Homes Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "group"
+    ]
+},
+  "bbox": [
+    -97.047645,
+    47.896041,
+    -97.047645,
+    47.896041
+],
+  "geometry": {"coordinates":[-97.047645,47.896041],"type":"Point"}
+}

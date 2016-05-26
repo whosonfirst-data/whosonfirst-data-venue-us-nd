@@ -1,0 +1,66 @@
+{
+  "id": 873753901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.679618,46.79434,-100.679618,46.79434",
+    "geom:latitude":46.79434,
+    "geom:longitude":-100.679618,
+    "iso:country":"US",
+    "sg:address":"7301 Apple Creek Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 8276",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DOzK8lI30kOhQMstgWt0B_46.794340_-100.679618@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297132,
+    "wof:geomhash":"0e130a8dd2c9fef06c9b92262e565762",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873753901
+        }
+    ],
+    "wof:id":873753901,
+    "wof:lastmodified":1464297132,
+    "wof:name":"Tony P Schumacher Farm",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.679618,
+    46.79434,
+    -100.679618,
+    46.79434
+],
+  "geometry": {"coordinates":[-100.679618,46.79434],"type":"Point"}
+}

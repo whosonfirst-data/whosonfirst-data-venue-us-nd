@@ -1,0 +1,71 @@
+{
+  "id": 873644743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.375865,47.949113,-97.375865,47.949113",
+    "geom:latitude":47.949113,
+    "geom:longitude":-97.375865,
+    "iso:country":"US",
+    "sg:address":"543 Holzapple St",
+    "sg:city":"Grand Forks Afb",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 594 3377",
+    "sg:postcode":"58204",
+    "sg:province":"ND",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZLqdRiW6fjSMAV4JaVi5m_47.949113_-97.375865@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295534,
+    "wof:geomhash":"15f6e64d153ae9d81e4ba78f229f6f6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873644743
+        }
+    ],
+    "wof:id":873644743,
+    "wof:lastmodified":1464295534,
+    "wof:name":"C & R Cleaner & Laundry",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -97.375865,
+    47.949113,
+    -97.375865,
+    47.949113
+],
+  "geometry": {"coordinates":[-97.375865,47.949113],"type":"Point"}
+}

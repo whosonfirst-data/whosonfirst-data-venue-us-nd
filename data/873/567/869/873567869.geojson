@@ -1,0 +1,78 @@
+{
+  "id": 873567869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.764628,46.805264,-100.764628,46.805264",
+    "geom:latitude":46.805264,
+    "geom:longitude":-100.764628,
+    "iso:country":"US",
+    "sg:address":"1824 E Main Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 6910",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automobile",
+        "customizing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5R5d6WTlpVSySgjvLPVUYo_46.805264_-100.764628@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294584,
+    "wof:geomhash":"142eb815af300a7e1d4947ab7f0b1d02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873567869
+        }
+    ],
+    "wof:id":873567869,
+    "wof:lastmodified":1464294584,
+    "wof:name":"Finish Line Truck & Auto Acces",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "customizing"
+    ]
+},
+  "bbox": [
+    -100.764628,
+    46.805264,
+    -100.764628,
+    46.805264
+],
+  "geometry": {"coordinates":[-100.764628,46.805264],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 873648127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.049614,47.94009,-97.049614,47.94009",
+    "geom:latitude":47.94009,
+    "geom:longitude":-97.049614,
+    "iso:country":"US",
+    "sg:address":"2001 N 6th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 4614",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "potato"
+    ],
+    "sg:website":"www.apgspud.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JQz2NALnAQWVmeqV7ulcO_47.940090_-97.049614@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295568,
+    "wof:geomhash":"e976ba33238be5d11e4a4fdf55adc6a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873648127
+        }
+    ],
+    "wof:id":873648127,
+    "wof:lastmodified":1464295568,
+    "wof:name":"Associated Potato Growers Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "potato"
+    ]
+},
+  "bbox": [
+    -97.049614,
+    47.94009,
+    -97.049614,
+    47.94009
+],
+  "geometry": {"coordinates":[-97.04961400000001,47.94009],"type":"Point"}
+}

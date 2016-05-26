@@ -1,0 +1,76 @@
+{
+  "id": 873562585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.757323,46.806218,-100.757323,46.806218",
+    "geom:latitude":46.806218,
+    "geom:longitude":-100.757323,
+    "iso:country":"US",
+    "sg:address":"2204 E Broadway Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 8879",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "opportunity"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fMcSQB7NCiU1WSa5uawyj_46.806218_-100.757323@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294527,
+    "wof:geomhash":"62b17086f3a90cb45199417081eebce8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873562585
+        }
+    ],
+    "wof:id":873562585,
+    "wof:lastmodified":1464294527,
+    "wof:name":"Experience Works Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "opportunity"
+    ]
+},
+  "bbox": [
+    -100.757323,
+    46.806218,
+    -100.757323,
+    46.806218
+],
+  "geometry": {"coordinates":[-100.757323,46.806218],"type":"Point"}
+}

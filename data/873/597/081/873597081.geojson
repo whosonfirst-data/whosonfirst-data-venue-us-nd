@@ -1,0 +1,73 @@
+{
+  "id": 873597081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.154661,47.889446,-97.154661,47.889446",
+    "geom:latitude":47.889446,
+    "geom:longitude":-97.154661,
+    "iso:country":"US",
+    "sg:address":"9025 32nd Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 7566",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YmQuWk9OKW5lEL4HI9DfY_47.889446_-97.154661@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294947,
+    "wof:geomhash":"bcf2b018dc957da4ecfd674f65c80dd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873597081
+        }
+    ],
+    "wof:id":873597081,
+    "wof:lastmodified":1464294947,
+    "wof:name":"Ray Construction",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.154661,
+    47.889446,
+    -97.154661,
+    47.889446
+],
+  "geometry": {"coordinates":[-97.154661,47.889446],"type":"Point"}
+}

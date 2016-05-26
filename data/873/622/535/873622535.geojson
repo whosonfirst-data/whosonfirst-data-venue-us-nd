@@ -1,0 +1,75 @@
+{
+  "id": 873622535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-102.788255,46.881091,-102.788255,46.881091",
+    "geom:latitude":46.881091,
+    "geom:longitude":-102.788255,
+    "iso:country":"US",
+    "sg:address":"209 2nd Ave W",
+    "sg:city":"Dickinson",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 264 7882",
+    "sg:postcode":"58601",
+    "sg:province":"ND",
+    "sg:tags":[
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877119,
+        102191575,
+        404482179,
+        85633793,
+        85982521,
+        102082105,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Idvi7rftNmz5E5ngZPbLm_46.881091_-102.788255@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295276,
+    "wof:geomhash":"759ae4dbe9a327d064f9d1214f8d682f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082105,
+            "localadmin_id":404482179,
+            "locality_id":85982521,
+            "neighbourhood_id":85877119,
+            "region_id":85688525,
+            "venue_id":873622535
+        }
+    ],
+    "wof:id":873622535,
+    "wof:lastmodified":1464295276,
+    "wof:name":"King Speed Printing",
+    "wof:parent_id":85877119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial"
+    ]
+},
+  "bbox": [
+    -102.788255,
+    46.881091,
+    -102.788255,
+    46.881091
+],
+  "geometry": {"coordinates":[-102.78825500000001,46.881091],"type":"Point"}
+}

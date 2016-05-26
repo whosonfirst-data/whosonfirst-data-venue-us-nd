@@ -1,0 +1,73 @@
+{
+  "id": 873592525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.772016,46.786772,-100.772016,46.786772",
+    "geom:latitude":46.786772,
+    "geom:longitude":-100.772016,
+    "iso:country":"US",
+    "sg:address":"1319 Continental Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 4094",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28fa4RIizvoAEbuh1LhJHQ_46.786772_-100.772016@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294864,
+    "wof:geomhash":"dd8dd48076f3c876eb5e521e93995bad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873592525
+        }
+    ],
+    "wof:id":873592525,
+    "wof:lastmodified":1464294864,
+    "wof:name":"C & J Storage",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -100.772016,
+    46.786772,
+    -100.772016,
+    46.786772
+],
+  "geometry": {"coordinates":[-100.77201599999999,46.786772],"type":"Point"}
+}

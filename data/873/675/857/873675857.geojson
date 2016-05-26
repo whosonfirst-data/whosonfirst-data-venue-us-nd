@@ -1,0 +1,75 @@
+{
+  "id": 873675857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.032522,47.879858,-97.032522,47.879858",
+    "geom:latitude":47.879858,
+    "geom:longitude":-97.032522,
+    "iso:country":"US",
+    "sg:address":"4209 Cottonwood St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 4831",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "retail",
+        "direct",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05RFz26xv1DLHXJj7sQ36r_47.879858_-97.032522@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295887,
+    "wof:geomhash":"485ff0f48c7bda3b8f9a6cf84975172c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873675857
+        }
+    ],
+    "wof:id":873675857,
+    "wof:lastmodified":1464295887,
+    "wof:name":"Connie Gierszewski",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "retail",
+        "direct",
+        "sales"
+    ]
+},
+  "bbox": [
+    -97.032522,
+    47.879858,
+    -97.032522,
+    47.879858
+],
+  "geometry": {"coordinates":[-97.032522,47.879858],"type":"Point"}
+}

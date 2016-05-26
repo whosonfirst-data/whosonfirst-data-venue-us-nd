@@ -1,0 +1,66 @@
+{
+  "id": 873732433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.634428,47.91763,-97.634428,47.91763",
+    "geom:latitude":47.91763,
+    "geom:longitude":-97.634428,
+    "iso:country":"US",
+    "sg:address":"1686 Barrett Ave",
+    "sg:city":"Larimore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 343 2273",
+    "sg:postcode":"58251",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_161WmRla9VCwnBtaNSseBv_47.917630_-97.634428@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296808,
+    "wof:geomhash":"9fb34f635b41bb5d41c060652c685662",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873732433
+        }
+    ],
+    "wof:id":873732433,
+    "wof:lastmodified":1464296808,
+    "wof:name":"Homespun Specialties",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.634428,
+    47.91763,
+    -97.634428,
+    47.91763
+],
+  "geometry": {"coordinates":[-97.634428,47.91763],"type":"Point"}
+}

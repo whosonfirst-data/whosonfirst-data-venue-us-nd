@@ -1,0 +1,71 @@
+{
+  "id": 873755081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.279688,47.14133,-100.279688,47.14133",
+    "geom:latitude":47.14133,
+    "geom:longitude":-100.279688,
+    "iso:country":"US",
+    "sg:address":"211 Main St",
+    "sg:city":"Wing",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 943 2357",
+    "sg:postcode":"58494",
+    "sg:province":"ND",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FqDUb9ZsM5S1tive9E8Ca_47.141330_-100.279688@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297146,
+    "wof:geomhash":"4e464e603c64ebf91e05534172f40120",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873755081
+        }
+    ],
+    "wof:id":873755081,
+    "wof:lastmodified":1464297146,
+    "wof:name":"Lake Mitchell Campground",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -100.279688,
+    47.14133,
+    -100.279688,
+    47.14133
+],
+  "geometry": {"coordinates":[-100.27968799999999,47.14133],"type":"Point"}
+}

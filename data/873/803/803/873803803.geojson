@@ -1,0 +1,84 @@
+{
+  "id": 873803803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.799956,46.843493,-96.799956,46.843493",
+    "geom:latitude":46.843493,
+    "geom:longitude":-96.799956,
+    "iso:country":"US",
+    "sg:address":"1336 25th Ave S Ste 130",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 4432",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "churches-interdenominational",
+        "churches-various",
+        "denomination"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534475,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5btIrqfAfQKvGxzMbA2kAN_46.843493_-96.799956@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297819,
+    "wof:geomhash":"1ac9717ec647f92b3436f49d689b9737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534475,
+            "region_id":85688525,
+            "venue_id":873803803
+        }
+    ],
+    "wof:id":873803803,
+    "wof:lastmodified":1464297819,
+    "wof:name":"Redeemed Christian Church Of God Kings Court Chapel",
+    "wof:parent_id":420534475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-interdenominational",
+        "churches-various",
+        "denomination"
+    ]
+},
+  "bbox": [
+    -96.799956,
+    46.843493,
+    -96.799956,
+    46.843493
+],
+  "geometry": {"coordinates":[-96.79995599999999,46.843493],"type":"Point"}
+}

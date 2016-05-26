@@ -1,0 +1,71 @@
+{
+  "id": 873562777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.293105,48.234186,-101.293105,48.234186",
+    "geom:latitude":48.234186,
+    "geom:longitude":-101.293105,
+    "iso:country":"US",
+    "sg:address":"304 Main St S",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 2832",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ycjhSQzpomOflrnuwLNIw_48.234186_-101.293105@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294529,
+    "wof:geomhash":"89fc2c6b0601f11bcc0ef0f99cc7316d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873562777
+        }
+    ],
+    "wof:id":873562777,
+    "wof:lastmodified":1464294529,
+    "wof:name":"Thomas Funeral Home Of Minot",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -101.293105,
+    48.234186,
+    -101.293105,
+    48.234186
+],
+  "geometry": {"coordinates":[-101.293105,48.234186],"type":"Point"}
+}

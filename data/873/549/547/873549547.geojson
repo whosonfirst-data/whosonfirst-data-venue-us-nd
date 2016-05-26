@@ -1,0 +1,73 @@
+{
+  "id": 873549547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.786083,46.808569,-100.786083,46.808569",
+    "geom:latitude":46.808569,
+    "geom:longitude":-100.786083,
+    "iso:country":"US",
+    "sg:address":"301 N 4th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 250 9390",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "eye",
+        "bank"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YASeJ13nBHI3OBGQ8eBvX_46.808569_-100.786083@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294372,
+    "wof:geomhash":"e38badf1f02b8bb88d046e7bdbfe7996",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873549547
+        }
+    ],
+    "wof:id":873549547,
+    "wof:lastmodified":1464294372,
+    "wof:name":"Lions Eye Bank North Dakota",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eye",
+        "bank"
+    ]
+},
+  "bbox": [
+    -100.786083,
+    46.808569,
+    -100.786083,
+    46.808569
+],
+  "geometry": {"coordinates":[-100.786083,46.808569],"type":"Point"}
+}

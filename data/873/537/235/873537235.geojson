@@ -1,0 +1,71 @@
+{
+  "id": 873537235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.291448,48.236374,-101.291448,48.236374",
+    "geom:latitude":48.236374,
+    "geom:longitude":-101.291448,
+    "iso:country":"US",
+    "sg:address":"110 Central Ave E",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Meat",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 3016",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ckezbm71yvwOCtYudsg3n_48.236374_-101.291448@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294231,
+    "wof:geomhash":"e12ec6e92d9de683b2685e5154f0f524",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873537235
+        }
+    ],
+    "wof:id":873537235,
+    "wof:lastmodified":1464294231,
+    "wof:name":"Bloms' Locker & Processing",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -101.291448,
+    48.236374,
+    -101.291448,
+    48.236374
+],
+  "geometry": {"coordinates":[-101.291448,48.236374],"type":"Point"}
+}

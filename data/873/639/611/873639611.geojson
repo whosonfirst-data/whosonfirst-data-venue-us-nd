@@ -1,0 +1,77 @@
+{
+  "id": 873639611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.822999,46.80778,-96.822999,46.80778",
+    "geom:latitude":46.80778,
+    "geom:longitude":-96.822999,
+    "iso:country":"US",
+    "sg:address":"2673 Meadow Creek Cir",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 239 8125",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877333,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CwFQLceTlaD3sfbMaQ4f7_46.807780_-96.822999@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295469,
+    "wof:geomhash":"775f6c7f3ea4e411f92a4964f9e2bf3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877333,
+            "region_id":85688525,
+            "venue_id":873639611
+        }
+    ],
+    "wof:id":873639611,
+    "wof:lastmodified":1464295469,
+    "wof:name":"Bob Footitt Construction Inc",
+    "wof:parent_id":85877333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.822999,
+    46.80778,
+    -96.822999,
+    46.80778
+],
+  "geometry": {"coordinates":[-96.822999,46.80778],"type":"Point"}
+}

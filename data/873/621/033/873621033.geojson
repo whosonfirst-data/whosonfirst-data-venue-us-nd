@@ -1,0 +1,74 @@
+{
+  "id": 873621033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.066831,47.88592,-97.066831,47.88592",
+    "geom:latitude":47.88592,
+    "geom:longitude":-97.066831,
+    "iso:country":"US",
+    "sg:address":"3880 S Columbia Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 335 4000",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "residential",
+        "management"
+    ],
+    "sg:website":"www.developmenthomes.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1q1WFxKjgr5goCXQRwWolN_47.885920_-97.066831@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295261,
+    "wof:geomhash":"6de16e2e3950022354e8eb7da0ed8764",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873621033
+        }
+    ],
+    "wof:id":873621033,
+    "wof:lastmodified":1464295261,
+    "wof:name":"Development Homes Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "management"
+    ]
+},
+  "bbox": [
+    -97.066831,
+    47.88592,
+    -97.066831,
+    47.88592
+],
+  "geometry": {"coordinates":[-97.06683099999999,47.88592],"type":"Point"}
+}

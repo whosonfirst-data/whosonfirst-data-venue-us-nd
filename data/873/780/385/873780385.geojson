@@ -1,0 +1,73 @@
+{
+  "id": 873780385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.028331,47.874895,-97.028331,47.874895",
+    "geom:latitude":47.874895,
+    "geom:longitude":-97.028331,
+    "iso:country":"US",
+    "sg:address":"4702 River Oaks Cir",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 780 9877",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FhwcmgSmWCOlqVB6ySqZd_47.874895_-97.028331@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297497,
+    "wof:geomhash":"17477b0e9075a4ef4a948a43b5d0ef82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873780385
+        }
+    ],
+    "wof:id":873780385,
+    "wof:lastmodified":1464297497,
+    "wof:name":"Johnson Transport",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -97.028331,
+    47.874895,
+    -97.028331,
+    47.874895
+],
+  "geometry": {"coordinates":[-97.02833099999999,47.874895],"type":"Point"}
+}

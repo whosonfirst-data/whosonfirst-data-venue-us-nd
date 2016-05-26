@@ -1,0 +1,66 @@
+{
+  "id": 873591371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.308839,48.247173,-101.308839,48.247173",
+    "geom:latitude":48.247173,
+    "geom:longitude":-101.308839,
+    "iso:country":"US",
+    "sg:address":"919 11th Ave NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 7704",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1692N24UiCLotRDRhi4emB_48.247173_-101.308839@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294848,
+    "wof:geomhash":"c6700277ad9fd5ab157d4a6a1c44cf4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873591371
+        }
+    ],
+    "wof:id":873591371,
+    "wof:lastmodified":1464294848,
+    "wof:name":"Ross Books",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.308839,
+    48.247173,
+    -101.308839,
+    48.247173
+],
+  "geometry": {"coordinates":[-101.30883900000001,48.247173],"type":"Point"}
+}

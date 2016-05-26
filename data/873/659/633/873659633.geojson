@@ -1,0 +1,73 @@
+{
+  "id": 873659633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.293024,48.232639,-101.293024,48.232639",
+    "geom:latitude":48.232639,
+    "geom:longitude":-101.293024,
+    "iso:country":"US",
+    "sg:address":"50 Burdick Expy W",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 857 5446",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2S90GQHEv9DqiGEN8jcMng_48.232639_-101.293024@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295695,
+    "wof:geomhash":"7ee821d3d92c738582a2bbb0bc7051b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873659633
+        }
+    ],
+    "wof:id":873659633,
+    "wof:lastmodified":1464295695,
+    "wof:name":"Trinity Medical Group",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -101.293024,
+    48.232639,
+    -101.293024,
+    48.232639
+],
+  "geometry": {"coordinates":[-101.293024,48.232639],"type":"Point"}
+}

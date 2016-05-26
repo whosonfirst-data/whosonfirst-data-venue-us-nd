@@ -1,0 +1,73 @@
+{
+  "id": 873661369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.301319,48.373661,-101.301319,48.373661",
+    "geom:latitude":48.373661,
+    "geom:longitude":-101.301319,
+    "iso:country":"US",
+    "sg:address":"13001 2nd St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 7336",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "mobile",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NSJMUMxsrQtjDtjHvDY5W_48.373661_-101.301319@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295712,
+    "wof:geomhash":"2326405a2eef723e1283f9ea70da24ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873661369
+        }
+    ],
+    "wof:id":873661369,
+    "wof:lastmodified":1464295712,
+    "wof:name":"Palmers Mobile Home Park",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home"
+    ]
+},
+  "bbox": [
+    -101.301319,
+    48.373661,
+    -101.301319,
+    48.373661
+],
+  "geometry": {"coordinates":[-101.30131900000001,48.373661],"type":"Point"}
+}

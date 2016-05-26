@@ -1,0 +1,80 @@
+{
+  "id": 873799675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.911685,46.780662,-96.911685,46.780662",
+    "geom:latitude":46.780662,
+    "geom:longitude":-96.911685,
+    "iso:country":"US",
+    "sg:address":"7227 Maple Ln",
+    "sg:city":"Horace",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 373 0062",
+    "sg:postcode":"58047",
+    "sg:province":"ND",
+    "sg:tags":[
+        "marketing",
+        "program",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2U853P9tKrWfGytutuji81_46.780662_-96.911685@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297769,
+    "wof:geomhash":"72e6ce4cc3c03a2932ec3748586f87b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873799675
+        }
+    ],
+    "wof:id":873799675,
+    "wof:lastmodified":1464297769,
+    "wof:name":"Ironclad Marketing Inc.",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marketing",
+        "program",
+        "consultant"
+    ]
+},
+  "bbox": [
+    -96.911685,
+    46.780662,
+    -96.911685,
+    46.780662
+],
+  "geometry": {"coordinates":[-96.91168500000001,46.780662],"type":"Point"}
+}

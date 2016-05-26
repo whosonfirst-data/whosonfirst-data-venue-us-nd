@@ -1,0 +1,71 @@
+{
+  "id": 873586573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.739295,46.723402,-100.739295,46.723402",
+    "geom:latitude":46.723402,
+    "geom:longitude":-100.739295,
+    "iso:country":"US",
+    "sg:address":"3601 Arrow Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 5793",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fIsTDVnGwgwLYY58CQwuo_46.723402_-100.739295@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294791,
+    "wof:geomhash":"973776c9f26717bf64254bf3aa5d46d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873586573
+        }
+    ],
+    "wof:id":873586573,
+    "wof:lastmodified":1464294791,
+    "wof:name":"Able Painting",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -100.739295,
+    46.723402,
+    -100.739295,
+    46.723402
+],
+  "geometry": {"coordinates":[-100.739295,46.723402],"type":"Point"}
+}

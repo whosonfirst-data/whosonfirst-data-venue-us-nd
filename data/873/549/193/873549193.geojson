@@ -1,0 +1,71 @@
+{
+  "id": 873549193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.045718,47.891934,-97.045718,47.891934",
+    "geom:latitude":47.891934,
+    "geom:longitude":-97.045718,
+    "iso:country":"US",
+    "sg:address":"2950 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 4337",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SVrJuR0G6nErzlb3puJQ7_47.891934_-97.045718@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294368,
+    "wof:geomhash":"6d072321fceae2f9fb757cf3534a5476",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873549193
+        }
+    ],
+    "wof:id":873549193,
+    "wof:lastmodified":1464294368,
+    "wof:name":"Gregory Norman Funeral Home",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -97.045718,
+    47.891934,
+    -97.045718,
+    47.891934
+],
+  "geometry": {"coordinates":[-97.04571799999999,47.891934],"type":"Point"}
+}

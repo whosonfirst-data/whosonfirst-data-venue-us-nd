@@ -1,0 +1,79 @@
+{
+  "id": 873676599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.797823,46.890427,-96.797823,46.890427",
+    "geom:latitude":46.890427,
+    "geom:longitude":-96.797823,
+    "iso:country":"US",
+    "sg:address":"1201 12th Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 241 9289",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "clinic",
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877363,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5k11XfmFsdR4DnqYJYqZIx_46.890427_-96.797823@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295902,
+    "wof:geomhash":"e74633f000d581114673712a55c4f01a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877363,
+            "region_id":85688525,
+            "venue_id":873676599
+        }
+    ],
+    "wof:id":873676599,
+    "wof:lastmodified":1464295902,
+    "wof:name":"Perry Center Maternity Home",
+    "wof:parent_id":85877363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -96.797823,
+    46.890427,
+    -96.797823,
+    46.890427
+],
+  "geometry": {"coordinates":[-96.79782299999999,46.890427],"type":"Point"}
+}

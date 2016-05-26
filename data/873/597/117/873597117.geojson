@@ -1,0 +1,77 @@
+{
+  "id": 873597117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.814438,46.883104,-96.814438,46.883104",
+    "geom:latitude":46.883104,
+    "geom:longitude":-96.814438,
+    "iso:country":"US",
+    "sg:address":"2102 7th Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 8681",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Essvfqlxu8D5JlVh611D7_46.883104_-96.814438@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294947,
+    "wof:geomhash":"387ecafe8bb1faf920355660bb785893",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873597117
+        }
+    ],
+    "wof:id":873597117,
+    "wof:lastmodified":1464294947,
+    "wof:name":"B C Electric Inc",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.814438,
+    46.883104,
+    -96.814438,
+    46.883104
+],
+  "geometry": {"coordinates":[-96.814438,46.883104],"type":"Point"}
+}

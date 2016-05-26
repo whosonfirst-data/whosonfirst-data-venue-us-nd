@@ -1,0 +1,75 @@
+{
+  "id": 873717061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.10978,47.779823,-97.10978,47.779823",
+    "geom:latitude":47.779823,
+    "geom:longitude":-97.10978,
+    "iso:country":"US",
+    "sg:address":"313 7th St",
+    "sg:city":"Thompson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 845 1601",
+    "sg:postcode":"58278",
+    "sg:province":"ND",
+    "sg:tags":[
+        "home",
+        "retirement",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eB3r3dE2F1SgwR1oC3vcU_47.779823_-97.109780@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296606,
+    "wof:geomhash":"1c092a9fa99feefdc79821e4668ab835",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873717061
+        }
+    ],
+    "wof:id":873717061,
+    "wof:lastmodified":1464296606,
+    "wof:name":"Thompson Manor Apartments",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "retirement",
+        "community"
+    ]
+},
+  "bbox": [
+    -97.10978,
+    47.779823,
+    -97.10978,
+    47.779823
+],
+  "geometry": {"coordinates":[-97.10978,47.779823],"type":"Point"}
+}

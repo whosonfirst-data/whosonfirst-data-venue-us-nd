@@ -1,0 +1,71 @@
+{
+  "id": 873772937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.761641,46.802516,-100.761641,46.802516",
+    "geom:latitude":46.802516,
+    "geom:longitude":-100.761641,
+    "iso:country":"US",
+    "sg:address":"2123 E Sweet Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 3131",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bJa17uogMMd2L1AFqv47h_46.802516_-100.761641@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297400,
+    "wof:geomhash":"bf74a6e135afcfa90ca2adeb9ebef8c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873772937
+        }
+    ],
+    "wof:id":873772937,
+    "wof:lastmodified":1464297400,
+    "wof:name":"Deans Foods/Land Of Lakes",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -100.761641,
+    46.802516,
+    -100.761641,
+    46.802516
+],
+  "geometry": {"coordinates":[-100.761641,46.802516],"type":"Point"}
+}

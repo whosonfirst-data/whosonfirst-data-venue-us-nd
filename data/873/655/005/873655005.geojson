@@ -1,0 +1,66 @@
+{
+  "id": 873655005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.086736,47.925593,-97.086736,47.925593",
+    "geom:latitude":47.925593,
+    "geom:longitude":-97.086736,
+    "iso:country":"US",
+    "sg:address":"580 Carlton Ct",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 885 2472",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GoDN3h0h9kWsQfSFGgXLO_47.925593_-97.086736@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295646,
+    "wof:geomhash":"1c191909467af4550a7b6d3286a30d66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873655005
+        }
+    ],
+    "wof:id":873655005,
+    "wof:lastmodified":1464295646,
+    "wof:name":"Procom-Chris Haake Pro Comm",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.086736,
+    47.925593,
+    -97.086736,
+    47.925593
+],
+  "geometry": {"coordinates":[-97.086736,47.925593],"type":"Point"}
+}

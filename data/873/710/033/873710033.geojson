@@ -1,0 +1,66 @@
+{
+  "id": 873710033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.322026,48.207368,-101.322026,48.207368",
+    "geom:latitude":48.207368,
+    "geom:longitude":-101.322026,
+    "iso:country":"US",
+    "sg:address":"1809 Parkside Dr SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 2260",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7i9mKi3lJgMaXLMBBBFQdH_48.207368_-101.322026@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296521,
+    "wof:geomhash":"1ca4167a1900ef7000f6a3284a0e440a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873710033
+        }
+    ],
+    "wof:id":873710033,
+    "wof:lastmodified":1464296521,
+    "wof:name":"Gen TCS Inc",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.322026,
+    48.207368,
+    -101.322026,
+    48.207368
+],
+  "geometry": {"coordinates":[-101.32202599999999,48.207368],"type":"Point"}
+}

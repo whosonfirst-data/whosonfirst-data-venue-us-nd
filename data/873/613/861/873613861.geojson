@@ -1,0 +1,71 @@
+{
+  "id": 873613861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.2822,48.231182,-101.2822,48.231182",
+    "geom:latitude":48.231182,
+    "geom:longitude":-101.2822,
+    "iso:country":"US",
+    "sg:address":"501 7th St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 833 5013",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wb7OoBpX8arZx67WeQK7G_48.231182_-101.282200@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295184,
+    "wof:geomhash":"876fec7eae1f0d89b21813ecf7df8a46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873613861
+        }
+    ],
+    "wof:id":873613861,
+    "wof:lastmodified":1464295184,
+    "wof:name":"Ultraclean Janitorial LLC",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -101.2822,
+    48.231182,
+    -101.2822,
+    48.231182
+],
+  "geometry": {"coordinates":[-101.2822,48.231182],"type":"Point"}
+}

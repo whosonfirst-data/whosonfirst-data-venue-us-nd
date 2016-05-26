@@ -1,0 +1,70 @@
+{
+  "id": 873603119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.837423,46.87611,-96.837423,46.87611",
+    "geom:latitude":46.87611,
+    "geom:longitude":-96.837423,
+    "iso:country":"US",
+    "sg:address":"3501 Main Ave",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Recreational Vehicle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 9010",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03xx1VA9s8oha0wiOuvNly_46.876110_-96.837423@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295020,
+    "wof:geomhash":"04f6abec7c222d5e7db08a983bef98d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873603119
+        }
+    ],
+    "wof:id":873603119,
+    "wof:lastmodified":1464295020,
+    "wof:name":"Bernie's Camper Corral",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.837423,
+    46.87611,
+    -96.837423,
+    46.87611
+],
+  "geometry": {"coordinates":[-96.837423,46.87611],"type":"Point"}
+}

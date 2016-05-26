@@ -1,0 +1,74 @@
+{
+  "id": 873634925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.306607,48.207528,-101.306607,48.207528",
+    "geom:latitude":48.207528,
+    "geom:longitude":-101.306607,
+    "iso:country":"US",
+    "sg:address":"2400 10th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 3095",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "photo",
+        "finishing"
+    ],
+    "sg:website":"www.rainbowphotolab.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ftPjFwbbcDSOmScCLDpLT_48.207528_-101.306607@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295422,
+    "wof:geomhash":"f8dbd9ef6c29709cde7bffe12edca170",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873634925
+        }
+    ],
+    "wof:id":873634925,
+    "wof:lastmodified":1464295422,
+    "wof:name":"Rainbow Photo Labs",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo",
+        "finishing"
+    ]
+},
+  "bbox": [
+    -101.306607,
+    48.207528,
+    -101.306607,
+    48.207528
+],
+  "geometry": {"coordinates":[-101.306607,48.207528],"type":"Point"}
+}

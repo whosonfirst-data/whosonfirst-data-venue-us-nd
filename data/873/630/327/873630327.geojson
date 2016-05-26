@@ -1,0 +1,76 @@
+{
+  "id": 873630327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.07476,47.889527,-97.07476,47.889527",
+    "geom:latitude":47.889527,
+    "geom:longitude":-97.07476,
+    "iso:country":"US",
+    "sg:address":"3450 32nd Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 9801",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "station"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rEnfETojUVhcevNdzPFZL_47.889527_-97.074760@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295369,
+    "wof:geomhash":"dd27b693db360fe2a89f6497872b78a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873630327
+        }
+    ],
+    "wof:id":873630327,
+    "wof:lastmodified":1464295369,
+    "wof:name":"Holiday Stationstores Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station"
+    ]
+},
+  "bbox": [
+    -97.07476,
+    47.889527,
+    -97.07476,
+    47.889527
+],
+  "geometry": {"coordinates":[-97.07476,47.889527],"type":"Point"}
+}

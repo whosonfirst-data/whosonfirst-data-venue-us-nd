@@ -1,0 +1,66 @@
+{
+  "id": 873661859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.109379,47.773611,-97.109379,47.773611",
+    "geom:latitude":47.773611,
+    "geom:longitude":-97.109379,
+    "iso:country":"US",
+    "sg:address":"307 Broadway St",
+    "sg:city":"Thompson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 599 2155",
+    "sg:postcode":"58278",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WyqA7iwJ8HSlZbmJVBa5Q_47.773611_-97.109379@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295718,
+    "wof:geomhash":"ec0e42da660f2bf48972a6f353448039",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873661859
+        }
+    ],
+    "wof:id":873661859,
+    "wof:lastmodified":1464295718,
+    "wof:name":"Fireside Grill",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.109379,
+    47.773611,
+    -97.109379,
+    47.773611
+],
+  "geometry": {"coordinates":[-97.109379,47.773611],"type":"Point"}
+}

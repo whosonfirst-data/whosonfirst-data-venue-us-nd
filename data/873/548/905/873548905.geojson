@@ -1,0 +1,71 @@
+{
+  "id": 873548905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.044566,47.901028,-97.044566,47.901028",
+    "geom:latitude":47.901028,
+    "geom:longitude":-97.044566,
+    "iso:country":"US",
+    "sg:address":"1917 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 5108",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6d5Xxddn3rVisZ8HUDysif_47.901028_-97.044566@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294366,
+    "wof:geomhash":"9d27fff44623b5ee8c4b0a5efa79882d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873548905
+        }
+    ],
+    "wof:id":873548905,
+    "wof:lastmodified":1464294366,
+    "wof:name":"Calvary Community Church",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -97.044566,
+    47.901028,
+    -97.044566,
+    47.901028
+],
+  "geometry": {"coordinates":[-97.044566,47.901028],"type":"Point"}
+}

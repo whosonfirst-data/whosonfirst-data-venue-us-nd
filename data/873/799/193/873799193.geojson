@@ -1,0 +1,83 @@
+{
+  "id": 873799193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.819491,46.829261,-100.819491,46.829261",
+    "geom:latitude":46.829261,
+    "geom:longitude":-100.819491,
+    "iso:country":"US",
+    "sg:address":"1685 N Grandview Ln",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/bismarck/33738-cracker-barrel-old-country-store/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 2785",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "american",
+        "southern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08KsrUbNHDBI9wEhPgfTMi_46.829011_-100.820307@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297764,
+    "wof:geomhash":"96da975d97398185ae8d8e10e969d8b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873799193
+        }
+    ],
+    "wof:id":873799193,
+    "wof:lastmodified":1464297764,
+    "wof:name":"Cracker Barrel Old Country Store",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "southern"
+    ]
+},
+  "bbox": [
+    -100.819491,
+    46.829261,
+    -100.819491,
+    46.829261
+],
+  "geometry": {"coordinates":[-100.819491,46.829261],"type":"Point"}
+}

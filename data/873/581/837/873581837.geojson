@@ -1,0 +1,66 @@
+{
+  "id": 873581837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.043575,47.896661,-97.043575,47.896661",
+    "geom:latitude":47.896661,
+    "geom:longitude":-97.043575,
+    "iso:country":"US",
+    "sg:address":"1103 24th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 4311",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vg6QwisHwRVs8jSWf7c9y_47.896661_-97.043575@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294741,
+    "wof:geomhash":"a29cbf14202d314e0ea7e4c4366e00ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873581837
+        }
+    ],
+    "wof:id":873581837,
+    "wof:lastmodified":1464294741,
+    "wof:name":"Robert E Kleve",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.043575,
+    47.896661,
+    -97.043575,
+    47.896661
+],
+  "geometry": {"coordinates":[-97.043575,47.896661],"type":"Point"}
+}

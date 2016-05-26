@@ -1,0 +1,71 @@
+{
+  "id": 873676093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.005365,46.632608,-97.005365,46.632608",
+    "geom:latitude":46.632608,
+    "geom:longitude":-97.005365,
+    "iso:country":"US",
+    "sg:address":"321 Hwy 46",
+    "sg:city":"Kindred",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 428 9119",
+    "sg:postcode":"58051",
+    "sg:province":"ND",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3loc7VLXtTX26XyhrSjg6e_46.632608_-97.005365@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295891,
+    "wof:geomhash":"94b4a448f11075e4f159fc5922a2f358",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873676093
+        }
+    ],
+    "wof:id":873676093,
+    "wof:lastmodified":1464295891,
+    "wof:name":"Brian Brakke",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -97.005365,
+    46.632608,
+    -97.005365,
+    46.632608
+],
+  "geometry": {"coordinates":[-97.005365,46.632608],"type":"Point"}
+}

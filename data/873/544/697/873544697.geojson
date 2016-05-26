@@ -1,0 +1,73 @@
+{
+  "id": 873544697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.778444,46.810567,-100.778444,46.810567",
+    "geom:latitude":46.810567,
+    "geom:longitude":-100.778444,
+    "iso:country":"US",
+    "sg:address":"500 N 9th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 328 4290",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "commission",
+        "racing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2flRWE8FRIA12KooiZoiaQ_46.810567_-100.778444@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294313,
+    "wof:geomhash":"daa8236d4228b03b8cf68dab1b6993e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873544697
+        }
+    ],
+    "wof:id":873544697,
+    "wof:lastmodified":1464294313,
+    "wof:name":"Racing Commission North Dakota",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commission",
+        "racing"
+    ]
+},
+  "bbox": [
+    -100.778444,
+    46.810567,
+    -100.778444,
+    46.810567
+],
+  "geometry": {"coordinates":[-100.77844399999999,46.810567],"type":"Point"}
+}

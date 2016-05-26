@@ -1,0 +1,73 @@
+{
+  "id": 873702149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.043948,47.931532,-97.043948,47.931532",
+    "geom:latitude":47.931532,
+    "geom:longitude":-97.043948,
+    "iso:country":"US",
+    "sg:address":"932 N 4th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 2991",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "television",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TnRW4694V2bTUYDPYKSpC_47.931532_-97.043948@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296427,
+    "wof:geomhash":"cf6df8ab1fb2acbe33639b4db7cc9ee1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873702149
+        }
+    ],
+    "wof:id":873702149,
+    "wof:lastmodified":1464296427,
+    "wof:name":"Television Exchange",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "radio"
+    ]
+},
+  "bbox": [
+    -97.043948,
+    47.931532,
+    -97.043948,
+    47.931532
+],
+  "geometry": {"coordinates":[-97.043948,47.931532],"type":"Point"}
+}

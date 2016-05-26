@@ -1,0 +1,77 @@
+{
+  "id": 873569999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.784703,46.884646,-96.784703,46.884646",
+    "geom:latitude":46.884646,
+    "geom:longitude":-96.784703,
+    "iso:country":"US",
+    "sg:address":"720 4th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 234 6960",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534465,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04RImy3G0H7ciZA2QiOGlZ_46.884646_-96.784703@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294610,
+    "wof:geomhash":"5626e5ff404ac81874e55862dda7685a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534465,
+            "region_id":85688525,
+            "venue_id":873569999
+        }
+    ],
+    "wof:id":873569999,
+    "wof:lastmodified":1464294610,
+    "wof:name":"Meritcare",
+    "wof:parent_id":420534465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -96.784703,
+    46.884646,
+    -96.784703,
+    46.884646
+],
+  "geometry": {"coordinates":[-96.78470299999999,46.884646],"type":"Point"}
+}

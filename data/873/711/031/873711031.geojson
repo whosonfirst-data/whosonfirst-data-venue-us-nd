@@ -1,0 +1,66 @@
+{
+  "id": 873711031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.724135,46.840579,-100.724135,46.840579",
+    "geom:latitude":46.840579,
+    "geom:longitude":-100.724135,
+    "iso:country":"US",
+    "sg:address":"3024 Stonewall Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 250 1175",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LtF5anyLyBkerr6S95CSB_46.840579_-100.724135@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296533,
+    "wof:geomhash":"61f9be5b187a2b549ce6d9fa66bb202f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873711031
+        }
+    ],
+    "wof:id":873711031,
+    "wof:lastmodified":1464296533,
+    "wof:name":"RPM Enterprises",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.724135,
+    46.840579,
+    -100.724135,
+    46.840579
+],
+  "geometry": {"coordinates":[-100.724135,46.840579],"type":"Point"}
+}

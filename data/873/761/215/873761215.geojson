@@ -1,0 +1,71 @@
+{
+  "id": 873761215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.708392,46.759481,-100.708392,46.759481",
+    "geom:latitude":46.759481,
+    "geom:longitude":-100.708392,
+    "iso:country":"US",
+    "sg:address":"15 Custer Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 2978",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0S4S2AvcRvqC8jQ9GQVePC_46.759481_-100.708392@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297224,
+    "wof:geomhash":"8c3169111161e83127e2a6257bff7b8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873761215
+        }
+    ],
+    "wof:id":873761215,
+    "wof:lastmodified":1464297224,
+    "wof:name":"K & K Trucking Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -100.708392,
+    46.759481,
+    -100.708392,
+    46.759481
+],
+  "geometry": {"coordinates":[-100.708392,46.759481],"type":"Point"}
+}

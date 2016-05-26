@@ -1,0 +1,73 @@
+{
+  "id": 873791259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.947747,46.659284,-96.947747,46.659284",
+    "geom:latitude":46.659284,
+    "geom:longitude":-96.947747,
+    "iso:country":"US",
+    "sg:address":"16803 52nd St SE",
+    "sg:city":"Kindred",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 428 3765",
+    "sg:postcode":"58051",
+    "sg:province":"ND",
+    "sg:tags":[
+        "churches-lutheran",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rH5XQmX6a2UdVX4Xe59aO_46.659234_-96.948152@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464297657,
+    "wof:geomhash":"2c713e595fba8313e91f79625c0f30de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873791259
+        }
+    ],
+    "wof:id":873791259,
+    "wof:lastmodified":1464297657,
+    "wof:name":"Norman Lutheran Church",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-lutheran",
+        "church"
+    ]
+},
+  "bbox": [
+    -96.947747,
+    46.659284,
+    -96.947747,
+    46.659284
+],
+  "geometry": {"coordinates":[-96.94774700000001,46.659284],"type":"Point"}
+}

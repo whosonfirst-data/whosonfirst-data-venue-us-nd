@@ -1,0 +1,71 @@
+{
+  "id": 873694247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.318477,48.224099,-101.318477,48.224099",
+    "geom:latitude":48.224099,
+    "geom:longitude":-101.318477,
+    "iso:country":"US",
+    "sg:address":"1831 Burdick Expy W",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 857 0275",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OalDBuiiO5sqqt3pDYTcH_48.224099_-101.318477@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296341,
+    "wof:geomhash":"43fead985fe7c0cd09e99a18f8c5b463",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873694247
+        }
+    ],
+    "wof:id":873694247,
+    "wof:lastmodified":1464296341,
+    "wof:name":"Production America",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -101.318477,
+    48.224099,
+    -101.318477,
+    48.224099
+],
+  "geometry": {"coordinates":[-101.318477,48.224099],"type":"Point"}
+}

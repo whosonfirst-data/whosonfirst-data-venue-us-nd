@@ -1,0 +1,67 @@
+{
+  "id": 873716583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.622345,47.905783,-97.622345,47.905783",
+    "geom:latitude":47.905783,
+    "geom:longitude":-97.622345,
+    "iso:country":"US",
+    "sg:address":"115 E Main St",
+    "sg:city":"Larimore",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 343 2383",
+    "sg:postcode":"58251",
+    "sg:province":"ND",
+    "sg:website":"www.nodakmutual.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hcpN1aVEhDY3CdrXPEY8Z_47.905783_-97.622345@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296601,
+    "wof:geomhash":"3c306a7d52c0c165fe901faa5ce6a21b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873716583
+        }
+    ],
+    "wof:id":873716583,
+    "wof:lastmodified":1464296601,
+    "wof:name":"Nodak Mutual Insurance Company",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.622345,
+    47.905783,
+    -97.622345,
+    47.905783
+],
+  "geometry": {"coordinates":[-97.622345,47.905783],"type":"Point"}
+}

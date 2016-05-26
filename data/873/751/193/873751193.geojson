@@ -1,0 +1,77 @@
+{
+  "id": 873751193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.92471,46.949279,-96.92471,46.949279",
+    "geom:latitude":46.949279,
+    "geom:longitude":-96.92471,
+    "iso:country":"US",
+    "sg:address":"4602 81st St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 9764",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72LBXFNJDIqlwjhVVZaBsI_46.949279_-96.924710@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297090,
+    "wof:geomhash":"c533f78ffb21d2d7b06378867b244f2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873751193
+        }
+    ],
+    "wof:id":873751193,
+    "wof:lastmodified":1464297090,
+    "wof:name":"AG Air Ltd",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "supply"
+    ]
+},
+  "bbox": [
+    -96.92471,
+    46.949279,
+    -96.92471,
+    46.949279
+],
+  "geometry": {"coordinates":[-96.92471,46.949279],"type":"Point"}
+}

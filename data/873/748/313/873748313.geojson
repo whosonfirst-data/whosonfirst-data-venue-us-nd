@@ -1,0 +1,73 @@
+{
+  "id": 873748313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.293943,48.255496,-101.293943,48.255496",
+    "geom:latitude":48.255496,
+    "geom:longitude":-101.293943,
+    "iso:country":"US",
+    "sg:address":"25 Airport Rd",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 5667",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102531137,
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09v3AOzvVXmFBkfpiqhXzS_48.255496_-101.293943@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297053,
+    "wof:geomhash":"c69cb518c37b9e1820d273315dedeffc",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531137,
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873748313
+        }
+    ],
+    "wof:id":873748313,
+    "wof:lastmodified":1464297053,
+    "wof:name":"US Transportation Dept",
+    "wof:parent_id":102531137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -101.293943,
+    48.255496,
+    -101.293943,
+    48.255496
+],
+  "geometry": {"coordinates":[-101.293943,48.255496],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873720917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.811577,46.816061,-100.811577,46.816061",
+    "geom:latitude":46.816061,
+    "geom:longitude":-100.811577,
+    "iso:country":"US",
+    "sg:address":"1001 Midway Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 3279",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "resume"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2c2wQvl9FXS6SIQlMljtZv_46.816061_-100.811577@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296662,
+    "wof:geomhash":"1a425900e021ab803eb65df1871b827a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873720917
+        }
+    ],
+    "wof:id":873720917,
+    "wof:lastmodified":1464296662,
+    "wof:name":"Jan's Secretarial Svc",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resume"
+    ]
+},
+  "bbox": [
+    -100.811577,
+    46.816061,
+    -100.811577,
+    46.816061
+],
+  "geometry": {"coordinates":[-100.811577,46.816061],"type":"Point"}
+}

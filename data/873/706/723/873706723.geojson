@@ -1,0 +1,75 @@
+{
+  "id": 873706723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-102.788787,46.894234,-102.788787,46.894234",
+    "geom:latitude":46.894234,
+    "geom:longitude":-102.788787,
+    "iso:country":"US",
+    "sg:address":"252 W Museum Dr",
+    "sg:city":"Dickinson",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 483 7017",
+    "sg:postcode":"58601",
+    "sg:province":"ND",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877119,
+        102191575,
+        404482179,
+        85633793,
+        85982521,
+        102082105,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pQ3U8k3XmNryRXvfN9Amx_46.894234_-102.788787@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296478,
+    "wof:geomhash":"0bf393f1f040b9fd128ce6443f03af36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082105,
+            "localadmin_id":404482179,
+            "locality_id":85982521,
+            "neighbourhood_id":85877119,
+            "region_id":85688525,
+            "venue_id":873706723
+        }
+    ],
+    "wof:id":873706723,
+    "wof:lastmodified":1464296478,
+    "wof:name":"Cenex",
+    "wof:parent_id":85877119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -102.788787,
+    46.894234,
+    -102.788787,
+    46.894234
+],
+  "geometry": {"coordinates":[-102.788787,46.894234],"type":"Point"}
+}

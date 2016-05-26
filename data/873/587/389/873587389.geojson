@@ -1,0 +1,71 @@
+{
+  "id": 873587389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.081146,47.924552,-97.081146,47.924552",
+    "geom:latitude":47.924552,
+    "geom:longitude":-97.081146,
+    "iso:country":"US",
+    "sg:address":"405 Stanford Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 777 9146",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tNtkDgHbprl9pRvYls7W1_47.924552_-97.081146@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294801,
+    "wof:geomhash":"66ac6a2fdab6c2be238083284eb28d2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873587389
+        }
+    ],
+    "wof:id":873587389,
+    "wof:lastmodified":1464294801,
+    "wof:name":"Limax USA",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "related"
+    ]
+},
+  "bbox": [
+    -97.081146,
+    47.924552,
+    -97.081146,
+    47.924552
+],
+  "geometry": {"coordinates":[-97.081146,47.924552],"type":"Point"}
+}

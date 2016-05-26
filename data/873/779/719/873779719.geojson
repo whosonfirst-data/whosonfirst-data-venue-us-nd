@@ -1,0 +1,71 @@
+{
+  "id": 873779719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.133844,48.226003,-101.133844,48.226003",
+    "geom:latitude":48.226003,
+    "geom:longitude":-101.133844,
+    "iso:country":"US",
+    "sg:address":"950 104th St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 6396",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yIed89boDKlWReqKTM6uk_48.226003_-101.133844@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297487,
+    "wof:geomhash":"a21b77d46b017ff5aeaefeeedeea68e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873779719
+        }
+    ],
+    "wof:id":873779719,
+    "wof:lastmodified":1464297487,
+    "wof:name":"Environmental Specialists",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -101.133844,
+    48.226003,
+    -101.133844,
+    48.226003
+],
+  "geometry": {"coordinates":[-101.133844,48.226003],"type":"Point"}
+}

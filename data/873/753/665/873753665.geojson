@@ -1,0 +1,75 @@
+{
+  "id": 873753665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.282863,47.238508,-97.282863,47.238508",
+    "geom:latitude":47.238508,
+    "geom:longitude":-97.282863,
+    "iso:country":"US",
+    "sg:address":"15188 12th St SE",
+    "sg:city":"Hunter",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 874 2129",
+    "sg:postcode":"58035",
+    "sg:province":"ND",
+    "sg:tags":[
+        "conservation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4s0izgk0aWTiCSmP0AoqV6_47.238508_-97.282863@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297129,
+    "wof:geomhash":"3742855a46a40d09c841b137dccf2364",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873753665
+        }
+    ],
+    "wof:id":873753665,
+    "wof:lastmodified":1464297129,
+    "wof:name":"Tim & Louise Tegtmeier",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conservation"
+    ]
+},
+  "bbox": [
+    -97.282863,
+    47.238508,
+    -97.282863,
+    47.238508
+],
+  "geometry": {"coordinates":[-97.28286300000001,47.238508],"type":"Point"}
+}

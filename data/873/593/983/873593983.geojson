@@ -1,0 +1,77 @@
+{
+  "id": 873593983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.899836,46.89054,-96.899836,46.89054",
+    "geom:latitude":46.89054,
+    "geom:longitude":-96.899836,
+    "iso:country":"US",
+    "sg:address":"1168 Center St",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 277 1687",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kjthUJClmBEwcM85mJ7DP_46.890540_-96.899836@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294883,
+    "wof:geomhash":"3fb6c3691883139af17d15eb02b7252a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873593983
+        }
+    ],
+    "wof:id":873593983,
+    "wof:lastmodified":1464294883,
+    "wof:name":"A J Construction Inc",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.899836,
+    46.89054,
+    -96.899836,
+    46.89054
+],
+  "geometry": {"coordinates":[-96.89983599999999,46.89054],"type":"Point"}
+}

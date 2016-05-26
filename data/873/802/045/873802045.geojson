@@ -1,0 +1,88 @@
+{
+  "id": 873802045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.84228,46.87096,-96.84228,46.87096",
+    "geom:latitude":46.87096,
+    "geom:longitude":-96.84228,
+    "iso:country":"US",
+    "sg:address":"415 38th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 6641",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "auto",
+        "homeowner"
+    ],
+    "sg:website":"http://apps.amfam.com/agentlocator/DCOLTER?sourceid=yp3",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HXrbieKOt6abU1IDPTCAn_46.870960_-96.842280@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297798,
+    "wof:geomhash":"b6ddabf65c7d8277ed03b4229b043f22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873802045
+        }
+    ],
+    "wof:id":873802045,
+    "wof:lastmodified":1464297798,
+    "wof:name":"American Family Insurance- Dj Colter Agency Inc",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto",
+        "homeowner"
+    ]
+},
+  "bbox": [
+    -96.84228,
+    46.87096,
+    -96.84228,
+    46.87096
+],
+  "geometry": {"coordinates":[-96.84228,46.87096],"type":"Point"}
+}

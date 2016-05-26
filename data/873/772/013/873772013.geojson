@@ -1,0 +1,70 @@
+{
+  "id": 873772013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.803773,46.832544,-96.803773,46.832544",
+    "geom:latitude":46.832544,
+    "geom:longitude":-96.803773,
+    "iso:country":"US",
+    "sg:address":"1570 32nd Ave",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 297 5936",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534487,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xp1GdOyY1VRqvdpP2TWC0_46.832544_-96.803773@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297389,
+    "wof:geomhash":"ada9e88d8116b24e26677aaab152ea7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534487,
+            "region_id":85688525,
+            "venue_id":873772013
+        }
+    ],
+    "wof:id":873772013,
+    "wof:lastmodified":1464297389,
+    "wof:name":"Kroll's Diner Inc Of Fargo",
+    "wof:parent_id":420534487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.803773,
+    46.832544,
+    -96.803773,
+    46.832544
+],
+  "geometry": {"coordinates":[-96.80377300000001,46.832544],"type":"Point"}
+}

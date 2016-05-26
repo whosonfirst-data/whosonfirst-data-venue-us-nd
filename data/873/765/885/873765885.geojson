@@ -1,0 +1,75 @@
+{
+  "id": 873765885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.038847,47.878925,-97.038847,47.878925",
+    "geom:latitude":47.878925,
+    "geom:longitude":-97.038847,
+    "iso:country":"US",
+    "sg:address":"723 Central Plains Ct",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 8273",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "food",
+        "product",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00Bbx70NwcC2sDgN9s2A4d_47.878925_-97.038847@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297311,
+    "wof:geomhash":"7d21a0b346548364a503823fa388fafa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873765885
+        }
+    ],
+    "wof:id":873765885,
+    "wof:lastmodified":1464297311,
+    "wof:name":"Melalueca",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "product",
+        "health"
+    ]
+},
+  "bbox": [
+    -97.038847,
+    47.878925,
+    -97.038847,
+    47.878925
+],
+  "geometry": {"coordinates":[-97.038847,47.878925],"type":"Point"}
+}

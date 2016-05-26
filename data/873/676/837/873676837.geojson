@@ -1,0 +1,70 @@
+{
+  "id": 873676837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.826179,46.832434,-96.826179,46.832434",
+    "geom:latitude":46.832434,
+    "geom:longitude":-96.826179,
+    "iso:country":"US",
+    "sg:address":"3000 32nd Ave",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 364 8051",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534467,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YNPaPlp65IwhUddm1xlqu_46.832434_-96.826179@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295909,
+    "wof:geomhash":"87b17897ea52da13610b8ed469d2c685",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534467,
+            "region_id":85688525,
+            "venue_id":873676837
+        }
+    ],
+    "wof:id":873676837,
+    "wof:lastmodified":1464295909,
+    "wof:name":"Dakota Speciality Institute",
+    "wof:parent_id":420534467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.826179,
+    46.832434,
+    -96.826179,
+    46.832434
+],
+  "geometry": {"coordinates":[-96.826179,46.832434],"type":"Point"}
+}

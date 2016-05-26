@@ -1,0 +1,66 @@
+{
+  "id": 873770497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.759867,46.791921,-100.759867,46.791921",
+    "geom:latitude":46.791921,
+    "geom:longitude":-100.759867,
+    "iso:country":"US",
+    "sg:address":"2105 Lee Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 530 1940",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dZzFnyug7k402KcVJBfhv_46.791921_-100.759867@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297372,
+    "wof:geomhash":"71dfa5579e0e8f22a8b5bda1e244da0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873770497
+        }
+    ],
+    "wof:id":873770497,
+    "wof:lastmodified":1464297372,
+    "wof:name":"Affordable Housing Developers",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.759867,
+    46.791921,
+    -100.759867,
+    46.791921
+],
+  "geometry": {"coordinates":[-100.759867,46.791921],"type":"Point"}
+}

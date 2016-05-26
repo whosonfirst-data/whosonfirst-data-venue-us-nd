@@ -1,0 +1,66 @@
+{
+  "id": 873733323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.052189,47.92619,-97.052189,47.92619",
+    "geom:latitude":47.92619,
+    "geom:longitude":-97.052189,
+    "iso:country":"US",
+    "sg:address":"1713 7th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 1143",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZJAoDQCfpxSDAcxWo0sKR_47.926190_-97.052189@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296819,
+    "wof:geomhash":"40a695ef2bdc3eb27790eed0c30a1182",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873733323
+        }
+    ],
+    "wof:id":873733323,
+    "wof:lastmodified":1464296819,
+    "wof:name":"Envision Salon Spa",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.052189,
+    47.92619,
+    -97.052189,
+    47.92619
+],
+  "geometry": {"coordinates":[-97.052189,47.92619],"type":"Point"}
+}

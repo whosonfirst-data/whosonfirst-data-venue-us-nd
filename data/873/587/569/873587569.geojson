@@ -1,0 +1,73 @@
+{
+  "id": 873587569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.044551,47.90224,-97.044551,47.90224",
+    "geom:latitude":47.90224,
+    "geom:longitude":-97.044551,
+    "iso:country":"US",
+    "sg:address":"1811 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 9704",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shop",
+        "thrift"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7i57LFSWKCr0D6jZ7LRC9X_47.902240_-97.044551@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294803,
+    "wof:geomhash":"1b1f3a65a41a4f2f80c65134d4c3278c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873587569
+        }
+    ],
+    "wof:id":873587569,
+    "wof:lastmodified":1464294803,
+    "wof:name":"Home Place",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "thrift"
+    ]
+},
+  "bbox": [
+    -97.044551,
+    47.90224,
+    -97.044551,
+    47.90224
+],
+  "geometry": {"coordinates":[-97.044551,47.90224],"type":"Point"}
+}

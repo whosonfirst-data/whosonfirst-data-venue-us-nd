@@ -1,0 +1,92 @@
+{
+  "id": 873804923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.819656,46.825381,-96.819656,46.825381",
+    "geom:latitude":46.825381,
+    "geom:longitude":-96.819656,
+    "iso:country":"US",
+    "sg:address":"3600 25th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 6688",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "churches-episcopal-anglican",
+        "churches-catholic-traditional",
+        "churches-episcopal",
+        "churches-catholic"
+    ],
+    "sg:website":"http://www.episcopal-nd.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534467,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28ne852tqejgf2deAALG4E_46.825381_-96.819656@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297833,
+    "wof:geomhash":"e90a54f554b52449c836baefd0d0fd65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534467,
+            "region_id":85688525,
+            "venue_id":873804923
+        }
+    ],
+    "wof:id":873804923,
+    "wof:lastmodified":1464297833,
+    "wof:name":"North Dakota Episcopal Foundation",
+    "wof:parent_id":420534467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-episcopal-anglican",
+        "churches-catholic-traditional",
+        "churches-episcopal",
+        "churches-catholic"
+    ]
+},
+  "bbox": [
+    -96.819656,
+    46.825381,
+    -96.819656,
+    46.825381
+],
+  "geometry": {"coordinates":[-96.81965599999999,46.825381],"type":"Point"}
+}

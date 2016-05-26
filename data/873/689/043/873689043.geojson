@@ -1,0 +1,71 @@
+{
+  "id": 873689043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.035663,47.90892,-97.035663,47.90892",
+    "geom:latitude":47.90892,
+    "geom:longitude":-97.035663,
+    "iso:country":"US",
+    "sg:address":"1015 Cherry St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 7054",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MazT5O0EpcqiwIXvvlBWP_47.908920_-97.035663@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296250,
+    "wof:geomhash":"e7ec29e8c4c9ac7fb1189d31313b8450",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873689043
+        }
+    ],
+    "wof:id":873689043,
+    "wof:lastmodified":1464296250,
+    "wof:name":"R & K Schagel",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -97.035663,
+    47.90892,
+    -97.035663,
+    47.90892
+],
+  "geometry": {"coordinates":[-97.035663,47.90892],"type":"Point"}
+}

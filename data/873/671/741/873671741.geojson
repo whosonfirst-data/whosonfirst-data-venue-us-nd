@@ -1,0 +1,71 @@
+{
+  "id": 873671741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.043476,47.922242,-97.043476,47.922242",
+    "geom:latitude":47.922242,
+    "geom:longitude":-97.043476,
+    "iso:country":"US",
+    "sg:address":"1100 University Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 7854",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "taping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IDukODmUPYpaOVWJv7qwu_47.922242_-97.043476@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295819,
+    "wof:geomhash":"618f1d02393cc7012fe27f8471415562",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873671741
+        }
+    ],
+    "wof:id":873671741,
+    "wof:lastmodified":1464295819,
+    "wof:name":"T & T Productions",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taping"
+    ]
+},
+  "bbox": [
+    -97.043476,
+    47.922242,
+    -97.043476,
+    47.922242
+],
+  "geometry": {"coordinates":[-97.043476,47.922242],"type":"Point"}
+}

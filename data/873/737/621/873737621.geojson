@@ -1,0 +1,66 @@
+{
+  "id": 873737621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.081213,47.88938,-97.081213,47.88938",
+    "geom:latitude":47.88938,
+    "geom:longitude":-97.081213,
+    "iso:country":"US",
+    "sg:address":"3811 32nd Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 6159",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4N6Pg9l2J7dnUbTu8QafUo_47.889380_-97.081213@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296891,
+    "wof:geomhash":"515742bc8a2815fc04920dc0eef64271",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873737621
+        }
+    ],
+    "wof:id":873737621,
+    "wof:lastmodified":1464296891,
+    "wof:name":"Catherines",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.081213,
+    47.88938,
+    -97.081213,
+    47.88938
+],
+  "geometry": {"coordinates":[-97.08121300000001,47.88938],"type":"Point"}
+}

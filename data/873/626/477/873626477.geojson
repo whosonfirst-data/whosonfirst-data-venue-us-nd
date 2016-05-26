@@ -1,0 +1,73 @@
+{
+  "id": 873626477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.036127,47.927177,-97.036127,47.927177",
+    "geom:latitude":47.927177,
+    "geom:longitude":-97.036127,
+    "iso:country":"US",
+    "sg:address":"311 4th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 0283",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ui61oWa0NxutfZV9GISbV_47.927177_-97.036127@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295325,
+    "wof:geomhash":"23556e70cf426a2e8682392daee75ed1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873626477
+        }
+    ],
+    "wof:id":873626477,
+    "wof:lastmodified":1464295325,
+    "wof:name":"Munro Massage Ctr",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -97.036127,
+    47.927177,
+    -97.036127,
+    47.927177
+],
+  "geometry": {"coordinates":[-97.03612699999999,47.927177],"type":"Point"}
+}

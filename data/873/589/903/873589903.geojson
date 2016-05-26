@@ -1,0 +1,66 @@
+{
+  "id": 873589903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.30702,48.236785,-101.30702,48.236785",
+    "geom:latitude":48.236785,
+    "geom:longitude":-101.30702,
+    "iso:country":"US",
+    "sg:address":"903 1st Ave NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 1036",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RZGQge5H2bPCVsMQuiWCE_48.236785_-101.307020@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294830,
+    "wof:geomhash":"fa36916e7b0978fdc82d2600ceef8c30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873589903
+        }
+    ],
+    "wof:id":873589903,
+    "wof:lastmodified":1464294830,
+    "wof:name":"J B Furniture & Associate",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.30702,
+    48.236785,
+    -101.30702,
+    48.236785
+],
+  "geometry": {"coordinates":[-101.30701999999999,48.236785],"type":"Point"}
+}

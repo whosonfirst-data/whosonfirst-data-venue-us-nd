@@ -1,0 +1,75 @@
+{
+  "id": 873535865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.829038,46.826056,-96.829038,46.826056",
+    "geom:latitude":46.826056,
+    "geom:longitude":-96.829038,
+    "iso:country":"US",
+    "sg:address":"3511 30th St SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 239 6874",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534467,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oX72BGeUpdEn4JFCpQDya_46.826056_-96.829038@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294214,
+    "wof:geomhash":"ccf6778058e9cdd09b7ad53e6a83c8dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534467,
+            "region_id":85688525,
+            "venue_id":873535865
+        }
+    ],
+    "wof:id":873535865,
+    "wof:lastmodified":1464294214,
+    "wof:name":"Als Heating Cooling",
+    "wof:parent_id":420534467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.829038,
+    46.826056,
+    -96.829038,
+    46.826056
+],
+  "geometry": {"coordinates":[-96.829038,46.826056],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873778345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.774727,46.809391,-100.774727,46.809391",
+    "geom:latitude":46.809391,
+    "geom:longitude":-100.774727,
+    "iso:country":"US",
+    "sg:address":"1107 E Ave A",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 1859",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Nkzz4oXVvQBGFCNONOsud_46.809391_-100.774727@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297468,
+    "wof:geomhash":"2fd5215dd6c9c520a64565a379812e54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873778345
+        }
+    ],
+    "wof:id":873778345,
+    "wof:lastmodified":1464297468,
+    "wof:name":"Ricochet Gun Works",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.774727,
+    46.809391,
+    -100.774727,
+    46.809391
+],
+  "geometry": {"coordinates":[-100.774727,46.809391],"type":"Point"}
+}

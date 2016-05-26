@@ -1,0 +1,71 @@
+{
+  "id": 873637823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.320138,48.258552,-101.320138,48.258552",
+    "geom:latitude":48.258552,
+    "geom:longitude":-101.320138,
+    "iso:country":"US",
+    "sg:address":"1415 21st Ave NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 1261",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uu7sv9KYqjSHFzNe7Kh2z_48.258552_-101.320138@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295453,
+    "wof:geomhash":"d3105f4f49c175a7f9f7cffcaa5c46ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873637823
+        }
+    ],
+    "wof:id":873637823,
+    "wof:lastmodified":1464295453,
+    "wof:name":"Feist Construction Inc",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.320138,
+    48.258552,
+    -101.320138,
+    48.258552
+],
+  "geometry": {"coordinates":[-101.320138,48.258552],"type":"Point"}
+}

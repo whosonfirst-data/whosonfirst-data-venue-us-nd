@@ -1,0 +1,74 @@
+{
+  "id": 873797617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.073515,47.889384,-97.073515,47.889384",
+    "geom:latitude":47.889384,
+    "geom:longitude":-97.073515,
+    "iso:country":"US",
+    "sg:address":"3151 32nd Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/grand-forks/190796-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 787 2435",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56mZcm6qEpZc4JPpUB1blH_47.889384_-97.073515@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297745,
+    "wof:geomhash":"d1fe6d2f00ef736fd04ca9663552f135",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873797617
+        }
+    ],
+    "wof:id":873797617,
+    "wof:lastmodified":1464297745,
+    "wof:name":"Burger King",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -97.073515,
+    47.889384,
+    -97.073515,
+    47.889384
+],
+  "geometry": {"coordinates":[-97.073515,47.889384],"type":"Point"}
+}

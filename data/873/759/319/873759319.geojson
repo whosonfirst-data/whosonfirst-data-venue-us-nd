@@ -1,0 +1,66 @@
+{
+  "id": 873759319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.772374,46.816483,-100.772374,46.816483",
+    "geom:latitude":46.816483,
+    "geom:longitude":-100.772374,
+    "iso:country":"US",
+    "sg:address":"1001 N 13th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 250 0717",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NpU1ceAsRaVSbAK5aBpDT_46.816483_-100.772374@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297198,
+    "wof:geomhash":"30ed8cc0efc2c9a895acc96e1dce5313",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873759319
+        }
+    ],
+    "wof:id":873759319,
+    "wof:lastmodified":1464297198,
+    "wof:name":"Hovden Gail Lisc Mssage Thrapy",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.772374,
+    46.816483,
+    -100.772374,
+    46.816483
+],
+  "geometry": {"coordinates":[-100.772374,46.816483],"type":"Point"}
+}

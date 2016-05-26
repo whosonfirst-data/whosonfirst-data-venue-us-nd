@@ -1,0 +1,80 @@
+{
+  "id": 873706237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.762728,46.799501,-100.762728,46.799501",
+    "geom:latitude":46.799501,
+    "geom:longitude":-100.762728,
+    "iso:country":"US",
+    "sg:address":"549 Airport Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 3535",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "medical",
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0T8cAvKzg2Kn6EwgJkrFQL_46.799501_-100.762728@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296472,
+    "wof:geomhash":"423161a8327978f28952905c2f5c8175",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873706237
+        }
+    ],
+    "wof:id":873706237,
+    "wof:lastmodified":1464296472,
+    "wof:name":"Custer Family Planning Center",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -100.762728,
+    46.799501,
+    -100.762728,
+    46.799501
+],
+  "geometry": {"coordinates":[-100.762728,46.799501],"type":"Point"}
+}

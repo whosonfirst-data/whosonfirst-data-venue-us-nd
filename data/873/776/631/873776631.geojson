@@ -1,0 +1,73 @@
+{
+  "id": 873776631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.066449,47.911235,-97.066449,47.911235",
+    "geom:latitude":47.911235,
+    "geom:longitude":-97.066449,
+    "iso:country":"US",
+    "sg:address":"1000 S Columbia Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 780 6731",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00MDUxnH17cppna7A3Jdj7_47.911235_-97.066449@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297445,
+    "wof:geomhash":"5481376fe4a1a4aa0d4e9bc5511f888b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873776631
+        }
+    ],
+    "wof:id":873776631,
+    "wof:lastmodified":1464297445,
+    "wof:name":"Altru's Bariatric Ctr",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -97.066449,
+    47.911235,
+    -97.066449,
+    47.911235
+],
+  "geometry": {"coordinates":[-97.06644900000001,47.911235],"type":"Point"}
+}

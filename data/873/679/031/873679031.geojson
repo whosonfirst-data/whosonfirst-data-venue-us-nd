@@ -1,0 +1,73 @@
+{
+  "id": 873679031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.064516,47.896645,-97.064516,47.896645",
+    "geom:latitude":47.896645,
+    "geom:longitude":-97.064516,
+    "iso:country":"US",
+    "sg:address":"2675 24th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 8631",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eBN6uCfKPnRn84zU5I99Y_47.896645_-97.064516@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295967,
+    "wof:geomhash":"2eabbfdcaa7570735b78013d9c71616d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873679031
+        }
+    ],
+    "wof:id":873679031,
+    "wof:lastmodified":1464295967,
+    "wof:name":"One Hour Martinizing",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -97.064516,
+    47.896645,
+    -97.064516,
+    47.896645
+],
+  "geometry": {"coordinates":[-97.064516,47.896645],"type":"Point"}
+}

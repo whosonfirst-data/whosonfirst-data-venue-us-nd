@@ -1,0 +1,75 @@
+{
+  "id": 873654073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.789315,46.890432,-96.789315,46.890432",
+    "geom:latitude":46.890432,
+    "geom:longitude":-96.789315,
+    "iso:country":"US",
+    "sg:address":"605 12th Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 6144",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534485,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zp0a4OC2Ax1kRPQ3y9pUc_46.890432_-96.789315@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295636,
+    "wof:geomhash":"62af928dfeedc5fcef8fe34b52a54eec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534485,
+            "region_id":85688525,
+            "venue_id":873654073
+        }
+    ],
+    "wof:id":873654073,
+    "wof:lastmodified":1464295636,
+    "wof:name":"Assignment Photography & Video",
+    "wof:parent_id":420534485,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -96.789315,
+    46.890432,
+    -96.789315,
+    46.890432
+],
+  "geometry": {"coordinates":[-96.789315,46.890432],"type":"Point"}
+}

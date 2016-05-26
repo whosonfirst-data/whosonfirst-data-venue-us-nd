@@ -1,0 +1,71 @@
+{
+  "id": 873553291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.326276,48.241227,-101.326276,48.241227",
+    "geom:latitude":48.241227,
+    "geom:longitude":-101.326276,
+    "iso:country":"US",
+    "sg:address":"437 22nd St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 5351",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "group"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PcGWfIIC3NtgSW9abQex7_48.241227_-101.326276@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294415,
+    "wof:geomhash":"f9ca25510b7df0eb0ffad007d0159d89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873553291
+        }
+    ],
+    "wof:id":873553291,
+    "wof:lastmodified":1464294415,
+    "wof:name":"Clown Lucky Lenny",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "group"
+    ]
+},
+  "bbox": [
+    -101.326276,
+    48.241227,
+    -101.326276,
+    48.241227
+],
+  "geometry": {"coordinates":[-101.32627599999999,48.241227],"type":"Point"}
+}

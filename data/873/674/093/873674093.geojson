@@ -1,0 +1,75 @@
+{
+  "id": 873674093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.066623,47.933077,-97.066623,47.933077",
+    "geom:latitude":47.933077,
+    "geom:longitude":-97.066623,
+    "iso:country":"US",
+    "sg:address":"2001 Gateway Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 4440",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automobile",
+        "stereo",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PHS1BHrTieRb3nA1z1avb_47.933077_-97.066623@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295844,
+    "wof:geomhash":"85f43ef8fe2b87b0f781ac27fb4d6662",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873674093
+        }
+    ],
+    "wof:id":873674093,
+    "wof:lastmodified":1464295844,
+    "wof:name":"Don's Stereo & TV Svc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "stereo",
+        "radio"
+    ]
+},
+  "bbox": [
+    -97.066623,
+    47.933077,
+    -97.066623,
+    47.933077
+],
+  "geometry": {"coordinates":[-97.06662300000001,47.933077],"type":"Point"}
+}

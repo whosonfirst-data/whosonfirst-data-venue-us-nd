@@ -1,0 +1,75 @@
+{
+  "id": 873601213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.854072,46.876163,-96.854072,46.876163",
+    "geom:latitude":46.876163,
+    "geom:longitude":-96.854072,
+    "iso:country":"US",
+    "sg:address":"4401 Main Ave",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 4407",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "building"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XyqdIqTt7dLTWDtjn2Lwj_46.876163_-96.854072@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295000,
+    "wof:geomhash":"afe930767bd1b6bf9d81741ce9a575bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873601213
+        }
+    ],
+    "wof:id":873601213,
+    "wof:lastmodified":1464295000,
+    "wof:name":"FTC Building Material Div",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building"
+    ]
+},
+  "bbox": [
+    -96.854072,
+    46.876163,
+    -96.854072,
+    46.876163
+],
+  "geometry": {"coordinates":[-96.854072,46.876163],"type":"Point"}
+}

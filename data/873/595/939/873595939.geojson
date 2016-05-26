@@ -1,0 +1,71 @@
+{
+  "id": 873595939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.023811,47.805327,-97.023811,47.805327",
+    "geom:latitude":47.805327,
+    "geom:longitude":-97.023811,
+    "iso:country":"US",
+    "sg:address":"918 9th St NE",
+    "sg:city":"Thompson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 599 2400",
+    "sg:postcode":"58278",
+    "sg:province":"ND",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HC1Fz78lVGZ271UD9yZzJ_47.805327_-97.023811@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294924,
+    "wof:geomhash":"67b105ca7a87e387bd0fb1de3e990ba1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873595939
+        }
+    ],
+    "wof:id":873595939,
+    "wof:lastmodified":1464294924,
+    "wof:name":"Tassles Night Club",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -97.023811,
+    47.805327,
+    -97.023811,
+    47.805327
+],
+  "geometry": {"coordinates":[-97.02381099999999,47.805327],"type":"Point"}
+}

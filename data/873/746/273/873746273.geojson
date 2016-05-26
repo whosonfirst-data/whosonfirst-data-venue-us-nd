@@ -1,0 +1,71 @@
+{
+  "id": 873746273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.784639,46.808393,-100.784639,46.808393",
+    "geom:latitude":46.808393,
+    "geom:longitude":-100.784639,
+    "iso:country":"US",
+    "sg:address":"316 N 5th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 328 9700",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "parole"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CHHz3QkXaWMi1Z1HA9Z0v_46.808393_-100.784639@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297029,
+    "wof:geomhash":"716639bbef46f1e86db90230c52ec1e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873746273
+        }
+    ],
+    "wof:id":873746273,
+    "wof:lastmodified":1464297029,
+    "wof:name":"Bismarck District Office",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parole"
+    ]
+},
+  "bbox": [
+    -100.784639,
+    46.808393,
+    -100.784639,
+    46.808393
+],
+  "geometry": {"coordinates":[-100.784639,46.808393],"type":"Point"}
+}

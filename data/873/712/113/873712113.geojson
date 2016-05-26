@@ -1,0 +1,71 @@
+{
+  "id": 873712113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.346244,47.935134,-97.346244,47.935134",
+    "geom:latitude":47.935134,
+    "geom:longitude":-97.346244,
+    "iso:country":"US",
+    "sg:address":"1811 24th St NE",
+    "sg:city":"Emerado",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 594 9727",
+    "sg:postcode":"58228",
+    "sg:province":"ND",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49u0qrEaBkPiNiUShaxJqn_47.935134_-97.346244@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296546,
+    "wof:geomhash":"7df64379a2143eac161068678967e0dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873712113
+        }
+    ],
+    "wof:id":873712113,
+    "wof:lastmodified":1464296546,
+    "wof:name":"J & G Garden Ctr",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -97.346244,
+    47.935134,
+    -97.346244,
+    47.935134
+],
+  "geometry": {"coordinates":[-97.346244,47.935134],"type":"Point"}
+}

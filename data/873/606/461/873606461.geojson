@@ -1,0 +1,67 @@
+{
+  "id": 873606461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.045584,47.902651,-97.045584,47.902651",
+    "geom:latitude":47.902651,
+    "geom:longitude":-97.045584,
+    "iso:country":"US",
+    "sg:address":"1826 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 738 0455",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:website":"www.acehardware.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26dFpGOznYptXEqoA8KbCZ_47.902651_-97.045584@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295064,
+    "wof:geomhash":"150b8e06dbebdd64ab99334f0cf04b04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873606461
+        }
+    ],
+    "wof:id":873606461,
+    "wof:lastmodified":1464295064,
+    "wof:name":"Ace Hardware",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.045584,
+    47.902651,
+    -97.045584,
+    47.902651
+],
+  "geometry": {"coordinates":[-97.04558400000001,47.902651],"type":"Point"}
+}

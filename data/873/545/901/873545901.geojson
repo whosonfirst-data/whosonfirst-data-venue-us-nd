@@ -1,0 +1,75 @@
+{
+  "id": 873545901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.181959,48.225578,-101.181959,48.225578",
+    "geom:latitude":48.225578,
+    "geom:longitude":-101.181959,
+    "iso:country":"US",
+    "sg:address":"7300 11th Ave SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 5389",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "mobile",
+        "home",
+        "site"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PpZPKfLhi17CQBem6sMBv_48.225578_-101.181959@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294327,
+    "wof:geomhash":"e16bc29db0b0e578275fdf8161dcc95d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873545901
+        }
+    ],
+    "wof:id":873545901,
+    "wof:lastmodified":1464294327,
+    "wof:name":"Country Acres Mobile Home Park",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home",
+        "site"
+    ]
+},
+  "bbox": [
+    -101.181959,
+    48.225578,
+    -101.181959,
+    48.225578
+],
+  "geometry": {"coordinates":[-101.18195900000001,48.225578],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873709791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.840752,46.888391,-96.840752,46.888391",
+    "geom:latitude":46.888391,
+    "geom:longitude":-96.840752,
+    "iso:country":"US",
+    "sg:address":"1106 38th St NW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 298 6464",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "vitamin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XCMdsf3Awyag3tPFNwXpc_46.888391_-96.840752@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296519,
+    "wof:geomhash":"1ac29f95307d9e0246030bffa2904ecf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873709791
+        }
+    ],
+    "wof:id":873709791,
+    "wof:lastmodified":1464296519,
+    "wof:name":"Sky Supplements",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vitamin"
+    ]
+},
+  "bbox": [
+    -96.840752,
+    46.888391,
+    -96.840752,
+    46.888391
+],
+  "geometry": {"coordinates":[-96.84075199999999,46.888391],"type":"Point"}
+}

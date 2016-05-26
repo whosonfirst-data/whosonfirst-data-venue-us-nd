@@ -1,0 +1,70 @@
+{
+  "id": 873705495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-102.788401,46.880157,-102.788401,46.880157",
+    "geom:latitude":46.880157,
+    "geom:longitude":-102.788401,
+    "iso:country":"US",
+    "sg:address":"119 2nd Ave W",
+    "sg:city":"Dickinson",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 225 5133",
+    "sg:postcode":"58601",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877119,
+        102191575,
+        404482179,
+        85633793,
+        85982521,
+        102082105,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RDV29Mat313ewdHpNol9K_46.880157_-102.788401@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296464,
+    "wof:geomhash":"63fb42f9f286cec9edb712b069ccac30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082105,
+            "localadmin_id":404482179,
+            "locality_id":85982521,
+            "neighbourhood_id":85877119,
+            "region_id":85688525,
+            "venue_id":873705495
+        }
+    ],
+    "wof:id":873705495,
+    "wof:lastmodified":1464296464,
+    "wof:name":"Kdix Radio",
+    "wof:parent_id":85877119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -102.788401,
+    46.880157,
+    -102.788401,
+    46.880157
+],
+  "geometry": {"coordinates":[-102.78840099999999,46.880157],"type":"Point"}
+}

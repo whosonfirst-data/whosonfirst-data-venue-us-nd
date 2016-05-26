@@ -1,0 +1,71 @@
+{
+  "id": 873608969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.038668,47.878923,-97.038668,47.878923",
+    "geom:latitude":47.878923,
+    "geom:longitude":-97.038668,
+    "iso:country":"US",
+    "sg:address":"731 Central Plains Ct",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 780 8858",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6irbtwvWYLmxDV5qLLGY35_47.878923_-97.038668@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295123,
+    "wof:geomhash":"db3e077be2a1966e96398251491e8584",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873608969
+        }
+    ],
+    "wof:id":873608969,
+    "wof:lastmodified":1464295123,
+    "wof:name":"Tint Shop",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -97.038668,
+    47.878923,
+    -97.038668,
+    47.878923
+],
+  "geometry": {"coordinates":[-97.038668,47.878923],"type":"Point"}
+}

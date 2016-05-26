@@ -1,0 +1,77 @@
+{
+  "id": 873678431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.798965,46.839337,-96.798965,46.839337",
+    "geom:latitude":46.839337,
+    "geom:longitude":-96.798965,
+    "iso:country":"US",
+    "sg:address":"2627 S University Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 298 6101",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "return",
+        "filing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534475,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BYQ8JowBlf5tpBna8A4Wp_46.839337_-96.798965@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295952,
+    "wof:geomhash":"c0ff6f9fa32618c2cd723d7158c14c06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534475,
+            "region_id":85688525,
+            "venue_id":873678431
+        }
+    ],
+    "wof:id":873678431,
+    "wof:lastmodified":1464295952,
+    "wof:name":"Liberty Income Tax",
+    "wof:parent_id":420534475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return",
+        "filing"
+    ]
+},
+  "bbox": [
+    -96.798965,
+    46.839337,
+    -96.798965,
+    46.839337
+],
+  "geometry": {"coordinates":[-96.798965,46.839337],"type":"Point"}
+}

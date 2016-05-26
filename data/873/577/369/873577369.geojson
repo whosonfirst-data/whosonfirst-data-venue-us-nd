@@ -1,0 +1,66 @@
+{
+  "id": 873577369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.08151,47.88953,-97.08151,47.88953",
+    "geom:latitude":47.88953,
+    "geom:longitude":-97.08151,
+    "iso:country":"US",
+    "sg:address":"3750 32nd Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 3421",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Sr6ZPfQOKXAgmQ8Thq3KE_47.889530_-97.081510@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294687,
+    "wof:geomhash":"aa62d3e8b09ae6dd88455c3a25762a2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873577369
+        }
+    ],
+    "wof:id":873577369,
+    "wof:lastmodified":1464294687,
+    "wof:name":"Kon Nechi Wa's",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.08151,
+    47.88953,
+    -97.08151,
+    47.88953
+],
+  "geometry": {"coordinates":[-97.08150999999999,47.88953],"type":"Point"}
+}

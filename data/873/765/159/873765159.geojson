@@ -1,0 +1,66 @@
+{
+  "id": 873765159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.814336,48.341734,-101.814336,48.341734",
+    "geom:latitude":48.341734,
+    "geom:longitude":-101.814336,
+    "iso:country":"US",
+    "sg:address":"10304 338th St NW",
+    "sg:city":"Berthold",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 453 3480",
+    "sg:postcode":"58718",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QKEj8ODmLd5Dtrgc7DJcU_48.341734_-101.814336@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297298,
+    "wof:geomhash":"eeb8fb16784ce165f2b82fe251c3d259",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873765159
+        }
+    ],
+    "wof:id":873765159,
+    "wof:lastmodified":1464297298,
+    "wof:name":"Lee Farm Shop",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.814336,
+    48.341734,
+    -101.814336,
+    48.341734
+],
+  "geometry": {"coordinates":[-101.814336,48.341734],"type":"Point"}
+}

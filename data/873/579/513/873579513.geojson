@@ -1,0 +1,71 @@
+{
+  "id": 873579513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.292862,48.2345,-101.292862,48.2345",
+    "geom:latitude":48.2345,
+    "geom:longitude":-101.292862,
+    "iso:country":"US",
+    "sg:address":"17 2nd Ave SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 858 1926",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Jl6ZFQY11BmMAGwh9OUNZ_48.234500_-101.292862@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294712,
+    "wof:geomhash":"5801ddde2d2a06a1f75e1b23ddbbc3fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873579513
+        }
+    ],
+    "wof:id":873579513,
+    "wof:lastmodified":1464294712,
+    "wof:name":"That's It",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -101.292862,
+    48.2345,
+    -101.292862,
+    48.2345
+],
+  "geometry": {"coordinates":[-101.292862,48.2345],"type":"Point"}
+}

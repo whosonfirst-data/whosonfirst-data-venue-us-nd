@@ -1,0 +1,77 @@
+{
+  "id": 873673907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.295942,48.236381,-101.295942,48.236381",
+    "geom:latitude":48.236381,
+    "geom:longitude":-101.295942,
+    "iso:country":"US",
+    "sg:address":"109 Central Ave W",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 0451",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repair",
+        "vacuum",
+        "electrical",
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lfS32xF6GO0uADjpCNME6_48.236381_-101.295942@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295840,
+    "wof:geomhash":"83596772e35fa7a3f83b44992ed624bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873673907
+        }
+    ],
+    "wof:id":873673907,
+    "wof:lastmodified":1464295840,
+    "wof:name":"Kirby Precision Vacuum Service",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "vacuum",
+        "electrical",
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -101.295942,
+    48.236381,
+    -101.295942,
+    48.236381
+],
+  "geometry": {"coordinates":[-101.295942,48.236381],"type":"Point"}
+}

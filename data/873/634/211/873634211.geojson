@@ -1,0 +1,66 @@
+{
+  "id": 873634211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.295977,48.241104,-101.295977,48.241104",
+    "geom:latitude":48.241104,
+    "geom:longitude":-101.295977,
+    "iso:country":"US",
+    "sg:address":"712 N Broadway",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 3265",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TMHyRBfA7QaOy1rNT3LbO_48.241104_-101.295977@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295415,
+    "wof:geomhash":"0c1adde2901d84eb4ca8f234cbc38092",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873634211
+        }
+    ],
+    "wof:id":873634211,
+    "wof:lastmodified":1464295415,
+    "wof:name":"Dave's Barber Shop",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.295977,
+    48.241104,
+    -101.295977,
+    48.241104
+],
+  "geometry": {"coordinates":[-101.29597699999999,48.241104],"type":"Point"}
+}

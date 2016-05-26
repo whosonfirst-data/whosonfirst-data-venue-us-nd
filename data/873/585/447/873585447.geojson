@@ -1,0 +1,74 @@
+{
+  "id": 873585447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.073785,47.960458,-97.073785,47.960458",
+    "geom:latitude":47.960458,
+    "geom:longitude":-97.073785,
+    "iso:country":"US",
+    "sg:address":"3473 N Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 9511",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "fabricator",
+        "sheet"
+    ],
+    "sg:website":"www.mcfarlanesheetmetal.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0h5n5v7Wu5rjFv0OHH0YM2_47.960458_-97.073785@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294778,
+    "wof:geomhash":"25a98ee9f25896e8ac450ee9b7e8a718",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873585447
+        }
+    ],
+    "wof:id":873585447,
+    "wof:lastmodified":1464294778,
+    "wof:name":"Mc Farlane Sheet Metal",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fabricator",
+        "sheet"
+    ]
+},
+  "bbox": [
+    -97.073785,
+    47.960458,
+    -97.073785,
+    47.960458
+],
+  "geometry": {"coordinates":[-97.073785,47.960458],"type":"Point"}
+}

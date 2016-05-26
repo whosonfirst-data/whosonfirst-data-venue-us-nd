@@ -1,0 +1,73 @@
+{
+  "id": 873769039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.290529,48.196631,-101.290529,48.196631",
+    "geom:latitude":48.196631,
+    "geom:longitude":-101.290529,
+    "iso:country":"US",
+    "sg:address":"605 37th Ave SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 4524",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tCDzXQ7e9MXNiQazCAv6I_48.196631_-101.290529@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297351,
+    "wof:geomhash":"de47f6e4048aa4fed4598e99624b4750",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873769039
+        }
+    ],
+    "wof:id":873769039,
+    "wof:lastmodified":1464297351,
+    "wof:name":"Coughlin Construction Shop",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.290529,
+    48.196631,
+    -101.290529,
+    48.196631
+],
+  "geometry": {"coordinates":[-101.29052900000001,48.196631],"type":"Point"}
+}

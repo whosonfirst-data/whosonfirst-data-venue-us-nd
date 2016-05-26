@@ -1,0 +1,71 @@
+{
+  "id": 873692175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.622911,47.755387,-97.622911,47.755387",
+    "geom:latitude":47.755387,
+    "geom:longitude":-97.622911,
+    "iso:country":"US",
+    "sg:address":"568 37th St NE",
+    "sg:city":"Northwood",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 587 5373",
+    "sg:postcode":"58267",
+    "sg:province":"ND",
+    "sg:tags":[
+        "course"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yfNnbZrSgAqEWH72kw6bw_47.755387_-97.622911@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296318,
+    "wof:geomhash":"67822b7bb701e30508bd325db506b853",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873692175
+        }
+    ],
+    "wof:id":873692175,
+    "wof:lastmodified":1464296318,
+    "wof:name":"Northwood Golf Course",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course"
+    ]
+},
+  "bbox": [
+    -97.622911,
+    47.755387,
+    -97.622911,
+    47.755387
+],
+  "geometry": {"coordinates":[-97.622911,47.755387],"type":"Point"}
+}

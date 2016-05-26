@@ -1,0 +1,73 @@
+{
+  "id": 873545615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.771612,46.790322,-100.771612,46.790322",
+    "geom:latitude":46.790322,
+    "geom:longitude":-100.771612,
+    "iso:country":"US",
+    "sg:address":"1309 Park Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 9246",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "food",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Q6BPaQzlED4s2vObek8sC_46.790322_-100.771612@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294323,
+    "wof:geomhash":"39dfc1f41811d546bb0544e12f7a9fa7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873545615
+        }
+    ],
+    "wof:id":873545615,
+    "wof:lastmodified":1464294323,
+    "wof:name":"Tucker Sales Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "broker"
+    ]
+},
+  "bbox": [
+    -100.771612,
+    46.790322,
+    -100.771612,
+    46.790322
+],
+  "geometry": {"coordinates":[-100.771612,46.790322],"type":"Point"}
+}

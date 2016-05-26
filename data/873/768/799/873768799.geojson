@@ -1,0 +1,79 @@
+{
+  "id": 873768799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.821332,46.889542,-96.821332,46.889542",
+    "geom:latitude":46.889542,
+    "geom:longitude":-96.821332,
+    "iso:country":"US",
+    "sg:address":"1122 26th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 298 6875",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "fund",
+        "promotion",
+        "raising"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877363,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31xdmxHKgFjGJUr357ShBi_46.889542_-96.821332@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297347,
+    "wof:geomhash":"173cc5f2dfe007a3593e0f75041d3820",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877363,
+            "region_id":85688525,
+            "venue_id":873768799
+        }
+    ],
+    "wof:id":873768799,
+    "wof:lastmodified":1464297347,
+    "wof:name":"Music Underground",
+    "wof:parent_id":85877363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fund",
+        "promotion",
+        "raising"
+    ]
+},
+  "bbox": [
+    -96.821332,
+    46.889542,
+    -96.821332,
+    46.889542
+],
+  "geometry": {"coordinates":[-96.821332,46.889542],"type":"Point"}
+}

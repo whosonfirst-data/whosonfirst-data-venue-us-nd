@@ -1,0 +1,77 @@
+{
+  "id": 873556703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.03749,47.929095,-97.03749,47.929095",
+    "geom:latitude":47.929095,
+    "geom:longitude":-97.03749,
+    "iso:country":"US",
+    "sg:address":"519 N 3rd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 4073",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Uq3LQursScvAX5GRqG3nq_47.929095_-97.037490@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294456,
+    "wof:geomhash":"593337d3131a71e4593ac32993808510",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873556703
+        }
+    ],
+    "wof:id":873556703,
+    "wof:lastmodified":1464294456,
+    "wof:name":"Quality Drain & Sewer Svc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ]
+},
+  "bbox": [
+    -97.03749,
+    47.929095,
+    -97.03749,
+    47.929095
+],
+  "geometry": {"coordinates":[-97.03749000000001,47.929095],"type":"Point"}
+}

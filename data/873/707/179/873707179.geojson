@@ -1,0 +1,76 @@
+{
+  "id": 873707179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.795715,46.810569,-100.795715,46.810569",
+    "geom:latitude":46.810569,
+    "geom:longitude":-100.795715,
+    "iso:country":"US",
+    "sg:address":"519 Raymond St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 1033",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.cathedralparish.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FkbYG0espjts2YFEiVvmd_46.810569_-100.795715@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296485,
+    "wof:geomhash":"9e705794cc4c72e2b7e623e6768321bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873707179
+        }
+    ],
+    "wof:id":873707179,
+    "wof:lastmodified":1464296485,
+    "wof:name":"Cathedral Of The Holy Spirit",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -100.795715,
+    46.810569,
+    -100.795715,
+    46.810569
+],
+  "geometry": {"coordinates":[-100.795715,46.810569],"type":"Point"}
+}

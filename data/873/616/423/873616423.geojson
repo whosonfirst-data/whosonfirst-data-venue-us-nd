@@ -1,0 +1,73 @@
+{
+  "id": 873616423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.707764,46.794617,-100.707764,46.794617",
+    "geom:latitude":46.794617,
+    "geom:longitude":-100.707764,
+    "iso:country":"US",
+    "sg:address":"5450 Apple Creek Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 7622",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "sewing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lMb2kGBSHESOVSEsKaSSz_46.794617_-100.707764@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295209,
+    "wof:geomhash":"5c907137cb1e4c123be06419905efe73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873616423
+        }
+    ],
+    "wof:id":873616423,
+    "wof:lastmodified":1464295209,
+    "wof:name":"Jen & Daughter's Creative Swng",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sewing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.707764,
+    46.794617,
+    -100.707764,
+    46.794617
+],
+  "geometry": {"coordinates":[-100.707764,46.794617],"type":"Point"}
+}

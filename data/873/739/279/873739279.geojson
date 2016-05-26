@@ -1,0 +1,75 @@
+{
+  "id": 873739279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.819588,46.880497,-96.819588,46.880497",
+    "geom:latitude":46.880497,
+    "geom:longitude":-96.819588,
+    "iso:country":"US",
+    "sg:address":"402 25th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 298 8369",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UbLroOibcLFL5K0cmUyPX_46.880497_-96.819588@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296911,
+    "wof:geomhash":"ae00f191ef62acf28f3f2fc54c262433",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873739279
+        }
+    ],
+    "wof:id":873739279,
+    "wof:lastmodified":1464296911,
+    "wof:name":"Ryder",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -96.819588,
+    46.880497,
+    -96.819588,
+    46.880497
+],
+  "geometry": {"coordinates":[-96.819588,46.880497],"type":"Point"}
+}

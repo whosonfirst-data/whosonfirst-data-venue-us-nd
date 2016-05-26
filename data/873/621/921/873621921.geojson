@@ -1,0 +1,77 @@
+{
+  "id": 873621921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.220403,48.197309,-101.220403,48.197309",
+    "geom:latitude":48.197309,
+    "geom:longitude":-101.220403,
+    "iso:country":"US",
+    "sg:address":"3121 50th St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 837 8851",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "resurfacing",
+        "laying",
+        "refinishing",
+        "floor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SM1Cnd7iWkCDHJXVUqnLH_48.197309_-101.220403@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295270,
+    "wof:geomhash":"3d31c8a0fcd1a1e2eea83947c3e90ada",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873621921
+        }
+    ],
+    "wof:id":873621921,
+    "wof:lastmodified":1464295270,
+    "wof:name":"300 Inc",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resurfacing",
+        "laying",
+        "refinishing",
+        "floor"
+    ]
+},
+  "bbox": [
+    -101.220403,
+    48.197309,
+    -101.220403,
+    48.197309
+],
+  "geometry": {"coordinates":[-101.220403,48.197309],"type":"Point"}
+}

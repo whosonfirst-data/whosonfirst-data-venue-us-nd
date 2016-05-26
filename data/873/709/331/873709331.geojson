@@ -1,0 +1,71 @@
+{
+  "id": 873709331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.697086,46.764263,-100.697086,46.764263",
+    "geom:latitude":46.764263,
+    "geom:longitude":-100.697086,
+    "iso:country":"US",
+    "sg:address":"53 Carlin Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 4297",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TZvWuYXzCk91jTHBQqx0T_46.764263_-100.697086@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296511,
+    "wof:geomhash":"f75c378ade0825993471da0ec1b59925",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873709331
+        }
+    ],
+    "wof:id":873709331,
+    "wof:lastmodified":1464296511,
+    "wof:name":"Troms Family Day Care",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -100.697086,
+    46.764263,
+    -100.697086,
+    46.764263
+],
+  "geometry": {"coordinates":[-100.697086,46.764263],"type":"Point"}
+}

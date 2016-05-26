@@ -1,0 +1,67 @@
+{
+  "id": 873791171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.644052,48.123944,-97.644052,48.123944",
+    "geom:latitude":48.123944,
+    "geom:longitude":-97.644052,
+    "iso:country":"US",
+    "sg:address":"3111 38th St NE",
+    "sg:city":"Inkster",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 865 4149",
+    "sg:postcode":"58244",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "wheat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qhA8cy2oxPQ2gxCsRPENJ_48.123944_-97.644052@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297655,
+    "wof:geomhash":"c66464c38cb467b96b06f1db576ffb1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873791171
+        }
+    ],
+    "wof:id":873791171,
+    "wof:lastmodified":1464297655,
+    "wof:name":"Brad Becker",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "wheat"
+    ]
+},
+  "bbox": [
+    -97.644052,
+    48.123944,
+    -97.644052,
+    48.123944
+],
+  "geometry": {"coordinates":[-97.644052,48.123944],"type":"Point"}
+}

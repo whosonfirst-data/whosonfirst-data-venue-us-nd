@@ -1,0 +1,70 @@
+{
+  "id": 873721619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.806428,46.890295,-96.806428,46.890295",
+    "geom:latitude":46.890295,
+    "geom:longitude":-96.806428,
+    "iso:country":"US",
+    "sg:address":"1616 12th Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 218 299 7840",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877363,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZlM8p15ch5SFh1oLCMfCg_46.890295_-96.806428@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296670,
+    "wof:geomhash":"7bf34e5687d248adaa8e7c8d7e75d648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877363,
+            "region_id":85688525,
+            "venue_id":873721619
+        }
+    ],
+    "wof:id":873721619,
+    "wof:lastmodified":1464296670,
+    "wof:name":"Moorhead Transitional Housing",
+    "wof:parent_id":85877363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.806428,
+    46.890295,
+    -96.806428,
+    46.890295
+],
+  "geometry": {"coordinates":[-96.806428,46.890295],"type":"Point"}
+}

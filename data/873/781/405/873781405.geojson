@@ -1,0 +1,66 @@
+{
+  "id": 873781405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.303507,48.207245,-101.303507,48.207245",
+    "geom:latitude":48.207245,
+    "geom:longitude":-101.303507,
+    "iso:country":"US",
+    "sg:address":"800 24th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 0915",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ttENiN6O8mxPWcnZPhUYE_48.207245_-101.303507@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297509,
+    "wof:geomhash":"e80790bbb7bac9000acbee591cf4a0f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873781405
+        }
+    ],
+    "wof:id":873781405,
+    "wof:lastmodified":1464297509,
+    "wof:name":"Dakota Missionary Evangelism",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.303507,
+    48.207245,
+    -101.303507,
+    48.207245
+],
+  "geometry": {"coordinates":[-101.303507,48.207245],"type":"Point"}
+}

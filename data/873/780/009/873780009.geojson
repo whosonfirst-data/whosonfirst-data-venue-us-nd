@@ -1,0 +1,73 @@
+{
+  "id": 873780009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.783023,46.784161,-100.783023,46.784161",
+    "geom:latitude":46.784161,
+    "geom:longitude":-100.783023,
+    "iso:country":"US",
+    "sg:address":"618 E Wachter Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 6676",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QSXlin7j0H9nS1YATio2f_46.784161_-100.783023@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297493,
+    "wof:geomhash":"41bcc1d919960ceb94766c08a04cbdb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873780009
+        }
+    ],
+    "wof:id":873780009,
+    "wof:lastmodified":1464297493,
+    "wof:name":"Deloris Schmidts Painting",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.783023,
+    46.784161,
+    -100.783023,
+    46.784161
+],
+  "geometry": {"coordinates":[-100.783023,46.784161],"type":"Point"}
+}

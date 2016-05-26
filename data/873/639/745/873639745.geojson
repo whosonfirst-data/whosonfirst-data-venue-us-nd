@@ -1,0 +1,73 @@
+{
+  "id": 873639745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.76376,46.838131,-100.76376,46.838131",
+    "geom:latitude":46.838131,
+    "geom:longitude":-100.76376,
+    "iso:country":"US",
+    "sg:address":"1830 E Century Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 250 5100",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "communications",
+        "telephone"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AeHPaMMC3hXL2IKpVHT5f_46.838131_-100.763760@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295470,
+    "wof:geomhash":"e863dcc040325497b52142156f1b6850",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873639745
+        }
+    ],
+    "wof:id":873639745,
+    "wof:lastmodified":1464295470,
+    "wof:name":"Warehouse Intellect",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications",
+        "telephone"
+    ]
+},
+  "bbox": [
+    -100.76376,
+    46.838131,
+    -100.76376,
+    46.838131
+],
+  "geometry": {"coordinates":[-100.76376,46.838131],"type":"Point"}
+}

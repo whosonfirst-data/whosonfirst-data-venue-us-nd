@@ -1,0 +1,66 @@
+{
+  "id": 873541749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.053575,47.901033,-97.053575,47.901033",
+    "geom:latitude":47.901033,
+    "geom:longitude":-97.053575,
+    "iso:country":"US",
+    "sg:address":"1712 Drees Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 1509",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18bdz9m1hNNgUVyXAemF7o_47.901033_-97.053575@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294278,
+    "wof:geomhash":"e3f99945172eb0ae30693f19d244d9ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873541749
+        }
+    ],
+    "wof:id":873541749,
+    "wof:lastmodified":1464294278,
+    "wof:name":"Cariveau Consulting Services",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.053575,
+    47.901033,
+    -97.053575,
+    47.901033
+],
+  "geometry": {"coordinates":[-97.053575,47.901033],"type":"Point"}
+}

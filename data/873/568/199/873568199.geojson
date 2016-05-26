@@ -1,0 +1,75 @@
+{
+  "id": 873568199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.296083,48.037372,-101.296083,48.037372",
+    "geom:latitude":48.037372,
+    "geom:longitude":-101.296083,
+    "iso:country":"US",
+    "sg:address":"19700 US Hwy 83",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 722 3394",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Z7HI3iQ0GPb2xNAymHvVq_48.037372_-101.296083@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294588,
+    "wof:geomhash":"a32f3f6db22c0673ffc30407127322ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873568199
+        }
+    ],
+    "wof:id":873568199,
+    "wof:lastmodified":1464294588,
+    "wof:name":"MPK Trucking",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -101.296083,
+    48.037372,
+    -101.296083,
+    48.037372
+],
+  "geometry": {"coordinates":[-101.296083,48.037372],"type":"Point"}
+}

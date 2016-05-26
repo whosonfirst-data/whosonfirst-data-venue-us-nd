@@ -1,0 +1,66 @@
+{
+  "id": 873605307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.673308,46.783008,-100.673308,46.783008",
+    "geom:latitude":46.783008,
+    "geom:longitude":-100.673308,
+    "iso:country":"US",
+    "sg:address":"2000 Maple Ln",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 1674",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EvmmXSXW5oBK48viutVCS_46.783008_-100.673308@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295044,
+    "wof:geomhash":"3b1a0e325385ddc7a8591e297dfc20e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873605307
+        }
+    ],
+    "wof:id":873605307,
+    "wof:lastmodified":1464295044,
+    "wof:name":"Staloch Enterprises",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.673308,
+    46.783008,
+    -100.673308,
+    46.783008
+],
+  "geometry": {"coordinates":[-100.67330800000001,46.783008],"type":"Point"}
+}

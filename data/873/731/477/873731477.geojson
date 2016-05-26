@@ -1,0 +1,75 @@
+{
+  "id": 873731477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.862632,46.850903,-96.862632,46.850903",
+    "geom:latitude":46.850903,
+    "geom:longitude":-96.862632,
+    "iso:country":"US",
+    "sg:address":"4520 19th Ave SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 277 8321",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Z0I5MN6XScwYHkH7toO9o_46.850903_-96.862632@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296798,
+    "wof:geomhash":"ab97cdb47a41a82f7862fe8ee2cc148f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873731477
+        }
+    ],
+    "wof:id":873731477,
+    "wof:lastmodified":1464296798,
+    "wof:name":"Bellerud Trucking & Transport",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.862632,
+    46.850903,
+    -96.862632,
+    46.850903
+],
+  "geometry": {"coordinates":[-96.862632,46.850903],"type":"Point"}
+}

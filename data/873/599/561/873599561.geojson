@@ -1,0 +1,73 @@
+{
+  "id": 873599561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.072224,47.925502,-97.072224,47.925502",
+    "geom:latitude":47.925502,
+    "geom:longitude":-97.072224,
+    "iso:country":"US",
+    "sg:address":"515 Harvard St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 777 2011",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "sorority",
+        "fraternity"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YtcyMATeo2CJxJxtz1osN_47.925502_-97.072224@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294983,
+    "wof:geomhash":"c8fd308a182edc49b196ab91defeeb7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873599561
+        }
+    ],
+    "wof:id":873599561,
+    "wof:lastmodified":1464294983,
+    "wof:name":"Lambda Chi Alpha",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sorority",
+        "fraternity"
+    ]
+},
+  "bbox": [
+    -97.072224,
+    47.925502,
+    -97.072224,
+    47.925502
+],
+  "geometry": {"coordinates":[-97.07222400000001,47.925502],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873537141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.252909,48.208674,-101.252909,48.208674",
+    "geom:latitude":48.208674,
+    "geom:longitude":-101.252909,
+    "iso:country":"US",
+    "sg:address":"2324 27th St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 837 7991",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VWS5VXadJ2RcXO3eWL8iP_48.208674_-101.252909@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294230,
+    "wof:geomhash":"24767afeb9984f852163f53f0c393169",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873537141
+        }
+    ],
+    "wof:id":873537141,
+    "wof:lastmodified":1464294230,
+    "wof:name":"Power Heavy Equipment Parts",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.252909,
+    48.208674,
+    -101.252909,
+    48.208674
+],
+  "geometry": {"coordinates":[-101.252909,48.208674],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 873714341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.830086,46.861718,-96.830086,46.861718",
+    "geom:latitude":46.861718,
+    "geom:longitude":-96.830086,
+    "iso:country":"US",
+    "sg:address":"3011 13th Ave SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 280 0339",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BxceUrRyHgbMIEffRlVVS_46.861718_-96.830086@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296574,
+    "wof:geomhash":"6ad158c188514c3b4be8b16de896ab04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873714341
+        }
+    ],
+    "wof:id":873714341,
+    "wof:lastmodified":1464296574,
+    "wof:name":"Maytag Laundry On 13th",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -96.830086,
+    46.861718,
+    -96.830086,
+    46.861718
+],
+  "geometry": {"coordinates":[-96.83008599999999,46.861718],"type":"Point"}
+}

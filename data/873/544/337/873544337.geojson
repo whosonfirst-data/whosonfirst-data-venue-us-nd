@@ -1,0 +1,73 @@
+{
+  "id": 873544337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.778709,46.799234,-100.778709,46.799234",
+    "geom:latitude":46.799234,
+    "geom:longitude":-100.778709,
+    "iso:country":"US",
+    "sg:address":"600 S 9th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 8150",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "mobile",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Xv4pIoFoMPk0bpKYBtnbD_46.799234_-100.778709@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294310,
+    "wof:geomhash":"4f41b16daad342f1680d806b7c8a7e93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873544337
+        }
+    ],
+    "wof:id":873544337,
+    "wof:lastmodified":1464294310,
+    "wof:name":"Holiday Park Inc",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home"
+    ]
+},
+  "bbox": [
+    -100.778709,
+    46.799234,
+    -100.778709,
+    46.799234
+],
+  "geometry": {"coordinates":[-100.77870900000001,46.799234],"type":"Point"}
+}

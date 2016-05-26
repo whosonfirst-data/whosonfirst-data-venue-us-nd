@@ -1,0 +1,70 @@
+{
+  "id": 873724737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.825575,46.887935,-96.825575,46.887935",
+    "geom:latitude":46.887935,
+    "geom:longitude":-96.825575,
+    "iso:country":"US",
+    "sg:address":"1040 29th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 446 5156",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZEtDHSsmfQYypMPIM6pHk_46.887935_-96.825575@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296709,
+    "wof:geomhash":"26ed535ee3506b3b0f65937a6d70ff34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873724737
+        }
+    ],
+    "wof:id":873724737,
+    "wof:lastmodified":1464296709,
+    "wof:name":"Fargo Public Sch Dist No 1",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.825575,
+    46.887935,
+    -96.825575,
+    46.887935
+],
+  "geometry": {"coordinates":[-96.825575,46.887935],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873696259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.843199,46.860716,-96.843199,46.860716",
+    "geom:latitude":46.860716,
+    "geom:longitude":-96.843199,
+    "iso:country":"US",
+    "sg:address":"1417 38th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 373 0636",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "periodical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RFPKGVZ8wDhDAtpDfCqnm_46.860716_-96.843199@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296368,
+    "wof:geomhash":"930b15a4c00993f158c6874fe2ff2ac3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873696259
+        }
+    ],
+    "wof:id":873696259,
+    "wof:lastmodified":1464296368,
+    "wof:name":"Bryan & Bryan Inc",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "periodical"
+    ]
+},
+  "bbox": [
+    -96.843199,
+    46.860716,
+    -96.843199,
+    46.860716
+],
+  "geometry": {"coordinates":[-96.843199,46.860716],"type":"Point"}
+}

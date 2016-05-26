@@ -1,0 +1,71 @@
+{
+  "id": 873539059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.773691,46.81635,-100.773691,46.81635",
+    "geom:latitude":46.81635,
+    "geom:longitude":-100.773691,
+    "iso:country":"US",
+    "sg:address":"1011 N 12th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 5679",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aTPfDQ4QF70qsuLbTBKDv_46.816350_-100.773691@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294250,
+    "wof:geomhash":"a972614789f941170b01e346be6a501c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873539059
+        }
+    ],
+    "wof:id":873539059,
+    "wof:lastmodified":1464294250,
+    "wof:name":"Diamond Limousine",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine"
+    ]
+},
+  "bbox": [
+    -100.773691,
+    46.81635,
+    -100.773691,
+    46.81635
+],
+  "geometry": {"coordinates":[-100.773691,46.81635],"type":"Point"}
+}

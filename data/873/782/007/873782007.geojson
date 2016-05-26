@@ -1,0 +1,73 @@
+{
+  "id": 873782007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.044906,47.924176,-97.044906,47.924176",
+    "geom:latitude":47.924176,
+    "geom:longitude":-97.044906,
+    "iso:country":"US",
+    "sg:address":"410 N Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 9300",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repair",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tsAF7zhamR90Je5z1roEO_47.924176_-97.044906@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297518,
+    "wof:geomhash":"0944f82354879e22ac27bda7e450b15b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873782007
+        }
+    ],
+    "wof:id":873782007,
+    "wof:lastmodified":1464297518,
+    "wof:name":"House Of Vacuums",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "sales"
+    ]
+},
+  "bbox": [
+    -97.044906,
+    47.924176,
+    -97.044906,
+    47.924176
+],
+  "geometry": {"coordinates":[-97.044906,47.924176],"type":"Point"}
+}

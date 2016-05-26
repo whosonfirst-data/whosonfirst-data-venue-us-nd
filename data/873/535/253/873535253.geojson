@@ -1,0 +1,66 @@
+{
+  "id": 873535253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.090659,47.932973,-97.090659,47.932973",
+    "geom:latitude":47.932973,
+    "geom:longitude":-97.090659,
+    "iso:country":"US",
+    "sg:address":"4251 Gateway Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 0444",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bRmHcAmiJeL7ujVsDnAnG_47.932973_-97.090659@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294207,
+    "wof:geomhash":"1b42080b12664779a61cbb11ef83f7a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873535253
+        }
+    ],
+    "wof:id":873535253,
+    "wof:lastmodified":1464294207,
+    "wof:name":"Greatr Grnd Frks Conv/Vistr Bu",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.090659,
+    47.932973,
+    -97.090659,
+    47.932973
+],
+  "geometry": {"coordinates":[-97.090659,47.932973],"type":"Point"}
+}

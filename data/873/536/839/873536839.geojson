@@ -1,0 +1,66 @@
+{
+  "id": 873536839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.788241,46.796839,-100.788241,46.796839",
+    "geom:latitude":46.796839,
+    "geom:longitude":-100.788241,
+    "iso:country":"US",
+    "sg:address":"215 E Arbor Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 8174",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vDxlQD6xRRcwUWZjmWCZR_46.796839_-100.788241@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294223,
+    "wof:geomhash":"85e825b43c557437c940a480645fd2cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873536839
+        }
+    ],
+    "wof:id":873536839,
+    "wof:lastmodified":1464294223,
+    "wof:name":"Pat Nelson",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.788241,
+    46.796839,
+    -100.788241,
+    46.796839
+],
+  "geometry": {"coordinates":[-100.788241,46.796839],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873564835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.287802,48.241932,-101.287802,48.241932",
+    "geom:latitude":48.241932,
+    "geom:longitude":-101.287802,
+    "iso:country":"US",
+    "sg:address":"515 3rd St NE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 6222",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "home",
+        "improvement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DI5Qa9WljDizqG0zlkSom_48.241932_-101.287802@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294553,
+    "wof:geomhash":"b9619bc823f6ce0f90bfcf37cac83b36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873564835
+        }
+    ],
+    "wof:id":873564835,
+    "wof:lastmodified":1464294553,
+    "wof:name":"Bob's Maintenance & Remodeling",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "improvement"
+    ]
+},
+  "bbox": [
+    -101.287802,
+    48.241932,
+    -101.287802,
+    48.241932
+],
+  "geometry": {"coordinates":[-101.287802,48.241932],"type":"Point"}
+}

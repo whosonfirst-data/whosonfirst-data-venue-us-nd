@@ -1,0 +1,75 @@
+{
+  "id": 873634069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.48223,48.078592,-97.48223,48.078592",
+    "geom:latitude":48.078592,
+    "geom:longitude":-97.48223,
+    "iso:country":"US",
+    "sg:address":"3053 28th Ave NE",
+    "sg:city":"Gilby",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 869 2409",
+    "sg:postcode":"58235",
+    "sg:province":"ND",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_050OdEUELJO86QGQKE0KBk_48.078592_-97.482230@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295414,
+    "wof:geomhash":"ae66dcb99da5f5d72f9de35df84fe752",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873634069
+        }
+    ],
+    "wof:id":873634069,
+    "wof:lastmodified":1464295414,
+    "wof:name":"Freeberg Auto Glass",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "plate"
+    ]
+},
+  "bbox": [
+    -97.48223,
+    48.078592,
+    -97.48223,
+    48.078592
+],
+  "geometry": {"coordinates":[-97.48223,48.078592],"type":"Point"}
+}

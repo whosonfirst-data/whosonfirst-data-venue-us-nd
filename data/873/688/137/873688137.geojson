@@ -1,0 +1,75 @@
+{
+  "id": 873688137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.030134,47.881794,-97.030134,47.881794",
+    "geom:latitude":47.881794,
+    "geom:longitude":-97.030134,
+    "iso:country":"US",
+    "sg:address":"3803 Fairview Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 780 9225",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "sprout",
+        "inhibitor",
+        "potato"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1u3T7sGJ1wlXpMbewm8xEw_47.881794_-97.030134@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296224,
+    "wof:geomhash":"4fbded3717c3250198f77aa29df5eba3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873688137
+        }
+    ],
+    "wof:id":873688137,
+    "wof:lastmodified":1464296224,
+    "wof:name":"Midwest Potato Svc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sprout",
+        "inhibitor",
+        "potato"
+    ]
+},
+  "bbox": [
+    -97.030134,
+    47.881794,
+    -97.030134,
+    47.881794
+],
+  "geometry": {"coordinates":[-97.030134,47.881794],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873687117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.050799,47.93318,-97.050799,47.93318",
+    "geom:latitude":47.93318,
+    "geom:longitude":-97.050799,
+    "iso:country":"US",
+    "sg:address":"1632 Gateway Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 6777",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZLymCW4D7xe05oEIwReBq_47.933180_-97.050799@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296195,
+    "wof:geomhash":"3a7b0e4c382cd4bb690a7343bd415bb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873687117
+        }
+    ],
+    "wof:id":873687117,
+    "wof:lastmodified":1464296195,
+    "wof:name":"EZ Pawn",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -97.050799,
+    47.93318,
+    -97.050799,
+    47.93318
+],
+  "geometry": {"coordinates":[-97.050799,47.93318],"type":"Point"}
+}

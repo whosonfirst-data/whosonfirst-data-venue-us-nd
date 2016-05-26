@@ -1,0 +1,71 @@
+{
+  "id": 873546495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.034004,47.927314,-97.034004,47.927314",
+    "geom:latitude":47.927314,
+    "geom:longitude":-97.034004,
+    "iso:country":"US",
+    "sg:address":"202 N 3rd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 7271",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rlVx6GG8luL3tKPOB9M2b_47.927314_-97.034004@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294334,
+    "wof:geomhash":"d21c73cb866859ab21b3a088986454d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873546495
+        }
+    ],
+    "wof:id":873546495,
+    "wof:lastmodified":1464294334,
+    "wof:name":"Chamber of Commerce",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -97.034004,
+    47.927314,
+    -97.034004,
+    47.927314
+],
+  "geometry": {"coordinates":[-97.034004,47.927314],"type":"Point"}
+}

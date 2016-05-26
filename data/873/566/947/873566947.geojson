@@ -1,0 +1,70 @@
+{
+  "id": 873566947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.827958,46.856859,-96.827958,46.856859",
+    "geom:latitude":46.856859,
+    "geom:longitude":-96.827958,
+    "iso:country":"US",
+    "sg:address":"2707 S Gate Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 234 0135",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2V7f8LitGWC6lFskXUxqjM_46.856859_-96.827958@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294575,
+    "wof:geomhash":"dca77be3647f19cd370c61a13ca9f2ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873566947
+        }
+    ],
+    "wof:id":873566947,
+    "wof:lastmodified":1464294575,
+    "wof:name":"Adcentives",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.827958,
+    46.856859,
+    -96.827958,
+    46.856859
+],
+  "geometry": {"coordinates":[-96.827958,46.856859],"type":"Point"}
+}

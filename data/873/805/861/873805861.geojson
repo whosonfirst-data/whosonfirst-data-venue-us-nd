@@ -1,0 +1,77 @@
+{
+  "id": 873805861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.79062,46.809632,-100.79062,46.809632",
+    "geom:latitude":46.809632,
+    "geom:longitude":-100.79062,
+    "iso:country":"US",
+    "sg:address":"103 W Avenue A",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 1792",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "government-united",
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19OIHOTBtnYAoecxW0IOeE_46.809632_-100.790620@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297850,
+    "wof:geomhash":"a4ad3aba5479e27650d950cfa5064147",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873805861
+        }
+    ],
+    "wof:id":873805861,
+    "wof:lastmodified":1464297850,
+    "wof:name":"Usda Natl Appeals",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government-united",
+        "state"
+    ]
+},
+  "bbox": [
+    -100.79062,
+    46.809632,
+    -100.79062,
+    46.809632
+],
+  "geometry": {"coordinates":[-100.79062,46.809632],"type":"Point"}
+}

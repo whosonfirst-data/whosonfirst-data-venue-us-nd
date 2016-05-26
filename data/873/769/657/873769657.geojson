@@ -1,0 +1,79 @@
+{
+  "id": 873769657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.806006,46.870883,-96.806006,46.870883",
+    "geom:latitude":46.870883,
+    "geom:longitude":-96.806006,
+    "iso:country":"US",
+    "sg:address":"1545 4th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 298 3143",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5X5cm6qy1rVf343NLxPxfV_46.870883_-96.806006@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297358,
+    "wof:geomhash":"405f2f0c50122cd374e79ee3e6e95ac5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873769657
+        }
+    ],
+    "wof:id":873769657,
+    "wof:lastmodified":1464297358,
+    "wof:name":"Reynolds Piano Svc",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -96.806006,
+    46.870883,
+    -96.806006,
+    46.870883
+],
+  "geometry": {"coordinates":[-96.806006,46.870883],"type":"Point"}
+}

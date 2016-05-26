@@ -1,0 +1,66 @@
+{
+  "id": 873635791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.734017,46.83812,-100.734017,46.83812",
+    "geom:latitude":46.83812,
+    "geom:longitude":-100.734017,
+    "iso:country":"US",
+    "sg:address":"3812 E Century Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Signs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 0507",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76bwlcpC5TLHzcerJEuAEa_46.838120_-100.734017@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295430,
+    "wof:geomhash":"f6aec682130670456a4678ed120c9f2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873635791
+        }
+    ],
+    "wof:id":873635791,
+    "wof:lastmodified":1464295430,
+    "wof:name":"Signs By Jan",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.734017,
+    46.83812,
+    -100.734017,
+    46.83812
+],
+  "geometry": {"coordinates":[-100.73401699999999,46.83812],"type":"Point"}
+}

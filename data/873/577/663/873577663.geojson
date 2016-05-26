@@ -1,0 +1,87 @@
+{
+  "id": 873577663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.843714,46.879709,-96.843714,46.879709",
+    "geom:latitude":46.879709,
+    "geom:longitude":-96.843714,
+    "iso:country":"US",
+    "sg:address":"3814 3rd Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 277 5979",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "a",
+        "ceiling",
+        "flooring",
+        "operates",
+        "as",
+        "suspended",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zFbiTgwsZjLTyQXOoofgB_46.879709_-96.843714@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294690,
+    "wof:geomhash":"c870e0d02aa2259e187ea67e6f5f51b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873577663
+        }
+    ],
+    "wof:id":873577663,
+    "wof:lastmodified":1464294690,
+    "wof:name":"Blahna Sales Inc",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "a",
+        "ceiling",
+        "flooring",
+        "operates",
+        "as",
+        "suspended",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.843714,
+    46.879709,
+    -96.843714,
+    46.879709
+],
+  "geometry": {"coordinates":[-96.84371400000001,46.879709],"type":"Point"}
+}

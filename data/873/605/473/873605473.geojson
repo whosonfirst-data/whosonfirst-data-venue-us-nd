@@ -1,0 +1,75 @@
+{
+  "id": 873605473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.834586,46.839167,-96.834586,46.839167",
+    "geom:latitude":46.839167,
+    "geom:longitude":-96.834586,
+    "iso:country":"US",
+    "sg:address":"2816 Parkview Cir",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 234 0130",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877355,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UzinFqbxGzyUl0g7NNCgp_46.839167_-96.834586@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295048,
+    "wof:geomhash":"937e6a9a409735f73f6ddf23a81e796a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877355,
+            "region_id":85688525,
+            "venue_id":873605473
+        }
+    ],
+    "wof:id":873605473,
+    "wof:lastmodified":1464295048,
+    "wof:name":"Crop Watcher Inc",
+    "wof:parent_id":85877355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -96.834586,
+    46.839167,
+    -96.834586,
+    46.839167
+],
+  "geometry": {"coordinates":[-96.834586,46.839167],"type":"Point"}
+}

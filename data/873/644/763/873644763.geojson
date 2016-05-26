@@ -1,0 +1,66 @@
+{
+  "id": 873644763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.082251,47.88938,-97.082251,47.88938",
+    "geom:latitude":47.88938,
+    "geom:longitude":-97.082251,
+    "iso:country":"US",
+    "sg:address":"3601 32nd Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 787 8627",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4j2nrjgG6APVTUfIPbkGEY_47.889380_-97.082251@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295534,
+    "wof:geomhash":"3d06cc1b26919c2763ad1d947f6f66f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873644763
+        }
+    ],
+    "wof:id":873644763,
+    "wof:lastmodified":1464295534,
+    "wof:name":"Target",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.082251,
+    47.88938,
+    -97.082251,
+    47.88938
+],
+  "geometry": {"coordinates":[-97.082251,47.88938],"type":"Point"}
+}

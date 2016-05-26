@@ -1,0 +1,66 @@
+{
+  "id": 873779811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.077435,47.890105,-97.077435,47.890105",
+    "geom:latitude":47.890105,
+    "geom:longitude":-97.077435,
+    "iso:country":"US",
+    "sg:address":"3051 S 34th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 7910",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OzSnn20Nq2IBMoprnGjuS_47.890105_-97.077435@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297488,
+    "wof:geomhash":"44d860801794e6b66cdae87f4b208130",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873779811
+        }
+    ],
+    "wof:id":873779811,
+    "wof:lastmodified":1464297488,
+    "wof:name":"Fairfield Inn",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.077435,
+    47.890105,
+    -97.077435,
+    47.890105
+],
+  "geometry": {"coordinates":[-97.07743499999999,47.890105],"type":"Point"}
+}

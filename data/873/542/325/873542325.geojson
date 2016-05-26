@@ -1,0 +1,73 @@
+{
+  "id": 873542325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.288372,48.232587,-101.288372,48.232587",
+    "geom:latitude":48.232587,
+    "geom:longitude":-101.288372,
+    "iso:country":"US",
+    "sg:address":"407 3rd St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 3799",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4U8kwRkaM0hVp7KnGhLzA2_48.232587_-101.288372@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294284,
+    "wof:geomhash":"677ac286891717ad92027844ddf01841",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873542325
+        }
+    ],
+    "wof:id":873542325,
+    "wof:lastmodified":1464294284,
+    "wof:name":"Retired & Senior Volunteer",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "senior",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -101.288372,
+    48.232587,
+    -101.288372,
+    48.232587
+],
+  "geometry": {"coordinates":[-101.288372,48.232587],"type":"Point"}
+}

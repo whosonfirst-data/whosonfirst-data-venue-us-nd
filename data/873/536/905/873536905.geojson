@@ -1,0 +1,71 @@
+{
+  "id": 873536905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.802979,46.794618,-100.802979,46.794618",
+    "geom:latitude":46.794618,
+    "geom:longitude":-100.802979,
+    "iso:country":"US",
+    "sg:address":"725 Riverwood Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 6462",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "course"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PpByac7RXjnPh7bGbla3l_46.794618_-100.802979@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294225,
+    "wof:geomhash":"daf51ce28776d0c655b752822e6104ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873536905
+        }
+    ],
+    "wof:id":873536905,
+    "wof:lastmodified":1464294225,
+    "wof:name":"Riverwood Golf Course",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course"
+    ]
+},
+  "bbox": [
+    -100.802979,
+    46.794618,
+    -100.802979,
+    46.794618
+],
+  "geometry": {"coordinates":[-100.80297899999999,46.794618],"type":"Point"}
+}

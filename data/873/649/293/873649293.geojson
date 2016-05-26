@@ -1,0 +1,71 @@
+{
+  "id": 873649293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.778115,46.781656,-100.778115,46.781656",
+    "geom:latitude":46.781656,
+    "geom:longitude":-100.778115,
+    "iso:country":"US",
+    "sg:address":"883 San Angelo Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 7119",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38amYpcQ7qOwDYCU2Tb9H1_46.781656_-100.778115@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295579,
+    "wof:geomhash":"8ad82d109e8ee184ad530d4d17fdada8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873649293
+        }
+    ],
+    "wof:id":873649293,
+    "wof:lastmodified":1464295579,
+    "wof:name":"Keeley Consulting Inc",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -100.778115,
+    46.781656,
+    -100.778115,
+    46.781656
+],
+  "geometry": {"coordinates":[-100.778115,46.781656],"type":"Point"}
+}

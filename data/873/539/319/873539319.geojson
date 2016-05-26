@@ -1,0 +1,71 @@
+{
+  "id": 873539319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.794342,46.801029,-100.794342,46.801029",
+    "geom:latitude":46.801029,
+    "geom:longitude":-100.794342,
+    "iso:country":"US",
+    "sg:address":"427 S Washington St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 5424",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NtnRHp77mrqBizxoPyrTW_46.801029_-100.794342@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294253,
+    "wof:geomhash":"17949c0e1160d143cb9d04fe34e6881d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873539319
+        }
+    ],
+    "wof:id":873539319,
+    "wof:lastmodified":1464294253,
+    "wof:name":"Raymond Longle",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -100.794342,
+    46.801029,
+    -100.794342,
+    46.801029
+],
+  "geometry": {"coordinates":[-100.794342,46.801029],"type":"Point"}
+}

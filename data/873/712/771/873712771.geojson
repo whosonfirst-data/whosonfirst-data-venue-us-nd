@@ -1,0 +1,79 @@
+{
+  "id": 873712771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.90353,46.868881,-96.90353,46.868881",
+    "geom:latitude":46.868881,
+    "geom:longitude":-96.90353,
+    "iso:country":"US",
+    "sg:address":"230 8th Ave W",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 3443",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "sg:tags":[
+        "building",
+        "apartment",
+        "executive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yPZ3PUXsXTbRDlavQsdp9_46.868881_-96.903530@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296554,
+    "wof:geomhash":"02e5e704a7878649540f7b3e1ea21c19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873712771
+        }
+    ],
+    "wof:id":873712771,
+    "wof:lastmodified":1464296554,
+    "wof:name":"County of Cass",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment",
+        "executive"
+    ]
+},
+  "bbox": [
+    -96.90353,
+    46.868881,
+    -96.90353,
+    46.868881
+],
+  "geometry": {"coordinates":[-96.90353,46.868881],"type":"Point"}
+}

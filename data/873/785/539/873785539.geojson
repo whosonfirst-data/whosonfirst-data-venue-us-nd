@@ -1,0 +1,66 @@
+{
+  "id": 873785539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.106857,47.775617,-97.106857,47.775617",
+    "geom:latitude":47.775617,
+    "geom:longitude":-97.106857,
+    "iso:country":"US",
+    "sg:address":"424 3rd St",
+    "sg:city":"Thompson",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 599 2765",
+    "sg:postcode":"58278",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qS7IOLahBHybn6hSIiEla_47.775549_-97.106647@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464297562,
+    "wof:geomhash":"392d7effea11c45c4feeb95e099fb1d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873785539
+        }
+    ],
+    "wof:id":873785539,
+    "wof:lastmodified":1464297562,
+    "wof:name":"Thompson Public School",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.106857,
+    47.775617,
+    -97.106857,
+    47.775617
+],
+  "geometry": {"coordinates":[-97.10685700000001,47.775617],"type":"Point"}
+}

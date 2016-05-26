@@ -1,0 +1,73 @@
+{
+  "id": 873622853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.303766,47.860434,-97.303766,47.860434",
+    "geom:latitude":47.860434,
+    "geom:longitude":-97.303766,
+    "iso:country":"US",
+    "sg:address":"1289 22nd St NE",
+    "sg:city":"Emerado",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 594 6355",
+    "sg:postcode":"58228",
+    "sg:province":"ND",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3talKR7yfD9JIFbMFqyZRY_47.860434_-97.303766@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295280,
+    "wof:geomhash":"c2d2a731f7807472423e2e0285a2e29b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873622853
+        }
+    ],
+    "wof:id":873622853,
+    "wof:lastmodified":1464295280,
+    "wof:name":"Sauer Farms LP",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -97.303766,
+    47.860434,
+    -97.303766,
+    47.860434
+],
+  "geometry": {"coordinates":[-97.303766,47.860434],"type":"Point"}
+}

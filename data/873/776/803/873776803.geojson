@@ -1,0 +1,71 @@
+{
+  "id": 873776803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.6237,47.904792,-97.6237,47.904792",
+    "geom:latitude":47.904792,
+    "geom:longitude":-97.6237,
+    "iso:country":"US",
+    "sg:address":"103 E Front St",
+    "sg:city":"Larimore",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 343 2258",
+    "sg:postcode":"58251",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AJk4O3S3qRFmdswxDJ2yr_47.904792_-97.623700@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297448,
+    "wof:geomhash":"6ae08e0408eb0faabaa3e5a2f02b401e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873776803
+        }
+    ],
+    "wof:id":873776803,
+    "wof:lastmodified":1464297448,
+    "wof:name":"Northern Clipper",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -97.6237,
+    47.904792,
+    -97.6237,
+    47.904792
+],
+  "geometry": {"coordinates":[-97.6237,47.904792],"type":"Point"}
+}

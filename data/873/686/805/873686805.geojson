@@ -1,0 +1,73 @@
+{
+  "id": 873686805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.296,48.227452,-101.296,48.227452",
+    "geom:latitude":48.227452,
+    "geom:longitude":-101.296,
+    "iso:country":"US",
+    "sg:address":"210 9th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 4393",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automobile",
+        "customizing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_257AnTXHajpFjSjgH4F4YO_48.227452_-101.296000@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296188,
+    "wof:geomhash":"20d51c7392cda4f61d50ce12de4ae39b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873686805
+        }
+    ],
+    "wof:id":873686805,
+    "wof:lastmodified":1464296188,
+    "wof:name":"Graphics Lettering & Trim",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "customizing"
+    ]
+},
+  "bbox": [
+    -101.296,
+    48.227452,
+    -101.296,
+    48.227452
+],
+  "geometry": {"coordinates":[-101.29600000000001,48.227452],"type":"Point"}
+}

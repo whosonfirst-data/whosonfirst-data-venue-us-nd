@@ -1,0 +1,79 @@
+{
+  "id": 873721117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.758927,46.824417,-100.758927,46.824417",
+    "geom:latitude":46.824417,
+    "geom:longitude":-100.758927,
+    "iso:country":"US",
+    "sg:address":"2125 Kennedy Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 530 0848",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repair",
+        "air",
+        "remodeling",
+        "heating",
+        "roofing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OJGuoacYUuhfHDVMUWgKx_46.824417_-100.758927@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296664,
+    "wof:geomhash":"ff47cbb2230ddfa9148dd55a0d8c9883",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873721117
+        }
+    ],
+    "wof:id":873721117,
+    "wof:lastmodified":1464296664,
+    "wof:name":"Home Specialist The",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "air",
+        "remodeling",
+        "heating",
+        "roofing"
+    ]
+},
+  "bbox": [
+    -100.758927,
+    46.824417,
+    -100.758927,
+    46.824417
+],
+  "geometry": {"coordinates":[-100.758927,46.824417],"type":"Point"}
+}

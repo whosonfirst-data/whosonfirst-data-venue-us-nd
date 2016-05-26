@@ -1,0 +1,77 @@
+{
+  "id": 873745681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.865184,46.934335,-96.865184,46.934335",
+    "geom:latitude":46.934335,
+    "geom:longitude":-96.865184,
+    "iso:country":"US",
+    "sg:address":"4015 47th St N",
+    "sg:city":"Reiles Acres",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 0523",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jpS954fgc4uaFttnf2e7N_46.934335_-96.865184@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297021,
+    "wof:geomhash":"493d5c31330f5e87ea76acbda04e3bdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873745681
+        }
+    ],
+    "wof:id":873745681,
+    "wof:lastmodified":1464297021,
+    "wof:name":"Thorsteinson & Sons Constr Co",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.865184,
+    46.934335,
+    -96.865184,
+    46.934335
+],
+  "geometry": {"coordinates":[-96.865184,46.934335],"type":"Point"}
+}

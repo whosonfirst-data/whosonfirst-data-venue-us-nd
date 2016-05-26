@@ -1,0 +1,66 @@
+{
+  "id": 873741001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.049548,47.914372,-97.049548,47.914372",
+    "geom:latitude":47.914372,
+    "geom:longitude":-97.049548,
+    "iso:country":"US",
+    "sg:address":"705 S 16th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 7368",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fesQfoWMqS2f7dBw9IwqG_47.914372_-97.049548@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296937,
+    "wof:geomhash":"cfd148c69399db985d9ae6ed51f72bfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873741001
+        }
+    ],
+    "wof:id":873741001,
+    "wof:lastmodified":1464296937,
+    "wof:name":"Diversified Engineering",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.049548,
+    47.914372,
+    -97.049548,
+    47.914372
+],
+  "geometry": {"coordinates":[-97.049548,47.914372],"type":"Point"}
+}

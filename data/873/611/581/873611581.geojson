@@ -1,0 +1,73 @@
+{
+  "id": 873611581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.762844,46.80629,-100.762844,46.80629",
+    "geom:latitude":46.80629,
+    "geom:longitude":-100.762844,
+    "iso:country":"US",
+    "sg:address":"1906 E Broadway Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 3663",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6grI76PbflALqQ4d1OPhoh_46.806290_-100.762844@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295162,
+    "wof:geomhash":"65899600410139d1a670bdcf2148b600",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873611581
+        }
+    ],
+    "wof:id":873611581,
+    "wof:lastmodified":1464295162,
+    "wof:name":"Midco Data Bismarck",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -100.762844,
+    46.80629,
+    -100.762844,
+    46.80629
+],
+  "geometry": {"coordinates":[-100.762844,46.80629],"type":"Point"}
+}

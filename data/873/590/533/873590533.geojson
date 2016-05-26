@@ -1,0 +1,75 @@
+{
+  "id": 873590533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.90386,46.888798,-96.90386,46.888798",
+    "geom:latitude":46.888798,
+    "geom:longitude":-96.90386,
+    "iso:country":"US",
+    "sg:address":"975 Armour St NW",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 281 3041",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "sg:tags":[
+        "fence"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lVualqTNDmv7K8sDrnWdr_46.888798_-96.903860@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294837,
+    "wof:geomhash":"ad10914485078b3bc75b1f61c718f072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873590533
+        }
+    ],
+    "wof:id":873590533,
+    "wof:lastmodified":1464294837,
+    "wof:name":"American Fence & Fabrication",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence"
+    ]
+},
+  "bbox": [
+    -96.90386,
+    46.888798,
+    -96.90386,
+    46.888798
+],
+  "geometry": {"coordinates":[-96.90385999999999,46.888798],"type":"Point"}
+}

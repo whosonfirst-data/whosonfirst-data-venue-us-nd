@@ -1,0 +1,71 @@
+{
+  "id": 873674633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.784719,46.799657,-100.784719,46.799657",
+    "geom:latitude":46.799657,
+    "geom:longitude":-100.784719,
+    "iso:country":"US",
+    "sg:address":"625 Kirkwood Mall",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 7987",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "grocery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GvnQq6gNIxTHQH5WQMIcm_46.799657_-100.784719@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295860,
+    "wof:geomhash":"2dd9726d0c4678fbae52dc16d12e894b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873674633
+        }
+    ],
+    "wof:id":873674633,
+    "wof:lastmodified":1464295860,
+    "wof:name":"Earth Pantry",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery"
+    ]
+},
+  "bbox": [
+    -100.784719,
+    46.799657,
+    -100.784719,
+    46.799657
+],
+  "geometry": {"coordinates":[-100.784719,46.799657],"type":"Point"}
+}

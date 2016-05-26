@@ -1,0 +1,73 @@
+{
+  "id": 873759149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.769456,46.801083,-100.769456,46.801083",
+    "geom:latitude":46.801083,
+    "geom:longitude":-100.769456,
+    "iso:country":"US",
+    "sg:address":"421 S 15th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 0145",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "personal",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JSNf0GMWb8gVfditMjI4L_46.801083_-100.769456@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297196,
+    "wof:geomhash":"2303e1a109107f25d9034190c58f5260",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873759149
+        }
+    ],
+    "wof:id":873759149,
+    "wof:lastmodified":1464297196,
+    "wof:name":"Dakota Kydz Childcare Center",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "day"
+    ]
+},
+  "bbox": [
+    -100.769456,
+    46.801083,
+    -100.769456,
+    46.801083
+],
+  "geometry": {"coordinates":[-100.76945600000001,46.801083],"type":"Point"}
+}

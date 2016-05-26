@@ -1,0 +1,72 @@
+{
+  "id": 873737945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.623722,47.904717,-97.623722,47.904717",
+    "geom:latitude":47.904717,
+    "geom:longitude":-97.623722,
+    "iso:country":"US",
+    "sg:address":"101 Towner Ave",
+    "sg:city":"Larimore",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 343 2332",
+    "sg:postcode":"58251",
+    "sg:province":"ND",
+    "sg:tags":[
+        "baker"
+    ],
+    "sg:website":"www.melbys.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cHN8brIi351Y4vvSQzj50_47.904717_-97.623722@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296896,
+    "wof:geomhash":"a83df632deb1b6afe8b3f1c50d305f0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873737945
+        }
+    ],
+    "wof:id":873737945,
+    "wof:lastmodified":1464296896,
+    "wof:name":"Melby's Food Pride",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -97.623722,
+    47.904717,
+    -97.623722,
+    47.904717
+],
+  "geometry": {"coordinates":[-97.623722,47.904717],"type":"Point"}
+}

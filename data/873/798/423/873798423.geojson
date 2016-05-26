@@ -1,0 +1,74 @@
+{
+  "id": 873798423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.356318,48.225556,-101.356318,48.225556",
+    "geom:latitude":48.225556,
+    "geom:longitude":-101.356318,
+    "iso:country":"US",
+    "sg:address":"3800 US-2",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/harrison/222211-country-kitchen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 4029",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "american",
+        "southern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UC6UE2wYe8FRlsugCXgfI_48.225556_-101.356318@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297755,
+    "wof:geomhash":"d8ca37325b74861756eb185575ed0c13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873798423
+        }
+    ],
+    "wof:id":873798423,
+    "wof:lastmodified":1464297755,
+    "wof:name":"Country Kitchen",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "southern"
+    ]
+},
+  "bbox": [
+    -101.356318,
+    48.225556,
+    -101.356318,
+    48.225556
+],
+  "geometry": {"coordinates":[-101.356318,48.225556],"type":"Point"}
+}

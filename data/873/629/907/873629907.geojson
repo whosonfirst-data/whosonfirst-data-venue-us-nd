@@ -1,0 +1,70 @@
+{
+  "id": 873629907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.872301,46.869223,-96.872301,46.869223",
+    "geom:latitude":46.869223,
+    "geom:longitude":-96.872301,
+    "iso:country":"US",
+    "sg:address":"1201 7th Ave E",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 277 9331",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HcK4sbKTbjxF9OGuoZr8r_46.869223_-96.872301@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295365,
+    "wof:geomhash":"faf038495e093ea26e9ecc2e847a8823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873629907
+        }
+    ],
+    "wof:id":873629907,
+    "wof:lastmodified":1464295365,
+    "wof:name":"West Fargo Hockey Assn",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.872301,
+    46.869223,
+    -96.872301,
+    46.869223
+],
+  "geometry": {"coordinates":[-96.87230099999999,46.869223],"type":"Point"}
+}

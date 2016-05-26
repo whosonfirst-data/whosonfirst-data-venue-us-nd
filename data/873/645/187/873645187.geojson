@@ -1,0 +1,74 @@
+{
+  "id": 873645187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.295507,48.27775,-101.295507,48.27775",
+    "geom:latitude":48.27775,
+    "geom:longitude":-101.295507,
+    "iso:country":"US",
+    "sg:address":"3915 N Broadway",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 8800",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "equipment"
+    ],
+    "sg:website":"www.bourgault.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Cn9iioeh2JlSqNYpdarpg_48.277750_-101.295507@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295538,
+    "wof:geomhash":"e8575ea461e593e47cdeedf20334fcfd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873645187
+        }
+    ],
+    "wof:id":873645187,
+    "wof:lastmodified":1464295538,
+    "wof:name":"Bourgault Industries",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -101.295507,
+    48.27775,
+    -101.295507,
+    48.27775
+],
+  "geometry": {"coordinates":[-101.295507,48.27775],"type":"Point"}
+}

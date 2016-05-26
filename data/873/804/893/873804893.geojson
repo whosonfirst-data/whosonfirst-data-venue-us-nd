@@ -1,0 +1,82 @@
+{
+  "id": 873804893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.890517,46.802669,-96.890517,46.802669",
+    "geom:latitude":46.802669,
+    "geom:longitude":-96.890517,
+    "iso:country":"US",
+    "sg:address":"6218 53rd Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 277 1884",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "industrial",
+        "excavation",
+        "contractor",
+        "contractors-commercial",
+        "demolition",
+        "road"
+    ],
+    "sg:website":"http://www.excavatinginc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kzy8eQsCVkNwGp5ef7rVM_46.802669_-96.890517@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297833,
+    "wof:geomhash":"5125b46821c50bb8d5b0bec390b9be6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873804893
+        }
+    ],
+    "wof:id":873804893,
+    "wof:lastmodified":1464297833,
+    "wof:name":"Excavating Inc Fargo",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "excavation",
+        "contractor",
+        "contractors-commercial",
+        "demolition",
+        "road"
+    ]
+},
+  "bbox": [
+    -96.890517,
+    46.802669,
+    -96.890517,
+    46.802669
+],
+  "geometry": {"coordinates":[-96.890517,46.802669],"type":"Point"}
+}

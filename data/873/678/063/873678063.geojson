@@ -1,0 +1,66 @@
+{
+  "id": 873678063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.787811,46.80555,-100.787811,46.80555",
+    "geom:latitude":46.80555,
+    "geom:longitude":-100.787811,
+    "iso:country":"US",
+    "sg:address":"214 E Main Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 250 6547",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xgmbNxgj2m2FnQk05qJYy_46.805550_-100.787811@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295939,
+    "wof:geomhash":"a360675257feb0755321e599bbccab83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873678063
+        }
+    ],
+    "wof:id":873678063,
+    "wof:lastmodified":1464295939,
+    "wof:name":"Carpet Brokers Of Bismarck",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.787811,
+    46.80555,
+    -100.787811,
+    46.80555
+],
+  "geometry": {"coordinates":[-100.787811,46.80555],"type":"Point"}
+}

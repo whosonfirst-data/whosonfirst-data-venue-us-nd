@@ -1,0 +1,71 @@
+{
+  "id": 873757099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.775618,46.802009,-100.775618,46.802009",
+    "geom:latitude":46.802009,
+    "geom:longitude":-100.775618,
+    "iso:country":"US",
+    "sg:address":"300 S 11th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 1516",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Mvg63KRqWmmZWax63CZ14_46.802009_-100.775618@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297171,
+    "wof:geomhash":"06d1491c34cfe953c9226db3f37eeb6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873757099
+        }
+    ],
+    "wof:id":873757099,
+    "wof:lastmodified":1464297171,
+    "wof:name":"Kelly's Painting & Maintenance",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -100.775618,
+    46.802009,
+    -100.775618,
+    46.802009
+],
+  "geometry": {"coordinates":[-100.77561799999999,46.802009],"type":"Point"}
+}

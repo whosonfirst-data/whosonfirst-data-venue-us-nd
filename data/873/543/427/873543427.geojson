@@ -1,0 +1,66 @@
+{
+  "id": 873543427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.40111,47.918643,-97.40111,47.918643",
+    "geom:latitude":47.918643,
+    "geom:longitude":-97.40111,
+    "iso:country":"US",
+    "sg:address":"2668 17th Ave NE",
+    "sg:city":"Emerado",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 594 5473",
+    "sg:postcode":"58228",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iWfgsZz2bRyyEYfcCbpOJ_47.918643_-97.401110@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294295,
+    "wof:geomhash":"2a1f1cdd732b0fe6ba25b800d09d4dcd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873543427
+        }
+    ],
+    "wof:id":873543427,
+    "wof:lastmodified":1464294295,
+    "wof:name":"Patrick Ross Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.40111,
+    47.918643,
+    -97.40111,
+    47.918643
+],
+  "geometry": {"coordinates":[-97.40111,47.918643],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 873801951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.840538,46.869973,-96.840538,46.869973",
+    "geom:latitude":46.869973,
+    "geom:longitude":-96.840538,
+    "iso:country":"US",
+    "sg:address":"402 36th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 702 298 9472",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "body",
+        "painting",
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CNduDsvU16Q6MgIOddGgW_46.869973_-96.840538@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297796,
+    "wof:geomhash":"12f19dc9002a7db6736d922238355b94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873801951
+        }
+    ],
+    "wof:id":873801951,
+    "wof:lastmodified":1464297796,
+    "wof:name":"Maaco",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "painting",
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -96.840538,
+    46.869973,
+    -96.840538,
+    46.869973
+],
+  "geometry": {"coordinates":[-96.840538,46.869973],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873613429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.842334,46.870853,-96.842334,46.870853",
+    "geom:latitude":46.870853,
+    "geom:longitude":-96.842334,
+    "iso:country":"US",
+    "sg:address":"417 38th St SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 277 5077",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LNy0vfVuXAplvEfFZVRLG_46.870853_-96.842334@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295180,
+    "wof:geomhash":"606fff7d34c99b44bf62b75c9e684f83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873613429
+        }
+    ],
+    "wof:id":873613429,
+    "wof:lastmodified":1464295180,
+    "wof:name":"RJS Building Systems Inc",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -96.842334,
+    46.870853,
+    -96.842334,
+    46.870853
+],
+  "geometry": {"coordinates":[-96.84233399999999,46.870853],"type":"Point"}
+}

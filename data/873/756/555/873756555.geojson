@@ -1,0 +1,75 @@
+{
+  "id": 873756555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.80545,46.908498,-96.80545,46.908498",
+    "geom:latitude":46.908498,
+    "geom:longitude":-96.80545,
+    "iso:country":"US",
+    "sg:address":"1801 23rd Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 1842",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "bond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877363,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oLvHyESBItPmKe3TRzdxK_46.908498_-96.805450@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297163,
+    "wof:geomhash":"a7888f999664de14fbec9728ac42a150",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877363,
+            "region_id":85688525,
+            "venue_id":873756555
+        }
+    ],
+    "wof:id":873756555,
+    "wof:lastmodified":1464297163,
+    "wof:name":"Western Bonding",
+    "wof:parent_id":85877363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bond"
+    ]
+},
+  "bbox": [
+    -96.80545,
+    46.908498,
+    -96.80545,
+    46.908498
+],
+  "geometry": {"coordinates":[-96.80544999999999,46.908498],"type":"Point"}
+}

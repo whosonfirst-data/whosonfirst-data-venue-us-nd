@@ -1,0 +1,79 @@
+{
+  "id": 873776057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.757975,46.786996,-100.757975,46.786996",
+    "geom:latitude":46.786996,
+    "geom:longitude":-100.757975,
+    "iso:country":"US",
+    "sg:address":"1721 Sykes Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 221 0700",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "software"
+    ],
+    "sg:website":"www.sykes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UPtKcaBBCseR7vfwobp9I_46.786996_-100.757975@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297438,
+    "wof:geomhash":"2c05e4ef3b09bccf0e55743ed02a4d04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873776057
+        }
+    ],
+    "wof:id":873776057,
+    "wof:lastmodified":1464297438,
+    "wof:name":"Sykes Enterprises Incorporated",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "software"
+    ]
+},
+  "bbox": [
+    -100.757975,
+    46.786996,
+    -100.757975,
+    46.786996
+],
+  "geometry": {"coordinates":[-100.757975,46.786996],"type":"Point"}
+}

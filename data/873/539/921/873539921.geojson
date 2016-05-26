@@ -1,0 +1,71 @@
+{
+  "id": 873539921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.761818,46.840244,-100.761818,46.840244",
+    "geom:latitude":46.840244,
+    "geom:longitude":-100.761818,
+    "iso:country":"US",
+    "sg:address":"1942 Oregon Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 250 8900",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "internet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12smnVywNGq8IX9QKLQRvl_46.840244_-100.761818@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294259,
+    "wof:geomhash":"a6ac0c0dd880b72e5365020ae7a8086f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873539921
+        }
+    ],
+    "wof:id":873539921,
+    "wof:lastmodified":1464294259,
+    "wof:name":"KRAFTYWEBWORKS.COM",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "internet"
+    ]
+},
+  "bbox": [
+    -100.761818,
+    46.840244,
+    -100.761818,
+    46.840244
+],
+  "geometry": {"coordinates":[-100.76181800000001,46.840244],"type":"Point"}
+}

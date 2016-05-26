@@ -1,0 +1,82 @@
+{
+  "id": 873803003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.837077,46.859956,-96.837077,46.859956",
+    "geom:latitude":46.859956,
+    "geom:longitude":-96.837077,
+    "iso:country":"US",
+    "sg:address":"3402 14th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 1321",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "inn",
+        "lodging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64ndRuKzGDsuM8ul558C5r_46.859956_-96.837077@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297810,
+    "wof:geomhash":"7d0028f6429357a2518d996a3900a7b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873803003
+        }
+    ],
+    "wof:id":873803003,
+    "wof:lastmodified":1464297810,
+    "wof:name":"Grand Inn Fargo",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inn",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -96.837077,
+    46.859956,
+    -96.837077,
+    46.859956
+],
+  "geometry": {"coordinates":[-96.83707699999999,46.859956],"type":"Point"}
+}

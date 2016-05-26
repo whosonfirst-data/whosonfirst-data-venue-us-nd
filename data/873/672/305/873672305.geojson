@@ -1,0 +1,76 @@
+{
+  "id": 873672305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.805487,46.90488,-96.805487,46.90488",
+    "geom:latitude":46.90488,
+    "geom:longitude":-96.805487,
+    "iso:country":"US",
+    "sg:address":"1609 19th Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 8043",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "gallery"
+    ],
+    "sg:website":"www.fargoairmuseum.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877363,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZhaOQVhnXg3pduLKJLHuC_46.904880_-96.805487@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295824,
+    "wof:geomhash":"e943f0113c2cc844e398e2df763a5840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877363,
+            "region_id":85688525,
+            "venue_id":873672305
+        }
+    ],
+    "wof:id":873672305,
+    "wof:lastmodified":1464295824,
+    "wof:name":"Fargo Air Museum",
+    "wof:parent_id":85877363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gallery"
+    ]
+},
+  "bbox": [
+    -96.805487,
+    46.90488,
+    -96.805487,
+    46.90488
+],
+  "geometry": {"coordinates":[-96.805487,46.90488],"type":"Point"}
+}

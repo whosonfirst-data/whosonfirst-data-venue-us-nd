@@ -1,0 +1,71 @@
+{
+  "id": 873661079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.662908,48.350964,-101.662908,48.350964",
+    "geom:latitude":48.350964,
+    "geom:longitude":-101.662908,
+    "iso:country":"US",
+    "sg:address":"10600 240th St NW",
+    "sg:city":"Berthold",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 453 3110",
+    "sg:postcode":"58718",
+    "sg:province":"ND",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rBQeRHNsIrzK1c6V7EjpI_48.350964_-101.662908@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295709,
+    "wof:geomhash":"15156a51560218c977869e62788eb298",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873661079
+        }
+    ],
+    "wof:id":873661079,
+    "wof:lastmodified":1464295709,
+    "wof:name":"D & H Peterson Construction",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.662908,
+    48.350964,
+    -101.662908,
+    48.350964
+],
+  "geometry": {"coordinates":[-101.662908,48.350964],"type":"Point"}
+}

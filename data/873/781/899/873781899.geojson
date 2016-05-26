@@ -1,0 +1,73 @@
+{
+  "id": 873781899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.295962,48.236381,-101.295962,48.236381",
+    "geom:latitude":48.236381,
+    "geom:longitude":-101.295962,
+    "iso:country":"US",
+    "sg:address":"107 Central Ave W",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 837 5613",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zn0mqAYxTW4o5mwxcnw3C_48.236381_-101.295962@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297517,
+    "wof:geomhash":"a90a6b83cd47d8a7f09bcfdc38dcff7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873781899
+        }
+    ],
+    "wof:id":873781899,
+    "wof:lastmodified":1464297517,
+    "wof:name":"Big Computers",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -101.295962,
+    48.236381,
+    -101.295962,
+    48.236381
+],
+  "geometry": {"coordinates":[-101.295962,48.236381],"type":"Point"}
+}

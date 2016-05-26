@@ -1,0 +1,77 @@
+{
+  "id": 873534081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.806073,46.850977,-96.806073,46.850977",
+    "geom:latitude":46.850977,
+    "geom:longitude":-96.806073,
+    "iso:country":"US",
+    "sg:address":"1842 16th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 6626",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "utility",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534481,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_307gbRh7x0aDZpewhil9Ey_46.850977_-96.806073@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294190,
+    "wof:geomhash":"4b80d74d12e2fa3e1131c45d82f30948",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534481,
+            "region_id":85688525,
+            "venue_id":873534081
+        }
+    ],
+    "wof:id":873534081,
+    "wof:lastmodified":1464294190,
+    "wof:name":"Talk-To-Me",
+    "wof:parent_id":420534481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "utility",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.806073,
+    46.850977,
+    -96.806073,
+    46.850977
+],
+  "geometry": {"coordinates":[-96.806073,46.850977],"type":"Point"}
+}

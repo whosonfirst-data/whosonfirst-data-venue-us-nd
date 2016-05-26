@@ -1,0 +1,73 @@
+{
+  "id": 873558287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.760417,46.839827,-100.760417,46.839827",
+    "geom:latitude":46.839827,
+    "geom:longitude":-100.760417,
+    "iso:country":"US",
+    "sg:address":"1933 Utah Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 355 0789",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47wWkxxbts90wcSzoIzoue_46.839827_-100.760417@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294480,
+    "wof:geomhash":"9198c97a3ae183e8500c5714c962445f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873558287
+        }
+    ],
+    "wof:id":873558287,
+    "wof:lastmodified":1464294480,
+    "wof:name":"Vertex Consulting Group Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -100.760417,
+    46.839827,
+    -100.760417,
+    46.839827
+],
+  "geometry": {"coordinates":[-100.760417,46.839827],"type":"Point"}
+}

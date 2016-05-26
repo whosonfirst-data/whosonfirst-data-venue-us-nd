@@ -1,0 +1,67 @@
+{
+  "id": 873702913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.045077,47.914405,-97.045077,47.914405",
+    "geom:latitude":47.914405,
+    "geom:longitude":-97.045077,
+    "iso:country":"US",
+    "sg:address":"708 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 0497",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:website":"www.wallsrx.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xfGSJ5wRfeZ56XFQHMKdv_47.914405_-97.045077@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296434,
+    "wof:geomhash":"4cc3ee2cca2930c0cc997dedf61d8991",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873702913
+        }
+    ],
+    "wof:id":873702913,
+    "wof:lastmodified":1464296434,
+    "wof:name":"Wall's Medicine Ctr",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.045077,
+    47.914405,
+    -97.045077,
+    47.914405
+],
+  "geometry": {"coordinates":[-97.04507700000001,47.914405],"type":"Point"}
+}

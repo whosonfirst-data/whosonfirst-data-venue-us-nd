@@ -1,0 +1,71 @@
+{
+  "id": 873568117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.151194,48.139201,-101.151194,48.139201",
+    "geom:latitude":48.139201,
+    "geom:longitude":-101.151194,
+    "iso:country":"US",
+    "sg:address":"10003 US Hwy 52",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 624 5377",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "frozen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qI6tbVYQuCtoSIvtcxnIb_48.139201_-101.151194@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294587,
+    "wof:geomhash":"599adad3d8d8ce31fcb035ec58e81274",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873568117
+        }
+    ],
+    "wof:id":873568117,
+    "wof:lastmodified":1464294587,
+    "wof:name":"Valley Vegetables",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen"
+    ]
+},
+  "bbox": [
+    -101.151194,
+    48.139201,
+    -101.151194,
+    48.139201
+],
+  "geometry": {"coordinates":[-101.151194,48.139201],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 873537407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.818705,46.803396,-96.818705,46.803396",
+    "geom:latitude":46.803396,
+    "geom:longitude":-96.818705,
+    "iso:country":"US",
+    "sg:address":"5203 25th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 9485",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "delivery",
+        "local",
+        "storage",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877333,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bqQT5XPeCMyoLs18Odz7p_46.803396_-96.818705@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294232,
+    "wof:geomhash":"17faf475063e5044a5f1dcc0167a113b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877333,
+            "region_id":85688525,
+            "venue_id":873537407
+        }
+    ],
+    "wof:id":873537407,
+    "wof:lastmodified":1464294232,
+    "wof:name":"Four D's Movers",
+    "wof:parent_id":85877333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "local",
+        "storage",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.818705,
+    46.803396,
+    -96.818705,
+    46.803396
+],
+  "geometry": {"coordinates":[-96.81870499999999,46.803396],"type":"Point"}
+}

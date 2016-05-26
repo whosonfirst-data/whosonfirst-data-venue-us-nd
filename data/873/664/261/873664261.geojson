@@ -1,0 +1,73 @@
+{
+  "id": 873664261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.317696,48.250692,-101.317696,48.250692",
+    "geom:latitude":48.250692,
+    "geom:longitude":-101.317696,
+    "iso:country":"US",
+    "sg:address":"1557 16th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 8771",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6see4e88f79RsLTb58r1IC_48.250692_-101.317696@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295742,
+    "wof:geomhash":"e25f1cc625942e198a8728b3d6aa818f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873664261
+        }
+    ],
+    "wof:id":873664261,
+    "wof:lastmodified":1464295742,
+    "wof:name":"Emerald Marketing Inc",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -101.317696,
+    48.250692,
+    -101.317696,
+    48.250692
+],
+  "geometry": {"coordinates":[-101.317696,48.250692],"type":"Point"}
+}

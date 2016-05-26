@@ -1,0 +1,56 @@
+{
+  "id": 873782161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-99.093365,46.32775,-99.093365,46.32775",
+    "geom:latitude":46.32775,
+    "geom:longitude":-99.093365,
+    "iso:country":"US",
+    "sg:address":"102 Main St",
+    "sg:city":"Fredonia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 698 2222",
+    "sg:postcode":"58440",
+    "sg:province":"ND",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5t2wAp6rON4lvfSo976mvy_46.327750_-99.093365@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297520,
+    "wof:geomhash":"4d4f7226e124997161f738b74accc3fe",
+    "wof:hierarchy":[],
+    "wof:id":873782161,
+    "wof:lastmodified":1464297520,
+    "wof:name":"Fredonia Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -99.093365,
+    46.32775,
+    -99.093365,
+    46.32775
+],
+  "geometry": {"coordinates":[-99.09336500000001,46.32775],"type":"Point"}
+}

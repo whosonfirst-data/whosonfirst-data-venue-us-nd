@@ -1,0 +1,71 @@
+{
+  "id": 873548571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.057276,47.942462,-97.057276,47.942462",
+    "geom:latitude":47.942462,
+    "geom:longitude":-97.057276,
+    "iso:country":"US",
+    "sg:address":"2210 Mill Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 7002",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ozbt6xSWmwroCoTsUfzUj_47.942462_-97.057276@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294362,
+    "wof:geomhash":"13bafc39a8c445b9a94fba13a6220211",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873548571
+        }
+    ],
+    "wof:id":873548571,
+    "wof:lastmodified":1464294362,
+    "wof:name":"B Clean Supply",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -97.057276,
+    47.942462,
+    -97.057276,
+    47.942462
+],
+  "geometry": {"coordinates":[-97.057276,47.942462],"type":"Point"}
+}

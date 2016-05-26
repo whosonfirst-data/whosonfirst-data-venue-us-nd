@@ -1,0 +1,77 @@
+{
+  "id": 873590573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.840358,46.816255,-96.840358,46.816255",
+    "geom:latitude":46.816255,
+    "geom:longitude":-96.840358,
+    "iso:country":"US",
+    "sg:address":"4105 38th St SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 364 0445",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "underground",
+        "wire",
+        "laying",
+        "cable"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1v8pIL3LP3jBz62UMORPNR_46.816255_-96.840358@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294837,
+    "wof:geomhash":"0ec24cf4d9e47d0f360467b5b7965a07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873590573
+        }
+    ],
+    "wof:id":873590573,
+    "wof:lastmodified":1464294837,
+    "wof:name":"JSK Contracting Inc",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "underground",
+        "wire",
+        "laying",
+        "cable"
+    ]
+},
+  "bbox": [
+    -96.840358,
+    46.816255,
+    -96.840358,
+    46.816255
+],
+  "geometry": {"coordinates":[-96.84035799999999,46.816255],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873571369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.060952,47.926488,-97.060952,47.926488",
+    "geom:latitude":47.926488,
+    "geom:longitude":-97.060952,
+    "iso:country":"US",
+    "sg:address":"610 N 24th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 792 3903",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MRQwLeLTu3701WB2ocx0d_47.926488_-97.060952@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294624,
+    "wof:geomhash":"3ca776645a2ecdfe06293e42deb10510",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873571369
+        }
+    ],
+    "wof:id":873571369,
+    "wof:lastmodified":1464294624,
+    "wof:name":"Morrison Heating-Air",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.060952,
+    47.926488,
+    -97.060952,
+    47.926488
+],
+  "geometry": {"coordinates":[-97.060952,47.926488],"type":"Point"}
+}

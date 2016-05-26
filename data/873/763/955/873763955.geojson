@@ -1,0 +1,79 @@
+{
+  "id": 873763955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.88213,48.127758,-97.88213,48.127758",
+    "geom:latitude":48.127758,
+    "geom:longitude":-97.88213,
+    "iso:country":"US",
+    "sg:address":"3143 49th St NE",
+    "sg:city":"Fordville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 384 6210",
+    "sg:postcode":"58231",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "property",
+        "wheat",
+        "soybean",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1j0b2FMrGsdV33EOuqTZbR_48.127758_-97.882130@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297273,
+    "wof:geomhash":"0e962a9766d093327137a84c94c5d42d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873763955
+        }
+    ],
+    "wof:id":873763955,
+    "wof:lastmodified":1464297273,
+    "wof:name":"Edgar Behm",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "property",
+        "wheat",
+        "soybean",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -97.88213,
+    48.127758,
+    -97.88213,
+    48.127758
+],
+  "geometry": {"coordinates":[-97.88213,48.127758],"type":"Point"}
+}

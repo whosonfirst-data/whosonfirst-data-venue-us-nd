@@ -1,0 +1,75 @@
+{
+  "id": 873653281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.035446,47.874286,-97.035446,47.874286",
+    "geom:latitude":47.874286,
+    "geom:longitude":-97.035446,
+    "iso:country":"US",
+    "sg:address":"702 Barley Ct",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 9255",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0irSmpSUclELKVNAelxV3I_47.874286_-97.035446@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295627,
+    "wof:geomhash":"c3e0cc37ef1ba3fbd33ebfce06449a0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873653281
+        }
+    ],
+    "wof:id":873653281,
+    "wof:lastmodified":1464295627,
+    "wof:name":"Parvey Trucking",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -97.035446,
+    47.874286,
+    -97.035446,
+    47.874286
+],
+  "geometry": {"coordinates":[-97.03544599999999,47.874286],"type":"Point"}
+}

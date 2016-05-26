@@ -1,0 +1,73 @@
+{
+  "id": 873608717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.774496,46.708453,-100.774496,46.708453",
+    "geom:latitude":46.708453,
+    "geom:longitude":-100.774496,
+    "iso:country":"US",
+    "sg:address":"8900 12th St SE",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 391 7130",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qyCbphRj7pQeCVwNkx8jC_46.708453_-100.774496@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295119,
+    "wof:geomhash":"d79fa29d7c8f4db1f3f19973dcdb2584",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873608717
+        }
+    ],
+    "wof:id":873608717,
+    "wof:lastmodified":1464295119,
+    "wof:name":"Groundtech",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.774496,
+    46.708453,
+    -100.774496,
+    46.708453
+],
+  "geometry": {"coordinates":[-100.774496,46.708453],"type":"Point"}
+}

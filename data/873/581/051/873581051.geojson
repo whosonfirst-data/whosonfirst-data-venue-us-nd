@@ -1,0 +1,73 @@
+{
+  "id": 873581051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.033947,47.886275,-97.033947,47.886275",
+    "geom:latitude":47.886275,
+    "geom:longitude":-97.033947,
+    "iso:country":"US",
+    "sg:address":"409 Terrace Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 740 3576",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6f1QCOHwJiFQMl7A8LVelE_47.886275_-97.033947@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294733,
+    "wof:geomhash":"b8786985b207d49f708475dbf4d95612",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873581051
+        }
+    ],
+    "wof:id":873581051,
+    "wof:lastmodified":1464294733,
+    "wof:name":"AAA Quality Cleaners",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -97.033947,
+    47.886275,
+    -97.033947,
+    47.886275
+],
+  "geometry": {"coordinates":[-97.033947,47.886275],"type":"Point"}
+}

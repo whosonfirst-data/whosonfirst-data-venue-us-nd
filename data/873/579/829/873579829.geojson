@@ -1,0 +1,79 @@
+{
+  "id": 873579829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.807647,46.822543,-100.807647,46.822543",
+    "geom:latitude":46.822543,
+    "geom:longitude":-100.807647,
+    "iso:country":"US",
+    "sg:address":"1110 College Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 2008",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uhvbnQ0EVOYkTAtKuLWB0_46.822543_-100.807647@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294716,
+    "wof:geomhash":"35546c851419eeb0bfbe18a9d293a335",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873579829
+        }
+    ],
+    "wof:id":873579829,
+    "wof:lastmodified":1464294716,
+    "wof:name":"Soul Survivor Counseling Svc",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ]
+},
+  "bbox": [
+    -100.807647,
+    46.822543,
+    -100.807647,
+    46.822543
+],
+  "geometry": {"coordinates":[-100.807647,46.822543],"type":"Point"}
+}

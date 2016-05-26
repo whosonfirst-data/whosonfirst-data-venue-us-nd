@@ -1,0 +1,73 @@
+{
+  "id": 873679895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.037397,47.898917,-97.037397,47.898917",
+    "geom:latitude":47.898917,
+    "geom:longitude":-97.037397,
+    "iso:country":"US",
+    "sg:address":"2116 Oak St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 7465",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ze0Lz8xSU7NDg06GlJae5_47.898917_-97.037397@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295993,
+    "wof:geomhash":"e4d7bc2e132dc552694c5efefa896c0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873679895
+        }
+    ],
+    "wof:id":873679895,
+    "wof:lastmodified":1464295993,
+    "wof:name":"Charlys Painting",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.037397,
+    47.898917,
+    -97.037397,
+    47.898917
+],
+  "geometry": {"coordinates":[-97.037397,47.898917],"type":"Point"}
+}

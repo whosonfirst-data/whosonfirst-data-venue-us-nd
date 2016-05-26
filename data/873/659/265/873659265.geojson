@@ -1,0 +1,73 @@
+{
+  "id": 873659265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.870167,47.995745,-97.870167,47.995745",
+    "geom:latitude":47.995745,
+    "geom:longitude":-97.870167,
+    "iso:country":"US",
+    "sg:address":"106 2nd St",
+    "sg:city":"Niagara",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 397 5240",
+    "sg:postcode":"58266",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repairing",
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5buyriai9fy9G19USzYytH_47.995745_-97.870167@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295691,
+    "wof:geomhash":"77c961fc3a757b1baa02620b53e810a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873659265
+        }
+    ],
+    "wof:id":873659265,
+    "wof:lastmodified":1464295691,
+    "wof:name":"Brueck's Small Engine Repair",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "engine"
+    ]
+},
+  "bbox": [
+    -97.870167,
+    47.995745,
+    -97.870167,
+    47.995745
+],
+  "geometry": {"coordinates":[-97.870167,47.995745],"type":"Point"}
+}

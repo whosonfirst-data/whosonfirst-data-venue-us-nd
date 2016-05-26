@@ -1,0 +1,73 @@
+{
+  "id": 873615647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.219716,48.22915,-101.219716,48.22915",
+    "geom:latitude":48.22915,
+    "geom:longitude":-101.219716,
+    "iso:country":"US",
+    "sg:address":"5300 US Hwy 2 Bus",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 2274",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "product",
+        "asphalt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6p0xHUQKbjG7I7FqQOjHl2_48.229150_-101.219716@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295202,
+    "wof:geomhash":"da0027fa47e00cbad7e920c64feca8e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873615647
+        }
+    ],
+    "wof:id":873615647,
+    "wof:lastmodified":1464295202,
+    "wof:name":"Steen's Asphalt Repair",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "asphalt"
+    ]
+},
+  "bbox": [
+    -101.219716,
+    48.22915,
+    -101.219716,
+    48.22915
+],
+  "geometry": {"coordinates":[-101.21971600000001,48.22915],"type":"Point"}
+}

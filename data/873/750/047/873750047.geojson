@@ -1,0 +1,81 @@
+{
+  "id": 873750047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.831981,46.871314,-96.831981,46.871314",
+    "geom:latitude":46.871314,
+    "geom:longitude":-96.831981,
+    "iso:country":"US",
+    "sg:address":"3321 4th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 6227",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WnbpaPBHxbqreRCKQBvZU_46.871314_-96.831981@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297075,
+    "wof:geomhash":"e0ca38be3f6c162f7a90613ea3145410",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873750047
+        }
+    ],
+    "wof:id":873750047,
+    "wof:lastmodified":1464297075,
+    "wof:name":"Northern Mechanical Company",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.831981,
+    46.871314,
+    -96.831981,
+    46.871314
+],
+  "geometry": {"coordinates":[-96.831981,46.871314],"type":"Point"}
+}

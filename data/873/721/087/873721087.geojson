@@ -1,0 +1,77 @@
+{
+  "id": 873721087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.76949,46.823535,-100.76949,46.823535",
+    "geom:latitude":46.823535,
+    "geom:longitude":-100.76949,
+    "iso:country":"US",
+    "sg:address":"1417 E Divide Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 3563",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "family",
+        "child"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ivpp7cNJom43GJu1KJKf0_46.823535_-100.769490@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296664,
+    "wof:geomhash":"cf3be935f9ac8610229cf36fb566b366",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873721087
+        }
+    ],
+    "wof:id":873721087,
+    "wof:lastmodified":1464296664,
+    "wof:name":"Good Bird Home",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "family",
+        "child"
+    ]
+},
+  "bbox": [
+    -100.76949,
+    46.823535,
+    -100.76949,
+    46.823535
+],
+  "geometry": {"coordinates":[-100.76949,46.823535],"type":"Point"}
+}

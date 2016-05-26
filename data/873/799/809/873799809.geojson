@@ -1,0 +1,73 @@
+{
+  "id": 873799809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.014073,46.649568,-97.014073,46.649568",
+    "geom:latitude":46.649568,
+    "geom:longitude":-97.014073,
+    "iso:country":"US",
+    "sg:address":"195 Spruce St",
+    "sg:city":"Kindred",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 428 3686",
+    "sg:postcode":"58051",
+    "sg:province":"ND",
+    "sg:tags":[
+        "nursery",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Gr7RGTfW85kV6pvglKv0Y_46.649568_-97.014073@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297771,
+    "wof:geomhash":"384a2230b84b4c309a6c5d19647cbfca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873799809
+        }
+    ],
+    "wof:id":873799809,
+    "wof:lastmodified":1464297771,
+    "wof:name":"Playtime Plus Learning Ce",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursery",
+        "day"
+    ]
+},
+  "bbox": [
+    -97.014073,
+    46.649568,
+    -97.014073,
+    46.649568
+],
+  "geometry": {"coordinates":[-97.014073,46.649568],"type":"Point"}
+}

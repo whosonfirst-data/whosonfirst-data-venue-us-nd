@@ -1,0 +1,74 @@
+{
+  "id": 873774017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.05016,47.930128,-97.05016,47.930128",
+    "geom:latitude":47.930128,
+    "geom:longitude":-97.05016,
+    "iso:country":"US",
+    "sg:address":"1505 11th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 0980",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "builder",
+        "deck"
+    ],
+    "sg:website":"www.anlsiding.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75s8hgNFwdxqcrHYYLqhmM_47.930128_-97.050160@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297413,
+    "wof:geomhash":"dd95e94ca908833f379954fe5c5328e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873774017
+        }
+    ],
+    "wof:id":873774017,
+    "wof:lastmodified":1464297413,
+    "wof:name":"A & L Siding & Home Imprvmnt",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "deck"
+    ]
+},
+  "bbox": [
+    -97.05016,
+    47.930128,
+    -97.05016,
+    47.930128
+],
+  "geometry": {"coordinates":[-97.05016000000001,47.930128],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873643207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.314871,48.209553,-101.314871,48.209553",
+    "geom:latitude":48.209553,
+    "geom:longitude":-101.314871,
+    "iso:country":"US",
+    "sg:address":"1515 22nd Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 2201",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rBsRfqbkYSg89pq5kgrNS_48.209553_-101.314871@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295517,
+    "wof:geomhash":"8290371daea1a3b7d6f75681689abd87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873643207
+        }
+    ],
+    "wof:id":873643207,
+    "wof:lastmodified":1464295517,
+    "wof:name":"Comfort Inn",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -101.314871,
+    48.209553,
+    -101.314871,
+    48.209553
+],
+  "geometry": {"coordinates":[-101.314871,48.209553],"type":"Point"}
+}

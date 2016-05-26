@@ -1,0 +1,75 @@
+{
+  "id": 873556751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.279514,48.232604,-101.279514,48.232604",
+    "geom:latitude":48.232604,
+    "geom:longitude":-101.279514,
+    "iso:country":"US",
+    "sg:address":"405 9th St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 4431",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "distribution",
+        "product",
+        "coca"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6R51rMd7kjYyneEcK2qaTp_48.232604_-101.279514@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294457,
+    "wof:geomhash":"1fc075e400a8af65e1ca0cb8092d854d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873556751
+        }
+    ],
+    "wof:id":873556751,
+    "wof:lastmodified":1464294457,
+    "wof:name":"Coca-Cola",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distribution",
+        "product",
+        "coca"
+    ]
+},
+  "bbox": [
+    -101.279514,
+    48.232604,
+    -101.279514,
+    48.232604
+],
+  "geometry": {"coordinates":[-101.27951400000001,48.232604],"type":"Point"}
+}

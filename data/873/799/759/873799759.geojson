@@ -1,0 +1,75 @@
+{
+  "id": 873799759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.9206,46.74942,-96.9206,46.74942",
+    "geom:latitude":46.74942,
+    "geom:longitude":-96.9206,
+    "iso:country":"US",
+    "sg:address":"7906 Sunset Dr",
+    "sg:city":"Horace",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 281 5966",
+    "sg:postcode":"58047",
+    "sg:province":"ND",
+    "sg:tags":[
+        "system",
+        "contractor",
+        "air conditioning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pmJWUys6GoYwT5xyw1cyu_46.749420_-96.920600@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297770,
+    "wof:geomhash":"dc30e78ef05d0c81de62a00aeba4b3c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873799759
+        }
+    ],
+    "wof:id":873799759,
+    "wof:lastmodified":1464297770,
+    "wof:name":"Schakelton Heating & Cooling I",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system",
+        "contractor",
+        "air conditioning"
+    ]
+},
+  "bbox": [
+    -96.9206,
+    46.74942,
+    -96.9206,
+    46.74942
+],
+  "geometry": {"coordinates":[-96.92059999999999,46.74942],"type":"Point"}
+}

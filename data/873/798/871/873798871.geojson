@@ -1,0 +1,80 @@
+{
+  "id": 873798871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.79844,46.858149,-96.79844,46.858149",
+    "geom:latitude":46.858149,
+    "geom:longitude":-96.79844,
+    "iso:country":"US",
+    "sg:address":"1439 University Dr S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/fargo/101257-cousins-subs/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 5553",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534479,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EcO7oiXo4YBfJcIKZSvO6_46.857675_-96.798549@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297760,
+    "wof:geomhash":"60f3e57500f530bba55d4d2969317ffb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534479,
+            "region_id":85688525,
+            "venue_id":873798871
+        }
+    ],
+    "wof:id":873798871,
+    "wof:lastmodified":1464297760,
+    "wof:name":"Cousin's Subs",
+    "wof:parent_id":420534479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -96.79844,
+    46.858149,
+    -96.79844,
+    46.858149
+],
+  "geometry": {"coordinates":[-96.79844,46.858149],"type":"Point"}
+}

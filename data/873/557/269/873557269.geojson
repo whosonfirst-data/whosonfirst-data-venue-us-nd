@@ -1,0 +1,71 @@
+{
+  "id": 873557269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.051606,47.935963,-97.051606,47.935963",
+    "geom:latitude":47.935963,
+    "geom:longitude":-97.051606,
+    "iso:country":"US",
+    "sg:address":"1708 Mill Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 4366",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "tavern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2T6o5Y288Dozo1noVxnRMb_47.935963_-97.051606@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294463,
+    "wof:geomhash":"fd297830d94883569303841430aebd82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873557269
+        }
+    ],
+    "wof:id":873557269,
+    "wof:lastmodified":1464294463,
+    "wof:name":"Bun Lounge Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern"
+    ]
+},
+  "bbox": [
+    -97.051606,
+    47.935963,
+    -97.051606,
+    47.935963
+],
+  "geometry": {"coordinates":[-97.05160600000001,47.935963],"type":"Point"}
+}

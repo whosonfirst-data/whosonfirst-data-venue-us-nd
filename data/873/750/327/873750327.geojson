@@ -1,0 +1,77 @@
+{
+  "id": 873750327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.787981,46.805401,-100.787981,46.805401",
+    "geom:latitude":46.805401,
+    "geom:longitude":-100.787981,
+    "iso:country":"US",
+    "sg:address":"223 E Main Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 5619",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "machine",
+        "cleaners",
+        "sewing",
+        "vacuum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jHMGO1F00z3NnIcjHZaMv_46.805401_-100.787981@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297078,
+    "wof:geomhash":"73495d12a9de558ea98f2639f2b1355c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873750327
+        }
+    ],
+    "wof:id":873750327,
+    "wof:lastmodified":1464297078,
+    "wof:name":"J & R Vacuum & Sewing Inc",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "cleaners",
+        "sewing",
+        "vacuum"
+    ]
+},
+  "bbox": [
+    -100.787981,
+    46.805401,
+    -100.787981,
+    46.805401
+],
+  "geometry": {"coordinates":[-100.787981,46.805401],"type":"Point"}
+}

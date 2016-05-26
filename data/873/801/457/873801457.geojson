@@ -1,0 +1,76 @@
+{
+  "id": 873801457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.842411,46.888693,-96.842411,46.888693",
+    "geom:latitude":46.888693,
+    "geom:longitude":-96.842411,
+    "iso:country":"US",
+    "sg:address":"1101 38th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 281 2109",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "lodging"
+    ],
+    "sg:website":"http://www.super8.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CnhL1uGS07EAnepn8GH66_46.888693_-96.842411@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297791,
+    "wof:geomhash":"948893ac767c109364e0f23e84949ef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873801457
+        }
+    ],
+    "wof:id":873801457,
+    "wof:lastmodified":1464297791,
+    "wof:name":"Super 8 Fargo",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lodging"
+    ]
+},
+  "bbox": [
+    -96.842411,
+    46.888693,
+    -96.842411,
+    46.888693
+],
+  "geometry": {"coordinates":[-96.842411,46.888693],"type":"Point"}
+}

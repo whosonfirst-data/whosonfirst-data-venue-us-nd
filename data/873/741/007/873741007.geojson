@@ -1,0 +1,66 @@
+{
+  "id": 873741007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.319094,48.233925,-101.319094,48.233925",
+    "geom:latitude":48.233925,
+    "geom:longitude":-101.319094,
+    "iso:country":"US",
+    "sg:address":"1705 2nd Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 2170",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TikgeYtFXvkLwwoTjqpJx_48.233925_-101.319094@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296937,
+    "wof:geomhash":"42c1ecd2b5cae7158264ea2826864805",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873741007
+        }
+    ],
+    "wof:id":873741007,
+    "wof:lastmodified":1464296937,
+    "wof:name":"First International Bank-Trust",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.319094,
+    48.233925,
+    -101.319094,
+    48.233925
+],
+  "geometry": {"coordinates":[-101.31909400000001,48.233925],"type":"Point"}
+}

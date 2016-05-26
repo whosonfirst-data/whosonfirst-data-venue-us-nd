@@ -1,0 +1,71 @@
+{
+  "id": 873581593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.288474,48.239349,-101.288474,48.239349",
+    "geom:latitude":48.239349,
+    "geom:longitude":-101.288474,
+    "iso:country":"US",
+    "sg:address":"100 3rd St NE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 9312",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JhxPlEkiEqZ65BA2DSHAq_48.239349_-101.288474@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294739,
+    "wof:geomhash":"3a40c1af57d0ea0450c5654edb4f3cf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873581593
+        }
+    ],
+    "wof:id":873581593,
+    "wof:lastmodified":1464294739,
+    "wof:name":"Ice Box",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -101.288474,
+    48.239349,
+    -101.288474,
+    48.239349
+],
+  "geometry": {"coordinates":[-101.28847399999999,48.239349],"type":"Point"}
+}

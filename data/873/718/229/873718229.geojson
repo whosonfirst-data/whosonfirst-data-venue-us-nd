@@ -1,0 +1,73 @@
+{
+  "id": 873718229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.323204,48.204477,-101.323204,48.204477",
+    "geom:latitude":48.204477,
+    "geom:longitude":-101.323204,
+    "iso:country":"US",
+    "sg:address":"1709 Meadowlark Dr SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 833 1394",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "merchandise",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WjK1zg1uhqQ4PGvN2yTfC_48.204477_-101.323204@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296623,
+    "wof:geomhash":"8d79cc3858acd90638366df0d58bf9dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873718229
+        }
+    ],
+    "wof:id":873718229,
+    "wof:lastmodified":1464296623,
+    "wof:name":"Minot 5",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise",
+        "general"
+    ]
+},
+  "bbox": [
+    -101.323204,
+    48.204477,
+    -101.323204,
+    48.204477
+],
+  "geometry": {"coordinates":[-101.323204,48.204477],"type":"Point"}
+}

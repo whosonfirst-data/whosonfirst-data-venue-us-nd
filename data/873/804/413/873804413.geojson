@@ -1,0 +1,91 @@
+{
+  "id": 873804413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.824633,46.874743,-96.824633,46.874743",
+    "geom:latitude":46.874743,
+    "geom:longitude":-96.824633,
+    "iso:country":"US",
+    "sg:address":"124 28th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 7583",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "contractor",
+        "hardware-builders",
+        "store",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2V83LQUZKUp0x8F6ckR1kJ_46.874743_-96.824633@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297828,
+    "wof:geomhash":"6f0489c321c14331a058cf4d58750fe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873804413
+        }
+    ],
+    "wof:id":873804413,
+    "wof:lastmodified":1464297828,
+    "wof:name":"Northwestern Equipment, Inc.",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "hardware-builders",
+        "store",
+        "supply"
+    ]
+},
+  "bbox": [
+    -96.824633,
+    46.874743,
+    -96.824633,
+    46.874743
+],
+  "geometry": {"coordinates":[-96.82463300000001,46.874743],"type":"Point"}
+}

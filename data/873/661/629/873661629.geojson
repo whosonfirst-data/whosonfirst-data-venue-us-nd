@@ -1,0 +1,73 @@
+{
+  "id": 873661629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.297633,48.258407,-101.297633,48.258407",
+    "geom:latitude":48.258407,
+    "geom:longitude":-101.297633,
+    "iso:country":"US",
+    "sg:address":"2045 3rd St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 5399",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102531137,
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1m4keSARlGxHuRHAYANsIG_48.258407_-101.297633@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295716,
+    "wof:geomhash":"e42a23e2d79dbc506338f7cb605e2177",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531137,
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873661629
+        }
+    ],
+    "wof:id":873661629,
+    "wof:lastmodified":1464295716,
+    "wof:name":"Dakota Baptist School",
+    "wof:parent_id":102531137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -101.297633,
+    48.258407,
+    -101.297633,
+    48.258407
+],
+  "geometry": {"coordinates":[-101.297633,48.258407],"type":"Point"}
+}

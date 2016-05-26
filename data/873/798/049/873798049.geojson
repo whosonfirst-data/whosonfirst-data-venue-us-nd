@@ -1,0 +1,76 @@
+{
+  "id": 873798049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.730962,46.834325,-100.730962,46.834325",
+    "geom:latitude":46.834325,
+    "geom:longitude":-100.730962,
+    "iso:country":"US",
+    "sg:address":"3921 Trenton Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/bismarck/115855-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 530 0300",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kBN8VhrjS701D7TjjrA7G_46.834325_-100.730962@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297751,
+    "wof:geomhash":"f3d9994126116f295675992b6145eb8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873798049
+        }
+    ],
+    "wof:id":873798049,
+    "wof:lastmodified":1464297751,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -100.730962,
+    46.834325,
+    -100.730962,
+    46.834325
+],
+  "geometry": {"coordinates":[-100.73096200000001,46.834325],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873599983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.762728,46.79939,-100.762728,46.79939",
+    "geom:latitude":46.79939,
+    "geom:longitude":-100.762728,
+    "iso:country":"US",
+    "sg:address":"539 Airport Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 0890",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rdRc0yN33DirvIRtqAWa7_46.799390_-100.762728@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294987,
+    "wof:geomhash":"f495336d6d60f660b0c3d17f7d68daf2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873599983
+        }
+    ],
+    "wof:id":873599983,
+    "wof:lastmodified":1464294987,
+    "wof:name":"American Family Insurance",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.762728,
+    46.79939,
+    -100.762728,
+    46.79939
+],
+  "geometry": {"coordinates":[-100.762728,46.79939],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873723549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.10888,47.775621,-97.10888,47.775621",
+    "geom:latitude":47.775621,
+    "geom:longitude":-97.10888,
+    "iso:country":"US",
+    "sg:address":"321 3rd St",
+    "sg:city":"Thompson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 741 4194",
+    "sg:postcode":"58278",
+    "sg:province":"ND",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cZFttIJ5IiBYy8jlqyeK7_47.775621_-97.108880@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296694,
+    "wof:geomhash":"6b9e37235f624c14be6afffe86c209a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873723549
+        }
+    ],
+    "wof:id":873723549,
+    "wof:lastmodified":1464296694,
+    "wof:name":"ABC Lawn & Lawnscape",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.10888,
+    47.775621,
+    -97.10888,
+    47.775621
+],
+  "geometry": {"coordinates":[-97.10888,47.775621],"type":"Point"}
+}

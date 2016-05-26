@@ -1,0 +1,80 @@
+{
+  "id": 873802571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.84158,46.855402,-96.84158,46.855402",
+    "geom:latitude":46.855402,
+    "geom:longitude":-96.84158,
+    "iso:country":"US",
+    "sg:address":"1623 38th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 540 5223",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "plate",
+        "window",
+        "glass-auto"
+    ],
+    "sg:website":"http://www.savers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cBYVbDgbnBsAG6eWxR6lY_46.855402_-96.841580@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297805,
+    "wof:geomhash":"07938580f65a4f5bbfbe1a4efbf77266",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873802571
+        }
+    ],
+    "wof:id":873802571,
+    "wof:lastmodified":1464297805,
+    "wof:name":"Savers",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plate",
+        "window",
+        "glass-auto"
+    ]
+},
+  "bbox": [
+    -96.84158,
+    46.855402,
+    -96.84158,
+    46.855402
+],
+  "geometry": {"coordinates":[-96.84157999999999,46.855402],"type":"Point"}
+}

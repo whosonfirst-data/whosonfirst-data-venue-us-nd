@@ -1,0 +1,66 @@
+{
+  "id": 873621911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.811007,46.806696,-100.811007,46.806696",
+    "geom:latitude":46.806696,
+    "geom:longitude":-100.811007,
+    "iso:country":"US",
+    "sg:address":"1125 Memorial Hwy",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Meat",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 221 9142",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PvrPaDq4gxNYigz8FAEM8_46.806696_-100.811007@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295269,
+    "wof:geomhash":"ccd61bd93b943189626f361ef15cc798",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873621911
+        }
+    ],
+    "wof:id":873621911,
+    "wof:lastmodified":1464295269,
+    "wof:name":"West Dakota Meats",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.811007,
+    46.806696,
+    -100.811007,
+    46.806696
+],
+  "geometry": {"coordinates":[-100.811007,46.806696],"type":"Point"}
+}

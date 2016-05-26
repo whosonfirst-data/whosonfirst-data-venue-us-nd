@@ -1,0 +1,76 @@
+{
+  "id": 873796987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.828089,46.83262,-96.828089,46.83262",
+    "geom:latitude":46.83262,
+    "geom:longitude":-96.828089,
+    "iso:country":"US",
+    "sg:address":"3003 32nd St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/fargo/11104-saffron/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 241 4200",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534467,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xl43RU7bIi8gnIoW2Gtgw_46.832620_-96.828089@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297738,
+    "wof:geomhash":"de724f386796cfd9ae61609a447e5a38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534467,
+            "region_id":85688525,
+            "venue_id":873796987
+        }
+    ],
+    "wof:id":873796987,
+    "wof:lastmodified":1464297738,
+    "wof:name":"Saffron",
+    "wof:parent_id":420534467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -96.828089,
+    46.83262,
+    -96.828089,
+    46.83262
+],
+  "geometry": {"coordinates":[-96.82808900000001,46.83262],"type":"Point"}
+}

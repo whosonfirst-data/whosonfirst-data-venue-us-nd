@@ -1,0 +1,71 @@
+{
+  "id": 873594265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.741452,46.809039,-100.741452,46.809039",
+    "geom:latitude":46.809039,
+    "geom:longitude":-100.741452,
+    "iso:country":"US",
+    "sg:address":"3205 E Thayer Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 221 9060",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7g5XYWJ471RLvLlkrj8HrO_46.809039_-100.741452@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294888,
+    "wof:geomhash":"ff02fa0ed179dad03925d2ef12940248",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873594265
+        }
+    ],
+    "wof:id":873594265,
+    "wof:lastmodified":1464294888,
+    "wof:name":"N D Linc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -100.741452,
+    46.809039,
+    -100.741452,
+    46.809039
+],
+  "geometry": {"coordinates":[-100.741452,46.809039],"type":"Point"}
+}

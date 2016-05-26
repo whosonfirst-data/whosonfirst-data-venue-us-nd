@@ -1,0 +1,83 @@
+{
+  "id": 873803047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.819969,46.832717,-96.819969,46.832717",
+    "geom:latitude":46.832717,
+    "geom:longitude":-96.819969,
+    "iso:country":"US",
+    "sg:address":"3175 25th St S Ste D",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 8000",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "consultant",
+        "analyst"
+    ],
+    "sg:website":"http://www.nodakmutual.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534467,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JKhpiX7nBbglZQFyASGYt_46.832717_-96.819969@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297810,
+    "wof:geomhash":"de35f76cb91a85c80c692ffb8c32cbcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534467,
+            "region_id":85688525,
+            "venue_id":873803047
+        }
+    ],
+    "wof:id":873803047,
+    "wof:lastmodified":1464297810,
+    "wof:name":"Lura, Duey",
+    "wof:parent_id":420534467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "analyst"
+    ]
+},
+  "bbox": [
+    -96.819969,
+    46.832717,
+    -96.819969,
+    46.832717
+],
+  "geometry": {"coordinates":[-96.819969,46.832717],"type":"Point"}
+}

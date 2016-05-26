@@ -1,0 +1,79 @@
+{
+  "id": 873740783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.348855,47.037658,-97.348855,47.037658",
+    "geom:latitude":47.037658,
+    "geom:longitude":-97.348855,
+    "iso:country":"US",
+    "sg:address":"2581 149th Ave SE",
+    "sg:city":"Amenia",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 347 5903",
+    "sg:postcode":"58004",
+    "sg:province":"ND",
+    "sg:tags":[
+        "hog",
+        "or",
+        "feedlot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LeY3WAAUp0UlRLTN84g9z_47.037658_-97.348855@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296933,
+    "wof:geomhash":"f361eb82934c159a1ac3dcfe96c7567d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873740783
+        }
+    ],
+    "wof:id":873740783,
+    "wof:lastmodified":1464296933,
+    "wof:name":"Faught Hog Farms",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hog",
+        "or",
+        "feedlot"
+    ]
+},
+  "bbox": [
+    -97.348855,
+    47.037658,
+    -97.348855,
+    47.037658
+],
+  "geometry": {"coordinates":[-97.348855,47.037658],"type":"Point"}
+}

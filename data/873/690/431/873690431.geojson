@@ -1,0 +1,78 @@
+{
+  "id": 873690431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.947473,46.679716,-96.947473,46.679716",
+    "geom:latitude":46.679716,
+    "geom:longitude":-96.947473,
+    "iso:country":"US",
+    "sg:address":"5069 168th Ave SE",
+    "sg:city":"Kindred",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 428 3853",
+    "sg:postcode":"58051",
+    "sg:province":"ND",
+    "sg:tags":[
+        "handling",
+        "grain",
+        "system",
+        "contractor"
+    ],
+    "sg:website":"www.superiorincnd.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UopFUrsvrUjkxXmeMe8h6_46.679716_-96.947473@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296285,
+    "wof:geomhash":"1c555fe78267177970678afdb15b7b62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873690431
+        }
+    ],
+    "wof:id":873690431,
+    "wof:lastmodified":1464296285,
+    "wof:name":"Superior Inc",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "handling",
+        "grain",
+        "system",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.947473,
+    46.679716,
+    -96.947473,
+    46.679716
+],
+  "geometry": {"coordinates":[-96.947473,46.679716],"type":"Point"}
+}

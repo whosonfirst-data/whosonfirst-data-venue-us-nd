@@ -1,0 +1,80 @@
+{
+  "id": 873568961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.606037,46.701218,-100.606037,46.701218",
+    "geom:latitude":46.701218,
+    "geom:longitude":-100.606037,
+    "iso:country":"US",
+    "sg:address":"9401 119th St SE",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 4883",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "sanitary",
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uk4s6IAYGvhJnZqoP3ZLu_46.701218_-100.606037@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294595,
+    "wof:geomhash":"154ba047ade30d8a4e97264959108cd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873568961
+        }
+    ],
+    "wof:id":873568961,
+    "wof:lastmodified":1464294595,
+    "wof:name":"Holte & Son's Excavating Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sanitary",
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.606037,
+    46.701218,
+    -100.606037,
+    46.701218
+],
+  "geometry": {"coordinates":[-100.606037,46.701218],"type":"Point"}
+}

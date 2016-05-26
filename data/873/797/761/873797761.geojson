@@ -1,0 +1,74 @@
+{
+  "id": 873797761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.053973,47.933119,-97.053973,47.933119",
+    "geom:latitude":47.933119,
+    "geom:longitude":-97.053973,
+    "iso:country":"US",
+    "sg:address":"1909 Gateway Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/grand-forks/23575-slap-shot-pizza--fat-alberts-subs/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 4771",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hATJ9A2fdqAV56Ud5weFe_47.933119_-97.053973@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297747,
+    "wof:geomhash":"e0b15407d576632ae29ec34b5d3a1431",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873797761
+        }
+    ],
+    "wof:id":873797761,
+    "wof:lastmodified":1464297747,
+    "wof:name":"Slap Shot Pizza & Fat Alberts Subs",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -97.053973,
+    47.933119,
+    -97.053973,
+    47.933119
+],
+  "geometry": {"coordinates":[-97.053973,47.933119],"type":"Point"}
+}

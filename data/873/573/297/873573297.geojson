@@ -1,0 +1,75 @@
+{
+  "id": 873573297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-102.787235,46.893373,-102.787235,46.893373",
+    "geom:latitude":46.893373,
+    "geom:longitude":-102.787235,
+    "iso:country":"US",
+    "sg:address":"59 Osborn Dr",
+    "sg:city":"Dickinson",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 225 2727",
+    "sg:postcode":"58601",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877119,
+        102191575,
+        404482179,
+        85633793,
+        85982521,
+        102082105,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cHHJBXbRM7pQVCEEBYDXq_46.893373_-102.787235@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294644,
+    "wof:geomhash":"103b80b490f94d6524beb49fa07e108a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082105,
+            "localadmin_id":404482179,
+            "locality_id":85982521,
+            "neighbourhood_id":85877119,
+            "region_id":85688525,
+            "venue_id":873573297
+        }
+    ],
+    "wof:id":873573297,
+    "wof:lastmodified":1464294644,
+    "wof:name":"River Of Life Assembly",
+    "wof:parent_id":85877119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -102.787235,
+    46.893373,
+    -102.787235,
+    46.893373
+],
+  "geometry": {"coordinates":[-102.787235,46.893373],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 873684651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.782843,46.813927,-100.782843,46.813927",
+    "geom:latitude":46.813927,
+    "geom:longitude":-100.782843,
+    "iso:country":"US",
+    "sg:address":"807 N 6th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 6877",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AV9CFKN9FGFz4eYJ9tuFw_46.813927_-100.782843@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296128,
+    "wof:geomhash":"63261ab2936f1f89e011d1cbad0453ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873684651
+        }
+    ],
+    "wof:id":873684651,
+    "wof:lastmodified":1464296128,
+    "wof:name":"White Lace Bed & Breakfast Inn",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ]
+},
+  "bbox": [
+    -100.782843,
+    46.813927,
+    -100.782843,
+    46.813927
+],
+  "geometry": {"coordinates":[-100.782843,46.813927],"type":"Point"}
+}

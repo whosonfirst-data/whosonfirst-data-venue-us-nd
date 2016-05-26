@@ -1,0 +1,71 @@
+{
+  "id": 873759387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.095984,47.923182,-97.095984,47.923182",
+    "geom:latitude":47.923182,
+    "geom:longitude":-97.095984,
+    "iso:country":"US",
+    "sg:address":"432 Burdick Ct",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 8629",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7isjyTjRF31jV7k5QY8V8q_47.923182_-97.095984@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297199,
+    "wof:geomhash":"47f2593841e6419e917561bd0b34c7ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873759387
+        }
+    ],
+    "wof:id":873759387,
+    "wof:lastmodified":1464297199,
+    "wof:name":"Burdick Baby Care",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -97.095984,
+    47.923182,
+    -97.095984,
+    47.923182
+],
+  "geometry": {"coordinates":[-97.095984,47.923182],"type":"Point"}
+}

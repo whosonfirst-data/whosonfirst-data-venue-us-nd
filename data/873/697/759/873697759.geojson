@@ -1,0 +1,75 @@
+{
+  "id": 873697759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.049341,47.921105,-97.049341,47.921105",
+    "geom:latitude":47.921105,
+    "geom:longitude":-97.049341,
+    "iso:country":"US",
+    "sg:address":"1505 2nd Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 5980",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MK0JG7eK81eBV9LyeXEo6_47.921105_-97.049341@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296382,
+    "wof:geomhash":"92e0b7878741753657f1f6cfb682d52d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873697759
+        }
+    ],
+    "wof:id":873697759,
+    "wof:lastmodified":1464296382,
+    "wof:name":"Carpet Care",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -97.049341,
+    47.921105,
+    -97.049341,
+    47.921105
+],
+  "geometry": {"coordinates":[-97.049341,47.921105],"type":"Point"}
+}

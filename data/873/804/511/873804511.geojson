@@ -1,0 +1,81 @@
+{
+  "id": 873804511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.804024,46.839082,-96.804024,46.839082",
+    "geom:latitude":46.839082,
+    "geom:longitude":-96.804024,
+    "iso:country":"US",
+    "sg:address":"1529 27th Ave S Apt 201",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 6562",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "wallcoverings-installation",
+        "wallpaper",
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534475,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pDmBkzspGkE5loAdWN8TW_46.839082_-96.804024@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297829,
+    "wof:geomhash":"62306f4978144a24aa2f335251ab2366",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534475,
+            "region_id":85688525,
+            "venue_id":873804511
+        }
+    ],
+    "wof:id":873804511,
+    "wof:lastmodified":1464297829,
+    "wof:name":"Van Dyke, Rick Painting",
+    "wof:parent_id":420534475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wallcoverings-installation",
+        "wallpaper",
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.804024,
+    46.839082,
+    -96.804024,
+    46.839082
+],
+  "geometry": {"coordinates":[-96.804024,46.839082],"type":"Point"}
+}

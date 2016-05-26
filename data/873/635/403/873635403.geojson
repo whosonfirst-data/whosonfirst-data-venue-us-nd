@@ -1,0 +1,73 @@
+{
+  "id": 873635403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.297691,48.257002,-101.297691,48.257002",
+    "geom:latitude":48.257002,
+    "geom:longitude":-101.297691,
+    "iso:country":"US",
+    "sg:address":"2017 3rd St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 0939",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102531137,
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KRYJM8HVhoZeas2LotyDY_48.257002_-101.297691@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295426,
+    "wof:geomhash":"191b21c27b304405a132637d818e2d19",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531137,
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873635403
+        }
+    ],
+    "wof:id":873635403,
+    "wof:lastmodified":1464295426,
+    "wof:name":"Huber Window Cleaning",
+    "wof:parent_id":102531137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -101.297691,
+    48.257002,
+    -101.297691,
+    48.257002
+],
+  "geometry": {"coordinates":[-101.297691,48.257002],"type":"Point"}
+}

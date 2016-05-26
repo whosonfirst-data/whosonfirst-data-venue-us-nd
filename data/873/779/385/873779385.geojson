@@ -1,0 +1,71 @@
+{
+  "id": 873779385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.038916,47.894908,-97.038916,47.894908",
+    "geom:latitude":47.894908,
+    "geom:longitude":-97.038916,
+    "iso:country":"US",
+    "sg:address":"2709 Olive St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 9595",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64hYAw5FtB80MTSNxPIdTO_47.894908_-97.038916@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297481,
+    "wof:geomhash":"b5b6210d5e2eb0603e4c3f8ca6060e63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873779385
+        }
+    ],
+    "wof:id":873779385,
+    "wof:lastmodified":1464297481,
+    "wof:name":"Z Salon",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -97.038916,
+    47.894908,
+    -97.038916,
+    47.894908
+],
+  "geometry": {"coordinates":[-97.038916,47.894908],"type":"Point"}
+}

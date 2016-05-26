@@ -1,0 +1,73 @@
+{
+  "id": 873696309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.815377,46.80978,-100.815377,46.80978",
+    "geom:latitude":46.80978,
+    "geom:longitude":-100.815377,
+    "iso:country":"US",
+    "sg:address":"432 Fraine Barracks Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 333 2000",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "state",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hskJb6bYig2XPOCiZ9vK2_46.809780_-100.815377@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296369,
+    "wof:geomhash":"51e4cab744570ac8010b5c5cf4abf197",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873696309
+        }
+    ],
+    "wof:id":873696309,
+    "wof:lastmodified":1464296369,
+    "wof:name":"Army National Guard",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "security"
+    ]
+},
+  "bbox": [
+    -100.815377,
+    46.80978,
+    -100.815377,
+    46.80978
+],
+  "geometry": {"coordinates":[-100.815377,46.80978],"type":"Point"}
+}

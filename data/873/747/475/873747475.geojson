@@ -1,0 +1,71 @@
+{
+  "id": 873747475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.799165,46.793973,-100.799165,46.793973",
+    "geom:latitude":46.793973,
+    "geom:longitude":-100.799165,
+    "iso:country":"US",
+    "sg:address":"505 Riverwood Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 1934",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "clothing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YgnczM9QvgeCg7kfYKR0c_46.793973_-100.799165@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297043,
+    "wof:geomhash":"5bfd411140d242a588bd463f1024facb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873747475
+        }
+    ],
+    "wof:id":873747475,
+    "wof:lastmodified":1464297043,
+    "wof:name":"Nearly New Shop The",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clothing"
+    ]
+},
+  "bbox": [
+    -100.799165,
+    46.793973,
+    -100.799165,
+    46.793973
+],
+  "geometry": {"coordinates":[-100.799165,46.793973],"type":"Point"}
+}

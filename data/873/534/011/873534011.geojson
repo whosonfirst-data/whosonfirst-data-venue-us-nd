@@ -1,0 +1,77 @@
+{
+  "id": 873534011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.26699,47.107983,-97.26699,47.107983",
+    "geom:latitude":47.107983,
+    "geom:longitude":-97.26699,
+    "iso:country":"US",
+    "sg:address":"15270 21st St SE",
+    "sg:city":"Arthur",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 967 8377",
+    "sg:postcode":"58006",
+    "sg:province":"ND",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mORhk5SLsZP54qEQ2C2kZ_47.107983_-97.266990@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294188,
+    "wof:geomhash":"1427746ba88ebdd753a2b604b4f110ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873534011
+        }
+    ],
+    "wof:id":873534011,
+    "wof:lastmodified":1464294188,
+    "wof:name":"Gebeke Brothers",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -97.26699,
+    47.107983,
+    -97.26699,
+    47.107983
+],
+  "geometry": {"coordinates":[-97.26699000000001,47.107983],"type":"Point"}
+}

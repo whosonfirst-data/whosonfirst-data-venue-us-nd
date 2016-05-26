@@ -1,0 +1,86 @@
+{
+  "id": 873804999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.819611,46.82431,-96.819611,46.82431",
+    "geom:latitude":46.82431,
+    "geom:longitude":-96.819611,
+    "iso:country":"US",
+    "sg:address":"3636 25th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 4896",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "lutheran",
+        "america",
+        "churches-lutheran",
+        "churches-lutheran-evangelical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534467,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2F65F1CWnOSPO935kWMbSZ_46.824310_-96.819611@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297834,
+    "wof:geomhash":"d0d212d83bf7f0b0f85dcbefe349727c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534467,
+            "region_id":85688525,
+            "venue_id":873804999
+        }
+    ],
+    "wof:id":873804999,
+    "wof:lastmodified":1464297834,
+    "wof:name":"Hope Lutheran Church",
+    "wof:parent_id":420534467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lutheran",
+        "america",
+        "churches-lutheran",
+        "churches-lutheran-evangelical"
+    ]
+},
+  "bbox": [
+    -96.819611,
+    46.82431,
+    -96.819611,
+    46.82431
+],
+  "geometry": {"coordinates":[-96.81961099999999,46.82431],"type":"Point"}
+}

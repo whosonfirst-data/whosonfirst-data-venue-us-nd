@@ -1,0 +1,73 @@
+{
+  "id": 873632723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.296059,48.218311,-101.296059,48.218311",
+    "geom:latitude":48.218311,
+    "geom:longitude":-101.296059,
+    "iso:country":"US",
+    "sg:address":"1600 2nd St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 857 7745",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "state",
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YdtMBCMKqGKPDGNT69swA_48.218311_-101.296059@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295396,
+    "wof:geomhash":"d7507ca95159a2bb7832ab21d752e2dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873632723
+        }
+    ],
+    "wof:id":873632723,
+    "wof:lastmodified":1464295396,
+    "wof:name":"Workforce Safety & Insurance",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "inspection"
+    ]
+},
+  "bbox": [
+    -101.296059,
+    48.218311,
+    -101.296059,
+    48.218311
+],
+  "geometry": {"coordinates":[-101.296059,48.218311],"type":"Point"}
+}

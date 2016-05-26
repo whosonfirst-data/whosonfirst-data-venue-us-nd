@@ -1,0 +1,66 @@
+{
+  "id": 873583903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.796237,46.769621,-100.796237,46.769621",
+    "geom:latitude":46.769621,
+    "geom:longitude":-100.796237,
+    "iso:country":"US",
+    "sg:address":"2958 Warwick Loop",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 224 8521",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RefMPkoLymXy5y4MkdbEo_46.769621_-100.796237@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294762,
+    "wof:geomhash":"88260d5179e5190c5e1ac6cf6a2639da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873583903
+        }
+    ],
+    "wof:id":873583903,
+    "wof:lastmodified":1464294762,
+    "wof:name":"Dynamic Systems",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.796237,
+    46.769621,
+    -100.796237,
+    46.769621
+],
+  "geometry": {"coordinates":[-100.796237,46.769621],"type":"Point"}
+}

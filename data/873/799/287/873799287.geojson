@@ -1,0 +1,68 @@
+{
+  "id": 873799287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.00618,46.9193,-104.00618,46.9193",
+    "geom:latitude":46.9193,
+    "geom:longitude":-104.00618,
+    "iso:country":"US",
+    "sg:address":"18 4th St NW",
+    "sg:city":"Beach",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/beach/167693-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 872 4343",
+    "sg:postcode":"58621",
+    "sg:province":"ND",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zIIWrgirQZtmPOpYa6ATO_46.919397_-104.006263@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297765,
+    "wof:geomhash":"31771995e58cca6b9b1412b70ef2f922",
+    "wof:hierarchy":[],
+    "wof:id":873799287,
+    "wof:lastmodified":1464297765,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -104.00618,
+    46.9193,
+    -104.00618,
+    46.9193
+],
+  "geometry": {"coordinates":[-104.00618,46.9193],"type":"Point"}
+}

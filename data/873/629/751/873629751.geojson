@@ -1,0 +1,79 @@
+{
+  "id": 873629751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.794399,46.802178,-100.794399,46.802178",
+    "geom:latitude":46.802178,
+    "geom:longitude":-100.794399,
+    "iso:country":"US",
+    "sg:address":"200 W Bowen Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 6341",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "photo",
+        "photography",
+        "commercial",
+        "studio",
+        "portrait"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dur0OmD2xr4TIv3lZH1xf_46.802178_-100.794399@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295363,
+    "wof:geomhash":"cf177db4d53c57e57c390dc8bf647311",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873629751
+        }
+    ],
+    "wof:id":873629751,
+    "wof:lastmodified":1464295363,
+    "wof:name":"Photography By Scott Berge",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo",
+        "photography",
+        "commercial",
+        "studio",
+        "portrait"
+    ]
+},
+  "bbox": [
+    -100.794399,
+    46.802178,
+    -100.794399,
+    46.802178
+],
+  "geometry": {"coordinates":[-100.794399,46.802178],"type":"Point"}
+}

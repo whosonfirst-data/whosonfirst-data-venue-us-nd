@@ -1,0 +1,74 @@
+{
+  "id": 873797781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.364473,47.924738,-97.364473,47.924738",
+    "geom:latitude":47.924738,
+    "geom:longitude":-97.364473,
+    "iso:country":"US",
+    "sg:address":"201 Veitch St",
+    "sg:city":"Emerado",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/chester/129663-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 594 5952",
+    "sg:postcode":"58228",
+    "sg:province":"ND",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55ReQrBBjmtj3f46QRN73D_47.924738_-97.364473@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297747,
+    "wof:geomhash":"fff3e52d77db90656b97b5339869a3bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873797781
+        }
+    ],
+    "wof:id":873797781,
+    "wof:lastmodified":1464297747,
+    "wof:name":"Subway",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -97.364473,
+    47.924738,
+    -97.364473,
+    47.924738
+],
+  "geometry": {"coordinates":[-97.364473,47.924738],"type":"Point"}
+}

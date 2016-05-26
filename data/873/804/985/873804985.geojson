@@ -1,0 +1,82 @@
+{
+  "id": 873804985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.856843,46.844051,-96.856843,46.844051",
+    "geom:latitude":46.844051,
+    "geom:longitude":-96.856843,
+    "iso:country":"US",
+    "sg:address":"4325 23rd Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 4699",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "inn",
+        "lodging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GStWSrxPkePLqGc9dfr7R_46.844051_-96.856843@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297834,
+    "wof:geomhash":"ee8a09af7b6dcaac8bb225aaa6847c07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873804985
+        }
+    ],
+    "wof:id":873804985,
+    "wof:lastmodified":1464297834,
+    "wof:name":"Settle Inn And Suites Fargo",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inn",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -96.856843,
+    46.844051,
+    -96.856843,
+    46.844051
+],
+  "geometry": {"coordinates":[-96.856843,46.844051],"type":"Point"}
+}

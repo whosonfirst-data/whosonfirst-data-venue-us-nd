@@ -1,0 +1,66 @@
+{
+  "id": 873736643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.044964,47.907713,-97.044964,47.907713",
+    "geom:latitude":47.907713,
+    "geom:longitude":-97.044964,
+    "iso:country":"US",
+    "sg:address":"1429 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 5549",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0njZns2lyvD60IfR8uRk7Y_47.907713_-97.044964@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296878,
+    "wof:geomhash":"80cf106870fcc578f75d2fa8b90cd4fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873736643
+        }
+    ],
+    "wof:id":873736643,
+    "wof:lastmodified":1464296878,
+    "wof:name":"Hair-10",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.044964,
+    47.907713,
+    -97.044964,
+    47.907713
+],
+  "geometry": {"coordinates":[-97.04496399999999,47.907713],"type":"Point"}
+}

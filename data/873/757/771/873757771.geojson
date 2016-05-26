@@ -1,0 +1,73 @@
+{
+  "id": 873757771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.736754,46.839618,-100.736754,46.839618",
+    "geom:latitude":46.839618,
+    "geom:longitude":-100.736754,
+    "iso:country":"US",
+    "sg:address":"3502 Franklin Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 2480",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3noRasHYKh73l0jkHNY75m_46.839618_-100.736754@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297178,
+    "wof:geomhash":"f22acb91d3f564bac9e2c11a4ea568b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873757771
+        }
+    ],
+    "wof:id":873757771,
+    "wof:lastmodified":1464297178,
+    "wof:name":"Pathology Consultants",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -100.736754,
+    46.839618,
+    -100.736754,
+    46.839618
+],
+  "geometry": {"coordinates":[-100.736754,46.839618],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873698369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.761024,46.827111,-100.761024,46.827111",
+    "geom:latitude":46.827111,
+    "geom:longitude":-100.761024,
+    "iso:country":"US",
+    "sg:address":"1989 N 20th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 221 3410",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65juA1UUsvrAXStRBvP3Ua_46.827111_-100.761024@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296388,
+    "wof:geomhash":"639398d33da840c4b50936c167f60629",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873698369
+        }
+    ],
+    "wof:id":873698369,
+    "wof:lastmodified":1464296388,
+    "wof:name":"Robert Miller Elem School",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.761024,
+    46.827111,
+    -100.761024,
+    46.827111
+],
+  "geometry": {"coordinates":[-100.76102400000001,46.827111],"type":"Point"}
+}

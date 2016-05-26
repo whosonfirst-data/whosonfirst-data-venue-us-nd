@@ -1,0 +1,73 @@
+{
+  "id": 873534747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.282281,48.013161,-97.282281,48.013161",
+    "geom:latitude":48.013161,
+    "geom:longitude":-97.282281,
+    "iso:country":"US",
+    "sg:address":"2349 21st St NE",
+    "sg:city":"Mekinock",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 9583",
+    "sg:postcode":"58258",
+    "sg:province":"ND",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cfQAr5jQ3xj90VJdyal1Z_48.013161_-97.282281@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294201,
+    "wof:geomhash":"f162f02217f98e53915ffcb473b09bda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873534747
+        }
+    ],
+    "wof:id":873534747,
+    "wof:lastmodified":1464294201,
+    "wof:name":"Rick Sonterre",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -97.282281,
+    48.013161,
+    -97.282281,
+    48.013161
+],
+  "geometry": {"coordinates":[-97.282281,48.013161],"type":"Point"}
+}

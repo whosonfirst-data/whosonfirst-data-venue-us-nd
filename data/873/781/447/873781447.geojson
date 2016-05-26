@@ -1,0 +1,71 @@
+{
+  "id": 873781447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.783123,46.805409,-100.783123,46.805409",
+    "geom:latitude":46.805409,
+    "geom:longitude":-100.783123,
+    "iso:country":"US",
+    "sg:address":"501 E Main Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 1589",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "soccer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ju3OUP6yrTlBASIFyvu5B_46.805409_-100.783123@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297510,
+    "wof:geomhash":"a0b5b2433c996b2e95c91448ef044763",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873781447
+        }
+    ],
+    "wof:id":873781447,
+    "wof:lastmodified":1464297510,
+    "wof:name":"Bismarck Soccer League",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "soccer"
+    ]
+},
+  "bbox": [
+    -100.783123,
+    46.805409,
+    -100.783123,
+    46.805409
+],
+  "geometry": {"coordinates":[-100.783123,46.805409],"type":"Point"}
+}

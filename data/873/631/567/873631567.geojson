@@ -1,0 +1,67 @@
+{
+  "id": 873631567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.044926,47.914488,-97.044926,47.914488",
+    "geom:latitude":47.914488,
+    "geom:longitude":-97.044926,
+    "iso:country":"US",
+    "sg:address":"715 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 4209",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:website":"www.thriftywhite.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jMua0Ukp0z4aRzA0mCewk_47.914488_-97.044926@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295380,
+    "wof:geomhash":"7b715d9ed8d436c2bc9fde6e6fb472c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873631567
+        }
+    ],
+    "wof:id":873631567,
+    "wof:lastmodified":1464295380,
+    "wof:name":"Thrifty White Stores",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.044926,
+    47.914488,
+    -97.044926,
+    47.914488
+],
+  "geometry": {"coordinates":[-97.044926,47.914488],"type":"Point"}
+}

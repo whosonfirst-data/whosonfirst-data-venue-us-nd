@@ -1,0 +1,66 @@
+{
+  "id": 873590415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.018303,46.648538,-97.018303,46.648538",
+    "geom:latitude":46.648538,
+    "geom:longitude":-97.018303,
+    "iso:country":"US",
+    "sg:address":"441 Elm St",
+    "sg:city":"Kindred",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 428 3331",
+    "sg:postcode":"58051",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cUoTXWo1GgOmGCnZm64oE_46.648538_-97.018303@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294836,
+    "wof:geomhash":"77b31b6603ce269d794a56adfe0b451a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873590415
+        }
+    ],
+    "wof:id":873590415,
+    "wof:lastmodified":1464294836,
+    "wof:name":"Dewey's Place",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.018303,
+    46.648538,
+    -97.018303,
+    46.648538
+],
+  "geometry": {"coordinates":[-97.018303,46.648538],"type":"Point"}
+}

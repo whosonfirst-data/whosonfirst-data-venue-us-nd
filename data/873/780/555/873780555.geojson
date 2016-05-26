@@ -1,0 +1,71 @@
+{
+  "id": 873780555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.771008,46.814004,-100.771008,46.814004",
+    "geom:latitude":46.814004,
+    "geom:longitude":-100.771008,
+    "iso:country":"US",
+    "sg:address":"1314 E Ave E",
+    "sg:city":"Washburn",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 462 8380",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "sanitary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5R2jqM3GwBKLt4xrc2GejA_46.814004_-100.771008@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297499,
+    "wof:geomhash":"b95e2e6a3199df2b21dc7aaf5c642a14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873780555
+        }
+    ],
+    "wof:id":873780555,
+    "wof:lastmodified":1464297499,
+    "wof:name":"Jet Car Wash & Snow Removal",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sanitary"
+    ]
+},
+  "bbox": [
+    -100.771008,
+    46.814004,
+    -100.771008,
+    46.814004
+],
+  "geometry": {"coordinates":[-100.77100799999999,46.814004],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873726469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.062228,47.889374,-97.062228,47.889374",
+    "geom:latitude":47.889374,
+    "geom:longitude":-97.062228,
+    "iso:country":"US",
+    "sg:address":"2351 32nd Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 9005",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bwN0phredvt8YAW59HSrP_47.889374_-97.062228@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296731,
+    "wof:geomhash":"348cc50f2b1b41daeffeef6ed9aa22d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873726469
+        }
+    ],
+    "wof:id":873726469,
+    "wof:lastmodified":1464296731,
+    "wof:name":"Grease Monkey",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -97.062228,
+    47.889374,
+    -97.062228,
+    47.889374
+],
+  "geometry": {"coordinates":[-97.062228,47.889374],"type":"Point"}
+}

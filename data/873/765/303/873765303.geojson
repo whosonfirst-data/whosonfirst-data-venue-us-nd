@@ -1,0 +1,71 @@
+{
+  "id": 873765303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.054025,47.934432,-97.054025,47.934432",
+    "geom:latitude":47.934432,
+    "geom:longitude":-97.054025,
+    "iso:country":"US",
+    "sg:address":"1823 N Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 7866",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4g74ALVBgEwWo1sjOhTk0o_47.934432_-97.054025@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297301,
+    "wof:geomhash":"859c0a66f586ab05d8f9cb085b61a3da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873765303
+        }
+    ],
+    "wof:id":873765303,
+    "wof:lastmodified":1464297301,
+    "wof:name":"Ro Construction",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -97.054025,
+    47.934432,
+    -97.054025,
+    47.934432
+],
+  "geometry": {"coordinates":[-97.054025,47.934432],"type":"Point"}
+}

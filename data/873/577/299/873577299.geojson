@@ -1,0 +1,73 @@
+{
+  "id": 873577299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.121983,48.005444,-97.121983,48.005444",
+    "geom:latitude":48.005444,
+    "geom:longitude":-97.121983,
+    "iso:country":"US",
+    "sg:address":"1355 23rd Ave NE",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 5319",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "house",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VWGwT8GU4U8m7fmEqtWWA_48.005444_-97.121983@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294687,
+    "wof:geomhash":"b4d621a21fd5c0766def58fd9813a151",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873577299
+        }
+    ],
+    "wof:id":873577299,
+    "wof:lastmodified":1464294687,
+    "wof:name":"Dan Romuld Construction",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -97.121983,
+    48.005444,
+    -97.121983,
+    48.005444
+],
+  "geometry": {"coordinates":[-97.121983,48.005444],"type":"Point"}
+}

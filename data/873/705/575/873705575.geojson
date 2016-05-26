@@ -1,0 +1,75 @@
+{
+  "id": 873705575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.019286,46.963202,-97.019286,46.963202",
+    "geom:latitude":46.963202,
+    "geom:longitude":-97.019286,
+    "iso:country":"US",
+    "sg:address":"225 Footer St",
+    "sg:city":"Prosper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 2644",
+    "sg:postcode":"58042",
+    "sg:province":"ND",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3d9zF5QhFPvQvMKmFMJJ0M_46.963202_-97.019286@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296465,
+    "wof:geomhash":"db50673af7f54c33f55dc8fc2b681d6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873705575
+        }
+    ],
+    "wof:id":873705575,
+    "wof:lastmodified":1464296465,
+    "wof:name":"Built-Well Upholstering",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -97.019286,
+    46.963202,
+    -97.019286,
+    46.963202
+],
+  "geometry": {"coordinates":[-97.01928599999999,46.963202],"type":"Point"}
+}

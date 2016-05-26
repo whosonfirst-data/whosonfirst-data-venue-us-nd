@@ -1,0 +1,71 @@
+{
+  "id": 873595999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.787742,46.805069,-100.787742,46.805069",
+    "geom:latitude":46.805069,
+    "geom:longitude":-100.787742,
+    "iso:country":"US",
+    "sg:address":"118 S 3rd St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 224 1545",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VRlHNWOgE0sW2uC4NPVkw_46.805069_-100.787742@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294926,
+    "wof:geomhash":"1a619393b6c861bfa04e7a78dd40b99e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873595999
+        }
+    ],
+    "wof:id":873595999,
+    "wof:lastmodified":1464294926,
+    "wof:name":"Borrowed Bucks Roadhouse",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -100.787742,
+    46.805069,
+    -100.787742,
+    46.805069
+],
+  "geometry": {"coordinates":[-100.78774199999999,46.805069],"type":"Point"}
+}

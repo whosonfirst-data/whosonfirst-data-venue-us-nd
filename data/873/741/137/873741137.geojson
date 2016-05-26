@@ -1,0 +1,79 @@
+{
+  "id": 873741137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.862824,46.850905,-96.862824,46.850905",
+    "geom:latitude":46.850905,
+    "geom:longitude":-96.862824,
+    "iso:country":"US",
+    "sg:address":"4510 19th Ave SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 8105",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "gasoline",
+        "station",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GMmwNtopbLJerIT4Wz3zF_46.850905_-96.862824@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296939,
+    "wof:geomhash":"cf5fd4dbcad1375378e428de997ddc42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873741137
+        }
+    ],
+    "wof:id":873741137,
+    "wof:lastmodified":1464296939,
+    "wof:name":"Petro Stopping Center",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gasoline",
+        "station",
+        "eating"
+    ]
+},
+  "bbox": [
+    -96.862824,
+    46.850905,
+    -96.862824,
+    46.850905
+],
+  "geometry": {"coordinates":[-96.862824,46.850905],"type":"Point"}
+}

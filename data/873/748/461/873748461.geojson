@@ -1,0 +1,66 @@
+{
+  "id": 873748461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.110082,48.211015,-101.110082,48.211015",
+    "geom:latitude":48.211015,
+    "geom:longitude":-101.110082,
+    "iso:country":"US",
+    "sg:address":"11600 20th Ave SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 3261",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OyAGtY26eTF5JYYHCO2N3_48.211015_-101.110082@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297055,
+    "wof:geomhash":"1c70aea0a1fe6912efd8f932bc684767",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873748461
+        }
+    ],
+    "wof:id":873748461,
+    "wof:lastmodified":1464297055,
+    "wof:name":"Effertz Repair Co",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.110082,
+    48.211015,
+    -101.110082,
+    48.211015
+],
+  "geometry": {"coordinates":[-101.11008200000001,48.211015],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873539845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.64736,46.769994,-100.64736,46.769994",
+    "geom:latitude":46.769994,
+    "geom:longitude":-100.64736,
+    "iso:country":"US",
+    "sg:address":"3000 93rd St SE",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 224 8654",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "underground",
+        "excavating",
+        "contractor",
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5orTK9imU0dNWVsWK3gsm0_46.769994_-100.647360@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294258,
+    "wof:geomhash":"15e97e6309ace6b16bc9dd62b1c44597",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873539845
+        }
+    ],
+    "wof:id":873539845,
+    "wof:lastmodified":1464294258,
+    "wof:name":"Dakota Line Contractors LLC",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "underground",
+        "excavating",
+        "contractor",
+        "utility"
+    ]
+},
+  "bbox": [
+    -100.64736,
+    46.769994,
+    -100.64736,
+    46.769994
+],
+  "geometry": {"coordinates":[-100.64736000000001,46.769994],"type":"Point"}
+}

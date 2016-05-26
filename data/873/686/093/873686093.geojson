@@ -1,0 +1,73 @@
+{
+  "id": 873686093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.032996,47.876776,-97.032996,47.876776",
+    "geom:latitude":47.876776,
+    "geom:longitude":-97.032996,
+    "iso:country":"US",
+    "sg:address":"614 Plain Hills Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 8023",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "advisory",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49CRnab9BOVOy5hJ8qVbtg_47.876776_-97.032996@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296167,
+    "wof:geomhash":"082328552d2aa71368af5442cac134a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873686093
+        }
+    ],
+    "wof:id":873686093,
+    "wof:lastmodified":1464296167,
+    "wof:name":"Harvest Financial Svc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "financial"
+    ]
+},
+  "bbox": [
+    -97.032996,
+    47.876776,
+    -97.032996,
+    47.876776
+],
+  "geometry": {"coordinates":[-97.032996,47.876776],"type":"Point"}
+}

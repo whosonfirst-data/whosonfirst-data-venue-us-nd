@@ -1,0 +1,77 @@
+{
+  "id": 873805165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.830755,46.813649,-96.830755,46.813649",
+    "geom:latitude":46.813649,
+    "geom:longitude":-96.830755,
+    "iso:country":"US",
+    "sg:address":"3315 44th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Driving School",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 1200",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "instruction",
+        "traffic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877333,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nMQsJpvZRSkCWNtKEiarJ_46.813649_-96.830755@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297836,
+    "wof:geomhash":"4b2ab5e5ab74f1e6cd957a2a6db9b13e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877333,
+            "region_id":85688525,
+            "venue_id":873805165
+        }
+    ],
+    "wof:id":873805165,
+    "wof:lastmodified":1464297836,
+    "wof:name":"Xcell Driving School Llp",
+    "wof:parent_id":85877333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "traffic"
+    ]
+},
+  "bbox": [
+    -96.830755,
+    46.813649,
+    -96.830755,
+    46.813649
+],
+  "geometry": {"coordinates":[-96.830755,46.813649],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873731933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.371874,48.236961,-101.371874,48.236961",
+    "geom:latitude":48.236961,
+    "geom:longitude":-101.371874,
+    "iso:country":"US",
+    "sg:address":"500 54th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 8442",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EeChh6PTYZe1uRy9Hq4Vs_48.236961_-101.371874@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296803,
+    "wof:geomhash":"7177a7eeaa3f419daf3a6693631c6f46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873731933
+        }
+    ],
+    "wof:id":873731933,
+    "wof:lastmodified":1464296803,
+    "wof:name":"Roughrider Campground",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trailer"
+    ]
+},
+  "bbox": [
+    -101.371874,
+    48.236961,
+    -101.371874,
+    48.236961
+],
+  "geometry": {"coordinates":[-101.37187400000001,48.236961],"type":"Point"}
+}

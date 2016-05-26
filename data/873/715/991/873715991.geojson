@@ -1,0 +1,66 @@
+{
+  "id": 873715991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.045106,47.90807,-97.045106,47.90807",
+    "geom:latitude":47.90807,
+    "geom:longitude":-97.045106,
+    "iso:country":"US",
+    "sg:address":"1448 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 2849",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49H59a8bX3EQ4T0Qr4Lqve_47.908070_-97.045106@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296593,
+    "wof:geomhash":"dfeb637bf522964318af4d69f710e1c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873715991
+        }
+    ],
+    "wof:id":873715991,
+    "wof:lastmodified":1464296593,
+    "wof:name":"Highlander",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.045106,
+    47.90807,
+    -97.045106,
+    47.90807
+],
+  "geometry": {"coordinates":[-97.045106,47.90807],"type":"Point"}
+}

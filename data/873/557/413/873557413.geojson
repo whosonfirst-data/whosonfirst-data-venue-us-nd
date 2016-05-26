@@ -1,0 +1,75 @@
+{
+  "id": 873557413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.762728,46.799368,-100.762728,46.799368",
+    "geom:latitude":46.799368,
+    "geom:longitude":-100.762728,
+    "iso:country":"US",
+    "sg:address":"537 Airport Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 250 7099",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "register",
+        "cash",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lmNrf9GGaUn4Qh8DlDRQu_46.799368_-100.762728@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294465,
+    "wof:geomhash":"c3bb315d37d580cf13a22259cd8c11ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873557413
+        }
+    ],
+    "wof:id":873557413,
+    "wof:lastmodified":1464294465,
+    "wof:name":"North Country Business Product",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "register",
+        "cash",
+        "supply"
+    ]
+},
+  "bbox": [
+    -100.762728,
+    46.799368,
+    -100.762728,
+    46.799368
+],
+  "geometry": {"coordinates":[-100.762728,46.799368],"type":"Point"}
+}

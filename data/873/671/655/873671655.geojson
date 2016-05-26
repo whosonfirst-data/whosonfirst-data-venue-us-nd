@@ -1,0 +1,73 @@
+{
+  "id": 873671655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.18702,48.136067,-101.18702,48.136067",
+    "geom:latitude":48.136067,
+    "geom:longitude":-101.18702,
+    "iso:country":"US",
+    "sg:address":"9400 72nd St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 722 5516",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2e4ju0frKHq8VxIS3JAKMy_48.136067_-101.187020@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295818,
+    "wof:geomhash":"36e68577c51dd94449a1d10d3e2dba68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873671655
+        }
+    ],
+    "wof:id":873671655,
+    "wof:lastmodified":1464295818,
+    "wof:name":"Peak Electric Inc",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.18702,
+    48.136067,
+    -101.18702,
+    48.136067
+],
+  "geometry": {"coordinates":[-101.18702,48.136067],"type":"Point"}
+}

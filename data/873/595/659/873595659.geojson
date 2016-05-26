@@ -1,0 +1,73 @@
+{
+  "id": 873595659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.032179,47.891483,-97.032179,47.891483",
+    "geom:latitude":47.891483,
+    "geom:longitude":-97.032179,
+    "iso:country":"US",
+    "sg:address":"2923 Walnut St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 0879",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "inspection",
+        "infrared"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02lKqudG45am1h636xHqrj_47.891483_-97.032179@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294919,
+    "wof:geomhash":"9c15057c5daf0d2b3e6147e051efcaae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873595659
+        }
+    ],
+    "wof:id":873595659,
+    "wof:lastmodified":1464294919,
+    "wof:name":"Thermo-Scan",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection",
+        "infrared"
+    ]
+},
+  "bbox": [
+    -97.032179,
+    47.891483,
+    -97.032179,
+    47.891483
+],
+  "geometry": {"coordinates":[-97.032179,47.891483],"type":"Point"}
+}

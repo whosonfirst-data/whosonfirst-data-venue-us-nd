@@ -1,0 +1,71 @@
+{
+  "id": 873664549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.099269,47.915952,-97.099269,47.915952",
+    "geom:latitude":47.915952,
+    "geom:longitude":-97.099269,
+    "iso:country":"US",
+    "sg:address":"830 S 48th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 1824",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2F0BHy2SwZlHCqbpvJEydY_47.915952_-97.099269@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295745,
+    "wof:geomhash":"36e6fb35ae4e8022e9ca490afc856fc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873664549
+        }
+    ],
+    "wof:id":873664549,
+    "wof:lastmodified":1464295745,
+    "wof:name":"Avaya Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -97.099269,
+    47.915952,
+    -97.099269,
+    47.915952
+],
+  "geometry": {"coordinates":[-97.09926900000001,47.915952],"type":"Point"}
+}

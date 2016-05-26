@@ -1,0 +1,75 @@
+{
+  "id": 873666941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.221619,48.229135,-101.221619,48.229135",
+    "geom:latitude":48.229135,
+    "geom:longitude":-101.221619,
+    "iso:country":"US",
+    "sg:address":"5110 US Hwy 2 Bus",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 8051",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ge47kHOq8nnN41uTTRiKr_48.229135_-101.221619@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295769,
+    "wof:geomhash":"6cfc6825b0a76c52a0befc31e7079e3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873666941
+        }
+    ],
+    "wof:id":873666941,
+    "wof:lastmodified":1464295769,
+    "wof:name":"A Ok Lawn Svc",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ]
+},
+  "bbox": [
+    -101.221619,
+    48.229135,
+    -101.221619,
+    48.229135
+],
+  "geometry": {"coordinates":[-101.221619,48.229135],"type":"Point"}
+}

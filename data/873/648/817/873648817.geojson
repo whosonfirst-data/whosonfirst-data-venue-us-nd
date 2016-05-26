@@ -1,0 +1,71 @@
+{
+  "id": 873648817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.394243,48.230347,-101.394243,48.230347",
+    "geom:latitude":48.230347,
+    "geom:longitude":-101.394243,
+    "iso:country":"US",
+    "sg:address":"6400 Co Rd 12 W",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 4676",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uG7yHjDPs8llUz8VwX7r4_48.230347_-101.394243@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295575,
+    "wof:geomhash":"72c0cdf4b2b0909e1acd312c1698a536",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873648817
+        }
+    ],
+    "wof:id":873648817,
+    "wof:lastmodified":1464295575,
+    "wof:name":"Bryans Auto",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -101.394243,
+    48.230347,
+    -101.394243,
+    48.230347
+],
+  "geometry": {"coordinates":[-101.394243,48.230347],"type":"Point"}
+}

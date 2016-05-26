@@ -1,0 +1,75 @@
+{
+  "id": 873779869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.039975,47.904419,-97.039975,47.904419",
+    "geom:latitude":47.904419,
+    "geom:longitude":-97.039975,
+    "iso:country":"US",
+    "sg:address":"915 Sunset Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 7142",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "local",
+        "storage",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ki0gy1V1NhYMf1agwiOSb_47.904419_-97.039975@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297489,
+    "wof:geomhash":"953927ba7bcf4c86c9a1d1364904fc27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873779869
+        }
+    ],
+    "wof:id":873779869,
+    "wof:lastmodified":1464297489,
+    "wof:name":"Rugged Trails Liability Co",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "storage",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -97.039975,
+    47.904419,
+    -97.039975,
+    47.904419
+],
+  "geometry": {"coordinates":[-97.039975,47.904419],"type":"Point"}
+}

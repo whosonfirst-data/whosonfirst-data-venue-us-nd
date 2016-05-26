@@ -1,0 +1,71 @@
+{
+  "id": 873564479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.209563,48.195047,-101.209563,48.195047",
+    "geom:latitude":48.195047,
+    "geom:longitude":-101.209563,
+    "iso:country":"US",
+    "sg:address":"4103 55th St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 6776",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "construction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iWoP2y49XR66yw01wkgE8_48.195047_-101.209563@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294549,
+    "wof:geomhash":"471221f6f9a276a998df646fd8e4115f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873564479
+        }
+    ],
+    "wof:id":873564479,
+    "wof:lastmodified":1464294549,
+    "wof:name":"Sundre Sand & Gravel Inc",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "construction"
+    ]
+},
+  "bbox": [
+    -101.209563,
+    48.195047,
+    -101.209563,
+    48.195047
+],
+  "geometry": {"coordinates":[-101.209563,48.195047],"type":"Point"}
+}

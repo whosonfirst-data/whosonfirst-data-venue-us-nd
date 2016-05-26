@@ -1,0 +1,78 @@
+{
+  "id": 873676725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.298974,48.260244,-101.298974,48.260244",
+    "geom:latitude":48.260244,
+    "geom:longitude":-101.298974,
+    "iso:country":"US",
+    "sg:address":"400 22nd Ave NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 857 8500",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "center",
+        "human"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0E6JOZWYs5s8OTsBZQuXdt_48.260244_-101.298974@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295905,
+    "wof:geomhash":"384d7a16d6be7e89b07ca52321892009",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873676725
+        }
+    ],
+    "wof:id":873676725,
+    "wof:lastmodified":1464295905,
+    "wof:name":"North Central Human Svc Cneter",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center",
+        "human"
+    ]
+},
+  "bbox": [
+    -101.298974,
+    48.260244,
+    -101.298974,
+    48.260244
+],
+  "geometry": {"coordinates":[-101.298974,48.260244],"type":"Point"}
+}

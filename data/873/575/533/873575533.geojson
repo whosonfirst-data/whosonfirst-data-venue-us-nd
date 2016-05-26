@@ -1,0 +1,73 @@
+{
+  "id": 873575533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.066307,47.916365,-97.066307,47.916365",
+    "geom:latitude":47.916365,
+    "geom:longitude":-97.066307,
+    "iso:country":"US",
+    "sg:address":"2600 Demers Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 8355",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "linen",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_631QgbhZUHFx5djq8deRAA_47.916365_-97.066307@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294669,
+    "wof:geomhash":"1eafeb392440828fffe8c946ad43b775",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873575533
+        }
+    ],
+    "wof:id":873575533,
+    "wof:lastmodified":1464294669,
+    "wof:name":"Leef Services",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "linen",
+        "supply"
+    ]
+},
+  "bbox": [
+    -97.066307,
+    47.916365,
+    -97.066307,
+    47.916365
+],
+  "geometry": {"coordinates":[-97.06630699999999,47.916365],"type":"Point"}
+}

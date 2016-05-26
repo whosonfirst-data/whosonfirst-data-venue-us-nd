@@ -1,0 +1,71 @@
+{
+  "id": 873569915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.04148,47.908119,-97.04148,47.908119",
+    "geom:latitude":47.908119,
+    "geom:longitude":-97.04148,
+    "iso:country":"US",
+    "sg:address":"1030 14th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 4911",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WVoEX7eShN0zbzUtvpZVD_47.908119_-97.041480@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294609,
+    "wof:geomhash":"a40c35aa7e9b99ee81418b803d917e4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873569915
+        }
+    ],
+    "wof:id":873569915,
+    "wof:lastmodified":1464294609,
+    "wof:name":"J R Marketing",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -97.04148,
+    47.908119,
+    -97.04148,
+    47.908119
+],
+  "geometry": {"coordinates":[-97.04148000000001,47.908119],"type":"Point"}
+}

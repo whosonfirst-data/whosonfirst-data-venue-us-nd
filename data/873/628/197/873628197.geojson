@@ -1,0 +1,75 @@
+{
+  "id": 873628197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.292962,48.235642,-101.292962,48.235642",
+    "geom:latitude":48.235642,
+    "geom:longitude":-101.292962,
+    "iso:country":"US",
+    "sg:address":"109 Main St S",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 837 8555",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "school",
+        "instruction",
+        "art"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OuTBqPFilKMsnhtLYHnD5_48.235642_-101.292962@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295342,
+    "wof:geomhash":"54b47fb431a401b0eb059941b54f76ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873628197
+        }
+    ],
+    "wof:id":873628197,
+    "wof:lastmodified":1464295342,
+    "wof:name":"Margie's Art Glass Studio",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "instruction",
+        "art"
+    ]
+},
+  "bbox": [
+    -101.292962,
+    48.235642,
+    -101.292962,
+    48.235642
+],
+  "geometry": {"coordinates":[-101.292962,48.235642],"type":"Point"}
+}

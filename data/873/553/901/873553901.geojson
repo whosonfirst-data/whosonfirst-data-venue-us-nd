@@ -1,0 +1,73 @@
+{
+  "id": 873553901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.307176,48.253338,-101.307176,48.253338",
+    "geom:latitude":48.253338,
+    "geom:longitude":-101.307176,
+    "iso:country":"US",
+    "sg:address":"8 Debra Ct",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 8365",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "help",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mDC20MwX1j5XQHT58WGxu_48.253338_-101.307176@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294421,
+    "wof:geomhash":"899a4abe5892a332deab3b657fe7f2fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873553901
+        }
+    ],
+    "wof:id":873553901,
+    "wof:lastmodified":1464294421,
+    "wof:name":"Zaderaka Transport Inc",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "help",
+        "supply"
+    ]
+},
+  "bbox": [
+    -101.307176,
+    48.253338,
+    -101.307176,
+    48.253338
+],
+  "geometry": {"coordinates":[-101.307176,48.253338],"type":"Point"}
+}

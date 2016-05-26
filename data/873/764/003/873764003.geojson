@@ -1,0 +1,84 @@
+{
+  "id": 873764003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.920384,46.877139,-96.920384,46.877139",
+    "geom:latitude":46.877139,
+    "geom:longitude":-96.920384,
+    "iso:country":"US",
+    "sg:address":"1126 Main Ave W",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 281 0493",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "dryer",
+        "drying",
+        "grain",
+        "elevator"
+    ],
+    "sg:website":"www.custommarketingco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MOtQwOTwjsv0NGxC5RPrE_46.877139_-96.920384@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297274,
+    "wof:geomhash":"1066b87c714bada2ecacfccc73642c93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873764003
+        }
+    ],
+    "wof:id":873764003,
+    "wof:lastmodified":1464297274,
+    "wof:name":"Custom Marketing Co Inc",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dryer",
+        "drying",
+        "grain",
+        "elevator"
+    ]
+},
+  "bbox": [
+    -96.920384,
+    46.877139,
+    -96.920384,
+    46.877139
+],
+  "geometry": {"coordinates":[-96.920384,46.877139],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 873731553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.762964,46.792101,-100.762964,46.792101",
+    "geom:latitude":46.792101,
+    "geom:longitude":-100.762964,
+    "iso:country":"US",
+    "sg:address":"1102 Airport Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 8554",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "a",
+        "repair",
+        "used",
+        "general"
+    ],
+    "sg:website":"www.wentzauto.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HJDzZAJXgnTolCEbJrfTb_46.792101_-100.762964@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296799,
+    "wof:geomhash":"89d63884d2b092713b93ef11ba71838b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873731553
+        }
+    ],
+    "wof:id":873731553,
+    "wof:lastmodified":1464296799,
+    "wof:name":"Wentz Isuzu Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "a",
+        "repair",
+        "used",
+        "general"
+    ]
+},
+  "bbox": [
+    -100.762964,
+    46.792101,
+    -100.762964,
+    46.792101
+],
+  "geometry": {"coordinates":[-100.762964,46.792101],"type":"Point"}
+}

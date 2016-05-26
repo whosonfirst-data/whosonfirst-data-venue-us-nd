@@ -1,0 +1,66 @@
+{
+  "id": 873556603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.79438,46.79741,-100.79438,46.79741",
+    "geom:latitude":46.79741,
+    "geom:longitude":-100.79438,
+    "iso:country":"US",
+    "sg:address":"715 S Washington St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 7688",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xL4SHrbevOFWsKmUmWtmo_46.797410_-100.794380@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294454,
+    "wof:geomhash":"75c4a31c973f76562b4a36faf6de4df3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873556603
+        }
+    ],
+    "wof:id":873556603,
+    "wof:lastmodified":1464294454,
+    "wof:name":"Pier 1",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.79438,
+    46.79741,
+    -100.79438,
+    46.79741
+],
+  "geometry": {"coordinates":[-100.79438,46.79741],"type":"Point"}
+}

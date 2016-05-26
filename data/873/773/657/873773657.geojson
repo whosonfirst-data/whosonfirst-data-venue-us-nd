@@ -1,0 +1,71 @@
+{
+  "id": 873773657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.637668,46.910251,-100.637668,46.910251",
+    "geom:latitude":46.910251,
+    "geom:longitude":-100.637668,
+    "iso:country":"US",
+    "sg:address":"9801 97th Ave NE",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 4103",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YxvMR7zkeJtZStBx8Qoov_46.910251_-100.637668@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297408,
+    "wof:geomhash":"88e418fe21e43296d18a87ee75f9ea85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873773657
+        }
+    ],
+    "wof:id":873773657,
+    "wof:lastmodified":1464297408,
+    "wof:name":"Backland Taxidermy",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxidermist"
+    ]
+},
+  "bbox": [
+    -100.637668,
+    46.910251,
+    -100.637668,
+    46.910251
+],
+  "geometry": {"coordinates":[-100.63766800000001,46.910251],"type":"Point"}
+}

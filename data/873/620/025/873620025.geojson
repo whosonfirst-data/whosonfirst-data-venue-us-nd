@@ -1,0 +1,67 @@
+{
+  "id": 873620025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.7802,46.804022,-100.7802,46.804022",
+    "geom:latitude":46.804022,
+    "geom:longitude":-100.7802,
+    "iso:country":"US",
+    "sg:address":"707 E Front Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"News Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 8450",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:website":"www.ap.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32cPqYsxvXfqU5RyB00Brw_46.804022_-100.780200@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295250,
+    "wof:geomhash":"ca76ef95ba76164cb4b8a9f924e54a35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873620025
+        }
+    ],
+    "wof:id":873620025,
+    "wof:lastmodified":1464295250,
+    "wof:name":"Associated Press",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.7802,
+    46.804022,
+    -100.7802,
+    46.804022
+],
+  "geometry": {"coordinates":[-100.78019999999999,46.804022],"type":"Point"}
+}

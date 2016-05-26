@@ -1,0 +1,56 @@
+{
+  "id": 873545015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.138138,47.454945,-101.138138,47.454945",
+    "geom:latitude":47.454945,
+    "geom:longitude":-101.138138,
+    "iso:country":"US",
+    "sg:address":"208 Grant Ave",
+    "sg:city":"Underwood",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 442 5353",
+    "sg:postcode":"58576",
+    "sg:province":"ND",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AH5jzRYNDCVU6fBsNPaMV_47.454945_-101.138138@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294316,
+    "wof:geomhash":"47c4c0df0623fb229f6bee9bcbdd814f",
+    "wof:hierarchy":[],
+    "wof:id":873545015,
+    "wof:lastmodified":1464294316,
+    "wof:name":"Ambulance",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -101.138138,
+    47.454945,
+    -101.138138,
+    47.454945
+],
+  "geometry": {"coordinates":[-101.138138,47.454945],"type":"Point"}
+}

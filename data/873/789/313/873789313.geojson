@@ -1,0 +1,67 @@
+{
+  "id": 873789313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.020646,46.658993,-97.020646,46.658993",
+    "geom:latitude":46.658993,
+    "geom:longitude":-97.020646,
+    "iso:country":"US",
+    "sg:address":"16493 52nd St SE",
+    "sg:city":"Kindred",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 428 3276",
+    "sg:postcode":"58051",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "soybean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nJhN3XoTfE53e8TFhVccH_46.658993_-97.020646@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297632,
+    "wof:geomhash":"3c7d585ca4511832eece6a49b61b9a60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873789313
+        }
+    ],
+    "wof:id":873789313,
+    "wof:lastmodified":1464297632,
+    "wof:name":"Lynn Overboe",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "soybean"
+    ]
+},
+  "bbox": [
+    -97.020646,
+    46.658993,
+    -97.020646,
+    46.658993
+],
+  "geometry": {"coordinates":[-97.020646,46.658993],"type":"Point"}
+}

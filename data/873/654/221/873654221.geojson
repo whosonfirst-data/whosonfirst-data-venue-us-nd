@@ -1,0 +1,71 @@
+{
+  "id": 873654221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.06474,47.92521,-97.06474,47.92521",
+    "geom:latitude":47.92521,
+    "geom:longitude":-97.06474,
+    "iso:country":"US",
+    "sg:address":"2613 6th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 885 5351",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "door"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZdKJnsyedD2sUycN2DKAz_47.925210_-97.064740@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295638,
+    "wof:geomhash":"21687e69ed45052b47072d80389bfd33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873654221
+        }
+    ],
+    "wof:id":873654221,
+    "wof:lastmodified":1464295638,
+    "wof:name":"Grand Forks Door Svc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "door"
+    ]
+},
+  "bbox": [
+    -97.06474,
+    47.92521,
+    -97.06474,
+    47.92521
+],
+  "geometry": {"coordinates":[-97.06474,47.92521],"type":"Point"}
+}

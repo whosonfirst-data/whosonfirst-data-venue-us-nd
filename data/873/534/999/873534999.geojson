@@ -1,0 +1,75 @@
+{
+  "id": 873534999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.799283,46.803185,-100.799283,46.803185",
+    "geom:latitude":46.803185,
+    "geom:longitude":-100.799283,
+    "iso:country":"US",
+    "sg:address":"614 W Sweet Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 9404",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "mobile",
+        "home",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iXBiNAtWBDS8sP7y6XGa9_46.803185_-100.799283@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294204,
+    "wof:geomhash":"c3bdabe082d11cec7b84f86ee78a261a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873534999
+        }
+    ],
+    "wof:id":873534999,
+    "wof:lastmodified":1464294204,
+    "wof:name":"Stardust Terrace",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home",
+        "community"
+    ]
+},
+  "bbox": [
+    -100.799283,
+    46.803185,
+    -100.799283,
+    46.803185
+],
+  "geometry": {"coordinates":[-100.799283,46.803185],"type":"Point"}
+}

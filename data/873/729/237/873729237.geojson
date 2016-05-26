@@ -1,0 +1,75 @@
+{
+  "id": 873729237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.059499,47.919034,-97.059499,47.919034",
+    "geom:latitude":47.919034,
+    "geom:longitude":-97.059499,
+    "iso:country":"US",
+    "sg:address":"2121 Dyke Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 7171",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "concrete",
+        "contractor",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2k3W4hfRjGuBCG2MzWwv6x_47.919034_-97.059499@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296770,
+    "wof:geomhash":"161d644569f71b839c378321a34f0608",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873729237
+        }
+    ],
+    "wof:id":873729237,
+    "wof:lastmodified":1464296770,
+    "wof:name":"G W Sondreal Construction Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor",
+        "general"
+    ]
+},
+  "bbox": [
+    -97.059499,
+    47.919034,
+    -97.059499,
+    47.919034
+],
+  "geometry": {"coordinates":[-97.059499,47.919034],"type":"Point"}
+}

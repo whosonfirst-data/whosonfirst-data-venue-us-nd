@@ -1,0 +1,77 @@
+{
+  "id": 873645731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.804402,46.908421,-96.804402,46.908421",
+    "geom:latitude":46.908421,
+    "geom:longitude":-96.804402,
+    "iso:country":"US",
+    "sg:address":"1610 23rd Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 2392",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "army",
+        "reserve"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877363,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZyciEw8SGwpmPCx3LHggL_46.908421_-96.804402@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295544,
+    "wof:geomhash":"cb754333bcbe18954edbb67e7be2822e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877363,
+            "region_id":85688525,
+            "venue_id":873645731
+        }
+    ],
+    "wof:id":873645731,
+    "wof:lastmodified":1464295544,
+    "wof:name":"US Army Reserve",
+    "wof:parent_id":85877363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "army",
+        "reserve"
+    ]
+},
+  "bbox": [
+    -96.804402,
+    46.908421,
+    -96.804402,
+    46.908421
+],
+  "geometry": {"coordinates":[-96.804402,46.908421],"type":"Point"}
+}

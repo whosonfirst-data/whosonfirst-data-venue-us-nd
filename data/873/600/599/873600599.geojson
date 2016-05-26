@@ -1,0 +1,75 @@
+{
+  "id": 873600599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.79335,46.913567,-96.79335,46.913567",
+    "geom:latitude":46.913567,
+    "geom:longitude":-96.79335,
+    "iso:country":"US",
+    "sg:address":"916 29th Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 3262",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877353,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5r5B4WHgSYaSwSGC6XLOEq_46.913567_-96.793350@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294993,
+    "wof:geomhash":"6fd6d8a17b5ef157d349a003c62169e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877353,
+            "region_id":85688525,
+            "venue_id":873600599
+        }
+    ],
+    "wof:id":873600599,
+    "wof:lastmodified":1464294993,
+    "wof:name":"Wayne Welle Construction",
+    "wof:parent_id":85877353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -96.79335,
+    46.913567,
+    -96.79335,
+    46.913567
+],
+  "geometry": {"coordinates":[-96.79335,46.913567],"type":"Point"}
+}

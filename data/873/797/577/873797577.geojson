@@ -1,0 +1,74 @@
+{
+  "id": 873797577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.074103,47.889513,-97.074103,47.889513",
+    "geom:latitude":47.889513,
+    "geom:longitude":-97.074103,
+    "iso:country":"US",
+    "sg:address":"3200 32nd Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/grand-forks/101208-texas-roadhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 7427",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23mEUFBXusafKXaxYAZ2kY_47.889513_-97.074103@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297745,
+    "wof:geomhash":"8248c5502542aa72c2fbe8cc3303202e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873797577
+        }
+    ],
+    "wof:id":873797577,
+    "wof:lastmodified":1464297745,
+    "wof:name":"Texas Roadhouse",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -97.074103,
+    47.889513,
+    -97.074103,
+    47.889513
+],
+  "geometry": {"coordinates":[-97.07410299999999,47.889513],"type":"Point"}
+}

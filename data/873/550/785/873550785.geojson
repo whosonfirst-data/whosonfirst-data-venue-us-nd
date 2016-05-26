@@ -1,0 +1,70 @@
+{
+  "id": 873550785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.78005,46.917645,-96.78005,46.917645",
+    "geom:latitude":46.917645,
+    "geom:longitude":-96.78005,
+    "iso:country":"US",
+    "sg:address":"2902 Edgewood Dr N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 237 6878",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877353,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DXF5WZb8fcfGmjAnUshWX_46.917645_-96.780050@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294387,
+    "wof:geomhash":"45483785e0ee18ef46a61ae833d749ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877353,
+            "region_id":85688525,
+            "venue_id":873550785
+        }
+    ],
+    "wof:id":873550785,
+    "wof:lastmodified":1464294387,
+    "wof:name":"Take Aim Optics",
+    "wof:parent_id":85877353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.78005,
+    46.917645,
+    -96.78005,
+    46.917645
+],
+  "geometry": {"coordinates":[-96.78005,46.917645],"type":"Point"}
+}

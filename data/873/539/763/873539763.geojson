@@ -1,0 +1,77 @@
+{
+  "id": 873539763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.784867,46.799696,-100.784867,46.799696",
+    "geom:latitude":46.799696,
+    "geom:longitude":-100.784867,
+    "iso:country":"US",
+    "sg:address":"636 Kirkwood Mall",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 224 8838",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "video",
+        "disc",
+        "tape",
+        "cassette"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lWd1lNFHsDiXAldKzve4j_46.799696_-100.784867@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294257,
+    "wof:geomhash":"2aef5dc6ee5b0ad3d3f123adc203084e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873539763
+        }
+    ],
+    "wof:id":873539763,
+    "wof:lastmodified":1464294257,
+    "wof:name":"Suncoast Motion Picture Co",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "disc",
+        "tape",
+        "cassette"
+    ]
+},
+  "bbox": [
+    -100.784867,
+    46.799696,
+    -100.784867,
+    46.799696
+],
+  "geometry": {"coordinates":[-100.78486700000001,46.799696],"type":"Point"}
+}

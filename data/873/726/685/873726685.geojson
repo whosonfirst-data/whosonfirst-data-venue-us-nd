@@ -1,0 +1,66 @@
+{
+  "id": 873726685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.736939,46.809087,-100.736939,46.809087",
+    "geom:latitude":46.809087,
+    "geom:longitude":-100.736939,
+    "iso:country":"US",
+    "sg:address":"3500 E Rosser Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 7198",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5auj0Plyt4NIrhVanQVTkg_46.809087_-100.736939@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296737,
+    "wof:geomhash":"fddd98bdbedd72ad53604b78f6086a83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873726685
+        }
+    ],
+    "wof:id":873726685,
+    "wof:lastmodified":1464296737,
+    "wof:name":"Anderson Communications Co",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.736939,
+    46.809087,
+    -100.736939,
+    46.809087
+],
+  "geometry": {"coordinates":[-100.73693900000001,46.809087],"type":"Point"}
+}

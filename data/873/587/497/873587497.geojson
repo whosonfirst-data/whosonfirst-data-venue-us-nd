@@ -1,0 +1,71 @@
+{
+  "id": 873587497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.059189,47.90402,-97.059189,47.90402",
+    "geom:latitude":47.90402,
+    "geom:longitude":-97.059189,
+    "iso:country":"US",
+    "sg:address":"2122 17th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 9089",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7i1b4msYeEg9fETJP9srMu_47.904020_-97.059189@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294802,
+    "wof:geomhash":"a6595266fb8c420be129b14417ca4db8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873587497
+        }
+    ],
+    "wof:id":873587497,
+    "wof:lastmodified":1464294802,
+    "wof:name":"American Baptist Church",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -97.059189,
+    47.90402,
+    -97.059189,
+    47.90402
+],
+  "geometry": {"coordinates":[-97.059189,47.90402],"type":"Point"}
+}

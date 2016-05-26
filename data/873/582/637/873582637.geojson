@@ -1,0 +1,73 @@
+{
+  "id": 873582637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.035772,47.916414,-97.035772,47.916414",
+    "geom:latitude":47.916414,
+    "geom:longitude":-97.035772,
+    "iso:country":"US",
+    "sg:address":"504 Cherry St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 1735",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7meDfdr1sbyd9xcvABSqZ7_47.916414_-97.035772@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294748,
+    "wof:geomhash":"5297ed4c90ed2534b3dde0c348edbcda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873582637
+        }
+    ],
+    "wof:id":873582637,
+    "wof:lastmodified":1464294748,
+    "wof:name":"Anytime Plumbing & Drain Clean",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.035772,
+    47.916414,
+    -97.035772,
+    47.916414
+],
+  "geometry": {"coordinates":[-97.03577199999999,47.916414],"type":"Point"}
+}

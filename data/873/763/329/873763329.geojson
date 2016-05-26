@@ -1,0 +1,71 @@
+{
+  "id": 873763329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.03715,47.871284,-97.03715,47.871284",
+    "geom:latitude":47.871284,
+    "geom:longitude":-97.03715,
+    "iso:country":"US",
+    "sg:address":"793 Evergreen Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 7522",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kNh9w1GzxCIHj4Jpd6rWr_47.871284_-97.037150@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297263,
+    "wof:geomhash":"a3afb5f65c61ce181391349afcb3c1e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873763329
+        }
+    ],
+    "wof:id":873763329,
+    "wof:lastmodified":1464297263,
+    "wof:name":"Dustbusterz Goal Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -97.03715,
+    47.871284,
+    -97.03715,
+    47.871284
+],
+  "geometry": {"coordinates":[-97.03715,47.871284],"type":"Point"}
+}

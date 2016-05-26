@@ -1,0 +1,71 @@
+{
+  "id": 873708747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.752205,46.806003,-100.752205,46.806003",
+    "geom:latitude":46.806003,
+    "geom:longitude":-100.752205,
+    "iso:country":"US",
+    "sg:address":"110 N 26th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Wine & Distilled Alcoholic Beverages",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 1748",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "liquor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dswR9YibRYX0Xx4NeITa7_46.806003_-100.752205@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296504,
+    "wof:geomhash":"9d194a645d1e728c3b548c3927f1406f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873708747
+        }
+    ],
+    "wof:id":873708747,
+    "wof:lastmodified":1464296504,
+    "wof:name":"Congress Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "liquor"
+    ]
+},
+  "bbox": [
+    -100.752205,
+    46.806003,
+    -100.752205,
+    46.806003
+],
+  "geometry": {"coordinates":[-100.752205,46.806003],"type":"Point"}
+}

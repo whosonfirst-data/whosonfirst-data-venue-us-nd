@@ -1,0 +1,73 @@
+{
+  "id": 873611855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.027453,47.920749,-97.027453,47.920749",
+    "geom:latitude":47.920749,
+    "geom:longitude":-97.027453,
+    "iso:country":"US",
+    "sg:address":"328 S 5th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 780 8450",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67iaYEHOObkcTqP4n0SEAT_47.920749_-97.027453@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295165,
+    "wof:geomhash":"bc92a4666cb4bb8d6326cea507ab8240",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873611855
+        }
+    ],
+    "wof:id":873611855,
+    "wof:lastmodified":1464295165,
+    "wof:name":"D R Hilde Drywall",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.027453,
+    47.920749,
+    -97.027453,
+    47.920749
+],
+  "geometry": {"coordinates":[-97.02745299999999,47.920749],"type":"Point"}
+}

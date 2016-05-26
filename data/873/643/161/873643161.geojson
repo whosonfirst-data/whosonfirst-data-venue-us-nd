@@ -1,0 +1,71 @@
+{
+  "id": 873643161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.056007,47.906907,-97.056007,47.906907",
+    "geom:latitude":47.906907,
+    "geom:longitude":-97.056007,
+    "iso:country":"US",
+    "sg:address":"1418 Burntwood Ct",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 7841",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1l9Z0e1xUQr9WrSdaVZpBV_47.906907_-97.056007@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295513,
+    "wof:geomhash":"f35c96dbc751b4ead29115a6b3d417ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873643161
+        }
+    ],
+    "wof:id":873643161,
+    "wof:lastmodified":1464295513,
+    "wof:name":"Daves Communications Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -97.056007,
+    47.906907,
+    -97.056007,
+    47.906907
+],
+  "geometry": {"coordinates":[-97.05600699999999,47.906907],"type":"Point"}
+}

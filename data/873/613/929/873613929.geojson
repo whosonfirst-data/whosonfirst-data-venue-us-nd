@@ -1,0 +1,75 @@
+{
+  "id": 873613929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.823243,46.886795,-96.823243,46.886795",
+    "geom:latitude":46.886795,
+    "geom:longitude":-96.823243,
+    "iso:country":"US",
+    "sg:address":"2706 10th Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 298 8908",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "agent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RrLNISdFQQN6QgSLRc68p_46.886795_-96.823243@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295184,
+    "wof:geomhash":"f9bf1c8166b97fadae4efbc9aed62f77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873613929
+        }
+    ],
+    "wof:id":873613929,
+    "wof:lastmodified":1464295184,
+    "wof:name":"Mita Insurance Agency",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent"
+    ]
+},
+  "bbox": [
+    -96.823243,
+    46.886795,
+    -96.823243,
+    46.886795
+],
+  "geometry": {"coordinates":[-96.82324300000001,46.886795],"type":"Point"}
+}

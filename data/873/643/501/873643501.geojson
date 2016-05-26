@@ -1,0 +1,70 @@
+{
+  "id": 873643501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.806444,46.8679,-96.806444,46.8679",
+    "geom:latitude":46.8679,
+    "geom:longitude":-96.806444,
+    "iso:country":"US",
+    "sg:address":"613 16th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 6522",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877331,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SRLRvH7CHnVn96MvQ1S1T_46.867900_-96.806444@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295520,
+    "wof:geomhash":"7224a88e6873e3216b5ef725c6c4665a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877331,
+            "region_id":85688525,
+            "venue_id":873643501
+        }
+    ],
+    "wof:id":873643501,
+    "wof:lastmodified":1464295520,
+    "wof:name":"Bethlehem Lutheran Church",
+    "wof:parent_id":85877331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.806444,
+    46.8679,
+    -96.806444,
+    46.8679
+],
+  "geometry": {"coordinates":[-96.806444,46.8679],"type":"Point"}
+}

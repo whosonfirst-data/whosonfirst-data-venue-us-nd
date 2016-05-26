@@ -1,0 +1,71 @@
+{
+  "id": 873732459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.789165,46.806512,-100.789165,46.806512",
+    "geom:latitude":46.806512,
+    "geom:longitude":-100.789165,
+    "iso:country":"US",
+    "sg:address":"101 E Broadway Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Political Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 7370",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "campaign"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63aQVFdC3AHyA3KLx0y3ot_46.806512_-100.789165@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296809,
+    "wof:geomhash":"5ad12447b8c39196d89886a636383efe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873732459
+        }
+    ],
+    "wof:id":873732459,
+    "wof:lastmodified":1464296809,
+    "wof:name":"Schafer Volunteer Comm",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "campaign"
+    ]
+},
+  "bbox": [
+    -100.789165,
+    46.806512,
+    -100.789165,
+    46.806512
+],
+  "geometry": {"coordinates":[-100.789165,46.806512],"type":"Point"}
+}

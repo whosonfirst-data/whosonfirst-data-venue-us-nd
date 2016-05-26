@@ -1,0 +1,71 @@
+{
+  "id": 873780351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.360991,48.242787,-101.360991,48.242787",
+    "geom:latitude":48.242787,
+    "geom:longitude":-101.360991,
+    "iso:country":"US",
+    "sg:address":"4605 Co Rd 15 W",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 4545",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "greenhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Dp1jBk4CWWyyCYakem6Rd_48.242787_-101.360991@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297497,
+    "wof:geomhash":"4d3a694133bfc74ab12c05a723907e7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873780351
+        }
+    ],
+    "wof:id":873780351,
+    "wof:lastmodified":1464297497,
+    "wof:name":"Green Thumb Greenhouse",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "greenhouse"
+    ]
+},
+  "bbox": [
+    -101.360991,
+    48.242787,
+    -101.360991,
+    48.242787
+],
+  "geometry": {"coordinates":[-101.360991,48.242787],"type":"Point"}
+}

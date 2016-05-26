@@ -1,0 +1,73 @@
+{
+  "id": 873767805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.055781,47.935553,-97.055781,47.935553",
+    "geom:latitude":47.935553,
+    "geom:longitude":-97.055781,
+    "iso:country":"US",
+    "sg:address":"1710 N Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 5924",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UWeqvjKepXbJfWdqmZ9w9_47.935553_-97.055781@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297336,
+    "wof:geomhash":"1cbc921c7630f3661ac14ba2a936d3f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873767805
+        }
+    ],
+    "wof:id":873767805,
+    "wof:lastmodified":1464297336,
+    "wof:name":"R&D Sales",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -97.055781,
+    47.935553,
+    -97.055781,
+    47.935553
+],
+  "geometry": {"coordinates":[-97.055781,47.935553],"type":"Point"}
+}

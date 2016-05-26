@@ -1,0 +1,76 @@
+{
+  "id": 873678631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.090423,47.929827,-97.090423,47.929827",
+    "geom:latitude":47.929827,
+    "geom:longitude":-97.090423,
+    "iso:country":"US",
+    "sg:address":"1110 N 43rd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 780 9422",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "machine",
+        "duplicating",
+        "copying"
+    ],
+    "sg:website":"www.jacobsonofficeproducts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cZ2rqoqCDzBYZL3c8JFpF_47.929827_-97.090423@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295957,
+    "wof:geomhash":"f442db4f75c720c3d1cbcf1f3761ee19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873678631
+        }
+    ],
+    "wof:id":873678631,
+    "wof:lastmodified":1464295957,
+    "wof:name":"Jacobson Office Products Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "duplicating",
+        "copying"
+    ]
+},
+  "bbox": [
+    -97.090423,
+    47.929827,
+    -97.090423,
+    47.929827
+],
+  "geometry": {"coordinates":[-97.090423,47.929827],"type":"Point"}
+}

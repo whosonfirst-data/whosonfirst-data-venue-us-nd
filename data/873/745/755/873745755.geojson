@@ -1,0 +1,82 @@
+{
+  "id": 873745755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.032393,47.897705,-97.032393,47.897705",
+    "geom:latitude":47.897705,
+    "geom:longitude":-97.032393,
+    "iso:country":"US",
+    "sg:address":"511 23rd Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 0587",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "curtain",
+        "made",
+        "drapery",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BfwdPUQFZnqM2b8U6o7Rc_47.897705_-97.032393@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297022,
+    "wof:geomhash":"df39489a2e8d56a4036bb65679e09225",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873745755
+        }
+    ],
+    "wof:id":873745755,
+    "wof:lastmodified":1464297022,
+    "wof:name":"Carol's Custom Drapery",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "curtain",
+        "made",
+        "drapery",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -97.032393,
+    47.897705,
+    -97.032393,
+    47.897705
+],
+  "geometry": {"coordinates":[-97.032393,47.897705],"type":"Point"}
+}

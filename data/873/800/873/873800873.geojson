@@ -1,0 +1,65 @@
+{
+  "id": 873800873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.777632,46.913765,-96.777632,46.913765",
+    "geom:latitude":46.913765,
+    "geom:longitude":-96.777632,
+    "iso:country":"US",
+    "sg:address":"2842 1st St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 6704",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vDaPhsw5zH63NfmqpwWu6_46.913765_-96.777632@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297783,
+    "wof:geomhash":"013cfb79c18ffb0cc01318321b685bc0",
+    "wof:hierarchy":[],
+    "wof:id":873800873,
+    "wof:lastmodified":1464297783,
+    "wof:name":"Gernhardt Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.777632,
+    46.913765,
+    -96.777632,
+    46.913765
+],
+  "geometry": {"coordinates":[-96.777632,46.913765],"type":"Point"}
+}

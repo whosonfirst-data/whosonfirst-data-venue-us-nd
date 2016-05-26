@@ -1,0 +1,73 @@
+{
+  "id": 873566931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.77572,46.805241,-100.77572,46.805241",
+    "geom:latitude":46.805241,
+    "geom:longitude":-100.77572,
+    "iso:country":"US",
+    "sg:address":"917 E Main Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 355 1129",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dw83CwnVNZ7EdmZFCacXP_46.805241_-100.775720@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294575,
+    "wof:geomhash":"a6cfc62e9bdd1817d79fc7e8770f6ab1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873566931
+        }
+    ],
+    "wof:id":873566931,
+    "wof:lastmodified":1464294575,
+    "wof:name":"Jet Motors",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -100.77572,
+    46.805241,
+    -100.77572,
+    46.805241
+],
+  "geometry": {"coordinates":[-100.77572000000001,46.805241],"type":"Point"}
+}

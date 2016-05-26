@@ -1,0 +1,72 @@
+{
+  "id": 873761825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.293615,48.233361,-101.293615,48.233361",
+    "geom:latitude":48.233361,
+    "geom:longitude":-101.293615,
+    "iso:country":"US",
+    "sg:address":"21 3rd Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 3446",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "home"
+    ],
+    "sg:website":"www.thompsonlarson.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78vsumwb21X0PIrPJavorN_48.233361_-101.293615@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297233,
+    "wof:geomhash":"b2e4f5af102d39e25cac79adab563dbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873761825
+        }
+    ],
+    "wof:id":873761825,
+    "wof:lastmodified":1464297233,
+    "wof:name":"Thompson-Larson Funeral Home",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -101.293615,
+    48.233361,
+    -101.293615,
+    48.233361
+],
+  "geometry": {"coordinates":[-101.293615,48.233361],"type":"Point"}
+}

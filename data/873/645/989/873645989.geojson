@@ -1,0 +1,77 @@
+{
+  "id": 873645989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.820547,46.805211,-96.820547,46.805211",
+    "geom:latitude":46.805211,
+    "geom:longitude":-96.820547,
+    "iso:country":"US",
+    "sg:address":"4910 Meadow Creek Dr SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 237 5283",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "waterproofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877333,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HrcwCbAf1rZvi0eaTvgpf_46.805211_-96.820547@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295546,
+    "wof:geomhash":"3a22474aee8d5c37a30a628106a657d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877333,
+            "region_id":85688525,
+            "venue_id":873645989
+        }
+    ],
+    "wof:id":873645989,
+    "wof:lastmodified":1464295546,
+    "wof:name":"Basement Repair Specialties",
+    "wof:parent_id":85877333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "waterproofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.820547,
+    46.805211,
+    -96.820547,
+    46.805211
+],
+  "geometry": {"coordinates":[-96.820547,46.805211],"type":"Point"}
+}

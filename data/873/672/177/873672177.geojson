@@ -1,0 +1,73 @@
+{
+  "id": 873672177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.054043,47.932085,-97.054043,47.932085",
+    "geom:latitude":47.932085,
+    "geom:longitude":-97.054043,
+    "iso:country":"US",
+    "sg:address":"1807 13th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 6408",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JjOOOrU6aMazArn62flBf_47.932085_-97.054043@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295823,
+    "wof:geomhash":"5eeb972c5a4e122a1b6edc73b35568a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873672177
+        }
+    ],
+    "wof:id":873672177,
+    "wof:lastmodified":1464295823,
+    "wof:name":"Millennium Systems Tech Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -97.054043,
+    47.932085,
+    -97.054043,
+    47.932085
+],
+  "geometry": {"coordinates":[-97.05404299999999,47.932085],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873679927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.596482,46.76527,-100.596482,46.76527",
+    "geom:latitude":46.76527,
+    "geom:longitude":-100.596482,
+    "iso:country":"US",
+    "sg:address":"12451 Lincoln Rd",
+    "sg:city":"Menoken",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 8011",
+    "sg:postcode":"58558",
+    "sg:province":"ND",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uEzAtxVz3ifw9AS8PhWTW_46.765270_-100.596482@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295994,
+    "wof:geomhash":"22e59ca2f1f1bb64d2a4f616d0863486",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873679927
+        }
+    ],
+    "wof:id":873679927,
+    "wof:lastmodified":1464295994,
+    "wof:name":"Duane Frank Ranch Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -100.596482,
+    46.76527,
+    -100.596482,
+    46.76527
+],
+  "geometry": {"coordinates":[-100.59648199999999,46.76527],"type":"Point"}
+}

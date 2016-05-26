@@ -1,0 +1,75 @@
+{
+  "id": 873628809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.77328,46.797768,-100.77328,46.797768",
+    "geom:latitude":46.797768,
+    "geom:longitude":-100.77328,
+    "iso:country":"US",
+    "sg:address":"725 S 12th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 9404",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "mobile",
+        "home",
+        "site"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12DGodCDbtUVcrxQmLi2F5_46.797768_-100.773280@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295348,
+    "wof:geomhash":"4e2bc88026eff88baf1a7e5fcd62acf9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873628809
+        }
+    ],
+    "wof:id":873628809,
+    "wof:lastmodified":1464295348,
+    "wof:name":"Vcz Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home",
+        "site"
+    ]
+},
+  "bbox": [
+    -100.77328,
+    46.797768,
+    -100.77328,
+    46.797768
+],
+  "geometry": {"coordinates":[-100.77328,46.797768],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873681977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.0434,47.899652,-97.0434,47.899652",
+    "geom:latitude":47.899652,
+    "geom:longitude":-97.0434,
+    "iso:country":"US",
+    "sg:address":"1017 Park Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 4535",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Z7zjUcS8O7qElHLcDxlBV_47.899652_-97.043400@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296052,
+    "wof:geomhash":"1688f3ef0c71b8c74a78077f09b03350",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873681977
+        }
+    ],
+    "wof:id":873681977,
+    "wof:lastmodified":1464296052,
+    "wof:name":"Double A Painting",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.0434,
+    47.899652,
+    -97.0434,
+    47.899652
+],
+  "geometry": {"coordinates":[-97.04340000000001,47.899652],"type":"Point"}
+}

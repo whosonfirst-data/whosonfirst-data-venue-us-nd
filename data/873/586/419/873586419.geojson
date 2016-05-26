@@ -1,0 +1,71 @@
+{
+  "id": 873586419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.70588,46.759407,-100.70588,46.759407",
+    "geom:latitude":46.759407,
+    "geom:longitude":-100.70588,
+    "iso:country":"US",
+    "sg:address":"23 Penenah Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 250 0934",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WayBvE3UwjmbfH7WjPGSY_46.759407_-100.705880@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294789,
+    "wof:geomhash":"559d5fba4fcfac2baf3b311fbdb58ff7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873586419
+        }
+    ],
+    "wof:id":873586419,
+    "wof:lastmodified":1464294789,
+    "wof:name":"Jeremiah Lund Construction",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -100.70588,
+    46.759407,
+    -100.70588,
+    46.759407
+],
+  "geometry": {"coordinates":[-100.70587999999999,46.759407],"type":"Point"}
+}

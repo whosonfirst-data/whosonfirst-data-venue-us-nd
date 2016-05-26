@@ -1,0 +1,73 @@
+{
+  "id": 873569053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.231144,48.228021,-101.231144,48.228021",
+    "geom:latitude":48.228021,
+    "geom:longitude":-101.231144,
+    "iso:country":"US",
+    "sg:address":"908 42nd St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 4848",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UcyJIYQA9L5qKrVAPC2Uw_48.228021_-101.231144@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294596,
+    "wof:geomhash":"7c54651a011add95c6f6d4e8b486d877",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873569053
+        }
+    ],
+    "wof:id":873569053,
+    "wof:lastmodified":1464294596,
+    "wof:name":"Ernie's Concrete Construction",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.231144,
+    48.228021,
+    -101.231144,
+    48.228021
+],
+  "geometry": {"coordinates":[-101.231144,48.228021],"type":"Point"}
+}

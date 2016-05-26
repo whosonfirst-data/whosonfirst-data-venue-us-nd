@@ -1,0 +1,71 @@
+{
+  "id": 873679295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.789187,46.809406,-100.789187,46.809406",
+    "geom:latitude":46.809406,
+    "geom:longitude":-100.789187,
+    "iso:country":"US",
+    "sg:address":"422 N 2nd St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 2770",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:website":"www.agc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38qqVyk4y0gdfUMr0OKbSo_46.809406_-100.789187@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295974,
+    "wof:geomhash":"7e9035bcf7d8bc7ca193555747895dbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873679295
+        }
+    ],
+    "wof:id":873679295,
+    "wof:lastmodified":1464295974,
+    "wof:name":"Associated General Contractors",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.789187,
+    46.809406,
+    -100.789187,
+    46.809406
+],
+  "geometry": {"coordinates":[-100.789187,46.809406],"type":"Point"}
+}

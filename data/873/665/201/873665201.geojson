@@ -1,0 +1,73 @@
+{
+  "id": 873665201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.308139,48.198324,-101.308139,48.198324",
+    "geom:latitude":48.198324,
+    "geom:longitude":-101.308139,
+    "iso:country":"US",
+    "sg:address":"1015 Adams Ave",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 1179",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AoLYsXsvvMnSoRz41MR2K_48.198324_-101.308139@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295752,
+    "wof:geomhash":"50eee27cca98095aba7db13088142205",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873665201
+        }
+    ],
+    "wof:id":873665201,
+    "wof:lastmodified":1464295752,
+    "wof:name":"S&S Properties Inc",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -101.308139,
+    48.198324,
+    -101.308139,
+    48.198324
+],
+  "geometry": {"coordinates":[-101.308139,48.198324],"type":"Point"}
+}

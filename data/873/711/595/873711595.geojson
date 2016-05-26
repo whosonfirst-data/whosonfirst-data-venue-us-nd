@@ -1,0 +1,71 @@
+{
+  "id": 873711595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.051034,47.916335,-97.051034,47.916335",
+    "geom:latitude":47.916335,
+    "geom:longitude":-97.051034,
+    "iso:country":"US",
+    "sg:address":"1405 Demers Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Arcade",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 335 2500",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "casino"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EQOGc8cMk47L5yw5to6Ju_47.916335_-97.051034@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296540,
+    "wof:geomhash":"3efb5972806a55922c27109f959115c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873711595
+        }
+    ],
+    "wof:id":873711595,
+    "wof:lastmodified":1464296540,
+    "wof:name":"Big Daddy's Casino",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "casino"
+    ]
+},
+  "bbox": [
+    -97.051034,
+    47.916335,
+    -97.051034,
+    47.916335
+],
+  "geometry": {"coordinates":[-97.051034,47.916335],"type":"Point"}
+}

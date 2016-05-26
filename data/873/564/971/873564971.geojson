@@ -1,0 +1,71 @@
+{
+  "id": 873564971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.726081,46.834368,-100.726081,46.834368",
+    "geom:latitude":46.834368,
+    "geom:longitude":-100.726081,
+    "iso:country":"US",
+    "sg:address":"2600 Colonial Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 3184",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "national"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SurLABHTf7Ve1NsWrYOvz_46.834368_-100.726081@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294555,
+    "wof:geomhash":"057c609134747056451ed36c85b457eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873564971
+        }
+    ],
+    "wof:id":873564971,
+    "wof:lastmodified":1464294555,
+    "wof:name":"Arrowhead Office",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national"
+    ]
+},
+  "bbox": [
+    -100.726081,
+    46.834368,
+    -100.726081,
+    46.834368
+],
+  "geometry": {"coordinates":[-100.72608099999999,46.834368],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873597067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.769047,46.790334,-100.769047,46.790334",
+    "geom:latitude":46.790334,
+    "geom:longitude":-100.769047,
+    "iso:country":"US",
+    "sg:address":"1535 Park Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 250 6787",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pjzM52vL3xINYk01OgF6B_46.790334_-100.769047@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294947,
+    "wof:geomhash":"67650cf0e0f62b493b65a2a177faafef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873597067
+        }
+    ],
+    "wof:id":873597067,
+    "wof:lastmodified":1464294947,
+    "wof:name":"Haider Glass Specialties",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "plate"
+    ]
+},
+  "bbox": [
+    -100.769047,
+    46.790334,
+    -100.769047,
+    46.790334
+],
+  "geometry": {"coordinates":[-100.769047,46.790334],"type":"Point"}
+}

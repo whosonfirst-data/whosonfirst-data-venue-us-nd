@@ -1,0 +1,71 @@
+{
+  "id": 873634109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.425384,48.26969,-101.425384,48.26969",
+    "geom:latitude":48.26969,
+    "geom:longitude":-101.425384,
+    "iso:country":"US",
+    "sg:address":"6 Fiesta Dr",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 4831",
+    "sg:postcode":"58722",
+    "sg:province":"ND",
+    "sg:tags":[
+        "window"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43cgCHszxXJ4FU84QXTnoq_48.269690_-101.425384@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295414,
+    "wof:geomhash":"689311e5fdf9f1010bba5f32e99dcfbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873634109
+        }
+    ],
+    "wof:id":873634109,
+    "wof:lastmodified":1464295414,
+    "wof:name":"Haman's Clear-View Window Cln",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "window"
+    ]
+},
+  "bbox": [
+    -101.425384,
+    48.26969,
+    -101.425384,
+    48.26969
+],
+  "geometry": {"coordinates":[-101.42538399999999,48.26969],"type":"Point"}
+}

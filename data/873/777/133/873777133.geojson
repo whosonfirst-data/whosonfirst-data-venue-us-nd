@@ -1,0 +1,66 @@
+{
+  "id": 873777133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.766347,46.823452,-100.766347,46.823452",
+    "geom:latitude":46.823452,
+    "geom:longitude":-100.766347,
+    "iso:country":"US",
+    "sg:address":"1616 N 17th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 4444",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eWp6xaRZMByHmatgxE97c_46.823452_-100.766347@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297452,
+    "wof:geomhash":"4cfbd19119c09eac679929ee6d766145",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873777133
+        }
+    ],
+    "wof:id":873777133,
+    "wof:lastmodified":1464297452,
+    "wof:name":"Blind Shine",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.766347,
+    46.823452,
+    -100.766347,
+    46.823452
+],
+  "geometry": {"coordinates":[-100.766347,46.823452],"type":"Point"}
+}

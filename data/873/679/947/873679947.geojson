@@ -1,0 +1,73 @@
+{
+  "id": 873679947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.30124,48.210744,-101.30124,48.210744",
+    "geom:latitude":48.210744,
+    "geom:longitude":-101.30124,
+    "iso:country":"US",
+    "sg:address":"400 20th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 837 4895",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1l2ZytMrJU19ohVipfWdmD_48.210744_-101.301240@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295994,
+    "wof:geomhash":"42ceded6cdfd133ef37f9e624540220b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873679947
+        }
+    ],
+    "wof:id":873679947,
+    "wof:lastmodified":1464295994,
+    "wof:name":"Checker Auto Parts 1885",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -101.30124,
+    48.210744,
+    -101.30124,
+    48.210744
+],
+  "geometry": {"coordinates":[-101.30124000000001,48.210744],"type":"Point"}
+}

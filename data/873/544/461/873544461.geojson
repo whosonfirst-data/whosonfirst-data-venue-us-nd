@@ -1,0 +1,75 @@
+{
+  "id": 873544461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.804561,46.850451,-96.804561,46.850451",
+    "geom:latitude":46.850451,
+    "geom:longitude":-96.804561,
+    "iso:country":"US",
+    "sg:address":"1914 15th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 793 5157",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534481,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cMfgJY4EjUJpWJagoybwg_46.850451_-96.804561@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294311,
+    "wof:geomhash":"6876c30db130e22aa248ea913a7cbb92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534481,
+            "region_id":85688525,
+            "venue_id":873544461
+        }
+    ],
+    "wof:id":873544461,
+    "wof:lastmodified":1464294311,
+    "wof:name":"Wehri Pet & Home Care",
+    "wof:parent_id":420534481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -96.804561,
+    46.850451,
+    -96.804561,
+    46.850451
+],
+  "geometry": {"coordinates":[-96.80456100000001,46.850451],"type":"Point"}
+}

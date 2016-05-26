@@ -1,0 +1,71 @@
+{
+  "id": 873553169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.32184,48.245408,-101.32184,48.245408",
+    "geom:latitude":48.245408,
+    "geom:longitude":-101.32184,
+    "iso:country":"US",
+    "sg:address":"817 19th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 3910",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19LHsQFvXpfGM5KHkT9mcG_48.245408_-101.321840@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294413,
+    "wof:geomhash":"20cf8e196169572075d1da8221098258",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873553169
+        }
+    ],
+    "wof:id":873553169,
+    "wof:lastmodified":1464294413,
+    "wof:name":"Little Flower Catholic Chr",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -101.32184,
+    48.245408,
+    -101.32184,
+    48.245408
+],
+  "geometry": {"coordinates":[-101.32183999999999,48.245408],"type":"Point"}
+}

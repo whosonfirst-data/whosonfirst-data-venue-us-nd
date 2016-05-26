@@ -1,0 +1,71 @@
+{
+  "id": 873577401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.035806,47.899744,-97.035806,47.899744",
+    "geom:latitude":47.899744,
+    "geom:longitude":-97.035806,
+    "iso:country":"US",
+    "sg:address":"601 Park Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 3856",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38wK2wZT4gNkGHBXfsqcLT_47.899744_-97.035806@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294688,
+    "wof:geomhash":"b61ad08da7173c91176881abc8294beb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873577401
+        }
+    ],
+    "wof:id":873577401,
+    "wof:lastmodified":1464294688,
+    "wof:name":"Artistic Wildlife Studio",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxidermist"
+    ]
+},
+  "bbox": [
+    -97.035806,
+    47.899744,
+    -97.035806,
+    47.899744
+],
+  "geometry": {"coordinates":[-97.03580599999999,47.899744],"type":"Point"}
+}

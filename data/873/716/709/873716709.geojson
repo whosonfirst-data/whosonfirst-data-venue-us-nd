@@ -1,0 +1,73 @@
+{
+  "id": 873716709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.303293,48.201522,-101.303293,48.201522",
+    "geom:latitude":48.201522,
+    "geom:longitude":-101.303293,
+    "iso:country":"US",
+    "sg:address":"3121 7th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 3763",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CvWHVfzYpWrSVKnVLJau1_48.201522_-101.303293@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296602,
+    "wof:geomhash":"69ca339726a2629a9b3bb3256307d2e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873716709
+        }
+    ],
+    "wof:id":873716709,
+    "wof:lastmodified":1464296602,
+    "wof:name":"Hollywood Nites Video",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -101.303293,
+    48.201522,
+    -101.303293,
+    48.201522
+],
+  "geometry": {"coordinates":[-101.303293,48.201522],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 873780297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.045068,47.921004,-97.045068,47.921004",
+    "geom:latitude":47.921004,
+    "geom:longitude":-97.045068,
+    "iso:country":"US",
+    "sg:address":"117 N Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 7824",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "security"
+    ],
+    "sg:website":"www.edwardjones.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ApUP3HHYwg4ebIbvyYCvJ_47.921004_-97.045068@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297497,
+    "wof:geomhash":"79f5747c7a561e2fbcfb22e16f3eab2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873780297
+        }
+    ],
+    "wof:id":873780297,
+    "wof:lastmodified":1464297497,
+    "wof:name":"Edward Jones Co",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -97.045068,
+    47.921004,
+    -97.045068,
+    47.921004
+],
+  "geometry": {"coordinates":[-97.045068,47.921004],"type":"Point"}
+}

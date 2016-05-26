@@ -1,0 +1,75 @@
+{
+  "id": 873751315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-102.787629,46.881912,-102.787629,46.881912",
+    "geom:latitude":46.881912,
+    "geom:longitude":-102.787629,
+    "iso:country":"US",
+    "sg:address":"141 3rd St W",
+    "sg:city":"Dickinson",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 483 9146",
+    "sg:postcode":"58601",
+    "sg:province":"ND",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877119,
+        102191575,
+        404482179,
+        85633793,
+        85982521,
+        102082105,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FFVWdVqGFGLaJPwX8fuE4_46.881912_-102.787629@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297092,
+    "wof:geomhash":"d5e37d1f1ecf2030ad84de7078ed5f06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082105,
+            "localadmin_id":404482179,
+            "locality_id":85982521,
+            "neighbourhood_id":85877119,
+            "region_id":85688525,
+            "venue_id":873751315
+        }
+    ],
+    "wof:id":873751315,
+    "wof:lastmodified":1464297092,
+    "wof:name":"Robert A Keogh Law Office",
+    "wof:parent_id":85877119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -102.787629,
+    46.881912,
+    -102.787629,
+    46.881912
+],
+  "geometry": {"coordinates":[-102.787629,46.881912],"type":"Point"}
+}

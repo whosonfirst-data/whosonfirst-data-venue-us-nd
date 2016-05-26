@@ -1,0 +1,72 @@
+{
+  "id": 873579477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.042966,47.932341,-97.042966,47.932341",
+    "geom:latitude":47.932341,
+    "geom:longitude":-97.042966,
+    "iso:country":"US",
+    "sg:address":"930 N 3rd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 9143",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "human"
+    ],
+    "sg:website":"www.prairieharvest.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EvtCGF1rdgWwlM6UcR895_47.932341_-97.042966@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294711,
+    "wof:geomhash":"6a5bf22f381fd7f3f5e3a68f2f9dbefe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873579477
+        }
+    ],
+    "wof:id":873579477,
+    "wof:lastmodified":1464294711,
+    "wof:name":"Prairie Harvest Human Svc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "human"
+    ]
+},
+  "bbox": [
+    -97.042966,
+    47.932341,
+    -97.042966,
+    47.932341
+],
+  "geometry": {"coordinates":[-97.04296600000001,47.932341],"type":"Point"}
+}

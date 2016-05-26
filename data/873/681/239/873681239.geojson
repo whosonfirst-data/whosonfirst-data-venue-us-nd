@@ -1,0 +1,75 @@
+{
+  "id": 873681239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.808757,46.867694,-96.808757,46.867694",
+    "geom:latitude":46.867694,
+    "geom:longitude":-96.808757,
+    "iso:country":"US",
+    "sg:address":"1614 7th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 729 7951",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877331,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tC5vi5SxfSUIux7RY9H21_46.867694_-96.808757@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296029,
+    "wof:geomhash":"20dd6a7ec878c59afbf70b9482ee6caa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877331,
+            "region_id":85688525,
+            "venue_id":873681239
+        }
+    ],
+    "wof:id":873681239,
+    "wof:lastmodified":1464296029,
+    "wof:name":"Platinum Painting",
+    "wof:parent_id":85877331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -96.808757,
+    46.867694,
+    -96.808757,
+    46.867694
+],
+  "geometry": {"coordinates":[-96.808757,46.867694],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873559813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.786691,46.921537,-96.786691,46.921537",
+    "geom:latitude":46.921537,
+    "geom:longitude":-96.786691,
+    "iso:country":"US",
+    "sg:address":"3435 Broadway",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 5151",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877353,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1l2lzhvla6dFWWBF8UazOD_46.921537_-96.786691@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294498,
+    "wof:geomhash":"24150619d3cc9b1716d9667211ee91ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877353,
+            "region_id":85688525,
+            "venue_id":873559813
+        }
+    ],
+    "wof:id":873559813,
+    "wof:lastmodified":1464294498,
+    "wof:name":"Elks Lodge",
+    "wof:parent_id":85877353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -96.786691,
+    46.921537,
+    -96.786691,
+    46.921537
+],
+  "geometry": {"coordinates":[-96.786691,46.921537],"type":"Point"}
+}

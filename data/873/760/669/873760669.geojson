@@ -1,0 +1,73 @@
+{
+  "id": 873760669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.113553,47.932981,-97.113553,47.932981",
+    "geom:latitude":47.932981,
+    "geom:longitude":-97.113553,
+    "iso:country":"US",
+    "sg:address":"5800 Gateway Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 739 6040",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "residential",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YMcrP3ZTZ1YzNjOWeE3Ph_47.932981_-97.113553@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297215,
+    "wof:geomhash":"ae77f7a2f9cd81b45116839128e2af26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873760669
+        }
+    ],
+    "wof:id":873760669,
+    "wof:lastmodified":1464297215,
+    "wof:name":"Constructive Building Solution",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "business"
+    ]
+},
+  "bbox": [
+    -97.113553,
+    47.932981,
+    -97.113553,
+    47.932981
+],
+  "geometry": {"coordinates":[-97.113553,47.932981],"type":"Point"}
+}

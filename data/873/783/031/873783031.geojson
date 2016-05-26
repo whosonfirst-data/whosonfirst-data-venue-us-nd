@@ -1,0 +1,67 @@
+{
+  "id": 873783031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.772342,47.817203,-97.772342,47.817203",
+    "geom:latitude":47.817203,
+    "geom:longitude":-97.772342,
+    "iso:country":"US",
+    "sg:address":"4385 10th Ave NE",
+    "sg:city":"Northwood",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 326 4163",
+    "sg:postcode":"58267",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "wheat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FClce1K7M1GjHG56NvVKe_47.817203_-97.772342@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297531,
+    "wof:geomhash":"6ceae88d242f73736c8c19e9e9da6e1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873783031
+        }
+    ],
+    "wof:id":873783031,
+    "wof:lastmodified":1464297531,
+    "wof:name":"Andrew Landman Farm",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "wheat"
+    ]
+},
+  "bbox": [
+    -97.772342,
+    47.817203,
+    -97.772342,
+    47.817203
+],
+  "geometry": {"coordinates":[-97.77234199999999,47.817203],"type":"Point"}
+}

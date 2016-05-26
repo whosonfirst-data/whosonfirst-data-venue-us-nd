@@ -1,0 +1,73 @@
+{
+  "id": 873619171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.055548,47.904016,-97.055548,47.904016",
+    "geom:latitude":47.904016,
+    "geom:longitude":-97.055548,
+    "iso:country":"US",
+    "sg:address":"1920 17th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 4221",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zirgsZUw9ds4WkU8VzmAI_47.904016_-97.055548@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295242,
+    "wof:geomhash":"f7b32a6568402d67e7c26b99daae1ae4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873619171
+        }
+    ],
+    "wof:id":873619171,
+    "wof:lastmodified":1464295242,
+    "wof:name":"Holien Decorating",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.055548,
+    47.904016,
+    -97.055548,
+    47.904016
+],
+  "geometry": {"coordinates":[-97.055548,47.904016],"type":"Point"}
+}

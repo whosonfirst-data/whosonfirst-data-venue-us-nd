@@ -1,0 +1,76 @@
+{
+  "id": 873759409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.840558,46.871297,-96.840558,46.871297",
+    "geom:latitude":46.871297,
+    "geom:longitude":-96.840558,
+    "iso:country":"US",
+    "sg:address":"432 36th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 6459",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "scooter"
+    ],
+    "sg:website":"www.wheels-inc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mqOs9eb1ixCfEsq83WEsM_46.871297_-96.840558@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297199,
+    "wof:geomhash":"6ad9c6fa572e0c47795cfe5c0397ee40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873759409
+        }
+    ],
+    "wof:id":873759409,
+    "wof:lastmodified":1464297199,
+    "wof:name":"Wheels Inc",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter"
+    ]
+},
+  "bbox": [
+    -96.840558,
+    46.871297,
+    -96.840558,
+    46.871297
+],
+  "geometry": {"coordinates":[-96.840558,46.871297],"type":"Point"}
+}

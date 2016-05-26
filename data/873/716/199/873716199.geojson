@@ -1,0 +1,73 @@
+{
+  "id": 873716199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.758669,46.827697,-100.758669,46.827697",
+    "geom:latitude":46.827697,
+    "geom:longitude":-100.758669,
+    "iso:country":"US",
+    "sg:address":"2100 Grant Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 1049",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05BsOl6T86grtlf95aTHBP_46.827697_-100.758669@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296595,
+    "wof:geomhash":"389e79e610e990918ff46966e09002f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873716199
+        }
+    ],
+    "wof:id":873716199,
+    "wof:lastmodified":1464296595,
+    "wof:name":"Meberg Dj Farms",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -100.758669,
+    46.827697,
+    -100.758669,
+    46.827697
+],
+  "geometry": {"coordinates":[-100.758669,46.827697],"type":"Point"}
+}

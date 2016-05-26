@@ -1,0 +1,80 @@
+{
+  "id": 873757763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.088276,47.945695,-97.088276,47.945695",
+    "geom:latitude":47.945695,
+    "geom:longitude":-97.088276,
+    "iso:country":"US",
+    "sg:address":"2455 N 42nd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 9279",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automobile",
+        "rebuilt",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4g90BUWgz8MQ0c2I0HA5Oy_47.945695_-97.088276@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297178,
+    "wof:geomhash":"cd26c7cad35bc33934a6715bec76a04d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873757763
+        }
+    ],
+    "wof:id":873757763,
+    "wof:lastmodified":1464297178,
+    "wof:name":"Richard Swangler Auto Repair",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "rebuilt",
+        "general"
+    ]
+},
+  "bbox": [
+    -97.088276,
+    47.945695,
+    -97.088276,
+    47.945695
+],
+  "geometry": {"coordinates":[-97.08827599999999,47.945695],"type":"Point"}
+}

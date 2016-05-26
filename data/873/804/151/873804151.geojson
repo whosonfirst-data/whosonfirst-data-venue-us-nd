@@ -1,0 +1,96 @@
+{
+  "id": 873804151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.86045,46.876392,-96.86045,46.876392",
+    "geom:latitude":46.876392,
+    "geom:longitude":-96.86045,
+    "iso:country":"US",
+    "sg:address":"4457 Main Ave",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 281 5084",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "body",
+        "battery",
+        "automobile",
+        "accessory",
+        "equipment",
+        "truck"
+    ],
+    "sg:website":"http://www.oreillyauto.com?utm_source=yellowpages&utm_medium=iyp&utm_campaign=1932",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UDtSMmxa7aI9w1QEcqo97_46.876392_-96.860450@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297825,
+    "wof:geomhash":"c62f671c1a07f1833a53b0f3f44f172e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873804151
+        }
+    ],
+    "wof:id":873804151,
+    "wof:lastmodified":1464297825,
+    "wof:name":"O'Reilly Auto Parts",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "battery",
+        "automobile",
+        "accessory",
+        "equipment",
+        "truck"
+    ]
+},
+  "bbox": [
+    -96.86045,
+    46.876392,
+    -96.86045,
+    46.876392
+],
+  "geometry": {"coordinates":[-96.86045,46.876392],"type":"Point"}
+}

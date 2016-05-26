@@ -1,0 +1,73 @@
+{
+  "id": 873766177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.29837,48.371675,-101.29837,48.371675",
+    "geom:latitude":48.371675,
+    "geom:longitude":-101.29837,
+    "iso:country":"US",
+    "sg:address":"102 128th Ave NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 728 6949",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aELDloXoqvVU6Q4Uzgt9x_48.371675_-101.298370@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297314,
+    "wof:geomhash":"464ed83265a26c950e8a2d8e6e7a4963",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873766177
+        }
+    ],
+    "wof:id":873766177,
+    "wof:lastmodified":1464297314,
+    "wof:name":"Novak's",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.29837,
+    48.371675,
+    -101.29837,
+    48.371675
+],
+  "geometry": {"coordinates":[-101.29837000000001,48.371675],"type":"Point"}
+}

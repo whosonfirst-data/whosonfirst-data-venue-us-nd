@@ -1,0 +1,75 @@
+{
+  "id": 873742125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.049467,47.940489,-97.049467,47.940489",
+    "geom:latitude":47.940489,
+    "geom:longitude":-97.049467,
+    "iso:country":"US",
+    "sg:address":"1808 N 6th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 6774",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automobile",
+        "restoration",
+        "classic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aw3TPqfyTtnHq4zXhKlke_47.940489_-97.049467@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296957,
+    "wof:geomhash":"adda8dd8bc5925a07b283ebe5682282e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873742125
+        }
+    ],
+    "wof:id":873742125,
+    "wof:lastmodified":1464296957,
+    "wof:name":"Mona Antique LLC",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "restoration",
+        "classic"
+    ]
+},
+  "bbox": [
+    -97.049467,
+    47.940489,
+    -97.049467,
+    47.940489
+],
+  "geometry": {"coordinates":[-97.04946700000001,47.940489],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873736831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.318444,48.254934,-101.318444,48.254934",
+    "geom:latitude":48.254934,
+    "geom:longitude":-101.318444,
+    "iso:country":"US",
+    "sg:address":"1613 Terrace Ct",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 5349",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iAipk26tNIAxy850lGOMk_48.254934_-101.318444@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296880,
+    "wof:geomhash":"d6583e49bad0d64778bc6b54afdad9ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873736831
+        }
+    ],
+    "wof:id":873736831,
+    "wof:lastmodified":1464296880,
+    "wof:name":"Top Dog Grooming Salon",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.318444,
+    48.254934,
+    -101.318444,
+    48.254934
+],
+  "geometry": {"coordinates":[-101.318444,48.254934],"type":"Point"}
+}

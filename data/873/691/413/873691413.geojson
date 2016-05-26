@@ -1,0 +1,75 @@
+{
+  "id": 873691413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.814573,46.816364,-100.814573,46.816364",
+    "geom:latitude":46.816364,
+    "geom:longitude":-100.814573,
+    "iso:country":"US",
+    "sg:address":"1004 W Highland Acres Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 6979",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10iECbMOBJQMYwrYVd1f3z_46.816364_-100.814573@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296309,
+    "wof:geomhash":"a6ccd33b1a181b937c60d1dc4adbe27e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873691413
+        }
+    ],
+    "wof:id":873691413,
+    "wof:lastmodified":1464296309,
+    "wof:name":"Crane Photography",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -100.814573,
+    46.816364,
+    -100.814573,
+    46.816364
+],
+  "geometry": {"coordinates":[-100.814573,46.816364],"type":"Point"}
+}

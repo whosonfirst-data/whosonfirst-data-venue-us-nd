@@ -1,0 +1,73 @@
+{
+  "id": 873705131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.908265,46.779929,-96.908265,46.779929",
+    "geom:latitude":46.779929,
+    "geom:longitude":-96.908265,
+    "iso:country":"US",
+    "sg:address":"7215 Sunnyside St",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 8540",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "home",
+        "improvement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wtWHU9chnSUYmMqJsYOGq_46.779929_-96.908265@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296458,
+    "wof:geomhash":"d72f555ce5c81977c369178f5ee3bbdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873705131
+        }
+    ],
+    "wof:id":873705131,
+    "wof:lastmodified":1464296458,
+    "wof:name":"D J's Home Maintenance & Rpr",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "improvement"
+    ]
+},
+  "bbox": [
+    -96.908265,
+    46.779929,
+    -96.908265,
+    46.779929
+],
+  "geometry": {"coordinates":[-96.908265,46.779929],"type":"Point"}
+}

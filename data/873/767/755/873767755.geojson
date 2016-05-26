@@ -1,0 +1,73 @@
+{
+  "id": 873767755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.11167,47.919918,-97.11167,47.919918",
+    "geom:latitude":47.919918,
+    "geom:longitude":-97.11167,
+    "iso:country":"US",
+    "sg:address":"5621 1st Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 3118",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OmSpUCc4WLVoYJZZDiWiA_47.919918_-97.111670@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297335,
+    "wof:geomhash":"4b6cc3e319ba332880c2ddb94c50535d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873767755
+        }
+    ],
+    "wof:id":873767755,
+    "wof:lastmodified":1464297335,
+    "wof:name":"Robinson Excavating",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.11167,
+    47.919918,
+    -97.11167,
+    47.919918
+],
+  "geometry": {"coordinates":[-97.11167,47.919918],"type":"Point"}
+}

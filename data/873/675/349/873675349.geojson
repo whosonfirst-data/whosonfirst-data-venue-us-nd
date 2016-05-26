@@ -1,0 +1,76 @@
+{
+  "id": 873675349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.81979,46.827041,-96.81979,46.827041",
+    "geom:latitude":46.827041,
+    "geom:longitude":-96.81979,
+    "iso:country":"US",
+    "sg:address":"3535 25th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 5483",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.cbcfargo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534467,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IRGeGBF7CkA2gvWyclwvq_46.827041_-96.819790@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295876,
+    "wof:geomhash":"26aa1a1ba353f26517cc83f237fa975e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534467,
+            "region_id":85688525,
+            "venue_id":873675349
+        }
+    ],
+    "wof:id":873675349,
+    "wof:lastmodified":1464295876,
+    "wof:name":"Community Baptist Church",
+    "wof:parent_id":420534467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -96.81979,
+    46.827041,
+    -96.81979,
+    46.827041
+],
+  "geometry": {"coordinates":[-96.81979,46.827041],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 873786091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.837465,46.859958,-96.837465,46.859958",
+    "geom:latitude":46.859958,
+    "geom:longitude":-96.837465,
+    "iso:country":"US",
+    "sg:address":"3431 14th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 5566",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "operation"
+    ],
+    "sg:website":"http://www.fargond.hamptoninn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21ujKHpJO2X5vsD5FsqwoG_46.860036_-96.836559@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464297571,
+    "wof:geomhash":"0d255b229e7c408c3ab9489ac0dca953",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873786091
+        }
+    ],
+    "wof:id":873786091,
+    "wof:lastmodified":1464297571,
+    "wof:name":"Hampton Inn",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -96.837465,
+    46.859958,
+    -96.837465,
+    46.859958
+],
+  "geometry": {"coordinates":[-96.83746499999999,46.859958],"type":"Point"}
+}

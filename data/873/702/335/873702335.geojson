@@ -1,0 +1,71 @@
+{
+  "id": 873702335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.103107,47.775511,-97.103107,47.775511",
+    "geom:latitude":47.775511,
+    "geom:longitude":-97.103107,
+    "iso:country":"US",
+    "sg:address":"508 2nd St",
+    "sg:city":"Thompson",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 599 2133",
+    "sg:postcode":"58278",
+    "sg:province":"ND",
+    "sg:tags":[
+        "editorial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BHJegPw3d8Jmzd8oBLAC4_47.775511_-97.103107@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296429,
+    "wof:geomhash":"43969d623d0840cf7443bf2654ccd0ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873702335
+        }
+    ],
+    "wof:id":873702335,
+    "wof:lastmodified":1464296429,
+    "wof:name":"Brenda Haugen",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "editorial"
+    ]
+},
+  "bbox": [
+    -97.103107,
+    47.775511,
+    -97.103107,
+    47.775511
+],
+  "geometry": {"coordinates":[-97.10310699999999,47.775511],"type":"Point"}
+}

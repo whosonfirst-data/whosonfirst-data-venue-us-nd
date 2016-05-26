@@ -1,0 +1,70 @@
+{
+  "id": 873806205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.833456,40.759308,-73.833456,40.759308",
+    "geom:latitude":40.759308,
+    "geom:longitude":-73.833456,
+    "iso:country":"US",
+    "sg:address":"8744 39th St NW",
+    "sg:city":"New Town",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 627 5244",
+    "sg:postcode":"58763",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85819703,
+        102191575,
+        85633793,
+        85977539,
+        421205767,
+        102082377,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nGX1ZpCmF4rnrotGw0Poq_40.759308_-73.833456@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297854,
+    "wof:geomhash":"deb33d06c711cf44467e8acaf0812928",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205767,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85819703,
+            "region_id":85688543,
+            "venue_id":873806205
+        }
+    ],
+    "wof:id":873806205,
+    "wof:lastmodified":1464297854,
+    "wof:name":"Sam's Auto Repair",
+    "wof:parent_id":85819703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.833456,
+    40.759308,
+    -73.833456,
+    40.759308
+],
+  "geometry": {"coordinates":[-73.833456,40.759308],"type":"Point"}
+}

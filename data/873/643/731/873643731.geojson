@@ -1,0 +1,75 @@
+{
+  "id": 873643731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.79693,46.835153,-96.79693,46.835153",
+    "geom:latitude":46.835153,
+    "geom:longitude":-96.79693,
+    "iso:country":"US",
+    "sg:address":"2822 12th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 277 0649",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534475,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CclG2pwLOHmVi8PSU9PvM_46.835153_-96.796930@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295522,
+    "wof:geomhash":"512ce47eb7b03ee3ec51f051bf32ba8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534475,
+            "region_id":85688525,
+            "venue_id":873643731
+        }
+    ],
+    "wof:id":873643731,
+    "wof:lastmodified":1464295522,
+    "wof:name":"A1 Plumbing",
+    "wof:parent_id":420534475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.79693,
+    46.835153,
+    -96.79693,
+    46.835153
+],
+  "geometry": {"coordinates":[-96.79693,46.835153],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873775915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.81978,46.843415,-96.81978,46.843415",
+    "geom:latitude":46.843415,
+    "geom:longitude":-96.81978,
+    "iso:country":"US",
+    "sg:address":"2301 25th St SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 241 9300",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534475,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ga45ceU2GrjyklXhPqzYu_46.843415_-96.819780@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297437,
+    "wof:geomhash":"5c3f7dcbc2989fd2c3b018171c4bfea9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534475,
+            "region_id":85688525,
+            "venue_id":873775915
+        }
+    ],
+    "wof:id":873775915,
+    "wof:lastmodified":1464297437,
+    "wof:name":"FM Orthopedics",
+    "wof:parent_id":420534475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -96.81978,
+    46.843415,
+    -96.81978,
+    46.843415
+],
+  "geometry": {"coordinates":[-96.81977999999999,46.843415],"type":"Point"}
+}

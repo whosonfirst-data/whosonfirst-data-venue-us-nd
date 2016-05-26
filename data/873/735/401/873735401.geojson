@@ -1,0 +1,77 @@
+{
+  "id": 873735401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.814726,46.846263,-96.814726,46.846263",
+    "geom:latitude":46.846263,
+    "geom:longitude":-96.814726,
+    "iso:country":"US",
+    "sg:address":"1714 Gold Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 730 4242",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534475,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nZh3wMX1Fhnnidoj1MTpK_46.846263_-96.814726@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296856,
+    "wof:geomhash":"9c1cf78965392ca703f279e1b7a4d577",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534475,
+            "region_id":85688525,
+            "venue_id":873735401
+        }
+    ],
+    "wof:id":873735401,
+    "wof:lastmodified":1464296856,
+    "wof:name":"Burwick Dirt Works & Snow",
+    "wof:parent_id":420534475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.814726,
+    46.846263,
+    -96.814726,
+    46.846263
+],
+  "geometry": {"coordinates":[-96.81472599999999,46.846263],"type":"Point"}
+}

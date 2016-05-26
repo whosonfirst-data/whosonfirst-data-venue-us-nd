@@ -1,0 +1,71 @@
+{
+  "id": 873561299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.286047,48.23634,-101.286047,48.23634",
+    "geom:latitude":48.23634,
+    "geom:longitude":-101.286047,
+    "iso:country":"US",
+    "sg:address":"504 Central Ave E",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 5845",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "counselor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2J4Z3PfECgE6I2yVSGADjr_48.236340_-101.286047@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294513,
+    "wof:geomhash":"1c6262bb5a8f76e60167c8832400f055",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873561299
+        }
+    ],
+    "wof:id":873561299,
+    "wof:lastmodified":1464294513,
+    "wof:name":"Peder A Rice & Assoc",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counselor"
+    ]
+},
+  "bbox": [
+    -101.286047,
+    48.23634,
+    -101.286047,
+    48.23634
+],
+  "geometry": {"coordinates":[-101.286047,48.23634],"type":"Point"}
+}

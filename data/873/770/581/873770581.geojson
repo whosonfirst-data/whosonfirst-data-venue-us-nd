@@ -1,0 +1,71 @@
+{
+  "id": 873770581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.005362,46.632683,-97.005362,46.632683",
+    "geom:latitude":46.632683,
+    "geom:longitude":-97.005362,
+    "iso:country":"US",
+    "sg:address":"405 Hwy 46",
+    "sg:city":"Kindred",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 428 3184",
+    "sg:postcode":"58051",
+    "sg:province":"ND",
+    "sg:tags":[
+        "auctioneer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69saHWdGmfeBRIy0Fv8lAh_46.632683_-97.005362@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297373,
+    "wof:geomhash":"3ebceee6995b9bb403ce410f603d677b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873770581
+        }
+    ],
+    "wof:id":873770581,
+    "wof:lastmodified":1464297373,
+    "wof:name":"Helblings Valley Auctioneers",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auctioneer"
+    ]
+},
+  "bbox": [
+    -97.005362,
+    46.632683,
+    -97.005362,
+    46.632683
+],
+  "geometry": {"coordinates":[-97.00536200000001,46.632683],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 873596217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.033378,47.922938,-97.033378,47.922938",
+    "geom:latitude":47.922938,
+    "geom:longitude":-97.033378,
+    "iso:country":"US",
+    "sg:address":"515 Demers Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 1000",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:website":"www.1st-realty.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NdCzvUdN8gNkHgdYdNyci_47.922938_-97.033378@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294930,
+    "wof:geomhash":"0141f99961bf12ec26646786d6a3160c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873596217
+        }
+    ],
+    "wof:id":873596217,
+    "wof:lastmodified":1464294930,
+    "wof:name":"First Realty",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.033378,
+    47.922938,
+    -97.033378,
+    47.922938
+],
+  "geometry": {"coordinates":[-97.033378,47.922938],"type":"Point"}
+}

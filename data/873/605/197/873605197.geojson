@@ -1,0 +1,74 @@
+{
+  "id": 873605197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.296606,48.225445,-101.296606,48.225445",
+    "geom:latitude":48.225445,
+    "geom:longitude":-101.296606,
+    "iso:country":"US",
+    "sg:address":"215 11th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 4569",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "photo",
+        "finishing"
+    ],
+    "sg:website":"www.rainbowphotolab.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DLwhlYHVMYKtrvFvWAAKi_48.225445_-101.296606@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295042,
+    "wof:geomhash":"d4669bad1c313ffcdbcf21e2d3be2c65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873605197
+        }
+    ],
+    "wof:id":873605197,
+    "wof:lastmodified":1464295042,
+    "wof:name":"Rainbow Photo Labs",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo",
+        "finishing"
+    ]
+},
+  "bbox": [
+    -101.296606,
+    48.225445,
+    -101.296606,
+    48.225445
+],
+  "geometry": {"coordinates":[-101.296606,48.225445],"type":"Point"}
+}

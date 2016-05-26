@@ -1,0 +1,94 @@
+{
+  "id": 873780329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.820752,46.849907,-96.820752,46.849907",
+    "geom:latitude":46.849907,
+    "geom:longitude":-96.820752,
+    "iso:country":"US",
+    "sg:address":"57 Prairiewood Xing SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 7646",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "specializing",
+        "work",
+        "contractor",
+        "hot",
+        "spa",
+        "tub",
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420558815,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wQrBH72xvtzSdBZEN3pHD_46.849907_-96.820752@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297497,
+    "wof:geomhash":"c8fe30b0af0e98bb62225845af718a61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420558815,
+            "region_id":85688525,
+            "venue_id":873780329
+        }
+    ],
+    "wof:id":873780329,
+    "wof:lastmodified":1464297497,
+    "wof:name":"Creative Hot Tubs & Pools",
+    "wof:parent_id":420558815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specializing",
+        "work",
+        "contractor",
+        "hot",
+        "spa",
+        "tub",
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -96.820752,
+    46.849907,
+    -96.820752,
+    46.849907
+],
+  "geometry": {"coordinates":[-96.820752,46.849907],"type":"Point"}
+}

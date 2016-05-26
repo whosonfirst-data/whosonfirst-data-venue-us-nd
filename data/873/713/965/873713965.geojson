@@ -1,0 +1,73 @@
+{
+  "id": 873713965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.033111,47.881088,-97.033111,47.881088",
+    "geom:latitude":47.881088,
+    "geom:longitude":-97.033111,
+    "iso:country":"US",
+    "sg:address":"603 40th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 9242",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IrLVj7uE64J7PajMW6DYc_47.881088_-97.033111@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296568,
+    "wof:geomhash":"69c583ac17c73cf6bc60a5454adb1c23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873713965
+        }
+    ],
+    "wof:id":873713965,
+    "wof:lastmodified":1464296568,
+    "wof:name":"Serenity Cove Massage Therapy",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -97.033111,
+    47.881088,
+    -97.033111,
+    47.881088
+],
+  "geometry": {"coordinates":[-97.03311100000001,47.881088],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 873722137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.045428,47.886154,-97.045428,47.886154",
+    "geom:latitude":47.886154,
+    "geom:longitude":-97.045428,
+    "iso:country":"US",
+    "sg:address":"3220 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 9323",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.gfhonda.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XAhHa5XCNqMqI2G9n47Fh_47.886154_-97.045428@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296676,
+    "wof:geomhash":"cad22cb4151308d07c7918a2611d8c62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873722137
+        }
+    ],
+    "wof:id":873722137,
+    "wof:lastmodified":1464296676,
+    "wof:name":"Honda Of Grand Forks",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -97.045428,
+    47.886154,
+    -97.045428,
+    47.886154
+],
+  "geometry": {"coordinates":[-97.045428,47.886154],"type":"Point"}
+}

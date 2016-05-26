@@ -1,0 +1,71 @@
+{
+  "id": 873735639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.765382,46.828796,-100.765382,46.828796",
+    "geom:latitude":46.828796,
+    "geom:longitude":-100.765382,
+    "iso:country":"US",
+    "sg:address":"1701 E Capitol Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 8355",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Sg1kJRjNXAu8SxDvTfIgR_46.828796_-100.765382@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296866,
+    "wof:geomhash":"1d179468596b78d79d89e93f6f31d1ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873735639
+        }
+    ],
+    "wof:id":873735639,
+    "wof:lastmodified":1464296866,
+    "wof:name":"Darold A Asbridge Atty At Law",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -100.765382,
+    46.828796,
+    -100.765382,
+    46.828796
+],
+  "geometry": {"coordinates":[-100.765382,46.828796],"type":"Point"}
+}

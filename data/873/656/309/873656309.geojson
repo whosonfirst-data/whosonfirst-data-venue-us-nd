@@ -1,0 +1,73 @@
+{
+  "id": 873656309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.314259,48.23429,-101.314259,48.23429",
+    "geom:latitude":48.23429,
+    "geom:longitude":-101.314259,
+    "iso:country":"US",
+    "sg:address":"1415 2nd Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 720 1338",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HFpuzCWdogRRlaBBajOJU_48.234290_-101.314259@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295660,
+    "wof:geomhash":"57684ae27dac132776bcd7710860f34b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873656309
+        }
+    ],
+    "wof:id":873656309,
+    "wof:lastmodified":1464295660,
+    "wof:name":"Bob Brunner Massage Therapy",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -101.314259,
+    48.23429,
+    -101.314259,
+    48.23429
+],
+  "geometry": {"coordinates":[-101.31425900000001,48.23429],"type":"Point"}
+}

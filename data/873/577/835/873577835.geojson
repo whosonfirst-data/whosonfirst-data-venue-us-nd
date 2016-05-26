@@ -1,0 +1,71 @@
+{
+  "id": 873577835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.33034,48.220014,-101.33034,48.220014",
+    "geom:latitude":48.220014,
+    "geom:longitude":-101.33034,
+    "iso:country":"US",
+    "sg:address":"2625 Burdick Expy W",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Arcade",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 0918",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "casino"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ERL8utZ4ejuXd5Xa8czqk_48.220014_-101.330340@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294692,
+    "wof:geomhash":"40fe14feecd07cfb54bda060fbfcd7df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873577835
+        }
+    ],
+    "wof:id":873577835,
+    "wof:lastmodified":1464294692,
+    "wof:name":"Rockin Horse Bar & Lounge",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "casino"
+    ]
+},
+  "bbox": [
+    -101.33034,
+    48.220014,
+    -101.33034,
+    48.220014
+],
+  "geometry": {"coordinates":[-101.33034000000001,48.220014],"type":"Point"}
+}

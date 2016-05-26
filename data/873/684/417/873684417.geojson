@@ -1,0 +1,75 @@
+{
+  "id": 873684417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.314152,48.203598,-101.314152,48.203598",
+    "geom:latitude":48.203598,
+    "geom:longitude":-101.314152,
+    "iso:country":"US",
+    "sg:address":"1425 31st Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 1707",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "program",
+        "provides",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IQANj8BqxM1ZD2mm9687t_48.203598_-101.314152@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296122,
+    "wof:geomhash":"423cf05425b55dc2fabf15d098303f4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873684417
+        }
+    ],
+    "wof:id":873684417,
+    "wof:lastmodified":1464296122,
+    "wof:name":"Accessible Space Apartments",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "program",
+        "provides",
+        "community"
+    ]
+},
+  "bbox": [
+    -101.314152,
+    48.203598,
+    -101.314152,
+    48.203598
+],
+  "geometry": {"coordinates":[-101.31415200000001,48.203598],"type":"Point"}
+}

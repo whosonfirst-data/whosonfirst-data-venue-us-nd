@@ -1,0 +1,71 @@
+{
+  "id": 873649639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.030667,47.898956,-97.030667,47.898956",
+    "geom:latitude":47.898956,
+    "geom:longitude":-97.030667,
+    "iso:country":"US",
+    "sg:address":"2118 Chestnut St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 4634",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GrHlXGT3I9LYN32eclB5y_47.898956_-97.030667@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295583,
+    "wof:geomhash":"3988fe8f53c831ab31ea3bf3b1d728df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873649639
+        }
+    ],
+    "wof:id":873649639,
+    "wof:lastmodified":1464295583,
+    "wof:name":"Dla-Agency",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "related"
+    ]
+},
+  "bbox": [
+    -97.030667,
+    47.898956,
+    -97.030667,
+    47.898956
+],
+  "geometry": {"coordinates":[-97.03066699999999,47.898956],"type":"Point"}
+}

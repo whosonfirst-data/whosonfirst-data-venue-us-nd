@@ -1,0 +1,97 @@
+{
+  "id": 873802207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.856288,46.861853,-96.856288,46.861853",
+    "geom:latitude":46.861853,
+    "geom:longitude":-96.856288,
+    "iso:country":"US",
+    "sg:address":"4325 13th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 478 3300",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "trainer",
+        "consultant",
+        "gymnasium",
+        "program",
+        "health",
+        "fitness",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nPIV0k0LDNdcdZoA7v50v_46.861853_-96.856288@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297800,
+    "wof:geomhash":"37448609ce75462807c49bef8c1e9a30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873802207
+        }
+    ],
+    "wof:id":873802207,
+    "wof:lastmodified":1464297800,
+    "wof:name":"Planet Fitness",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trainer",
+        "consultant",
+        "gymnasium",
+        "program",
+        "health",
+        "fitness",
+        "physical"
+    ]
+},
+  "bbox": [
+    -96.856288,
+    46.861853,
+    -96.856288,
+    46.861853
+],
+  "geometry": {"coordinates":[-96.85628800000001,46.861853],"type":"Point"}
+}

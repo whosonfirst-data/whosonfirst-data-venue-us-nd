@@ -1,0 +1,75 @@
+{
+  "id": 873782399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.873923,46.868556,-96.873923,46.868556",
+    "geom:latitude":46.868556,
+    "geom:longitude":-96.873923,
+    "iso:country":"US",
+    "sg:address":"948 Homestead Ct",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 0619",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "sg:tags":[
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6i585qanalYpEU3FG5An21_46.868556_-96.873923@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297523,
+    "wof:geomhash":"d6941ecd78a32a65d9cfa636bcea5048",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873782399
+        }
+    ],
+    "wof:id":873782399,
+    "wof:lastmodified":1464297523,
+    "wof:name":"Payroll Express Inc",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing"
+    ]
+},
+  "bbox": [
+    -96.873923,
+    46.868556,
+    -96.873923,
+    46.868556
+],
+  "geometry": {"coordinates":[-96.873923,46.868556],"type":"Point"}
+}

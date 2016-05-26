@@ -1,0 +1,67 @@
+{
+  "id": 873728609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.055889,47.900586,-97.055889,47.900586",
+    "geom:latitude":47.900586,
+    "geom:longitude":-97.055889,
+    "iso:country":"US",
+    "sg:address":"1720 S 20th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 3122",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:website":"www.sharonlutheran.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MHYZc8hHDCuIhO3XfQ8we_47.900586_-97.055889@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296762,
+    "wof:geomhash":"e31df48779b09948deac779e7c7ee09c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873728609
+        }
+    ],
+    "wof:id":873728609,
+    "wof:lastmodified":1464296762,
+    "wof:name":"Sharon Lutheran Church",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.055889,
+    47.900586,
+    -97.055889,
+    47.900586
+],
+  "geometry": {"coordinates":[-97.05588899999999,47.900586],"type":"Point"}
+}

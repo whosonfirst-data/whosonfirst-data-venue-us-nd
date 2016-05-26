@@ -1,0 +1,74 @@
+{
+  "id": 873533797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.088138,47.906218,-97.088138,47.906218",
+    "geom:latitude":47.906218,
+    "geom:longitude":-97.088138,
+    "iso:country":"US",
+    "sg:address":"1125 S 42nd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 1565",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "sg:website":"www.valleycarwash.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gBwmqhe1LbUNXlc8wVnk5_47.906218_-97.088138@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294184,
+    "wof:geomhash":"0d2f5a98a7a0ee93db465c337261d200",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873533797
+        }
+    ],
+    "wof:id":873533797,
+    "wof:lastmodified":1464294184,
+    "wof:name":"Valley Car Wash",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -97.088138,
+    47.906218,
+    -97.088138,
+    47.906218
+],
+  "geometry": {"coordinates":[-97.088138,47.906218],"type":"Point"}
+}

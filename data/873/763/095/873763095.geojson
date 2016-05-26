@@ -1,0 +1,71 @@
+{
+  "id": 873763095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.703848,46.982825,-100.703848,46.982825",
+    "geom:latitude":46.982825,
+    "geom:longitude":-100.703848,
+    "iso:country":"US",
+    "sg:address":"5441 162nd Ave NE",
+    "sg:city":"Baldwin",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 673 3379",
+    "sg:postcode":"58521",
+    "sg:province":"ND",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0s1RH7tQsMnrFerSD9CBjU_46.982825_-100.703848@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297260,
+    "wof:geomhash":"cf87f54dd352953e1bd7e82eb53826e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873763095
+        }
+    ],
+    "wof:id":873763095,
+    "wof:lastmodified":1464297260,
+    "wof:name":"R K Trucking",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -100.703848,
+    46.982825,
+    -100.703848,
+    46.982825
+],
+  "geometry": {"coordinates":[-100.70384799999999,46.982825],"type":"Point"}
+}

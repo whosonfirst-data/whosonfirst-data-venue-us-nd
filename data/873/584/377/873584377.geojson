@@ -1,0 +1,73 @@
+{
+  "id": 873584377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.045217,47.883203,-97.045217,47.883203",
+    "geom:latitude":47.883203,
+    "geom:longitude":-97.045217,
+    "iso:country":"US",
+    "sg:address":"3901 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 8163",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00DFVYd0QIAWjJj6LTdrd3_47.883203_-97.045217@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294767,
+    "wof:geomhash":"be1a1a7e2eaf8f689e89b9bffcc5267b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873584377
+        }
+    ],
+    "wof:id":873584377,
+    "wof:lastmodified":1464294767,
+    "wof:name":"Mini Stor All",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -97.045217,
+    47.883203,
+    -97.045217,
+    47.883203
+],
+  "geometry": {"coordinates":[-97.04521699999999,47.883203],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873762127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.789415,46.882954,-96.789415,46.882954",
+    "geom:latitude":46.882954,
+    "geom:longitude":-96.789415,
+    "iso:country":"US",
+    "sg:address":"619 7th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 4289",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534465,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NWTDWotkwXlLc7P5p8PiK_46.882954_-96.789415@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297240,
+    "wof:geomhash":"3bc381488688eb661538f195e50d67d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534465,
+            "region_id":85688525,
+            "venue_id":873762127
+        }
+    ],
+    "wof:id":873762127,
+    "wof:lastmodified":1464297240,
+    "wof:name":"St Mary's Cathedral",
+    "wof:parent_id":420534465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -96.789415,
+    46.882954,
+    -96.789415,
+    46.882954
+],
+  "geometry": {"coordinates":[-96.78941500000001,46.882954],"type":"Point"}
+}

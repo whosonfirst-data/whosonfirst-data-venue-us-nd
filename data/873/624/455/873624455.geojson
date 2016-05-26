@@ -1,0 +1,73 @@
+{
+  "id": 873624455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.711439,46.939381,-100.711439,46.939381",
+    "geom:latitude":46.939381,
+    "geom:longitude":-100.711439,
+    "iso:country":"US",
+    "sg:address":"5051 123rd Ave NE",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 2574",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "breeder",
+        "livestock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24xkikpdYLepYwjEjIidYN_46.939381_-100.711439@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295305,
+    "wof:geomhash":"a9b9fec96b9de14a26ec51dccc7aa4c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873624455
+        }
+    ],
+    "wof:id":873624455,
+    "wof:lastmodified":1464295305,
+    "wof:name":"M-Bar Red Angus Ranch",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breeder",
+        "livestock"
+    ]
+},
+  "bbox": [
+    -100.711439,
+    46.939381,
+    -100.711439,
+    46.939381
+],
+  "geometry": {"coordinates":[-100.711439,46.939381],"type":"Point"}
+}

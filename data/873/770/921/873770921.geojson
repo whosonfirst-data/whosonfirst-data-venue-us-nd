@@ -1,0 +1,78 @@
+{
+  "id": 873770921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.864854,46.850911,-96.864854,46.850911",
+    "geom:latitude":46.850911,
+    "geom:longitude":-96.864854,
+    "iso:country":"US",
+    "sg:address":"4600 19th Ave SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 364 0765",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "sg:website":"www.thefastlanecarwash.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_331VgXWshBLyayJd2HjBCk_46.850911_-96.864854@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297376,
+    "wof:geomhash":"5f339d3e2381ff5b965898ea311d13a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873770921
+        }
+    ],
+    "wof:id":873770921,
+    "wof:lastmodified":1464297376,
+    "wof:name":"Fast Lane Car Wash",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -96.864854,
+    46.850911,
+    -96.864854,
+    46.850911
+],
+  "geometry": {"coordinates":[-96.86485399999999,46.850911],"type":"Point"}
+}

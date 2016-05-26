@@ -1,0 +1,75 @@
+{
+  "id": 873634403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.029051,47.895923,-97.029051,47.895923",
+    "geom:latitude":47.895923,
+    "geom:longitude":-97.029051,
+    "iso:country":"US",
+    "sg:address":"2418 Belmont Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 740 4892",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "hanging",
+        "painter",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0d5uLUGO3hKKN3FYu6NQzs_47.895923_-97.029051@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295417,
+    "wof:geomhash":"162cd426a6893dd0b17c1e5b0c856669",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873634403
+        }
+    ],
+    "wof:id":873634403,
+    "wof:lastmodified":1464295417,
+    "wof:name":"Excel Painting & Drywall",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "painter",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.029051,
+    47.895923,
+    -97.029051,
+    47.895923
+],
+  "geometry": {"coordinates":[-97.029051,47.895923],"type":"Point"}
+}

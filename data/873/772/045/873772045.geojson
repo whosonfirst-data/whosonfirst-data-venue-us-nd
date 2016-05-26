@@ -1,0 +1,73 @@
+{
+  "id": 873772045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.252792,48.219308,-101.252792,48.219308",
+    "geom:latitude":48.219308,
+    "geom:longitude":-101.252792,
+    "iso:country":"US",
+    "sg:address":"1600 27th St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 1429",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "grain",
+        "elevator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DO06JH8nRAGd02QctpJe6_48.219308_-101.252792@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297389,
+    "wof:geomhash":"45db7f89e7f72ca047bbcd621d4bfb14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873772045
+        }
+    ],
+    "wof:id":873772045,
+    "wof:lastmodified":1464297389,
+    "wof:name":"Sun Prairie Grain",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grain",
+        "elevator"
+    ]
+},
+  "bbox": [
+    -101.252792,
+    48.219308,
+    -101.252792,
+    48.219308
+],
+  "geometry": {"coordinates":[-101.252792,48.219308],"type":"Point"}
+}

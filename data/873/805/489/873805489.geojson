@@ -1,0 +1,64 @@
+{
+  "id": 873805489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.177665,48.56051,-97.177665,48.56051",
+    "geom:latitude":48.56051,
+    "geom:longitude":-97.177665,
+    "iso:country":"US",
+    "sg:address":"202 S Main St",
+    "sg:city":"Drayton",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 275 8777",
+    "sg:postcode":"58225",
+    "sg:province":"ND",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39EOrQ9g3BBKBM1UABC5Mk_48.560510_-97.177665@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297843,
+    "wof:geomhash":"2f3ea318a38e12fe5fd1a6f456182480",
+    "wof:hierarchy":[],
+    "wof:id":873805489,
+    "wof:lastmodified":1464297843,
+    "wof:name":"USPS - United States Post Office - Drayton Main Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -97.177665,
+    48.56051,
+    -97.177665,
+    48.56051
+],
+  "geometry": {"coordinates":[-97.177665,48.56051],"type":"Point"}
+}

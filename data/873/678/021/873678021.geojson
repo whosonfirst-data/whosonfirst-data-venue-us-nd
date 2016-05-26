@@ -1,0 +1,72 @@
+{
+  "id": 873678021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.314514,48.234285,-101.314514,48.234285",
+    "geom:latitude":48.234285,
+    "geom:longitude":-101.314514,
+    "iso:country":"US",
+    "sg:address":"1421 2nd Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 4240",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "disability"
+    ],
+    "sg:website":"www.minotrehabservices.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48FzkIBvZDOLlMF7FQvIa4_48.234285_-101.314514@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295937,
+    "wof:geomhash":"e8d99d0433d7c02d11680817debe40c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873678021
+        }
+    ],
+    "wof:id":873678021,
+    "wof:lastmodified":1464295937,
+    "wof:name":"Community Service Program",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "disability"
+    ]
+},
+  "bbox": [
+    -101.314514,
+    48.234285,
+    -101.314514,
+    48.234285
+],
+  "geometry": {"coordinates":[-101.314514,48.234285],"type":"Point"}
+}

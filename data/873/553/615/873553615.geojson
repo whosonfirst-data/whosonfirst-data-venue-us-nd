@@ -1,0 +1,66 @@
+{
+  "id": 873553615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.050841,47.923291,-97.050841,47.923291",
+    "geom:latitude":47.923291,
+    "geom:longitude":-97.050841,
+    "iso:country":"US",
+    "sg:address":"1600 4th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 1869",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54mu3FYzN2j4x7EKePRX4B_47.923291_-97.050841@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294418,
+    "wof:geomhash":"3c285ce573184a65fdfe761fd6bcf1e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873553615
+        }
+    ],
+    "wof:id":873553615,
+    "wof:lastmodified":1464294418,
+    "wof:name":"Wesley United Methodist Church",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.050841,
+    47.923291,
+    -97.050841,
+    47.923291
+],
+  "geometry": {"coordinates":[-97.05084100000001,47.923291],"type":"Point"}
+}

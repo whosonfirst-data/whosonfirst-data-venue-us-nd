@@ -1,0 +1,66 @@
+{
+  "id": 873761997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.739972,46.857078,-100.739972,46.857078",
+    "geom:latitude":46.857078,
+    "geom:longitude":-100.739972,
+    "iso:country":"US",
+    "sg:address":"3658 Heartland Loop",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 224 8250",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Y2Sd1x5XiYDAuVkVDWGiY_46.857078_-100.739972@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297237,
+    "wof:geomhash":"f1f6f6ee8923be4a0bda6cb9a7c0d0ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873761997
+        }
+    ],
+    "wof:id":873761997,
+    "wof:lastmodified":1464297237,
+    "wof:name":"Stuhmiller Insurance Svc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.739972,
+    46.857078,
+    -100.739972,
+    46.857078
+],
+  "geometry": {"coordinates":[-100.73997199999999,46.857078],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873596107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.339254,48.123386,-101.339254,48.123386",
+    "geom:latitude":48.123386,
+    "geom:longitude":-101.339254,
+    "iso:country":"US",
+    "sg:address":"10801 30th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 722 3371",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "chemical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7N76ByohW7vslI2HS6wYBC_48.123386_-101.339254@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294928,
+    "wof:geomhash":"a7cf4cd12b95dd3f676339678e6e96d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873596107
+        }
+    ],
+    "wof:id":873596107,
+    "wof:lastmodified":1464294928,
+    "wof:name":"Severson Spraying Svc",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical"
+    ]
+},
+  "bbox": [
+    -101.339254,
+    48.123386,
+    -101.339254,
+    48.123386
+],
+  "geometry": {"coordinates":[-101.339254,48.123386],"type":"Point"}
+}

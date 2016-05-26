@@ -1,0 +1,71 @@
+{
+  "id": 873542517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.754046,46.801769,-100.754046,46.801769",
+    "geom:latitude":46.801769,
+    "geom:longitude":-100.754046,
+    "iso:country":"US",
+    "sg:address":"2419 E Bowen Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 2500",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "roofing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_760s3qakrYexsOGqc8WZM9_46.801769_-100.754046@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294286,
+    "wof:geomhash":"bb66aa0e946aee8c0bd31227e81d38b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873542517
+        }
+    ],
+    "wof:id":873542517,
+    "wof:lastmodified":1464294286,
+    "wof:name":"Westurn Roofg & Siding LLC ND",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing"
+    ]
+},
+  "bbox": [
+    -100.754046,
+    46.801769,
+    -100.754046,
+    46.801769
+],
+  "geometry": {"coordinates":[-100.754046,46.801769],"type":"Point"}
+}

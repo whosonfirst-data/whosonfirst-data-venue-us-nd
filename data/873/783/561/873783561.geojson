@@ -1,0 +1,71 @@
+{
+  "id": 873783561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.962176,46.630169,-96.962176,46.630169",
+    "geom:latitude":46.630169,
+    "geom:longitude":-96.962176,
+    "iso:country":"US",
+    "sg:address":"16739 54th St SE",
+    "sg:city":"Kindred",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 428 3260",
+    "sg:postcode":"58051",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "wheat",
+        "corn",
+        "beet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mh789SzPIQH8b6UeaqPu9_46.630169_-96.962176@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297537,
+    "wof:geomhash":"2e29451996a718164d84466def46eaea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873783561
+        }
+    ],
+    "wof:id":873783561,
+    "wof:lastmodified":1464297537,
+    "wof:name":"Gordon Fjelstad Farm",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "wheat",
+        "corn",
+        "beet"
+    ]
+},
+  "bbox": [
+    -96.962176,
+    46.630169,
+    -96.962176,
+    46.630169
+],
+  "geometry": {"coordinates":[-96.962176,46.630169],"type":"Point"}
+}

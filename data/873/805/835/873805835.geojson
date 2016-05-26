@@ -1,0 +1,78 @@
+{
+  "id": 873805835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.785965,46.81403,-100.785965,46.81403",
+    "geom:latitude":46.81403,
+    "geom:longitude":-100.785965,
+    "iso:country":"US",
+    "sg:address":"400 E Avenue E",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 323 4270",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "government-united",
+        "state"
+    ],
+    "sg:website":"http://www.bismarck.k12.nd.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53psoomu8I7CRf6lWFuocU_46.814030_-100.785965@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297850,
+    "wof:geomhash":"180be0dc62fe8d49dd7924d60c828e2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873805835
+        }
+    ],
+    "wof:id":873805835,
+    "wof:lastmodified":1464297850,
+    "wof:name":"Bismarck Spec Ed Unit",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government-united",
+        "state"
+    ]
+},
+  "bbox": [
+    -100.785965,
+    46.81403,
+    -100.785965,
+    46.81403
+],
+  "geometry": {"coordinates":[-100.785965,46.81403],"type":"Point"}
+}

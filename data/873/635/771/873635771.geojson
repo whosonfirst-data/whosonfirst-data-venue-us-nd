@@ -1,0 +1,74 @@
+{
+  "id": 873635771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.050843,47.92225,-97.050843,47.92225",
+    "geom:latitude":47.92225,
+    "geom:longitude":-97.050843,
+    "iso:country":"US",
+    "sg:address":"1600 University Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 2597",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "sg:website":"www.thesalarmy.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ffdsfRVjZhjm91glGomer_47.922250_-97.050843@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295430,
+    "wof:geomhash":"d973b5756bfd25b3cd82e90c28b51720",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873635771
+        }
+    ],
+    "wof:id":873635771,
+    "wof:lastmodified":1464295430,
+    "wof:name":"Salvation Army",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -97.050843,
+    47.92225,
+    -97.050843,
+    47.92225
+],
+  "geometry": {"coordinates":[-97.050843,47.92225],"type":"Point"}
+}

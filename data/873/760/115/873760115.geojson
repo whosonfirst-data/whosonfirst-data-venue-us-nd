@@ -1,0 +1,75 @@
+{
+  "id": 873760115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.296606,48.214559,-101.296606,48.214559",
+    "geom:latitude":48.214559,
+    "geom:longitude":-101.296606,
+    "iso:country":"US",
+    "sg:address":"307 18th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 837 1890",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79pybtw9blQZIRTjpSfFYp_48.214559_-101.296606@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297208,
+    "wof:geomhash":"ae8ff376083d287ad11b963dfaa34312",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873760115
+        }
+    ],
+    "wof:id":873760115,
+    "wof:lastmodified":1464297208,
+    "wof:name":"Outback Autobody Inc",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -101.296606,
+    48.214559,
+    -101.296606,
+    48.214559
+],
+  "geometry": {"coordinates":[-101.296606,48.214559],"type":"Point"}
+}

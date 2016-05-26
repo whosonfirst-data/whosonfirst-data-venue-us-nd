@@ -1,0 +1,71 @@
+{
+  "id": 873672211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.09927,47.915602,-97.09927,47.915602",
+    "geom:latitude":47.915602,
+    "geom:longitude":-97.09927,
+    "iso:country":"US",
+    "sg:address":"810 S 48th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 7167",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WnudGaQBeQpfWWDE73wmY_47.915602_-97.099270@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295823,
+    "wof:geomhash":"050c0719a2383e62e48c806eda09dfe6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873672211
+        }
+    ],
+    "wof:id":873672211,
+    "wof:lastmodified":1464295823,
+    "wof:name":"Ecolab Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -97.09927,
+    47.915602,
+    -97.09927,
+    47.915602
+],
+  "geometry": {"coordinates":[-97.09927,47.915602],"type":"Point"}
+}

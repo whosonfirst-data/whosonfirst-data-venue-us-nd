@@ -1,0 +1,79 @@
+{
+  "id": 873556813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.897956,46.868678,-96.897956,46.868678",
+    "geom:latitude":46.868678,
+    "geom:longitude":-96.897956,
+    "iso:country":"US",
+    "sg:address":"103 8th Ave E",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 8490",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "sg:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0y3FFP4BwELOf6XVCC8nlT_46.868678_-96.897956@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294458,
+    "wof:geomhash":"15f88a11bf892811e0e7dfe06304a802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873556813
+        }
+    ],
+    "wof:id":873556813,
+    "wof:lastmodified":1464294458,
+    "wof:name":"Johnsons Lawn Svc Inc",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ]
+},
+  "bbox": [
+    -96.897956,
+    46.868678,
+    -96.897956,
+    46.868678
+],
+  "geometry": {"coordinates":[-96.89795599999999,46.868678],"type":"Point"}
+}

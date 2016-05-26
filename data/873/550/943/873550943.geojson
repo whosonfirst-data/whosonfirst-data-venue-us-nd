@@ -1,0 +1,70 @@
+{
+  "id": 873550943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.569858,47.160632,-97.569858,47.160632",
+    "geom:latitude":47.160632,
+    "geom:longitude":-97.569858,
+    "iso:country":"US",
+    "sg:address":"630 May Ave",
+    "sg:city":"Page",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 668 2520",
+    "sg:postcode":"58064",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VEZGVoJ7iY1d1F4iA5OgD_47.160632_-97.569858@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294388,
+    "wof:geomhash":"3b659a5d18cc200dd69ab158eff6a99d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873550943
+        }
+    ],
+    "wof:id":873550943,
+    "wof:lastmodified":1464294388,
+    "wof:name":"Page Public School",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.569858,
+    47.160632,
+    -97.569858,
+    47.160632
+],
+  "geometry": {"coordinates":[-97.569858,47.160632],"type":"Point"}
+}

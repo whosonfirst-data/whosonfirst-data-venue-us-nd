@@ -1,0 +1,75 @@
+{
+  "id": 873590367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.329926,48.246881,-101.329926,48.246881",
+    "geom:latitude":48.246881,
+    "geom:longitude":-101.329926,
+    "iso:country":"US",
+    "sg:address":"2536 10th Ave NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 0112",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "fire",
+        "equipment",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pkTES2f3raAFMRLviHy14_48.246881_-101.329926@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294835,
+    "wof:geomhash":"f1c5d8667c8efb677c87f4bdd439772a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873590367
+        }
+    ],
+    "wof:id":873590367,
+    "wof:lastmodified":1464294835,
+    "wof:name":"Fire Extinguishing Systems Inc",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "equipment",
+        "protection"
+    ]
+},
+  "bbox": [
+    -101.329926,
+    48.246881,
+    -101.329926,
+    48.246881
+],
+  "geometry": {"coordinates":[-101.329926,48.246881],"type":"Point"}
+}

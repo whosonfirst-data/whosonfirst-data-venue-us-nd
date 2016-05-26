@@ -1,0 +1,74 @@
+{
+  "id": 873579259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.622514,48.107824,-97.622514,48.107824",
+    "geom:latitude":48.107824,
+    "geom:longitude":-97.622514,
+    "iso:country":"US",
+    "sg:address":"2981 37th St NE",
+    "sg:city":"Inkster",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Poultry Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 865 4274",
+    "sg:postcode":"58244",
+    "sg:province":"ND",
+    "sg:tags":[
+        "hatchery",
+        "livestock"
+    ],
+    "sg:website":"www.morningstaremu.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RrXsSbahofJ0ioAGVNcHa_48.107824_-97.622514@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294708,
+    "wof:geomhash":"588038058d2e3bf046ba4ec3626559d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873579259
+        }
+    ],
+    "wof:id":873579259,
+    "wof:lastmodified":1464294708,
+    "wof:name":"Morning Star Ranch",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hatchery",
+        "livestock"
+    ]
+},
+  "bbox": [
+    -97.622514,
+    48.107824,
+    -97.622514,
+    48.107824
+],
+  "geometry": {"coordinates":[-97.622514,48.107824],"type":"Point"}
+}

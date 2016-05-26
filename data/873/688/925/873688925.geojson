@@ -1,0 +1,67 @@
+{
+  "id": 873688925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.763299,46.793292,-100.763299,46.793292",
+    "geom:latitude":46.793292,
+    "geom:longitude":-100.763299,
+    "iso:country":"US",
+    "sg:address":"1827 Lovett Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 8800",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:website":"www.countryautoclinic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78rPcigg83QR7CmmB4VVLZ_46.793292_-100.763299@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296247,
+    "wof:geomhash":"02a6beca36b85a3d543d695fb7d60b2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873688925
+        }
+    ],
+    "wof:id":873688925,
+    "wof:lastmodified":1464296247,
+    "wof:name":"Country Auto Clinic Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.763299,
+    46.793292,
+    -100.763299,
+    46.793292
+],
+  "geometry": {"coordinates":[-100.763299,46.793292],"type":"Point"}
+}

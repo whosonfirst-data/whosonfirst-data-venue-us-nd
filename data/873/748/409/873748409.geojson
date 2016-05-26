@@ -1,0 +1,66 @@
+{
+  "id": 873748409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.40402,48.252651,-101.40402,48.252651",
+    "geom:latitude":48.252651,
+    "geom:longitude":-101.40402,
+    "iso:country":"US",
+    "sg:address":"1700 72nd St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 4452",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gj7uy9FN1mSskTuuBj0sV_48.252651_-101.404020@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297055,
+    "wof:geomhash":"1421d7ffbfe6ce752f6c9a8d0b549700",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873748409
+        }
+    ],
+    "wof:id":873748409,
+    "wof:lastmodified":1464297055,
+    "wof:name":"Niess Repair Inc",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.40402,
+    48.252651,
+    -101.40402,
+    48.252651
+],
+  "geometry": {"coordinates":[-101.40402,48.252651],"type":"Point"}
+}

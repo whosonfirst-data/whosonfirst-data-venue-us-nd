@@ -1,0 +1,73 @@
+{
+  "id": 873572833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.734682,46.84094,-100.734682,46.84094",
+    "geom:latitude":46.84094,
+    "geom:longitude":-100.734682,
+    "iso:country":"US",
+    "sg:address":"3704 Saratoga Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 8262",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "refuse",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mlhFTMwfFy5vg328fZsGe_46.840940_-100.734682@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294640,
+    "wof:geomhash":"738362be5ed9b6a555c386698ef22077",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873572833
+        }
+    ],
+    "wof:id":873572833,
+    "wof:lastmodified":1464294640,
+    "wof:name":"Safety-Kleen",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refuse",
+        "system"
+    ]
+},
+  "bbox": [
+    -100.734682,
+    46.84094,
+    -100.734682,
+    46.84094
+],
+  "geometry": {"coordinates":[-100.73468200000001,46.84094],"type":"Point"}
+}

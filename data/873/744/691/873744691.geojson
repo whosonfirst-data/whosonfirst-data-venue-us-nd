@@ -1,0 +1,71 @@
+{
+  "id": 873744691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-102.789778,46.879943,-102.789778,46.879943",
+    "geom:latitude":46.879943,
+    "geom:longitude":-102.789778,
+    "iso:country":"US",
+    "sg:address":"14 3rd Ave W",
+    "sg:city":"Dickinson",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 483 8000",
+    "sg:postcode":"58601",
+    "sg:province":"ND",
+    "sg:website":"www.dakotacommunitybank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877119,
+        102191575,
+        404482179,
+        85633793,
+        85982521,
+        102082105,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34j9BH8zqCzly8xEHbA4j6_46.879943_-102.789778@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297006,
+    "wof:geomhash":"0f515c3d24b3259f668c2a6a3006b8da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082105,
+            "localadmin_id":404482179,
+            "locality_id":85982521,
+            "neighbourhood_id":85877119,
+            "region_id":85688525,
+            "venue_id":873744691
+        }
+    ],
+    "wof:id":873744691,
+    "wof:lastmodified":1464297006,
+    "wof:name":"Dakota Community Bank",
+    "wof:parent_id":85877119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -102.789778,
+    46.879943,
+    -102.789778,
+    46.879943
+],
+  "geometry": {"coordinates":[-102.789778,46.879943],"type":"Point"}
+}

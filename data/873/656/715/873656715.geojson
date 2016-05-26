@@ -1,0 +1,75 @@
+{
+  "id": 873656715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.186418,47.93323,-97.186418,47.93323",
+    "geom:latitude":47.93323,
+    "geom:longitude":-97.186418,
+    "iso:country":"US",
+    "sg:address":"1654 US Hwy 2",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 1018",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wUDqHipQk1inYQIlXW19d_47.933230_-97.186418@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295664,
+    "wof:geomhash":"278485f5e8493a28ea65947db18d8a8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873656715
+        }
+    ],
+    "wof:id":873656715,
+    "wof:lastmodified":1464295664,
+    "wof:name":"Dave's Total Rv Repair",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ]
+},
+  "bbox": [
+    -97.186418,
+    47.93323,
+    -97.186418,
+    47.93323
+],
+  "geometry": {"coordinates":[-97.186418,47.93323],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 873668933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.844854,46.883431,-96.844854,46.883431",
+    "geom:latitude":46.883431,
+    "geom:longitude":-96.844854,
+    "iso:country":"US",
+    "sg:address":"3939 7th Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 281 9278",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "operator",
+        "dry",
+        "bulk",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wbKY1gydCbH22FztfdNjH_46.883431_-96.844854@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295790,
+    "wof:geomhash":"426c6f966b45c84e0587b917b2cefb58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873668933
+        }
+    ],
+    "wof:id":873668933,
+    "wof:lastmodified":1464295790,
+    "wof:name":"Oxton Transport Inc",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "dry",
+        "bulk",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.844854,
+    46.883431,
+    -96.844854,
+    46.883431
+],
+  "geometry": {"coordinates":[-96.844854,46.883431],"type":"Point"}
+}

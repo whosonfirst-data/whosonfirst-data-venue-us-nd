@@ -1,0 +1,71 @@
+{
+  "id": 873764087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.281198,48.235601,-101.281198,48.235601",
+    "geom:latitude":48.235601,
+    "geom:longitude":-101.281198,
+    "iso:country":"US",
+    "sg:address":"106 8th St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 837 0515",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "bookkeeping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jsUMEmFHR3uoEAIcqnNw8_48.235601_-101.281198@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297276,
+    "wof:geomhash":"d3c6a3048f4d4f632213cee85590630c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873764087
+        }
+    ],
+    "wof:id":873764087,
+    "wof:lastmodified":1464297276,
+    "wof:name":"Bottom Line Bokkeeping Tax Svc",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookkeeping"
+    ]
+},
+  "bbox": [
+    -101.281198,
+    48.235601,
+    -101.281198,
+    48.235601
+],
+  "geometry": {"coordinates":[-101.281198,48.235601],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873752881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.279688,47.141391,-100.279688,47.141391",
+    "geom:latitude":47.141391,
+    "geom:longitude":-100.279688,
+    "iso:country":"US",
+    "sg:address":"205 Main St",
+    "sg:city":"Wing",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 943 2444",
+    "sg:postcode":"58494",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LETFkCYKSajp2JlA2bzFX_47.141391_-100.279688@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297117,
+    "wof:geomhash":"91ffd03aaddaf9c73274be11ed23e99e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873752881
+        }
+    ],
+    "wof:id":873752881,
+    "wof:lastmodified":1464297117,
+    "wof:name":"Wing Hotel",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.279688,
+    47.141391,
+    -100.279688,
+    47.141391
+],
+  "geometry": {"coordinates":[-100.27968799999999,47.141391],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873745491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.041853,47.908785,-97.041853,47.908785",
+    "geom:latitude":47.908785,
+    "geom:longitude":-97.041853,
+    "iso:country":"US",
+    "sg:address":"1007 13th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 0086",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56tRmvbl98WbLf8ktIxrY3_47.908785_-97.041853@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297018,
+    "wof:geomhash":"1c38b1f0afa711178c523b9af1bd6e53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873745491
+        }
+    ],
+    "wof:id":873745491,
+    "wof:lastmodified":1464297018,
+    "wof:name":"A 1 Dog Grooming",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -97.041853,
+    47.908785,
+    -97.041853,
+    47.908785
+],
+  "geometry": {"coordinates":[-97.041853,47.908785],"type":"Point"}
+}

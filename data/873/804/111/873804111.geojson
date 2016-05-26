@@ -1,0 +1,100 @@
+{
+  "id": 873804111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.833051,46.861502,-96.833051,46.861502",
+    "geom:latitude":46.861502,
+    "geom:longitude":-96.833051,
+    "iso:country":"US",
+    "sg:address":"3316 13th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 234 0565",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "facility",
+        "hall",
+        "planning",
+        "reception",
+        "lodging",
+        "party",
+        "meeting",
+        "banquet"
+    ],
+    "sg:website":"http://www.countryinns.com/fargond_west",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LSI5mZAS2TM8sxPrJJAXE_46.861502_-96.833051@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297824,
+    "wof:geomhash":"9d2372d520e611c370ea773d344cb23b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873804111
+        }
+    ],
+    "wof:id":873804111,
+    "wof:lastmodified":1464297824,
+    "wof:name":"Country Inn & Suites",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "facility",
+        "hall",
+        "planning",
+        "reception",
+        "lodging",
+        "party",
+        "meeting",
+        "banquet"
+    ]
+},
+  "bbox": [
+    -96.833051,
+    46.861502,
+    -96.833051,
+    46.861502
+],
+  "geometry": {"coordinates":[-96.833051,46.861502],"type":"Point"}
+}

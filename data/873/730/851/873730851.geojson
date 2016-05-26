@@ -1,0 +1,75 @@
+{
+  "id": 873730851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.046836,47.898643,-97.046836,47.898643",
+    "geom:latitude":47.898643,
+    "geom:longitude":-97.046836,
+    "iso:country":"US",
+    "sg:address":"1397 Library Cir",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 7251",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "consultant",
+        "planning",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ggf0w6MpqltzWCfKaI9xr_47.898643_-97.046836@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296789,
+    "wof:geomhash":"cc4ec9f21daabde58e3afd91e7753cd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873730851
+        }
+    ],
+    "wof:id":873730851,
+    "wof:lastmodified":1464296789,
+    "wof:name":"Jaffray Piper",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "planning",
+        "financial"
+    ]
+},
+  "bbox": [
+    -97.046836,
+    47.898643,
+    -97.046836,
+    47.898643
+],
+  "geometry": {"coordinates":[-97.046836,47.898643],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873610701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.623912,47.94072,-97.623912,47.94072",
+    "geom:latitude":47.94072,
+    "geom:longitude":-97.623912,
+    "iso:country":"US",
+    "sg:address":"1841 37th St NE",
+    "sg:city":"Larimore",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 343 2096",
+    "sg:postcode":"58251",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34DaVCfFEuBFKXFSr1AXQA_47.940720_-97.623912@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295151,
+    "wof:geomhash":"5d453e5572778f1ff2fa8689804dae19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873610701
+        }
+    ],
+    "wof:id":873610701,
+    "wof:lastmodified":1464295151,
+    "wof:name":"Game Warden",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.623912,
+    47.94072,
+    -97.623912,
+    47.94072
+],
+  "geometry": {"coordinates":[-97.623912,47.94072],"type":"Point"}
+}

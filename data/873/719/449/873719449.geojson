@@ -1,0 +1,71 @@
+{
+  "id": 873719449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.789092,46.806363,-100.789092,46.806363",
+    "geom:latitude":46.806363,
+    "geom:longitude":-100.789092,
+    "iso:country":"US",
+    "sg:address":"115 N 2nd St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 0707",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cEBOmzZSxUu36ZPIC7AQV_46.806363_-100.789092@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296640,
+    "wof:geomhash":"c13cd440c3d70b27924fbe95fc849c8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873719449
+        }
+    ],
+    "wof:id":873719449,
+    "wof:lastmodified":1464296640,
+    "wof:name":"Women & Tech Ctr For Tech & Bs",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -100.789092,
+    46.806363,
+    -100.789092,
+    46.806363
+],
+  "geometry": {"coordinates":[-100.789092,46.806363],"type":"Point"}
+}

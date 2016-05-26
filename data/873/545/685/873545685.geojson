@@ -1,0 +1,71 @@
+{
+  "id": 873545685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.288522,48.231512,-101.288522,48.231512",
+    "geom:latitude":48.231512,
+    "geom:longitude":-101.288522,
+    "iso:country":"US",
+    "sg:address":"516 3rd St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 8966",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yXdVieQikVCctQHVbRNBv_48.231512_-101.288522@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294324,
+    "wof:geomhash":"8ddcff8c055f36d9596fdd21d3fbfe74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873545685
+        }
+    ],
+    "wof:id":873545685,
+    "wof:lastmodified":1464294324,
+    "wof:name":"Place For Hair & Nails",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -101.288522,
+    48.231512,
+    -101.288522,
+    48.231512
+],
+  "geometry": {"coordinates":[-101.288522,48.231512],"type":"Point"}
+}

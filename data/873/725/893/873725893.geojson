@@ -1,0 +1,73 @@
+{
+  "id": 873725893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.22877,48.193454,-101.22877,48.193454",
+    "geom:latitude":48.193454,
+    "geom:longitude":-101.22877,
+    "iso:country":"US",
+    "sg:address":"4203 42nd St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 4391",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "specialty",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17GyoMEIuonOG1GuIKCVw3_48.193454_-101.228770@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296723,
+    "wof:geomhash":"b2a2a63be54ad59eee043cabea74289b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873725893
+        }
+    ],
+    "wof:id":873725893,
+    "wof:lastmodified":1464296723,
+    "wof:name":"Peters Honey Farm",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "animal"
+    ]
+},
+  "bbox": [
+    -101.22877,
+    48.193454,
+    -101.22877,
+    48.193454
+],
+  "geometry": {"coordinates":[-101.22877,48.193454],"type":"Point"}
+}

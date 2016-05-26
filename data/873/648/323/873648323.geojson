@@ -1,0 +1,75 @@
+{
+  "id": 873648323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.293018,48.237424,-101.293018,48.237424",
+    "geom:latitude":48.237424,
+    "geom:longitude":-101.293018,
+    "iso:country":"US",
+    "sg:address":"2 Main St N",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 4445",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40lZ3FjZafzuQWb20dEL5M_48.237424_-101.293018@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295570,
+    "wof:geomhash":"98cf21315742bc485a7a630dd502d6d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873648323
+        }
+    ],
+    "wof:id":873648323,
+    "wof:lastmodified":1464295570,
+    "wof:name":"Lillian & Coleman Taube Museum",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -101.293018,
+    48.237424,
+    -101.293018,
+    48.237424
+],
+  "geometry": {"coordinates":[-101.293018,48.237424],"type":"Point"}
+}

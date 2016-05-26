@@ -1,0 +1,73 @@
+{
+  "id": 873566779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.043064,47.932424,-97.043064,47.932424",
+    "geom:latitude":47.932424,
+    "geom:longitude":-97.043064,
+    "iso:country":"US",
+    "sg:address":"920 N 3rd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 5881",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SEDa8gcRsLgwmmWWEt6uP_47.932424_-97.043064@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294573,
+    "wof:geomhash":"29b28488b399a6f3f8ae2ee6b606d300",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873566779
+        }
+    ],
+    "wof:id":873566779,
+    "wof:lastmodified":1464294573,
+    "wof:name":"Champion Tune-Up & Auto Repair",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -97.043064,
+    47.932424,
+    -97.043064,
+    47.932424
+],
+  "geometry": {"coordinates":[-97.043064,47.932424],"type":"Point"}
+}

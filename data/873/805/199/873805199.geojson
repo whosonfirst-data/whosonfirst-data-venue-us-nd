@@ -1,0 +1,75 @@
+{
+  "id": 873805199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.803749,46.828819,-96.803749,46.828819",
+    "geom:latitude":46.828819,
+    "geom:longitude":-96.803749,
+    "iso:country":"US",
+    "sg:address":"3402 15th St S Ste A",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 9608",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534487,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48B7G4zN3lXCGV3yPgAVl9_46.828819_-96.803749@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297837,
+    "wof:geomhash":"e9883cc5707f0246f14cf3c33c5f8a3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534487,
+            "region_id":85688525,
+            "venue_id":873805199
+        }
+    ],
+    "wof:id":873805199,
+    "wof:lastmodified":1464297837,
+    "wof:name":"Property Partners Management",
+    "wof:parent_id":420534487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.803749,
+    46.828819,
+    -96.803749,
+    46.828819
+],
+  "geometry": {"coordinates":[-96.803749,46.828819],"type":"Point"}
+}

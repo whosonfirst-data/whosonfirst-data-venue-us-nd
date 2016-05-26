@@ -1,0 +1,73 @@
+{
+  "id": 873723099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.762923,46.79595,-100.762923,46.79595",
+    "geom:latitude":46.79595,
+    "geom:longitude":-100.762923,
+    "iso:country":"US",
+    "sg:address":"906 Airport Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 1886",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2urIAuSuvLwRskECUoOqcw_46.795950_-100.762923@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296688,
+    "wof:geomhash":"be59056956fd96d60acd5962f1665330",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873723099
+        }
+    ],
+    "wof:id":873723099,
+    "wof:lastmodified":1464296688,
+    "wof:name":"Edney Distributing Co",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -100.762923,
+    46.79595,
+    -100.762923,
+    46.79595
+],
+  "geometry": {"coordinates":[-100.762923,46.79595],"type":"Point"}
+}

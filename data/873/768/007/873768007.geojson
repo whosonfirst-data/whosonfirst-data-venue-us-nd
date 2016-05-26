@@ -1,0 +1,75 @@
+{
+  "id": 873768007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.288362,48.211039,-101.288362,48.211039",
+    "geom:latitude":48.211039,
+    "geom:longitude":-101.288362,
+    "iso:country":"US",
+    "sg:address":"316 20th Ave SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 2716",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5J3kk6llNJc6mMhQfZBzcI_48.211039_-101.288362@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297338,
+    "wof:geomhash":"39c597981dc5e375101bcf2f754c7bc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873768007
+        }
+    ],
+    "wof:id":873768007,
+    "wof:lastmodified":1464297338,
+    "wof:name":"Carl's Radiator Svc",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [
+    -101.288362,
+    48.211039,
+    -101.288362,
+    48.211039
+],
+  "geometry": {"coordinates":[-101.28836200000001,48.211039],"type":"Point"}
+}

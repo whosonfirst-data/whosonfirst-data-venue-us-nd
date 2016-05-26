@@ -1,0 +1,73 @@
+{
+  "id": 873724775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.054559,47.893907,-97.054559,47.893907",
+    "geom:latitude":47.893907,
+    "geom:longitude":-97.054559,
+    "iso:country":"US",
+    "sg:address":"2585 S 19th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 0478",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "home",
+        "group"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0w91rqhcB6Qtl81iBuRI63_47.893907_-97.054559@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296710,
+    "wof:geomhash":"3509ffd7e121cce3d1a7ee250727d734",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873724775
+        }
+    ],
+    "wof:id":873724775,
+    "wof:lastmodified":1464296710,
+    "wof:name":"Development Homes Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "group"
+    ]
+},
+  "bbox": [
+    -97.054559,
+    47.893907,
+    -97.054559,
+    47.893907
+],
+  "geometry": {"coordinates":[-97.054559,47.893907],"type":"Point"}
+}

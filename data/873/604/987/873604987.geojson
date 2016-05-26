@@ -1,0 +1,71 @@
+{
+  "id": 873604987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.087292,47.947561,-97.087292,47.947561",
+    "geom:latitude":47.947561,
+    "geom:longitude":-97.087292,
+    "iso:country":"US",
+    "sg:address":"4115 27th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 6822",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11GHzFP7njHgixHWfx6doe_47.947561_-97.087292@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295039,
+    "wof:geomhash":"cc093888c81c956e06f93db2257faa19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873604987
+        }
+    ],
+    "wof:id":873604987,
+    "wof:lastmodified":1464295039,
+    "wof:name":"Chs Agriliance",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [
+    -97.087292,
+    47.947561,
+    -97.087292,
+    47.947561
+],
+  "geometry": {"coordinates":[-97.08729200000001,47.947561],"type":"Point"}
+}

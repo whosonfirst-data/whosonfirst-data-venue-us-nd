@@ -1,0 +1,66 @@
+{
+  "id": 873715171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.048302,47.897736,-97.048302,47.897736",
+    "geom:latitude":47.897736,
+    "geom:longitude":-97.048302,
+    "iso:country":"US",
+    "sg:address":"2315 Library Cir",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 8550",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UuU2JiKvVEosPvu5ENF6q_47.897736_-97.048302@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296583,
+    "wof:geomhash":"446ab9942a30c8053f9eb8529a612249",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873715171
+        }
+    ],
+    "wof:id":873715171,
+    "wof:lastmodified":1464296583,
+    "wof:name":"Northland Chrstian Cnsling Ctr",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.048302,
+    47.897736,
+    -97.048302,
+    47.897736
+],
+  "geometry": {"coordinates":[-97.04830200000001,47.897736],"type":"Point"}
+}

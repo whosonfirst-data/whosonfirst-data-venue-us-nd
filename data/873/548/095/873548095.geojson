@@ -1,0 +1,71 @@
+{
+  "id": 873548095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.298322,48.225444,-101.298322,48.225444",
+    "geom:latitude":48.225444,
+    "geom:longitude":-101.298322,
+    "iso:country":"US",
+    "sg:address":"305 11th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 2251",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JREA67StDQkmzC375KCGt_48.225444_-101.298322@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294357,
+    "wof:geomhash":"721775b63cc82d2ce27553bf48dd736e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873548095
+        }
+    ],
+    "wof:id":873548095,
+    "wof:lastmodified":1464294357,
+    "wof:name":"Community Ambulance Svc Inc",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -101.298322,
+    48.225444,
+    -101.298322,
+    48.225444
+],
+  "geometry": {"coordinates":[-101.298322,48.225444],"type":"Point"}
+}

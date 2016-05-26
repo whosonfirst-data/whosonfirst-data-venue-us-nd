@@ -1,0 +1,71 @@
+{
+  "id": 873706885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.734682,46.84079,-100.734682,46.84079",
+    "geom:latitude":46.84079,
+    "geom:longitude":-100.734682,
+    "iso:country":"US",
+    "sg:address":"3705 Saratoga Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 250 0528",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "monument"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6l9y7V0K1iZZ2gKdcpWCYd_46.840790_-100.734682@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296480,
+    "wof:geomhash":"ae643ae5619619c8372a3a91a883bf8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873706885
+        }
+    ],
+    "wof:id":873706885,
+    "wof:lastmodified":1464296480,
+    "wof:name":"American Stonecraft",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monument"
+    ]
+},
+  "bbox": [
+    -100.734682,
+    46.84079,
+    -100.734682,
+    46.84079
+],
+  "geometry": {"coordinates":[-100.73468200000001,46.84079],"type":"Point"}
+}

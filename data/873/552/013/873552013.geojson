@@ -1,0 +1,75 @@
+{
+  "id": 873552013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.05216,47.901557,-97.05216,47.901557",
+    "geom:latitude":47.901557,
+    "geom:longitude":-97.05216,
+    "iso:country":"US",
+    "sg:address":"1803 Willow Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 9780",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "house",
+        "contractor",
+        "concrete"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3irJg84n5pkK5Oc8FDVBwG_47.901557_-97.052160@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294400,
+    "wof:geomhash":"a2ebcdfbcbbe6258d7d234497d949e34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873552013
+        }
+    ],
+    "wof:id":873552013,
+    "wof:lastmodified":1464294400,
+    "wof:name":"Dick Walsh Construction",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "contractor",
+        "concrete"
+    ]
+},
+  "bbox": [
+    -97.05216,
+    47.901557,
+    -97.05216,
+    47.901557
+],
+  "geometry": {"coordinates":[-97.05216,47.901557],"type":"Point"}
+}

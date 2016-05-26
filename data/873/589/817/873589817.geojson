@@ -1,0 +1,77 @@
+{
+  "id": 873589817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.743286,46.80601,-100.743286,46.80601",
+    "geom:latitude":46.80601,
+    "geom:longitude":-100.743286,
+    "iso:country":"US",
+    "sg:address":"3111 E Broadway Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 224 1660",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "coffee",
+        "handling",
+        "roasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_346rA7yWHt7uONwnBMwloq_46.806010_-100.743286@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294829,
+    "wof:geomhash":"aae99c32fafeb4dcd4f9cd561f8c1cab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873589817
+        }
+    ],
+    "wof:id":873589817,
+    "wof:lastmodified":1464294829,
+    "wof:name":"Prairie Coffee Roasters",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "coffee",
+        "handling",
+        "roasting"
+    ]
+},
+  "bbox": [
+    -100.743286,
+    46.80601,
+    -100.743286,
+    46.80601
+],
+  "geometry": {"coordinates":[-100.743286,46.80601],"type":"Point"}
+}

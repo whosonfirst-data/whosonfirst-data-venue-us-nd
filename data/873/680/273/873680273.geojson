@@ -1,0 +1,73 @@
+{
+  "id": 873680273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.497116,47.93105,-97.497116,47.93105",
+    "geom:latitude":47.93105,
+    "geom:longitude":-97.497116,
+    "iso:country":"US",
+    "sg:address":"3130 US Hwy 2",
+    "sg:city":"Arvilla",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 343 2024",
+    "sg:postcode":"58214",
+    "sg:province":"ND",
+    "sg:tags":[
+        "fabricator",
+        "metal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ITZqZwPblitM5el0qWs8c_47.931050_-97.497116@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296003,
+    "wof:geomhash":"cce0dd9beb67d2b4a383abeb1bce2ff0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873680273
+        }
+    ],
+    "wof:id":873680273,
+    "wof:lastmodified":1464296003,
+    "wof:name":"Dakota Laser & Manufacturing",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fabricator",
+        "metal"
+    ]
+},
+  "bbox": [
+    -97.497116,
+    47.93105,
+    -97.497116,
+    47.93105
+],
+  "geometry": {"coordinates":[-97.49711600000001,47.93105],"type":"Point"}
+}

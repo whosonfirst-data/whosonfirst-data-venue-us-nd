@@ -1,0 +1,80 @@
+{
+  "id": 873612157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.81482,46.82631,-100.81482,46.82631",
+    "geom:latitude":46.82631,
+    "geom:longitude":-100.81482,
+    "iso:country":"US",
+    "sg:address":"2000 Schafer St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 3622",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JZ8dDfUrkhVb1o6AIQ0xt_46.826310_-100.814820@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295168,
+    "wof:geomhash":"d126ced232744aeef03e27043f533dda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873612157
+        }
+    ],
+    "wof:id":873612157,
+    "wof:lastmodified":1464295168,
+    "wof:name":"Timothy J Austin PC",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -100.81482,
+    46.82631,
+    -100.81482,
+    46.82631
+],
+  "geometry": {"coordinates":[-100.81482,46.82631],"type":"Point"}
+}

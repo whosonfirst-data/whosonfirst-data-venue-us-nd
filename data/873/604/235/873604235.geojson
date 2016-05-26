@@ -1,0 +1,71 @@
+{
+  "id": 873604235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.252719,48.226627,-101.252719,48.226627",
+    "geom:latitude":48.226627,
+    "geom:longitude":-101.252719,
+    "iso:country":"US",
+    "sg:address":"1015 27th St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 6590",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TPmLFdeoc1uT8OoLICAhS_48.226627_-101.252719@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295032,
+    "wof:geomhash":"bf2ca7433b13836b1d06daf937a2d153",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873604235
+        }
+    ],
+    "wof:id":873604235,
+    "wof:lastmodified":1464295032,
+    "wof:name":"Minot's Finest Builders",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.252719,
+    48.226627,
+    -101.252719,
+    48.226627
+],
+  "geometry": {"coordinates":[-101.252719,48.226627],"type":"Point"}
+}

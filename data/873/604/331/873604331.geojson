@@ -1,0 +1,73 @@
+{
+  "id": 873604331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.781413,46.786816,-100.781413,46.786816",
+    "geom:latitude":46.786816,
+    "geom:longitude":-100.781413,
+    "iso:country":"US",
+    "sg:address":"1607 Columbia Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 3433",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cONF2n5ac2J23JrpQxFIA_46.786816_-100.781413@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295033,
+    "wof:geomhash":"0c24d02ca757818f41576a95e6b2aa85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873604331
+        }
+    ],
+    "wof:id":873604331,
+    "wof:lastmodified":1464295033,
+    "wof:name":"Bob Bucholz",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -100.781413,
+    46.786816,
+    -100.781413,
+    46.786816
+],
+  "geometry": {"coordinates":[-100.781413,46.786816],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 873806263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.092623,47.922356,-97.092623,47.922356",
+    "geom:latitude":47.922356,
+    "geom:longitude":-97.092623,
+    "iso:country":"US",
+    "sg:address":"4324 University Avenue Suite B",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 792 1800",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:website":"http://www.meridian-enviro.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GDXX1vRVcz420nu3GuViD_47.922356_-97.092623@1308186500"
+    },
+    "wof:country":"US",
+    "wof:created":1464297855,
+    "wof:geomhash":"e510320f9acc3f8b398d1021cba0954f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873806263
+        }
+    ],
+    "wof:id":873806263,
+    "wof:lastmodified":1464297855,
+    "wof:name":"Meridian Environmental Technology",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.092623,
+    47.922356,
+    -97.092623,
+    47.922356
+],
+  "geometry": {"coordinates":[-97.092623,47.922356],"type":"Point"}
+}

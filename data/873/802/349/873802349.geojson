@@ -1,0 +1,90 @@
+{
+  "id": 873802349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.862083,46.851015,-96.862083,46.851015",
+    "geom:latitude":46.851015,
+    "geom:longitude":-96.862083,
+    "iso:country":"US",
+    "sg:address":"1895 45th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Mobile Phones",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 492 4534",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "supply",
+        "communication",
+        "telephone",
+        "wireless",
+        "equipment",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11rLa2b6EMI5opDI2XzNfH_46.851015_-96.862083@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297802,
+    "wof:geomhash":"8e086aff4eef7ef0bc91994b65043958",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873802349
+        }
+    ],
+    "wof:id":873802349,
+    "wof:lastmodified":1464297802,
+    "wof:name":"Verizon Wireless",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply",
+        "communication",
+        "telephone",
+        "wireless",
+        "equipment",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -96.862083,
+    46.851015,
+    -96.862083,
+    46.851015
+],
+  "geometry": {"coordinates":[-96.862083,46.851015],"type":"Point"}
+}

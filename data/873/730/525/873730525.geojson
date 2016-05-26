@@ -1,0 +1,75 @@
+{
+  "id": 873730525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.847349,46.866854,-96.847349,46.866854",
+    "geom:latitude":46.866854,
+    "geom:longitude":-96.847349,
+    "iso:country":"US",
+    "sg:address":"4025 9th Ave SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 281 8700",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sATQEeTbL85TA51kV7g7G_46.866854_-96.847349@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296785,
+    "wof:geomhash":"347d2b881788b17ef810705c7ea88a9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873730525
+        }
+    ],
+    "wof:id":873730525,
+    "wof:lastmodified":1464296785,
+    "wof:name":"Baby Takes",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -96.847349,
+    46.866854,
+    -96.847349,
+    46.866854
+],
+  "geometry": {"coordinates":[-96.84734899999999,46.866854],"type":"Point"}
+}

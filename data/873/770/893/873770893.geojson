@@ -1,0 +1,71 @@
+{
+  "id": 873770893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.293728,48.235489,-101.293728,48.235489",
+    "geom:latitude":48.235489,
+    "geom:longitude":-101.293728,
+    "iso:country":"US",
+    "sg:address":"10 1st Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 3939",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53tQSgZ3cAlXmQKZhEkOLb_48.235489_-101.293728@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297376,
+    "wof:geomhash":"8f9d98652767faf88e397ce4f43e79ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873770893
+        }
+    ],
+    "wof:id":873770893,
+    "wof:lastmodified":1464297376,
+    "wof:name":"R L Wood DDS",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -101.293728,
+    48.235489,
+    -101.293728,
+    48.235489
+],
+  "geometry": {"coordinates":[-101.293728,48.235489],"type":"Point"}
+}

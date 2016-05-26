@@ -1,0 +1,79 @@
+{
+  "id": 873804795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.851417,46.829115,-96.851417,46.829115",
+    "geom:latitude":46.829115,
+    "geom:longitude":-96.851417,
+    "iso:country":"US",
+    "sg:address":"3350 42nd St S Apt 208",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 219 0243",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "cleaner",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877355,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WsCEie7Y9Ez8s014C2jR3_46.829115_-96.851417@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297832,
+    "wof:geomhash":"4978def7ee4b805aadbd1d379b582bee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877355,
+            "region_id":85688525,
+            "venue_id":873804795
+        }
+    ],
+    "wof:id":873804795,
+    "wof:lastmodified":1464297832,
+    "wof:name":"Nah Carpet",
+    "wof:parent_id":85877355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -96.851417,
+    46.829115,
+    -96.851417,
+    46.829115
+],
+  "geometry": {"coordinates":[-96.851417,46.829115],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873675147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.455829,48.284126,-101.455829,48.284126",
+    "geom:latitude":48.284126,
+    "geom:longitude":-101.455829,
+    "iso:country":"US",
+    "sg:address":"10910 US Hwy 52",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 873 5712",
+    "sg:postcode":"58722",
+    "sg:province":"ND",
+    "sg:tags":[
+        "animal",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55jHv6CjHy4agmDHbo9EYB_48.284126_-101.455829@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295872,
+    "wof:geomhash":"df1ebac387bcd1c36520874da2bfaa2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873675147
+        }
+    ],
+    "wof:id":873675147,
+    "wof:lastmodified":1464295872,
+    "wof:name":"River Valley Emu Ranch",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "animal",
+        "general"
+    ]
+},
+  "bbox": [
+    -101.455829,
+    48.284126,
+    -101.455829,
+    48.284126
+],
+  "geometry": {"coordinates":[-101.45582899999999,48.284126],"type":"Point"}
+}

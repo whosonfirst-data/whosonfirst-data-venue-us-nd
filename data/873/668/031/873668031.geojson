@@ -1,0 +1,73 @@
+{
+  "id": 873668031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.045202,47.884632,-97.045202,47.884632",
+    "geom:latitude":47.884632,
+    "geom:longitude":-97.045202,
+    "iso:country":"US",
+    "sg:address":"3651 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 0704",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bph0YDfSmhhrl2HodRvob_47.884632_-97.045202@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295780,
+    "wof:geomhash":"26d4125797f51f8df299593fd6e33c61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873668031
+        }
+    ],
+    "wof:id":873668031,
+    "wof:lastmodified":1464295780,
+    "wof:name":"Easter Seals",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -97.045202,
+    47.884632,
+    -97.045202,
+    47.884632
+],
+  "geometry": {"coordinates":[-97.045202,47.884632],"type":"Point"}
+}

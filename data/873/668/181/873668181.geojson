@@ -1,0 +1,73 @@
+{
+  "id": 873668181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.307395,48.259609,-101.307395,48.259609",
+    "geom:latitude":48.259609,
+    "geom:longitude":-101.307395,
+    "iso:country":"US",
+    "sg:address":"2136 8th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 9371",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cqXVt0cRuZkfVOuU7wq8h_48.259609_-101.307395@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295782,
+    "wof:geomhash":"639252fbfafc5fb65ddeb7ff3c42fd8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873668181
+        }
+    ],
+    "wof:id":873668181,
+    "wof:lastmodified":1464295782,
+    "wof:name":"Buechler Excavating",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.307395,
+    48.259609,
+    -101.307395,
+    48.259609
+],
+  "geometry": {"coordinates":[-101.307395,48.259609],"type":"Point"}
+}

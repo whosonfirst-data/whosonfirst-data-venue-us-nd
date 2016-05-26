@@ -1,0 +1,78 @@
+{
+  "id": 873756817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.246615,48.231644,-101.246615,48.231644",
+    "geom:latitude":48.231644,
+    "geom:longitude":-101.246615,
+    "iso:country":"US",
+    "sg:address":"635 31st St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 3145",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shop",
+        "plate",
+        "work",
+        "fabricated"
+    ],
+    "sg:website":"www.petroparts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4agLu4WLJGarOqZEjFCD2g_48.231644_-101.246615@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297167,
+    "wof:geomhash":"7ead5f7a7b54a94697c48b590719150d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873756817
+        }
+    ],
+    "wof:id":873756817,
+    "wof:lastmodified":1464297167,
+    "wof:name":"O'Day Equipment Inc",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "plate",
+        "work",
+        "fabricated"
+    ]
+},
+  "bbox": [
+    -101.246615,
+    48.231644,
+    -101.246615,
+    48.231644
+],
+  "geometry": {"coordinates":[-101.24661500000001,48.231644],"type":"Point"}
+}

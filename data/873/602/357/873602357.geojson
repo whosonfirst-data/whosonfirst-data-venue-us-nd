@@ -1,0 +1,71 @@
+{
+  "id": 873602357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.736031,46.828944,-100.736031,46.828944",
+    "geom:latitude":46.828944,
+    "geom:longitude":-100.736031,
+    "iso:country":"US",
+    "sg:address":"3425 Miriam Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 250 4419",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "conservation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DYL4HaeKEbtS76jbvdLKN_46.828944_-100.736031@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295012,
+    "wof:geomhash":"88e38819b457560433ef0af14e6406bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873602357
+        }
+    ],
+    "wof:id":873602357,
+    "wof:lastmodified":1464295012,
+    "wof:name":"Missouri Rvr Fish & Wildlife",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conservation"
+    ]
+},
+  "bbox": [
+    -100.736031,
+    46.828944,
+    -100.736031,
+    46.828944
+],
+  "geometry": {"coordinates":[-100.736031,46.828944],"type":"Point"}
+}

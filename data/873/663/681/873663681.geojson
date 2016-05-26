@@ -1,0 +1,73 @@
+{
+  "id": 873663681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.247194,46.672815,-97.247194,46.672815",
+    "geom:latitude":46.672815,
+    "geom:longitude":-97.247194,
+    "iso:country":"US",
+    "sg:address":"15381 51st St SE",
+    "sg:city":"Leonard",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 645 2551",
+    "sg:postcode":"58052",
+    "sg:province":"ND",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vG9fxeRI7LfkxE8IqNqaN_46.672815_-97.247194@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295737,
+    "wof:geomhash":"f0db59810c0aaf8e2b3e57c043d2d563",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873663681
+        }
+    ],
+    "wof:id":873663681,
+    "wof:lastmodified":1464295737,
+    "wof:name":"Clifford Glasow",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -97.247194,
+    46.672815,
+    -97.247194,
+    46.672815
+],
+  "geometry": {"coordinates":[-97.24719399999999,46.672815],"type":"Point"}
+}

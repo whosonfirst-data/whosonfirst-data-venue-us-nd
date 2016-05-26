@@ -1,0 +1,73 @@
+{
+  "id": 873745133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.759924,46.793402,-100.759924,46.793402",
+    "geom:latitude":46.793402,
+    "geom:longitude":-100.759924,
+    "iso:country":"US",
+    "sg:address":"2110 Lovett Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 3447",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automobile",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KIGmeRek0EoxjXn9UYW9r_46.793402_-100.759924@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297012,
+    "wof:geomhash":"b75b6f2f539be972fb577e59625a19bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873745133
+        }
+    ],
+    "wof:id":873745133,
+    "wof:lastmodified":1464297012,
+    "wof:name":"G 4 Auto Sports",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "supply"
+    ]
+},
+  "bbox": [
+    -100.759924,
+    46.793402,
+    -100.759924,
+    46.793402
+],
+  "geometry": {"coordinates":[-100.759924,46.793402],"type":"Point"}
+}

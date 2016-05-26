@@ -1,0 +1,75 @@
+{
+  "id": 873658749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.187709,48.221984,-101.187709,48.221984",
+    "geom:latitude":48.221984,
+    "geom:longitude":-101.187709,
+    "iso:country":"US",
+    "sg:address":"1401 72nd St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 5734",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pZu4YsFZN2bxsSzHejc3h_48.221984_-101.187709@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295686,
+    "wof:geomhash":"f01bbe85d323f0a95753804e3630c5f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873658749
+        }
+    ],
+    "wof:id":873658749,
+    "wof:lastmodified":1464295686,
+    "wof:name":"Kinn Trucking LLC",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -101.187709,
+    48.221984,
+    -101.187709,
+    48.221984
+],
+  "geometry": {"coordinates":[-101.187709,48.221984],"type":"Point"}
+}

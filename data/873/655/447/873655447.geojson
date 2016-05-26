@@ -1,0 +1,66 @@
+{
+  "id": 873655447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.20936,48.227212,-101.20936,48.227212",
+    "geom:latitude":48.227212,
+    "geom:longitude":-101.20936,
+    "iso:country":"US",
+    "sg:address":"1005 55th St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 0258",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1w5vLaVkrNAm0NTuSwurtq_48.227212_-101.209360@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295650,
+    "wof:geomhash":"7bb1d12eef98956049b27dbf565d7c86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873655447
+        }
+    ],
+    "wof:id":873655447,
+    "wof:lastmodified":1464295650,
+    "wof:name":"Schaans Yard Care",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.20936,
+    48.227212,
+    -101.20936,
+    48.227212
+],
+  "geometry": {"coordinates":[-101.20936,48.227212],"type":"Point"}
+}

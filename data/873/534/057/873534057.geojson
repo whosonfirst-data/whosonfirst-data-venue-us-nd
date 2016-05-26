@@ -1,0 +1,78 @@
+{
+  "id": 873534057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.786047,46.803214,-100.786047,46.803214",
+    "geom:latitude":46.803214,
+    "geom:longitude":-100.786047,
+    "iso:country":"US",
+    "sg:address":"430 E Sweet Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 4900",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CXUGWcnsFxVfPURjyVBYy_46.803214_-100.786047@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294189,
+    "wof:geomhash":"ee1b1d0907af47eee33fb9e7ee9cbabe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873534057
+        }
+    ],
+    "wof:id":873534057,
+    "wof:lastmodified":1464294189,
+    "wof:name":"Dakota Surgery & Laser Center",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -100.786047,
+    46.803214,
+    -100.786047,
+    46.803214
+],
+  "geometry": {"coordinates":[-100.786047,46.803214],"type":"Point"}
+}

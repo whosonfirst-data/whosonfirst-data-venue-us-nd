@@ -1,0 +1,75 @@
+{
+  "id": 873610963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.86532,46.870129,-96.86532,46.870129",
+    "geom:latitude":46.870129,
+    "geom:longitude":-96.86532,
+    "iso:country":"US",
+    "sg:address":"631 22nd St E",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 281 0221",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "sg:tags":[
+        "intermediate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eBUo22xPN1GNTS0JVYIAp_46.870129_-96.865320@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295154,
+    "wof:geomhash":"88b57ddc8e635ea611bd31216bd2ccdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873610963
+        }
+    ],
+    "wof:id":873610963,
+    "wof:lastmodified":1464295154,
+    "wof:name":"Fraser Ltd",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "intermediate"
+    ]
+},
+  "bbox": [
+    -96.86532,
+    46.870129,
+    -96.86532,
+    46.870129
+],
+  "geometry": {"coordinates":[-96.86532,46.870129],"type":"Point"}
+}

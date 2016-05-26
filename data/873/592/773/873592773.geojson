@@ -1,0 +1,66 @@
+{
+  "id": 873592773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.329038,48.237752,-101.329038,48.237752",
+    "geom:latitude":48.237752,
+    "geom:longitude":-101.329038,
+    "iso:country":"US",
+    "sg:address":"104 24th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 6588",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06R0vhMiWGluRMThCMORwI_48.237752_-101.329038@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294866,
+    "wof:geomhash":"4260d2e37ae34b594f7749062dd79f2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873592773
+        }
+    ],
+    "wof:id":873592773,
+    "wof:lastmodified":1464294866,
+    "wof:name":"Mid",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.329038,
+    48.237752,
+    -101.329038,
+    48.237752
+],
+  "geometry": {"coordinates":[-101.329038,48.237752],"type":"Point"}
+}

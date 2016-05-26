@@ -1,0 +1,71 @@
+{
+  "id": 873747337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.034213,47.893825,-97.034213,47.893825",
+    "geom:latitude":47.893825,
+    "geom:longitude":-97.034213,
+    "iso:country":"US",
+    "sg:address":"419 27th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 5838",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "wildlife"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kEfaSwnb6ytzQFNJVQmrt_47.893825_-97.034213@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297042,
+    "wof:geomhash":"bba7e486396b6825f64cac95d1850d51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873747337
+        }
+    ],
+    "wof:id":873747337,
+    "wof:lastmodified":1464297042,
+    "wof:name":"Robert W Seabloom PHD",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wildlife"
+    ]
+},
+  "bbox": [
+    -97.034213,
+    47.893825,
+    -97.034213,
+    47.893825
+],
+  "geometry": {"coordinates":[-97.03421299999999,47.893825],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873609635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.040301,47.900787,-97.040301,47.900787",
+    "geom:latitude":47.900787,
+    "geom:longitude":-97.040301,
+    "iso:country":"US",
+    "sg:address":"815 Campbell Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 0076",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5npWwD3YqqYoveIlcGTBO0_47.900787_-97.040301@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295135,
+    "wof:geomhash":"142a61c54af545e5487e0a12d8e9be94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873609635
+        }
+    ],
+    "wof:id":873609635,
+    "wof:lastmodified":1464295135,
+    "wof:name":"Continental Apts Manageme",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -97.040301,
+    47.900787,
+    -97.040301,
+    47.900787
+],
+  "geometry": {"coordinates":[-97.040301,47.900787],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873550231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.066624,47.901657,-97.066624,47.901657",
+    "geom:latitude":47.901657,
+    "geom:longitude":-97.066624,
+    "iso:country":"US",
+    "sg:address":"1970 S Columbia Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 8995",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "club",
+        "drinking",
+        "night"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6N9M1zCWi5OgKGL6Ss9lw9_47.901657_-97.066624@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294381,
+    "wof:geomhash":"46ce503e7d26669af5c2dc1d4edb3ef0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873550231
+        }
+    ],
+    "wof:id":873550231,
+    "wof:lastmodified":1464294381,
+    "wof:name":"Borrowed Bucks Road House",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "drinking",
+        "night"
+    ]
+},
+  "bbox": [
+    -97.066624,
+    47.901657,
+    -97.066624,
+    47.901657
+],
+  "geometry": {"coordinates":[-97.066624,47.901657],"type":"Point"}
+}

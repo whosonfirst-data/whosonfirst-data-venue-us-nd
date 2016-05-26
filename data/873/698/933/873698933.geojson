@@ -1,0 +1,76 @@
+{
+  "id": 873698933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.875137,46.860725,-96.875137,46.860725",
+    "geom:latitude":46.860725,
+    "geom:longitude":-96.875137,
+    "iso:country":"US",
+    "sg:address":"1420 16th St E",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 7217",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.holycrosscatholicchurch.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HhHfidxhGlUyoJVMSDd0I_46.860725_-96.875137@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296393,
+    "wof:geomhash":"55e43560399566b543487ed5ecdfd985",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873698933
+        }
+    ],
+    "wof:id":873698933,
+    "wof:lastmodified":1464296393,
+    "wof:name":"Holy Cross Catholic Church",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -96.875137,
+    46.860725,
+    -96.875137,
+    46.860725
+],
+  "geometry": {"coordinates":[-96.875137,46.860725],"type":"Point"}
+}

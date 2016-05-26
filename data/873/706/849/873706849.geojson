@@ -1,0 +1,66 @@
+{
+  "id": 873706849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.781481,46.807392,-100.781481,46.807392",
+    "geom:latitude":46.807392,
+    "geom:longitude":-100.781481,
+    "iso:country":"US",
+    "sg:address":"209 N 7th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 323 6208",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Y5NaJfCtS8wB9fgcbH0vk_46.807392_-100.781481@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296480,
+    "wof:geomhash":"130430091e162dc441c197a5a0efaa31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873706849
+        }
+    ],
+    "wof:id":873706849,
+    "wof:lastmodified":1464296480,
+    "wof:name":"Med Center One Cmnty Kidney",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.781481,
+    46.807392,
+    -100.781481,
+    46.807392
+],
+  "geometry": {"coordinates":[-100.781481,46.807392],"type":"Point"}
+}

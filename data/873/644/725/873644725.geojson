@@ -1,0 +1,72 @@
+{
+  "id": 873644725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.332093,48.236549,-101.332093,48.236549",
+    "geom:latitude":48.236549,
+    "geom:longitude":-101.332093,
+    "iso:country":"US",
+    "sg:address":"2600 Central Ave W",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 7076",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.stjohnminot.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EuwGpLicnJLHzTQNZbMPX_48.236549_-101.332093@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295534,
+    "wof:geomhash":"0e2f638b880765312cc25636f774b9cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873644725
+        }
+    ],
+    "wof:id":873644725,
+    "wof:lastmodified":1464295534,
+    "wof:name":"St John The Apostle Church",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -101.332093,
+    48.236549,
+    -101.332093,
+    48.236549
+],
+  "geometry": {"coordinates":[-101.332093,48.236549],"type":"Point"}
+}

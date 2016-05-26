@@ -1,0 +1,77 @@
+{
+  "id": 873534373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.774049,46.804037,-100.774049,46.804037",
+    "geom:latitude":46.804037,
+    "geom:longitude":-100.774049,
+    "iso:country":"US",
+    "sg:address":"1101 E Front Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 9500",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "provider",
+        "telecommunication",
+        "cellular",
+        "telephone"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vXO22gC2pBcKoKjLgdH5N_46.804037_-100.774049@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294195,
+    "wof:geomhash":"e58f37d5b1d6b491ed28a1dee0f441a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873534373
+        }
+    ],
+    "wof:id":873534373,
+    "wof:lastmodified":1464294195,
+    "wof:name":"Extend America Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "provider",
+        "telecommunication",
+        "cellular",
+        "telephone"
+    ]
+},
+  "bbox": [
+    -100.774049,
+    46.804037,
+    -100.774049,
+    46.804037
+],
+  "geometry": {"coordinates":[-100.77404900000001,46.804037],"type":"Point"}
+}

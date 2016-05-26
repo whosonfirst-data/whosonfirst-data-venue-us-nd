@@ -1,0 +1,73 @@
+{
+  "id": 873778193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.801949,46.805556,-100.801949,46.805556",
+    "geom:latitude":46.805556,
+    "geom:longitude":-100.801949,
+    "iso:country":"US",
+    "sg:address":"609 Memorial Hwy",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 224 8886",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shop",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4z1t4ed6Uo9MwPCtWPbROl_46.805556_-100.801949@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297465,
+    "wof:geomhash":"2fd14aed45e4504644f5884565fbecd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873778193
+        }
+    ],
+    "wof:id":873778193,
+    "wof:lastmodified":1464297465,
+    "wof:name":"K9 Cuts",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "animal"
+    ]
+},
+  "bbox": [
+    -100.801949,
+    46.805556,
+    -100.801949,
+    46.805556
+],
+  "geometry": {"coordinates":[-100.80194899999999,46.805556],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 873575461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.752163,46.807921,-100.752163,46.807921",
+    "geom:latitude":46.807921,
+    "geom:longitude":-100.752163,
+    "iso:country":"US",
+    "sg:address":"322 N 26th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 8818",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ],
+    "sg:website":"www.interiorsbyfrance.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29ISwFzPLNFvobaeEMv3oI_46.807921_-100.752163@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294668,
+    "wof:geomhash":"cef772e1b704f73df5de3c675538519c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873575461
+        }
+    ],
+    "wof:id":873575461,
+    "wof:lastmodified":1464294668,
+    "wof:name":"Interiors By France",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ]
+},
+  "bbox": [
+    -100.752163,
+    46.807921,
+    -100.752163,
+    46.807921
+],
+  "geometry": {"coordinates":[-100.752163,46.807921],"type":"Point"}
+}

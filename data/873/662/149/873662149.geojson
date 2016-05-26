@@ -1,0 +1,77 @@
+{
+  "id": 873662149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.844347,46.851749,-96.844347,46.851749",
+    "geom:latitude":46.851749,
+    "geom:longitude":-96.844347,
+    "iso:country":"US",
+    "sg:address":"1804 39th St SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 306 5701",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "live",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ip0iw68qkeaFl9pNalTQB_46.851749_-96.844347@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295720,
+    "wof:geomhash":"4ff464f0e3c075a39f787b5533bce629",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873662149
+        }
+    ],
+    "wof:id":873662149,
+    "wof:lastmodified":1464295720,
+    "wof:name":"Zims Entertainment",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "live",
+        "music"
+    ]
+},
+  "bbox": [
+    -96.844347,
+    46.851749,
+    -96.844347,
+    46.851749
+],
+  "geometry": {"coordinates":[-96.844347,46.851749],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873766745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.292354,48.245098,-101.292354,48.245098",
+    "geom:latitude":48.245098,
+    "geom:longitude":-101.292354,
+    "iso:country":"US",
+    "sg:address":"15 University Ave E",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 837 5508",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Zm6nSvat0KxC90FWXc06A_48.245098_-101.292354@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297322,
+    "wof:geomhash":"5ac1f62ffdfd28a689a21ce8911d62b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873766745
+        }
+    ],
+    "wof:id":873766745,
+    "wof:lastmodified":1464297322,
+    "wof:name":"Love On A Leash",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -101.292354,
+    48.245098,
+    -101.292354,
+    48.245098
+],
+  "geometry": {"coordinates":[-101.292354,48.245098],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873674293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.300333,48.265401,-101.300333,48.265401",
+    "geom:latitude":48.265401,
+    "geom:longitude":-101.300333,
+    "iso:country":"US",
+    "sg:address":"2520 5th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 1276",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3njhqnTGmOY0RKkNwj14eu_48.265401_-101.300333@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295848,
+    "wof:geomhash":"cdb6c3a028e8298fbc30050fbf3bce5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873674293
+        }
+    ],
+    "wof:id":873674293,
+    "wof:lastmodified":1464295848,
+    "wof:name":"Classy Curtains",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.300333,
+    48.265401,
+    -101.300333,
+    48.265401
+],
+  "geometry": {"coordinates":[-101.30033299999999,48.265401],"type":"Point"}
+}

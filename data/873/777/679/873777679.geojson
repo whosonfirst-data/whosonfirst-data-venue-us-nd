@@ -1,0 +1,71 @@
+{
+  "id": 873777679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.10891,47.672179,-97.10891,47.672179",
+    "geom:latitude":47.672179,
+    "geom:longitude":-97.10891,
+    "iso:country":"US",
+    "sg:address":"315 4th Ave",
+    "sg:city":"Reynolds",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 847 2488",
+    "sg:postcode":"58275",
+    "sg:province":"ND",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7V65rZDuDhDg0xWwYldbuq_47.672179_-97.108910@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297459,
+    "wof:geomhash":"a4135dd9632f5706e84e715f8f737361",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873777679
+        }
+    ],
+    "wof:id":873777679,
+    "wof:lastmodified":1464297459,
+    "wof:name":"Step By Step Learning Center",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -97.10891,
+    47.672179,
+    -97.10891,
+    47.672179
+],
+  "geometry": {"coordinates":[-97.10890999999999,47.672179],"type":"Point"}
+}

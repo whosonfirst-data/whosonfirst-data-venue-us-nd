@@ -1,0 +1,75 @@
+{
+  "id": 873639831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.79495,46.858642,-96.79495,46.858642",
+    "geom:latitude":46.858642,
+    "geom:longitude":-96.79495,
+    "iso:country":"US",
+    "sg:address":"1450 10th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 2100",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534479,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ta03EGuuSA6L8nxKCTo0o_46.858642_-96.794950@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295471,
+    "wof:geomhash":"d4ec39a413171980516e3acb7705d63d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534479,
+            "region_id":85688525,
+            "venue_id":873639831
+        }
+    ],
+    "wof:id":873639831,
+    "wof:lastmodified":1464295471,
+    "wof:name":"Mears Drywall",
+    "wof:parent_id":420534479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.79495,
+    46.858642,
+    -96.79495,
+    46.858642
+],
+  "geometry": {"coordinates":[-96.79495,46.858642],"type":"Point"}
+}

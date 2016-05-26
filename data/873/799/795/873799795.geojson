@@ -1,0 +1,83 @@
+{
+  "id": 873799795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.017058,46.649648,-97.017058,46.649648",
+    "geom:latitude":46.649648,
+    "geom:longitude":-97.017058,
+    "iso:country":"US",
+    "sg:address":"391 Spruce St",
+    "sg:city":"Kindred",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 428 3630",
+    "sg:postcode":"58051",
+    "sg:province":"ND",
+    "sg:tags":[
+        "lutheran",
+        "america",
+        "churches-lutheran",
+        "churches-lutheran-evangelical"
+    ],
+    "sg:website":"http://www.kindredlutheran.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oXMRRqGYO1wFZMeX9zwkX_46.649648_-97.017058@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297771,
+    "wof:geomhash":"9679efcb4518bbd70c7b04a5f86c8a76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873799795
+        }
+    ],
+    "wof:id":873799795,
+    "wof:lastmodified":1464297771,
+    "wof:name":"Kindred Lutheran Church",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lutheran",
+        "america",
+        "churches-lutheran",
+        "churches-lutheran-evangelical"
+    ]
+},
+  "bbox": [
+    -97.017058,
+    46.649648,
+    -97.017058,
+    46.649648
+],
+  "geometry": {"coordinates":[-97.01705800000001,46.649648],"type":"Point"}
+}

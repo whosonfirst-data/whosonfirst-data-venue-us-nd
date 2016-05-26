@@ -1,0 +1,71 @@
+{
+  "id": 873759085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.013832,48.013341,-101.013832,48.013341",
+    "geom:latitude":48.013341,
+    "geom:longitude":-101.013832,
+    "iso:country":"US",
+    "sg:address":"21501 181st St SE",
+    "sg:city":"Velva",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Toys & Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 9747",
+    "sg:postcode":"58790",
+    "sg:province":"ND",
+    "sg:tags":[
+        "doll"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OX86SxUbEchokwS5vE335_48.013341_-101.013832@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297196,
+    "wof:geomhash":"ec263442628d140a2c5a9d13f162e8f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873759085
+        }
+    ],
+    "wof:id":873759085,
+    "wof:lastmodified":1464297196,
+    "wof:name":"Dolls By Jane",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "doll"
+    ]
+},
+  "bbox": [
+    -101.013832,
+    48.013341,
+    -101.013832,
+    48.013341
+],
+  "geometry": {"coordinates":[-101.01383199999999,48.013341],"type":"Point"}
+}

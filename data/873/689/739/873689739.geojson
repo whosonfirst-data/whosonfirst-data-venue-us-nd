@@ -1,0 +1,70 @@
+{
+  "id": 873689739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.819859,46.83395,-96.819859,46.83395",
+    "geom:latitude":46.83395,
+    "geom:longitude":-96.819859,
+    "iso:country":"US",
+    "sg:address":"3061 25th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 237 5451",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534467,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xi7yvmmAODsgswNOAeyH1_46.833950_-96.819859@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296266,
+    "wof:geomhash":"fbb7d6b7639a19ddd78f8cf5a99cdd26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534467,
+            "region_id":85688525,
+            "venue_id":873689739
+        }
+    ],
+    "wof:id":873689739,
+    "wof:lastmodified":1464296266,
+    "wof:name":"KFC",
+    "wof:parent_id":420534467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.819859,
+    46.83395,
+    -96.819859,
+    46.83395
+],
+  "geometry": {"coordinates":[-96.81985899999999,46.83395],"type":"Point"}
+}

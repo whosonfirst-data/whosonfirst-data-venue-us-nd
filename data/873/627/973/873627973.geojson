@@ -1,0 +1,72 @@
+{
+  "id": 873627973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.758972,46.791919,-100.758972,46.791919",
+    "geom:latitude":46.791919,
+    "geom:longitude":-100.758972,
+    "iso:country":"US",
+    "sg:address":"2031 Lee Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 224 1122",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "industrial"
+    ],
+    "sg:website":"www.riggingandtools.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2s5BpE2ce0J7RXqNUz6tnO_46.791919_-100.758972@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295340,
+    "wof:geomhash":"761a2d82d7a28a7042dbcde1e93561c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873627973
+        }
+    ],
+    "wof:id":873627973,
+    "wof:lastmodified":1464295340,
+    "wof:name":"Rigging & Tools Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [
+    -100.758972,
+    46.791919,
+    -100.758972,
+    46.791919
+],
+  "geometry": {"coordinates":[-100.758972,46.791919],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 873611137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.310217,48.210822,-101.310217,48.210822",
+    "geom:latitude":48.210822,
+    "geom:longitude":-101.310217,
+    "iso:country":"US",
+    "sg:address":"1130 20th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 857 6813",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "distribution",
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SbY3D2Sb1vANy24Ddnc74_48.210822_-101.310217@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295155,
+    "wof:geomhash":"7414f88d8fc5b45f15702d959a538410",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873611137
+        }
+    ],
+    "wof:id":873611137,
+    "wof:lastmodified":1464295155,
+    "wof:name":"Montana-Dakota Utilities Co",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distribution",
+        "company"
+    ]
+},
+  "bbox": [
+    -101.310217,
+    48.210822,
+    -101.310217,
+    48.210822
+],
+  "geometry": {"coordinates":[-101.31021699999999,48.210822],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873688193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.769365,46.827102,-100.769365,46.827102",
+    "geom:latitude":46.827102,
+    "geom:longitude":-100.769365,
+    "iso:country":"US",
+    "sg:address":"1918 N 15th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 4460",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wJSdU00rHLELOSljURcUN_46.827102_-100.769365@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296225,
+    "wof:geomhash":"4d083537dbb5280b5fd81c6a5f6fe9e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873688193
+        }
+    ],
+    "wof:id":873688193,
+    "wof:lastmodified":1464296225,
+    "wof:name":"Computer Geekes",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "related"
+    ]
+},
+  "bbox": [
+    -100.769365,
+    46.827102,
+    -100.769365,
+    46.827102
+],
+  "geometry": {"coordinates":[-100.76936499999999,46.827102],"type":"Point"}
+}

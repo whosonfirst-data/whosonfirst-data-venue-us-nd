@@ -1,0 +1,73 @@
+{
+  "id": 873635903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.186613,48.135474,-101.186613,48.135474",
+    "geom:latitude":48.135474,
+    "geom:longitude":-101.186613,
+    "iso:country":"US",
+    "sg:address":"9800 72nd St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 722 3687",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rX16g39oC9NiyO070gEAT_48.135474_-101.186613@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295431,
+    "wof:geomhash":"2d03abe2fcd71b1ae03544ff036f23d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873635903
+        }
+    ],
+    "wof:id":873635903,
+    "wof:lastmodified":1464295431,
+    "wof:name":"Peterson Electric Inc",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.186613,
+    48.135474,
+    -101.186613,
+    48.135474
+],
+  "geometry": {"coordinates":[-101.18661299999999,48.135474],"type":"Point"}
+}

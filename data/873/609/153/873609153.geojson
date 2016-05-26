@@ -1,0 +1,71 @@
+{
+  "id": 873609153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.046305,47.922323,-97.046305,47.922323",
+    "geom:latitude":47.922323,
+    "geom:longitude":-97.046305,
+    "iso:country":"US",
+    "sg:address":"1314 University Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 9858",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TmVlRcF5OJvUXuFZjt8aI_47.922323_-97.046305@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295127,
+    "wof:geomhash":"7ae660662db521e8f25e36968e236a1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873609153
+        }
+    ],
+    "wof:id":873609153,
+    "wof:lastmodified":1464295127,
+    "wof:name":"Baron's Upholstery",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -97.046305,
+    47.922323,
+    -97.046305,
+    47.922323
+],
+  "geometry": {"coordinates":[-97.046305,47.922323],"type":"Point"}
+}

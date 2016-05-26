@@ -1,0 +1,66 @@
+{
+  "id": 873599357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.297688,48.202235,-101.297688,48.202235",
+    "geom:latitude":48.202235,
+    "geom:longitude":-101.297688,
+    "iso:country":"US",
+    "sg:address":"315 31st Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 833 3778",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IxJ5wSUvqyHxOUG8BHlBz_48.202235_-101.297688@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294979,
+    "wof:geomhash":"e2ea589b308d031c46eda87f8d97d601",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873599357
+        }
+    ],
+    "wof:id":873599357,
+    "wof:lastmodified":1464294979,
+    "wof:name":"Eckel Electronics",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.297688,
+    48.202235,
+    -101.297688,
+    48.202235
+],
+  "geometry": {"coordinates":[-101.29768799999999,48.202235],"type":"Point"}
+}

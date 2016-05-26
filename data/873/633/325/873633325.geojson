@@ -1,0 +1,75 @@
+{
+  "id": 873633325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.030085,47.923757,-97.030085,47.923757",
+    "geom:latitude":47.923757,
+    "geom:longitude":-97.030085,
+    "iso:country":"US",
+    "sg:address":"11 S 4th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 0990",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "credit",
+        "debt",
+        "counseling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JMAdWa4VeEB5Y6WI4d4lA_47.923757_-97.030085@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295404,
+    "wof:geomhash":"8ad9e1fbe1f4a0c7bb00dcb9a6aa323b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873633325
+        }
+    ],
+    "wof:id":873633325,
+    "wof:lastmodified":1464295404,
+    "wof:name":"GAP Financial Svc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "credit",
+        "debt",
+        "counseling"
+    ]
+},
+  "bbox": [
+    -97.030085,
+    47.923757,
+    -97.030085,
+    47.923757
+],
+  "geometry": {"coordinates":[-97.030085,47.923757],"type":"Point"}
+}

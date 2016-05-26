@@ -1,0 +1,66 @@
+{
+  "id": 873654501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.288568,48.221945,-101.288568,48.221945",
+    "geom:latitude":48.221945,
+    "geom:longitude":-101.288568,
+    "iso:country":"US",
+    "sg:address":"225 14th Ave SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 2925",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_571vBsSw5feK5jFqz82wPF_48.221945_-101.288568@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295641,
+    "wof:geomhash":"a578b68513dace6ec23ceb7f3e93be06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873654501
+        }
+    ],
+    "wof:id":873654501,
+    "wof:lastmodified":1464295641,
+    "wof:name":"H&B Management of Minot LLP",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.288568,
+    48.221945,
+    -101.288568,
+    48.221945
+],
+  "geometry": {"coordinates":[-101.288568,48.221945],"type":"Point"}
+}

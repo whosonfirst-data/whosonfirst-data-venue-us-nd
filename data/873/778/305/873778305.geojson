@@ -1,0 +1,73 @@
+{
+  "id": 873778305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.368421,47.043231,-100.368421,47.043231",
+    "geom:latitude":47.043231,
+    "geom:longitude":-100.368421,
+    "iso:country":"US",
+    "sg:address":"21700 262nd St NE",
+    "sg:city":"Wing",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 943 2435",
+    "sg:postcode":"58494",
+    "sg:province":"ND",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1whIIvMJS7RtsrIBlx0mBb_47.043231_-100.368421@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297467,
+    "wof:geomhash":"fabef13ec3d585fa02abb388aa6fcb8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873778305
+        }
+    ],
+    "wof:id":873778305,
+    "wof:lastmodified":1464297467,
+    "wof:name":"Daryl Eckholm",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -100.368421,
+    47.043231,
+    -100.368421,
+    47.043231
+],
+  "geometry": {"coordinates":[-100.368421,47.043231],"type":"Point"}
+}

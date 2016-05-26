@@ -1,0 +1,66 @@
+{
+  "id": 873770273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.728751,48.316427,-101.728751,48.316427",
+    "geom:latitude":48.316427,
+    "geom:longitude":-101.728751,
+    "iso:country":"US",
+    "sg:address":"401 4th Ave NE",
+    "sg:city":"Berthold",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 453 3484",
+    "sg:postcode":"58718",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jmkMKr7v50nBADt2RbcrF_48.316427_-101.728751@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297369,
+    "wof:geomhash":"3f6ce3182b982cd35b1e09ee7a616f46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873770273
+        }
+    ],
+    "wof:id":873770273,
+    "wof:lastmodified":1464297369,
+    "wof:name":"Lewis & Clark School Dist 161",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.728751,
+    48.316427,
+    -101.728751,
+    48.316427
+],
+  "geometry": {"coordinates":[-101.728751,48.316427],"type":"Point"}
+}

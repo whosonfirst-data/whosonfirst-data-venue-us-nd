@@ -1,0 +1,70 @@
+{
+  "id": 873678407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.824399,46.855182,-96.824399,46.855182",
+    "geom:latitude":46.855182,
+    "geom:longitude":-96.824399,
+    "iso:country":"US",
+    "sg:address":"2743 Cobblestone Ct",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 3593",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lxBK51DBRZqPevQQvII9B_46.855182_-96.824399@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295951,
+    "wof:geomhash":"c3ab06aa0ba8bd94821c320d2b151ce7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873678407
+        }
+    ],
+    "wof:id":873678407,
+    "wof:lastmodified":1464295951,
+    "wof:name":"Davidson Insurance Agency",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.824399,
+    46.855182,
+    -96.824399,
+    46.855182
+],
+  "geometry": {"coordinates":[-96.824399,46.855182],"type":"Point"}
+}

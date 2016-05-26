@@ -1,0 +1,75 @@
+{
+  "id": 873731179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.822695,46.867683,-96.822695,46.867683",
+    "geom:latitude":46.867683,
+    "geom:longitude":-96.822695,
+    "iso:country":"US",
+    "sg:address":"2750 7th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 478 4636",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "fuel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877331,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71s3ZsB1bmRUz7VjEqIko8_46.867683_-96.822695@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296794,
+    "wof:geomhash":"3c9cf687b130f0f3e48f8184812c75e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877331,
+            "region_id":85688525,
+            "venue_id":873731179
+        }
+    ],
+    "wof:id":873731179,
+    "wof:lastmodified":1464296794,
+    "wof:name":"K & K Management",
+    "wof:parent_id":85877331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fuel"
+    ]
+},
+  "bbox": [
+    -96.822695,
+    46.867683,
+    -96.822695,
+    46.867683
+],
+  "geometry": {"coordinates":[-96.822695,46.867683],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873599817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.831329,46.864353,-96.831329,46.864353",
+    "geom:latitude":46.864353,
+    "geom:longitude":-96.831329,
+    "iso:country":"US",
+    "sg:address":"1111 Westrac Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 280 0600",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "periodical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mkq0SUm7HsLy5K9l67voU_46.864353_-96.831329@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294985,
+    "wof:geomhash":"eb293255244505104712e769c676cb32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873599817
+        }
+    ],
+    "wof:id":873599817,
+    "wof:lastmodified":1464294985,
+    "wof:name":"Area Woman Magazine",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "periodical"
+    ]
+},
+  "bbox": [
+    -96.831329,
+    46.864353,
+    -96.831329,
+    46.864353
+],
+  "geometry": {"coordinates":[-96.831329,46.864353],"type":"Point"}
+}

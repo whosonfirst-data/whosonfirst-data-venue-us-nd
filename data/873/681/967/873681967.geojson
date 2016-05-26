@@ -1,0 +1,66 @@
+{
+  "id": 873681967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.77875,46.805428,-100.77875,46.805428",
+    "geom:latitude":46.805428,
+    "geom:longitude":-100.77875,
+    "iso:country":"US",
+    "sg:address":"818 E Main Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 530 7180",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69A3zQTPmJfCrPvLzPa7n8_46.805428_-100.778750@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296052,
+    "wof:geomhash":"f2eee66f90b933ae50b609c2a64455c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873681967
+        }
+    ],
+    "wof:id":873681967,
+    "wof:lastmodified":1464296052,
+    "wof:name":"St Alexius Credit Union",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.77875,
+    46.805428,
+    -100.77875,
+    46.805428
+],
+  "geometry": {"coordinates":[-100.77875,46.805428],"type":"Point"}
+}

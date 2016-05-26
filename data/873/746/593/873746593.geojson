@@ -1,0 +1,70 @@
+{
+  "id": 873746593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.837994,46.859559,-96.837994,46.859559",
+    "geom:latitude":46.859559,
+    "geom:longitude":-96.837994,
+    "iso:country":"US",
+    "sg:address":"1401 35th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 4648",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Rr5e8sb4sZ24k6rHSAm2r_46.859559_-96.837994@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297033,
+    "wof:geomhash":"cb1848c4e7e3f59d487739ba2e42f1e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873746593
+        }
+    ],
+    "wof:id":873746593,
+    "wof:lastmodified":1464297033,
+    "wof:name":"Tharaldson Learning Ctr",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.837994,
+    46.859559,
+    -96.837994,
+    46.859559
+],
+  "geometry": {"coordinates":[-96.83799399999999,46.859559],"type":"Point"}
+}

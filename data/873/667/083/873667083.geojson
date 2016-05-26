@@ -1,0 +1,71 @@
+{
+  "id": 873667083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.786047,46.806293,-100.786047,46.806293",
+    "geom:latitude":46.806293,
+    "geom:longitude":-100.786047,
+    "iso:country":"US",
+    "sg:address":"117 N 4th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 6002",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wdg6qizB7RlA30h1ccIrm_46.806293_-100.786047@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295770,
+    "wof:geomhash":"01f8aa8abda37d10cc219c0055acdcf9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873667083
+        }
+    ],
+    "wof:id":873667083,
+    "wof:lastmodified":1464295770,
+    "wof:name":"Holiday Apartments",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -100.786047,
+    46.806293,
+    -100.786047,
+    46.806293
+],
+  "geometry": {"coordinates":[-100.786047,46.806293],"type":"Point"}
+}

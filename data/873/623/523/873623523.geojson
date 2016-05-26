@@ -1,0 +1,73 @@
+{
+  "id": 873623523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.084649,47.91037,-97.084649,47.91037",
+    "geom:latitude":47.91037,
+    "geom:longitude":-97.084649,
+    "iso:country":"US",
+    "sg:address":"1225 Russet Cir",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 3395",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "crop",
+        "harvesting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PPVqYqT8ZfnbsATxIQBzF_47.910370_-97.084649@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295291,
+    "wof:geomhash":"69c34a96d90c536715d581ccdc36385f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873623523
+        }
+    ],
+    "wof:id":873623523,
+    "wof:lastmodified":1464295291,
+    "wof:name":"Braathen Kent & Gordon",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "harvesting"
+    ]
+},
+  "bbox": [
+    -97.084649,
+    47.91037,
+    -97.084649,
+    47.91037
+],
+  "geometry": {"coordinates":[-97.084649,47.91037],"type":"Point"}
+}

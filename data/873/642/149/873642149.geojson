@@ -1,0 +1,71 @@
+{
+  "id": 873642149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.541246,46.835163,-100.541246,46.835163",
+    "geom:latitude":46.835163,
+    "geom:longitude":-100.541246,
+    "iso:country":"US",
+    "sg:address":"2810 158th St NE",
+    "sg:city":"Menoken",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 224 8215",
+    "sg:postcode":"58558",
+    "sg:province":"ND",
+    "sg:tags":[
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0guR52XolOUI4bZRmuSlFe_46.835163_-100.541246@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295501,
+    "wof:geomhash":"79659329eeaa0d2e2e810129641f47ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873642149
+        }
+    ],
+    "wof:id":873642149,
+    "wof:lastmodified":1464295501,
+    "wof:name":"A Prairie Breeze R V Park",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trailer"
+    ]
+},
+  "bbox": [
+    -100.541246,
+    46.835163,
+    -100.541246,
+    46.835163
+],
+  "geometry": {"coordinates":[-100.541246,46.835163],"type":"Point"}
+}

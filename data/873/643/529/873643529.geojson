@@ -1,0 +1,79 @@
+{
+  "id": 873643529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.784695,46.806334,-100.784695,46.806334",
+    "geom:latitude":46.806334,
+    "geom:longitude":-100.784695,
+    "iso:country":"US",
+    "sg:address":"110 N 5th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 1433",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shop",
+        "furniture",
+        "wood",
+        "store",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2N0UvaHyMzpcWISIKh9oVC_46.806334_-100.784695@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295520,
+    "wof:geomhash":"1f7e9ac827fab8d4205edfd5c28ff33f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873643529
+        }
+    ],
+    "wof:id":873643529,
+    "wof:lastmodified":1464295520,
+    "wof:name":"Country Barn Classic Design",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "furniture",
+        "wood",
+        "store",
+        "custom"
+    ]
+},
+  "bbox": [
+    -100.784695,
+    46.806334,
+    -100.784695,
+    46.806334
+],
+  "geometry": {"coordinates":[-100.784695,46.806334],"type":"Point"}
+}

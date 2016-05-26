@@ -1,0 +1,67 @@
+{
+  "id": 873785751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.780427,46.749499,-100.780427,46.749499",
+    "geom:latitude":46.749499,
+    "geom:longitude":-100.780427,
+    "iso:country":"US",
+    "sg:address":"800 Glenwood Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 221 3172",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "soybean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tqkaWBEyyl53QteMuoNYw_46.749499_-100.780427@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297564,
+    "wof:geomhash":"b9397b645c5f693798d0f954ac5f4173",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873785751
+        }
+    ],
+    "wof:id":873785751,
+    "wof:lastmodified":1464297564,
+    "wof:name":"David Shockman",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "soybean"
+    ]
+},
+  "bbox": [
+    -100.780427,
+    46.749499,
+    -100.780427,
+    46.749499
+],
+  "geometry": {"coordinates":[-100.780427,46.749499],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873783771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.910882,46.776129,-96.910882,46.776129",
+    "geom:latitude":46.776129,
+    "geom:longitude":-96.910882,
+    "iso:country":"US",
+    "sg:address":"7512 Ellis Ln",
+    "sg:city":"Horace",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 5180",
+    "sg:postcode":"58047",
+    "sg:province":"ND",
+    "sg:tags":[
+        "painting",
+        "painter",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0r7FY7sKKDw7xygPpZPpI8_46.775843_-96.910785@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464297541,
+    "wof:geomhash":"fdd2712687a2982b555561892d3f91b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873783771
+        }
+    ],
+    "wof:id":873783771,
+    "wof:lastmodified":1464297541,
+    "wof:name":"Ken Oster Painting & Decorating",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "painter",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.910882,
+    46.776129,
+    -96.910882,
+    46.776129
+],
+  "geometry": {"coordinates":[-96.910882,46.776129],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873647809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.312853,48.234146,-101.312853,48.234146",
+    "geom:latitude":48.234146,
+    "geom:longitude":-101.312853,
+    "iso:country":"US",
+    "sg:address":"208 13th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 0704",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OAJ6dY4HfyadIgwtDLNvV_48.234146_-101.312853@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295565,
+    "wof:geomhash":"05c238824e65fa1c1dc919422eddcdd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873647809
+        }
+    ],
+    "wof:id":873647809,
+    "wof:lastmodified":1464295565,
+    "wof:name":"Panasuk Drywall",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.312853,
+    48.234146,
+    -101.312853,
+    48.234146
+],
+  "geometry": {"coordinates":[-101.312853,48.234146],"type":"Point"}
+}

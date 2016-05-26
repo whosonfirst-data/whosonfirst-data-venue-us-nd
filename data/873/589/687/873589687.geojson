@@ -1,0 +1,71 @@
+{
+  "id": 873589687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.010762,46.642558,-97.010762,46.642558",
+    "geom:latitude":46.642558,
+    "geom:longitude":-97.010762,
+    "iso:country":"US",
+    "sg:address":"5313 165th Ave SE",
+    "sg:city":"Kindred",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 428 3094",
+    "sg:postcode":"58051",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fvN8c9XLhmgbAjHHDHQTb_46.642558_-97.010762@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294827,
+    "wof:geomhash":"481a7dd0558c862b07d91d7f77d345d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873589687
+        }
+    ],
+    "wof:id":873589687,
+    "wof:lastmodified":1464294827,
+    "wof:name":"St Maurices Catholic Parish",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -97.010762,
+    46.642558,
+    -97.010762,
+    46.642558
+],
+  "geometry": {"coordinates":[-97.010762,46.642558],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 873569855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.800761,46.85185,-96.800761,46.85185",
+    "geom:latitude":46.85185,
+    "geom:longitude":-96.800761,
+    "iso:country":"US",
+    "sg:address":"1330 18th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 3980",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "human"
+    ],
+    "sg:website":"www.mcprint.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534481,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Jq5lIAxyBL4d2i8rDVHiN_46.851850_-96.800761@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294608,
+    "wof:geomhash":"66def39c785aa9e464c333ef19f1d111",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534481,
+            "region_id":85688525,
+            "venue_id":873569855
+        }
+    ],
+    "wof:id":873569855,
+    "wof:lastmodified":1464294608,
+    "wof:name":"Ronald Mc Donald House",
+    "wof:parent_id":420534481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "human"
+    ]
+},
+  "bbox": [
+    -96.800761,
+    46.85185,
+    -96.800761,
+    46.85185
+],
+  "geometry": {"coordinates":[-96.80076099999999,46.85185],"type":"Point"}
+}

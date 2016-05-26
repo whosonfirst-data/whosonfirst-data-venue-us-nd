@@ -1,0 +1,79 @@
+{
+  "id": 873804941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.815552,46.816151,-96.815552,46.816151",
+    "geom:latitude":46.816151,
+    "geom:longitude":-96.815552,
+    "iso:country":"US",
+    "sg:address":"2161 Victoria Rose Dr S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 476 1939",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "vacancy",
+        "rental",
+        "listing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534467,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5joB4LEFmSdKFTkS1n7A6N_46.816151_-96.815552@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297834,
+    "wof:geomhash":"ae414ecc7a522e6a52531fdc826c60e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534467,
+            "region_id":85688525,
+            "venue_id":873804941
+        }
+    ],
+    "wof:id":873804941,
+    "wof:lastmodified":1464297834,
+    "wof:name":"Weatherhead Properties",
+    "wof:parent_id":420534467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "rental",
+        "listing"
+    ]
+},
+  "bbox": [
+    -96.815552,
+    46.816151,
+    -96.815552,
+    46.816151
+],
+  "geometry": {"coordinates":[-96.815552,46.816151],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873537533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.102638,47.923448,-97.102638,47.923448",
+    "geom:latitude":47.923448,
+    "geom:longitude":-97.102638,
+    "iso:country":"US",
+    "sg:address":"322 N 51st St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 8040",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HRTRgZFgOAVYtVBv6HGFc_47.923448_-97.102638@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294234,
+    "wof:geomhash":"04cfc2a48f43fdab77700efaf1476dbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873537533
+        }
+    ],
+    "wof:id":873537533,
+    "wof:lastmodified":1464294234,
+    "wof:name":"Vikepride Sports",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.102638,
+    47.923448,
+    -97.102638,
+    47.923448
+],
+  "geometry": {"coordinates":[-97.102638,47.923448],"type":"Point"}
+}

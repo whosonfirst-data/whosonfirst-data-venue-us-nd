@@ -1,0 +1,75 @@
+{
+  "id": 873781285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.989003,47.831758,-96.989003,47.831758",
+    "geom:latitude":47.831758,
+    "geom:longitude":-96.989003,
+    "iso:country":"US",
+    "sg:address":"736 Fall Ln",
+    "sg:city":"Thompson",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 780 8171",
+    "sg:postcode":"58278",
+    "sg:province":"ND",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SI94IKz1xzoBpHpdwtZAZ_47.831758_-96.989003@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297508,
+    "wof:geomhash":"ec2f00b8992834de036b9db6459fb4f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873781285
+        }
+    ],
+    "wof:id":873781285,
+    "wof:lastmodified":1464297508,
+    "wof:name":"DK Trucking",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.989003,
+    47.831758,
+    -96.989003,
+    47.831758
+],
+  "geometry": {"coordinates":[-96.989003,47.831758],"type":"Point"}
+}

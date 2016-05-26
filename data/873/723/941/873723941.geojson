@@ -1,0 +1,71 @@
+{
+  "id": 873723941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.288951,46.831522,-100.288951,46.831522",
+    "geom:latitude":46.831522,
+    "geom:longitude":-100.288951,
+    "iso:country":"US",
+    "sg:address":"31350 27th Ave NE",
+    "sg:city":"Sterling",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 387 4344",
+    "sg:postcode":"58572",
+    "sg:province":"ND",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KPiHZHygQaWMDQh5x2z7F_46.831522_-100.288951@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296698,
+    "wof:geomhash":"74498648bb800324966f5b16e7ca9b04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873723941
+        }
+    ],
+    "wof:id":873723941,
+    "wof:lastmodified":1464296698,
+    "wof:name":"Tops Restaurant",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -100.288951,
+    46.831522,
+    -100.288951,
+    46.831522
+],
+  "geometry": {"coordinates":[-100.288951,46.831522],"type":"Point"}
+}

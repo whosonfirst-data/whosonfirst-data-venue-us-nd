@@ -1,0 +1,66 @@
+{
+  "id": 873566309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.293112,48.235676,-101.293112,48.235676",
+    "geom:latitude":48.235676,
+    "geom:longitude":-101.293112,
+    "iso:country":"US",
+    "sg:address":"104 Main St S",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 837 5638",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lMd7L1VZHAKQxYS76QYkJ_48.235676_-101.293112@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294569,
+    "wof:geomhash":"e91b3bfdc33357bce4d66954dd37d5aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873566309
+        }
+    ],
+    "wof:id":873566309,
+    "wof:lastmodified":1464294569,
+    "wof:name":"Bernina Plus",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.293112,
+    48.235676,
+    -101.293112,
+    48.235676
+],
+  "geometry": {"coordinates":[-101.29311199999999,48.235676],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873669849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.275759,48.232697,-101.275759,48.232697",
+    "geom:latitude":48.232697,
+    "geom:longitude":-101.275759,
+    "iso:country":"US",
+    "sg:address":"1219 Burdick Expy E",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"Botanical Garden",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 857 4166",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "zoo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61WwYcr9CF3HVawLYJz70j_48.232697_-101.275759@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295800,
+    "wof:geomhash":"6147105dfc5395faac420f9138f56ae3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873669849
+        }
+    ],
+    "wof:id":873669849,
+    "wof:lastmodified":1464295800,
+    "wof:name":"Roosevelt Park Zoo Office",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "zoo"
+    ]
+},
+  "bbox": [
+    -101.275759,
+    48.232697,
+    -101.275759,
+    48.232697
+],
+  "geometry": {"coordinates":[-101.27575899999999,48.232697],"type":"Point"}
+}

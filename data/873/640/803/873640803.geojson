@@ -1,0 +1,80 @@
+{
+  "id": 873640803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.077416,47.899691,-97.077416,47.899691",
+    "geom:latitude":47.899691,
+    "geom:longitude":-97.077416,
+    "iso:country":"US",
+    "sg:address":"3383 Primrose Ct",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 314 0206",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "communication",
+        "leasing",
+        "radiotelephone"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CUSZ9z7yn3en2SGdsTwmk_47.899691_-97.077416@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295485,
+    "wof:geomhash":"dff2f1c22c544ec226e66302591a0993",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873640803
+        }
+    ],
+    "wof:id":873640803,
+    "wof:lastmodified":1464295485,
+    "wof:name":"Preferred Wireless",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication",
+        "leasing",
+        "radiotelephone"
+    ]
+},
+  "bbox": [
+    -97.077416,
+    47.899691,
+    -97.077416,
+    47.899691
+],
+  "geometry": {"coordinates":[-97.077416,47.899691],"type":"Point"}
+}

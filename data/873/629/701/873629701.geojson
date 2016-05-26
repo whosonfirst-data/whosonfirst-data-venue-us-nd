@@ -1,0 +1,73 @@
+{
+  "id": 873629701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.659396,46.800776,-100.659396,46.800776",
+    "geom:latitude":46.800776,
+    "geom:longitude":-100.659396,
+    "iso:country":"US",
+    "sg:address":"8270 4th Ave SE",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 3708",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Cf9VUOHf8x8q1iQTh4VzC_46.800776_-100.659396@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295363,
+    "wof:geomhash":"4e94d937a838bd4c02e3987141a29268",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873629701
+        }
+    ],
+    "wof:id":873629701,
+    "wof:lastmodified":1464295363,
+    "wof:name":"Personal Home Care",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -100.659396,
+    46.800776,
+    -100.659396,
+    46.800776
+],
+  "geometry": {"coordinates":[-100.659396,46.800776],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873716149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.835476,46.818442,-96.835476,46.818442",
+    "geom:latitude":46.818442,
+    "geom:longitude":-96.835476,
+    "iso:country":"US",
+    "sg:address":"3916 34th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 218 236 9522",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877333,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QHQQYo5ZLRzwhM4mqXFgD_46.818442_-96.835476@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296595,
+    "wof:geomhash":"bd877643e3aa4122e16d1c4206777921",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877333,
+            "region_id":85688525,
+            "venue_id":873716149
+        }
+    ],
+    "wof:id":873716149,
+    "wof:lastmodified":1464296595,
+    "wof:name":"B & W Carpet Cleaning",
+    "wof:parent_id":85877333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -96.835476,
+    46.818442,
+    -96.835476,
+    46.818442
+],
+  "geometry": {"coordinates":[-96.835476,46.818442],"type":"Point"}
+}

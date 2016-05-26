@@ -1,0 +1,69 @@
+{
+  "id": 873789635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.010628,46.747858,-97.010628,46.747858",
+    "geom:latitude":46.747858,
+    "geom:longitude":-97.010628,
+    "iso:country":"US",
+    "sg:address":"4590 165th Ave SE",
+    "sg:city":"Davenport",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 0726",
+    "sg:postcode":"58021",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "wheat",
+        "soybean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sMWOSMD7eSjC1LC7UYt7z_46.747858_-97.010628@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297636,
+    "wof:geomhash":"7a97a60be2d6305458365c01794b3b04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873789635
+        }
+    ],
+    "wof:id":873789635,
+    "wof:lastmodified":1464297636,
+    "wof:name":"Edward Hahn",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "wheat",
+        "soybean"
+    ]
+},
+  "bbox": [
+    -97.010628,
+    46.747858,
+    -97.010628,
+    46.747858
+],
+  "geometry": {"coordinates":[-97.010628,46.747858],"type":"Point"}
+}

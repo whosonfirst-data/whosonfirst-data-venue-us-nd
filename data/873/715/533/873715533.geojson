@@ -1,0 +1,73 @@
+{
+  "id": 873715533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.778093,46.783019,-100.778093,46.783019",
+    "geom:latitude":46.783019,
+    "geom:longitude":-100.778093,
+    "iso:country":"US",
+    "sg:address":"836 Bridgeport Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 4300",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "paging",
+        "answering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_551I1hmFCh7UOIJ2gYhUVG_46.783019_-100.778093@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296588,
+    "wof:geomhash":"93518f2604f3b4c582fee7baf1bcac7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873715533
+        }
+    ],
+    "wof:id":873715533,
+    "wof:lastmodified":1464296588,
+    "wof:name":"I'Ll Get It",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paging",
+        "answering"
+    ]
+},
+  "bbox": [
+    -100.778093,
+    46.783019,
+    -100.778093,
+    46.783019
+],
+  "geometry": {"coordinates":[-100.778093,46.783019],"type":"Point"}
+}

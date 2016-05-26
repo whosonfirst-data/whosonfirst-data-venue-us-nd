@@ -1,0 +1,73 @@
+{
+  "id": 873778989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.096327,47.931813,-97.096327,47.931813",
+    "geom:latitude":47.931813,
+    "geom:longitude":-97.096327,
+    "iso:country":"US",
+    "sg:address":"1200 N 47th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 1008",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "commodity",
+        "contract"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JM5QxdI4FLJ0iFswg0hSJ_47.931813_-97.096327@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297476,
+    "wof:geomhash":"4483276ae731c1b6197d1f49c1fd7a42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873778989
+        }
+    ],
+    "wof:id":873778989,
+    "wof:lastmodified":1464297476,
+    "wof:name":"Benson-Quinn Commodities Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commodity",
+        "contract"
+    ]
+},
+  "bbox": [
+    -97.096327,
+    47.931813,
+    -97.096327,
+    47.931813
+],
+  "geometry": {"coordinates":[-97.096327,47.931813],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873785999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.787504,48.122431,-97.787504,48.122431",
+    "geom:latitude":48.122431,
+    "geom:longitude":-97.787504,
+    "iso:country":"US",
+    "sg:address":"4440 31st Ave NE",
+    "sg:city":"Niagara",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 397 5832",
+    "sg:postcode":"58266",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "wheat",
+        "grain",
+        "cash",
+        "soybean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Y3s4JnaMxxxqp44lLUi4G_48.122431_-97.787504@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297568,
+    "wof:geomhash":"dee141bd270b2a4a76464f9cf2b71ab2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873785999
+        }
+    ],
+    "wof:id":873785999,
+    "wof:lastmodified":1464297568,
+    "wof:name":"Russell Hoverson",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "wheat",
+        "grain",
+        "cash",
+        "soybean"
+    ]
+},
+  "bbox": [
+    -97.787504,
+    48.122431,
+    -97.787504,
+    48.122431
+],
+  "geometry": {"coordinates":[-97.787504,48.122431],"type":"Point"}
+}

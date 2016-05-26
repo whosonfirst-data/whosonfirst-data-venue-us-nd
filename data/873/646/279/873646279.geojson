@@ -1,0 +1,75 @@
+{
+  "id": 873646279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.895365,46.872787,-96.895365,46.872787",
+    "geom:latitude":46.872787,
+    "geom:longitude":-96.895365,
+    "iso:country":"US",
+    "sg:address":"302 4th Ave E",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 6675",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nsTmmAlouWLihfeU69Z6R_46.872787_-96.895365@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295550,
+    "wof:geomhash":"58b4dc62bfea6f1d077e66e9f40c1da1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873646279
+        }
+    ],
+    "wof:id":873646279,
+    "wof:lastmodified":1464295550,
+    "wof:name":"Holmes Family Day Care",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -96.895365,
+    46.872787,
+    -96.895365,
+    46.872787
+],
+  "geometry": {"coordinates":[-96.895365,46.872787],"type":"Point"}
+}

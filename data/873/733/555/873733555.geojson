@@ -1,0 +1,83 @@
+{
+  "id": 873733555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.832741,46.828809,-96.832741,46.828809",
+    "geom:latitude":46.828809,
+    "geom:longitude":-96.832741,
+    "iso:country":"US",
+    "sg:address":"3402 33rd St SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 1266",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "body",
+        "glass",
+        "replacement",
+        "painting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534467,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5G6kOOrdzrXnsZHlNaD2gb_46.828809_-96.832741@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296821,
+    "wof:geomhash":"5755f6b6f7d8668971802f799ab793a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534467,
+            "region_id":85688525,
+            "venue_id":873733555
+        }
+    ],
+    "wof:id":873733555,
+    "wof:lastmodified":1464296821,
+    "wof:name":"Progressive Auto Refinishers",
+    "wof:parent_id":420534467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "glass",
+        "replacement",
+        "painting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -96.832741,
+    46.828809,
+    -96.832741,
+    46.828809
+],
+  "geometry": {"coordinates":[-96.832741,46.828809],"type":"Point"}
+}

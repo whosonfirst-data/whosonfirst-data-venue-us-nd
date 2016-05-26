@@ -1,0 +1,73 @@
+{
+  "id": 873728267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.04455,47.9023,-97.04455,47.9023",
+    "geom:latitude":47.9023,
+    "geom:longitude":-97.04455,
+    "iso:country":"US",
+    "sg:address":"1835 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 4946",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lcBlc1Ohh3rQjFiflzcby_47.902300_-97.044550@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296757,
+    "wof:geomhash":"d800f767ab615911ab9d9809f4c0dfbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873728267
+        }
+    ],
+    "wof:id":873728267,
+    "wof:lastmodified":1464296757,
+    "wof:name":"Daryl's Town & Country Phillip",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -97.04455,
+    47.9023,
+    -97.04455,
+    47.9023
+],
+  "geometry": {"coordinates":[-97.04455,47.9023],"type":"Point"}
+}

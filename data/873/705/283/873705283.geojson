@@ -1,0 +1,71 @@
+{
+  "id": 873705283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.310936,48.217679,-101.310936,48.217679",
+    "geom:latitude":48.217679,
+    "geom:longitude":-101.310936,
+    "iso:country":"US",
+    "sg:address":"1611 13th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 0036",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VmzAQ5YGJqmcMdMJYP2Rs_48.217679_-101.310936@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296460,
+    "wof:geomhash":"8e0fa302936ac32071d18e3f1f73e7a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873705283
+        }
+    ],
+    "wof:id":873705283,
+    "wof:lastmodified":1464296460,
+    "wof:name":"Haugens Family Day Care",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -101.310936,
+    48.217679,
+    -101.310936,
+    48.217679
+],
+  "geometry": {"coordinates":[-101.310936,48.217679],"type":"Point"}
+}

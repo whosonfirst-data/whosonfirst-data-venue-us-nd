@@ -1,0 +1,73 @@
+{
+  "id": 873626263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.773181,46.758505,-100.773181,46.758505",
+    "geom:latitude":46.758505,
+    "geom:longitude":-100.773181,
+    "iso:country":"US",
+    "sg:address":"1235 Yegen Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 5830",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6c2vIxnmUkkkLTmBMFNeFs_46.758505_-100.773181@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295323,
+    "wof:geomhash":"9671b34929cded1b7a41f1b334229836",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873626263
+        }
+    ],
+    "wof:id":873626263,
+    "wof:lastmodified":1464295323,
+    "wof:name":"Alliance Plumbing Co",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.773181,
+    46.758505,
+    -100.773181,
+    46.758505
+],
+  "geometry": {"coordinates":[-100.77318099999999,46.758505],"type":"Point"}
+}

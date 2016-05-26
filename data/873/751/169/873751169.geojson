@@ -1,0 +1,71 @@
+{
+  "id": 873751169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.247425,48.204799,-101.247425,48.204799",
+    "geom:latitude":48.204799,
+    "geom:longitude":-101.247425,
+    "iso:country":"US",
+    "sg:address":"3261 Co Rd 19 S",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 4705",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56FlGixkDkLrjLClD4oVEP_48.204799_-101.247425@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297090,
+    "wof:geomhash":"c035359c5afab485e5f1b82d0c2d33b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873751169
+        }
+    ],
+    "wof:id":873751169,
+    "wof:lastmodified":1464297090,
+    "wof:name":"4-U Septic Svc",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -101.247425,
+    48.204799,
+    -101.247425,
+    48.204799
+],
+  "geometry": {"coordinates":[-101.24742500000001,48.204799],"type":"Point"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 873801473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.784683,46.883991,-96.784683,46.883991",
+    "geom:latitude":46.883991,
+    "geom:longitude":-96.784683,
+    "iso:country":"US",
+    "sg:address":"717 4th St N Ste 101",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        },
+        {
+            "category":"Industrial Area",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 3260",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "development",
+        "management",
+        "broker",
+        "stock",
+        "investment",
+        "bond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534465,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_479uPDAsGJbJeoYSDVm7pK_46.883991_-96.784683@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297791,
+    "wof:geomhash":"9801cad1e1ea4e911c3e91711082d1db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534465,
+            "region_id":85688525,
+            "venue_id":873801473
+        }
+    ],
+    "wof:id":873801473,
+    "wof:lastmodified":1464297791,
+    "wof:name":"Halverson Investment Co",
+    "wof:parent_id":420534465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "management",
+        "broker",
+        "stock",
+        "investment",
+        "bond"
+    ]
+},
+  "bbox": [
+    -96.784683,
+    46.883991,
+    -96.784683,
+    46.883991
+],
+  "geometry": {"coordinates":[-96.784683,46.883991],"type":"Point"}
+}

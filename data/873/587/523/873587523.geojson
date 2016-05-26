@@ -1,0 +1,79 @@
+{
+  "id": 873587523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.830409,46.828933,-96.830409,46.828933",
+    "geom:latitude":46.828933,
+    "geom:longitude":-96.830409,
+    "iso:country":"US",
+    "sg:address":"3401 32nd St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 277 2328",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "gravel",
+        "local",
+        "except"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534467,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69bA2CBkBszlKlj20gqWrY_46.828933_-96.830409@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294802,
+    "wof:geomhash":"a8c26af2c23cb45925f91a65e9e7b070",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534467,
+            "region_id":85688525,
+            "venue_id":873587523
+        }
+    ],
+    "wof:id":873587523,
+    "wof:lastmodified":1464294802,
+    "wof:name":"Triangle Transport Inc",
+    "wof:parent_id":420534467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gravel",
+        "local",
+        "except"
+    ]
+},
+  "bbox": [
+    -96.830409,
+    46.828933,
+    -96.830409,
+    46.828933
+],
+  "geometry": {"coordinates":[-96.830409,46.828933],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 873619881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.08786,47.98672,-97.08786,47.98672",
+    "geom:latitude":47.98672,
+    "geom:longitude":-97.08786,
+    "iso:country":"US",
+    "sg:address":"2165 N 42nd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 8992",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:website":"www.homeofeconomy.biz",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kdMYE9FZIcxc7E129KZmQ_47.986720_-97.087860@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295249,
+    "wof:geomhash":"84d61c6c6872ba33a7ad725f29b0aeb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873619881
+        }
+    ],
+    "wof:id":873619881,
+    "wof:lastmodified":1464295249,
+    "wof:name":"Home Of Economy Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.08786,
+    47.98672,
+    -97.08786,
+    47.98672
+],
+  "geometry": {"coordinates":[-97.08786000000001,47.98672],"type":"Point"}
+}

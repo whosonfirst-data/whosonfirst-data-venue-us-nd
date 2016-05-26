@@ -1,0 +1,71 @@
+{
+  "id": 873672537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.391665,48.229762,-101.391665,48.229762",
+    "geom:latitude":48.229762,
+    "geom:longitude":-101.391665,
+    "iso:country":"US",
+    "sg:address":"6111 Co Rd 12 W",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 7778",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Fef8r3q4UfIRgUBagBrl5_48.229762_-101.391665@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295826,
+    "wof:geomhash":"6c09880fb0aa809bce225350c27ef757",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873672537
+        }
+    ],
+    "wof:id":873672537,
+    "wof:lastmodified":1464295826,
+    "wof:name":"Richards Luxury Limousines",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -101.391665,
+    48.229762,
+    -101.391665,
+    48.229762
+],
+  "geometry": {"coordinates":[-101.391665,48.229762],"type":"Point"}
+}

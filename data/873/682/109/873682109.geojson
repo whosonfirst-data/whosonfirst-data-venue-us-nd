@@ -1,0 +1,77 @@
+{
+  "id": 873682109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.851041,46.854307,-96.851041,46.854307",
+    "geom:latitude":46.854307,
+    "geom:longitude":-96.851041,
+    "iso:country":"US",
+    "sg:address":"1700 42nd St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 492 8900",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1e1zISWuM5LeiBPe5j34Im_46.854307_-96.851041@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296057,
+    "wof:geomhash":"64d6dcbf0ad4d8422c71d013cef07d6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873682109
+        }
+    ],
+    "wof:id":873682109,
+    "wof:lastmodified":1464296057,
+    "wof:name":"Fargo Storage",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -96.851041,
+    46.854307,
+    -96.851041,
+    46.854307
+],
+  "geometry": {"coordinates":[-96.851041,46.854307],"type":"Point"}
+}

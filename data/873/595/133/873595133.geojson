@@ -1,0 +1,73 @@
+{
+  "id": 873595133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.799486,46.801961,-100.799486,46.801961",
+    "geom:latitude":46.801961,
+    "geom:longitude":-100.799486,
+    "iso:country":"US",
+    "sg:address":"310 S Anderson St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 8404",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NO8uGUtqz7tZ9W0IFyPH1_46.801961_-100.799486@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294907,
+    "wof:geomhash":"4b769b30fcfc54e335cfc53bcb8e359a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873595133
+        }
+    ],
+    "wof:id":873595133,
+    "wof:lastmodified":1464294907,
+    "wof:name":"Classic Concrete Const LLP",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.799486,
+    46.801961,
+    -100.799486,
+    46.801961
+],
+  "geometry": {"coordinates":[-100.799486,46.801961],"type":"Point"}
+}

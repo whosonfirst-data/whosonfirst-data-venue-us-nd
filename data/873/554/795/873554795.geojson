@@ -1,0 +1,79 @@
+{
+  "id": 873554795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.775567,46.822145,-100.775567,46.822145",
+    "geom:latitude":46.822145,
+    "geom:longitude":-100.775567,
+    "iso:country":"US",
+    "sg:address":"1533 N 12th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 6077",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "control",
+        "industrial",
+        "relay"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iAAJRqSy4IrHQ3M48dYCk_46.822145_-100.775567@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294433,
+    "wof:geomhash":"7ad3379610b7217c53ed073f5a8f8896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873554795
+        }
+    ],
+    "wof:id":873554795,
+    "wof:lastmodified":1464294433,
+    "wof:name":"Simplexgrinnell",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "industrial",
+        "relay"
+    ]
+},
+  "bbox": [
+    -100.775567,
+    46.822145,
+    -100.775567,
+    46.822145
+],
+  "geometry": {"coordinates":[-100.775567,46.822145],"type":"Point"}
+}

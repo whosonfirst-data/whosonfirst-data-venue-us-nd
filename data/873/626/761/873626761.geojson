@@ -1,0 +1,71 @@
+{
+  "id": 873626761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.037524,47.875342,-97.037524,47.875342",
+    "geom:latitude":47.875342,
+    "geom:longitude":-97.037524,
+    "iso:country":"US",
+    "sg:address":"4601 Cherry St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 2784",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DYryFyj7DjmZHS0TO2ixm_47.875342_-97.037524@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295328,
+    "wof:geomhash":"e6db071ef4bb5140549b2fd643e13cc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873626761
+        }
+    ],
+    "wof:id":873626761,
+    "wof:lastmodified":1464295328,
+    "wof:name":"Optimist Park Warming House",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -97.037524,
+    47.875342,
+    -97.037524,
+    47.875342
+],
+  "geometry": {"coordinates":[-97.037524,47.875342],"type":"Point"}
+}

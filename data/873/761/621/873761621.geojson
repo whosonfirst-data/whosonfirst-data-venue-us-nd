@@ -1,0 +1,81 @@
+{
+  "id": 873761621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.826988,46.861694,-96.826988,46.861694",
+    "geom:latitude":46.861694,
+    "geom:longitude":-96.826988,
+    "iso:country":"US",
+    "sg:address":"2901 13th Ave SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 8417",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repair",
+        "vacuum",
+        "electrical",
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_343GvBQwzrKBELeyEhFAKQ_46.861694_-96.826988@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297230,
+    "wof:geomhash":"de396f3d1810fea0978480ae47802492",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873761621
+        }
+    ],
+    "wof:id":873761621,
+    "wof:lastmodified":1464297230,
+    "wof:name":"Fargo Vacuum Sales & Service",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "vacuum",
+        "electrical",
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -96.826988,
+    46.861694,
+    -96.826988,
+    46.861694
+],
+  "geometry": {"coordinates":[-96.826988,46.861694],"type":"Point"}
+}

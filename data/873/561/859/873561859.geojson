@@ -1,0 +1,77 @@
+{
+  "id": 873561859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.799671,46.889205,-96.799671,46.889205",
+    "geom:latitude":46.889205,
+    "geom:longitude":-96.799671,
+    "iso:country":"US",
+    "sg:address":"1144 College St",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 7761",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "sorority",
+        "fraternity"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877363,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xSEplkqcQ2C1ZIEHJq4QO_46.889205_-96.799671@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294519,
+    "wof:geomhash":"74d6b71b235d347bf261f968092b167c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877363,
+            "region_id":85688525,
+            "venue_id":873561859
+        }
+    ],
+    "wof:id":873561859,
+    "wof:lastmodified":1464294519,
+    "wof:name":"Farm House Fraternity",
+    "wof:parent_id":85877363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sorority",
+        "fraternity"
+    ]
+},
+  "bbox": [
+    -96.799671,
+    46.889205,
+    -96.799671,
+    46.889205
+],
+  "geometry": {"coordinates":[-96.799671,46.889205],"type":"Point"}
+}

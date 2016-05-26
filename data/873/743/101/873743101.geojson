@@ -1,0 +1,71 @@
+{
+  "id": 873743101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.494462,47.867085,-97.494462,47.867085",
+    "geom:latitude":47.867085,
+    "geom:longitude":-97.494462,
+    "iso:country":"US",
+    "sg:address":"1346 31st St NE",
+    "sg:city":"Arvilla",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 343 2431",
+    "sg:postcode":"58214",
+    "sg:province":"ND",
+    "sg:tags":[
+        "amusement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qj9UmyhpnjeRSVWyFL5Mx_47.867085_-97.494462@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296973,
+    "wof:geomhash":"e743e60882149a0b27e64a9adcb2cffe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873743101
+        }
+    ],
+    "wof:id":873743101,
+    "wof:lastmodified":1464296973,
+    "wof:name":"Fast Cat Motorsports",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "amusement"
+    ]
+},
+  "bbox": [
+    -97.494462,
+    47.867085,
+    -97.494462,
+    47.867085
+],
+  "geometry": {"coordinates":[-97.494462,47.867085],"type":"Point"}
+}

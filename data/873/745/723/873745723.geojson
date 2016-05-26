@@ -1,0 +1,66 @@
+{
+  "id": 873745723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.088189,47.926431,-97.088189,47.926431",
+    "geom:latitude":47.926431,
+    "geom:longitude":-97.088189,
+    "iso:country":"US",
+    "sg:address":"1123 N 42nd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 7285",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hx93oRb1AMBoHZ4LnBE8Y_47.926431_-97.088189@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297022,
+    "wof:geomhash":"491a44f830c5019c3a1efc1f976861e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873745723
+        }
+    ],
+    "wof:id":873745723,
+    "wof:lastmodified":1464297022,
+    "wof:name":"Nodak Mutual Insurance Company",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.088189,
+    47.926431,
+    -97.088189,
+    47.926431
+],
+  "geometry": {"coordinates":[-97.088189,47.926431],"type":"Point"}
+}

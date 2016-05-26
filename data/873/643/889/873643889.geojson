@@ -1,0 +1,73 @@
+{
+  "id": 873643889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.027307,47.920624,-97.027307,47.920624",
+    "geom:latitude":47.920624,
+    "geom:longitude":-97.027307,
+    "iso:country":"US",
+    "sg:address":"310 S 5th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 4905",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automobile",
+        "alarm"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QoXE161lrW7WETQvcYEw7_47.920624_-97.027307@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295524,
+    "wof:geomhash":"6fa11b2d448ca8febf065b94f1292c9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873643889
+        }
+    ],
+    "wof:id":873643889,
+    "wof:lastmodified":1464295524,
+    "wof:name":"Install Pro's",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "alarm"
+    ]
+},
+  "bbox": [
+    -97.027307,
+    47.920624,
+    -97.027307,
+    47.920624
+],
+  "geometry": {"coordinates":[-97.02730699999999,47.920624],"type":"Point"}
+}

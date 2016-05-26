@@ -1,0 +1,72 @@
+{
+  "id": 873718725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.111825,47.932942,-97.111825,47.932942",
+    "geom:latitude":47.932942,
+    "geom:longitude":-97.111825,
+    "iso:country":"US",
+    "sg:address":"5505 Gateway Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 3705",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "scooter"
+    ],
+    "sg:website":"www.hansencyclemarine.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gl2FXAOYi8MIxYD8XbK6A_47.932942_-97.111825@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296629,
+    "wof:geomhash":"a12d0b4d15a4d91024ba7a23c8b184ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873718725
+        }
+    ],
+    "wof:id":873718725,
+    "wof:lastmodified":1464296629,
+    "wof:name":"Hansen Cycle Marine",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter"
+    ]
+},
+  "bbox": [
+    -97.111825,
+    47.932942,
+    -97.111825,
+    47.932942
+],
+  "geometry": {"coordinates":[-97.111825,47.932942],"type":"Point"}
+}

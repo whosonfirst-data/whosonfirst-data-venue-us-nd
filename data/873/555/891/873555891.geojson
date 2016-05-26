@@ -1,0 +1,73 @@
+{
+  "id": 873555891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.045084,47.913149,-97.045084,47.913149",
+    "geom:latitude":47.913149,
+    "geom:longitude":-97.045084,
+    "iso:country":"US",
+    "sg:address":"910 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 2509",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rD0shQj2ARg4s7tf42XjO_47.913149_-97.045084@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294447,
+    "wof:geomhash":"b0f24947dd5ab2e63f0149ae82bf0d03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873555891
+        }
+    ],
+    "wof:id":873555891,
+    "wof:lastmodified":1464294447,
+    "wof:name":"Price King Rent-A-Car",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -97.045084,
+    47.913149,
+    -97.045084,
+    47.913149
+],
+  "geometry": {"coordinates":[-97.045084,47.913149],"type":"Point"}
+}

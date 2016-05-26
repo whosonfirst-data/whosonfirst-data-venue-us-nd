@@ -1,0 +1,73 @@
+{
+  "id": 873645031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.797798,46.769559,-100.797798,46.769559",
+    "geom:latitude":46.769559,
+    "geom:longitude":-100.797798,
+    "iso:country":"US",
+    "sg:address":"2981 Warwick Loop",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 3588",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4G6kF7yLHz225F7L4qo7v5_46.769559_-100.797798@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295536,
+    "wof:geomhash":"0325867461085799c4ace9e54e188227",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873645031
+        }
+    ],
+    "wof:id":873645031,
+    "wof:lastmodified":1464295536,
+    "wof:name":"C&L Apts",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -100.797798,
+    46.769559,
+    -100.797798,
+    46.769559
+],
+  "geometry": {"coordinates":[-100.797798,46.769559],"type":"Point"}
+}

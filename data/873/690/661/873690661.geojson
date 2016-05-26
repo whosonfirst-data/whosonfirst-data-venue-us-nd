@@ -1,0 +1,84 @@
+{
+  "id": 873690661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.834428,46.812992,-96.834428,46.812992",
+    "geom:latitude":46.812992,
+    "geom:longitude":-96.834428,
+    "iso:country":"US",
+    "sg:address":"3438 45th Ave SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 364 5554",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "communication",
+        "graphic",
+        "designer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877333,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3it3ODw2j5I0ZQsjUsdGHP_46.812992_-96.834428@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296290,
+    "wof:geomhash":"63f92c0763dd35a19e116b23cc37a5fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877333,
+            "region_id":85688525,
+            "venue_id":873690661
+        }
+    ],
+    "wof:id":873690661,
+    "wof:lastmodified":1464296290,
+    "wof:name":"Richter Communications",
+    "wof:parent_id":85877333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication",
+        "graphic",
+        "designer"
+    ]
+},
+  "bbox": [
+    -96.834428,
+    46.812992,
+    -96.834428,
+    46.812992
+],
+  "geometry": {"coordinates":[-96.834428,46.812992],"type":"Point"}
+}

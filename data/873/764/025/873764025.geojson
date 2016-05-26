@@ -1,0 +1,66 @@
+{
+  "id": 873764025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.027378,47.909505,-97.027378,47.909505",
+    "geom:latitude":47.909505,
+    "geom:longitude":-97.027378,
+    "iso:country":"US",
+    "sg:address":"1122 Reeves Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 3445",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1z45xxa7mT6JBm6tldgP8D_47.909505_-97.027378@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297274,
+    "wof:geomhash":"cb8003e3094d54806e4e01fac18684a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873764025
+        }
+    ],
+    "wof:id":873764025,
+    "wof:lastmodified":1464297274,
+    "wof:name":"Northern Lights Bioscan",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.027378,
+    47.909505,
+    -97.027378,
+    47.909505
+],
+  "geometry": {"coordinates":[-97.027378,47.909505],"type":"Point"}
+}

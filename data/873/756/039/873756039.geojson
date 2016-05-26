@@ -1,0 +1,71 @@
+{
+  "id": 873756039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.761229,46.826296,-100.761229,46.826296",
+    "geom:latitude":46.826296,
+    "geom:longitude":-100.761229,
+    "iso:country":"US",
+    "sg:address":"1734 N 20th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 7324",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HTUHC1XJrYHQaoxgwn64n_46.826296_-100.761229@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297157,
+    "wof:geomhash":"a5c19d57393bc1d73dff28954b32350b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873756039
+        }
+    ],
+    "wof:id":873756039,
+    "wof:lastmodified":1464297157,
+    "wof:name":"Internet Design & Consulting",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -100.761229,
+    46.826296,
+    -100.761229,
+    46.826296
+],
+  "geometry": {"coordinates":[-100.761229,46.826296],"type":"Point"}
+}

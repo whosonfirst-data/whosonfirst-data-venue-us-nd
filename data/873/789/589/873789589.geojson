@@ -1,0 +1,67 @@
+{
+  "id": 873789589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.239089,47.943582,-97.239089,47.943582",
+    "geom:latitude":47.943582,
+    "geom:longitude":-97.239089,
+    "iso:country":"US",
+    "sg:address":"1816 19th St NE",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 0726",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "wheat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RphhamnauFeDbYYOlZcOY_47.943582_-97.239089@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297635,
+    "wof:geomhash":"e60b1bbcc410b8a291967efdad2b214c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873789589
+        }
+    ],
+    "wof:id":873789589,
+    "wof:lastmodified":1464297635,
+    "wof:name":"Lund Farm",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "wheat"
+    ]
+},
+  "bbox": [
+    -97.239089,
+    47.943582,
+    -97.239089,
+    47.943582
+],
+  "geometry": {"coordinates":[-97.23908900000001,47.943582],"type":"Point"}
+}

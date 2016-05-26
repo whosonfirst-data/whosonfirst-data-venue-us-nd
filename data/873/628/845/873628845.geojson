@@ -1,0 +1,75 @@
+{
+  "id": 873628845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.066405,47.906282,-97.066405,47.906282",
+    "geom:latitude":47.906282,
+    "geom:longitude":-97.066405,
+    "iso:country":"US",
+    "sg:address":"1425 S Columbia Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 218 779 1982",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "martial",
+        "arts",
+        "instruction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ycfBtghXx5PNjx0Nwp2Tj_47.906282_-97.066405@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295348,
+    "wof:geomhash":"906afc2404fec00da2260bba3198e99e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873628845
+        }
+    ],
+    "wof:id":873628845,
+    "wof:lastmodified":1464295348,
+    "wof:name":"All American Tae KWON Do",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "martial",
+        "arts",
+        "instruction"
+    ]
+},
+  "bbox": [
+    -97.066405,
+    47.906282,
+    -97.066405,
+    47.906282
+],
+  "geometry": {"coordinates":[-97.066405,47.906282],"type":"Point"}
+}

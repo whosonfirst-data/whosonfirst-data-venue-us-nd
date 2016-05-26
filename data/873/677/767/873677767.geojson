@@ -1,0 +1,67 @@
+{
+  "id": 873677767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.044784,47.922319,-97.044784,47.922319",
+    "geom:latitude":47.922319,
+    "geom:longitude":-97.044784,
+    "iso:country":"US",
+    "sg:address":"1220 University Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 8859",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:website":"www.valleydairy.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xXphvgdhogfVSSWhUwPsA_47.922319_-97.044784@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295930,
+    "wof:geomhash":"92d7c4bb7d33a9811507ae3009a3594b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873677767
+        }
+    ],
+    "wof:id":873677767,
+    "wof:lastmodified":1464295930,
+    "wof:name":"Valley Dairy",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.044784,
+    47.922319,
+    -97.044784,
+    47.922319
+],
+  "geometry": {"coordinates":[-97.04478400000001,47.922319],"type":"Point"}
+}

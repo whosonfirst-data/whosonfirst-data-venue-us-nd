@@ -1,0 +1,72 @@
+{
+  "id": 873605761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.757334,46.807011,-100.757334,46.807011",
+    "geom:latitude":46.807011,
+    "geom:longitude":-100.757334,
+    "iso:country":"US",
+    "sg:address":"216 N 23rd St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 4970",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "printer"
+    ],
+    "sg:website":"www.olsonpress.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EgW58C2sO40qWcBy1aC5K_46.807011_-100.757334@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295055,
+    "wof:geomhash":"70f302c9a0da953797c06013ee929bbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873605761
+        }
+    ],
+    "wof:id":873605761,
+    "wof:lastmodified":1464295055,
+    "wof:name":"Olson Press",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -100.757334,
+    46.807011,
+    -100.757334,
+    46.807011
+],
+  "geometry": {"coordinates":[-100.757334,46.807011],"type":"Point"}
+}

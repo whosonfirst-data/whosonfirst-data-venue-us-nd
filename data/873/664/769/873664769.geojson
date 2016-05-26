@@ -1,0 +1,71 @@
+{
+  "id": 873664769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.315605,48.234343,-101.315605,48.234343",
+    "geom:latitude":48.234343,
+    "geom:longitude":-101.315605,
+    "iso:country":"US",
+    "sg:address":"1500 2nd Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 9979",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HNa8hwQDKHQBeoN0eaRD8_48.234343_-101.315605@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295747,
+    "wof:geomhash":"2e093e557af9ce977b7cf36a6bbaa2ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873664769
+        }
+    ],
+    "wof:id":873664769,
+    "wof:lastmodified":1464295747,
+    "wof:name":"Eagles Wings Comm Fellowship",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -101.315605,
+    48.234343,
+    -101.315605,
+    48.234343
+],
+  "geometry": {"coordinates":[-101.31560500000001,48.234343],"type":"Point"}
+}

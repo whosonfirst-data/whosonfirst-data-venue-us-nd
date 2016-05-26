@@ -1,0 +1,75 @@
+{
+  "id": 873648433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.222572,48.200081,-101.222572,48.200081",
+    "geom:latitude":48.200081,
+    "geom:longitude":-101.222572,
+    "iso:country":"US",
+    "sg:address":"4850 33rd Ave SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 3801",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "group",
+        "live",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60zs7j5WgZBE35RculnEZU_48.200081_-101.222572@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295571,
+    "wof:geomhash":"49875108f76e989ffcd5b39d0a3f648b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873648433
+        }
+    ],
+    "wof:id":873648433,
+    "wof:lastmodified":1464295571,
+    "wof:name":"Magic City Music Factory",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "group",
+        "live",
+        "music"
+    ]
+},
+  "bbox": [
+    -101.222572,
+    48.200081,
+    -101.222572,
+    48.200081
+],
+  "geometry": {"coordinates":[-101.222572,48.200081],"type":"Point"}
+}

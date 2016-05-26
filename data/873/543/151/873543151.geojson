@@ -1,0 +1,56 @@
+{
+  "id": 873543151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-102.045608,46.90215,-102.045608,46.90215",
+    "geom:latitude":46.90215,
+    "geom:longitude":-102.045608,
+    "iso:country":"US",
+    "sg:address":"620 Washington Ave",
+    "sg:city":"Hebron",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 000 1111",
+    "sg:postcode":"58638",
+    "sg:province":"ND",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nDoqj07pQxnTmmeAdcejT_46.902150_-102.045608@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294292,
+    "wof:geomhash":"0b82b5a0f4e8b75d67067b18aa377c46",
+    "wof:hierarchy":[],
+    "wof:id":873543151,
+    "wof:lastmodified":1464294292,
+    "wof:name":"Hebron Ambulance",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -102.045608,
+    46.90215,
+    -102.045608,
+    46.90215
+],
+  "geometry": {"coordinates":[-102.045608,46.90215],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873660311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.673642,46.939396,-100.673642,46.939396",
+    "geom:latitude":46.939396,
+    "geom:longitude":-100.673642,
+    "iso:country":"US",
+    "sg:address":"7500 123rd Ave NE",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 673 3350",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2j09fRGVlBOYiUENkd9LSr_46.939396_-100.673642@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295701,
+    "wof:geomhash":"a75158ebf7109de72d13ffebec97846c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873660311
+        }
+    ],
+    "wof:id":873660311,
+    "wof:lastmodified":1464295701,
+    "wof:name":"Bailey Crane Service & Spc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "industrial"
+    ]
+},
+  "bbox": [
+    -100.673642,
+    46.939396,
+    -100.673642,
+    46.939396
+],
+  "geometry": {"coordinates":[-100.673642,46.939396],"type":"Point"}
+}

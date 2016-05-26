@@ -1,0 +1,73 @@
+{
+  "id": 873640221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.053753,47.916316,-97.053753,47.916316",
+    "geom:latitude":47.916316,
+    "geom:longitude":-97.053753,
+    "iso:country":"US",
+    "sg:address":"1901 Demers Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 7248",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "picture",
+        "frame"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dxegOuFnpQXW4ok6J4k0S_47.916316_-97.053753@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295475,
+    "wof:geomhash":"6556c74135858fde340dce442a76cb18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873640221
+        }
+    ],
+    "wof:id":873640221,
+    "wof:lastmodified":1464295475,
+    "wof:name":"Forks Frame Up",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "picture",
+        "frame"
+    ]
+},
+  "bbox": [
+    -97.053753,
+    47.916316,
+    -97.053753,
+    47.916316
+],
+  "geometry": {"coordinates":[-97.053753,47.916316],"type":"Point"}
+}

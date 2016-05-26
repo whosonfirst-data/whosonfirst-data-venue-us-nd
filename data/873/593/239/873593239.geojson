@@ -1,0 +1,75 @@
+{
+  "id": 873593239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.750455,46.813919,-100.750455,46.813919",
+    "geom:latitude":46.813919,
+    "geom:longitude":-100.750455,
+    "iso:country":"US",
+    "sg:address":"826 N 27th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 7953",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dZLTKDO9mNICA5CpPjKKW_46.813919_-100.750455@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294871,
+    "wof:geomhash":"879b1802eb4d767dad1e88f89cb0959c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873593239
+        }
+    ],
+    "wof:id":873593239,
+    "wof:lastmodified":1464294871,
+    "wof:name":"H & F Trucking",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -100.750455,
+    46.813919,
+    -100.750455,
+    46.813919
+],
+  "geometry": {"coordinates":[-100.750455,46.813919],"type":"Point"}
+}

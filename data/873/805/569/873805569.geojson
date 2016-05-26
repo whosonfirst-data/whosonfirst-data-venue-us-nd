@@ -1,0 +1,85 @@
+{
+  "id": 873805569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.173607,48.077696,-97.173607,48.077696",
+    "geom:latitude":48.077696,
+    "geom:longitude":-97.173607,
+    "iso:country":"US",
+    "sg:address":"305 3rd St",
+    "sg:city":"Manvel",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 696 2503",
+    "sg:postcode":"58256",
+    "sg:province":"ND",
+    "sg:tags":[
+        "bulk",
+        "petroleum-bottled",
+        "gas-liquefied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00u8kwSnt35SirKvKT8DUN_48.077696_-97.173607@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297845,
+    "wof:geomhash":"14f644ac0ebf526448f221814efc3484",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873805569
+        }
+    ],
+    "wof:id":873805569,
+    "wof:lastmodified":1464297845,
+    "wof:name":"Town Mart",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulk",
+        "petroleum-bottled",
+        "gas-liquefied"
+    ]
+},
+  "bbox": [
+    -97.173607,
+    48.077696,
+    -97.173607,
+    48.077696
+],
+  "geometry": {"coordinates":[-97.173607,48.077696],"type":"Point"}
+}

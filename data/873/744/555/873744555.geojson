@@ -1,0 +1,71 @@
+{
+  "id": 873744555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.284427,48.238391,-101.284427,48.238391",
+    "geom:latitude":48.238391,
+    "geom:longitude":-101.284427,
+    "iso:country":"US",
+    "sg:address":"100 6th St NE",
+    "sg:city":"Portal",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 926 2011",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OcMGjwdepsisSLEoRdJmU_48.238391_-101.284427@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297003,
+    "wof:geomhash":"0f848ee7ac3873dca41f0a4ea60595c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873744555
+        }
+    ],
+    "wof:id":873744555,
+    "wof:lastmodified":1464297003,
+    "wof:name":"Portal Inspection Svc",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -101.284427,
+    48.238391,
+    -101.284427,
+    48.238391
+],
+  "geometry": {"coordinates":[-101.28442699999999,48.238391],"type":"Point"}
+}

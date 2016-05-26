@@ -1,0 +1,73 @@
+{
+  "id": 873750713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.090629,47.928772,-97.090629,47.928772",
+    "geom:latitude":47.928772,
+    "geom:longitude":-97.090629,
+    "iso:country":"US",
+    "sg:address":"925 N 43rd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 0597",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DKjU41Jbe58SJJf9Cky4C_47.928772_-97.090629@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297083,
+    "wof:geomhash":"11225afed425babc5daeb754be052b67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873750713
+        }
+    ],
+    "wof:id":873750713,
+    "wof:lastmodified":1464297083,
+    "wof:name":"Skyline Village Apartments",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -97.090629,
+    47.928772,
+    -97.090629,
+    47.928772
+],
+  "geometry": {"coordinates":[-97.09062900000001,47.928772],"type":"Point"}
+}

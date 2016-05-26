@@ -1,0 +1,70 @@
+{
+  "id": 873571697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.831948,46.861426,-96.831948,46.861426",
+    "geom:latitude":46.861426,
+    "geom:longitude":-96.831948,
+    "iso:country":"US",
+    "sg:address":"3232 13th Ave SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 280 3000",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4L20NI2lxNce3h6LppmLxX_46.861426_-96.831948@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294628,
+    "wof:geomhash":"323d12bb2994306b32d0869aa2364333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873571697
+        }
+    ],
+    "wof:id":873571697,
+    "wof:lastmodified":1464294628,
+    "wof:name":"Pearle Vision Center",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.831948,
+    46.861426,
+    -96.831948,
+    46.861426
+],
+  "geometry": {"coordinates":[-96.831948,46.861426],"type":"Point"}
+}

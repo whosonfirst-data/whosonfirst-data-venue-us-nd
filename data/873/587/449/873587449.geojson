@@ -1,0 +1,77 @@
+{
+  "id": 873587449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.819402,46.861409,-96.819402,46.861409",
+    "geom:latitude":46.861409,
+    "geom:longitude":-96.819402,
+    "iso:country":"US",
+    "sg:address":"1326 25th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 3611",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877331,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3745jIaWAoEXzfmpDDYbOm_46.861409_-96.819402@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294802,
+    "wof:geomhash":"7efae1f2ce5d09d17045322469b6b9ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877331,
+            "region_id":85688525,
+            "venue_id":873587449
+        }
+    ],
+    "wof:id":873587449,
+    "wof:lastmodified":1464294802,
+    "wof:name":"West Coast Beauty Supply Co",
+    "wof:parent_id":85877331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "establishment"
+    ]
+},
+  "bbox": [
+    -96.819402,
+    46.861409,
+    -96.819402,
+    46.861409
+],
+  "geometry": {"coordinates":[-96.819402,46.861409],"type":"Point"}
+}

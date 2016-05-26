@@ -1,0 +1,66 @@
+{
+  "id": 873747673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.773369,46.792617,-100.773369,46.792617",
+    "geom:latitude":46.792617,
+    "geom:longitude":-100.773369,
+    "iso:country":"US",
+    "sg:address":"1135 S 12th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 8410",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0p2RdhuwQ6RHh05r5Cjyey_46.792617_-100.773369@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297046,
+    "wof:geomhash":"600900f26d61f6f8f2c9bbf6a64b20de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873747673
+        }
+    ],
+    "wof:id":873747673,
+    "wof:lastmodified":1464297046,
+    "wof:name":"American Family Insurance",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.773369,
+    46.792617,
+    -100.773369,
+    46.792617
+],
+  "geometry": {"coordinates":[-100.773369,46.792617],"type":"Point"}
+}

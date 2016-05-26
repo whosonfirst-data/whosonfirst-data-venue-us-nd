@@ -1,0 +1,77 @@
+{
+  "id": 873707097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.052634,47.915478,-97.052634,47.915478",
+    "geom:latitude":47.915478,
+    "geom:longitude":-97.052634,
+    "iso:country":"US",
+    "sg:address":"612 S 18th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 6236",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "installs",
+        "repair",
+        "telephone",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71XsSFpeKl7TOaBNOOzrhW_47.915478_-97.052634@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296484,
+    "wof:geomhash":"0782980f7cc09a47c0813601fe352b3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873707097
+        }
+    ],
+    "wof:id":873707097,
+    "wof:lastmodified":1464296484,
+    "wof:name":"Comeau Communications Systems",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installs",
+        "repair",
+        "telephone",
+        "system"
+    ]
+},
+  "bbox": [
+    -97.052634,
+    47.915478,
+    -97.052634,
+    47.915478
+],
+  "geometry": {"coordinates":[-97.052634,47.915478],"type":"Point"}
+}

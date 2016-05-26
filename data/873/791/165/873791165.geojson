@@ -1,0 +1,69 @@
+{
+  "id": 873791165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.523426,47.986293,-101.523426,47.986293",
+    "geom:latitude":47.986293,
+    "geom:longitude":-101.523426,
+    "iso:country":"US",
+    "sg:address":"14901 247th Ave SW",
+    "sg:city":"Douglas",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 722 3353",
+    "sg:postcode":"58735",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "grain",
+        "cash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qderf1rC5rsM4ZrHhaZKL_47.986293_-101.523426@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297655,
+    "wof:geomhash":"330bc07f55fd1386dace9699071f86e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873791165
+        }
+    ],
+    "wof:id":873791165,
+    "wof:lastmodified":1464297655,
+    "wof:name":"Roen Farms Inc",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "grain",
+        "cash"
+    ]
+},
+  "bbox": [
+    -101.523426,
+    47.986293,
+    -101.523426,
+    47.986293
+],
+  "geometry": {"coordinates":[-101.523426,47.986293],"type":"Point"}
+}

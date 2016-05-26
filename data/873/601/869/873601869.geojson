@@ -1,0 +1,66 @@
+{
+  "id": 873601869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.763566,46.8063,-100.763566,46.8063",
+    "geom:latitude":46.8063,
+    "geom:longitude":-100.763566,
+    "iso:country":"US",
+    "sg:address":"1820 E Broadway Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 3715",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21TzJTRLc2LDweodFusivV_46.806300_-100.763566@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295007,
+    "wof:geomhash":"7b4e147801a087bb0ba5a55873beee82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873601869
+        }
+    ],
+    "wof:id":873601869,
+    "wof:lastmodified":1464295007,
+    "wof:name":"Brach Johnson Agency",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.763566,
+    46.8063,
+    -100.763566,
+    46.8063
+],
+  "geometry": {"coordinates":[-100.763566,46.8063],"type":"Point"}
+}

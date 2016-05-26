@@ -1,0 +1,76 @@
+{
+  "id": 873801071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.787352,46.910051,-96.787352,46.910051",
+    "geom:latitude":46.910051,
+    "geom:longitude":-96.787352,
+    "iso:country":"US",
+    "sg:address":"2525 Broadway N Apt 4",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 7870",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "apartment"
+    ],
+    "sg:website":"http://www.casscountynd.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877353,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yaQqEz1jWCn1VJOjL5aeB_46.910051_-96.787352@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297785,
+    "wof:geomhash":"e1b52bd51b41b543e8cfaba0c22a216e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877353,
+            "region_id":85688525,
+            "venue_id":873801071
+        }
+    ],
+    "wof:id":873801071,
+    "wof:lastmodified":1464297785,
+    "wof:name":"Fargo Housing Authority",
+    "wof:parent_id":85877353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.787352,
+    46.910051,
+    -96.787352,
+    46.910051
+],
+  "geometry": {"coordinates":[-96.787352,46.910051],"type":"Point"}
+}

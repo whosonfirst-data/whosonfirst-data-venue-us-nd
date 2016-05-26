@@ -1,0 +1,74 @@
+{
+  "id": 873562829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.520758,46.772315,-100.520758,46.772315",
+    "geom:latitude":46.772315,
+    "geom:longitude":-100.520758,
+    "iso:country":"US",
+    "sg:address":"2801 171st St SE",
+    "sg:city":"Menoken",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 673 3375",
+    "sg:postcode":"58558",
+    "sg:province":"ND",
+    "sg:tags":[
+        "assembly",
+        "fabricating"
+    ],
+    "sg:website":"www.theinforcer.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zLrptyWP2PVeTp5x8LpVn_46.772315_-100.520758@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294530,
+    "wof:geomhash":"25616e75bd6a92b03963ee3bd154743b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873562829
+        }
+    ],
+    "wof:id":873562829,
+    "wof:lastmodified":1464294530,
+    "wof:name":"Schmitcke & Schmitcke",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "assembly",
+        "fabricating"
+    ]
+},
+  "bbox": [
+    -100.520758,
+    46.772315,
+    -100.520758,
+    46.772315
+],
+  "geometry": {"coordinates":[-100.520758,46.772315],"type":"Point"}
+}

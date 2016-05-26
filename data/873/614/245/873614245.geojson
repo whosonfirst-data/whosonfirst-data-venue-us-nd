@@ -1,0 +1,66 @@
+{
+  "id": 873614245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.270959,48.235581,-101.270959,48.235581",
+    "geom:latitude":48.235581,
+    "geom:longitude":-101.270959,
+    "iso:country":"US",
+    "sg:address":"11 15th St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Labor Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 0168",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Q0dXw0KUwLelCVKKAu7U8_48.235581_-101.270959@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295188,
+    "wof:geomhash":"10840214bdb171f28b681c49628a1f1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873614245
+        }
+    ],
+    "wof:id":873614245,
+    "wof:lastmodified":1464295188,
+    "wof:name":"Local 2 North Dakota",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.270959,
+    48.235581,
+    -101.270959,
+    48.235581
+],
+  "geometry": {"coordinates":[-101.270959,48.235581],"type":"Point"}
+}

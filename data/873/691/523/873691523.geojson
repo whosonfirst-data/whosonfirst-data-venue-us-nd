@@ -1,0 +1,75 @@
+{
+  "id": 873691523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.295211,48.23994,-101.295211,48.23994",
+    "geom:latitude":48.23994,
+    "geom:longitude":-101.295211,
+    "iso:country":"US",
+    "sg:address":"111 4th Ave NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 7398",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kRwX2GKosO1rSYzWFczCy_48.239940_-101.295211@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296310,
+    "wof:geomhash":"c282098965371d3a7ff127461f32be31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873691523
+        }
+    ],
+    "wof:id":873691523,
+    "wof:lastmodified":1464296310,
+    "wof:name":"Dales Hardwood Floor Refinish",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.295211,
+    48.23994,
+    -101.295211,
+    48.23994
+],
+  "geometry": {"coordinates":[-101.29521099999999,48.23994],"type":"Point"}
+}

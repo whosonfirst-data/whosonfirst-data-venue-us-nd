@@ -1,0 +1,77 @@
+{
+  "id": 873741131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.782994,46.813877,-100.782994,46.813877",
+    "geom:latitude":46.813877,
+    "geom:longitude":-100.782994,
+    "iso:country":"US",
+    "sg:address":"810 N 6th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 6100",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XrmwB6ZWT0Vk12d5F14uU_46.813877_-100.782994@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296939,
+    "wof:geomhash":"8c14b9672b30b0827cfeffa1a693feea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873741131
+        }
+    ],
+    "wof:id":873741131,
+    "wof:lastmodified":1464296939,
+    "wof:name":"Bismark Cancer Ctr",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -100.782994,
+    46.813877,
+    -100.782994,
+    46.813877
+],
+  "geometry": {"coordinates":[-100.782994,46.813877],"type":"Point"}
+}

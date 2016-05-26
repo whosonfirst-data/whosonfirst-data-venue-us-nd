@@ -1,0 +1,75 @@
+{
+  "id": 873679903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.804757,46.823082,-96.804757,46.823082",
+    "geom:latitude":46.823082,
+    "geom:longitude":-96.804757,
+    "iso:country":"US",
+    "sg:address":"3743 15th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 237 9130",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534487,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2L7J64b2XUkwunFuiD5DqL_46.823082_-96.804757@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295993,
+    "wof:geomhash":"3a6012e9126f23b9869c3dcaf19ab52e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534487,
+            "region_id":85688525,
+            "venue_id":873679903
+        }
+    ],
+    "wof:id":873679903,
+    "wof:lastmodified":1464295993,
+    "wof:name":"Star Masonry",
+    "wof:parent_id":420534487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.804757,
+    46.823082,
+    -96.804757,
+    46.823082
+],
+  "geometry": {"coordinates":[-96.804757,46.823082],"type":"Point"}
+}

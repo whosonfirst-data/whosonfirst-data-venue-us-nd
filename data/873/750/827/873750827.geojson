@@ -1,0 +1,72 @@
+{
+  "id": 873750827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.771465,46.784283,-100.771465,46.784283",
+    "geom:latitude":46.784283,
+    "geom:longitude":-100.771465,
+    "iso:country":"US",
+    "sg:address":"1412 Basin Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 6507",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "engineer"
+    ],
+    "sg:website":"www.ulteig.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67Zo4mxu8rraB7jasbXvlP_46.784283_-100.771465@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297086,
+    "wof:geomhash":"e626e5678f0811a452e7f515ea8590d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873750827
+        }
+    ],
+    "wof:id":873750827,
+    "wof:lastmodified":1464297086,
+    "wof:name":"Ulteig Engineers Inc",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -100.771465,
+    46.784283,
+    -100.771465,
+    46.784283
+],
+  "geometry": {"coordinates":[-100.77146500000001,46.784283],"type":"Point"}
+}

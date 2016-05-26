@@ -1,0 +1,73 @@
+{
+  "id": 873645689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.78467,46.807309,-100.78467,46.807309",
+    "geom:latitude":46.807309,
+    "geom:longitude":-100.78467,
+    "iso:country":"US",
+    "sg:address":"220 N 5th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 9502",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "paging",
+        "answering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3376JPnMqQGZxow1ra7ynP_46.807309_-100.784670@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295543,
+    "wof:geomhash":"31bfce1f8dad4712f8d0e85027230f5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873645689
+        }
+    ],
+    "wof:id":873645689,
+    "wof:lastmodified":1464295543,
+    "wof:name":"Qwest Services Corp",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paging",
+        "answering"
+    ]
+},
+  "bbox": [
+    -100.78467,
+    46.807309,
+    -100.78467,
+    46.807309
+],
+  "geometry": {"coordinates":[-100.78467000000001,46.807309],"type":"Point"}
+}

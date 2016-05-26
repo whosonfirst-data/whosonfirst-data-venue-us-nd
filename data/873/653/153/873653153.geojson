@@ -1,0 +1,84 @@
+{
+  "id": 873653153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.762869,46.801716,-100.762869,46.801716",
+    "geom:latitude":46.801716,
+    "geom:longitude":-100.762869,
+    "iso:country":"US",
+    "sg:address":"416 Airport Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 224 1710",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "plate",
+        "window",
+        "replacement",
+        "glass",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JfHgqdgX0k4aZwjERublV_46.801716_-100.762869@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295626,
+    "wof:geomhash":"4c5fd57d12e1b141c4e85ae0ac3366e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873653153
+        }
+    ],
+    "wof:id":873653153,
+    "wof:lastmodified":1464295626,
+    "wof:name":"Jake's Auto Glass Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plate",
+        "window",
+        "replacement",
+        "glass",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.762869,
+    46.801716,
+    -100.762869,
+    46.801716
+],
+  "geometry": {"coordinates":[-100.76286899999999,46.801716],"type":"Point"}
+}

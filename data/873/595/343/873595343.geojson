@@ -1,0 +1,66 @@
+{
+  "id": 873595343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.0666,47.927454,-97.0666,47.927454",
+    "geom:latitude":47.927454,
+    "geom:longitude":-97.0666,
+    "iso:country":"US",
+    "sg:address":"612 N Columbia Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 6330",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05Fr6QREN6q2tkdjSacqoK_47.927454_-97.066600@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294912,
+    "wof:geomhash":"7b81c12a83388cba13e98f25ec6a2fff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873595343
+        }
+    ],
+    "wof:id":873595343,
+    "wof:lastmodified":1464294912,
+    "wof:name":"Michael Frisch",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.0666,
+    47.927454,
+    -97.0666,
+    47.927454
+],
+  "geometry": {"coordinates":[-97.06659999999999,47.927454],"type":"Point"}
+}

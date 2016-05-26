@@ -1,0 +1,74 @@
+{
+  "id": 873797911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.730692,46.811138,-100.730692,46.811138",
+    "geom:latitude":46.811138,
+    "geom:longitude":-100.730692,
+    "iso:country":"US",
+    "sg:address":"3801 E Rosser Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/bismarck/129674-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 9303",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pvjfrB5LNzHEewIJcps23_46.811138_-100.730692@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297749,
+    "wof:geomhash":"04291de481aeb929162d0658d1152fba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873797911
+        }
+    ],
+    "wof:id":873797911,
+    "wof:lastmodified":1464297749,
+    "wof:name":"Subway",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -100.730692,
+    46.811138,
+    -100.730692,
+    46.811138
+],
+  "geometry": {"coordinates":[-100.730692,46.811138],"type":"Point"}
+}

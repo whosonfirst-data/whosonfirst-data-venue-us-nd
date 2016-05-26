@@ -1,0 +1,79 @@
+{
+  "id": 873759189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.301836,48.210813,-101.301836,48.210813",
+    "geom:latitude":48.210813,
+    "geom:longitude":-101.301836,
+    "iso:country":"US",
+    "sg:address":"700 20th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 7566",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "construction",
+        "fastener",
+        "industrial",
+        "suppl",
+        "threaded"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wDqGmx35zGstwRynZu8Cf_48.210813_-101.301836@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297197,
+    "wof:geomhash":"f75db47c3af4d82c490b41ed6a2e18da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873759189
+        }
+    ],
+    "wof:id":873759189,
+    "wof:lastmodified":1464297197,
+    "wof:name":"Fastenal Company",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "construction",
+        "fastener",
+        "industrial",
+        "suppl",
+        "threaded"
+    ]
+},
+  "bbox": [
+    -101.301836,
+    48.210813,
+    -101.301836,
+    48.210813
+],
+  "geometry": {"coordinates":[-101.30183599999999,48.210813],"type":"Point"}
+}

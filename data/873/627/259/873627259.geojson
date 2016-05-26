@@ -1,0 +1,71 @@
+{
+  "id": 873627259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.052498,47.913322,-97.052498,47.913322",
+    "geom:latitude":47.913322,
+    "geom:longitude":-97.052498,
+    "iso:country":"US",
+    "sg:address":"803 S 18th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 8952",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "refrigeration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AcCTsz7fEOiq4owbBtWXD_47.913322_-97.052498@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295332,
+    "wof:geomhash":"a6b55bd66d63c3501c5c13ccb2981835",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873627259
+        }
+    ],
+    "wof:id":873627259,
+    "wof:lastmodified":1464295332,
+    "wof:name":"Bartas Refrigeration",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration"
+    ]
+},
+  "bbox": [
+    -97.052498,
+    47.913322,
+    -97.052498,
+    47.913322
+],
+  "geometry": {"coordinates":[-97.052498,47.913322],"type":"Point"}
+}

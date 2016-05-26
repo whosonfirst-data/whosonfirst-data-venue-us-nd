@@ -1,0 +1,66 @@
+{
+  "id": 873618979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.066381,47.909504,-97.066381,47.909504",
+    "geom:latitude":47.909504,
+    "geom:longitude":-97.066381,
+    "iso:country":"US",
+    "sg:address":"1133 S Columbia Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 5312",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pVz44rlnABGLJsXluc1zx_47.909504_-97.066381@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295240,
+    "wof:geomhash":"69c356318a522858a771e9d7f47ef373",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873618979
+        }
+    ],
+    "wof:id":873618979,
+    "wof:lastmodified":1464295240,
+    "wof:name":"Dietrich Realty & Auction Co",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.066381,
+    47.909504,
+    -97.066381,
+    47.909504
+],
+  "geometry": {"coordinates":[-97.06638100000001,47.909504],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 873745023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.895889,46.874831,-96.895889,46.874831",
+    "geom:latitude":46.874831,
+    "geom:longitude":-96.895889,
+    "iso:country":"US",
+    "sg:address":"109 3rd St E",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 356 2115",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QtboeaMFkWclRvGyulRHT_46.874831_-96.895889@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297011,
+    "wof:geomhash":"0c9ba26cc99de515437ce0799480dcab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873745023
+        }
+    ],
+    "wof:id":873745023,
+    "wof:lastmodified":1464297011,
+    "wof:name":"Early Childhood Special Edctn",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.895889,
+    46.874831,
+    -96.895889,
+    46.874831
+],
+  "geometry": {"coordinates":[-96.895889,46.874831],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873715857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.290197,48.232573,-101.290197,48.232573",
+    "geom:latitude":48.232573,
+    "geom:longitude":-101.290197,
+    "iso:country":"US",
+    "sg:address":"120 Burdick Expy E",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 3937",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ciC6b4U3zY0PS9un2nvDx_48.232573_-101.290197@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296591,
+    "wof:geomhash":"7a8bc68d55f46937fb1127d55ec22375",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873715857
+        }
+    ],
+    "wof:id":873715857,
+    "wof:lastmodified":1464296591,
+    "wof:name":"Trinity Regional Eye Care",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.290197,
+    48.232573,
+    -101.290197,
+    48.232573
+],
+  "geometry": {"coordinates":[-101.29019700000001,48.232573],"type":"Point"}
+}

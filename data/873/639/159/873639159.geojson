@@ -1,0 +1,66 @@
+{
+  "id": 873639159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.325307,48.206388,-101.325307,48.206388",
+    "geom:latitude":48.206388,
+    "geom:longitude":-101.325307,
+    "iso:country":"US",
+    "sg:address":"2509 Brookside Dr SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 9171",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PH9pNUWMOFKdkmpXz1Thv_48.206388_-101.325307@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295465,
+    "wof:geomhash":"38acc49db2746ea7e9b9725ca98e3483",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873639159
+        }
+    ],
+    "wof:id":873639159,
+    "wof:lastmodified":1464295465,
+    "wof:name":"Prairie Bells Grotto Holy Fmly",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.325307,
+    48.206388,
+    -101.325307,
+    48.206388
+],
+  "geometry": {"coordinates":[-101.325307,48.206388],"type":"Point"}
+}

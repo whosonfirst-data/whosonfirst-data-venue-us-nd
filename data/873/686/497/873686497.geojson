@@ -1,0 +1,75 @@
+{
+  "id": 873686497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.731288,46.816784,-100.731288,46.816784",
+    "geom:latitude":46.816784,
+    "geom:longitude":-100.731288,
+    "iso:country":"US",
+    "sg:address":"970 Industrial Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 9244",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "fire",
+        "restoration",
+        "damage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cLnptJ35EAOSRqdwgf4B3_46.816784_-100.731288@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296180,
+    "wof:geomhash":"7acd0a8d000f426ba33ec207d034c965",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873686497
+        }
+    ],
+    "wof:id":873686497,
+    "wof:lastmodified":1464296180,
+    "wof:name":"Smokemasters",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "restoration",
+        "damage"
+    ]
+},
+  "bbox": [
+    -100.731288,
+    46.816784,
+    -100.731288,
+    46.816784
+],
+  "geometry": {"coordinates":[-100.73128800000001,46.816784],"type":"Point"}
+}

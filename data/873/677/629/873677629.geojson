@@ -1,0 +1,74 @@
+{
+  "id": 873677629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.290488,48.204907,-101.290488,48.204907",
+    "geom:latitude":48.204907,
+    "geom:longitude":-101.290488,
+    "iso:country":"US",
+    "sg:address":"2815 2nd St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 3401",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "sg:website":"www.coughlininc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3u82zLhlreAOxeNPMN4Pug_48.204907_-101.290488@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295926,
+    "wof:geomhash":"1581198b3ff865924d57c03f80a6886c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873677629
+        }
+    ],
+    "wof:id":873677629,
+    "wof:lastmodified":1464295926,
+    "wof:name":"Coughlin Construction Co",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.290488,
+    48.204907,
+    -101.290488,
+    48.204907
+],
+  "geometry": {"coordinates":[-101.290488,48.204907],"type":"Point"}
+}

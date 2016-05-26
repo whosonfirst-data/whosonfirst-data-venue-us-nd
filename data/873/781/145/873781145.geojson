@@ -1,0 +1,71 @@
+{
+  "id": 873781145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.775543,46.802028,-100.775543,46.802028",
+    "geom:latitude":46.802028,
+    "geom:longitude":-100.775543,
+    "iso:country":"US",
+    "sg:address":"303 S 11th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 250 0678",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hspktzZoGaYlLLzpDQ7oT_46.802028_-100.775543@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297506,
+    "wof:geomhash":"35fe5b1a1281a4a277f4c53bd0216ebf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873781145
+        }
+    ],
+    "wof:id":873781145,
+    "wof:lastmodified":1464297506,
+    "wof:name":"Dankos Contracting",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -100.775543,
+    46.802028,
+    -100.775543,
+    46.802028
+],
+  "geometry": {"coordinates":[-100.775543,46.802028],"type":"Point"}
+}

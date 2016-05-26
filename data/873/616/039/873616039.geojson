@@ -1,0 +1,77 @@
+{
+  "id": 873616039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.784513,46.894855,-96.784513,46.894855",
+    "geom:latitude":46.894855,
+    "geom:longitude":-96.784513,
+    "iso:country":"US",
+    "sg:address":"1313 4th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 9595",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534483,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fq45cCf2t64wkVIaIy5cZ_46.894855_-96.784513@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295205,
+    "wof:geomhash":"cd6691a1320558b246d95a7661af90e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534483,
+            "region_id":85688525,
+            "venue_id":873616039
+        }
+    ],
+    "wof:id":873616039,
+    "wof:lastmodified":1464295205,
+    "wof:name":"Jean Bye Ltd",
+    "wof:parent_id":420534483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -96.784513,
+    46.894855,
+    -96.784513,
+    46.894855
+],
+  "geometry": {"coordinates":[-96.784513,46.894855],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873796533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.405643,48.023201,-101.405643,48.023201",
+    "geom:latitude":48.023201,
+    "geom:longitude":-101.405643,
+    "iso:country":"US",
+    "sg:address":"9400 205th Ave SW",
+    "sg:city":"Douglas",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 722 3244",
+    "sg:postcode":"58735",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "grain",
+        "cash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YTGD1FweYPZBMB681uLMH_48.023201_-101.405643@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297732,
+    "wof:geomhash":"030fb47396c45bd07eada7d47bf65c2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873796533
+        }
+    ],
+    "wof:id":873796533,
+    "wof:lastmodified":1464297732,
+    "wof:name":"Gary Sys",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "grain",
+        "cash"
+    ]
+},
+  "bbox": [
+    -101.405643,
+    48.023201,
+    -101.405643,
+    48.023201
+],
+  "geometry": {"coordinates":[-101.405643,48.023201],"type":"Point"}
+}

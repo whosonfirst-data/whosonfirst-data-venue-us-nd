@@ -1,0 +1,76 @@
+{
+  "id": 873760765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.796653,46.889568,-96.796653,46.889568",
+    "geom:latitude":46.889568,
+    "geom:longitude":-96.796653,
+    "iso:country":"US",
+    "sg:address":"1145 12th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 237 6745",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "sg:website":"www.sigmanu.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877363,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4B4VmCerHdofd3AhnGVhnP_46.889568_-96.796653@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297217,
+    "wof:geomhash":"d672c6c8a59b947774dd8b9cc58f3716",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877363,
+            "region_id":85688525,
+            "venue_id":873760765
+        }
+    ],
+    "wof:id":873760765,
+    "wof:lastmodified":1464297217,
+    "wof:name":"Sigma Nu Fraternity",
+    "wof:parent_id":85877363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -96.796653,
+    46.889568,
+    -96.796653,
+    46.889568
+],
+  "geometry": {"coordinates":[-96.79665300000001,46.889568],"type":"Point"}
+}

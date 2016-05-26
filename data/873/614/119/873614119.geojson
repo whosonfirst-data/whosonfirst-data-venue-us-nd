@@ -1,0 +1,71 @@
+{
+  "id": 873614119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.431184,48.280863,-101.431184,48.280863",
+    "geom:latitude":48.280863,
+    "geom:longitude":-101.431184,
+    "iso:country":"US",
+    "sg:address":"402 Parkway Dr",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 4967",
+    "sg:postcode":"58722",
+    "sg:province":"ND",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tlWCsv0VshdbaC2XXfap8_48.280863_-101.431184@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295186,
+    "wof:geomhash":"7db2021b1bfbd64a8a1be45e2c2bd198",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873614119
+        }
+    ],
+    "wof:id":873614119,
+    "wof:lastmodified":1464295186,
+    "wof:name":"Burlington Electric",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -101.431184,
+    48.280863,
+    -101.431184,
+    48.280863
+],
+  "geometry": {"coordinates":[-101.431184,48.280863],"type":"Point"}
+}

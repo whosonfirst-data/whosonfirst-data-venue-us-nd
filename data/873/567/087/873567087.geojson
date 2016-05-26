@@ -1,0 +1,71 @@
+{
+  "id": 873567087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.049574,47.899516,-97.049574,47.899516",
+    "geom:latitude":47.899516,
+    "geom:longitude":-97.049574,
+    "iso:country":"US",
+    "sg:address":"2211 Library Ln",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 1421",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ssMdRUUrsf5nodo9O5oW9_47.899516_-97.049574@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294576,
+    "wof:geomhash":"70c82077134feb37e8abca04ec0efc66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873567087
+        }
+    ],
+    "wof:id":873567087,
+    "wof:lastmodified":1464294576,
+    "wof:name":"Casino Express",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -97.049574,
+    47.899516,
+    -97.049574,
+    47.899516
+],
+  "geometry": {"coordinates":[-97.04957400000001,47.899516],"type":"Point"}
+}

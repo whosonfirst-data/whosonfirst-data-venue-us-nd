@@ -1,0 +1,75 @@
+{
+  "id": 873731743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.831922,46.801561,-96.831922,46.801561",
+    "geom:latitude":46.801561,
+    "geom:longitude":-96.831922,
+    "iso:country":"US",
+    "sg:address":"3221 54th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 280 1987",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "sharpening"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877333,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TQPgzqRo8ggFyZLg0Vr3D_46.801561_-96.831922@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296801,
+    "wof:geomhash":"21899367b9cf51f68c0aacd65e56290e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877333,
+            "region_id":85688525,
+            "venue_id":873731743
+        }
+    ],
+    "wof:id":873731743,
+    "wof:lastmodified":1464296801,
+    "wof:name":"Frontier Profiles",
+    "wof:parent_id":85877333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sharpening"
+    ]
+},
+  "bbox": [
+    -96.831922,
+    46.801561,
+    -96.831922,
+    46.801561
+],
+  "geometry": {"coordinates":[-96.83192200000001,46.801561],"type":"Point"}
+}

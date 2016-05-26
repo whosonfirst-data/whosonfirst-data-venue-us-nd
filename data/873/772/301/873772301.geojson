@@ -1,0 +1,70 @@
+{
+  "id": 873772301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.846972,46.852611,-96.846972,46.852611",
+    "geom:latitude":46.852611,
+    "geom:longitude":-96.846972,
+    "iso:country":"US",
+    "sg:address":"1760 40th St SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 9738",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ApzKp0KGgFi2heRcVEyG2_46.852611_-96.846972@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297393,
+    "wof:geomhash":"f10d5ba17097c44aa190ce8be541c33e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873772301
+        }
+    ],
+    "wof:id":873772301,
+    "wof:lastmodified":1464297393,
+    "wof:name":"Asp Consulting LLC",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.846972,
+    46.852611,
+    -96.846972,
+    46.852611
+],
+  "geometry": {"coordinates":[-96.84697199999999,46.852611],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873639023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.223836,47.773589,-97.223836,47.773589",
+    "geom:latitude":47.773589,
+    "geom:longitude":-97.223836,
+    "iso:country":"US",
+    "sg:address":"1831 7th Ave NE",
+    "sg:city":"Thompson",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 599 2102",
+    "sg:postcode":"58278",
+    "sg:province":"ND",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ef5o35AdNY6kUWSM0GmEI_47.773589_-97.223836@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295464,
+    "wof:geomhash":"560133e84d4d731d997371178bddaf35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873639023
+        }
+    ],
+    "wof:id":873639023,
+    "wof:lastmodified":1464295464,
+    "wof:name":"Liebswager Trucking Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -97.223836,
+    47.773589,
+    -97.223836,
+    47.773589
+],
+  "geometry": {"coordinates":[-97.22383600000001,47.773589],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873665869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.054556,47.894297,-97.054556,47.894297",
+    "geom:latitude":47.894297,
+    "geom:longitude":-97.054556,
+    "iso:country":"US",
+    "sg:address":"2645 S 19th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 6033",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "commercial",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ASBjG5eRGhZQY2hpOxP9I_47.894297_-97.054556@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295759,
+    "wof:geomhash":"480cb92f60ba039e3b029ef11d4011ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873665869
+        }
+    ],
+    "wof:id":873665869,
+    "wof:lastmodified":1464295759,
+    "wof:name":"Integrated Environmental Svc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "physical"
+    ]
+},
+  "bbox": [
+    -97.054556,
+    47.894297,
+    -97.054556,
+    47.894297
+],
+  "geometry": {"coordinates":[-97.05455600000001,47.894297],"type":"Point"}
+}

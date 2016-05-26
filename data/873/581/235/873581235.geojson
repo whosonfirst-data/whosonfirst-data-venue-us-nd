@@ -1,0 +1,72 @@
+{
+  "id": 873581235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.299159,48.233228,-101.299159,48.233228",
+    "geom:latitude":48.233228,
+    "geom:longitude":-101.299159,
+    "iso:country":"US",
+    "sg:address":"420 3rd Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 857 4136",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "parks"
+    ],
+    "sg:website":"www.minotparkdistrict.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GRNpucqXGgqUi1AvkK2OK_48.233228_-101.299159@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294735,
+    "wof:geomhash":"43d0c3b0cf71c7ee7c4e37dea9700daf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873581235
+        }
+    ],
+    "wof:id":873581235,
+    "wof:lastmodified":1464294735,
+    "wof:name":"Minot Park District",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -101.299159,
+    48.233228,
+    -101.299159,
+    48.233228
+],
+  "geometry": {"coordinates":[-101.299159,48.233228],"type":"Point"}
+}

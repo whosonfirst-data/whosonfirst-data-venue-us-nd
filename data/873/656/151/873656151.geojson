@@ -1,0 +1,73 @@
+{
+  "id": 873656151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.097764,47.928236,-97.097764,47.928236",
+    "geom:latitude":47.928236,
+    "geom:longitude":-97.097764,
+    "iso:country":"US",
+    "sg:address":"4808 Silver Gate Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 218 791 1264",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_406xfzV1fcSKJRsaiyoH3j_47.928236_-97.097764@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295658,
+    "wof:geomhash":"d40ff9a00ec879daff488eeaadc04348",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873656151
+        }
+    ],
+    "wof:id":873656151,
+    "wof:lastmodified":1464295658,
+    "wof:name":"Hoffarts Painting",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.097764,
+    47.928236,
+    -97.097764,
+    47.928236
+],
+  "geometry": {"coordinates":[-97.097764,47.928236],"type":"Point"}
+}

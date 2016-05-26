@@ -1,0 +1,71 @@
+{
+  "id": 873755429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.701839,46.809118,-100.701839,46.809118",
+    "geom:latitude":46.809118,
+    "geom:longitude":-100.701839,
+    "iso:country":"US",
+    "sg:address":"5700 E Main Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 4334",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HXj46xgGpI3JuBwBCp76A_46.809118_-100.701839@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297150,
+    "wof:geomhash":"37ab15e0b9851189485beeff7c251c00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873755429
+        }
+    ],
+    "wof:id":873755429,
+    "wof:lastmodified":1464297150,
+    "wof:name":"Hillcrest Acres Campground",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trailer"
+    ]
+},
+  "bbox": [
+    -100.701839,
+    46.809118,
+    -100.701839,
+    46.809118
+],
+  "geometry": {"coordinates":[-100.70183900000001,46.809118],"type":"Point"}
+}

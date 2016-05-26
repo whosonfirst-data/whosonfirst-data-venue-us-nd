@@ -1,0 +1,73 @@
+{
+  "id": 873600307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.289924,48.235089,-101.289924,48.235089",
+    "geom:latitude":48.235089,
+    "geom:longitude":-101.289924,
+    "iso:country":"US",
+    "sg:address":"215 2nd St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 857 4410",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "educational",
+        "administrative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57xITMnB6PnKYY6NUPJQMg_48.235089_-101.289924@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294990,
+    "wof:geomhash":"24d9ed625282c58d908d275799fa458a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873600307
+        }
+    ],
+    "wof:id":873600307,
+    "wof:lastmodified":1464294990,
+    "wof:name":"Souris Valley Special Ed Unit",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational",
+        "administrative"
+    ]
+},
+  "bbox": [
+    -101.289924,
+    48.235089,
+    -101.289924,
+    48.235089
+],
+  "geometry": {"coordinates":[-101.289924,48.235089],"type":"Point"}
+}

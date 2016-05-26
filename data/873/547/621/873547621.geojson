@@ -1,0 +1,66 @@
+{
+  "id": 873547621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.035845,47.891183,-97.035845,47.891183",
+    "geom:latitude":47.891183,
+    "geom:longitude":-97.035845,
+    "iso:country":"US",
+    "sg:address":"3117 Cherry St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 7641",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ObqHWVYtzWApIKqtqgPkV_47.891183_-97.035845@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294347,
+    "wof:geomhash":"3e92e53872351e3ba34189462049bd02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873547621
+        }
+    ],
+    "wof:id":873547621,
+    "wof:lastmodified":1464294347,
+    "wof:name":"Blind Devotion",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.035845,
+    47.891183,
+    -97.035845,
+    47.891183
+],
+  "geometry": {"coordinates":[-97.03584499999999,47.891183],"type":"Point"}
+}

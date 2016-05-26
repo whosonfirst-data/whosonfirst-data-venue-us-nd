@@ -1,0 +1,66 @@
+{
+  "id": 873664811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.615064,46.821231,-100.615064,46.821231",
+    "geom:latitude":46.821231,
+    "geom:longitude":-100.615064,
+    "iso:country":"US",
+    "sg:address":"1500 112th St NE",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 2791",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4P1U2C0cnktxO6kAMtz5cq_46.821231_-100.615064@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295748,
+    "wof:geomhash":"c753aa550aeab552fe0b9b4cafb78fda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873664811
+        }
+    ],
+    "wof:id":873664811,
+    "wof:lastmodified":1464295748,
+    "wof:name":"Apple Creek Kennel",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.615064,
+    46.821231,
+    -100.615064,
+    46.821231
+],
+  "geometry": {"coordinates":[-100.615064,46.821231],"type":"Point"}
+}

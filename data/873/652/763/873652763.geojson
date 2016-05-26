@@ -1,0 +1,73 @@
+{
+  "id": 873652763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.038699,47.918472,-97.038699,47.918472",
+    "geom:latitude":47.918472,
+    "geom:longitude":-97.038699,
+    "iso:country":"US",
+    "sg:address":"832 4th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 6300",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "processing",
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IVq9XKUwlEyDBXrCQhY9x_47.918472_-97.038699@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295622,
+    "wof:geomhash":"ce34236849793671e9ad8acc8d5e9bef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873652763
+        }
+    ],
+    "wof:id":873652763,
+    "wof:lastmodified":1464295622,
+    "wof:name":"La Grave Learning Center",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "processing",
+        "datum"
+    ]
+},
+  "bbox": [
+    -97.038699,
+    47.918472,
+    -97.038699,
+    47.918472
+],
+  "geometry": {"coordinates":[-97.03869899999999,47.918472],"type":"Point"}
+}

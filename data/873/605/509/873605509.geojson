@@ -1,0 +1,71 @@
+{
+  "id": 873605509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.337166,48.23605,-101.337166,48.23605",
+    "geom:latitude":48.23605,
+    "geom:longitude":-101.337166,
+    "iso:country":"US",
+    "sg:address":"10 30th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 833 7711",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "lubricant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1e4s89gaIwVuWyZWfekJS9_48.236050_-101.337166@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295048,
+    "wof:geomhash":"dae4ada38985a097ea08cf85fc2a6a81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873605509
+        }
+    ],
+    "wof:id":873605509,
+    "wof:lastmodified":1464295048,
+    "wof:name":"Amsoil Synthetic Lubricants",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lubricant"
+    ]
+},
+  "bbox": [
+    -101.337166,
+    48.23605,
+    -101.337166,
+    48.23605
+],
+  "geometry": {"coordinates":[-101.337166,48.23605],"type":"Point"}
+}

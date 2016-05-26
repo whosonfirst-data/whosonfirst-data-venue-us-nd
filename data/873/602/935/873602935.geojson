@@ -1,0 +1,66 @@
+{
+  "id": 873602935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.76774,46.819931,-100.76774,46.819931",
+    "geom:latitude":46.819931,
+    "geom:longitude":-100.76774,
+    "iso:country":"US",
+    "sg:address":"1317 N 16th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 471 4712",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22MVUbTNTNXjdSgMsH6qlb_46.819931_-100.767740@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295018,
+    "wof:geomhash":"6c5d6ba94d797ca3ec4d9099a7e50ac4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873602935
+        }
+    ],
+    "wof:id":873602935,
+    "wof:lastmodified":1464295018,
+    "wof:name":"Doodlyboop Vintage",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.76774,
+    46.819931,
+    -100.76774,
+    46.819931
+],
+  "geometry": {"coordinates":[-100.76774,46.819931],"type":"Point"}
+}

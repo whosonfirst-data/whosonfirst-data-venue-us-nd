@@ -1,0 +1,66 @@
+{
+  "id": 873698881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.732557,46.702238,-100.732557,46.702238",
+    "geom:latitude":46.702238,
+    "geom:longitude":-100.732557,
+    "iso:country":"US",
+    "sg:address":"9350 Desert Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 6319",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ipT7J4rJlhOnbbU73oaQ9_46.702238_-100.732557@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296392,
+    "wof:geomhash":"6ba79564cc3e6fc79cda57a0ba7af8c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873698881
+        }
+    ],
+    "wof:id":873698881,
+    "wof:lastmodified":1464296392,
+    "wof:name":"Lazy T Diamond Ranch",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.732557,
+    46.702238,
+    -100.732557,
+    46.702238
+],
+  "geometry": {"coordinates":[-100.732557,46.702238],"type":"Point"}
+}

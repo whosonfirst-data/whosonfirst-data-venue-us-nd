@@ -1,0 +1,75 @@
+{
+  "id": 873776221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.401904,48.25401,-101.401904,48.25401",
+    "geom:latitude":48.25401,
+    "geom:longitude":-101.401904,
+    "iso:country":"US",
+    "sg:address":"1900 72nd St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 4673",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HJQUfOVBoQhOq8hreALgK_48.254010_-101.401904@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297440,
+    "wof:geomhash":"90c4a47e90ee61e930e522dd713c6812",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873776221
+        }
+    ],
+    "wof:id":873776221,
+    "wof:lastmodified":1464297440,
+    "wof:name":"American Carpet Cleaning",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -101.401904,
+    48.25401,
+    -101.401904,
+    48.25401
+],
+  "geometry": {"coordinates":[-101.401904,48.25401],"type":"Point"}
+}

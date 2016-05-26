@@ -1,0 +1,63 @@
+{
+  "id": 873764873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.522764,48.475249,-97.522764,48.475249",
+    "geom:latitude":48.475249,
+    "geom:longitude":-97.522764,
+    "iso:country":"US",
+    "sg:address":"211 Nash Pl",
+    "sg:city":"Grafton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 352 2131",
+    "sg:postcode":"58237",
+    "sg:province":"ND",
+    "sg:tags":[
+        "grain",
+        "elevator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79caIDGy5fHKQ4DANZuDqD_48.475249_-97.522764@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297293,
+    "wof:geomhash":"c053085596da68490235b93e55fc7676",
+    "wof:hierarchy":[],
+    "wof:id":873764873,
+    "wof:lastmodified":1464297293,
+    "wof:name":"Nash Grain & Trading Co Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grain",
+        "elevator"
+    ]
+},
+  "bbox": [
+    -97.522764,
+    48.475249,
+    -97.522764,
+    48.475249
+],
+  "geometry": {"coordinates":[-97.522764,48.475249],"type":"Point"}
+}

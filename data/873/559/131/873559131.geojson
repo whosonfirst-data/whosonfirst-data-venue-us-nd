@@ -1,0 +1,73 @@
+{
+  "id": 873559131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.769434,46.806281,-100.769434,46.806281",
+    "geom:latitude":46.806281,
+    "geom:longitude":-100.769434,
+    "iso:country":"US",
+    "sg:address":"1400 E Broadway Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 8122",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eBjpihXZGYUuyqd4mJ3jf_46.806281_-100.769434@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294490,
+    "wof:geomhash":"e4e9aebf8a0a59af8a1649619dcebad4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873559131
+        }
+    ],
+    "wof:id":873559131,
+    "wof:lastmodified":1464294490,
+    "wof:name":"M Welch & Sons Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.769434,
+    46.806281,
+    -100.769434,
+    46.806281
+],
+  "geometry": {"coordinates":[-100.769434,46.806281],"type":"Point"}
+}

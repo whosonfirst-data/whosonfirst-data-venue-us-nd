@@ -1,0 +1,73 @@
+{
+  "id": 873560455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.040397,47.899755,-97.040397,47.899755",
+    "geom:latitude":47.899755,
+    "geom:longitude":-97.040397,
+    "iso:country":"US",
+    "sg:address":"2003 S 10th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 9892",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "downspouts",
+        "gutter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73EfknmIbFg21dQHzi4YNk_47.899755_-97.040397@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294505,
+    "wof:geomhash":"f648c70a56f273fb6f3ec0d047b36be2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873560455
+        }
+    ],
+    "wof:id":873560455,
+    "wof:lastmodified":1464294505,
+    "wof:name":"Precision Seamless Gutters",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "downspouts",
+        "gutter"
+    ]
+},
+  "bbox": [
+    -97.040397,
+    47.899755,
+    -97.040397,
+    47.899755
+],
+  "geometry": {"coordinates":[-97.040397,47.899755],"type":"Point"}
+}

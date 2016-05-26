@@ -1,0 +1,94 @@
+{
+  "id": 873802987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.801429,46.87294,-96.801429,46.87294",
+    "geom:latitude":46.87294,
+    "geom:longitude":-96.801429,
+    "iso:country":"US",
+    "sg:address":"1412 2nd Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 540 5601",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "picture",
+        "frame",
+        "galleries",
+        "framing",
+        "consultant"
+    ],
+    "sg:website":"http://www.TopnotchFrame.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Dy9EUkysewGEkPHD8wYeC_46.872940_-96.801429@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297809,
+    "wof:geomhash":"d34fa79ee6d91358f1cac5773c5b4d7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873802987
+        }
+    ],
+    "wof:id":873802987,
+    "wof:lastmodified":1464297809,
+    "wof:name":"The Framer",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "picture",
+        "frame",
+        "galleries",
+        "framing",
+        "consultant"
+    ]
+},
+  "bbox": [
+    -96.801429,
+    46.87294,
+    -96.801429,
+    46.87294
+],
+  "geometry": {"coordinates":[-96.801429,46.87294],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873537195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.834939,46.819206,-96.834939,46.819206",
+    "geom:latitude":46.819206,
+    "geom:longitude":-96.834939,
+    "iso:country":"US",
+    "sg:address":"3439 39th Ave SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 271 0466",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877333,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TyBoulBjsL54Hzf8lb0r3_46.819206_-96.834939@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294230,
+    "wof:geomhash":"88674684140d19f193d8854af17fc88d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877333,
+            "region_id":85688525,
+            "venue_id":873537195
+        }
+    ],
+    "wof:id":873537195,
+    "wof:lastmodified":1464294230,
+    "wof:name":"Sperle Masonry",
+    "wof:parent_id":85877333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.834939,
+    46.819206,
+    -96.834939,
+    46.819206
+],
+  "geometry": {"coordinates":[-96.83493900000001,46.819206],"type":"Point"}
+}

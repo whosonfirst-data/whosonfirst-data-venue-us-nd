@@ -1,0 +1,76 @@
+{
+  "id": 873802263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.823173,46.835732,-96.823173,46.835732",
+    "geom:latitude":46.835732,
+    "geom:longitude":-96.823173,
+    "iso:country":"US",
+    "sg:address":"2702 30th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 4476",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"http://www.bethelfc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534467,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3S2MMyDc69Dr0ruwfnpWoI_46.835732_-96.823173@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297801,
+    "wof:geomhash":"b672b7c235c26209bc6a4575782809e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534467,
+            "region_id":85688525,
+            "venue_id":873802263
+        }
+    ],
+    "wof:id":873802263,
+    "wof:lastmodified":1464297801,
+    "wof:name":"Bethel Evangelical Free Church",
+    "wof:parent_id":420534467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -96.823173,
+    46.835732,
+    -96.823173,
+    46.835732
+],
+  "geometry": {"coordinates":[-96.823173,46.835732],"type":"Point"}
+}

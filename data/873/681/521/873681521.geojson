@@ -1,0 +1,66 @@
+{
+  "id": 873681521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.758578,46.805062,-100.758578,46.805062",
+    "geom:latitude":46.805062,
+    "geom:longitude":-100.758578,
+    "iso:country":"US",
+    "sg:address":"2207 E Main Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 0760",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DNHEesNn7w3T5dLKZD4gX_46.805062_-100.758578@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296038,
+    "wof:geomhash":"9c20f6e53dfb5be8da2b5bd8d2e7be4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873681521
+        }
+    ],
+    "wof:id":873681521,
+    "wof:lastmodified":1464296038,
+    "wof:name":"Franklin Life",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.758578,
+    46.805062,
+    -100.758578,
+    46.805062
+],
+  "geometry": {"coordinates":[-100.758578,46.805062],"type":"Point"}
+}

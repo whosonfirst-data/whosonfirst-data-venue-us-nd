@@ -1,0 +1,75 @@
+{
+  "id": 873676661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.741635,46.808719,-100.741635,46.808719",
+    "geom:latitude":46.808719,
+    "geom:longitude":-100.741635,
+    "iso:country":"US",
+    "sg:address":"3230 E Thayer Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 2655",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "administrative",
+        "program",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14wlSQOiJKOMJCL9B6oRyB_46.808719_-100.741635@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295904,
+    "wof:geomhash":"0cc60c906d5e083f9c012d188ec16872",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873676661
+        }
+    ],
+    "wof:id":873676661,
+    "wof:lastmodified":1464295904,
+    "wof:name":"ACS Staff",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "administrative",
+        "program",
+        "health"
+    ]
+},
+  "bbox": [
+    -100.741635,
+    46.808719,
+    -100.741635,
+    46.808719
+],
+  "geometry": {"coordinates":[-100.741635,46.808719],"type":"Point"}
+}

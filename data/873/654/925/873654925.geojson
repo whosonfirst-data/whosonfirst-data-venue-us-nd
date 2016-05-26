@@ -1,0 +1,71 @@
+{
+  "id": 873654925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.619304,47.910052,-97.619304,47.910052",
+    "geom:latitude":47.910052,
+    "geom:longitude":-97.619304,
+    "iso:country":"US",
+    "sg:address":"608 Franklin Ave",
+    "sg:city":"Larimore",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 343 6341",
+    "sg:postcode":"58251",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vYQqbqTFJlOiBXpDZdgTO_47.910052_-97.619304@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295645,
+    "wof:geomhash":"f59466b3d88ac3237d96ab8afb11d675",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873654925
+        }
+    ],
+    "wof:id":873654925,
+    "wof:lastmodified":1464295645,
+    "wof:name":"New Testament Baptist Church",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -97.619304,
+    47.910052,
+    -97.619304,
+    47.910052
+],
+  "geometry": {"coordinates":[-97.619304,47.910052],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873769381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.765145,46.798358,-100.765145,46.798358",
+    "geom:latitude":46.798358,
+    "geom:longitude":-100.765145,
+    "iso:country":"US",
+    "sg:address":"1721 Michigan Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 8790",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "product",
+        "oil",
+        "petroleum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0z0muSZG0GrJcrmMkaxAvT_46.798358_-100.765145@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297354,
+    "wof:geomhash":"fe2f6b3e9ffe548d53692c0276edaaaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873769381
+        }
+    ],
+    "wof:id":873769381,
+    "wof:lastmodified":1464297354,
+    "wof:name":"A & I Distributors",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "oil",
+        "petroleum"
+    ]
+},
+  "bbox": [
+    -100.765145,
+    46.798358,
+    -100.765145,
+    46.798358
+],
+  "geometry": {"coordinates":[-100.765145,46.798358],"type":"Point"}
+}

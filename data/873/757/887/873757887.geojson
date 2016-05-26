@@ -1,0 +1,75 @@
+{
+  "id": 873757887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.326957,48.240092,-101.326957,48.240092",
+    "geom:latitude":48.240092,
+    "geom:longitude":-101.326957,
+    "iso:country":"US",
+    "sg:address":"2200 4th Ave NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 3192",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automobile",
+        "top",
+        "upholstery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dtpl9I3TqUomjLNY8hCEH_48.240092_-101.326957@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297180,
+    "wof:geomhash":"3c5373e3d72f4d4e64d75c6035aa1cc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873757887
+        }
+    ],
+    "wof:id":873757887,
+    "wof:lastmodified":1464297180,
+    "wof:name":"D Price Upholstery",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "top",
+        "upholstery"
+    ]
+},
+  "bbox": [
+    -101.326957,
+    48.240092,
+    -101.326957,
+    48.240092
+],
+  "geometry": {"coordinates":[-101.32695699999999,48.240092],"type":"Point"}
+}

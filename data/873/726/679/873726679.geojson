@@ -1,0 +1,73 @@
+{
+  "id": 873726679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.546388,47.862444,-101.546388,47.862444",
+    "geom:latitude":47.862444,
+    "geom:longitude":-101.546388,
+    "iso:country":"US",
+    "sg:address":"16300 359th Ave SW",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 529 4421",
+    "sg:postcode":"58735",
+    "sg:province":"ND",
+    "sg:tags":[
+        "seed",
+        "pea"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aOVcA2pqHtaK18uTN33el_47.862444_-101.546388@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296736,
+    "wof:geomhash":"28ddc16f534dcb8d06304cb4f58940b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873726679
+        }
+    ],
+    "wof:id":873726679,
+    "wof:lastmodified":1464296736,
+    "wof:name":"Seeds & Conditioning",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seed",
+        "pea"
+    ]
+},
+  "bbox": [
+    -101.546388,
+    47.862444,
+    -101.546388,
+    47.862444
+],
+  "geometry": {"coordinates":[-101.54638799999999,47.862444],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873574813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.090058,47.924782,-97.090058,47.924782",
+    "geom:latitude":47.924782,
+    "geom:longitude":-97.090058,
+    "iso:country":"US",
+    "sg:address":"4220 5th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 1920",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "contractor",
+        "electrical",
+        "professional"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dOJEW63W5Egb62Chh2r4I_47.924782_-97.090058@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294661,
+    "wof:geomhash":"1b074f5ca6d8f4885c60b52dd5da3d73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873574813
+        }
+    ],
+    "wof:id":873574813,
+    "wof:lastmodified":1464294661,
+    "wof:name":"Pro Audio & Lighting",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "contractor",
+        "electrical",
+        "professional"
+    ]
+},
+  "bbox": [
+    -97.090058,
+    47.924782,
+    -97.090058,
+    47.924782
+],
+  "geometry": {"coordinates":[-97.090058,47.924782],"type":"Point"}
+}

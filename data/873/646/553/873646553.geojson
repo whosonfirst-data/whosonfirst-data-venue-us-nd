@@ -1,0 +1,79 @@
+{
+  "id": 873646553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.728402,46.823632,-100.728402,46.823632",
+    "geom:latitude":46.823632,
+    "geom:longitude":-100.728402,
+    "iso:country":"US",
+    "sg:address":"1810 Revere Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 250 6597",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "body",
+        "shop",
+        "painting",
+        "truck",
+        "lettering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67NaAa6ye8clqatFZn6zRA_46.823632_-100.728402@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295552,
+    "wof:geomhash":"2c9d44b47363522c2fedb9ea1c93a292",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873646553
+        }
+    ],
+    "wof:id":873646553,
+    "wof:lastmodified":1464295552,
+    "wof:name":"Truck Collision Center Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "painting",
+        "truck",
+        "lettering"
+    ]
+},
+  "bbox": [
+    -100.728402,
+    46.823632,
+    -100.728402,
+    46.823632
+],
+  "geometry": {"coordinates":[-100.728402,46.823632],"type":"Point"}
+}

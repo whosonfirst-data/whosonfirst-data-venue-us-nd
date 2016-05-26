@@ -1,0 +1,66 @@
+{
+  "id": 873629589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.76645,46.797562,-100.76645,46.797562",
+    "geom:latitude":46.797562,
+    "geom:longitude":-100.76645,
+    "iso:country":"US",
+    "sg:address":"919 S 17th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 1834",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68xcN2jhHTfBWTNvg9Kpgz_46.797562_-100.766450@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295362,
+    "wof:geomhash":"99527724f93954f5d133a70524fb9c43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873629589
+        }
+    ],
+    "wof:id":873629589,
+    "wof:lastmodified":1464295362,
+    "wof:name":"Ron Kraft Insurance",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.76645,
+    46.797562,
+    -100.76645,
+    46.797562
+],
+  "geometry": {"coordinates":[-100.76645000000001,46.797562],"type":"Point"}
+}

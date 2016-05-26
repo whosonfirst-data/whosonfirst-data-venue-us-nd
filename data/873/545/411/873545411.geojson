@@ -1,0 +1,73 @@
+{
+  "id": 873545411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.238603,48.229155,-101.238603,48.229155",
+    "geom:latitude":48.229155,
+    "geom:longitude":-101.238603,
+    "iso:country":"US",
+    "sg:address":"800 37th St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 2277",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SQAivy2s2LlJXkzceJZyd_48.229155_-101.238603@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294321,
+    "wof:geomhash":"3d05a70c6f392c663c55705b6de36bf5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873545411
+        }
+    ],
+    "wof:id":873545411,
+    "wof:lastmodified":1464294321,
+    "wof:name":"Vehicle Liquidators",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -101.238603,
+    48.229155,
+    -101.238603,
+    48.229155
+],
+  "geometry": {"coordinates":[-101.238603,48.229155],"type":"Point"}
+}

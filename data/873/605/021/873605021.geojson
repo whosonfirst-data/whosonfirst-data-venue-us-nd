@@ -1,0 +1,79 @@
+{
+  "id": 873605021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.577201,48.049717,-97.577201,48.049717",
+    "geom:latitude":48.049717,
+    "geom:longitude":-97.577201,
+    "iso:country":"US",
+    "sg:address":"3441 26th Ave NE",
+    "sg:city":"Larimore",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 343 6206",
+    "sg:postcode":"58251",
+    "sg:province":"ND",
+    "sg:tags":[
+        "feedlot",
+        "grain",
+        "cash",
+        "beef",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Tc6a7CLF6LowVMJ9SS9ET_48.049717_-97.577201@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295040,
+    "wof:geomhash":"949e45927bdb04691becdbd01cd8ce13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873605021
+        }
+    ],
+    "wof:id":873605021,
+    "wof:lastmodified":1464295040,
+    "wof:name":"Kleven Farms",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feedlot",
+        "grain",
+        "cash",
+        "beef",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -97.577201,
+    48.049717,
+    -97.577201,
+    48.049717
+],
+  "geometry": {"coordinates":[-97.577201,48.049717],"type":"Point"}
+}

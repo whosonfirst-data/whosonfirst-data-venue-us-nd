@@ -1,0 +1,79 @@
+{
+  "id": 873687445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.878916,46.876459,-96.878916,46.876459",
+    "geom:latitude":46.876459,
+    "geom:longitude":-96.878916,
+    "iso:country":"US",
+    "sg:address":"1175 Main Ave E",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 0229",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "sg:tags":[
+        "sport",
+        "trailer",
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aXHIccKIWq6rsAeSN2rK6_46.876459_-96.878916@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296204,
+    "wof:geomhash":"37b4cba354bfd288d9929c276b4d0870",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873687445
+        }
+    ],
+    "wof:id":873687445,
+    "wof:lastmodified":1464296204,
+    "wof:name":"Visto's Trailer Sales & Lease",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sport",
+        "trailer",
+        "utility"
+    ]
+},
+  "bbox": [
+    -96.878916,
+    46.876459,
+    -96.878916,
+    46.876459
+],
+  "geometry": {"coordinates":[-96.878916,46.876459],"type":"Point"}
+}

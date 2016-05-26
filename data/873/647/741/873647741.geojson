@@ -1,0 +1,73 @@
+{
+  "id": 873647741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.387469,48.267231,-101.387469,48.267231",
+    "geom:latitude":48.267231,
+    "geom:longitude":-101.387469,
+    "iso:country":"US",
+    "sg:address":"2710 63rd St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 837 1750",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "flag",
+        "banner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6K2eM8xvIiu23Da1lTmqh2_48.267231_-101.387469@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295564,
+    "wof:geomhash":"47ffdca4cae3c30ecb1a9bb81623ebb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873647741
+        }
+    ],
+    "wof:id":873647741,
+    "wof:lastmodified":1464295564,
+    "wof:name":"Sign D'Zyn Of Minot",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flag",
+        "banner"
+    ]
+},
+  "bbox": [
+    -101.387469,
+    48.267231,
+    -101.387469,
+    48.267231
+],
+  "geometry": {"coordinates":[-101.387469,48.267231],"type":"Point"}
+}

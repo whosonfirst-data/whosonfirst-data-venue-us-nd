@@ -1,0 +1,73 @@
+{
+  "id": 873628365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.787714,46.800316,-100.787714,46.800316",
+    "geom:latitude":46.800316,
+    "geom:longitude":-100.787714,
+    "iso:country":"US",
+    "sg:address":"421 S 3rd St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 6161",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "ha",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jHxWBQ23lousSJHMIaAHP_46.800316_-100.787714@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295344,
+    "wof:geomhash":"61b67a96798a9a94ea014b50d48db8c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873628365
+        }
+    ],
+    "wof:id":873628365,
+    "wof:lastmodified":1464295344,
+    "wof:name":"Ace Hardware",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ha",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -100.787714,
+    46.800316,
+    -100.787714,
+    46.800316
+],
+  "geometry": {"coordinates":[-100.78771399999999,46.800316],"type":"Point"}
+}

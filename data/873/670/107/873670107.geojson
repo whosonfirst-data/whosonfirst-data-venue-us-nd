@@ -1,0 +1,75 @@
+{
+  "id": 873670107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.032179,47.891356,-97.032179,47.891356",
+    "geom:latitude":47.891356,
+    "geom:longitude":-97.032179,
+    "iso:country":"US",
+    "sg:address":"2909 Walnut St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Jewelry",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 5273",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "clothing",
+        "pin",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1n4WhLT1yHuoTcN32qgDnt_47.891356_-97.032179@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295803,
+    "wof:geomhash":"8664c013f8b92a5a407b2a3cdf884d21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873670107
+        }
+    ],
+    "wof:id":873670107,
+    "wof:lastmodified":1464295803,
+    "wof:name":"Rebeccas Classics",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clothing",
+        "pin",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -97.032179,
+    47.891356,
+    -97.032179,
+    47.891356
+],
+  "geometry": {"coordinates":[-97.032179,47.891356],"type":"Point"}
+}

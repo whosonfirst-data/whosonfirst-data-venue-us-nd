@@ -1,0 +1,70 @@
+{
+  "id": 873776099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.819471,46.861571,-96.819471,46.861571",
+    "geom:latitude":46.861571,
+    "geom:longitude":-96.819471,
+    "iso:country":"US",
+    "sg:address":"1201 25th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 3328",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877331,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BnFykAKAhAP7F1LAcloAW_46.861571_-96.819471@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297438,
+    "wof:geomhash":"2e8d74504ed367fb0a8e256ed4846574",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877331,
+            "region_id":85688525,
+            "venue_id":873776099
+        }
+    ],
+    "wof:id":873776099,
+    "wof:lastmodified":1464297438,
+    "wof:name":"Village Financial Resource Ctr",
+    "wof:parent_id":85877331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.819471,
+    46.861571,
+    -96.819471,
+    46.861571
+],
+  "geometry": {"coordinates":[-96.81947099999999,46.861571],"type":"Point"}
+}

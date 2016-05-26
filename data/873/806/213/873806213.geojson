@@ -1,0 +1,92 @@
+{
+  "id": 873806213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.807092,46.903804,-96.807092,46.903804",
+    "geom:latitude":46.903804,
+    "geom:longitude":-96.807092,
+    "iso:country":"US",
+    "sg:address":"1854 NDSU Research Circle N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 499 3620",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "media-buying",
+        "media-planning",
+        "media-buying-software",
+        "media-buying-services",
+        "local-advertising",
+        "radio-advertising",
+        "television-advertising",
+        "online-advertising",
+        "print-advertising"
+    ],
+    "sg:website":"http://www.avenueright.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877363,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rcLgHRvauWrIImEJQc0pl_46.903804_-96.807092@1308186497"
+    },
+    "wof:country":"US",
+    "wof:created":1464297854,
+    "wof:geomhash":"cb34edb5a0fe1a8fdfd009bd40b0a4dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877363,
+            "region_id":85688525,
+            "venue_id":873806213
+        }
+    ],
+    "wof:id":873806213,
+    "wof:lastmodified":1464297854,
+    "wof:name":"Avenue Right",
+    "wof:parent_id":85877363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "media-buying",
+        "media-planning",
+        "media-buying-software",
+        "media-buying-services",
+        "local-advertising",
+        "radio-advertising",
+        "television-advertising",
+        "online-advertising",
+        "print-advertising"
+    ]
+},
+  "bbox": [
+    -96.807092,
+    46.903804,
+    -96.807092,
+    46.903804
+],
+  "geometry": {"coordinates":[-96.807092,46.903804],"type":"Point"}
+}

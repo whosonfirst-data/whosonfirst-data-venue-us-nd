@@ -1,0 +1,81 @@
+{
+  "id": 873801745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.826606,46.878204,-96.826606,46.878204",
+    "geom:latitude":46.878204,
+    "geom:longitude":-96.826606,
+    "iso:country":"US",
+    "sg:address":"3002 1st Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Labor Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 237 0171",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "sg:website":"http://www.local709.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_556lmbyBUBaNoNYYCSzTBk_46.878204_-96.826606@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297794,
+    "wof:geomhash":"dfb103baef9cdc2107b7aa8f0dd7b800",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873801745
+        }
+    ],
+    "wof:id":873801745,
+    "wof:lastmodified":1464297794,
+    "wof:name":"Lodge 2525",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -96.826606,
+    46.878204,
+    -96.826606,
+    46.878204
+],
+  "geometry": {"coordinates":[-96.826606,46.878204],"type":"Point"}
+}

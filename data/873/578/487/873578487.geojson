@@ -1,0 +1,79 @@
+{
+  "id": 873578487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.818346,46.871404,-96.818346,46.871404",
+    "geom:latitude":46.871404,
+    "geom:longitude":-96.818346,
+    "iso:country":"US",
+    "sg:address":"402 24th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 238 5510",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "detection",
+        "equipment",
+        "drug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0haKgZo8CjyWp01qwDIGuT_46.871404_-96.818346@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294699,
+    "wof:geomhash":"089ce8866deae3dd20b80e66ce65811f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873578487
+        }
+    ],
+    "wof:id":873578487,
+    "wof:lastmodified":1464294699,
+    "wof:name":"Nu-Century",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "detection",
+        "equipment",
+        "drug"
+    ]
+},
+  "bbox": [
+    -96.818346,
+    46.871404,
+    -96.818346,
+    46.871404
+],
+  "geometry": {"coordinates":[-96.81834600000001,46.871404],"type":"Point"}
+}

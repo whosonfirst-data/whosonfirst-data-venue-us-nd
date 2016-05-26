@@ -1,0 +1,66 @@
+{
+  "id": 873690245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.061053,47.906229,-97.061053,47.906229",
+    "geom:latitude":47.906229,
+    "geom:longitude":-97.061053,
+    "iso:country":"US",
+    "sg:address":"2344 W Springbrook Ct",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 6151",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36IZ4GGUuhdvD8Al1yzUrq_47.906229_-97.061053@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296279,
+    "wof:geomhash":"24372223a2d208255794914181bc54b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873690245
+        }
+    ],
+    "wof:id":873690245,
+    "wof:lastmodified":1464296279,
+    "wof:name":"Grace Graphics",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.061053,
+    47.906229,
+    -97.061053,
+    47.906229
+],
+  "geometry": {"coordinates":[-97.061053,47.906229],"type":"Point"}
+}

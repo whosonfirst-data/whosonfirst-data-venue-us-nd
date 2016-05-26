@@ -1,0 +1,70 @@
+{
+  "id": 873659363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.792118,46.812681,-100.792118,46.812681",
+    "geom:latitude":46.812681,
+    "geom:longitude":-100.792118,
+    "iso:country":"US",
+    "sg:address":"714 N Mandan St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 220 0681",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1A0wgx9BURD6YvpgcdxLic_46.812681_-100.792118@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295692,
+    "wof:geomhash":"c7d26e71c189c1bc08fd7d02c8c82e35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873659363
+        }
+    ],
+    "wof:id":873659363,
+    "wof:lastmodified":1464295692,
+    "wof:name":"Star Produce",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.792118,
+    46.812681,
+    -100.792118,
+    46.812681
+],
+  "geometry": {"coordinates":[-100.792118,46.812681],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873753063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.308293,48.210665,-101.308293,48.210665",
+    "geom:latitude":48.210665,
+    "geom:longitude":-101.308293,
+    "iso:country":"US",
+    "sg:address":"1021 20th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 8542",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "photo",
+        "finishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27A5ctCQpfosFDqUU0zdH9_48.210665_-101.308293@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297120,
+    "wof:geomhash":"d7dd6b0cd7c117d3e0727f157bb55a8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873753063
+        }
+    ],
+    "wof:id":873753063,
+    "wof:lastmodified":1464297120,
+    "wof:name":"Dakota Color Labs",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo",
+        "finishing"
+    ]
+},
+  "bbox": [
+    -101.308293,
+    48.210665,
+    -101.308293,
+    48.210665
+],
+  "geometry": {"coordinates":[-101.30829300000001,48.210665],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873545109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.755669,46.807077,-100.755669,46.807077",
+    "geom:latitude":46.807077,
+    "geom:longitude":-100.755669,
+    "iso:country":"US",
+    "sg:address":"209 N 24th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 3417",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JAoOpLFFl0CbNtzirJUuW_46.807077_-100.755669@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294317,
+    "wof:geomhash":"72ebd1554541a25200a40c0ec5a72312",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873545109
+        }
+    ],
+    "wof:id":873545109,
+    "wof:lastmodified":1464294317,
+    "wof:name":"Electronic Storage Systems Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [
+    -100.755669,
+    46.807077,
+    -100.755669,
+    46.807077
+],
+  "geometry": {"coordinates":[-100.755669,46.807077],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 873709699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.063142,47.904025,-97.063142,47.904025",
+    "geom:latitude":47.904025,
+    "geom:longitude":-97.063142,
+    "iso:country":"US",
+    "sg:address":"2534 17th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Signs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 9696",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:website":"www.indigosignworks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WnRa9i2Bic97v4p67jWsF_47.904025_-97.063142@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296517,
+    "wof:geomhash":"7df85743d4ecfafa695289f6813a9b57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873709699
+        }
+    ],
+    "wof:id":873709699,
+    "wof:lastmodified":1464296517,
+    "wof:name":"Indigo Signworks",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.063142,
+    47.904025,
+    -97.063142,
+    47.904025
+],
+  "geometry": {"coordinates":[-97.063142,47.904025],"type":"Point"}
+}

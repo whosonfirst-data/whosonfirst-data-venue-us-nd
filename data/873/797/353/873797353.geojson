@@ -1,0 +1,74 @@
+{
+  "id": 873797353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.863391,46.817619,-96.863391,46.817619",
+    "geom:latitude":46.817619,
+    "geom:longitude":-96.863391,
+    "iso:country":"US",
+    "sg:address":"4151 45th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/fargo/221247-caribou-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 281 1872",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kJ5W5XhiK2HkYvqxtDIiH_46.817619_-96.863391@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297742,
+    "wof:geomhash":"3cd7e3a8622d4f2df6459a4c37200d3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873797353
+        }
+    ],
+    "wof:id":873797353,
+    "wof:lastmodified":1464297742,
+    "wof:name":"Caribou Coffee",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -96.863391,
+    46.817619,
+    -96.863391,
+    46.817619
+],
+  "geometry": {"coordinates":[-96.86339099999999,46.817619],"type":"Point"}
+}

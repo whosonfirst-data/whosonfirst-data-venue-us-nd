@@ -1,0 +1,75 @@
+{
+  "id": 873682881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.793608,46.894976,-96.793608,46.894976",
+    "geom:latitude":46.894976,
+    "geom:longitude":-96.793608,
+    "iso:country":"US",
+    "sg:address":"1309 10th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 280 9336",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "transportation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877359,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OnSNAb78BKxmk6KL8JqNY_46.894976_-96.793608@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296078,
+    "wof:geomhash":"41da32ea1579fd86158113b9d0115236",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877359,
+            "region_id":85688525,
+            "venue_id":873682881
+        }
+    ],
+    "wof:id":873682881,
+    "wof:lastmodified":1464296078,
+    "wof:name":"Mowry Transportation",
+    "wof:parent_id":85877359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transportation"
+    ]
+},
+  "bbox": [
+    -96.793608,
+    46.894976,
+    -96.793608,
+    46.894976
+],
+  "geometry": {"coordinates":[-96.79360800000001,46.894976],"type":"Point"}
+}

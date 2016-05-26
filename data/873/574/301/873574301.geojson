@@ -1,0 +1,75 @@
+{
+  "id": 873574301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.426871,48.27103,-101.426871,48.27103",
+    "geom:latitude":48.27103,
+    "geom:longitude":-101.426871,
+    "iso:country":"US",
+    "sg:address":"102 Durango Dr",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 6096",
+    "sg:postcode":"58722",
+    "sg:province":"ND",
+    "sg:tags":[
+        "bedroom",
+        "center",
+        "mattress"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1i7t4o2FEDAEvs9JUM3MvY_48.271030_-101.426871@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294656,
+    "wof:geomhash":"d313dfb0f8c57ccd483db81ee068a33b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873574301
+        }
+    ],
+    "wof:id":873574301,
+    "wof:lastmodified":1464294656,
+    "wof:name":"American Lifestyle Mat Ctr",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bedroom",
+        "center",
+        "mattress"
+    ]
+},
+  "bbox": [
+    -101.426871,
+    48.27103,
+    -101.426871,
+    48.27103
+],
+  "geometry": {"coordinates":[-101.42687100000001,48.27103],"type":"Point"}
+}

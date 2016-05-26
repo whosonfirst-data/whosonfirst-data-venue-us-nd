@@ -1,0 +1,88 @@
+{
+  "id": 873800907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.815329,46.88318,-96.815329,46.88318",
+    "geom:latitude":46.88318,
+    "geom:longitude":-96.815329,
+    "iso:country":"US",
+    "sg:address":"2213 7th Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 297 0092",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "contractors-commercial",
+        "industrial",
+        "electrician",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kEcvBPY4malhHiClvvXTo_46.883180_-96.815329@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297784,
+    "wof:geomhash":"f09e4279414770a9ed2ceb83ed0c0ffb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873800907
+        }
+    ],
+    "wof:id":873800907,
+    "wof:lastmodified":1464297784,
+    "wof:name":"Industrial Process Technology, Inc.",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractors-commercial",
+        "industrial",
+        "electrician",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.815329,
+    46.88318,
+    -96.815329,
+    46.88318
+],
+  "geometry": {"coordinates":[-96.81532900000001,46.88318],"type":"Point"}
+}

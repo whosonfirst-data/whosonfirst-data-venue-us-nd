@@ -1,0 +1,73 @@
+{
+  "id": 873732307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.213854,48.225954,-101.213854,48.225954",
+    "geom:latitude":48.225954,
+    "geom:longitude":-101.213854,
+    "iso:country":"US",
+    "sg:address":"833 52nd St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 837 1687",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WsjCo1ATQCyoXubPTv4NS_48.225954_-101.213854@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296807,
+    "wof:geomhash":"b3d20b08d5304480bd6a353d5b8a5dbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873732307
+        }
+    ],
+    "wof:id":873732307,
+    "wof:lastmodified":1464296807,
+    "wof:name":"All Storage",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -101.213854,
+    48.225954,
+    -101.213854,
+    48.225954
+],
+  "geometry": {"coordinates":[-101.213854,48.225954],"type":"Point"}
+}

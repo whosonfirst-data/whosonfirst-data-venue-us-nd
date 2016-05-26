@@ -1,0 +1,79 @@
+{
+  "id": 873654495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.832912,46.863285,-96.832912,46.863285",
+    "geom:latitude":46.863285,
+    "geom:longitude":-96.832912,
+    "iso:country":"US",
+    "sg:address":"1112 Nodak Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 239 7100",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "govt",
+        "state",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ALhqw1oXdUD8AlWqxh6DQ_46.863285_-96.832912@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295641,
+    "wof:geomhash":"8e763b225ac3a905440a60959dc2ebfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873654495
+        }
+    ],
+    "wof:id":873654495,
+    "wof:lastmodified":1464295641,
+    "wof:name":"Juvenile Services Div",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "institution"
+    ]
+},
+  "bbox": [
+    -96.832912,
+    46.863285,
+    -96.832912,
+    46.863285
+],
+  "geometry": {"coordinates":[-96.83291199999999,46.863285],"type":"Point"}
+}

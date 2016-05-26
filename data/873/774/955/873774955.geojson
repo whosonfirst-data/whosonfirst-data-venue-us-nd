@@ -1,0 +1,73 @@
+{
+  "id": 873774955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.771391,46.784283,-100.771391,46.784283",
+    "geom:latitude":46.784283,
+    "geom:longitude":-100.771391,
+    "iso:country":"US",
+    "sg:address":"1402 Basin Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 1172",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2I6k2WQWMZ2HMA416P048v_46.784283_-100.771391@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297425,
+    "wof:geomhash":"467740182e4e24a3d974ede064303447",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873774955
+        }
+    ],
+    "wof:id":873774955,
+    "wof:lastmodified":1464297425,
+    "wof:name":"Broderick Repair",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -100.771391,
+    46.784283,
+    -100.771391,
+    46.784283
+],
+  "geometry": {"coordinates":[-100.77139099999999,46.784283],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873770309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.78142,46.785736,-100.78142,46.785736",
+    "geom:latitude":46.785736,
+    "geom:longitude":-100.78142,
+    "iso:country":"US",
+    "sg:address":"1543 Columbia Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 224 8387",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fob8hAevfflVuxWppyAHq_46.785736_-100.781420@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297369,
+    "wof:geomhash":"f697596c6290e9aa9c1c83d26b4d129a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873770309
+        }
+    ],
+    "wof:id":873770309,
+    "wof:lastmodified":1464297369,
+    "wof:name":"Nearly Nature Landscape &",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -100.78142,
+    46.785736,
+    -100.78142,
+    46.785736
+],
+  "geometry": {"coordinates":[-100.78142,46.785736],"type":"Point"}
+}

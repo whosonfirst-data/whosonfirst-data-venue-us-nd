@@ -1,0 +1,75 @@
+{
+  "id": 873701269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.78618,46.80742,-100.78618,46.80742",
+    "geom:latitude":46.80742,
+    "geom:longitude":-100.78618,
+    "iso:country":"US",
+    "sg:address":"212 N 4th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 9438",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "coin",
+        "dealer",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65N6gwbhkOI9cBrN1zqMUU_46.807420_-100.786180@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296418,
+    "wof:geomhash":"9353b62d8ddeeb3a5a74ee62ee554c63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873701269
+        }
+    ],
+    "wof:id":873701269,
+    "wof:lastmodified":1464296418,
+    "wof:name":"Bismarck Gold & Silver Exch",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin",
+        "dealer",
+        "supply"
+    ]
+},
+  "bbox": [
+    -100.78618,
+    46.80742,
+    -100.78618,
+    46.80742
+],
+  "geometry": {"coordinates":[-100.78618,46.80742],"type":"Point"}
+}

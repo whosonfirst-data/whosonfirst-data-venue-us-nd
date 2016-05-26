@@ -1,0 +1,79 @@
+{
+  "id": 873652191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.79857,46.855803,-96.79857,46.855803",
+    "geom:latitude":46.855803,
+    "geom:longitude":-96.79857,
+    "iso:country":"US",
+    "sg:address":"1545 S University Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 8818",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "tea",
+        "coffee",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534481,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3d0EY0i1ZdxDAiJt7COgo9_46.855803_-96.798570@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295615,
+    "wof:geomhash":"8eb623d39535144c40d4c1a368b46a9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534481,
+            "region_id":85688525,
+            "venue_id":873652191
+        }
+    ],
+    "wof:id":873652191,
+    "wof:lastmodified":1464295615,
+    "wof:name":"Luna Coffee",
+    "wof:parent_id":420534481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee",
+        "eating"
+    ]
+},
+  "bbox": [
+    -96.79857,
+    46.855803,
+    -96.79857,
+    46.855803
+],
+  "geometry": {"coordinates":[-96.79857,46.855803],"type":"Point"}
+}

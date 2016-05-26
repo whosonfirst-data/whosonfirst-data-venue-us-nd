@@ -1,0 +1,86 @@
+{
+  "id": 873803147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.793428,46.861339,-96.793428,46.861339",
+    "geom:latitude":46.861339,
+    "geom:longitude":-96.793428,
+    "iso:country":"US",
+    "sg:address":"1312 9th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 237 0106",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "annuity",
+        "retirement",
+        "insurance",
+        "plan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534479,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mbsiIuI5nY9uvN9Hasppa_46.861339_-96.793428@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297811,
+    "wof:geomhash":"a56122c37cbc7eff41dbf16e235262b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534479,
+            "region_id":85688525,
+            "venue_id":873803147
+        }
+    ],
+    "wof:id":873803147,
+    "wof:lastmodified":1464297811,
+    "wof:name":"Sunamerica",
+    "wof:parent_id":420534479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "annuity",
+        "retirement",
+        "insurance",
+        "plan"
+    ]
+},
+  "bbox": [
+    -96.793428,
+    46.861339,
+    -96.793428,
+    46.861339
+],
+  "geometry": {"coordinates":[-96.79342800000001,46.861339],"type":"Point"}
+}

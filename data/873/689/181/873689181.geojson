@@ -1,0 +1,73 @@
+{
+  "id": 873689181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.736262,46.84079,-100.736262,46.84079",
+    "geom:latitude":46.84079,
+    "geom:longitude":-100.736262,
+    "iso:country":"US",
+    "sg:address":"3335 Saratoga Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 3214",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "underground",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DpT52txPojPZKTadFEoX0_46.840790_-100.736262@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296253,
+    "wof:geomhash":"1fd546980d4293f0a90fd150ed4c7e40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873689181
+        }
+    ],
+    "wof:id":873689181,
+    "wof:lastmodified":1464296253,
+    "wof:name":"Fischer Contracting",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "underground",
+        "electrical"
+    ]
+},
+  "bbox": [
+    -100.736262,
+    46.84079,
+    -100.736262,
+    46.84079
+],
+  "geometry": {"coordinates":[-100.736262,46.84079],"type":"Point"}
+}

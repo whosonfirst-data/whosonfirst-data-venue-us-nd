@@ -1,0 +1,73 @@
+{
+  "id": 873754397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.153355,47.85128,-97.153355,47.85128",
+    "geom:latitude":47.85128,
+    "geom:longitude":-97.153355,
+    "iso:country":"US",
+    "sg:address":"7074 S 83rd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 0763",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fJPJkmBHIibHsQpw9oy3d_47.851280_-97.153355@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297137,
+    "wof:geomhash":"1fc12a2a9641a3efdf79f6c123af2451",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873754397
+        }
+    ],
+    "wof:id":873754397,
+    "wof:lastmodified":1464297137,
+    "wof:name":"Bertheuson Farms",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -97.153355,
+    47.85128,
+    -97.153355,
+    47.85128
+],
+  "geometry": {"coordinates":[-97.153355,47.85128],"type":"Point"}
+}

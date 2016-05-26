@@ -1,0 +1,71 @@
+{
+  "id": 873606809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.05974,47.920003,-97.05974,47.920003",
+    "geom:latitude":47.920003,
+    "geom:longitude":-97.05974,
+    "iso:country":"US",
+    "sg:address":"15 N 23rd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 747 4278",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "university"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19dwLiv9GpGEj54UXw4Ikt_47.920003_-97.059740@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295073,
+    "wof:geomhash":"a62417cfa200f136101bdd319de9b370",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873606809
+        }
+    ],
+    "wof:id":873606809,
+    "wof:lastmodified":1464295073,
+    "wof:name":"Energy & Environmental RES Ctr",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "university"
+    ]
+},
+  "bbox": [
+    -97.05974,
+    47.920003,
+    -97.05974,
+    47.920003
+],
+  "geometry": {"coordinates":[-97.05974000000001,47.920003],"type":"Point"}
+}

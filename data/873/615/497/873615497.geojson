@@ -1,0 +1,75 @@
+{
+  "id": 873615497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.70168,46.764362,-100.70168,46.764362",
+    "geom:latitude":46.764362,
+    "geom:longitude":-100.70168,
+    "iso:country":"US",
+    "sg:address":"20 Carlin Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 224 1878",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "sound",
+        "equipment",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OvzHqREdoKOJsXOazqX8X_46.764362_-100.701680@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295200,
+    "wof:geomhash":"b8ff03af1f84f1e08d3086160573101c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873615497
+        }
+    ],
+    "wof:id":873615497,
+    "wof:lastmodified":1464295200,
+    "wof:name":"North Star Audio Consulting",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sound",
+        "equipment",
+        "system"
+    ]
+},
+  "bbox": [
+    -100.70168,
+    46.764362,
+    -100.70168,
+    46.764362
+],
+  "geometry": {"coordinates":[-100.70168,46.764362],"type":"Point"}
+}

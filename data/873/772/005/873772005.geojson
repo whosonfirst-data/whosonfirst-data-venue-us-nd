@@ -1,0 +1,71 @@
+{
+  "id": 873772005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.913365,46.757664,-96.913365,46.757664",
+    "geom:latitude":46.757664,
+    "geom:longitude":-96.913365,
+    "iso:country":"US",
+    "sg:address":"518 Northwood Dr",
+    "sg:city":"Horace",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 8948",
+    "sg:postcode":"58047",
+    "sg:province":"ND",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77POeivGlSs6h4Nqv1Ped4_46.757664_-96.913365@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297389,
+    "wof:geomhash":"cb8f730df090a93001467dc88df2ecb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873772005
+        }
+    ],
+    "wof:id":873772005,
+    "wof:lastmodified":1464297389,
+    "wof:name":"S&E Roofing",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.913365,
+    46.757664,
+    -96.913365,
+    46.757664
+],
+  "geometry": {"coordinates":[-96.913365,46.757664],"type":"Point"}
+}

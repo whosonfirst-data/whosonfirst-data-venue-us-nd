@@ -1,0 +1,71 @@
+{
+  "id": 873539689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.045616,47.899741,-97.045616,47.899741",
+    "geom:latitude":47.899741,
+    "geom:longitude":-97.045616,
+    "iso:country":"US",
+    "sg:address":"2002 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 9711",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uAHEVuZQryewyQiBdFxKx_47.899741_-97.045616@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294256,
+    "wof:geomhash":"ddca38fbe1179bdccf633851ab7a2274",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873539689
+        }
+    ],
+    "wof:id":873539689,
+    "wof:lastmodified":1464294256,
+    "wof:name":"Ortons",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -97.045616,
+    47.899741,
+    -97.045616,
+    47.899741
+],
+  "geometry": {"coordinates":[-97.045616,47.899741],"type":"Point"}
+}

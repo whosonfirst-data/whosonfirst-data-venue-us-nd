@@ -1,0 +1,104 @@
+{
+  "id": 873804909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.852021,46.819615,-96.852021,46.819615",
+    "geom:latitude":46.819615,
+    "geom:longitude":-96.852021,
+    "iso:country":"US",
+    "sg:address":"4244 39th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 277 0654",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "information",
+        "mental",
+        "family",
+        "professional",
+        "counselors-licensed",
+        "individual",
+        "marriage",
+        "child",
+        "counseling",
+        "counselor"
+    ],
+    "sg:website":"http://www.claudiamcgrathcounseling.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877355,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4K1HTlQ5SdsBiP4lIxIz0G_46.819615_-96.852021@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297833,
+    "wof:geomhash":"4617c289d7c96935dd2dedea885422f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877355,
+            "region_id":85688525,
+            "venue_id":873804909
+        }
+    ],
+    "wof:id":873804909,
+    "wof:lastmodified":1464297833,
+    "wof:name":"Claudia Mcgrath Counselin",
+    "wof:parent_id":85877355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "mental",
+        "family",
+        "professional",
+        "counselors-licensed",
+        "individual",
+        "marriage",
+        "child",
+        "counseling",
+        "counselor"
+    ]
+},
+  "bbox": [
+    -96.852021,
+    46.819615,
+    -96.852021,
+    46.819615
+],
+  "geometry": {"coordinates":[-96.85202099999999,46.819615],"type":"Point"}
+}

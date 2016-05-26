@@ -1,0 +1,70 @@
+{
+  "id": 873762459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.798041,46.899629,-96.798041,46.899629",
+    "geom:latitude":46.899629,
+    "geom:longitude":-96.798041,
+    "iso:country":"US",
+    "sg:address":"1601 N University Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 6647",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877363,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Crag4WOzABrgySeVaKSfo_46.899629_-96.798041@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297248,
+    "wof:geomhash":"7f00baa9c1042f332918510f0b40f677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877363,
+            "region_id":85688525,
+            "venue_id":873762459
+        }
+    ],
+    "wof:id":873762459,
+    "wof:lastmodified":1464297248,
+    "wof:name":"Ceres Womens Frat",
+    "wof:parent_id":85877363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.798041,
+    46.899629,
+    -96.798041,
+    46.899629
+],
+  "geometry": {"coordinates":[-96.798041,46.899629],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873732035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.316766,48.207825,-101.316766,48.207825",
+    "geom:latitude":48.207825,
+    "geom:longitude":-101.316766,
+    "iso:country":"US",
+    "sg:address":"1520 24th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 5781",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uuqGUk9uKv3hsB86XHOdx_48.207825_-101.316766@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296804,
+    "wof:geomhash":"d6c2cadee1c1b797364e411f726b8658",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873732035
+        }
+    ],
+    "wof:id":873732035,
+    "wof:lastmodified":1464296804,
+    "wof:name":"Dakota Square Amoco",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -101.316766,
+    48.207825,
+    -101.316766,
+    48.207825
+],
+  "geometry": {"coordinates":[-101.316766,48.207825],"type":"Point"}
+}

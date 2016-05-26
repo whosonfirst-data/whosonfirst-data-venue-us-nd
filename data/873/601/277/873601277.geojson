@@ -1,0 +1,73 @@
+{
+  "id": 873601277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.528611,47.159215,-100.528611,47.159215",
+    "geom:latitude":47.159215,
+    "geom:longitude":-100.528611,
+    "iso:country":"US",
+    "sg:address":"260 Main St N",
+    "sg:city":"Regan",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 286 6663",
+    "sg:postcode":"58477",
+    "sg:province":"ND",
+    "sg:tags":[
+        "assembly",
+        "fabricating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EiunYSt4Auj8rt2k9SQ2T_47.159215_-100.528611@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295000,
+    "wof:geomhash":"2925263cdcfb2e47ef8d99e2ead7f459",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873601277
+        }
+    ],
+    "wof:id":873601277,
+    "wof:lastmodified":1464295000,
+    "wof:name":"Assembly Of God Parsonage",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "assembly",
+        "fabricating"
+    ]
+},
+  "bbox": [
+    -100.528611,
+    47.159215,
+    -100.528611,
+    47.159215
+],
+  "geometry": {"coordinates":[-100.528611,47.159215],"type":"Point"}
+}

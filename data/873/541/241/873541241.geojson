@@ -1,0 +1,66 @@
+{
+  "id": 873541241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.276392,48.219006,-101.276392,48.219006",
+    "geom:latitude":48.219006,
+    "geom:longitude":-101.276392,
+    "iso:country":"US",
+    "sg:address":"1516 11th St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 1765",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3c4dbo37qKLZMYuPe7Po1R_48.219006_-101.276392@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294272,
+    "wof:geomhash":"958cd57cbd9fa5e34a08e9d1f5e85f7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873541241
+        }
+    ],
+    "wof:id":873541241,
+    "wof:lastmodified":1464294272,
+    "wof:name":"CB Rentals",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.276392,
+    48.219006,
+    -101.276392,
+    48.219006
+],
+  "geometry": {"coordinates":[-101.276392,48.219006],"type":"Point"}
+}

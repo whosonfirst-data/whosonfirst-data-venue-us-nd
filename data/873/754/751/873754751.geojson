@@ -1,0 +1,75 @@
+{
+  "id": 873754751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.293246,48.220151,-101.293246,48.220151",
+    "geom:latitude":48.220151,
+    "geom:longitude":-101.293246,
+    "iso:country":"US",
+    "sg:address":"1507 Main St S",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 2662",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "distributing",
+        "whole",
+        "sale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Mf9eSsoZJgPDMWMeTarnY_48.220151_-101.293246@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297142,
+    "wof:geomhash":"21ad8af67c80ab970897204176c80e97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873754751
+        }
+    ],
+    "wof:id":873754751,
+    "wof:lastmodified":1464297142,
+    "wof:name":"Lautt Art Jr",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distributing",
+        "whole",
+        "sale"
+    ]
+},
+  "bbox": [
+    -101.293246,
+    48.220151,
+    -101.293246,
+    48.220151
+],
+  "geometry": {"coordinates":[-101.293246,48.220151],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873575827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.917067,46.875118,-96.917067,46.875118",
+    "geom:latitude":46.875118,
+    "geom:longitude":-96.917067,
+    "iso:country":"US",
+    "sg:address":"1006 2nd Ave W",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 281 8223",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FgwGLOrkzUnEQHGZy03Rf_46.875118_-96.917067@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294672,
+    "wof:geomhash":"9ba5c74cf5a078199be4fe5edd685ab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873575827
+        }
+    ],
+    "wof:id":873575827,
+    "wof:lastmodified":1464294672,
+    "wof:name":"Northland Truck Sales",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -96.917067,
+    46.875118,
+    -96.917067,
+    46.875118
+],
+  "geometry": {"coordinates":[-96.917067,46.875118],"type":"Point"}
+}

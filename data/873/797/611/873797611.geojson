@@ -1,0 +1,76 @@
+{
+  "id": 873797611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.066639,47.892161,-97.066639,47.892161",
+    "geom:latitude":47.892161,
+    "geom:longitude":-97.066639,
+    "iso:country":"US",
+    "sg:address":"2800 S Columbia Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/grand-forks/209218-tcby/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 8387",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55MD4eTJTV9L7HL8lU7m82_47.892161_-97.066639@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297745,
+    "wof:geomhash":"ac8d8d8e1bac14df3bcc64b34e8f9991",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873797611
+        }
+    ],
+    "wof:id":873797611,
+    "wof:lastmodified":1464297745,
+    "wof:name":"TCBY",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ]
+},
+  "bbox": [
+    -97.066639,
+    47.892161,
+    -97.066639,
+    47.892161
+],
+  "geometry": {"coordinates":[-97.066639,47.892161],"type":"Point"}
+}

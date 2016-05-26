@@ -1,0 +1,66 @@
+{
+  "id": 873730167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.870168,47.995742,-97.870168,47.995742",
+    "geom:latitude":47.995742,
+    "geom:longitude":-97.870168,
+    "iso:country":"US",
+    "sg:address":"107 2nd St",
+    "sg:city":"Niagara",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 397 5816",
+    "sg:postcode":"58266",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vbNzGdsdqlVHNYbHj233f_47.995742_-97.870168@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296781,
+    "wof:geomhash":"1d1c3c2f144ca573a3c3099f0724d62c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873730167
+        }
+    ],
+    "wof:id":873730167,
+    "wof:lastmodified":1464296781,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.870168,
+    47.995742,
+    -97.870168,
+    47.995742
+],
+  "geometry": {"coordinates":[-97.87016800000001,47.995742],"type":"Point"}
+}

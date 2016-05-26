@@ -1,0 +1,73 @@
+{
+  "id": 873753329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.760245,46.803714,-100.760245,46.803714",
+    "geom:latitude":46.803714,
+    "geom:longitude":-100.760245,
+    "iso:country":"US",
+    "sg:address":"2030 E Front Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 5480",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "mixed",
+        "concrete"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0l5i59aEudVl48H68AAKAf_46.803714_-100.760245@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297123,
+    "wof:geomhash":"35a372d6ddc558d710e96c7bea546642",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873753329
+        }
+    ],
+    "wof:id":873753329,
+    "wof:lastmodified":1464297123,
+    "wof:name":"Atlas Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mixed",
+        "concrete"
+    ]
+},
+  "bbox": [
+    -100.760245,
+    46.803714,
+    -100.760245,
+    46.803714
+],
+  "geometry": {"coordinates":[-100.760245,46.803714],"type":"Point"}
+}

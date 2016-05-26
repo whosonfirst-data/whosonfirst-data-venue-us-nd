@@ -1,0 +1,75 @@
+{
+  "id": 873805561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.176773,48.075667,-97.176773,48.075667",
+    "geom:latitude":48.075667,
+    "geom:longitude":-97.176773,
+    "iso:country":"US",
+    "sg:address":"508 Oldham Ave",
+    "sg:city":"Manvel",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 696 2316",
+    "sg:postcode":"58256",
+    "sg:province":"ND",
+    "sg:tags":[
+        "township",
+        "government-city",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CMbXrOjFyOBnB9psZlYXa_48.075667_-97.176773@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297844,
+    "wof:geomhash":"bd600cd22fc4e865623d61bc0dbd63c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873805561
+        }
+    ],
+    "wof:id":873805561,
+    "wof:lastmodified":1464297844,
+    "wof:name":"City Of Manvel",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "township",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -97.176773,
+    48.075667,
+    -97.176773,
+    48.075667
+],
+  "geometry": {"coordinates":[-97.176773,48.075667],"type":"Point"}
+}

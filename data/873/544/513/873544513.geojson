@@ -1,0 +1,73 @@
+{
+  "id": 873544513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.903889,46.759644,-96.903889,46.759644",
+    "geom:latitude":46.759644,
+    "geom:longitude":-96.903889,
+    "iso:country":"US",
+    "sg:address":"205 Main St",
+    "sg:city":"Horace",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 239 8470",
+    "sg:postcode":"58047",
+    "sg:province":"ND",
+    "sg:tags":[
+        "grill",
+        "bar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qvNh11VnMDCgGuyke70W9_46.759644_-96.903889@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294311,
+    "wof:geomhash":"dde6af074578a7114f4c3f722a455a3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873544513
+        }
+    ],
+    "wof:id":873544513,
+    "wof:lastmodified":1464294311,
+    "wof:name":"Wild Rice Bar and Grill Inc",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grill",
+        "bar"
+    ]
+},
+  "bbox": [
+    -96.903889,
+    46.759644,
+    -96.903889,
+    46.759644
+],
+  "geometry": {"coordinates":[-96.90388900000001,46.759644],"type":"Point"}
+}

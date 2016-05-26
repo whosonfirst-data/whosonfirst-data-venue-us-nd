@@ -1,0 +1,70 @@
+{
+  "id": 873702893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.897586,46.879432,-96.897586,46.879432",
+    "geom:latitude":46.879432,
+    "geom:longitude":-96.897586,
+    "iso:country":"US",
+    "sg:address":"109 Evergreen Cir",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 492 2860",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UxpiQRtGu04nZ8b9tOWy1_46.879432_-96.897586@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296434,
+    "wof:geomhash":"62e721757d475f97095bbbfc384c6e60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873702893
+        }
+    ],
+    "wof:id":873702893,
+    "wof:lastmodified":1464296434,
+    "wof:name":"D&H Services",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.897586,
+    46.879432,
+    -96.897586,
+    46.879432
+],
+  "geometry": {"coordinates":[-96.897586,46.879432],"type":"Point"}
+}

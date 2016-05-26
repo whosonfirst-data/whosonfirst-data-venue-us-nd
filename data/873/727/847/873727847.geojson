@@ -1,0 +1,66 @@
+{
+  "id": 873727847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.503916,47.931469,-97.503916,47.931469",
+    "geom:latitude":47.931469,
+    "geom:longitude":-97.503916,
+    "iso:country":"US",
+    "sg:address":"3148 US Hwy 2",
+    "sg:city":"Arvilla",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 7696",
+    "sg:postcode":"58214",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5z8Ju5rUYBOVKhJ52NHYyy_47.931469_-97.503916@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296752,
+    "wof:geomhash":"86741bd079db0a5f4aaa12426f36a6ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873727847
+        }
+    ],
+    "wof:id":873727847,
+    "wof:lastmodified":1464296752,
+    "wof:name":"Beacon Baptist Church",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.503916,
+    47.931469,
+    -97.503916,
+    47.931469
+],
+  "geometry": {"coordinates":[-97.503916,47.931469],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 873801011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.798205,46.883568,-96.798205,46.883568",
+    "geom:latitude":46.883568,
+    "geom:longitude":-96.798205,
+    "iso:country":"US",
+    "sg:address":"727 University Dr N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 225 5532",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "chicken"
+    ],
+    "sg:website":"http://www.kfc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eWANybpncqeDVRwYOkCyd_46.883568_-96.798205@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297785,
+    "wof:geomhash":"f2b2c62e52cce05e17be5f9dfe3d5699",
+    "wof:hierarchy":[],
+    "wof:id":873801011,
+    "wof:lastmodified":1464297785,
+    "wof:name":"KFC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chicken"
+    ]
+},
+  "bbox": [
+    -96.798205,
+    46.883568,
+    -96.798205,
+    46.883568
+],
+  "geometry": {"coordinates":[-96.798205,46.883568],"type":"Point"}
+}

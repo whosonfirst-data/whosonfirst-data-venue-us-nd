@@ -1,0 +1,73 @@
+{
+  "id": 873767137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.049387,47.919094,-97.049387,47.919094",
+    "geom:latitude":47.919094,
+    "geom:longitude":-97.049387,
+    "iso:country":"US",
+    "sg:address":"1501 Dyke Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 7895",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31dGInKIqLctfr7b5iys06_47.919094_-97.049387@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297327,
+    "wof:geomhash":"9cd109fc089d9eae0617875a8013be28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873767137
+        }
+    ],
+    "wof:id":873767137,
+    "wof:lastmodified":1464297327,
+    "wof:name":"Samson Electric Ltd",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.049387,
+    47.919094,
+    -97.049387,
+    47.919094
+],
+  "geometry": {"coordinates":[-97.049387,47.919094],"type":"Point"}
+}

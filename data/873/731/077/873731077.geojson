@@ -1,0 +1,75 @@
+{
+  "id": 873731077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.566436,47.734184,-97.566436,47.734184",
+    "geom:latitude":47.734184,
+    "geom:longitude":-97.566436,
+    "iso:country":"US",
+    "sg:address":"203 Main St",
+    "sg:city":"Northwood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 587 5882",
+    "sg:postcode":"58267",
+    "sg:province":"ND",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1x4lyD07uYOaPlfFkY9ycB_47.734184_-97.566436@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296792,
+    "wof:geomhash":"40777890be542a7fd55175fa35fa582b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873731077
+        }
+    ],
+    "wof:id":873731077,
+    "wof:lastmodified":1464296792,
+    "wof:name":"Northwood Auto Body",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -97.566436,
+    47.734184,
+    -97.566436,
+    47.734184
+],
+  "geometry": {"coordinates":[-97.566436,47.734184],"type":"Point"}
+}

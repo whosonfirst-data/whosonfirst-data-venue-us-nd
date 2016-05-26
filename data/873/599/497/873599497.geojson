@@ -1,0 +1,73 @@
+{
+  "id": 873599497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.084268,47.928119,-97.084268,47.928119",
+    "geom:latitude":47.928119,
+    "geom:longitude":-97.084268,
+    "iso:country":"US",
+    "sg:address":"903 Shakespeare Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 6388",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LCRrhTIxEbMMzBBgWKxuk_47.928119_-97.084268@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294982,
+    "wof:geomhash":"5c1bd60063bb7765fb5a7c27833ea8b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873599497
+        }
+    ],
+    "wof:id":873599497,
+    "wof:lastmodified":1464294982,
+    "wof:name":"Rogers Construction",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.084268,
+    47.928119,
+    -97.084268,
+    47.928119
+],
+  "geometry": {"coordinates":[-97.08426799999999,47.928119],"type":"Point"}
+}

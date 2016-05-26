@@ -1,0 +1,73 @@
+{
+  "id": 873768899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.179749,48.068921,-97.179749,48.068921",
+    "geom:latitude":48.068921,
+    "geom:longitude":-97.179749,
+    "iso:country":"US",
+    "sg:address":"604 Park Dr",
+    "sg:city":"Manvel",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 696 2591",
+    "sg:postcode":"58256",
+    "sg:province":"ND",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iw8lsV3SdISXtwZZe6BAV_48.068921_-97.179749@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297348,
+    "wof:geomhash":"53e39080eef1ca5ca4548112966c025f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873768899
+        }
+    ],
+    "wof:id":873768899,
+    "wof:lastmodified":1464297348,
+    "wof:name":"Dub Construction",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.179749,
+    48.068921,
+    -97.179749,
+    48.068921
+],
+  "geometry": {"coordinates":[-97.179749,48.068921],"type":"Point"}
+}

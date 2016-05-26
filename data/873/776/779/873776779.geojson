@@ -1,0 +1,71 @@
+{
+  "id": 873776779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.041378,47.930152,-97.041378,47.930152",
+    "geom:latitude":47.930152,
+    "geom:longitude":-97.041378,
+    "iso:country":"US",
+    "sg:address":"702 N 4th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 9842",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Gwlm5gkvuY1NFGb1ZSDS1_47.930152_-97.041378@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297447,
+    "wof:geomhash":"ffac984e6a3a4635649d7ab7ad9ac7dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873776779
+        }
+    ],
+    "wof:id":873776779,
+    "wof:lastmodified":1464297447,
+    "wof:name":"Econ-O-Wash Laundromat",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -97.041378,
+    47.930152,
+    -97.041378,
+    47.930152
+],
+  "geometry": {"coordinates":[-97.04137799999999,47.930152],"type":"Point"}
+}

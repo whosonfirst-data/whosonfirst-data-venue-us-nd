@@ -1,0 +1,66 @@
+{
+  "id": 873624355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.763662,46.840208,-100.763662,46.840208",
+    "geom:latitude":46.840208,
+    "geom:longitude":-100.763662,
+    "iso:country":"US",
+    "sg:address":"2940 N 19th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 4300",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70y1UlAjJRJZ0SISYZHa7g_46.840208_-100.763662@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295303,
+    "wof:geomhash":"b48884d32dc7c31063a063df099c3875",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873624355
+        }
+    ],
+    "wof:id":873624355,
+    "wof:lastmodified":1464295303,
+    "wof:name":"Salon For You",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.763662,
+    46.840208,
+    -100.763662,
+    46.840208
+],
+  "geometry": {"coordinates":[-100.763662,46.840208],"type":"Point"}
+}

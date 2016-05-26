@@ -1,0 +1,67 @@
+{
+  "id": 873784581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.317477,48.224685,-101.317477,48.224685",
+    "geom:latitude":48.224685,
+    "geom:longitude":-101.317477,
+    "iso:country":"US",
+    "sg:address":"1715 Burdick Expy W",
+    "sg:city":"Minot",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 1244",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18vYHVdzpTNnGBnR0bshin_48.224685_-101.317477@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297551,
+    "wof:geomhash":"2ab2b3281fb1849029d3ae0c32ba1d1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873784581
+        }
+    ],
+    "wof:id":873784581,
+    "wof:lastmodified":1464297551,
+    "wof:name":"Minot Restaurant Supply Co",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "supply"
+    ]
+},
+  "bbox": [
+    -101.317477,
+    48.224685,
+    -101.317477,
+    48.224685
+],
+  "geometry": {"coordinates":[-101.317477,48.224685],"type":"Point"}
+}

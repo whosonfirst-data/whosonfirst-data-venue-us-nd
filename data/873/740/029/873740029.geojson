@@ -1,0 +1,73 @@
+{
+  "id": 873740029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.048952,47.93318,-97.048952,47.93318",
+    "geom:latitude":47.93318,
+    "geom:longitude":-97.048952,
+    "iso:country":"US",
+    "sg:address":"416 Gateway Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 5221",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "water",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MgRxFiiOtHwWk8PMCzFJI_47.933180_-97.048952@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296920,
+    "wof:geomhash":"d694b0a080b5693c713bc3bfe5793744",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873740029
+        }
+    ],
+    "wof:id":873740029,
+    "wof:lastmodified":1464296920,
+    "wof:name":"Culligan Water Conditioning",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "treatment"
+    ]
+},
+  "bbox": [
+    -97.048952,
+    47.93318,
+    -97.048952,
+    47.93318
+],
+  "geometry": {"coordinates":[-97.048952,47.93318],"type":"Point"}
+}

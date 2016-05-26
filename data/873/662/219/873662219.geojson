@@ -1,0 +1,71 @@
+{
+  "id": 873662219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.036042,47.886764,-97.036042,47.886764",
+    "geom:latitude":47.886764,
+    "geom:longitude":-97.036042,
+    "iso:country":"US",
+    "sg:address":"3510 Cherry St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 7085",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "book"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ASoJWUL0RFGHy2IVGokHH_47.886764_-97.036042@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295721,
+    "wof:geomhash":"78e5425c41e81258d2475491e02c6849",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873662219
+        }
+    ],
+    "wof:id":873662219,
+    "wof:lastmodified":1464295721,
+    "wof:name":"Zapstone Productions",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "book"
+    ]
+},
+  "bbox": [
+    -97.036042,
+    47.886764,
+    -97.036042,
+    47.886764
+],
+  "geometry": {"coordinates":[-97.03604199999999,47.886764],"type":"Point"}
+}

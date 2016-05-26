@@ -1,0 +1,79 @@
+{
+  "id": 873594455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.76509,46.79561,-100.76509,46.79561",
+    "geom:latitude":46.79561,
+    "geom:longitude":-100.76509,
+    "iso:country":"US",
+    "sg:address":"830 S 18th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 8080",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "operator",
+        "air",
+        "local",
+        "courier",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Y5U95dKpS3EuljudjgQYX_46.795610_-100.765090@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294892,
+    "wof:geomhash":"00ceec8fd33c542c9459559c900a1225",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873594455
+        }
+    ],
+    "wof:id":873594455,
+    "wof:lastmodified":1464294892,
+    "wof:name":"Airborne",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "air",
+        "local",
+        "courier",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -100.76509,
+    46.79561,
+    -100.76509,
+    46.79561
+],
+  "geometry": {"coordinates":[-100.76509,46.79561],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873805343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.864926,46.818376,-96.864926,46.818376",
+    "geom:latitude":46.818376,
+    "geom:longitude":-96.864926,
+    "iso:country":"US",
+    "sg:address":"4656 40th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 234 8860",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JDutCTgc7NneqHWtp5XEz_46.818376_-96.864926@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297839,
+    "wof:geomhash":"e8838f9c5fcb3af613b08c7ac1f89f5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873805343
+        }
+    ],
+    "wof:id":873805343,
+    "wof:lastmodified":1464297839,
+    "wof:name":"Sanford Medical Center",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -96.864926,
+    46.818376,
+    -96.864926,
+    46.818376
+],
+  "geometry": {"coordinates":[-96.864926,46.818376],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873744907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.746807,46.858075,-100.746807,46.858075",
+    "geom:latitude":46.858075,
+    "geom:longitude":-100.746807,
+    "iso:country":"US",
+    "sg:address":"2826 Morris Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 250 4877",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RWeKcxJfDaCgTVenXHN5P_46.858075_-100.746807@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297009,
+    "wof:geomhash":"01991c52d6ca544957031ed1a55dd2ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873744907
+        }
+    ],
+    "wof:id":873744907,
+    "wof:lastmodified":1464297009,
+    "wof:name":"Triple R Land Company",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -100.746807,
+    46.858075,
+    -100.746807,
+    46.858075
+],
+  "geometry": {"coordinates":[-100.746807,46.858075],"type":"Point"}
+}

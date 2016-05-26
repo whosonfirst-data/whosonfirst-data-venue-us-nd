@@ -1,0 +1,79 @@
+{
+  "id": 873713731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.806692,46.839761,-96.806692,46.839761",
+    "geom:latitude":46.839761,
+    "geom:longitude":-96.806692,
+    "iso:country":"US",
+    "sg:address":"2609 Atlantic Dr S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 241 6037",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "liquefied",
+        "gas",
+        "petroleum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534475,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41fHymp8s7ESS4eO2dQipb_46.839761_-96.806692@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296565,
+    "wof:geomhash":"691ab956286d67d0507c13257f68f158",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534475,
+            "region_id":85688525,
+            "venue_id":873713731
+        }
+    ],
+    "wof:id":873713731,
+    "wof:lastmodified":1464296565,
+    "wof:name":"Red River Propane Inc",
+    "wof:parent_id":420534475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "liquefied",
+        "gas",
+        "petroleum"
+    ]
+},
+  "bbox": [
+    -96.806692,
+    46.839761,
+    -96.806692,
+    46.839761
+],
+  "geometry": {"coordinates":[-96.806692,46.839761],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 873632679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.100537,47.912617,-97.100537,47.912617",
+    "geom:latitude":47.912617,
+    "geom:longitude":-97.100537,
+    "iso:country":"US",
+    "sg:address":"4957 10th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 1818",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "coating",
+        "nonferrous"
+    ],
+    "sg:website":"www.tagnite.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gbNiIoMP5G5h9JEq0sasr_47.912617_-97.100537@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295395,
+    "wof:geomhash":"eebbb2b0a484d5ab4ac10956427da454",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873632679
+        }
+    ],
+    "wof:id":873632679,
+    "wof:lastmodified":1464295395,
+    "wof:name":"Technology Applications Group",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coating",
+        "nonferrous"
+    ]
+},
+  "bbox": [
+    -97.100537,
+    47.912617,
+    -97.100537,
+    47.912617
+],
+  "geometry": {"coordinates":[-97.100537,47.912617],"type":"Point"}
+}

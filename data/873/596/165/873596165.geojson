@@ -1,0 +1,75 @@
+{
+  "id": 873596165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.064541,47.928384,-97.064541,47.928384",
+    "geom:latitude":47.928384,
+    "geom:longitude":-97.064541,
+    "iso:country":"US",
+    "sg:address":"2522 9th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 3366",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lxMThgwrGULWfHAnrjqJN_47.928384_-97.064541@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294929,
+    "wof:geomhash":"57cdb855d779b2e4603ebd74355ee699",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873596165
+        }
+    ],
+    "wof:id":873596165,
+    "wof:lastmodified":1464294929,
+    "wof:name":"Ruth's Dog Grooming",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -97.064541,
+    47.928384,
+    -97.064541,
+    47.928384
+],
+  "geometry": {"coordinates":[-97.06454100000001,47.928384],"type":"Point"}
+}

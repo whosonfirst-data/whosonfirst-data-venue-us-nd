@@ -1,0 +1,73 @@
+{
+  "id": 873620155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.764924,46.806162,-100.764924,46.806162",
+    "geom:latitude":46.806162,
+    "geom:longitude":-100.764924,
+    "iso:country":"US",
+    "sg:address":"1707 E Broadway Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 3194",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "janitor",
+        "contract"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2x5axiBcKO2n2STqU6iqso_46.806162_-100.764924@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295252,
+    "wof:geomhash":"6165bf1bc90348ad0380463d013efb82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873620155
+        }
+    ],
+    "wof:id":873620155,
+    "wof:lastmodified":1464295252,
+    "wof:name":"Progressive Maintenance",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor",
+        "contract"
+    ]
+},
+  "bbox": [
+    -100.764924,
+    46.806162,
+    -100.764924,
+    46.806162
+],
+  "geometry": {"coordinates":[-100.76492399999999,46.806162],"type":"Point"}
+}

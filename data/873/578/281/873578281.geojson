@@ -1,0 +1,73 @@
+{
+  "id": 873578281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.76702,46.7904,-100.76702,46.7904",
+    "geom:latitude":46.7904,
+    "geom:longitude":-100.76702,
+    "iso:country":"US",
+    "sg:address":"1721 Park Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 355 0169",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NmNwkTSOBymh03Ufpy2iK_46.790400_-100.767020@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294697,
+    "wof:geomhash":"6927357080665567fc67b0046dd10845",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873578281
+        }
+    ],
+    "wof:id":873578281,
+    "wof:lastmodified":1464294697,
+    "wof:name":"M & R Auto Repair",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -100.76702,
+    46.7904,
+    -100.76702,
+    46.7904
+],
+  "geometry": {"coordinates":[-100.76702,46.7904],"type":"Point"}
+}

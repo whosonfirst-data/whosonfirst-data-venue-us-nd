@@ -1,0 +1,71 @@
+{
+  "id": 873572545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.784752,46.808637,-100.784752,46.808637",
+    "geom:latitude":46.808637,
+    "geom:longitude":-100.784752,
+    "iso:country":"US",
+    "sg:address":"418 E Rosser Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 0903",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2t41LB1yDxQDVR3uXLBZ5M_46.808637_-100.784752@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294637,
+    "wof:geomhash":"c14e157a471b752f4c28aea68f19c065",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873572545
+        }
+    ],
+    "wof:id":873572545,
+    "wof:lastmodified":1464294637,
+    "wof:name":"Thomas J Glass Attorney",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -100.784752,
+    46.808637,
+    -100.784752,
+    46.808637
+],
+  "geometry": {"coordinates":[-100.784752,46.808637],"type":"Point"}
+}

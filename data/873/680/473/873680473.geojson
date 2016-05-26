@@ -1,0 +1,73 @@
+{
+  "id": 873680473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.10383,47.778857,-97.10383,47.778857",
+    "geom:latitude":47.778857,
+    "geom:longitude":-97.10383,
+    "iso:country":"US",
+    "sg:address":"608 N Woodland Dr",
+    "sg:city":"Thompson",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 599 2693",
+    "sg:postcode":"58278",
+    "sg:province":"ND",
+    "sg:tags":[
+        "food",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08jH3agC0Hrr0ayHKJSiyr_47.778857_-97.103830@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296009,
+    "wof:geomhash":"ab6a0742ad99e8c56782776c06a5823e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873680473
+        }
+    ],
+    "wof:id":873680473,
+    "wof:lastmodified":1464296009,
+    "wof:name":"Gopher Sales",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "broker"
+    ]
+},
+  "bbox": [
+    -97.10383,
+    47.778857,
+    -97.10383,
+    47.778857
+],
+  "geometry": {"coordinates":[-97.10383,47.778857],"type":"Point"}
+}

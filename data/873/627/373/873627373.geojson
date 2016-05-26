@@ -1,0 +1,88 @@
+{
+  "id": 873627373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.810825,46.879473,-96.810825,46.879473",
+    "geom:latitude":46.879473,
+    "geom:longitude":-96.810825,
+    "iso:country":"US",
+    "sg:address":"205 19th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 356 1339",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "parts",
+        "toner",
+        "ink",
+        "sales",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_687Tk8FEyR8xiJiagn0St2_46.879473_-96.810825@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295333,
+    "wof:geomhash":"a806312152842e0e28fc636bdbb78df5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873627373
+        }
+    ],
+    "wof:id":873627373,
+    "wof:lastmodified":1464295333,
+    "wof:name":"Value Toner",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parts",
+        "toner",
+        "ink",
+        "sales",
+        "supply"
+    ]
+},
+  "bbox": [
+    -96.810825,
+    46.879473,
+    -96.810825,
+    46.879473
+],
+  "geometry": {"coordinates":[-96.81082499999999,46.879473],"type":"Point"}
+}

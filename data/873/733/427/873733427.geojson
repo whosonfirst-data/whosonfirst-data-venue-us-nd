@@ -1,0 +1,80 @@
+{
+  "id": 873733427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.03936,47.921454,-97.03936,47.921454",
+    "geom:latitude":47.921454,
+    "geom:longitude":-97.03936,
+    "iso:country":"US",
+    "sg:address":"949 2nd Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 3191",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "outdoor",
+        "equipment",
+        "parts",
+        "sales",
+        "power"
+    ],
+    "sg:website":"www.thegardenhut.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13Mk7H3Ar9vb65pNQHoYE7_47.921454_-97.039360@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296820,
+    "wof:geomhash":"d8dbc71cdd449e50171e0077b1c243ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873733427
+        }
+    ],
+    "wof:id":873733427,
+    "wof:lastmodified":1464296820,
+    "wof:name":"Garden Hut",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "outdoor",
+        "equipment",
+        "parts",
+        "sales",
+        "power"
+    ]
+},
+  "bbox": [
+    -97.03936,
+    47.921454,
+    -97.03936,
+    47.921454
+],
+  "geometry": {"coordinates":[-97.03936,47.921454],"type":"Point"}
+}

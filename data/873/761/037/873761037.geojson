@@ -1,0 +1,75 @@
+{
+  "id": 873761037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.041635,47.931609,-97.041635,47.931609",
+    "geom:latitude":47.931609,
+    "geom:longitude":-97.041635,
+    "iso:country":"US",
+    "sg:address":"820 N 3rd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 4292",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "home",
+        "planning",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ROQKg0yUI7Ty03AMexRCC_47.931609_-97.041635@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297220,
+    "wof:geomhash":"a950ac4b1d60693626ca17689b440e1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873761037
+        }
+    ],
+    "wof:id":873761037,
+    "wof:lastmodified":1464297220,
+    "wof:name":"Simonson's 3-D Drafting Svc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "planning",
+        "design"
+    ]
+},
+  "bbox": [
+    -97.041635,
+    47.931609,
+    -97.041635,
+    47.931609
+],
+  "geometry": {"coordinates":[-97.041635,47.931609],"type":"Point"}
+}

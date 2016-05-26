@@ -1,0 +1,71 @@
+{
+  "id": 873760521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.248393,48.229065,-101.248393,48.229065",
+    "geom:latitude":48.229065,
+    "geom:longitude":-101.248393,
+    "iso:country":"US",
+    "sg:address":"3010 Burdick Expy E",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 6802",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shelter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iF9mAczBaBcBUx3BWMRwZ_48.229065_-101.248393@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297214,
+    "wof:geomhash":"7985d9b8157b93382519289a282bd771",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873760521
+        }
+    ],
+    "wof:id":873760521,
+    "wof:lastmodified":1464297214,
+    "wof:name":"Minot Dog Pound & Licensing",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shelter"
+    ]
+},
+  "bbox": [
+    -101.248393,
+    48.229065,
+    -101.248393,
+    48.229065
+],
+  "geometry": {"coordinates":[-101.24839299999999,48.229065],"type":"Point"}
+}

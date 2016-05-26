@@ -1,0 +1,74 @@
+{
+  "id": 873643931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.029246,47.92449,-97.029246,47.92449",
+    "geom:latitude":47.92449,
+    "geom:longitude":-97.029246,
+    "iso:country":"US",
+    "sg:address":"18 S 3rd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 7300",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "fabricator",
+        "product"
+    ],
+    "sg:website":"www.badman.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GtvdhK4YCRZ6j3UwTk72S_47.924490_-97.029246@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295524,
+    "wof:geomhash":"bb6a75b21bf80e8cf8527c2e286e7f38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873643931
+        }
+    ],
+    "wof:id":873643931,
+    "wof:lastmodified":1464295524,
+    "wof:name":"Badman Design",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fabricator",
+        "product"
+    ]
+},
+  "bbox": [
+    -97.029246,
+    47.92449,
+    -97.029246,
+    47.92449
+],
+  "geometry": {"coordinates":[-97.029246,47.92449],"type":"Point"}
+}

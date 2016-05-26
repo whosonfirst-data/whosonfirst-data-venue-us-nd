@@ -1,0 +1,71 @@
+{
+  "id": 873726659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.04984,47.916337,-97.04984,47.916337",
+    "geom:latitude":47.916337,
+    "geom:longitude":-97.04984,
+    "iso:country":"US",
+    "sg:address":"1521 Demers Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 780 0700",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "pet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4t07fZN2FPeN8N4Af8SMYQ_47.916337_-97.049840@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296736,
+    "wof:geomhash":"9be6f7543ecdc1cef0ac93e249d38e94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873726659
+        }
+    ],
+    "wof:id":873726659,
+    "wof:lastmodified":1464296736,
+    "wof:name":"Ruffin' It",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet"
+    ]
+},
+  "bbox": [
+    -97.04984,
+    47.916337,
+    -97.04984,
+    47.916337
+],
+  "geometry": {"coordinates":[-97.04984,47.916337],"type":"Point"}
+}

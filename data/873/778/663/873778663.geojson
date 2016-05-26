@@ -1,0 +1,79 @@
+{
+  "id": 873778663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-102.784538,46.878721,-102.784538,46.878721",
+    "geom:latitude":46.878721,
+    "geom:longitude":-102.784538,
+    "iso:country":"US",
+    "sg:address":"41 E Villard St",
+    "sg:city":"Dickinson",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 225 0292",
+    "sg:postcode":"58601",
+    "sg:province":"ND",
+    "sg:tags":[
+        "martial",
+        "arts",
+        "instruction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877119,
+        102191575,
+        404482179,
+        85633793,
+        85982521,
+        102082105,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JxX7jNppGzeaKAwkKVrzu_46.878721_-102.784538@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297472,
+    "wof:geomhash":"0ac326e26381767c448b305061e7cade",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082105,
+            "localadmin_id":404482179,
+            "locality_id":85982521,
+            "neighbourhood_id":85877119,
+            "region_id":85688525,
+            "venue_id":873778663
+        }
+    ],
+    "wof:id":873778663,
+    "wof:lastmodified":1464297472,
+    "wof:name":"Jordheim's Taekwondo",
+    "wof:parent_id":85877119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "martial",
+        "arts",
+        "instruction"
+    ]
+},
+  "bbox": [
+    -102.784538,
+    46.878721,
+    -102.784538,
+    46.878721
+],
+  "geometry": {"coordinates":[-102.784538,46.878721],"type":"Point"}
+}

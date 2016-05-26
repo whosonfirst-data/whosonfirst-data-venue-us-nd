@@ -1,0 +1,71 @@
+{
+  "id": 873752927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.023741,47.91879,-97.023741,47.91879",
+    "geom:latitude":47.91879,
+    "geom:longitude":-97.023741,
+    "iso:country":"US",
+    "sg:address":"621 S 5th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 8388",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dIQcSfG7Pdkijbh2R2vAy_47.918790_-97.023741@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297117,
+    "wof:geomhash":"670e5ab0ac54e2568688363d649b02e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873752927
+        }
+    ],
+    "wof:id":873752927,
+    "wof:lastmodified":1464297117,
+    "wof:name":"First Choice Mortgage",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -97.023741,
+    47.91879,
+    -97.023741,
+    47.91879
+],
+  "geometry": {"coordinates":[-97.023741,47.91879],"type":"Point"}
+}

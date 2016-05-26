@@ -1,0 +1,66 @@
+{
+  "id": 873629275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.784752,46.808637,-100.784752,46.808637",
+    "geom:latitude":46.808637,
+    "geom:longitude":-100.784752,
+    "iso:country":"US",
+    "sg:address":"418 E Rosser Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 6107",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6b4gCCbLSpuL5tWDKNkyBN_46.808637_-100.784752@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295352,
+    "wof:geomhash":"c14e157a471b752f4c28aea68f19c065",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873629275
+        }
+    ],
+    "wof:id":873629275,
+    "wof:lastmodified":1464295352,
+    "wof:name":"US Hearings & Appeals Ofc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.784752,
+    46.808637,
+    -100.784752,
+    46.808637
+],
+  "geometry": {"coordinates":[-100.784752,46.808637],"type":"Point"}
+}

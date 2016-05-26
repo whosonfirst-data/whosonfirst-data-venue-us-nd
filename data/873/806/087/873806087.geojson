@@ -1,0 +1,74 @@
+{
+  "id": 873806087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.789291,46.800129,-100.789291,46.800129",
+    "geom:latitude":46.800129,
+    "geom:longitude":-100.789291,
+    "iso:country":"US",
+    "sg:address":"600 S 2nd St Ste 7A",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 250 4225",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "government-united",
+        "state"
+    ],
+    "sg:website":"http://www.irs.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jjyQrDJDw0VJqddK5EwHk_46.800129_-100.789291@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297853,
+    "wof:geomhash":"890e644f221cfef98c77e3b5ced32615",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873806087
+        }
+    ],
+    "wof:id":873806087,
+    "wof:lastmodified":1464297853,
+    "wof:name":"Internal Revenue Service",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government-united",
+        "state"
+    ]
+},
+  "bbox": [
+    -100.789291,
+    46.800129,
+    -100.789291,
+    46.800129
+],
+  "geometry": {"coordinates":[-100.78929100000001,46.800129],"type":"Point"}
+}

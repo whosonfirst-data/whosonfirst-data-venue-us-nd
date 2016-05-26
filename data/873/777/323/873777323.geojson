@@ -1,0 +1,81 @@
+{
+  "id": 873777323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.085421,47.930119,-97.085421,47.930119",
+    "geom:latitude":47.930119,
+    "geom:longitude":-97.085421,
+    "iso:country":"US",
+    "sg:address":"1123 Shakespeare Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 0008",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "sales",
+        "brush",
+        "direct"
+    ],
+    "sg:website":"www.fuller.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gNGnwKb7dmd0nbWdybniR_47.930119_-97.085421@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297454,
+    "wof:geomhash":"09d1394fbef82cf74ea35fd4843df99b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873777323
+        }
+    ],
+    "wof:id":873777323,
+    "wof:lastmodified":1464297454,
+    "wof:name":"Fuller Brush Co",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sales",
+        "brush",
+        "direct"
+    ]
+},
+  "bbox": [
+    -97.085421,
+    47.930119,
+    -97.085421,
+    47.930119
+],
+  "geometry": {"coordinates":[-97.085421,47.930119],"type":"Point"}
+}

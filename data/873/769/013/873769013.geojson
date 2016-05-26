@@ -1,0 +1,79 @@
+{
+  "id": 873769013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.832607,46.864222,-96.832607,46.864222",
+    "geom:latitude":46.864222,
+    "geom:longitude":-96.832607,
+    "iso:country":"US",
+    "sg:address":"3313 Fiechtner Dr S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 6906",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "sound",
+        "equipment",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZSU6OaSKMSGQvDH9HLBv1_46.864222_-96.832607@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297350,
+    "wof:geomhash":"ca7e9f5afdee6e19d7603e3614b11aec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873769013
+        }
+    ],
+    "wof:id":873769013,
+    "wof:lastmodified":1464297350,
+    "wof:name":"A Sound Environment LLC",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sound",
+        "equipment",
+        "system"
+    ]
+},
+  "bbox": [
+    -96.832607,
+    46.864222,
+    -96.832607,
+    46.864222
+],
+  "geometry": {"coordinates":[-96.832607,46.864222],"type":"Point"}
+}

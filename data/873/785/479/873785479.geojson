@@ -1,0 +1,67 @@
+{
+  "id": 873785479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.055155,47.927329,-97.055155,47.927329",
+    "geom:latitude":47.927329,
+    "geom:longitude":-97.055155,
+    "iso:country":"US",
+    "sg:address":"1908 8th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 8972",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "wheat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PSGE25RKD5TGsHM0x9nIj_47.927329_-97.055155@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297561,
+    "wof:geomhash":"f4ebe917e13aa5b5b263fd8fae685546",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873785479
+        }
+    ],
+    "wof:id":873785479,
+    "wof:lastmodified":1464297561,
+    "wof:name":"Martin Klava",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "wheat"
+    ]
+},
+  "bbox": [
+    -97.055155,
+    47.927329,
+    -97.055155,
+    47.927329
+],
+  "geometry": {"coordinates":[-97.055155,47.927329],"type":"Point"}
+}

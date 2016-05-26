@@ -1,0 +1,74 @@
+{
+  "id": 873616159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.066576,47.925294,-97.066576,47.925294",
+    "geom:latitude":47.925294,
+    "geom:longitude":-97.066576,
+    "iso:country":"US",
+    "sg:address":"501 N Columbia Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 777 3993",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "special",
+        "interest"
+    ],
+    "sg:website":"www.medicine.nodak.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74lrnpzwe9WZr7gmaKFb53_47.925294_-97.066576@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295206,
+    "wof:geomhash":"60c94af230f004da8aa27f100a41f2e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873616159
+        }
+    ],
+    "wof:id":873616159,
+    "wof:lastmodified":1464295206,
+    "wof:name":"Harley E French Library",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "special",
+        "interest"
+    ]
+},
+  "bbox": [
+    -97.066576,
+    47.925294,
+    -97.066576,
+    47.925294
+],
+  "geometry": {"coordinates":[-97.066576,47.925294],"type":"Point"}
+}

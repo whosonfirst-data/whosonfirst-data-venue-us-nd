@@ -1,0 +1,75 @@
+{
+  "id": 873610139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.818699,46.888143,-96.818699,46.888143",
+    "geom:latitude":46.888143,
+    "geom:longitude":-96.818699,
+    "iso:country":"US",
+    "sg:address":"2441 Great Northern Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 239 5904",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "steel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877363,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RzTof2h0hq9nO01iBL4EV_46.888143_-96.818699@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295145,
+    "wof:geomhash":"5679b8fe92f2b11426e7239f990a1605",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877363,
+            "region_id":85688525,
+            "venue_id":873610139
+        }
+    ],
+    "wof:id":873610139,
+    "wof:lastmodified":1464295145,
+    "wof:name":"Premiere Building Systems Inc",
+    "wof:parent_id":85877363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel"
+    ]
+},
+  "bbox": [
+    -96.818699,
+    46.888143,
+    -96.818699,
+    46.888143
+],
+  "geometry": {"coordinates":[-96.818699,46.888143],"type":"Point"}
+}

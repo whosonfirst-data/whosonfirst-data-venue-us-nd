@@ -1,0 +1,73 @@
+{
+  "id": 873761451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.10711,47.778828,-97.10711,47.778828",
+    "geom:latitude":47.778828,
+    "geom:longitude":-97.10711,
+    "iso:country":"US",
+    "sg:address":"415 6th St",
+    "sg:city":"Thompson",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 599 2067",
+    "sg:postcode":"58278",
+    "sg:province":"ND",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xeIrI20RT52prrqU3ymXJ_47.778828_-97.107110@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297227,
+    "wof:geomhash":"8262edf948fd916f75f5ce691d3b4625",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873761451
+        }
+    ],
+    "wof:id":873761451,
+    "wof:lastmodified":1464297227,
+    "wof:name":"Curtis J Fischer",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -97.10711,
+    47.778828,
+    -97.10711,
+    47.778828
+],
+  "geometry": {"coordinates":[-97.10711000000001,47.778828],"type":"Point"}
+}

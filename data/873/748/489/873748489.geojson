@@ -1,0 +1,66 @@
+{
+  "id": 873748489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.032448,47.923867,-97.032448,47.923867",
+    "geom:latitude":47.923867,
+    "geom:longitude":-97.032448,
+    "iso:country":"US",
+    "sg:address":"420 Demers Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 0365",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QPS9tBp1Yi8CiGRwkdgDD_47.923867_-97.032448@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297055,
+    "wof:geomhash":"5f8b7c15736bdb598236a5823392971f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873748489
+        }
+    ],
+    "wof:id":873748489,
+    "wof:lastmodified":1464297055,
+    "wof:name":"Bonzers",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.032448,
+    47.923867,
+    -97.032448,
+    47.923867
+],
+  "geometry": {"coordinates":[-97.032448,47.923867],"type":"Point"}
+}

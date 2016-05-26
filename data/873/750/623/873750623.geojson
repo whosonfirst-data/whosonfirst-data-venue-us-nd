@@ -1,0 +1,73 @@
+{
+  "id": 873750623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.28517,48.214661,-101.28517,48.214661",
+    "geom:latitude":48.214661,
+    "geom:longitude":-101.28517,
+    "iso:country":"US",
+    "sg:address":"601 18th Ave SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 3200",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6j0nFdmuiyJI7Qx3APTsWl_48.214661_-101.285170@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297082,
+    "wof:geomhash":"ef016c90e087a57144a7063acf3e7509",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873750623
+        }
+    ],
+    "wof:id":873750623,
+    "wof:lastmodified":1464297082,
+    "wof:name":"Eye Clinic Of North Dakota",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -101.28517,
+    48.214661,
+    -101.28517,
+    48.214661
+],
+  "geometry": {"coordinates":[-101.28516999999999,48.214661],"type":"Point"}
+}

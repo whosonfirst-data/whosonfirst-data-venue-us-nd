@@ -1,0 +1,66 @@
+{
+  "id": 873703141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.091728,47.942262,-97.091728,47.942262",
+    "geom:latitude":47.942262,
+    "geom:longitude":-97.091728,
+    "iso:country":"US",
+    "sg:address":"2145 N 44th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 0782",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Nh3xkRMbCUK2Asa37T0n5_47.942262_-97.091728@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296437,
+    "wof:geomhash":"d5fa0a7217c7a4cf0ac8e62a60b153b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873703141
+        }
+    ],
+    "wof:id":873703141,
+    "wof:lastmodified":1464296437,
+    "wof:name":"Fedex Groundnp Loda",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.091728,
+    47.942262,
+    -97.091728,
+    47.942262
+],
+  "geometry": {"coordinates":[-97.091728,47.942262],"type":"Point"}
+}

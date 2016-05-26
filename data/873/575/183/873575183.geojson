@@ -1,0 +1,75 @@
+{
+  "id": 873575183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.351774,47.170852,-100.351774,47.170852",
+    "geom:latitude":47.170852,
+    "geom:longitude":-100.351774,
+    "iso:country":"US",
+    "sg:address":"27250 331st Ave NE",
+    "sg:city":"Wing",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 943 2461",
+    "sg:postcode":"58494",
+    "sg:province":"ND",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XjWXfnXpszfur3zXJ2Fj8_47.170852_-100.351774@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294666,
+    "wof:geomhash":"242179b6c11f233b1d838714e1250a5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873575183
+        }
+    ],
+    "wof:id":873575183,
+    "wof:lastmodified":1464294666,
+    "wof:name":"Eva's Bed & Breakfast",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ]
+},
+  "bbox": [
+    -100.351774,
+    47.170852,
+    -100.351774,
+    47.170852
+],
+  "geometry": {"coordinates":[-100.35177400000001,47.170852],"type":"Point"}
+}

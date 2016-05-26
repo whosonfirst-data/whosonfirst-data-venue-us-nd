@@ -1,0 +1,73 @@
+{
+  "id": 873577841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.330124,48.241652,-101.330124,48.241652",
+    "geom:latitude":48.241652,
+    "geom:longitude":-101.330124,
+    "iso:country":"US",
+    "sg:address":"412 25th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 4208",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JH74X9RT5SXdzqF6URRR1_48.241652_-101.330124@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294692,
+    "wof:geomhash":"3c66797bd3c330962f650c39b22da7e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873577841
+        }
+    ],
+    "wof:id":873577841,
+    "wof:lastmodified":1464294692,
+    "wof:name":"Schultz Electric Inc",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.330124,
+    48.241652,
+    -101.330124,
+    48.241652
+],
+  "geometry": {"coordinates":[-101.330124,48.241652],"type":"Point"}
+}

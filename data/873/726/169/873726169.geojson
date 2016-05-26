@@ -1,0 +1,71 @@
+{
+  "id": 873726169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.803674,46.832736,-96.803674,46.832736",
+    "geom:latitude":46.832736,
+    "geom:longitude":-96.803674,
+    "iso:country":"US",
+    "sg:address":"1501 32nd Ave",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 364 3604",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:website":"www.nfuic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534487,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wHoFvl6Xg0SGUera69SeD_46.832736_-96.803674@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296727,
+    "wof:geomhash":"b16cfa2962ac16a4bab37ee04e39a011",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534487,
+            "region_id":85688525,
+            "venue_id":873726169
+        }
+    ],
+    "wof:id":873726169,
+    "wof:lastmodified":1464296727,
+    "wof:name":"Farmers Union Insurance",
+    "wof:parent_id":420534487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.803674,
+    46.832736,
+    -96.803674,
+    46.832736
+],
+  "geometry": {"coordinates":[-96.803674,46.832736],"type":"Point"}
+}

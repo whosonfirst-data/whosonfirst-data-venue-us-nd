@@ -1,0 +1,71 @@
+{
+  "id": 873643299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.089933,47.933122,-97.089933,47.933122",
+    "geom:latitude":47.933122,
+    "geom:longitude":-97.089933,
+    "iso:country":"US",
+    "sg:address":"4300 Gateway Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 5020",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qwvFNWQ6WJIPMhix9Cilp_47.933122_-97.089933@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295518,
+    "wof:geomhash":"7127327088484fba80a300b2a906d61e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873643299
+        }
+    ],
+    "wof:id":873643299,
+    "wof:lastmodified":1464295518,
+    "wof:name":"Smittys Transmission Service",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -97.089933,
+    47.933122,
+    -97.089933,
+    47.933122
+],
+  "geometry": {"coordinates":[-97.089933,47.933122],"type":"Point"}
+}

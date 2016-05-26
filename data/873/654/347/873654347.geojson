@@ -1,0 +1,73 @@
+{
+  "id": 873654347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.75776,46.805045,-100.75776,46.805045",
+    "geom:latitude":46.805045,
+    "geom:longitude":-100.75776,
+    "iso:country":"US",
+    "sg:address":"2129 E Main Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 7137",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automotive",
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cXiWx96xmlJOt3wJMPIRQ_46.805045_-100.757760@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295639,
+    "wof:geomhash":"b0158dd7fe34d026a9356378e8cd7cce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873654347
+        }
+    ],
+    "wof:id":873654347,
+    "wof:lastmodified":1464295639,
+    "wof:name":"O K Tire Store Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "tire"
+    ]
+},
+  "bbox": [
+    -100.75776,
+    46.805045,
+    -100.75776,
+    46.805045
+],
+  "geometry": {"coordinates":[-100.75776,46.805045],"type":"Point"}
+}

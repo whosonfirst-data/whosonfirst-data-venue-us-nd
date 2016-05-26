@@ -1,0 +1,66 @@
+{
+  "id": 873573317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.028903,47.895779,-97.028903,47.895779",
+    "geom:latitude":47.895779,
+    "geom:longitude":-97.028903,
+    "iso:country":"US",
+    "sg:address":"2405 Belmont Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 2216",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ezAua8tj0huO9aMsaEAqr_47.895779_-97.028903@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294645,
+    "wof:geomhash":"9b391190a29444ea44b0e620770db25e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873573317
+        }
+    ],
+    "wof:id":873573317,
+    "wof:lastmodified":1464294645,
+    "wof:name":"Grand Forks County Historical",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.028903,
+    47.895779,
+    -97.028903,
+    47.895779
+],
+  "geometry": {"coordinates":[-97.028903,47.895779],"type":"Point"}
+}

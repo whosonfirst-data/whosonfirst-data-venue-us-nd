@@ -1,0 +1,77 @@
+{
+  "id": 873704297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.804218,46.875409,-96.804218,46.875409",
+    "geom:latitude":46.875409,
+    "geom:longitude":-96.804218,
+    "iso:country":"US",
+    "sg:address":"1517 Main Ave",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 237 4129",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "hydraulic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ee700k23ZVlmJP03H20zG_46.875409_-96.804218@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296448,
+    "wof:geomhash":"4a67e6014edaf0b2fffb80332ea4ddd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873704297
+        }
+    ],
+    "wof:id":873704297,
+    "wof:lastmodified":1464296448,
+    "wof:name":"Air Hydraulic Systems Inc",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "hydraulic"
+    ]
+},
+  "bbox": [
+    -96.804218,
+    46.875409,
+    -96.804218,
+    46.875409
+],
+  "geometry": {"coordinates":[-96.80421800000001,46.875409],"type":"Point"}
+}

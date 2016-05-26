@@ -1,0 +1,75 @@
+{
+  "id": 873743847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.044938,47.936077,-97.044938,47.936077",
+    "geom:latitude":47.936077,
+    "geom:longitude":-97.044938,
+    "iso:country":"US",
+    "sg:address":"1601 N 3rd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 1907",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "federal",
+        "savings",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_587r9HnLMz9TVW8M834KAI_47.936077_-97.044938@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296989,
+    "wof:geomhash":"16a1b4c3da561bc6dfe8957284ac7e0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873743847
+        }
+    ],
+    "wof:id":873743847,
+    "wof:lastmodified":1464296989,
+    "wof:name":"At Home America",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "savings",
+        "institution"
+    ]
+},
+  "bbox": [
+    -97.044938,
+    47.936077,
+    -97.044938,
+    47.936077
+],
+  "geometry": {"coordinates":[-97.044938,47.936077],"type":"Point"}
+}

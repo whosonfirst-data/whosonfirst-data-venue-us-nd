@@ -1,0 +1,71 @@
+{
+  "id": 873645295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.621744,47.910414,-97.621744,47.910414",
+    "geom:latitude":47.910414,
+    "geom:longitude":-97.621744,
+    "iso:country":"US",
+    "sg:address":"646 Lewis Ave",
+    "sg:city":"Larimore",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 343 7097",
+    "sg:postcode":"58251",
+    "sg:province":"ND",
+    "sg:tags":[
+        "education"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OaFCc8z5gnUi0qenaVmbN_47.910414_-97.621744@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295539,
+    "wof:geomhash":"5f8b8e26a3fe85475e61d404393d2a5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873645295
+        }
+    ],
+    "wof:id":873645295,
+    "wof:lastmodified":1464295539,
+    "wof:name":"Jo-Anne Lavigne",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "education"
+    ]
+},
+  "bbox": [
+    -97.621744,
+    47.910414,
+    -97.621744,
+    47.910414
+],
+  "geometry": {"coordinates":[-97.62174400000001,47.910414],"type":"Point"}
+}

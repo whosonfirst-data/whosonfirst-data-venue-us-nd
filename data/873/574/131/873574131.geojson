@@ -1,0 +1,70 @@
+{
+  "id": 873574131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.804776,46.832538,-96.804776,46.832538",
+    "geom:latitude":46.832538,
+    "geom:longitude":-96.804776,
+    "iso:country":"US",
+    "sg:address":"1620 32nd Ave",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 476 3408",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534487,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lcO0qwdPr5RTuju33oLzh_46.832538_-96.804776@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294654,
+    "wof:geomhash":"7be444ec33bf9c488bfb4d5b38a5c30a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534487,
+            "region_id":85688525,
+            "venue_id":873574131
+        }
+    ],
+    "wof:id":873574131,
+    "wof:lastmodified":1464294654,
+    "wof:name":"Eckroth Music Band & Orchestra",
+    "wof:parent_id":420534487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.804776,
+    46.832538,
+    -96.804776,
+    46.832538
+],
+  "geometry": {"coordinates":[-96.804776,46.832538],"type":"Point"}
+}

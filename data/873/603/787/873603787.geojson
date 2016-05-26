@@ -1,0 +1,73 @@
+{
+  "id": 873603787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.62671,46.816843,-100.62671,46.816843",
+    "geom:latitude":46.816843,
+    "geom:longitude":-100.62671,
+    "iso:country":"US",
+    "sg:address":"10511 Co Hwy 10",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 0366",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "fire",
+        "extinguisher"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zIWBE8oSRlqQKMOD2gARH_46.816843_-100.626710@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295027,
+    "wof:geomhash":"7faadad5ec3330b1196f1e93eeadf871",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873603787
+        }
+    ],
+    "wof:id":873603787,
+    "wof:lastmodified":1464295027,
+    "wof:name":"Master Fire & Safety",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "extinguisher"
+    ]
+},
+  "bbox": [
+    -100.62671,
+    46.816843,
+    -100.62671,
+    46.816843
+],
+  "geometry": {"coordinates":[-100.62671,46.816843],"type":"Point"}
+}

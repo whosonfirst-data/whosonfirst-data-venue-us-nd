@@ -1,0 +1,64 @@
+{
+  "id": 873802255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.806831,46.873989,-96.806831,46.873989",
+    "geom:latitude":46.873989,
+    "geom:longitude":-96.806831,
+    "iso:country":"US",
+    "sg:address":"101 16th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 1700",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HcOL7BB06nk6A1bHtmYmP_46.873989_-96.806831@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297801,
+    "wof:geomhash":"8e0b7b272d3dee9aa6da5d4dceac9e6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873802255
+        }
+    ],
+    "wof:id":873802255,
+    "wof:lastmodified":1464297801,
+    "wof:name":"Miller's Painting",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.806831,
+    46.873989,
+    -96.806831,
+    46.873989
+],
+  "geometry": {"coordinates":[-96.806831,46.873989],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873625199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.339267,48.274156,-101.339267,48.274156",
+    "geom:latitude":48.274156,
+    "geom:longitude":-101.339267,
+    "iso:country":"US",
+    "sg:address":"3520 30th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 6036",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "pickle",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CLT1Cdcno9PdNjDnqrxnh_48.274156_-101.339267@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295313,
+    "wof:geomhash":"1405920558bb78c00e5549d8423b0e49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873625199
+        }
+    ],
+    "wof:id":873625199,
+    "wof:lastmodified":1464295313,
+    "wof:name":"Dakota Gardens & Herbs",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pickle",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -101.339267,
+    48.274156,
+    -101.339267,
+    48.274156
+],
+  "geometry": {"coordinates":[-101.33926700000001,48.274156],"type":"Point"}
+}

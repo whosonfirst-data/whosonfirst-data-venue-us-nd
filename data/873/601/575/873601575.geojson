@@ -1,0 +1,75 @@
+{
+  "id": 873601575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.25016,47.906351,-101.25016,47.906351",
+    "geom:latitude":47.906351,
+    "geom:longitude":-101.25016,
+    "iso:country":"US",
+    "sg:address":"32400 27th St SE",
+    "sg:city":"Max",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 679 2293",
+    "sg:postcode":"58759",
+    "sg:province":"ND",
+    "sg:tags":[
+        "excavation",
+        "contractor",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lgLIrMRKVCLMqAqOfwrvf_47.906351_-101.250160@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295004,
+    "wof:geomhash":"81d1eabb1ec8263489045e75c00d8df6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873601575
+        }
+    ],
+    "wof:id":873601575,
+    "wof:lastmodified":1464295004,
+    "wof:name":"Delzer Construction & Excavati",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor",
+        "general"
+    ]
+},
+  "bbox": [
+    -101.25016,
+    47.906351,
+    -101.25016,
+    47.906351
+],
+  "geometry": {"coordinates":[-101.25015999999999,47.906351],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873578795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.617646,47.744167,-97.617646,47.744167",
+    "geom:latitude":47.744167,
+    "geom:longitude":-97.617646,
+    "iso:country":"US",
+    "sg:address":"3671 5th Ave NE",
+    "sg:city":"Northwood",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 587 5343",
+    "sg:postcode":"58267",
+    "sg:province":"ND",
+    "sg:tags":[
+        "development",
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nYkZKJkK4KnON47uvrIpz_47.744167_-97.617646@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294703,
+    "wof:geomhash":"9f2b9549494397ef6138f98d0ba0e2f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873578795
+        }
+    ],
+    "wof:id":873578795,
+    "wof:lastmodified":1464294703,
+    "wof:name":"Agvise Research Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -97.617646,
+    47.744167,
+    -97.617646,
+    47.744167
+],
+  "geometry": {"coordinates":[-97.61764599999999,47.744167],"type":"Point"}
+}

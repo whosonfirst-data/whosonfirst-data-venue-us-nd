@@ -1,0 +1,71 @@
+{
+  "id": 873547927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.294584,48.233364,-101.294584,48.233364",
+    "geom:latitude":48.233364,
+    "geom:longitude":-101.294584,
+    "iso:country":"US",
+    "sg:address":"103 3rd Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 857 5442",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_355G8CgErBzNMLKeM2Ki2n_48.233364_-101.294584@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294356,
+    "wof:geomhash":"692b780b42a643614659e5da6892baf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873547927
+        }
+    ],
+    "wof:id":873547927,
+    "wof:lastmodified":1464294356,
+    "wof:name":"R E Dormont MD",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -101.294584,
+    48.233364,
+    -101.294584,
+    48.233364
+],
+  "geometry": {"coordinates":[-101.294584,48.233364],"type":"Point"}
+}

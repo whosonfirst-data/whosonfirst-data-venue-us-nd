@@ -1,0 +1,73 @@
+{
+  "id": 873767069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.04625,47.930348,-97.04625,47.930348",
+    "geom:latitude":47.930348,
+    "geom:longitude":-97.04625,
+    "iso:country":"US",
+    "sg:address":"516 10th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 0707",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08YbtutxIXskk7yQ24gJKH_47.930348_-97.046250@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297326,
+    "wof:geomhash":"72a337220239231b7dfed0dc6ff5e72b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873767069
+        }
+    ],
+    "wof:id":873767069,
+    "wof:lastmodified":1464297326,
+    "wof:name":"Albrecht Manufacturing & Rpr",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -97.04625,
+    47.930348,
+    -97.04625,
+    47.930348
+],
+  "geometry": {"coordinates":[-97.04625,47.930348],"type":"Point"}
+}

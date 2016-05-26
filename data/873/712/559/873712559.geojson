@@ -1,0 +1,89 @@
+{
+  "id": 873712559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-102.789799,46.878675,-102.789799,46.878675",
+    "geom:latitude":46.878675,
+    "geom:longitude":-102.789799,
+    "iso:country":"US",
+    "sg:address":"50 S 3rd Ave W",
+    "sg:city":"Dickinson",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 456 6716",
+    "sg:postcode":"58601",
+    "sg:province":"ND",
+    "sg:tags":[
+        "manufacture",
+        "laminate",
+        "fixture",
+        "plastic",
+        "woo",
+        "architectural",
+        "casework",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877119,
+        102191575,
+        404482179,
+        85633793,
+        85982521,
+        102082105,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_318HQXja843iA2d3HfvGNT_46.878675_-102.789799@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296551,
+    "wof:geomhash":"23a1aad37d2e30a91a1997577a9ca3d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082105,
+            "localadmin_id":404482179,
+            "locality_id":85982521,
+            "neighbourhood_id":85877119,
+            "region_id":85688525,
+            "venue_id":873712559
+        }
+    ],
+    "wof:id":873712559,
+    "wof:lastmodified":1464296551,
+    "wof:name":"T M I Systems Design Corp",
+    "wof:parent_id":85877119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacture",
+        "laminate",
+        "fixture",
+        "plastic",
+        "woo",
+        "architectural",
+        "casework",
+        "store"
+    ]
+},
+  "bbox": [
+    -102.789799,
+    46.878675,
+    -102.789799,
+    46.878675
+],
+  "geometry": {"coordinates":[-102.789799,46.878675],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 873636045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.820316,46.88321,-96.820316,46.88321",
+    "geom:latitude":46.88321,
+    "geom:longitude":-96.820316,
+    "iso:country":"US",
+    "sg:address":"2501 7th Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 7858",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hBiDxCMRMzUx5QL94qXIm_46.883210_-96.820316@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295432,
+    "wof:geomhash":"ef702f32a4cfd1eaab347741065cc03a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873636045
+        }
+    ],
+    "wof:id":873636045,
+    "wof:lastmodified":1464295432,
+    "wof:name":"Fargo Slowpitch Softball Assn",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.820316,
+    46.88321,
+    -96.820316,
+    46.88321
+],
+  "geometry": {"coordinates":[-96.82031600000001,46.88321],"type":"Point"}
+}

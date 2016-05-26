@@ -1,0 +1,75 @@
+{
+  "id": 873628295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.827368,46.861699,-96.827368,46.861699",
+    "geom:latitude":46.861699,
+    "geom:longitude":-96.827368,
+    "iso:country":"US",
+    "sg:address":"2825 13th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 234 0026",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PxlbqFh1GcRtbePXrKFl6_46.861699_-96.827368@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295343,
+    "wof:geomhash":"8f57412d1ec51f1adff01e69715cad7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873628295
+        }
+    ],
+    "wof:id":873628295,
+    "wof:lastmodified":1464295343,
+    "wof:name":"Kennedy Transmission",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -96.827368,
+    46.861699,
+    -96.827368,
+    46.861699
+],
+  "geometry": {"coordinates":[-96.82736800000001,46.861699],"type":"Point"}
+}

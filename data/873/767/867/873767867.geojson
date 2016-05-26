@@ -1,0 +1,67 @@
+{
+  "id": 873767867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.292293,48.241178,-101.292293,48.241178",
+    "geom:latitude":48.241178,
+    "geom:longitude":-101.292293,
+    "iso:country":"US",
+    "sg:address":"400 Main St N",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 4878",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:website":"www.theriverlife.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AFWe3FORoBh04JUX9mz0m_48.241178_-101.292293@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297336,
+    "wof:geomhash":"f0670f36fe0b3afe0a372817950a664d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873767867
+        }
+    ],
+    "wof:id":873767867,
+    "wof:lastmodified":1464297336,
+    "wof:name":"River Of Life Assembly Of God",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.292293,
+    48.241178,
+    -101.292293,
+    48.241178
+],
+  "geometry": {"coordinates":[-101.292293,48.241178],"type":"Point"}
+}

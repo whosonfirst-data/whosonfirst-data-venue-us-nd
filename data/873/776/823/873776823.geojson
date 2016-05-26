@@ -1,0 +1,73 @@
+{
+  "id": 873776823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.292959,48.234899,-101.292959,48.234899",
+    "geom:latitude":48.234899,
+    "geom:longitude":-101.292959,
+    "iso:country":"US",
+    "sg:address":"209 Main St S",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 858 9914",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shop",
+        "consignment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DZ7oE2ZBQl8lHqKHBqA0d_48.234899_-101.292959@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297448,
+    "wof:geomhash":"25a00cfd5a833f919cc5a124030a2983",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873776823
+        }
+    ],
+    "wof:id":873776823,
+    "wof:lastmodified":1464297448,
+    "wof:name":"Infant Re Plays",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "consignment"
+    ]
+},
+  "bbox": [
+    -101.292959,
+    48.234899,
+    -101.292959,
+    48.234899
+],
+  "geometry": {"coordinates":[-101.292959,48.234899],"type":"Point"}
+}

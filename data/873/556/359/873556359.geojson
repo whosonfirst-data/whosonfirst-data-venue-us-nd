@@ -1,0 +1,71 @@
+{
+  "id": 873556359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.655099,46.739365,-100.655099,46.739365",
+    "geom:latitude":46.739365,
+    "geom:longitude":-100.655099,
+    "iso:country":"US",
+    "sg:address":"8707 Palomino Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 3923",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aU6ehjdPLvnmD8jej6v88_46.739365_-100.655099@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294452,
+    "wof:geomhash":"8a86cceae85b6c059aeebd4fed82dadc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873556359
+        }
+    ],
+    "wof:id":873556359,
+    "wof:lastmodified":1464294452,
+    "wof:name":"Apple Creek Collectables",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -100.655099,
+    46.739365,
+    -100.655099,
+    46.739365
+],
+  "geometry": {"coordinates":[-100.65509900000001,46.739365],"type":"Point"}
+}

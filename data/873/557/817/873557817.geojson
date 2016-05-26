@@ -1,0 +1,72 @@
+{
+  "id": 873557817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.035755,47.921606,-97.035755,47.921606",
+    "geom:latitude":47.921606,
+    "geom:longitude":-97.035755,
+    "iso:country":"US",
+    "sg:address":"701 Demers Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 3172",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "hospice"
+    ],
+    "sg:website":"www.hrrv.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xUoArSefCOH9ewxxwfbP8_47.921606_-97.035755@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294468,
+    "wof:geomhash":"8a3a9e68d7d5a37d6514444e725d90d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873557817
+        }
+    ],
+    "wof:id":873557817,
+    "wof:lastmodified":1464294468,
+    "wof:name":"Hospice-The Red River Valley",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospice"
+    ]
+},
+  "bbox": [
+    -97.035755,
+    47.921606,
+    -97.035755,
+    47.921606
+],
+  "geometry": {"coordinates":[-97.03575499999999,47.921606],"type":"Point"}
+}

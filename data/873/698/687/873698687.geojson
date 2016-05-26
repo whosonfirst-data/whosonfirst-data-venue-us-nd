@@ -1,0 +1,75 @@
+{
+  "id": 873698687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.904273,46.728313,-96.904273,46.728313",
+    "geom:latitude":46.728313,
+    "geom:longitude":-96.904273,
+    "iso:country":"US",
+    "sg:address":"11504 Co Rd 17 S",
+    "sg:city":"Horace",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 4571",
+    "sg:postcode":"58047",
+    "sg:province":"ND",
+    "sg:tags":[
+        "boring",
+        "drilling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MRfnGrRzUaRY5ft9X4mWT_46.728313_-96.904273@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296391,
+    "wof:geomhash":"84b07c65830046c699c0b82351161877",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873698687
+        }
+    ],
+    "wof:id":873698687,
+    "wof:lastmodified":1464296391,
+    "wof:name":"MPM Excavating & Utility",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boring",
+        "drilling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.904273,
+    46.728313,
+    -96.904273,
+    46.728313
+],
+  "geometry": {"coordinates":[-96.904273,46.728313],"type":"Point"}
+}

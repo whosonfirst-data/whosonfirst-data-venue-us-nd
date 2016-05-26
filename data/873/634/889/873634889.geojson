@@ -1,0 +1,75 @@
+{
+  "id": 873634889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.061133,47.914282,-97.061133,47.914282",
+    "geom:latitude":47.914282,
+    "geom:longitude":-97.061133,
+    "iso:country":"US",
+    "sg:address":"832 S 24th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 3463",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3khfZviriaK3g4ooXaCVKt_47.914282_-97.061133@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295422,
+    "wof:geomhash":"f102690cfb8429392ea4e884f4aa686b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873634889
+        }
+    ],
+    "wof:id":873634889,
+    "wof:lastmodified":1464295422,
+    "wof:name":"Custom Contractors",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.061133,
+    47.914282,
+    -97.061133,
+    47.914282
+],
+  "geometry": {"coordinates":[-97.061133,47.914282],"type":"Point"}
+}

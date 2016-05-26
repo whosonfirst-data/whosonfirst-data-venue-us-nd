@@ -1,0 +1,70 @@
+{
+  "id": 873772429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-102.784456,46.897662,-102.784456,46.897662",
+    "geom:latitude":46.897662,
+    "geom:longitude":-102.784456,
+    "iso:country":"US",
+    "sg:address":"1325 Sims St",
+    "sg:city":"Dickinson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 225 7867",
+    "sg:postcode":"58601",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877119,
+        102191575,
+        404482179,
+        85633793,
+        85982521,
+        102082105,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6glNFnFD2Sh8pbchETfJpm_46.897662_-102.784456@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297394,
+    "wof:geomhash":"7382546a0518c25a6e95e2f7f1ac9db1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082105,
+            "localadmin_id":404482179,
+            "locality_id":85982521,
+            "neighbourhood_id":85877119,
+            "region_id":85688525,
+            "venue_id":873772429
+        }
+    ],
+    "wof:id":873772429,
+    "wof:lastmodified":1464297394,
+    "wof:name":"Husky House Cafe",
+    "wof:parent_id":85877119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -102.784456,
+    46.897662,
+    -102.784456,
+    46.897662
+],
+  "geometry": {"coordinates":[-102.78445600000001,46.897662],"type":"Point"}
+}

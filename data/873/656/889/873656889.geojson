@@ -1,0 +1,71 @@
+{
+  "id": 873656889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.472751,47.909862,-97.472751,47.909862",
+    "geom:latitude":47.909862,
+    "geom:longitude":-97.472751,
+    "iso:country":"US",
+    "sg:address":"1642 30th St NE",
+    "sg:city":"Arvilla",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 343 6267",
+    "sg:postcode":"58214",
+    "sg:province":"ND",
+    "sg:tags":[
+        "soil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3T8hB0IPLhJrfyrW0E10ZE_47.909862_-97.472751@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295666,
+    "wof:geomhash":"4b45702f8a191a4ec2dc367780102ad8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873656889
+        }
+    ],
+    "wof:id":873656889,
+    "wof:lastmodified":1464295666,
+    "wof:name":"Dakota Soil Testing",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "soil"
+    ]
+},
+  "bbox": [
+    -97.472751,
+    47.909862,
+    -97.472751,
+    47.909862
+],
+  "geometry": {"coordinates":[-97.472751,47.909862],"type":"Point"}
+}

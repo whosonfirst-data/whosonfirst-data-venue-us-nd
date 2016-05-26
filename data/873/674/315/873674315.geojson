@@ -1,0 +1,73 @@
+{
+  "id": 873674315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.289489,46.78759,-100.289489,46.78759",
+    "geom:latitude":46.78759,
+    "geom:longitude":-100.289489,
+    "iso:country":"US",
+    "sg:address":"1501 US Hwy 83",
+    "sg:city":"Sterling",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 387 4533",
+    "sg:postcode":"58572",
+    "sg:province":"ND",
+    "sg:tags":[
+        "membership",
+        "lodging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12TCTxP383nh00QSlwLQzV_46.787590_-100.289489@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295848,
+    "wof:geomhash":"070119abeaf64817d99cfac50c0aae0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873674315
+        }
+    ],
+    "wof:id":873674315,
+    "wof:lastmodified":1464295848,
+    "wof:name":"Chancellor Walworth Lodge",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "membership",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -100.289489,
+    46.78759,
+    -100.289489,
+    46.78759
+],
+  "geometry": {"coordinates":[-100.289489,46.78759],"type":"Point"}
+}

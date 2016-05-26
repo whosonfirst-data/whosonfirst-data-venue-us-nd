@@ -1,0 +1,71 @@
+{
+  "id": 873731291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.113009,47.991103,-97.113009,47.991103",
+    "geom:latitude":47.991103,
+    "geom:longitude":-97.113009,
+    "iso:country":"US",
+    "sg:address":"5750 70th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 2875",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3a8SQs54Sqh0Uoa8DoL26N_47.991103_-97.113009@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296796,
+    "wof:geomhash":"aaa5f6c5a4c6f8e2067bf4cf574af3f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873731291
+        }
+    ],
+    "wof:id":873731291,
+    "wof:lastmodified":1464296796,
+    "wof:name":"Homstad Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -97.113009,
+    47.991103,
+    -97.113009,
+    47.991103
+],
+  "geometry": {"coordinates":[-97.11300900000001,47.991103],"type":"Point"}
+}

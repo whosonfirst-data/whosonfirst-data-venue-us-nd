@@ -1,0 +1,74 @@
+{
+  "id": 873798583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.296014,48.212255,-101.296014,48.212255",
+    "geom:latitude":48.212255,
+    "geom:longitude":-101.296014,
+    "iso:country":"US",
+    "sg:address":"1929 S Broadway",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/minot/183483-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 3956",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bFCjWACNkLL58HsLin855_48.212255_-101.296014@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297757,
+    "wof:geomhash":"02729892347311bf2c64668fcccee0bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873798583
+        }
+    ],
+    "wof:id":873798583,
+    "wof:lastmodified":1464297757,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -101.296014,
+    48.212255,
+    -101.296014,
+    48.212255
+],
+  "geometry": {"coordinates":[-101.296014,48.212255],"type":"Point"}
+}

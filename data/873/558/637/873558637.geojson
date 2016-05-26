@@ -1,0 +1,75 @@
+{
+  "id": 873558637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.727498,46.905102,-100.727498,46.905102",
+    "geom:latitude":46.905102,
+    "geom:longitude":-100.727498,
+    "iso:country":"US",
+    "sg:address":"4301 Friendship Trl",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 250 9567",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "raw",
+        "product",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pCD3aNw19NKHK0Akwpecb_46.905102_-100.727498@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294483,
+    "wof:geomhash":"a28d63ba37484676afe6612f6e3e0988",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873558637
+        }
+    ],
+    "wof:id":873558637,
+    "wof:lastmodified":1464294483,
+    "wof:name":"Pairodocspaintscom",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "raw",
+        "product",
+        "material"
+    ]
+},
+  "bbox": [
+    -100.727498,
+    46.905102,
+    -100.727498,
+    46.905102
+],
+  "geometry": {"coordinates":[-100.727498,46.905102],"type":"Point"}
+}

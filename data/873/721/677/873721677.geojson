@@ -1,0 +1,75 @@
+{
+  "id": 873721677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.806774,46.875063,-96.806774,46.875063",
+    "geom:latitude":46.875063,
+    "geom:longitude":-96.806774,
+    "iso:country":"US",
+    "sg:address":"16 16th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 1905",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "work"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dWJhS1JcWzlgdazOO9SLE_46.875063_-96.806774@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296670,
+    "wof:geomhash":"ec5c77da7dbddbb4cf513ff133d5efbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873721677
+        }
+    ],
+    "wof:id":873721677,
+    "wof:lastmodified":1464296670,
+    "wof:name":"Superior Binding Co",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "work"
+    ]
+},
+  "bbox": [
+    -96.806774,
+    46.875063,
+    -96.806774,
+    46.875063
+],
+  "geometry": {"coordinates":[-96.806774,46.875063],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 873777493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.307305,48.26641,-101.307305,48.26641",
+    "geom:latitude":48.26641,
+    "geom:longitude":-101.307305,
+    "iso:country":"US",
+    "sg:address":"2700 8th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 837 2700",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "prepackaged",
+        "consultant",
+        "business",
+        "software"
+    ],
+    "sg:website":"www.sykes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kY1MlJSfHcjgza8b3ib7l_48.266410_-101.307305@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297457,
+    "wof:geomhash":"94c4ececc4805da8b80e881a1b4dc6f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873777493
+        }
+    ],
+    "wof:id":873777493,
+    "wof:lastmodified":1464297457,
+    "wof:name":"Sykes Enterprises Incorporated",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "prepackaged",
+        "consultant",
+        "business",
+        "software"
+    ]
+},
+  "bbox": [
+    -101.307305,
+    48.26641,
+    -101.307305,
+    48.26641
+],
+  "geometry": {"coordinates":[-101.307305,48.26641],"type":"Point"}
+}

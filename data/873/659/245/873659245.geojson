@@ -1,0 +1,66 @@
+{
+  "id": 873659245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.312785,48.258499,-101.312785,48.258499",
+    "geom:latitude":48.258499,
+    "geom:longitude":-101.312785,
+    "iso:country":"US",
+    "sg:address":"1200 21st Ave NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 3378",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yaBZ7O2sA6X4Rv1tKsxwH_48.258499_-101.312785@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295691,
+    "wof:geomhash":"d95284c14bc67b515e9c6828db29ff67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873659245
+        }
+    ],
+    "wof:id":873659245,
+    "wof:lastmodified":1464295691,
+    "wof:name":"Soccer Park",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.312785,
+    48.258499,
+    -101.312785,
+    48.258499
+],
+  "geometry": {"coordinates":[-101.31278500000001,48.258499],"type":"Point"}
+}

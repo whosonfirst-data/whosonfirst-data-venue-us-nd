@@ -1,0 +1,71 @@
+{
+  "id": 873579991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.30397,47.920888,-97.30397,47.920888",
+    "geom:latitude":47.920888,
+    "geom:longitude":-97.30397,
+    "iso:country":"US",
+    "sg:address":"1713 22nd St NE",
+    "sg:city":"Emerado",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 594 4628",
+    "sg:postcode":"58228",
+    "sg:province":"ND",
+    "sg:tags":[
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yeDu4HQEa5OxFkqSadFZQ_47.920888_-97.303970@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294718,
+    "wof:geomhash":"b8153e4a616eb1387998b663687c3673",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873579991
+        }
+    ],
+    "wof:id":873579991,
+    "wof:lastmodified":1464294718,
+    "wof:name":"Barner Enterprises",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial"
+    ]
+},
+  "bbox": [
+    -97.30397,
+    47.920888,
+    -97.30397,
+    47.920888
+],
+  "geometry": {"coordinates":[-97.30397000000001,47.920888],"type":"Point"}
+}

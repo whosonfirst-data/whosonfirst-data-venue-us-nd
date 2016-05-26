@@ -1,0 +1,75 @@
+{
+  "id": 873592279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.801498,46.852369,-96.801498,46.852369",
+    "geom:latitude":46.852369,
+    "geom:longitude":-96.801498,
+    "iso:country":"US",
+    "sg:address":"1718 14th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 280 0493",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534481,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_739EHa2uquoQgKi2YEgv7d_46.852369_-96.801498@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294862,
+    "wof:geomhash":"0e4af542a8a088928efd11933d026feb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534481,
+            "region_id":85688525,
+            "venue_id":873592279
+        }
+    ],
+    "wof:id":873592279,
+    "wof:lastmodified":1464294862,
+    "wof:name":"RRT Consulting",
+    "wof:parent_id":420534481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    -96.801498,
+    46.852369,
+    -96.801498,
+    46.852369
+],
+  "geometry": {"coordinates":[-96.801498,46.852369],"type":"Point"}
+}

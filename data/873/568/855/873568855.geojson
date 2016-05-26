@@ -1,0 +1,73 @@
+{
+  "id": 873568855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.03386,47.886186,-97.03386,47.886186",
+    "geom:latitude":47.886186,
+    "geom:longitude":-97.03386,
+    "iso:country":"US",
+    "sg:address":"417 Terrace Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 4560",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "consultant",
+        "wildlife"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QsBCIDBYkqjVMYAgKRGgo_47.886186_-97.033860@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294594,
+    "wof:geomhash":"14a9a329c387f75c6b04962ac4ddcaa6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873568855
+        }
+    ],
+    "wof:id":873568855,
+    "wof:lastmodified":1464294594,
+    "wof:name":"David Lambeth",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "wildlife"
+    ]
+},
+  "bbox": [
+    -97.03386,
+    47.886186,
+    -97.03386,
+    47.886186
+],
+  "geometry": {"coordinates":[-97.03386,47.886186],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873540607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.032489,47.923819,-97.032489,47.923819",
+    "geom:latitude":47.923819,
+    "geom:longitude":-97.032489,
+    "iso:country":"US",
+    "sg:address":"414 Demers Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 8081",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "carrier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7j4UMzELRXsvsXpg0FgqzJ_47.923819_-97.032489@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294265,
+    "wof:geomhash":"6cdb5fafe8154c509f6cb5b82ea220ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873540607
+        }
+    ],
+    "wof:id":873540607,
+    "wof:lastmodified":1464294265,
+    "wof:name":"Federated Mutl Insur Companies",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier"
+    ]
+},
+  "bbox": [
+    -97.032489,
+    47.923819,
+    -97.032489,
+    47.923819
+],
+  "geometry": {"coordinates":[-97.032489,47.923819],"type":"Point"}
+}

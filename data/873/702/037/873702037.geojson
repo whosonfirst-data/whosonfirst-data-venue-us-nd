@@ -1,0 +1,80 @@
+{
+  "id": 873702037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.774069,46.746325,-100.774069,46.746325",
+    "geom:latitude":46.746325,
+    "geom:longitude":-100.774069,
+    "iso:country":"US",
+    "sg:address":"5210 12th St SE",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 4776",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "sanitary",
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BeaxUfnhOexK7I1Q4DjKA_46.746325_-100.774069@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296426,
+    "wof:geomhash":"fa714bc9f6409b9d60d5e950f1849bae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873702037
+        }
+    ],
+    "wof:id":873702037,
+    "wof:lastmodified":1464296426,
+    "wof:name":"Schumachers Lawn & Bobcat Svc",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sanitary",
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.774069,
+    46.746325,
+    -100.774069,
+    46.746325
+],
+  "geometry": {"coordinates":[-100.774069,46.746325],"type":"Point"}
+}

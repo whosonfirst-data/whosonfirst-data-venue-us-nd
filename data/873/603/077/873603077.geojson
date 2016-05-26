@@ -1,0 +1,77 @@
+{
+  "id": 873603077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.815341,46.864224,-96.815341,46.864224",
+    "geom:latitude":46.864224,
+    "geom:longitude":-96.815341,
+    "iso:country":"US",
+    "sg:address":"1136 22nd St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 280 1934",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877331,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QldqpOGKEGL11g14w0XXh_46.864224_-96.815341@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295019,
+    "wof:geomhash":"167b6dbbf1f9fd5f2caf4aaf8072d368",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877331,
+            "region_id":85688525,
+            "venue_id":873603077
+        }
+    ],
+    "wof:id":873603077,
+    "wof:lastmodified":1464295019,
+    "wof:name":"Ralphs Painting",
+    "wof:parent_id":85877331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.815341,
+    46.864224,
+    -96.815341,
+    46.864224
+],
+  "geometry": {"coordinates":[-96.815341,46.864224],"type":"Point"}
+}

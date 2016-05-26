@@ -1,0 +1,67 @@
+{
+  "id": 873787663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.310076,48.197276,-101.310076,48.197276",
+    "geom:latitude":48.197276,
+    "geom:longitude":-101.310076,
+    "iso:country":"US",
+    "sg:address":"1210 Adams Ave",
+    "sg:city":"Minot",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 722 3500",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "wheat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TEolM9ByRiaBeIK96ntiM_48.197276_-101.310076@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297605,
+    "wof:geomhash":"2a9dc41fedb90e97046e6498e61355a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873787663
+        }
+    ],
+    "wof:id":873787663,
+    "wof:lastmodified":1464297605,
+    "wof:name":"Scott Sys",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "wheat"
+    ]
+},
+  "bbox": [
+    -101.310076,
+    48.197276,
+    -101.310076,
+    48.197276
+],
+  "geometry": {"coordinates":[-101.310076,48.197276],"type":"Point"}
+}

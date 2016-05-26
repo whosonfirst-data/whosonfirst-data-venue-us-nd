@@ -1,0 +1,73 @@
+{
+  "id": 873725333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.100171,48.19663,-101.100171,48.19663",
+    "geom:latitude":48.19663,
+    "geom:longitude":-101.100171,
+    "iso:country":"US",
+    "sg:address":"13901 37th Ave SE",
+    "sg:city":"Norwich",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 728 6755",
+    "sg:postcode":"58768",
+    "sg:province":"ND",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uvHKtstvv4sA6gCXo67lu_48.196630_-101.100171@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296716,
+    "wof:geomhash":"5201a8ef02bc5363ce6c4eb4f174a37d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873725333
+        }
+    ],
+    "wof:id":873725333,
+    "wof:lastmodified":1464296716,
+    "wof:name":"Edward Aberle",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -101.100171,
+    48.19663,
+    -101.100171,
+    48.19663
+],
+  "geometry": {"coordinates":[-101.100171,48.19663],"type":"Point"}
+}

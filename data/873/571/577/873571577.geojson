@@ -1,0 +1,73 @@
+{
+  "id": 873571577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.577018,48.18459,-101.577018,48.18459",
+    "geom:latitude":48.18459,
+    "geom:longitude":-101.577018,
+    "iso:country":"US",
+    "sg:address":"5210 184th St SW",
+    "sg:city":"Des Lacs",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 725 4444",
+    "sg:postcode":"58733",
+    "sg:province":"ND",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YvmUGMQYooUMw13Y9ZMQG_48.184590_-101.577018@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294626,
+    "wof:geomhash":"62b70fef2b799629585323dae8d7f292",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873571577
+        }
+    ],
+    "wof:id":873571577,
+    "wof:lastmodified":1464294626,
+    "wof:name":"Tranby Farm",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -101.577018,
+    48.18459,
+    -101.577018,
+    48.18459
+],
+  "geometry": {"coordinates":[-101.577018,48.18459],"type":"Point"}
+}

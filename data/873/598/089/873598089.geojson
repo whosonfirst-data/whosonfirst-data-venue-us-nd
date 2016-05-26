@@ -1,0 +1,79 @@
+{
+  "id": 873598089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.784695,46.806314,-100.784695,46.806314",
+    "geom:latitude":46.806314,
+    "geom:longitude":-100.784695,
+    "iso:country":"US",
+    "sg:address":"112 N 5th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 3819",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "info",
+        "addiction",
+        "abuse",
+        "treatment",
+        "drug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uSEqjHBpZ3bDTusS3UQkk_46.806314_-100.784695@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294960,
+    "wof:geomhash":"f274379fbcff8fb58a22024dd487ee3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873598089
+        }
+    ],
+    "wof:id":873598089,
+    "wof:lastmodified":1464294960,
+    "wof:name":"Heritage Recovery Ctr",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "info",
+        "addiction",
+        "abuse",
+        "treatment",
+        "drug"
+    ]
+},
+  "bbox": [
+    -100.784695,
+    46.806314,
+    -100.784695,
+    46.806314
+],
+  "geometry": {"coordinates":[-100.784695,46.806314],"type":"Point"}
+}

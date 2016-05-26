@@ -1,0 +1,71 @@
+{
+  "id": 873703565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.283685,48.211223,-101.283685,48.211223",
+    "geom:latitude":48.211223,
+    "geom:longitude":-101.283685,
+    "iso:country":"US",
+    "sg:address":"707 20th Ave SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 2808",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "television"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rwSRnazCK2ZO6UzwfAzLF_48.211223_-101.283685@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296441,
+    "wof:geomhash":"57c8403b0f935fe747c290aabe656d60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873703565
+        }
+    ],
+    "wof:id":873703565,
+    "wof:lastmodified":1464296441,
+    "wof:name":"Tcin Channel 16",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television"
+    ]
+},
+  "bbox": [
+    -101.283685,
+    48.211223,
+    -101.283685,
+    48.211223
+],
+  "geometry": {"coordinates":[-101.28368500000001,48.211223],"type":"Point"}
+}

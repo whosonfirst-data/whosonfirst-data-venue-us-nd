@@ -1,0 +1,75 @@
+{
+  "id": 873602087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.835954,46.87118,-96.835954,46.87118",
+    "geom:latitude":46.87118,
+    "geom:longitude":-96.835954,
+    "iso:country":"US",
+    "sg:address":"3522 4th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 1406",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "screen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RjHVO2g4hNXVu7wPPjzf5_46.871180_-96.835954@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295009,
+    "wof:geomhash":"5a04a83fb97c4ea6155161d3ddbdeab7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873602087
+        }
+    ],
+    "wof:id":873602087,
+    "wof:lastmodified":1464295009,
+    "wof:name":"Applied Image LLP",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "screen"
+    ]
+},
+  "bbox": [
+    -96.835954,
+    46.87118,
+    -96.835954,
+    46.87118
+],
+  "geometry": {"coordinates":[-96.835954,46.87118],"type":"Point"}
+}

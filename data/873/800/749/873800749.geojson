@@ -1,0 +1,77 @@
+{
+  "id": 873800749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.777135,46.894182,-96.777135,46.894182",
+    "geom:latitude":46.894182,
+    "geom:longitude":-96.777135,
+    "iso:country":"US",
+    "sg:address":"1349 Elm Cir N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 6811",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534483,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gDm4SWm3mSTOlbUq3FGQF_46.894182_-96.777135@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297782,
+    "wof:geomhash":"d926dd43f68d38a8147636a78be93fe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534483,
+            "region_id":85688525,
+            "venue_id":873800749
+        }
+    ],
+    "wof:id":873800749,
+    "wof:lastmodified":1464297782,
+    "wof:name":"David Dr & Irene Clardy",
+    "wof:parent_id":420534483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -96.777135,
+    46.894182,
+    -96.777135,
+    46.894182
+],
+  "geometry": {"coordinates":[-96.777135,46.894182],"type":"Point"}
+}

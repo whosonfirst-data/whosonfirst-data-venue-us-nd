@@ -1,0 +1,66 @@
+{
+  "id": 873555529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.029184,47.924437,-97.029184,47.924437",
+    "geom:latitude":47.924437,
+    "geom:longitude":-97.029184,
+    "iso:country":"US",
+    "sg:address":"12 S 3rd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 1070",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58IxvpCEiH25jP70KmrzVG_47.924437_-97.029184@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294443,
+    "wof:geomhash":"6f5a9193b8cec6300cfe42fa52bad885",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873555529
+        }
+    ],
+    "wof:id":873555529,
+    "wof:lastmodified":1464294443,
+    "wof:name":"Good Insurance By Bonnie",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.029184,
+    47.924437,
+    -97.029184,
+    47.924437
+],
+  "geometry": {"coordinates":[-97.029184,47.924437],"type":"Point"}
+}

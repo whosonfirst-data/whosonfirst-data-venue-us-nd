@@ -1,0 +1,75 @@
+{
+  "id": 873594001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.845898,46.835888,-96.845898,46.835888",
+    "geom:latitude":46.835888,
+    "geom:longitude":-96.845898,
+    "iso:country":"US",
+    "sg:address":"3021 39th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 492 7894",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "elevator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WJGQe69v5856Rv86Jpate_46.835888_-96.845898@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294883,
+    "wof:geomhash":"ad64e91cb3610a22bab5aec4c0abf9cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873594001
+        }
+    ],
+    "wof:id":873594001,
+    "wof:lastmodified":1464294883,
+    "wof:name":"Thyssenkrupp Elevator",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elevator"
+    ]
+},
+  "bbox": [
+    -96.845898,
+    46.835888,
+    -96.845898,
+    46.835888
+],
+  "geometry": {"coordinates":[-96.84589800000001,46.835888],"type":"Point"}
+}

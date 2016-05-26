@@ -1,0 +1,73 @@
+{
+  "id": 873626433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.786456,46.804248,-100.786456,46.804248",
+    "geom:latitude":46.804248,
+    "geom:longitude":-100.786456,
+    "iso:country":"US",
+    "sg:address":"420 E Front Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 6479",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MsooG6u6vbnTc9eP2k0mN_46.804248_-100.786456@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295324,
+    "wof:geomhash":"be8aca6be2b85bd806d0c72263e3041c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873626433
+        }
+    ],
+    "wof:id":873626433,
+    "wof:lastmodified":1464295324,
+    "wof:name":"Bismarck City - Recorded Mssg",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -100.786456,
+    46.804248,
+    -100.786456,
+    46.804248
+],
+  "geometry": {"coordinates":[-100.786456,46.804248],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 873735801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.06682,47.886912,-97.06682,47.886912",
+    "geom:latitude":47.886912,
+    "geom:longitude":-97.06682,
+    "iso:country":"US",
+    "sg:address":"3450 S Columbia Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 0081",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "tire",
+        "general"
+    ],
+    "sg:website":"www.tiresplus.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4U8lWxJxc2aa2XMzUMHLgo_47.886912_-97.066820@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296867,
+    "wof:geomhash":"7af2681beecddfcfac0fe6458d11cd14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873735801
+        }
+    ],
+    "wof:id":873735801,
+    "wof:lastmodified":1464296867,
+    "wof:name":"Team Tires Plus",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire",
+        "general"
+    ]
+},
+  "bbox": [
+    -97.06682,
+    47.886912,
+    -97.06682,
+    47.886912
+],
+  "geometry": {"coordinates":[-97.06682000000001,47.886912],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 873564953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.811255,46.890331,-96.811255,46.890331",
+    "geom:latitude":46.890331,
+    "geom:longitude":-96.811255,
+    "iso:country":"US",
+    "sg:address":"1920 12th Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 6478",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "scooter",
+        "boat"
+    ],
+    "sg:website":"www.umotorsfargo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877363,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eM4wkc0dZRhgOcN7UOtBp_46.890331_-96.811255@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294554,
+    "wof:geomhash":"4948984eb80796cafab49904f6a59c4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877363,
+            "region_id":85688525,
+            "venue_id":873564953
+        }
+    ],
+    "wof:id":873564953,
+    "wof:lastmodified":1464294554,
+    "wof:name":"University Motors Inc",
+    "wof:parent_id":85877363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter",
+        "boat"
+    ]
+},
+  "bbox": [
+    -96.811255,
+    46.890331,
+    -96.811255,
+    46.890331
+],
+  "geometry": {"coordinates":[-96.811255,46.890331],"type":"Point"}
+}

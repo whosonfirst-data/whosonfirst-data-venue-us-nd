@@ -1,0 +1,74 @@
+{
+  "id": 873656117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.049467,47.940484,-97.049467,47.940484",
+    "geom:latitude":47.940484,
+    "geom:longitude":-97.049467,
+    "iso:country":"US",
+    "sg:address":"1810 N 6th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 5369",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "sg:website":"www.grsnd.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uZrhOpBVjOJw4wUd5VGKG_47.940484_-97.049467@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295657,
+    "wof:geomhash":"0f0f4377a72f7271cd0fe160c65e8942",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873656117
+        }
+    ],
+    "wof:id":873656117,
+    "wof:lastmodified":1464295657,
+    "wof:name":"Greenberg Roofing & Sheet Co",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.049467,
+    47.940484,
+    -97.049467,
+    47.940484
+],
+  "geometry": {"coordinates":[-97.04946700000001,47.940484],"type":"Point"}
+}

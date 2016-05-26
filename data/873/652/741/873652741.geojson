@@ -1,0 +1,66 @@
+{
+  "id": 873652741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.070631,47.92227,-97.070631,47.92227",
+    "geom:latitude":47.92227,
+    "geom:longitude":-97.070631,
+    "iso:country":"US",
+    "sg:address":"2901 University Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 777 2274",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3q9oGfwKHNS8jDaO1NtFj4_47.922270_-97.070631@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295621,
+    "wof:geomhash":"f0c56fb725339c3ae46a0a48a32f093f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873652741
+        }
+    ],
+    "wof:id":873652741,
+    "wof:lastmodified":1464295621,
+    "wof:name":"University Federal CU",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.070631,
+    47.92227,
+    -97.070631,
+    47.92227
+],
+  "geometry": {"coordinates":[-97.07063100000001,47.92227],"type":"Point"}
+}

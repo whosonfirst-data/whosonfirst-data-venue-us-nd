@@ -1,0 +1,66 @@
+{
+  "id": 873627251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.027446,47.889427,-97.027446,47.889427",
+    "geom:latitude":47.889427,
+    "geom:longitude":-97.027446,
+    "iso:country":"US",
+    "sg:address":"114 32nd Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 8759",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CUuN03dbfh9FoyCQvemav_47.889427_-97.027446@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295332,
+    "wof:geomhash":"452bc9cddca6af9338526388933920ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873627251
+        }
+    ],
+    "wof:id":873627251,
+    "wof:lastmodified":1464295332,
+    "wof:name":"David Nord",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.027446,
+    47.889427,
+    -97.027446,
+    47.889427
+],
+  "geometry": {"coordinates":[-97.027446,47.889427],"type":"Point"}
+}

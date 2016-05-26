@@ -1,0 +1,71 @@
+{
+  "id": 873711221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.770937,46.816182,-100.770937,46.816182",
+    "geom:latitude":46.816182,
+    "geom:longitude":-100.770937,
+    "iso:country":"US",
+    "sg:address":"1024 N 14th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 400 5217",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HlduHk4Hpt1257GXtQgsy_46.816182_-100.770937@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296535,
+    "wof:geomhash":"8088b9a17cd43662518e9fd2593a5d31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873711221
+        }
+    ],
+    "wof:id":873711221,
+    "wof:lastmodified":1464296535,
+    "wof:name":"Larsons Creative Concepts",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -100.770937,
+    46.816182,
+    -100.770937,
+    46.816182
+],
+  "geometry": {"coordinates":[-100.770937,46.816182],"type":"Point"}
+}

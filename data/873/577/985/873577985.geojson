@@ -1,0 +1,73 @@
+{
+  "id": 873577985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.035819,47.906817,-97.035819,47.906817",
+    "geom:latitude":47.906817,
+    "geom:longitude":-97.035819,
+    "iso:country":"US",
+    "sg:address":"1430 Cherry St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 8557",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "mi",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6x12sHsxBhfWJRlj1xnivR_47.906817_-97.035819@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294694,
+    "wof:geomhash":"b0643198409f3e8c9f6601beb33bfe63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873577985
+        }
+    ],
+    "wof:id":873577985,
+    "wof:lastmodified":1464294694,
+    "wof:name":"Dico Fire Extinguishers",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mi",
+        "supply"
+    ]
+},
+  "bbox": [
+    -97.035819,
+    47.906817,
+    -97.035819,
+    47.906817
+],
+  "geometry": {"coordinates":[-97.035819,47.906817],"type":"Point"}
+}

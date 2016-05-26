@@ -1,0 +1,71 @@
+{
+  "id": 873685185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.296082,48.219664,-101.296082,48.219664",
+    "geom:latitude":48.219664,
+    "geom:longitude":-101.296082,
+    "iso:country":"US",
+    "sg:address":"1524 S Broadway St",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 0598",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mrpVtAKZh5jkCt8nf8I8b_48.219664_-101.296082@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296142,
+    "wof:geomhash":"001c79f01d31c1b306b9ffc243357af4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873685185
+        }
+    ],
+    "wof:id":873685185,
+    "wof:lastmodified":1464296142,
+    "wof:name":"Appliance & Furniture Rentall",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard"
+    ]
+},
+  "bbox": [
+    -101.296082,
+    48.219664,
+    -101.296082,
+    48.219664
+],
+  "geometry": {"coordinates":[-101.296082,48.219664],"type":"Point"}
+}

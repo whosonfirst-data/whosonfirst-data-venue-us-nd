@@ -1,0 +1,73 @@
+{
+  "id": 873602673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.285514,48.245166,-101.285514,48.245166",
+    "geom:latitude":48.245166,
+    "geom:longitude":-101.285514,
+    "iso:country":"US",
+    "sg:address":"510 9th Ave NE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 7869",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "household",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09nLHDKnp5WSmjGR2bkIeH_48.245166_-101.285514@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295015,
+    "wof:geomhash":"545aaa1cd8b91a55142b2409a902475a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873602673
+        }
+    ],
+    "wof:id":873602673,
+    "wof:lastmodified":1464295015,
+    "wof:name":"Minot Appliance Repair Inc",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "household",
+        "electrical"
+    ]
+},
+  "bbox": [
+    -101.285514,
+    48.245166,
+    -101.285514,
+    48.245166
+],
+  "geometry": {"coordinates":[-101.28551400000001,48.245166],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873549943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.796821,46.888118,-96.796821,46.888118",
+    "geom:latitude":46.888118,
+    "geom:longitude":-96.796821,
+    "iso:country":"US",
+    "sg:address":"1024 12th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 3219",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877363,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vhd2jA7ckiEneEa9q0N4F_46.888118_-96.796821@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294377,
+    "wof:geomhash":"2413e06df12198b9e66c4fc74cead0d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877363,
+            "region_id":85688525,
+            "venue_id":873549943
+        }
+    ],
+    "wof:id":873549943,
+    "wof:lastmodified":1464294377,
+    "wof:name":"Bakkens Family Day Care",
+    "wof:parent_id":85877363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -96.796821,
+    46.888118,
+    -96.796821,
+    46.888118
+],
+  "geometry": {"coordinates":[-96.79682099999999,46.888118],"type":"Point"}
+}

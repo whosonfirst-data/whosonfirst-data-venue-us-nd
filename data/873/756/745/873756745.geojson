@@ -1,0 +1,72 @@
+{
+  "id": 873756745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.02622,47.921538,-97.02622,47.921538",
+    "geom:latitude":47.921538,
+    "geom:longitude":-97.02622,
+    "iso:country":"US",
+    "sg:address":"311 S 4th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 5476",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:website":"www.burdickjobcorp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VHiunVgzIeor3naPUJRfK_47.921538_-97.026220@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297166,
+    "wof:geomhash":"0d070b7b127dadc117b66c6dc2dfe85c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873756745
+        }
+    ],
+    "wof:id":873756745,
+    "wof:lastmodified":1464297166,
+    "wof:name":"Burdick Job Corp",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.02622,
+    47.921538,
+    -97.02622,
+    47.921538
+],
+  "geometry": {"coordinates":[-97.02622,47.921538],"type":"Point"}
+}

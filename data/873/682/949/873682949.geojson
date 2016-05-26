@@ -1,0 +1,71 @@
+{
+  "id": 873682949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.31441,48.183243,-101.31441,48.183243",
+    "geom:latitude":48.183243,
+    "geom:longitude":-101.31441,
+    "iso:country":"US",
+    "sg:address":"1200 53rd Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 1025",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HHaxixUMUwGVv4ScC3lCA_48.183243_-101.314410@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296080,
+    "wof:geomhash":"2b821ea7a7be024b8ed4d6e9aae112d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873682949
+        }
+    ],
+    "wof:id":873682949,
+    "wof:lastmodified":1464296080,
+    "wof:name":"Tropical Tan",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -101.31441,
+    48.183243,
+    -101.31441,
+    48.183243
+],
+  "geometry": {"coordinates":[-101.31441,48.183243],"type":"Point"}
+}

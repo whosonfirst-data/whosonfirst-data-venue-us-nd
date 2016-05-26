@@ -1,0 +1,71 @@
+{
+  "id": 873756067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.299138,48.212639,-101.299138,48.212639",
+    "geom:latitude":48.212639,
+    "geom:longitude":-101.299138,
+    "iso:country":"US",
+    "sg:address":"412 19th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 6495",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "artist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nUo6icmbkyFh1z3qmPWEw_48.212639_-101.299138@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297157,
+    "wof:geomhash":"3c1d9ece2ba9a25e7f92ac863a7d33e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873756067
+        }
+    ],
+    "wof:id":873756067,
+    "wof:lastmodified":1464297157,
+    "wof:name":"Rock Art",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "artist"
+    ]
+},
+  "bbox": [
+    -101.299138,
+    48.212639,
+    -101.299138,
+    48.212639
+],
+  "geometry": {"coordinates":[-101.299138,48.212639],"type":"Point"}
+}

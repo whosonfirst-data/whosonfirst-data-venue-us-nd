@@ -1,0 +1,71 @@
+{
+  "id": 873539545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.035252,47.927943,-97.035252,47.927943",
+    "geom:latitude":47.927943,
+    "geom:longitude":-97.035252,
+    "iso:country":"US",
+    "sg:address":"301 N 3rd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 0654",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0i5xx8z2tB87ADu98oxMhK_47.927943_-97.035252@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294255,
+    "wof:geomhash":"b18dba8168a426917db46432f242aa7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873539545
+        }
+    ],
+    "wof:id":873539545,
+    "wof:lastmodified":1464294255,
+    "wof:name":"Rosenquist & Arnason",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -97.035252,
+    47.927943,
+    -97.035252,
+    47.927943
+],
+  "geometry": {"coordinates":[-97.035252,47.927943],"type":"Point"}
+}

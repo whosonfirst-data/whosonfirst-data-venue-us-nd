@@ -1,0 +1,71 @@
+{
+  "id": 873732583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.304365,48.232798,-101.304365,48.232798",
+    "geom:latitude":48.232798,
+    "geom:longitude":-101.304365,
+    "iso:country":"US",
+    "sg:address":"720 Western Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 7894",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4F9pl4OayRivgyy7xqdZrM_48.232798_-101.304365@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296810,
+    "wof:geomhash":"ae0a1d0c2f223f560cdffe858d32b996",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873732583
+        }
+    ],
+    "wof:id":873732583,
+    "wof:lastmodified":1464296810,
+    "wof:name":"Jones Patrick G",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -101.304365,
+    48.232798,
+    -101.304365,
+    48.232798
+],
+  "geometry": {"coordinates":[-101.304365,48.232798],"type":"Point"}
+}

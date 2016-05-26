@@ -1,0 +1,71 @@
+{
+  "id": 873752915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.039315,47.926494,-97.039315,47.926494",
+    "geom:latitude":47.926494,
+    "geom:longitude":-97.039315,
+    "iso:country":"US",
+    "sg:address":"524 5th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 2624",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GMb75tcpfI7FKt8BQtGox_47.926494_-97.039315@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297117,
+    "wof:geomhash":"1aa9439ef6f0d5dcd24095ea59025748",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873752915
+        }
+    ],
+    "wof:id":873752915,
+    "wof:lastmodified":1464297117,
+    "wof:name":"St Michael's Church",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -97.039315,
+    47.926494,
+    -97.039315,
+    47.926494
+],
+  "geometry": {"coordinates":[-97.039315,47.926494],"type":"Point"}
+}

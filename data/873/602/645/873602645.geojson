@@ -1,0 +1,73 @@
+{
+  "id": 873602645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.796176,46.784092,-100.796176,46.784092",
+    "geom:latitude":46.784092,
+    "geom:longitude":-100.796176,
+    "iso:country":"US",
+    "sg:address":"139 W Wachter Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 1213",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FQMTn96ySuBqpNZyG1wT1_46.784092_-100.796176@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295015,
+    "wof:geomhash":"3e7ab4e9a9aae15838d36f15e6b4bb69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873602645
+        }
+    ],
+    "wof:id":873602645,
+    "wof:lastmodified":1464295015,
+    "wof:name":"Special Home Care Inc",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -100.796176,
+    46.784092,
+    -100.796176,
+    46.784092
+],
+  "geometry": {"coordinates":[-100.796176,46.784092],"type":"Point"}
+}

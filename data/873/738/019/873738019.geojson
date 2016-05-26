@@ -1,0 +1,71 @@
+{
+  "id": 873738019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.7713,46.786758,-100.7713,46.786758",
+    "geom:latitude":46.786758,
+    "geom:longitude":-100.7713,
+    "iso:country":"US",
+    "sg:address":"1223 Continental Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 6416",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GyISHNDY0XRePpqD4m3b4_46.786758_-100.771300@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296896,
+    "wof:geomhash":"9f4577afbd165c6cf64f87496dd9cc8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873738019
+        }
+    ],
+    "wof:id":873738019,
+    "wof:lastmodified":1464296896,
+    "wof:name":"B & K Auto Groom",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -100.7713,
+    46.786758,
+    -100.7713,
+    46.786758
+],
+  "geometry": {"coordinates":[-100.7713,46.786758],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873544033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.050176,47.930128,-97.050176,47.930128",
+    "geom:latitude":47.930128,
+    "geom:longitude":-97.050176,
+    "iso:country":"US",
+    "sg:address":"1503 11th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 1012",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WnC7bUSqWSCAMuXx1GgK4_47.930128_-97.050176@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294307,
+    "wof:geomhash":"b5debd3f310a8c2b9e921d88e20db1c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873544033
+        }
+    ],
+    "wof:id":873544033,
+    "wof:lastmodified":1464294307,
+    "wof:name":"CDI Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.050176,
+    47.930128,
+    -97.050176,
+    47.930128
+],
+  "geometry": {"coordinates":[-97.05017599999999,47.930128],"type":"Point"}
+}

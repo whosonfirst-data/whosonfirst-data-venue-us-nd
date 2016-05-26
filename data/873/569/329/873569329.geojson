@@ -1,0 +1,73 @@
+{
+  "id": 873569329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.04553,47.900842,-97.04553,47.900842",
+    "geom:latitude":47.900842,
+    "geom:longitude":-97.04553,
+    "iso:country":"US",
+    "sg:address":"1900 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 787 0083",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KEAbGF4n4xXRtRzLOMnb9_47.900842_-97.045530@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294598,
+    "wof:geomhash":"4d00e8cbe3a3e42693af733809b140aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873569329
+        }
+    ],
+    "wof:id":873569329,
+    "wof:lastmodified":1464294598,
+    "wof:name":"Trio Wireless",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -97.04553,
+    47.900842,
+    -97.04553,
+    47.900842
+],
+  "geometry": {"coordinates":[-97.04553,47.900842],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873783847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.301503,48.224303,-101.301503,48.224303",
+    "geom:latitude":48.224303,
+    "geom:longitude":-101.301503,
+    "iso:country":"US",
+    "sg:address":"1208 6th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 5852",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "wheat",
+        "grain",
+        "cash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sFqj91lsh4xxOxeVcgDMM_48.224303_-101.301503@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297542,
+    "wof:geomhash":"c3f5910b62df81647ab286ab43c56d86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873783847
+        }
+    ],
+    "wof:id":873783847,
+    "wof:lastmodified":1464297542,
+    "wof:name":"Helm Farm",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "wheat",
+        "grain",
+        "cash"
+    ]
+},
+  "bbox": [
+    -101.301503,
+    48.224303,
+    -101.301503,
+    48.224303
+],
+  "geometry": {"coordinates":[-101.301503,48.224303],"type":"Point"}
+}

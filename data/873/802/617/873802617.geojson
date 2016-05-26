@@ -1,0 +1,95 @@
+{
+  "id": 873802617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.805774,46.832611,-96.805774,46.832611",
+    "geom:latitude":46.832611,
+    "geom:longitude":-96.805774,
+    "iso:country":"US",
+    "sg:address":"1620 32nd Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 271 8312",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "return",
+        "preparation-business",
+        "taxes-consultants",
+        "loan",
+        "reporting",
+        "representative",
+        "alternative",
+        "bookkeeping"
+    ],
+    "sg:website":"http://www.hrblock.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534487,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46Tx4JzWQJFx00oPVf4hsA_46.832611_-96.805774@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297805,
+    "wof:geomhash":"448365ccfa6c69d4c98790eb74c9eba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534487,
+            "region_id":85688525,
+            "venue_id":873802617
+        }
+    ],
+    "wof:id":873802617,
+    "wof:lastmodified":1464297805,
+    "wof:name":"H&R Block",
+    "wof:parent_id":420534487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return",
+        "preparation-business",
+        "taxes-consultants",
+        "loan",
+        "reporting",
+        "representative",
+        "alternative",
+        "bookkeeping"
+    ]
+},
+  "bbox": [
+    -96.805774,
+    46.832611,
+    -96.805774,
+    46.832611
+],
+  "geometry": {"coordinates":[-96.805774,46.832611],"type":"Point"}
+}

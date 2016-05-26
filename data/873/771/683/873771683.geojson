@@ -1,0 +1,75 @@
+{
+  "id": 873771683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.805416,46.86466,-96.805416,46.86466",
+    "geom:latitude":46.86466,
+    "geom:longitude":-96.805416,
+    "iso:country":"US",
+    "sg:address":"1518 10th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 297 0600",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877331,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sKLVKOqBx0B69zjCqiob8_46.864660_-96.805416@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297386,
+    "wof:geomhash":"a69eea12e2b2f0d9e3b5790782ff0121",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877331,
+            "region_id":85688525,
+            "venue_id":873771683
+        }
+    ],
+    "wof:id":873771683,
+    "wof:lastmodified":1464297386,
+    "wof:name":"Omni Hobby & Games",
+    "wof:parent_id":85877331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -96.805416,
+    46.86466,
+    -96.805416,
+    46.86466
+],
+  "geometry": {"coordinates":[-96.80541599999999,46.86466],"type":"Point"}
+}

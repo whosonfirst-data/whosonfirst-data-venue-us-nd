@@ -1,0 +1,74 @@
+{
+  "id": 873559587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.784695,46.803121,-100.784695,46.803121",
+    "geom:latitude":46.803121,
+    "geom:longitude":-100.784695,
+    "iso:country":"US",
+    "sg:address":"200 S 5th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 3937",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "clinic",
+        "ophthalmology"
+    ],
+    "sg:website":"www.dakotaeye.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MxiqECRU0WXTYLkIJDeKw_46.803121_-100.784695@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294495,
+    "wof:geomhash":"461f1ce2f83c89c8a4607bafb2e6684b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873559587
+        }
+    ],
+    "wof:id":873559587,
+    "wof:lastmodified":1464294495,
+    "wof:name":"Dakota Eye Institute",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "ophthalmology"
+    ]
+},
+  "bbox": [
+    -100.784695,
+    46.803121,
+    -100.784695,
+    46.803121
+],
+  "geometry": {"coordinates":[-100.784695,46.803121],"type":"Point"}
+}

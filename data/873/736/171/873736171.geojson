@@ -1,0 +1,79 @@
+{
+  "id": 873736171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.83214,46.815577,-96.83214,46.815577",
+    "geom:latitude":46.815577,
+    "geom:longitude":-96.83214,
+    "iso:country":"US",
+    "sg:address":"3316 42nd Ave SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 2699",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "excavating",
+        "contractor",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877333,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6D4aXseyMhAsD8ZJuYXMyp_46.815577_-96.832140@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296872,
+    "wof:geomhash":"66b35b324b43600b04fb0e8f87a2bc66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877333,
+            "region_id":85688525,
+            "venue_id":873736171
+        }
+    ],
+    "wof:id":873736171,
+    "wof:lastmodified":1464296872,
+    "wof:name":"Stellar Trenching Inc",
+    "wof:parent_id":85877333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor",
+        "general"
+    ]
+},
+  "bbox": [
+    -96.83214,
+    46.815577,
+    -96.83214,
+    46.815577
+],
+  "geometry": {"coordinates":[-96.83214,46.815577],"type":"Point"}
+}

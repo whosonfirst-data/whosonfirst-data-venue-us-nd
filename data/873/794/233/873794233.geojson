@@ -1,0 +1,69 @@
+{
+  "id": 873794233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.773849,48.083332,-97.773849,48.083332",
+    "geom:latitude":48.083332,
+    "geom:longitude":-97.773849,
+    "iso:country":"US",
+    "sg:address":"2854 44th St NE",
+    "sg:city":"Niagara",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 397 5791",
+    "sg:postcode":"58266",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "wheat",
+        "soybean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JI776GyhCIAIJQxsqx66p_48.083332_-97.773849@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297705,
+    "wof:geomhash":"ffcde80cf2e3cf3239be8d8d4e27214d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873794233
+        }
+    ],
+    "wof:id":873794233,
+    "wof:lastmodified":1464297705,
+    "wof:name":"Juel Smestad",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "wheat",
+        "soybean"
+    ]
+},
+  "bbox": [
+    -97.773849,
+    48.083332,
+    -97.773849,
+    48.083332
+],
+  "geometry": {"coordinates":[-97.773849,48.083332],"type":"Point"}
+}

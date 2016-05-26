@@ -1,0 +1,71 @@
+{
+  "id": 873589857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.822551,46.765726,-100.822551,46.765726",
+    "geom:latitude":46.765726,
+    "geom:longitude":-100.822551,
+    "iso:country":"US",
+    "sg:address":"1906 Far West Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 9653",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UA9LBPj71wP2AzjrOPJKv_46.765726_-100.822551@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294830,
+    "wof:geomhash":"165f83dcd80c0651722954f37f1bbfbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873589857
+        }
+    ],
+    "wof:id":873589857,
+    "wof:lastmodified":1464294830,
+    "wof:name":"Robert Gibb & Sons Inc",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.822551,
+    46.765726,
+    -100.822551,
+    46.765726
+],
+  "geometry": {"coordinates":[-100.822551,46.765726],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873711763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.352156,46.797788,-100.352156,46.797788",
+    "geom:latitude":46.797788,
+    "geom:longitude":-100.352156,
+    "iso:country":"US",
+    "sg:address":"501 275th St SE",
+    "sg:city":"Sterling",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 673 3149",
+    "sg:postcode":"58572",
+    "sg:province":"ND",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CKIEoSDo86dR7fTAB6Adx_46.797788_-100.352156@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296541,
+    "wof:geomhash":"379c6355b3778aad23f83560f36fb240",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873711763
+        }
+    ],
+    "wof:id":873711763,
+    "wof:lastmodified":1464296541,
+    "wof:name":"Russell M Heaton",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -100.352156,
+    46.797788,
+    -100.352156,
+    46.797788
+],
+  "geometry": {"coordinates":[-100.35215599999999,46.797788],"type":"Point"}
+}

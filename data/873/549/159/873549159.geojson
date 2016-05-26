@@ -1,0 +1,73 @@
+{
+  "id": 873549159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.050738,47.926183,-97.050738,47.926183",
+    "geom:latitude":47.926183,
+    "geom:longitude":-97.050738,
+    "iso:country":"US",
+    "sg:address":"1611 7th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 7458",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56OnR1KJ75kquOE98AXkkh_47.926183_-97.050738@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294368,
+    "wof:geomhash":"618a226aa18975f2e912747b6d38e43a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873549159
+        }
+    ],
+    "wof:id":873549159,
+    "wof:lastmodified":1464294368,
+    "wof:name":"Bennie's Heating & Air Cond",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.050738,
+    47.926183,
+    -97.050738,
+    47.926183
+],
+  "geometry": {"coordinates":[-97.050738,47.926183],"type":"Point"}
+}

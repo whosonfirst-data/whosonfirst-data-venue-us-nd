@@ -1,0 +1,75 @@
+{
+  "id": 873573343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.859991,46.851039,-96.859991,46.851039",
+    "geom:latitude":46.851039,
+    "geom:longitude":-96.859991,
+    "iso:country":"US",
+    "sg:address":"4429 19th Ave SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 281 9133",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bBunH7zsdCIQSoQBZdq1z_46.851039_-96.859991@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294645,
+    "wof:geomhash":"a1c5d83e73649e8deabd049c9a710076",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873573343
+        }
+    ],
+    "wof:id":873573343,
+    "wof:lastmodified":1464294645,
+    "wof:name":"Wingate Inn",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -96.859991,
+    46.851039,
+    -96.859991,
+    46.851039
+],
+  "geometry": {"coordinates":[-96.85999099999999,46.851039],"type":"Point"}
+}

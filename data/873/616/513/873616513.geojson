@@ -1,0 +1,63 @@
+{
+  "id": 873616513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-98.80962,47.551022,-98.80962,47.551022",
+    "geom:latitude":47.551022,
+    "geom:longitude":-98.80962,
+    "iso:country":"US",
+    "sg:address":"440 S Railroad Ave",
+    "sg:city":"Grace City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 674 3144",
+    "sg:postcode":"58445",
+    "sg:province":"ND",
+    "sg:tags":[
+        "grain",
+        "elevator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46m2DnhjxZ4Om4miZUWU9x_47.551022_-98.809620@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295210,
+    "wof:geomhash":"013f9d4e3649559e283cf31b7b7260b8",
+    "wof:hierarchy":[],
+    "wof:id":873616513,
+    "wof:lastmodified":1464295210,
+    "wof:name":"Farmers Elevator Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grain",
+        "elevator"
+    ]
+},
+  "bbox": [
+    -98.80962,
+    47.551022,
+    -98.80962,
+    47.551022
+],
+  "geometry": {"coordinates":[-98.80962,47.551022],"type":"Point"}
+}

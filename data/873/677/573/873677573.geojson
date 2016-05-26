@@ -1,0 +1,66 @@
+{
+  "id": 873677573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.749154,46.816072,-100.749154,46.816072",
+    "geom:latitude":46.816072,
+    "geom:longitude":-100.749154,
+    "iso:country":"US",
+    "sg:address":"1016 N 28th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 6854",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_342WlQ75s3BPpLQgbdOfX3_46.816072_-100.749154@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295925,
+    "wof:geomhash":"3e71ff81879156d56ad835948ca1f9c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873677573
+        }
+    ],
+    "wof:id":873677573,
+    "wof:lastmodified":1464295925,
+    "wof:name":"Professional Pharmacy",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.749154,
+    46.816072,
+    -100.749154,
+    46.816072
+],
+  "geometry": {"coordinates":[-100.749154,46.816072],"type":"Point"}
+}

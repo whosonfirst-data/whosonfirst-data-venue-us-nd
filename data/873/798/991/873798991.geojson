@@ -1,0 +1,74 @@
+{
+  "id": 873798991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.045517,47.902539,-97.045517,47.902539",
+    "geom:latitude":47.902539,
+    "geom:longitude":-97.045517,
+    "iso:country":"US",
+    "sg:address":"1826 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/grand-forks/284111-kon-nechi-was/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 3421",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "japanese",
+        "asian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IokQa7T6MplHZaZsYjrcW_47.902651_-97.045584@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297762,
+    "wof:geomhash":"da80f07b0ddf9ef6d851c2bfccc53c20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873798991
+        }
+    ],
+    "wof:id":873798991,
+    "wof:lastmodified":1464297762,
+    "wof:name":"Kon Nechi Wa's",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "japanese",
+        "asian"
+    ]
+},
+  "bbox": [
+    -97.045517,
+    47.902539,
+    -97.045517,
+    47.902539
+],
+  "geometry": {"coordinates":[-97.045517,47.902539],"type":"Point"}
+}

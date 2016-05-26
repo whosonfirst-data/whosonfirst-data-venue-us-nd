@@ -1,0 +1,73 @@
+{
+  "id": 873620941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.289175,48.210997,-101.289175,48.210997",
+    "geom:latitude":48.210997,
+    "geom:longitude":-101.289175,
+    "iso:country":"US",
+    "sg:address":"406 20th Ave SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 2877",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07m0oh7knqOYPem09imyfl_48.210997_-101.289175@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295260,
+    "wof:geomhash":"a5879ad04007f76c1725021e873c5776",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873620941
+        }
+    ],
+    "wof:id":873620941,
+    "wof:lastmodified":1464295260,
+    "wof:name":"George Miller Repair",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -101.289175,
+    48.210997,
+    -101.289175,
+    48.210997
+],
+  "geometry": {"coordinates":[-101.289175,48.210997],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 873610879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.070849,47.921568,-97.070849,47.921568",
+    "geom:latitude":47.921568,
+    "geom:longitude":-97.070849,
+    "iso:country":"US",
+    "sg:address":"264 Centennial Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 777 2011",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "sg:website":"www.und.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qQ5ajnVnMgEEv3uumgXbM_47.921568_-97.070849@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295153,
+    "wof:geomhash":"fb028ef642e66386818f2dc101e49878",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873610879
+        }
+    ],
+    "wof:id":873610879,
+    "wof:lastmodified":1464295153,
+    "wof:name":"University Of North Dakota",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -97.070849,
+    47.921568,
+    -97.070849,
+    47.921568
+],
+  "geometry": {"coordinates":[-97.070849,47.921568],"type":"Point"}
+}

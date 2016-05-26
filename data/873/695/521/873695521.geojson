@@ -1,0 +1,71 @@
+{
+  "id": 873695521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.786046,46.806377,-100.786046,46.806377",
+    "geom:latitude":46.806377,
+    "geom:longitude":-100.786046,
+    "iso:country":"US",
+    "sg:address":"109 N 4th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 2523",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0e1fSQTfvyWoih6UqdCcEX_46.806377_-100.786046@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296362,
+    "wof:geomhash":"89bed4503d51549d489128430cbfc5e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873695521
+        }
+    ],
+    "wof:id":873695521,
+    "wof:lastmodified":1464296362,
+    "wof:name":"Custom Endodontics",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -100.786046,
+    46.806377,
+    -100.786046,
+    46.806377
+],
+  "geometry": {"coordinates":[-100.786046,46.806377],"type":"Point"}
+}

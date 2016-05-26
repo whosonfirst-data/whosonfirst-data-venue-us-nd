@@ -1,0 +1,66 @@
+{
+  "id": 873536963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.035027,47.88518,-97.035027,47.88518",
+    "geom:latitude":47.88518,
+    "geom:longitude":-97.035027,
+    "iso:country":"US",
+    "sg:address":"3627 Kimberly Ct",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 6310",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MKP9vFTaS9mO6q3sDSr50_47.885180_-97.035027@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294227,
+    "wof:geomhash":"8977f16f4c16afa18291759c48165b68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873536963
+        }
+    ],
+    "wof:id":873536963,
+    "wof:lastmodified":1464294227,
+    "wof:name":"Kellys Apparel Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.035027,
+    47.88518,
+    -97.035027,
+    47.88518
+],
+  "geometry": {"coordinates":[-97.035027,47.88518],"type":"Point"}
+}

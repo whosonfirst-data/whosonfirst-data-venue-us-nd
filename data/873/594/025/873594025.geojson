@@ -1,0 +1,75 @@
+{
+  "id": 873594025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.757176,46.808181,-100.757176,46.808181",
+    "geom:latitude":46.808181,
+    "geom:longitude":-100.757176,
+    "iso:country":"US",
+    "sg:address":"305 N 23rd St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 8172",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "welcoming",
+        "newcomer",
+        "for"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EACk4JkhIKiZ61ssRxQiu_46.808181_-100.757176@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294883,
+    "wof:geomhash":"1deb7d315a165e2410ff56410d0e51fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873594025
+        }
+    ],
+    "wof:id":873594025,
+    "wof:lastmodified":1464294883,
+    "wof:name":"Ruth Meier's Hospitality House",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welcoming",
+        "newcomer",
+        "for"
+    ]
+},
+  "bbox": [
+    -100.757176,
+    46.808181,
+    -100.757176,
+    46.808181
+],
+  "geometry": {"coordinates":[-100.757176,46.808181],"type":"Point"}
+}

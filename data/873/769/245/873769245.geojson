@@ -1,0 +1,71 @@
+{
+  "id": 873769245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.330427,48.249249,-101.330427,48.249249",
+    "geom:latitude":48.249249,
+    "geom:longitude":-101.330427,
+    "iso:country":"US",
+    "sg:address":"2308 Crescent Dr",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 721 0473",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "communication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7U7EJHAz8w9jInT5d6fwpU_48.249249_-101.330427@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297353,
+    "wof:geomhash":"9609be15c94732ebfc1481c5d3e8bb54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873769245
+        }
+    ],
+    "wof:id":873769245,
+    "wof:lastmodified":1464297353,
+    "wof:name":"Jeff Rameden Satellite",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication"
+    ]
+},
+  "bbox": [
+    -101.330427,
+    48.249249,
+    -101.330427,
+    48.249249
+],
+  "geometry": {"coordinates":[-101.330427,48.249249],"type":"Point"}
+}

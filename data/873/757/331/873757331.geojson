@@ -1,0 +1,73 @@
+{
+  "id": 873757331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.294709,48.23157,-101.294709,48.23157",
+    "geom:latitude":48.23157,
+    "geom:longitude":-101.294709,
+    "iso:country":"US",
+    "sg:address":"117 5th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 857 6121",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JPknj3zzFMIUgycK62ecs_48.231570_-101.294709@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297173,
+    "wof:geomhash":"3dddfc7cc6bf4c4aa78d184b27f9b82c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873757331
+        }
+    ],
+    "wof:id":873757331,
+    "wof:lastmodified":1464297173,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -101.294709,
+    48.23157,
+    -101.294709,
+    48.23157
+],
+  "geometry": {"coordinates":[-101.294709,48.23157],"type":"Point"}
+}

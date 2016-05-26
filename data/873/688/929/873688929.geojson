@@ -1,0 +1,66 @@
+{
+  "id": 873688929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.283879,48.24413,-101.283879,48.24413",
+    "geom:latitude":48.24413,
+    "geom:longitude":-101.283879,
+    "iso:country":"US",
+    "sg:address":"717 6th St NE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 2646",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yo3RXjX7npAhHMEYof0Sj_48.244130_-101.283879@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296247,
+    "wof:geomhash":"632a939130b2778df94b044bcb0365cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873688929
+        }
+    ],
+    "wof:id":873688929,
+    "wof:lastmodified":1464296247,
+    "wof:name":"Darlene's Day Care",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.283879,
+    48.24413,
+    -101.283879,
+    48.24413
+],
+  "geometry": {"coordinates":[-101.283879,48.24413],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873587857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.786181,46.807353,-100.786181,46.807353",
+    "geom:latitude":46.807353,
+    "geom:longitude":-100.786181,
+    "iso:country":"US",
+    "sg:address":"218 N 4th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 5636",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "consultant",
+        "planning",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01C1kVzf8VyMOjkVpsSZEa_46.807353_-100.786181@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294806,
+    "wof:geomhash":"ea4627a3f97ab30f1042dc389dddce9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873587857
+        }
+    ],
+    "wof:id":873587857,
+    "wof:lastmodified":1464294806,
+    "wof:name":"First Security Financial Svc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "planning",
+        "financial"
+    ]
+},
+  "bbox": [
+    -100.786181,
+    46.807353,
+    -100.786181,
+    46.807353
+],
+  "geometry": {"coordinates":[-100.786181,46.807353],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873599369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.073312,47.887828,-97.073312,47.887828",
+    "geom:latitude":47.887828,
+    "geom:longitude":-97.073312,
+    "iso:country":"US",
+    "sg:address":"3374 S 31st St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 3484",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "company",
+        "title"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cKUMIo2sKZ2enxPbInr42_47.887828_-97.073312@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294979,
+    "wof:geomhash":"77d24a1e9ecd82d95cb4cbe986b05b3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873599369
+        }
+    ],
+    "wof:id":873599369,
+    "wof:lastmodified":1464294979,
+    "wof:name":"Grand Forks Abstract & Title",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "title"
+    ]
+},
+  "bbox": [
+    -97.073312,
+    47.887828,
+    -97.073312,
+    47.887828
+],
+  "geometry": {"coordinates":[-97.073312,47.887828],"type":"Point"}
+}

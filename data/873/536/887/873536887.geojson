@@ -1,0 +1,73 @@
+{
+  "id": 873536887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.326404,48.209568,-101.326404,48.209568",
+    "geom:latitude":48.209568,
+    "geom:longitude":-101.326404,
+    "iso:country":"US",
+    "sg:address":"2205 22nd Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 5089",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "commercial",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59ifY11SKvP8ZoAmH9MXyv_48.209568_-101.326404@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294224,
+    "wof:geomhash":"9328d26c397ca60c97206fd4c057e2c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873536887
+        }
+    ],
+    "wof:id":873536887,
+    "wof:lastmodified":1464294224,
+    "wof:name":"Judith Bell Originals",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "design"
+    ]
+},
+  "bbox": [
+    -101.326404,
+    48.209568,
+    -101.326404,
+    48.209568
+],
+  "geometry": {"coordinates":[-101.326404,48.209568],"type":"Point"}
+}

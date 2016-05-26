@@ -1,0 +1,66 @@
+{
+  "id": 873737089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.307532,48.260513,-101.307532,48.260513",
+    "geom:latitude":48.260513,
+    "geom:longitude":-101.307532,
+    "iso:country":"US",
+    "sg:address":"2215 8th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 857 4666",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qyoepgzGjyn4C4ULxBjQu_48.260513_-101.307532@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296883,
+    "wof:geomhash":"f5fe2f3d26bf6128c97593618bbe1581",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873737089
+        }
+    ],
+    "wof:id":873737089,
+    "wof:lastmodified":1464296883,
+    "wof:name":"North Hill Elementary School",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.307532,
+    48.260513,
+    -101.307532,
+    48.260513
+],
+  "geometry": {"coordinates":[-101.30753199999999,48.260513],"type":"Point"}
+}

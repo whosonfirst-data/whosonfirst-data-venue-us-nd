@@ -1,0 +1,72 @@
+{
+  "id": 873593647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.76003,46.841834,-100.76003,46.841834",
+    "geom:latitude":46.841834,
+    "geom:longitude":-100.76003,
+    "iso:country":"US",
+    "sg:address":"3163 Arizona Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 323 0556",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "fastener"
+    ],
+    "sg:website":"www.fastenal.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BT38s2dyxoFQMr3QVUAw2_46.841834_-100.760030@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294878,
+    "wof:geomhash":"430293b4fc7d3b07c287fcea20fd88be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873593647
+        }
+    ],
+    "wof:id":873593647,
+    "wof:lastmodified":1464294878,
+    "wof:name":"Fastenal Co",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fastener"
+    ]
+},
+  "bbox": [
+    -100.76003,
+    46.841834,
+    -100.76003,
+    46.841834
+],
+  "geometry": {"coordinates":[-100.76003,46.841834],"type":"Point"}
+}

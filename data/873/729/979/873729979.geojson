@@ -1,0 +1,75 @@
+{
+  "id": 873729979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.835454,46.839102,-96.835454,46.839102",
+    "geom:latitude":46.839102,
+    "geom:longitude":-96.835454,
+    "iso:country":"US",
+    "sg:address":"2801 Parkview Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 0877",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877355,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04WvRhqwBjzLJwYmjSO5Ko_46.839102_-96.835454@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296779,
+    "wof:geomhash":"b7f3dad4429c2be04c99239c48da41b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877355,
+            "region_id":85688525,
+            "venue_id":873729979
+        }
+    ],
+    "wof:id":873729979,
+    "wof:lastmodified":1464296779,
+    "wof:name":"Cheryls Day Care",
+    "wof:parent_id":85877355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -96.835454,
+    46.839102,
+    -96.835454,
+    46.839102
+],
+  "geometry": {"coordinates":[-96.835454,46.839102],"type":"Point"}
+}

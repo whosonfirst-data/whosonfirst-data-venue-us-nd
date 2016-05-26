@@ -1,0 +1,73 @@
+{
+  "id": 873593993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.289846,48.229773,-101.289846,48.229773",
+    "geom:latitude":48.229773,
+    "geom:longitude":-101.289846,
+    "iso:country":"US",
+    "sg:address":"114 7th Ave SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 6474",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LfbFvszoP5jxISrt1uBTD_48.229773_-101.289846@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294883,
+    "wof:geomhash":"7d38734990fe33994813677c11e92c74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873593993
+        }
+    ],
+    "wof:id":873593993,
+    "wof:lastmodified":1464294883,
+    "wof:name":"Mac's Construction Inc",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.289846,
+    48.229773,
+    -101.289846,
+    48.229773
+],
+  "geometry": {"coordinates":[-101.289846,48.229773],"type":"Point"}
+}

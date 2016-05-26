@@ -1,0 +1,71 @@
+{
+  "id": 873568969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.099227,47.77359,-97.099227,47.77359",
+    "geom:latitude":47.77359,
+    "geom:longitude":-97.099227,
+    "iso:country":"US",
+    "sg:address":"701 Broadway St",
+    "sg:city":"Thompson",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 599 2081",
+    "sg:postcode":"58278",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WchGWtSyFhP2P4uElRJbB_47.773590_-97.099227@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294595,
+    "wof:geomhash":"923f8bfbd53735b1f3aecc70844f6242",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873568969
+        }
+    ],
+    "wof:id":873568969,
+    "wof:lastmodified":1464294595,
+    "wof:name":"St Matthew's Lutheran",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -97.099227,
+    47.77359,
+    -97.099227,
+    47.77359
+],
+  "geometry": {"coordinates":[-97.099227,47.77359],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873573527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.763632,46.840407,-100.763632,46.840407",
+    "geom:latitude":46.840407,
+    "geom:longitude":-100.763632,
+    "iso:country":"US",
+    "sg:address":"2921 N 19th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 3242",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "child",
+        "day",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xhwIsYhOakpsvCeQWcYw6_46.840407_-100.763632@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294647,
+    "wof:geomhash":"b31b655916e3688414aefe3d5f12806b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873573527
+        }
+    ],
+    "wof:id":873573527,
+    "wof:lastmodified":1464294647,
+    "wof:name":"Childs Hope Learning Center",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "child",
+        "day",
+        "care"
+    ]
+},
+  "bbox": [
+    -100.763632,
+    46.840407,
+    -100.763632,
+    46.840407
+],
+  "geometry": {"coordinates":[-100.763632,46.840407],"type":"Point"}
+}

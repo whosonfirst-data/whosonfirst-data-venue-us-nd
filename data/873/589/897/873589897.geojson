@@ -1,0 +1,71 @@
+{
+  "id": 873589897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.905244,46.756344,-96.905244,46.756344",
+    "geom:latitude":46.756344,
+    "geom:longitude":-96.905244,
+    "iso:country":"US",
+    "sg:address":"610 Willow Ct",
+    "sg:city":"Horace",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 6883",
+    "sg:postcode":"58047",
+    "sg:province":"ND",
+    "sg:tags":[
+        "motion"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42kN8O1bmdJlhBbvYMd0dI_46.756344_-96.905244@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294830,
+    "wof:geomhash":"9fe2983160a634fa931c0e31228532bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873589897
+        }
+    ],
+    "wof:id":873589897,
+    "wof:lastmodified":1464294830,
+    "wof:name":"Sinister Productions",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motion"
+    ]
+},
+  "bbox": [
+    -96.905244,
+    46.756344,
+    -96.905244,
+    46.756344
+],
+  "geometry": {"coordinates":[-96.905244,46.756344],"type":"Point"}
+}

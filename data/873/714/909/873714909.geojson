@@ -1,0 +1,71 @@
+{
+  "id": 873714909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.29912,48.265512,-101.29912,48.265512",
+    "geom:latitude":48.265512,
+    "geom:longitude":-101.29912,
+    "iso:country":"US",
+    "sg:address":"2512 4th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 6770",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71JARgDo86CB7zDD2rPLUl_48.265512_-101.299120@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296580,
+    "wof:geomhash":"2ecc771ae7ac1160fb0ae9ef7b4817b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873714909
+        }
+    ],
+    "wof:id":873714909,
+    "wof:lastmodified":1464296580,
+    "wof:name":"Northgate Apartments",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -101.29912,
+    48.265512,
+    -101.29912,
+    48.265512
+],
+  "geometry": {"coordinates":[-101.29912,48.265512],"type":"Point"}
+}

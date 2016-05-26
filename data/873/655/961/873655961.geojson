@@ -1,0 +1,73 @@
+{
+  "id": 873655961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.135333,48.237168,-101.135333,48.237168",
+    "geom:latitude":48.237168,
+    "geom:longitude":-101.135333,
+    "iso:country":"US",
+    "sg:address":"117 1st Ave SW",
+    "sg:city":"Surrey",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 833 8213",
+    "sg:postcode":"58785",
+    "sg:province":"ND",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DtIDqUnuhnLPx660NwGUs_48.237168_-101.135333@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295656,
+    "wof:geomhash":"847daf747a5b1f976c4016c9a3dbde67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873655961
+        }
+    ],
+    "wof:id":873655961,
+    "wof:lastmodified":1464295656,
+    "wof:name":"IHP Construction",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.135333,
+    48.237168,
+    -101.135333,
+    48.237168
+],
+  "geometry": {"coordinates":[-101.135333,48.237168],"type":"Point"}
+}

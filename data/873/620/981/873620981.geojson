@@ -1,0 +1,76 @@
+{
+  "id": 873620981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.329488,48.220358,-101.329488,48.220358",
+    "geom:latitude":48.220358,
+    "geom:longitude":-101.329488,
+    "iso:country":"US",
+    "sg:address":"2601 Burdick Expy W",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 858 0078",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "scooter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JUv6qsNTTev6nEdhNrQJ4_48.220358_-101.329488@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295260,
+    "wof:geomhash":"c1a3ca9cc594825a6d1d692ef8636fa1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873620981
+        }
+    ],
+    "wof:id":873620981,
+    "wof:lastmodified":1464295260,
+    "wof:name":"V Twin Performance",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter"
+    ]
+},
+  "bbox": [
+    -101.329488,
+    48.220358,
+    -101.329488,
+    48.220358
+],
+  "geometry": {"coordinates":[-101.329488,48.220358],"type":"Point"}
+}

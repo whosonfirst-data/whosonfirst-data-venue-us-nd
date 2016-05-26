@@ -1,0 +1,76 @@
+{
+  "id": 873771869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.827558,46.862116,-96.827558,46.862116",
+    "geom:latitude":46.862116,
+    "geom:longitude":-96.827558,
+    "iso:country":"US",
+    "sg:address":"1201 Page Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 1167",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "management"
+    ],
+    "sg:website":"www.tharaldson.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XWR22OaVtQoArENL1qP7T_46.862116_-96.827558@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297388,
+    "wof:geomhash":"5e39c2939807e39823b9a246092187bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873771869
+        }
+    ],
+    "wof:id":873771869,
+    "wof:lastmodified":1464297388,
+    "wof:name":"Tharaldson Property Management",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -96.827558,
+    46.862116,
+    -96.827558,
+    46.862116
+],
+  "geometry": {"coordinates":[-96.827558,46.862116],"type":"Point"}
+}

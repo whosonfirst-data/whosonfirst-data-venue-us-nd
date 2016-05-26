@@ -1,0 +1,73 @@
+{
+  "id": 873753477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.497776,47.921276,-97.497776,47.921276",
+    "geom:latitude":47.921276,
+    "geom:longitude":-97.497776,
+    "iso:country":"US",
+    "sg:address":"211 Hartford St",
+    "sg:city":"Arvilla",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 343 2974",
+    "sg:postcode":"58214",
+    "sg:province":"ND",
+    "sg:tags":[
+        "other",
+        "social"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ql6lFMSXvESbDXGGZ27pI_47.921276_-97.497776@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297126,
+    "wof:geomhash":"8c7b982f04bddc19ffb8039bd17db756",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873753477
+        }
+    ],
+    "wof:id":873753477,
+    "wof:lastmodified":1464297126,
+    "wof:name":"Jane Hutzol",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "other",
+        "social"
+    ]
+},
+  "bbox": [
+    -97.497776,
+    47.921276,
+    -97.497776,
+    47.921276
+],
+  "geometry": {"coordinates":[-97.497776,47.921276],"type":"Point"}
+}

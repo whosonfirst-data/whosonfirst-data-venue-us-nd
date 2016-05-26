@@ -1,0 +1,74 @@
+{
+  "id": 873537337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.045019,47.908106,-97.045019,47.908106",
+    "geom:latitude":47.908106,
+    "geom:longitude":-97.045019,
+    "iso:country":"US",
+    "sg:address":"1300 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 9353",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.eidemotors.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YL1FTl4lbqguaS7Ximbqj_47.908106_-97.045019@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294232,
+    "wof:geomhash":"7db148c54409b93822184dd30eb51692",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873537337
+        }
+    ],
+    "wof:id":873537337,
+    "wof:lastmodified":1464294232,
+    "wof:name":"Eide Motors-Suzuki",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -97.045019,
+    47.908106,
+    -97.045019,
+    47.908106
+],
+  "geometry": {"coordinates":[-97.045019,47.908106],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873536783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.778575,46.807377,-100.778575,46.807377",
+    "geom:latitude":46.807377,
+    "geom:longitude":-100.778575,
+    "iso:country":"US",
+    "sg:address":"807 E Thayer Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 0225",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "elementary",
+        "center",
+        "learning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RQJHzE3oWiVLBpNTLvJUx_46.807377_-100.778575@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294222,
+    "wof:geomhash":"dd0efa742d3fd4fd1d3ee7b658380aa6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873536783
+        }
+    ],
+    "wof:id":873536783,
+    "wof:lastmodified":1464294222,
+    "wof:name":"La Mere Learning Center",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "center",
+        "learning"
+    ]
+},
+  "bbox": [
+    -100.778575,
+    46.807377,
+    -100.778575,
+    46.807377
+],
+  "geometry": {"coordinates":[-100.778575,46.807377],"type":"Point"}
+}

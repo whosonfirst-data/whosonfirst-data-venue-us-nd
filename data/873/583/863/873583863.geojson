@@ -1,0 +1,75 @@
+{
+  "id": 873583863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.290073,48.234903,-101.290073,48.234903",
+    "geom:latitude":48.234903,
+    "geom:longitude":-101.290073,
+    "iso:country":"US",
+    "sg:address":"310 2nd St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 0485",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "home",
+        "retirement",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XAeoqIsOAEt266vQhmQWc_48.234903_-101.290073@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294761,
+    "wof:geomhash":"0646ce2fac33942ee80d01a4db8ecf6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873583863
+        }
+    ],
+    "wof:id":873583863,
+    "wof:lastmodified":1464294761,
+    "wof:name":"Milton Young Towers",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "retirement",
+        "community"
+    ]
+},
+  "bbox": [
+    -101.290073,
+    48.234903,
+    -101.290073,
+    48.234903
+],
+  "geometry": {"coordinates":[-101.29007300000001,48.234903],"type":"Point"}
+}

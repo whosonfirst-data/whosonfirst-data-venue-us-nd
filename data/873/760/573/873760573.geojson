@@ -1,0 +1,66 @@
+{
+  "id": 873760573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.303524,47.716034,-97.303524,47.716034",
+    "geom:latitude":47.716034,
+    "geom:longitude":-97.303524,
+    "iso:country":"US",
+    "sg:address":"345 22nd St NE",
+    "sg:city":"Reynolds",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 543 3887",
+    "sg:postcode":"58275",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QK62IIy9UuyTw5YZwlDZM_47.716034_-97.303524@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297214,
+    "wof:geomhash":"8e6311d758e363a92e78e72ccec0549e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873760573
+        }
+    ],
+    "wof:id":873760573,
+    "wof:lastmodified":1464297214,
+    "wof:name":"Thrivent Financial-Lutherans",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.303524,
+    47.716034,
+    -97.303524,
+    47.716034
+],
+  "geometry": {"coordinates":[-97.303524,47.716034],"type":"Point"}
+}

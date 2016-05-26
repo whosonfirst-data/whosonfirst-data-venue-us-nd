@@ -1,0 +1,75 @@
+{
+  "id": 873593067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.042084,47.922111,-97.042084,47.922111",
+    "geom:latitude":47.922111,
+    "geom:longitude":-97.042084,
+    "iso:country":"US",
+    "sg:address":"213 N 11th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 6967",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "bathtub",
+        "sink",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lIGNsdMEHTIKnQq0f7ZFU_47.922111_-97.042084@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294869,
+    "wof:geomhash":"e95cffc4150c72ec31c1a9f5bb40e1cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873593067
+        }
+    ],
+    "wof:id":873593067,
+    "wof:lastmodified":1464294869,
+    "wof:name":"Curt's Fiberglass Repair",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bathtub",
+        "sink",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -97.042084,
+    47.922111,
+    -97.042084,
+    47.922111
+],
+  "geometry": {"coordinates":[-97.042084,47.922111],"type":"Point"}
+}

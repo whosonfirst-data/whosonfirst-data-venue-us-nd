@@ -1,0 +1,66 @@
+{
+  "id": 873709881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.296669,48.225445,-101.296669,48.225445",
+    "geom:latitude":48.225445,
+    "geom:longitude":-101.296669,
+    "iso:country":"US",
+    "sg:address":"209 11th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 1524",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38J44qtNS0NmevVzbwZv0K_48.225445_-101.296669@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296520,
+    "wof:geomhash":"cb6eba9e6445a3bf48332b61d3a98779",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873709881
+        }
+    ],
+    "wof:id":873709881,
+    "wof:lastmodified":1464296520,
+    "wof:name":"Medicap Pharmacy",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.296669,
+    48.225445,
+    -101.296669,
+    48.225445
+],
+  "geometry": {"coordinates":[-101.29666899999999,48.225445],"type":"Point"}
+}

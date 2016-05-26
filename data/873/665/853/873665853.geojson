@@ -1,0 +1,67 @@
+{
+  "id": 873665853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.73063,46.843285,-100.73063,46.843285",
+    "geom:latitude":46.843285,
+    "geom:longitude":-100.73063,
+    "iso:country":"US",
+    "sg:address":"3720 Centennial Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 2662",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:website":"www.kampsight.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FLdlmRCNZfmq05dltqJbp_46.843285_-100.730630@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295758,
+    "wof:geomhash":"e3666d877a2d12713717976f20015026",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873665853
+        }
+    ],
+    "wof:id":873665853,
+    "wof:lastmodified":1464295758,
+    "wof:name":"KOA Campgrounds",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.73063,
+    46.843285,
+    -100.73063,
+    46.843285
+],
+  "geometry": {"coordinates":[-100.73063,46.843285],"type":"Point"}
+}

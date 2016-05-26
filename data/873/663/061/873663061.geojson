@@ -1,0 +1,71 @@
+{
+  "id": 873663061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.064285,47.933008,-97.064285,47.933008",
+    "geom:latitude":47.933008,
+    "geom:longitude":-97.064285,
+    "iso:country":"US",
+    "sg:address":"2215 Gateway Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 6666",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YmWzDfh5HPCJZET48PUwA_47.933008_-97.064285@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295731,
+    "wof:geomhash":"c06f784af780936425b59807e4292a3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873663061
+        }
+    ],
+    "wof:id":873663061,
+    "wof:lastmodified":1464295731,
+    "wof:name":"Super Pawnbrokers Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -97.064285,
+    47.933008,
+    -97.064285,
+    47.933008
+],
+  "geometry": {"coordinates":[-97.064285,47.933008],"type":"Point"}
+}

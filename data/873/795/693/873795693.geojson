@@ -1,0 +1,67 @@
+{
+  "id": 873795693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.327705,48.204671,-101.327705,48.204671",
+    "geom:latitude":48.204671,
+    "geom:longitude":-101.327705,
+    "iso:country":"US",
+    "sg:address":"2708 23rd St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 2494",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "soybean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DqnUANITaecmCuBCy103y_48.204671_-101.327705@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297723,
+    "wof:geomhash":"d335dd333ed8be4589caaa9e48a06670",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873795693
+        }
+    ],
+    "wof:id":873795693,
+    "wof:lastmodified":1464297723,
+    "wof:name":"Larry Rexine",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "soybean"
+    ]
+},
+  "bbox": [
+    -101.327705,
+    48.204671,
+    -101.327705,
+    48.204671
+],
+  "geometry": {"coordinates":[-101.32770499999999,48.204671],"type":"Point"}
+}

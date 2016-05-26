@@ -1,0 +1,71 @@
+{
+  "id": 873614429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.333094,48.24431,-101.333094,48.24431",
+    "geom:latitude":48.24431,
+    "geom:longitude":-101.333094,
+    "iso:country":"US",
+    "sg:address":"2509 Bel Air Dr",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 5528",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "operator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0A7DcqG0sgslqsZLmuUjxe_48.244310_-101.333094@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295189,
+    "wof:geomhash":"afcb236df5f4998291b8189ab1ec804a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873614429
+        }
+    ],
+    "wof:id":873614429,
+    "wof:lastmodified":1464295189,
+    "wof:name":"Brenden Vending",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator"
+    ]
+},
+  "bbox": [
+    -101.333094,
+    48.24431,
+    -101.333094,
+    48.24431
+],
+  "geometry": {"coordinates":[-101.333094,48.24431],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873552457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.057054,47.92821,-97.057054,47.92821",
+    "geom:latitude":47.92821,
+    "geom:longitude":-97.057054,
+    "iso:country":"US",
+    "sg:address":"2109 9th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 2150",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BAwPGQogs74ylW8Hca44g_47.928210_-97.057054@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294406,
+    "wof:geomhash":"a2af9543e6b05d57c329530f4d92fc92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873552457
+        }
+    ],
+    "wof:id":873552457,
+    "wof:lastmodified":1464294406,
+    "wof:name":"Middleton Decorating",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -97.057054,
+    47.92821,
+    -97.057054,
+    47.92821
+],
+  "geometry": {"coordinates":[-97.05705399999999,47.92821],"type":"Point"}
+}

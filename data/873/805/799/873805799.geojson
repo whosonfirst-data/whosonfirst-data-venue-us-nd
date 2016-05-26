@@ -1,0 +1,85 @@
+{
+  "id": 873805799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.813698,46.825829,-100.813698,46.825829",
+    "geom:latitude":46.825829,
+    "geom:longitude":-100.813698,
+    "iso:country":"US",
+    "sg:address":"1237 W Divide Ave Ste 5",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 328 8888",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "government-state",
+        "state",
+        "government-united"
+    ],
+    "sg:website":"http://www.lakeregioniga.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4D6i94oF91N3rIYhXzDw8d_46.825829_-100.813698@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297849,
+    "wof:geomhash":"caec8d40d18077d3563563cf323cef70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873805799
+        }
+    ],
+    "wof:id":873805799,
+    "wof:lastmodified":1464297849,
+    "wof:name":"West Central Human Service Ctr",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government-state",
+        "state",
+        "government-united"
+    ]
+},
+  "bbox": [
+    -100.813698,
+    46.825829,
+    -100.813698,
+    46.825829
+],
+  "geometry": {"coordinates":[-100.813698,46.825829],"type":"Point"}
+}

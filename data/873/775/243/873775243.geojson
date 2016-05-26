@@ -1,0 +1,71 @@
+{
+  "id": 873775243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.291403,48.235351,-101.291403,48.235351",
+    "geom:latitude":48.235351,
+    "geom:longitude":-101.291403,
+    "iso:country":"US",
+    "sg:address":"110 1st Ave SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 7702",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6C6uRYoXIHIcyAVeaRquA7_48.235351_-101.291403@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297429,
+    "wof:geomhash":"f47eaa757cba7e5ad6d8ecdd1c7a3b46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873775243
+        }
+    ],
+    "wof:id":873775243,
+    "wof:lastmodified":1464297429,
+    "wof:name":"Legends",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -101.291403,
+    48.235351,
+    -101.291403,
+    48.235351
+],
+  "geometry": {"coordinates":[-101.291403,48.235351],"type":"Point"}
+}

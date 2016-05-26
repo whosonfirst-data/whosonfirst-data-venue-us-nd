@@ -1,0 +1,72 @@
+{
+  "id": 873703041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.769642,46.804073,-100.769642,46.804073",
+    "geom:latitude":46.804073,
+    "geom:longitude":-100.769642,
+    "iso:country":"US",
+    "sg:address":"1416 E Front Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 1636",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "lumber"
+    ],
+    "sg:website":"www.frontstreetmillwork.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cINjsA9hlMunlRu3AYjBm_46.804073_-100.769642@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296436,
+    "wof:geomhash":"e940e701c306dd79373dbfdccf6e22e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873703041
+        }
+    ],
+    "wof:id":873703041,
+    "wof:lastmodified":1464296436,
+    "wof:name":"Front Street Millwork & Lumber",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lumber"
+    ]
+},
+  "bbox": [
+    -100.769642,
+    46.804073,
+    -100.769642,
+    46.804073
+],
+  "geometry": {"coordinates":[-100.769642,46.804073],"type":"Point"}
+}

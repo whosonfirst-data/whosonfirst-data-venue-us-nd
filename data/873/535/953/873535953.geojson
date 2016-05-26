@@ -1,0 +1,66 @@
+{
+  "id": 873535953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.287944,48.215958,-101.287944,48.215958",
+    "geom:latitude":48.215958,
+    "geom:longitude":-101.287944,
+    "iso:country":"US",
+    "sg:address":"1728 4th St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 2650",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vvJc3VNaaBHchoYd0M3Az_48.215958_-101.287944@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294214,
+    "wof:geomhash":"d1a06b1c3ea435db6b90b71d6ec67d69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873535953
+        }
+    ],
+    "wof:id":873535953,
+    "wof:lastmodified":1464294214,
+    "wof:name":"Cardinal Specialties",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.287944,
+    48.215958,
+    -101.287944,
+    48.215958
+],
+  "geometry": {"coordinates":[-101.287944,48.215958],"type":"Point"}
+}

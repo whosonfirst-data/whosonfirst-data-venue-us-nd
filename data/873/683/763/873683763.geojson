@@ -1,0 +1,71 @@
+{
+  "id": 873683763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.787745,46.804098,-100.787745,46.804098",
+    "geom:latitude":46.804098,
+    "geom:longitude":-100.787745,
+    "iso:country":"US",
+    "sg:address":"207 E Front Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 3300",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hQDEHvfHuPZ3hgdWe3hPk_46.804098_-100.787745@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296101,
+    "wof:geomhash":"feb3a2c86cb2bdcad6e586f066378c07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873683763
+        }
+    ],
+    "wof:id":873683763,
+    "wof:lastmodified":1464296101,
+    "wof:name":"Northland Financial",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial"
+    ]
+},
+  "bbox": [
+    -100.787745,
+    46.804098,
+    -100.787745,
+    46.804098
+],
+  "geometry": {"coordinates":[-100.787745,46.804098],"type":"Point"}
+}

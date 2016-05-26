@@ -1,0 +1,75 @@
+{
+  "id": 873537477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.787789,46.805549,-100.787789,46.805549",
+    "geom:latitude":46.805549,
+    "geom:longitude":-100.787789,
+    "iso:country":"US",
+    "sg:address":"212 E Main Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 2699",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automobile",
+        "stereo",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23rVv3Wr756gXvnpJuggbg_46.805549_-100.787789@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294233,
+    "wof:geomhash":"c423c322f0579b4af8d561ea5184ebf0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873537477
+        }
+    ],
+    "wof:id":873537477,
+    "wof:lastmodified":1464294233,
+    "wof:name":"Heidinger's Auto Stereos",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "stereo",
+        "radio"
+    ]
+},
+  "bbox": [
+    -100.787789,
+    46.805549,
+    -100.787789,
+    46.805549
+],
+  "geometry": {"coordinates":[-100.787789,46.805549],"type":"Point"}
+}

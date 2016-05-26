@@ -1,0 +1,71 @@
+{
+  "id": 873577001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.469628,48.12301,-101.469628,48.12301",
+    "geom:latitude":48.12301,
+    "geom:longitude":-101.469628,
+    "iso:country":"US",
+    "sg:address":"10800 114th St SW",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Soap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 722 3218",
+    "sg:postcode":"58722",
+    "sg:province":"ND",
+    "sg:tags":[
+        "detergent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cbXx9qyb4Rrio28nUVcUo_48.123010_-101.469628@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294684,
+    "wof:geomhash":"70491cef8dce1f8d9cc29f448e090353",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873577001
+        }
+    ],
+    "wof:id":873577001,
+    "wof:lastmodified":1464294684,
+    "wof:name":"Korner Kreations",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "detergent"
+    ]
+},
+  "bbox": [
+    -101.469628,
+    48.12301,
+    -101.469628,
+    48.12301
+],
+  "geometry": {"coordinates":[-101.469628,48.12301],"type":"Point"}
+}

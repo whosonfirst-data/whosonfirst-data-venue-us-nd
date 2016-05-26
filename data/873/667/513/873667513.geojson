@@ -1,0 +1,76 @@
+{
+  "id": 873667513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.027468,47.922264,-97.027468,47.922264",
+    "geom:latitude":47.922264,
+    "geom:longitude":-97.027468,
+    "iso:country":"US",
+    "sg:address":"219 S 4th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 7427",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "human"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lsbWmPBOXyyEHpFVDcPUZ_47.922264_-97.027468@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295774,
+    "wof:geomhash":"89b6378af3519de138bb3bba5fdfba6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873667513
+        }
+    ],
+    "wof:id":873667513,
+    "wof:lastmodified":1464295774,
+    "wof:name":"Grand Forks Food Cupboard",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "human"
+    ]
+},
+  "bbox": [
+    -97.027468,
+    47.922264,
+    -97.027468,
+    47.922264
+],
+  "geometry": {"coordinates":[-97.027468,47.922264],"type":"Point"}
+}

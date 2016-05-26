@@ -1,0 +1,75 @@
+{
+  "id": 873632053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.196364,47.974167,-97.196364,47.974167",
+    "geom:latitude":47.974167,
+    "geom:longitude":-97.196364,
+    "iso:country":"US",
+    "sg:address":"2089 17th St NE",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 5372",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11YTKD6dGNFfjZqfxaXKkp_47.974167_-97.196364@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295385,
+    "wof:geomhash":"60b6f8b855efaa50184488c20bf99a97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873632053
+        }
+    ],
+    "wof:id":873632053,
+    "wof:lastmodified":1464295385,
+    "wof:name":"Star-Brite Cleaning Svc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -97.196364,
+    47.974167,
+    -97.196364,
+    47.974167
+],
+  "geometry": {"coordinates":[-97.196364,47.974167],"type":"Point"}
+}

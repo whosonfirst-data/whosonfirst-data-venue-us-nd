@@ -1,0 +1,71 @@
+{
+  "id": 873562939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.031912,47.901395,-97.031912,47.901395",
+    "geom:latitude":47.901395,
+    "geom:longitude":-97.031912,
+    "iso:country":"US",
+    "sg:address":"503 Campbell Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 9718",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0i21IgrQLx1jQK6KDJ1Ys0_47.901395_-97.031912@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294531,
+    "wof:geomhash":"08e1b7d662adfc45d0df3261d578deb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873562939
+        }
+    ],
+    "wof:id":873562939,
+    "wof:lastmodified":1464294531,
+    "wof:name":"Bellmont Baby Care & Preschool",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -97.031912,
+    47.901395,
+    -97.031912,
+    47.901395
+],
+  "geometry": {"coordinates":[-97.03191200000001,47.901395],"type":"Point"}
+}

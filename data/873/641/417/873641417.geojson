@@ -1,0 +1,66 @@
+{
+  "id": 873641417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.332227,48.247385,-101.332227,48.247385",
+    "geom:latitude":48.247385,
+    "geom:longitude":-101.332227,
+    "iso:country":"US",
+    "sg:address":"943 26th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 0651",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WebjyPKR46qjzpIxVrrXG_48.247385_-101.332227@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295491,
+    "wof:geomhash":"81ee566db8b753c2c2fa558611f2b203",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873641417
+        }
+    ],
+    "wof:id":873641417,
+    "wof:lastmodified":1464295491,
+    "wof:name":"International Reading Assn",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.332227,
+    48.247385,
+    -101.332227,
+    48.247385
+],
+  "geometry": {"coordinates":[-101.332227,48.247385],"type":"Point"}
+}

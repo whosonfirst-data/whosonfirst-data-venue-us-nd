@@ -1,0 +1,69 @@
+{
+  "id": 873790539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.387334,47.831686,-97.387334,47.831686",
+    "geom:latitude":47.831686,
+    "geom:longitude":-97.387334,
+    "iso:country":"US",
+    "sg:address":"2620 11th Ave NE",
+    "sg:city":"Emerado",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 594 8505",
+    "sg:postcode":"58228",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "grain",
+        "cash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CVoX7SjoFYWf8jNAqhJGo_47.831686_-97.387334@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297647,
+    "wof:geomhash":"56d2c6d61f126e8789b27e6ee2ecf718",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873790539
+        }
+    ],
+    "wof:id":873790539,
+    "wof:lastmodified":1464297647,
+    "wof:name":"Greg Aarhus",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "grain",
+        "cash"
+    ]
+},
+  "bbox": [
+    -97.387334,
+    47.831686,
+    -97.387334,
+    47.831686
+],
+  "geometry": {"coordinates":[-97.387334,47.831686],"type":"Point"}
+}

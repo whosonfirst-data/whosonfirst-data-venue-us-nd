@@ -1,0 +1,74 @@
+{
+  "id": 873608295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.759356,46.788244,-100.759356,46.788244",
+    "geom:latitude":46.788244,
+    "geom:longitude":-100.759356,
+    "iso:country":"US",
+    "sg:address":"2020 Frontier Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 2030",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "instrument",
+        "surveying"
+    ],
+    "sg:website":"www.frontierprecision.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UKQozi9gNSeDsU4xsTv5y_46.788244_-100.759356@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295110,
+    "wof:geomhash":"c9ba4c8ffe6a3f982791b81723c1465f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873608295
+        }
+    ],
+    "wof:id":873608295,
+    "wof:lastmodified":1464295110,
+    "wof:name":"Frontier Precision Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "surveying"
+    ]
+},
+  "bbox": [
+    -100.759356,
+    46.788244,
+    -100.759356,
+    46.788244
+],
+  "geometry": {"coordinates":[-100.759356,46.788244],"type":"Point"}
+}

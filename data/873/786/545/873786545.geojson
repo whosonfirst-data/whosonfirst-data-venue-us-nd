@@ -1,0 +1,75 @@
+{
+  "id": 873786545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.013815,46.645389,-97.013815,46.645389",
+    "geom:latitude":46.645389,
+    "geom:longitude":-97.013815,
+    "iso:country":"US",
+    "sg:address":"161 Walnut St",
+    "sg:city":"Kindred",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 428 3765",
+    "sg:postcode":"58051",
+    "sg:province":"ND",
+    "sg:tags":[
+        "place",
+        "worship",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2C596EDUZAOe97n2tUbhbq_46.645470_-97.013676@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464297582,
+    "wof:geomhash":"985de2950050cac1918f5025b0f108fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873786545
+        }
+    ],
+    "wof:id":873786545,
+    "wof:lastmodified":1464297582,
+    "wof:name":"Norman Parish",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "place",
+        "worship",
+        "church"
+    ]
+},
+  "bbox": [
+    -97.013815,
+    46.645389,
+    -97.013815,
+    46.645389
+],
+  "geometry": {"coordinates":[-97.01381499999999,46.645389],"type":"Point"}
+}

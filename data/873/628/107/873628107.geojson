@@ -1,0 +1,70 @@
+{
+  "id": 873628107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.79892,46.837087,-96.79892,46.837087",
+    "geom:latitude":46.837087,
+    "geom:longitude":-96.79892,
+    "iso:country":"US",
+    "sg:address":"2701 S University Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 7531",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534475,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64jDSMvngtFeQB0ZfKFNkK_46.837087_-96.798920@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295341,
+    "wof:geomhash":"571c119f8de20599adf4c37a7511e6e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534475,
+            "region_id":85688525,
+            "venue_id":873628107
+        }
+    ],
+    "wof:id":873628107,
+    "wof:lastmodified":1464295341,
+    "wof:name":"Stop N Go",
+    "wof:parent_id":420534475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.79892,
+    46.837087,
+    -96.79892,
+    46.837087
+],
+  "geometry": {"coordinates":[-96.79892,46.837087],"type":"Point"}
+}

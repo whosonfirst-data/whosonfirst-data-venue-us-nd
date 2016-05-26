@@ -1,0 +1,66 @@
+{
+  "id": 873757317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.905387,46.731791,-96.905387,46.731791",
+    "geom:latitude":46.731791,
+    "geom:longitude":-96.905387,
+    "iso:country":"US",
+    "sg:address":"7005 112th Ave S",
+    "sg:city":"Horace",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 277 8859",
+    "sg:postcode":"58047",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nieLeno02wa741Cfa3SMo_46.731791_-96.905387@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297173,
+    "wof:geomhash":"a1dec3c1cfc3951024bb7df9651425a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873757317
+        }
+    ],
+    "wof:id":873757317,
+    "wof:lastmodified":1464297173,
+    "wof:name":"M7 Monitoring Systems LLC",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.905387,
+    46.731791,
+    -96.905387,
+    46.731791
+],
+  "geometry": {"coordinates":[-96.905387,46.731791],"type":"Point"}
+}

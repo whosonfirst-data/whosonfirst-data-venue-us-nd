@@ -1,0 +1,71 @@
+{
+  "id": 873703779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.306888,48.236936,-101.306888,48.236936",
+    "geom:latitude":48.236936,
+    "geom:longitude":-101.306888,
+    "iso:country":"US",
+    "sg:address":"916 1st Ave NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 6711",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "opportunity"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3joMFq3g8vfRRDQCPW0lPt_48.236936_-101.306888@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296443,
+    "wof:geomhash":"ab4c43759266611673a980c47aad3de9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873703779
+        }
+    ],
+    "wof:id":873703779,
+    "wof:lastmodified":1464296443,
+    "wof:name":"Familysource",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "opportunity"
+    ]
+},
+  "bbox": [
+    -101.306888,
+    48.236936,
+    -101.306888,
+    48.236936
+],
+  "geometry": {"coordinates":[-101.306888,48.236936],"type":"Point"}
+}

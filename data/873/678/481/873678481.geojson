@@ -1,0 +1,71 @@
+{
+  "id": 873678481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.068015,47.933151,-97.068015,47.933151",
+    "geom:latitude":47.933151,
+    "geom:longitude":-97.068015,
+    "iso:country":"US",
+    "sg:address":"2904 Gateway Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 2503",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "warehouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nMDYdSvcuDCesZEE59gAO_47.933151_-97.068015@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295953,
+    "wof:geomhash":"159f17ab68cd8a4ed5b5800d9c9f3526",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873678481
+        }
+    ],
+    "wof:id":873678481,
+    "wof:lastmodified":1464295953,
+    "wof:name":"Heeco Warehouse",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse"
+    ]
+},
+  "bbox": [
+    -97.068015,
+    47.933151,
+    -97.068015,
+    47.933151
+],
+  "geometry": {"coordinates":[-97.068015,47.933151],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873742415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.837885,46.843608,-96.837885,46.843608",
+    "geom:latitude":46.843608,
+    "geom:longitude":-96.837885,
+    "iso:country":"US",
+    "sg:address":"3519 Woodbury Park Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 306 1967",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534473,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lRQyXZtEYBHCXnQvKZTeU_46.843608_-96.837885@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296965,
+    "wof:geomhash":"880b612342a855dda9edef1512aeeffb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534473,
+            "region_id":85688525,
+            "venue_id":873742415
+        }
+    ],
+    "wof:id":873742415,
+    "wof:lastmodified":1464296965,
+    "wof:name":"Country Suites By Carlson",
+    "wof:parent_id":420534473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -96.837885,
+    46.843608,
+    -96.837885,
+    46.843608
+],
+  "geometry": {"coordinates":[-96.837885,46.843608],"type":"Point"}
+}

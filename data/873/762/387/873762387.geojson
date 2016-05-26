@@ -1,0 +1,77 @@
+{
+  "id": 873762387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.654805,46.770841,-100.654805,46.770841",
+    "geom:latitude":46.770841,
+    "geom:longitude":-100.654805,
+    "iso:country":"US",
+    "sg:address":"8821 Bar-D Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 8205",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "resurfacing",
+        "laying",
+        "refinishing",
+        "floor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kjyRGkX7DdB02HOq8GWEy_46.770841_-100.654805@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297246,
+    "wof:geomhash":"c476b5eb808e0915f3871d89f752e896",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873762387
+        }
+    ],
+    "wof:id":873762387,
+    "wof:lastmodified":1464297246,
+    "wof:name":"Unique Services",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resurfacing",
+        "laying",
+        "refinishing",
+        "floor"
+    ]
+},
+  "bbox": [
+    -100.654805,
+    46.770841,
+    -100.654805,
+    46.770841
+],
+  "geometry": {"coordinates":[-100.654805,46.770841],"type":"Point"}
+}

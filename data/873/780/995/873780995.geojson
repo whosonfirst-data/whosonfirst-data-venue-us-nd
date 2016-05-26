@@ -1,0 +1,77 @@
+{
+  "id": 873780995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.296073,48.210274,-101.296073,48.210274",
+    "geom:latitude":48.210274,
+    "geom:longitude":-101.296073,
+    "iso:country":"US",
+    "sg:address":"2100 S Broadway St",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 8432",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jcNWd6x1G1vJ8avfLw7vc_48.210274_-101.296073@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297504,
+    "wof:geomhash":"9ebf9335565bef1668133b9e43878520",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873780995
+        }
+    ],
+    "wof:id":873780995,
+    "wof:lastmodified":1464297504,
+    "wof:name":"Interior Design Ctr",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ]
+},
+  "bbox": [
+    -101.296073,
+    48.210274,
+    -101.296073,
+    48.210274
+],
+  "geometry": {"coordinates":[-101.29607300000001,48.210274],"type":"Point"}
+}

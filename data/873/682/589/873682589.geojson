@@ -1,0 +1,80 @@
+{
+  "id": 873682589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.297684,48.256516,-101.297684,48.256516",
+    "geom:latitude":48.256516,
+    "geom:longitude":-101.297684,
+    "iso:country":"US",
+    "sg:address":"2041 3rd St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 0177",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "federal",
+        "affairs",
+        "govt",
+        "admin"
+    ],
+    "sg:website":"www.va.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102531137,
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IwApDK7Vkju7DKVS853oT_48.256516_-101.297684@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296069,
+    "wof:geomhash":"7a36e3d2989fbaef47890eba94354876",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531137,
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873682589
+        }
+    ],
+    "wof:id":873682589,
+    "wof:lastmodified":1464296069,
+    "wof:name":"US Veterans Affairs Dept",
+    "wof:parent_id":102531137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "affairs",
+        "govt",
+        "admin"
+    ]
+},
+  "bbox": [
+    -101.297684,
+    48.256516,
+    -101.297684,
+    48.256516
+],
+  "geometry": {"coordinates":[-101.297684,48.256516],"type":"Point"}
+}

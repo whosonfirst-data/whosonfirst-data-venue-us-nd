@@ -1,0 +1,73 @@
+{
+  "id": 873704995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.282487,48.202265,-101.282487,48.202265",
+    "geom:latitude":48.202265,
+    "geom:longitude":-101.282487,
+    "iso:country":"US",
+    "sg:address":"800 31st Ave SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 833 6063",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4o7HccadJNBdDkfzd94PM1_48.202265_-101.282487@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296456,
+    "wof:geomhash":"659ab633335fd3a6b2c9298a7a4a6f24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873704995
+        }
+    ],
+    "wof:id":873704995,
+    "wof:lastmodified":1464296456,
+    "wof:name":"Jesperson Excavating Inc",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.282487,
+    48.202265,
+    -101.282487,
+    48.202265
+],
+  "geometry": {"coordinates":[-101.282487,48.202265],"type":"Point"}
+}

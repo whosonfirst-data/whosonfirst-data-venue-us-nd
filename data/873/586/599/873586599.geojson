@@ -1,0 +1,73 @@
+{
+  "id": 873586599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.324468,48.246743,-101.324468,48.246743",
+    "geom:latitude":48.246743,
+    "geom:longitude":-101.324468,
+    "iso:country":"US",
+    "sg:address":"812 21st St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 7365",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "company",
+        "holding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TDqtTlabOtmdyUXuDaE4f_48.246743_-101.324468@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294791,
+    "wof:geomhash":"3268b1c0aa830ba33e960d5ee284c934",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873586599
+        }
+    ],
+    "wof:id":873586599,
+    "wof:lastmodified":1464294791,
+    "wof:name":"Clute Family LLP",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "holding"
+    ]
+},
+  "bbox": [
+    -101.324468,
+    48.246743,
+    -101.324468,
+    48.246743
+],
+  "geometry": {"coordinates":[-101.324468,48.246743],"type":"Point"}
+}

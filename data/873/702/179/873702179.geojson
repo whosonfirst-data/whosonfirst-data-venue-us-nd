@@ -1,0 +1,75 @@
+{
+  "id": 873702179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.812709,46.83212,-96.812709,46.83212",
+    "geom:latitude":46.83212,
+    "geom:longitude":-96.812709,
+    "iso:country":"US",
+    "sg:address":"3224 20th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 365 1010",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534487,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sruWWm1jjfzYvMQVBlWZC_46.832120_-96.812709@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296427,
+    "wof:geomhash":"cc528745aab9654bbefbd835ae836a54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534487,
+            "region_id":85688525,
+            "venue_id":873702179
+        }
+    ],
+    "wof:id":873702179,
+    "wof:lastmodified":1464296427,
+    "wof:name":"Used-A-Bit Sales & Pawn",
+    "wof:parent_id":420534487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -96.812709,
+    46.83212,
+    -96.812709,
+    46.83212
+],
+  "geometry": {"coordinates":[-96.812709,46.83212],"type":"Point"}
+}

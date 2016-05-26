@@ -1,0 +1,71 @@
+{
+  "id": 873602009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.278551,48.226022,-101.278551,48.226022",
+    "geom:latitude":48.226022,
+    "geom:longitude":-101.278551,
+    "iso:country":"US",
+    "sg:address":"901 11th Ave SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 8391",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BwmJVpG6dtDwiCbYfGWL8_48.226022_-101.278551@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295008,
+    "wof:geomhash":"0f599869e7a7e4fa40a6403d5e821113",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873602009
+        }
+    ],
+    "wof:id":873602009,
+    "wof:lastmodified":1464295008,
+    "wof:name":"Paul Oster Consulting",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -101.278551,
+    48.226022,
+    -101.278551,
+    48.226022
+],
+  "geometry": {"coordinates":[-101.27855099999999,48.226022],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873641291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.108015,47.672513,-97.108015,47.672513",
+    "geom:latitude":47.672513,
+    "geom:longitude":-97.108015,
+    "iso:country":"US",
+    "sg:address":"411 Hubbard St",
+    "sg:city":"Reynolds",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 847 2122",
+    "sg:postcode":"58275",
+    "sg:province":"ND",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31vHXgGz5LG4XrHSh57ZIo_47.672513_-97.108015@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295490,
+    "wof:geomhash":"eb42c5f37e7a2ce5f3c03d36858770d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873641291
+        }
+    ],
+    "wof:id":873641291,
+    "wof:lastmodified":1464295490,
+    "wof:name":"Reynolds Fire Dept",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -97.108015,
+    47.672513,
+    -97.108015,
+    47.672513
+],
+  "geometry": {"coordinates":[-97.10801499999999,47.672513],"type":"Point"}
+}

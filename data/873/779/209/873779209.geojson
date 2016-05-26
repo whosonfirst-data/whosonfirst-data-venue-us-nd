@@ -1,0 +1,73 @@
+{
+  "id": 873779209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.791997,46.753722,-100.791997,46.753722",
+    "geom:latitude":46.753722,
+    "geom:longitude":-100.791997,
+    "iso:country":"US",
+    "sg:address":"4730 Earhart Ln",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 4642",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0axKVfjUBW2bYNTsRfDwhC_46.753722_-100.791997@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297479,
+    "wof:geomhash":"17c051843a19528fda0a4e1b7fc0419d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873779209
+        }
+    ],
+    "wof:id":873779209,
+    "wof:lastmodified":1464297479,
+    "wof:name":"Stumpf Electric",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.791997,
+    46.753722,
+    -100.791997,
+    46.753722
+],
+  "geometry": {"coordinates":[-100.79199699999999,46.753722],"type":"Point"}
+}

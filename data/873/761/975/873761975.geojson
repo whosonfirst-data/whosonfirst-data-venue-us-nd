@@ -1,0 +1,73 @@
+{
+  "id": 873761975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.313911,48.21096,-101.313911,48.21096",
+    "geom:latitude":48.21096,
+    "geom:longitude":-101.313911,
+    "iso:country":"US",
+    "sg:address":"1500 20th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 4416",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "dealer",
+        "rug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ajS8rNUCmZD10QOwMbDG9_48.210960_-101.313911@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297237,
+    "wof:geomhash":"3b34c941c045f789d49cced4adea5501",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873761975
+        }
+    ],
+    "wof:id":873761975,
+    "wof:lastmodified":1464297237,
+    "wof:name":"Carpet Garage",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "rug"
+    ]
+},
+  "bbox": [
+    -101.313911,
+    48.21096,
+    -101.313911,
+    48.21096
+],
+  "geometry": {"coordinates":[-101.313911,48.21096],"type":"Point"}
+}

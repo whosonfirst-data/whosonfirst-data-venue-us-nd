@@ -1,0 +1,66 @@
+{
+  "id": 873656575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.043545,47.908978,-97.043545,47.908978",
+    "geom:latitude":47.908978,
+    "geom:longitude":-97.043545,
+    "iso:country":"US",
+    "sg:address":"1122 S 12th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 5918",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5g4qkPCw5OEHN6TI3RYrCA_47.908978_-97.043545@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295662,
+    "wof:geomhash":"14e5204eea4759e7e90e8bbdf65829e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873656575
+        }
+    ],
+    "wof:id":873656575,
+    "wof:lastmodified":1464295662,
+    "wof:name":"Landeco 2nd Resubdivision Assn",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.043545,
+    47.908978,
+    -97.043545,
+    47.908978
+],
+  "geometry": {"coordinates":[-97.04354499999999,47.908978],"type":"Point"}
+}

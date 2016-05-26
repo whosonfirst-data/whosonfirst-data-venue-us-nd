@@ -1,0 +1,77 @@
+{
+  "id": 873581099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.663604,47.221658,-97.663604,47.221658",
+    "geom:latitude":47.221658,
+    "geom:longitude":-97.663604,
+    "iso:country":"US",
+    "sg:address":"1320 134th Ave SE",
+    "sg:city":"Page",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 668 2993",
+    "sg:postcode":"58064",
+    "sg:province":"ND",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PlmWQBB06DaOeCHVVDBxs_47.221658_-97.663604@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294734,
+    "wof:geomhash":"444864cd4a09230dc8c96a17edfc1c4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873581099
+        }
+    ],
+    "wof:id":873581099,
+    "wof:lastmodified":1464294734,
+    "wof:name":"B&M Enterprises",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -97.663604,
+    47.221658,
+    -97.663604,
+    47.221658
+],
+  "geometry": {"coordinates":[-97.66360400000001,47.221658],"type":"Point"}
+}

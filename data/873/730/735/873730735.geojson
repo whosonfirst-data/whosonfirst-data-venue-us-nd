@@ -1,0 +1,70 @@
+{
+  "id": 873730735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.831331,46.839446,-96.831331,46.839446",
+    "geom:latitude":46.839446,
+    "geom:longitude":-96.831331,
+    "iso:country":"US",
+    "sg:address":"2839 33rd St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 280 9900",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877355,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MXrMPASIKxZrOqN5dAaed_46.839446_-96.831331@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296788,
+    "wof:geomhash":"6b6683ac920875ddaf1804bbf31c7e9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877355,
+            "region_id":85688525,
+            "venue_id":873730735
+        }
+    ],
+    "wof:id":873730735,
+    "wof:lastmodified":1464296788,
+    "wof:name":"ABC Health Products",
+    "wof:parent_id":85877355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.831331,
+    46.839446,
+    -96.831331,
+    46.839446
+],
+  "geometry": {"coordinates":[-96.83133100000001,46.839446],"type":"Point"}
+}

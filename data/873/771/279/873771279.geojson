@@ -1,0 +1,71 @@
+{
+  "id": 873771279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.666375,46.910297,-100.666375,46.910297",
+    "geom:latitude":46.910297,
+    "geom:longitude":-100.666375,
+    "iso:country":"US",
+    "sg:address":"8501 97th Ave NE",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 673 3228",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "camp"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PDKhBl6P9k1eRjglSA1em_46.910297_-100.666375@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297381,
+    "wof:geomhash":"5148dcac692bcb5cccbe492f8f6c7962",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873771279
+        }
+    ],
+    "wof:id":873771279,
+    "wof:lastmodified":1464297381,
+    "wof:name":"Afram LLC",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -100.666375,
+    46.910297,
+    -100.666375,
+    46.910297
+],
+  "geometry": {"coordinates":[-100.666375,46.910297],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873715197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.869188,46.857099,-96.869188,46.857099",
+    "geom:latitude":46.857099,
+    "geom:longitude":-96.869188,
+    "iso:country":"US",
+    "sg:address":"4902 16th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 277 9481",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68ZlbKPRJdT7oht6lvNvWg_46.857099_-96.869188@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296584,
+    "wof:geomhash":"ab34abaef507366363ed51e9ff5b336f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873715197
+        }
+    ],
+    "wof:id":873715197,
+    "wof:lastmodified":1464296584,
+    "wof:name":"Skaff Apts",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.869188,
+    46.857099,
+    -96.869188,
+    46.857099
+],
+  "geometry": {"coordinates":[-96.86918799999999,46.857099],"type":"Point"}
+}

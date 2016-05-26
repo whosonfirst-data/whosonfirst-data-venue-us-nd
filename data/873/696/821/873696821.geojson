@@ -1,0 +1,71 @@
+{
+  "id": 873696821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.06638,47.910109,-97.06638,47.910109",
+    "geom:latitude":47.910109,
+    "geom:longitude":-97.06638,
+    "iso:country":"US",
+    "sg:address":"1191 S Columbia Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 780 2000",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eNY2cr3r5g77VCt302lCi_47.910109_-97.066380@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296373,
+    "wof:geomhash":"920c6730904adb1491a725b4a2cac198",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873696821
+        }
+    ],
+    "wof:id":873696821,
+    "wof:lastmodified":1464296373,
+    "wof:name":"Chelliah Noah N MD",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -97.06638,
+    47.910109,
+    -97.06638,
+    47.910109
+],
+  "geometry": {"coordinates":[-97.06638,47.910109],"type":"Point"}
+}

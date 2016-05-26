@@ -1,0 +1,80 @@
+{
+  "id": 873805135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.876992,46.805533,-96.876992,46.805533",
+    "geom:latitude":46.805533,
+    "geom:longitude":-96.876992,
+    "iso:country":"US",
+    "sg:address":"5425 51st Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 237 5095",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "system",
+        "specialty",
+        "heating",
+        "contractor",
+        "air conditioning"
+    ],
+    "sg:website":"http://www.balancingprofessionals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JgclUPeUItZezrUPiZWjv_46.805533_-96.876992@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297836,
+    "wof:geomhash":"e342fdd8b97cae1803bc0d30bdf97a2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873805135
+        }
+    ],
+    "wof:id":873805135,
+    "wof:lastmodified":1464297836,
+    "wof:name":"Balancing Professionals Inc",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system",
+        "specialty",
+        "heating",
+        "contractor",
+        "air conditioning"
+    ]
+},
+  "bbox": [
+    -96.876992,
+    46.805533,
+    -96.876992,
+    46.805533
+],
+  "geometry": {"coordinates":[-96.876992,46.805533],"type":"Point"}
+}

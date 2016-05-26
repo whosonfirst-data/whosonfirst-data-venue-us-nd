@@ -1,0 +1,73 @@
+{
+  "id": 873626325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.770947,46.803133,-100.770947,46.803133",
+    "geom:latitude":46.803133,
+    "geom:longitude":-100.770947,
+    "iso:country":"US",
+    "sg:address":"217 S 14th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 3003",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "fountain",
+        "display"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FggiRDePFtB2VkhtWt0Z1_46.803133_-100.770947@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295323,
+    "wof:geomhash":"f04cbcdf7ba3aa6549dc25670fe36935",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873626325
+        }
+    ],
+    "wof:id":873626325,
+    "wof:lastmodified":1464295323,
+    "wof:name":"Enchanted Gardens",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fountain",
+        "display"
+    ]
+},
+  "bbox": [
+    -100.770947,
+    46.803133,
+    -100.770947,
+    46.803133
+],
+  "geometry": {"coordinates":[-100.77094700000001,46.803133],"type":"Point"}
+}

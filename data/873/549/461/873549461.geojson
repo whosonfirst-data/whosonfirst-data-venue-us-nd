@@ -1,0 +1,79 @@
+{
+  "id": 873549461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.78745,46.911342,-96.78745,46.911342",
+    "geom:latitude":46.911342,
+    "geom:longitude":-96.78745,
+    "iso:country":"US",
+    "sg:address":"2718 Broadway",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Paper Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 0400",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "insulating",
+        "blanket",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877353,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JLXhTALZ9NsGH4nIjilIr_46.911342_-96.787450@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294371,
+    "wof:geomhash":"9847260961ba00f5c55604c4a4475ec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877353,
+            "region_id":85688525,
+            "venue_id":873549461
+        }
+    ],
+    "wof:id":873549461,
+    "wof:lastmodified":1464294371,
+    "wof:name":"Thermal Energy Products Inc",
+    "wof:parent_id":85877353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulating",
+        "blanket",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -96.78745,
+    46.911342,
+    -96.78745,
+    46.911342
+],
+  "geometry": {"coordinates":[-96.78745000000001,46.911342],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873783379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.308754,47.744899,-97.308754,47.744899",
+    "geom:latitude":47.744899,
+    "geom:longitude":-97.308754,
+    "iso:country":"US",
+    "sg:address":"2224 5th Ave NE",
+    "sg:city":"Thompson",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 543 3631",
+    "sg:postcode":"58278",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "grain",
+        "wheat",
+        "cash",
+        "soybean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Kdzi1m24DcOqloVAaqo08_47.744899_-97.308754@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297535,
+    "wof:geomhash":"58e2cdaf165254aae5afe6dfd53beacc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873783379
+        }
+    ],
+    "wof:id":873783379,
+    "wof:lastmodified":1464297535,
+    "wof:name":"Eugene Bengs",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "grain",
+        "wheat",
+        "cash",
+        "soybean"
+    ]
+},
+  "bbox": [
+    -97.308754,
+    47.744899,
+    -97.308754,
+    47.744899
+],
+  "geometry": {"coordinates":[-97.30875399999999,47.744899],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873698291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.840792,46.825717,-96.840792,46.825717",
+    "geom:latitude":46.825717,
+    "geom:longitude":-96.840792,
+    "iso:country":"US",
+    "sg:address":"3631 38th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Motor Vehicles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 3790",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877355,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dW7rXB1bCAleqVf0NiSKZ_46.825717_-96.840792@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296387,
+    "wof:geomhash":"1e97ceafb612a0b22cb8e93962a28c24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877355,
+            "region_id":85688525,
+            "venue_id":873698291
+        }
+    ],
+    "wof:id":873698291,
+    "wof:lastmodified":1464296387,
+    "wof:name":"Johnsen Trailer Sales Inc",
+    "wof:parent_id":85877355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trailer"
+    ]
+},
+  "bbox": [
+    -96.840792,
+    46.825717,
+    -96.840792,
+    46.825717
+],
+  "geometry": {"coordinates":[-96.84079199999999,46.825717],"type":"Point"}
+}

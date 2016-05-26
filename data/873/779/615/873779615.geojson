@@ -1,0 +1,76 @@
+{
+  "id": 873779615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.308294,48.210815,-101.308294,48.210815",
+    "geom:latitude":48.210815,
+    "geom:longitude":-101.308294,
+    "iso:country":"US",
+    "sg:address":"1020 20th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 1075",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "development",
+        "economic",
+        "agency"
+    ],
+    "sg:website":"www.madc-minot.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_796vqj7FO687vjbVEz7Uix_48.210815_-101.308294@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297484,
+    "wof:geomhash":"86bd35624d5d36ad5a8890043d1533d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873779615
+        }
+    ],
+    "wof:id":873779615,
+    "wof:lastmodified":1464297484,
+    "wof:name":"Minot Area Development Corp",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "economic",
+        "agency"
+    ]
+},
+  "bbox": [
+    -101.308294,
+    48.210815,
+    -101.308294,
+    48.210815
+],
+  "geometry": {"coordinates":[-101.308294,48.210815],"type":"Point"}
+}

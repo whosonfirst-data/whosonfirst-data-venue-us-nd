@@ -1,0 +1,75 @@
+{
+  "id": 873605807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.291928,48.212866,-101.291928,48.212866",
+    "geom:latitude":48.212866,
+    "geom:longitude":-101.291928,
+    "iso:country":"US",
+    "sg:address":"1 19th Ave SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 837 0502",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "hanging",
+        "painter",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FQChljkCOwTb3HKqnYplM_48.212866_-101.291928@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295055,
+    "wof:geomhash":"c0da740270f00e900c2d89c899600fb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873605807
+        }
+    ],
+    "wof:id":873605807,
+    "wof:lastmodified":1464295055,
+    "wof:name":"Jordon's Paint Patrol",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "painter",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.291928,
+    48.212866,
+    -101.291928,
+    48.212866
+],
+  "geometry": {"coordinates":[-101.291928,48.212866],"type":"Point"}
+}

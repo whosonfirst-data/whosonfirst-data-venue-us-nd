@@ -1,0 +1,75 @@
+{
+  "id": 873541191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.787697,46.783007,-100.787697,46.783007",
+    "geom:latitude":46.783007,
+    "geom:longitude":-100.787697,
+    "iso:country":"US",
+    "sg:address":"406 Laredo Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 250 0670",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "house",
+        "merchandise",
+        "mail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RdsM67E7nurhpvLWTfy34_46.783007_-100.787697@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294272,
+    "wof:geomhash":"6034fd934cd69a3d5118a22993e66a9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873541191
+        }
+    ],
+    "wof:id":873541191,
+    "wof:lastmodified":1464294272,
+    "wof:name":"Jack Little Baby Store",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "merchandise",
+        "mail"
+    ]
+},
+  "bbox": [
+    -100.787697,
+    46.783007,
+    -100.787697,
+    46.783007
+],
+  "geometry": {"coordinates":[-100.78769699999999,46.783007],"type":"Point"}
+}

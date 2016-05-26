@@ -1,0 +1,75 @@
+{
+  "id": 873545101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.736459,46.823655,-100.736459,46.823655",
+    "geom:latitude":46.823655,
+    "geom:longitude":-100.736459,
+    "iso:country":"US",
+    "sg:address":"3554 E Divide Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 5543",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cgxER9TRsUvCUhIWbF42r_46.823655_-100.736459@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294317,
+    "wof:geomhash":"dc7899af2ee972e8220f6a460c1b0df2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873545101
+        }
+    ],
+    "wof:id":873545101,
+    "wof:lastmodified":1464294317,
+    "wof:name":"Ron's Electric Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.736459,
+    46.823655,
+    -100.736459,
+    46.823655
+],
+  "geometry": {"coordinates":[-100.736459,46.823655],"type":"Point"}
+}

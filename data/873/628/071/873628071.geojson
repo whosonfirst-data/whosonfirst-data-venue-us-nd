@@ -1,0 +1,71 @@
+{
+  "id": 873628071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.027275,47.920794,-97.027275,47.920794",
+    "geom:latitude":47.920794,
+    "geom:longitude":-97.027275,
+    "iso:country":"US",
+    "sg:address":"319 S 5th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 7955",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xybhVySWw92I1br5UhRrR_47.920794_-97.027275@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295341,
+    "wof:geomhash":"79ace373530b74d7d0c52dfba820049d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873628071
+        }
+    ],
+    "wof:id":873628071,
+    "wof:lastmodified":1464295341,
+    "wof:name":"St Paul's Episcopal Church",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -97.027275,
+    47.920794,
+    -97.027275,
+    47.920794
+],
+  "geometry": {"coordinates":[-97.027275,47.920794],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873805069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.854878,46.822439,-96.854878,46.822439",
+    "geom:latitude":46.822439,
+    "geom:longitude":-96.854878,
+    "iso:country":"US",
+    "sg:address":"3730 Taylor St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 3245",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "consultant",
+        "coach"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877355,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zhGYATglU7gg6V5dtm3bo_46.822439_-96.854878@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297835,
+    "wof:geomhash":"3d320858b97b2f495646189e61e10448",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877355,
+            "region_id":85688525,
+            "venue_id":873805069
+        }
+    ],
+    "wof:id":873805069,
+    "wof:lastmodified":1464297835,
+    "wof:name":"Brainstorm Consulting",
+    "wof:parent_id":85877355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "coach"
+    ]
+},
+  "bbox": [
+    -96.854878,
+    46.822439,
+    -96.854878,
+    46.822439
+],
+  "geometry": {"coordinates":[-96.854878,46.822439],"type":"Point"}
+}

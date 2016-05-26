@@ -1,0 +1,72 @@
+{
+  "id": 873779655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.293279,48.236527,-101.293279,48.236527",
+    "geom:latitude":48.236527,
+    "geom:longitude":-101.293279,
+    "iso:country":"US",
+    "sg:address":"24 Central Ave W",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 0196",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "accountant"
+    ],
+    "sg:website":"www.bradymartz.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VlSoBGrs6lRGAKJhmix9y_48.236527_-101.293279@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297485,
+    "wof:geomhash":"17e6687740131caafa198a1256c65422",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873779655
+        }
+    ],
+    "wof:id":873779655,
+    "wof:lastmodified":1464297485,
+    "wof:name":"Brady Martz & Assoc PC",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -101.293279,
+    48.236527,
+    -101.293279,
+    48.236527
+],
+  "geometry": {"coordinates":[-101.293279,48.236527],"type":"Point"}
+}

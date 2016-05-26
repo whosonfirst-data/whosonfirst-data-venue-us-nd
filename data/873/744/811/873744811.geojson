@@ -1,0 +1,77 @@
+{
+  "id": 873744811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.049233,47.924203,-97.049233,47.924203",
+    "geom:latitude":47.924203,
+    "geom:longitude":-97.049233,
+    "iso:country":"US",
+    "sg:address":"1515 5th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 0804",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "contractor",
+        "co",
+        "painter",
+        "hanging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PBGh8imenTehsUqVETCfC_47.924203_-97.049233@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297007,
+    "wof:geomhash":"80a48e93757196f6413db4629c5bc6a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873744811
+        }
+    ],
+    "wof:id":873744811,
+    "wof:lastmodified":1464297007,
+    "wof:name":"Spectrum Painting & Decorating",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "co",
+        "painter",
+        "hanging"
+    ]
+},
+  "bbox": [
+    -97.049233,
+    47.924203,
+    -97.049233,
+    47.924203
+],
+  "geometry": {"coordinates":[-97.049233,47.924203],"type":"Point"}
+}

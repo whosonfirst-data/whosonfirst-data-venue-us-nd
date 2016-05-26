@@ -1,0 +1,71 @@
+{
+  "id": 873747629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.57712,48.196648,-101.57712,48.196648",
+    "geom:latitude":48.196648,
+    "geom:longitude":-101.57712,
+    "iso:country":"US",
+    "sg:address":"3715 184th St SW",
+    "sg:city":"Des Lacs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 725 4939",
+    "sg:postcode":"58733",
+    "sg:province":"ND",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BnlcjgBjWNPi2pPkGmUvq_48.196648_-101.577120@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297045,
+    "wof:geomhash":"f311735de8b4ec35af397e2b31f07c78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873747629
+        }
+    ],
+    "wof:id":873747629,
+    "wof:lastmodified":1464297045,
+    "wof:name":"Scheresky Beef & Grain",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -101.57712,
+    48.196648,
+    -101.57712,
+    48.196648
+],
+  "geometry": {"coordinates":[-101.57711999999999,48.196648],"type":"Point"}
+}

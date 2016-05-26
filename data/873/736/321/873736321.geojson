@@ -1,0 +1,77 @@
+{
+  "id": 873736321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.761169,46.788278,-100.761169,46.788278",
+    "geom:latitude":46.788278,
+    "geom:longitude":-100.761169,
+    "iso:country":"US",
+    "sg:address":"1926 Frontier Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 5985",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "consultant",
+        "consulting",
+        "designer",
+        "technology"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sPMVd22hL55lcHG20Opp2_46.788278_-100.761169@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296875,
+    "wof:geomhash":"a5c39e9510ac2b1956ee6f696b172fa2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873736321
+        }
+    ],
+    "wof:id":873736321,
+    "wof:lastmodified":1464296875,
+    "wof:name":"Digital Insight Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "consulting",
+        "designer",
+        "technology"
+    ]
+},
+  "bbox": [
+    -100.761169,
+    46.788278,
+    -100.761169,
+    46.788278
+],
+  "geometry": {"coordinates":[-100.761169,46.788278],"type":"Point"}
+}

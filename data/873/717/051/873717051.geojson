@@ -1,0 +1,77 @@
+{
+  "id": 873717051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.082836,47.90056,-97.082836,47.90056",
+    "geom:latitude":47.90056,
+    "geom:longitude":-97.082836,
+    "iso:country":"US",
+    "sg:address":"1903 S 38th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 0517",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "chemical",
+        "spa",
+        "pool",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ficozFdsWoS5F4ykrtZvn_47.900560_-97.082836@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296606,
+    "wof:geomhash":"c3a06da736445208065d3b38ad9bfc71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873717051
+        }
+    ],
+    "wof:id":873717051,
+    "wof:lastmodified":1464296606,
+    "wof:name":"Sun Pool-N-Patio Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical",
+        "spa",
+        "pool",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -97.082836,
+    47.90056,
+    -97.082836,
+    47.90056
+],
+  "geometry": {"coordinates":[-97.082836,47.90056],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873630911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.043358,47.89783,-97.043358,47.89783",
+    "geom:latitude":47.89783,
+    "geom:longitude":-97.043358,
+    "iso:country":"US",
+    "sg:address":"1022 23rd Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 787 5480",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_225t7XQH7Qw8iYygWtAyJh_47.897830_-97.043358@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295374,
+    "wof:geomhash":"d9025e51c2305f4a07a1fd9a9875a821",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873630911
+        }
+    ],
+    "wof:id":873630911,
+    "wof:lastmodified":1464295374,
+    "wof:name":"Accurate Security",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -97.043358,
+    47.89783,
+    -97.043358,
+    47.89783
+],
+  "geometry": {"coordinates":[-97.043358,47.89783],"type":"Point"}
+}

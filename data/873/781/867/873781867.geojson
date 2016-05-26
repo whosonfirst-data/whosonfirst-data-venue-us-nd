@@ -1,0 +1,75 @@
+{
+  "id": 873781867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.509824,46.837494,-100.509824,46.837494",
+    "geom:latitude":46.837494,
+    "geom:longitude":-100.509824,
+    "iso:country":"US",
+    "sg:address":"17750 30th Ave NE",
+    "sg:city":"Menoken",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 673 3161",
+    "sg:postcode":"58558",
+    "sg:province":"ND",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gKUdJcikhAFkLiwEFmIHD_46.837494_-100.509824@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297516,
+    "wof:geomhash":"143c61856d6082713d929247946071fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873781867
+        }
+    ],
+    "wof:id":873781867,
+    "wof:lastmodified":1464297516,
+    "wof:name":"Maher Ranch",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -100.509824,
+    46.837494,
+    -100.509824,
+    46.837494
+],
+  "geometry": {"coordinates":[-100.50982399999999,46.837494],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873715089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.627616,46.693521,-100.627616,46.693521",
+    "geom:latitude":46.693521,
+    "geom:longitude":-100.627616,
+    "iso:country":"US",
+    "sg:address":"10500 State Hwy 1804",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 3385",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zHZKP9NrJ8P9VoesPiRrr_46.693521_-100.627616@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296583,
+    "wof:geomhash":"1f6e7af9d818dd51118faa49945243ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873715089
+        }
+    ],
+    "wof:id":873715089,
+    "wof:lastmodified":1464296583,
+    "wof:name":"Manning Elementary School",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.627616,
+    46.693521,
+    -100.627616,
+    46.693521
+],
+  "geometry": {"coordinates":[-100.627616,46.693521],"type":"Point"}
+}

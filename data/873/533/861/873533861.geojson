@@ -1,0 +1,66 @@
+{
+  "id": 873533861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.76185,46.823667,-100.76185,46.823667",
+    "geom:latitude":46.823667,
+    "geom:longitude":-100.76185,
+    "iso:country":"US",
+    "sg:address":"1902 E Divide Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Political Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 0460",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dCKhyjs9l4yV9nbPWX9YE_46.823667_-100.761850@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294185,
+    "wof:geomhash":"6a3d3a419525188dae17748ace5f8be2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873533861
+        }
+    ],
+    "wof:id":873533861,
+    "wof:lastmodified":1464294185,
+    "wof:name":"Democratic-NPL Headquarters",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.76185,
+    46.823667,
+    -100.76185,
+    46.823667
+],
+  "geometry": {"coordinates":[-100.76185,46.823667],"type":"Point"}
+}

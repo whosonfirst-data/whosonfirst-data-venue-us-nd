@@ -1,0 +1,71 @@
+{
+  "id": 873763309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.772637,46.794633,-100.772637,46.794633",
+    "geom:latitude":46.794633,
+    "geom:longitude":-100.772637,
+    "iso:country":"US",
+    "sg:address":"1025 E Bismarck Expy",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 1944",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fKUyK1Fu1EHc2H1pQAMtq_46.794633_-100.772637@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297263,
+    "wof:geomhash":"711a8d8c9b909109c46726704b88f018",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873763309
+        }
+    ],
+    "wof:id":873763309,
+    "wof:lastmodified":1464297263,
+    "wof:name":"Bismarck Honda",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -100.772637,
+    46.794633,
+    -100.772637,
+    46.794633
+],
+  "geometry": {"coordinates":[-100.772637,46.794633],"type":"Point"}
+}

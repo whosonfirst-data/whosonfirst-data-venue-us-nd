@@ -1,0 +1,75 @@
+{
+  "id": 873756777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.282935,48.21825,-101.282935,48.21825",
+    "geom:latitude":48.21825,
+    "geom:longitude":-101.282935,
+    "iso:country":"US",
+    "sg:address":"601 16th Ave SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 857 4789",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "athletic",
+        "fields",
+        "stadium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tUmAWSch62R11fLy6c6h2_48.218250_-101.282935@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297167,
+    "wof:geomhash":"2afd342cfb120d33948dfb23f9381dbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873756777
+        }
+    ],
+    "wof:id":873756777,
+    "wof:lastmodified":1464297167,
+    "wof:name":"South Hill Complex East End",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "athletic",
+        "fields",
+        "stadium"
+    ]
+},
+  "bbox": [
+    -101.282935,
+    48.21825,
+    -101.282935,
+    48.21825
+],
+  "geometry": {"coordinates":[-101.28293499999999,48.21825],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873739005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.088187,47.929955,-97.088187,47.929955",
+    "geom:latitude":47.929955,
+    "geom:longitude":-97.088187,
+    "iso:country":"US",
+    "sg:address":"715 N 42nd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 3809",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "parole"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mCd05VAij7th9e6vkp5Re_47.929955_-97.088187@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296908,
+    "wof:geomhash":"92f3ce140f282bb375e5bc82aaeb7a4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873739005
+        }
+    ],
+    "wof:id":873739005,
+    "wof:lastmodified":1464296908,
+    "wof:name":"Grand Forks Satellite Office",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parole"
+    ]
+},
+  "bbox": [
+    -97.088187,
+    47.929955,
+    -97.088187,
+    47.929955
+],
+  "geometry": {"coordinates":[-97.088187,47.929955],"type":"Point"}
+}

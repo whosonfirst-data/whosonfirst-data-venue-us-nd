@@ -1,0 +1,74 @@
+{
+  "id": 873777095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.75717,46.797614,-100.75717,46.797614",
+    "geom:latitude":46.797614,
+    "geom:longitude":-100.75717,
+    "iso:country":"US",
+    "sg:address":"2355 Vermont Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 224 1699",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "mailing",
+        "shipping"
+    ],
+    "sg:website":"www.presortplus.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12uqzZa8PyrOU7Bh5uabu3_46.797614_-100.757170@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297452,
+    "wof:geomhash":"178c9ca9ba527ff91978f3ba2b0f6d06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873777095
+        }
+    ],
+    "wof:id":873777095,
+    "wof:lastmodified":1464297452,
+    "wof:name":"Presort Plus Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mailing",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -100.75717,
+    46.797614,
+    -100.75717,
+    46.797614
+],
+  "geometry": {"coordinates":[-100.75717,46.797614],"type":"Point"}
+}

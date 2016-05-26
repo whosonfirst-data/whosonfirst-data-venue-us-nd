@@ -1,0 +1,79 @@
+{
+  "id": 873655797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.819651,46.886799,-96.819651,46.886799",
+    "geom:latitude":46.886799,
+    "geom:longitude":-96.819651,
+    "iso:country":"US",
+    "sg:address":"909 25th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 0666",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877363,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FjFGKgK1HvhUaU7dcltWm_46.886799_-96.819651@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295654,
+    "wof:geomhash":"462446019381b66f545ce417c292f61b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877363,
+            "region_id":85688525,
+            "venue_id":873655797
+        }
+    ],
+    "wof:id":873655797,
+    "wof:lastmodified":1464295654,
+    "wof:name":"Autostock Distribution",
+    "wof:parent_id":85877363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "plate"
+    ]
+},
+  "bbox": [
+    -96.819651,
+    46.886799,
+    -96.819651,
+    46.886799
+],
+  "geometry": {"coordinates":[-96.81965099999999,46.886799],"type":"Point"}
+}

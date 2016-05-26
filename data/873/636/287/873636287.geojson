@@ -1,0 +1,75 @@
+{
+  "id": 873636287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.793871,46.806496,-100.793871,46.806496",
+    "geom:latitude":46.806496,
+    "geom:longitude":-100.793871,
+    "iso:country":"US",
+    "sg:address":"233 W Broadway Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 355 0569",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ejor4qlbBJHcYuGMWrFl1_46.806496_-100.793871@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295435,
+    "wof:geomhash":"be0e2c1a2ca2797d4fcea1ad31f58cc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873636287
+        }
+    ],
+    "wof:id":873636287,
+    "wof:lastmodified":1464295435,
+    "wof:name":"Moneystation Inc",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -100.793871,
+    46.806496,
+    -100.793871,
+    46.806496
+],
+  "geometry": {"coordinates":[-100.793871,46.806496],"type":"Point"}
+}

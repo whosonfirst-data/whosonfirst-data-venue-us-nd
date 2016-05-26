@@ -1,0 +1,88 @@
+{
+  "id": 873800567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.80463,46.885677,-96.80463,46.885677",
+    "geom:latitude":46.885677,
+    "geom:longitude":-96.80463,
+    "iso:country":"US",
+    "sg:address":"922 15th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 5911",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "engraving",
+        "plate",
+        "medal",
+        "plaque",
+        "trophies"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877363,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Q8MTFA2ahfhAJOB9QUWMi_46.885677_-96.804630@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297780,
+    "wof:geomhash":"edd60fe486577a35676a889cdd9bbc37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877363,
+            "region_id":85688525,
+            "venue_id":873800567
+        }
+    ],
+    "wof:id":873800567,
+    "wof:lastmodified":1464297780,
+    "wof:name":"Insignia Products",
+    "wof:parent_id":85877363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engraving",
+        "plate",
+        "medal",
+        "plaque",
+        "trophies"
+    ]
+},
+  "bbox": [
+    -96.80463,
+    46.885677,
+    -96.80463,
+    46.885677
+],
+  "geometry": {"coordinates":[-96.80463,46.885677],"type":"Point"}
+}

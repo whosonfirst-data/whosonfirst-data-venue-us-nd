@@ -1,0 +1,66 @@
+{
+  "id": 873761861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.334661,48.233561,-101.334661,48.233561",
+    "geom:latitude":48.233561,
+    "geom:longitude":-101.334661,
+    "iso:country":"US",
+    "sg:address":"2516 2nd Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 6405",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bnCPBOJTQGyikDEiIUV2i_48.233561_-101.334661@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297234,
+    "wof:geomhash":"ee5b31925e5022976cc0a3fb0ff4e2b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873761861
+        }
+    ],
+    "wof:id":873761861,
+    "wof:lastmodified":1464297234,
+    "wof:name":"Advanced Investment Consulting",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.334661,
+    48.233561,
+    -101.334661,
+    48.233561
+],
+  "geometry": {"coordinates":[-101.334661,48.233561],"type":"Point"}
+}

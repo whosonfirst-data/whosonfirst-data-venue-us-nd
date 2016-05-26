@@ -1,0 +1,73 @@
+{
+  "id": 873676811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.602736,46.881187,-100.602736,46.881187",
+    "geom:latitude":46.881187,
+    "geom:longitude":-100.602736,
+    "iso:country":"US",
+    "sg:address":"12003 71st Ave NE",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 3628",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automobile",
+        "rebuilt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vyiirPLMYuOxqatlHOfQf_46.881187_-100.602736@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295908,
+    "wof:geomhash":"0b47ca683b797166e294f31096c3e386",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873676811
+        }
+    ],
+    "wof:id":873676811,
+    "wof:lastmodified":1464295908,
+    "wof:name":"Frontier Auto Wrecking & Rpr",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "rebuilt"
+    ]
+},
+  "bbox": [
+    -100.602736,
+    46.881187,
+    -100.602736,
+    46.881187
+],
+  "geometry": {"coordinates":[-100.60273599999999,46.881187],"type":"Point"}
+}

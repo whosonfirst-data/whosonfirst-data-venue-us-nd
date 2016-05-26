@@ -1,0 +1,86 @@
+{
+  "id": 873798103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.813884,46.809308,-100.813884,46.809308",
+    "geom:latitude":46.809308,
+    "geom:longitude":-100.813884,
+    "iso:country":"US",
+    "sg:address":"413 Shirley St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/bismarck/147109-big-boy-restaurants/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 4125",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "dog",
+        "soup",
+        "hot",
+        "wrap",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ch16WOAcrcoXUM38dt3Jg_46.809308_-100.813884@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297752,
+    "wof:geomhash":"0e0c35381e76721b7f90153c6ca6d248",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873798103
+        }
+    ],
+    "wof:id":873798103,
+    "wof:lastmodified":1464297752,
+    "wof:name":"Big Boy Restaurants",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "dog",
+        "soup",
+        "hot",
+        "wrap",
+        "american"
+    ]
+},
+  "bbox": [
+    -100.813884,
+    46.809308,
+    -100.813884,
+    46.809308
+],
+  "geometry": {"coordinates":[-100.813884,46.809308],"type":"Point"}
+}

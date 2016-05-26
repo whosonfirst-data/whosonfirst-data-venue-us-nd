@@ -1,0 +1,71 @@
+{
+  "id": 873589971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.066721,47.893557,-97.066721,47.893557",
+    "geom:latitude":47.893557,
+    "geom:longitude":-97.066721,
+    "iso:country":"US",
+    "sg:address":"2718 S Columbia Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 335 2559",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0V2UWHXZXt90jjltT9Kypm_47.893557_-97.066721@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294831,
+    "wof:geomhash":"cd2c2dad6783bb0ad9f9b0368050471f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873589971
+        }
+    ],
+    "wof:id":873589971,
+    "wof:lastmodified":1464294831,
+    "wof:name":"Premier Financial Services",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -97.066721,
+    47.893557,
+    -97.066721,
+    47.893557
+],
+  "geometry": {"coordinates":[-97.066721,47.893557],"type":"Point"}
+}

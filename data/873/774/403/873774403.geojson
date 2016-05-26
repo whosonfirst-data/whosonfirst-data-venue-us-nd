@@ -1,0 +1,81 @@
+{
+  "id": 873774403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.285061,48.211098,-101.285061,48.211098",
+    "geom:latitude":48.211098,
+    "geom:longitude":-101.285061,
+    "iso:country":"US",
+    "sg:address":"2001 6th St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 1754",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "development",
+        "grant",
+        "loan",
+        "delivery",
+        "program",
+        "rural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1g9RAURXWbDzkZFkObTuEk_48.211098_-101.285061@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297418,
+    "wof:geomhash":"03cd6b2abbaf5faa7a7316196162a936",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873774403
+        }
+    ],
+    "wof:id":873774403,
+    "wof:lastmodified":1464297418,
+    "wof:name":"Rural Development",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "grant",
+        "loan",
+        "delivery",
+        "program",
+        "rural"
+    ]
+},
+  "bbox": [
+    -101.285061,
+    48.211098,
+    -101.285061,
+    48.211098
+],
+  "geometry": {"coordinates":[-101.285061,48.211098],"type":"Point"}
+}

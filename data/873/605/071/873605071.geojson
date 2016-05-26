@@ -1,0 +1,78 @@
+{
+  "id": 873605071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.077459,47.902229,-97.077459,47.902229",
+    "geom:latitude":47.902229,
+    "geom:longitude":-97.077459,
+    "iso:country":"US",
+    "sg:address":"1850 S 34th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 7176",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "housing",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4L7RwwBnMpBx3sY61RKzvW_47.902229_-97.077459@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295040,
+    "wof:geomhash":"d3d05e73ac8e54a705d6e3d8c5762059",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873605071
+        }
+    ],
+    "wof:id":873605071,
+    "wof:lastmodified":1464295040,
+    "wof:name":"Grandview I Apartments",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "housing",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -97.077459,
+    47.902229,
+    -97.077459,
+    47.902229
+],
+  "geometry": {"coordinates":[-97.077459,47.902229],"type":"Point"}
+}

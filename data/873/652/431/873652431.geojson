@@ -1,0 +1,75 @@
+{
+  "id": 873652431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.854644,46.869862,-96.854644,46.869862",
+    "geom:latitude":46.869862,
+    "geom:longitude":-96.854644,
+    "iso:country":"US",
+    "sg:address":"657 Santa Cruz Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 281 5250",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mtEhc4uuIla7BZFL8E8An_46.869862_-96.854644@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295618,
+    "wof:geomhash":"6c9d949926ede0ccc084688cbd7913b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873652431
+        }
+    ],
+    "wof:id":873652431,
+    "wof:lastmodified":1464295618,
+    "wof:name":"Tania Lehfeldt",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -96.854644,
+    46.869862,
+    -96.854644,
+    46.869862
+],
+  "geometry": {"coordinates":[-96.85464399999999,46.869862],"type":"Point"}
+}

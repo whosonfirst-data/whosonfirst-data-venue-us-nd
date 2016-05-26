@@ -1,0 +1,73 @@
+{
+  "id": 873741283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.319775,48.223548,-101.319775,48.223548",
+    "geom:latitude":48.223548,
+    "geom:longitude":-101.319775,
+    "iso:country":"US",
+    "sg:address":"1905 Burdick Expy W",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 7070",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "type",
+        "door"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GtG6tLQxcXrN4dIuMfMhh_48.223548_-101.319775@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296942,
+    "wof:geomhash":"c6bf723b2f0f67ab037d2d5e6c32a563",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873741283
+        }
+    ],
+    "wof:id":873741283,
+    "wof:lastmodified":1464296942,
+    "wof:name":"Overhead Door Corp",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "type",
+        "door"
+    ]
+},
+  "bbox": [
+    -101.319775,
+    48.223548,
+    -101.319775,
+    48.223548
+],
+  "geometry": {"coordinates":[-101.31977500000001,48.223548],"type":"Point"}
+}

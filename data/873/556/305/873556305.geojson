@@ -1,0 +1,66 @@
+{
+  "id": 873556305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.756583,46.794813,-100.756583,46.794813",
+    "geom:latitude":46.794813,
+    "geom:longitude":-100.756583,
+    "iso:country":"US",
+    "sg:address":"2220 E Bismarck Expy",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 221 6508",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6poKzgzOK4wX1QiXfxFwBl_46.794813_-100.756583@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294451,
+    "wof:geomhash":"be58a912a6d49029ec1887ecd4ac16da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873556305
+        }
+    ],
+    "wof:id":873556305,
+    "wof:lastmodified":1464294451,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.756583,
+    46.794813,
+    -100.756583,
+    46.794813
+],
+  "geometry": {"coordinates":[-100.75658300000001,46.794813],"type":"Point"}
+}

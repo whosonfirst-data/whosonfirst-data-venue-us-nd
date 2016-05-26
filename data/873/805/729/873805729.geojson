@@ -1,0 +1,71 @@
+{
+  "id": 873805729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.998455,47.686542,-96.998455,47.686542",
+    "geom:latitude":47.686542,
+    "geom:longitude":-96.998455,
+    "iso:country":"US",
+    "sg:address":"780 1st Ave NE",
+    "sg:city":"Reynolds",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 847 2770",
+    "sg:postcode":"58275",
+    "sg:province":"ND",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fxHVsEe7bHHw8YpBepro4_47.686542_-96.998455@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297848,
+    "wof:geomhash":"f124150db8f6f1fec77b6fc635d8ff66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873805729
+        }
+    ],
+    "wof:id":873805729,
+    "wof:lastmodified":1464297848,
+    "wof:name":"Ak Apartment",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.998455,
+    47.686542,
+    -96.998455,
+    47.686542
+],
+  "geometry": {"coordinates":[-96.99845500000001,47.686542],"type":"Point"}
+}

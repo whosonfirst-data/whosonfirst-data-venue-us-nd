@@ -1,0 +1,77 @@
+{
+  "id": 873708929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.296123,48.241257,-101.296123,48.241257",
+    "geom:latitude":48.241257,
+    "geom:longitude":-101.296123,
+    "iso:country":"US",
+    "sg:address":"427 N Broadway",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 4848",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "loan",
+        "used",
+        "broker",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ja4GF4OGaWzla7xRPz2YT_48.241257_-101.296123@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296506,
+    "wof:geomhash":"52d7191c24565c6a2692cb0a74a45bea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873708929
+        }
+    ],
+    "wof:id":873708929,
+    "wof:lastmodified":1464296506,
+    "wof:name":"Cashman",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "used",
+        "broker",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -101.296123,
+    48.241257,
+    -101.296123,
+    48.241257
+],
+  "geometry": {"coordinates":[-101.29612299999999,48.241257],"type":"Point"}
+}

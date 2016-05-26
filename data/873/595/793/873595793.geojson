@@ -1,0 +1,71 @@
+{
+  "id": 873595793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.799703,46.843407,-96.799703,46.843407",
+    "geom:latitude":46.843407,
+    "geom:longitude":-96.799703,
+    "iso:country":"US",
+    "sg:address":"1336 25th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 297 0558",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:website":"www.holidaystationstores.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534475,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2US6ZLhHyLuG6gZ8tW2GKf_46.843407_-96.799703@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294922,
+    "wof:geomhash":"a8c2ea8064332377f52f0dc7371848de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534475,
+            "region_id":85688525,
+            "venue_id":873595793
+        }
+    ],
+    "wof:id":873595793,
+    "wof:lastmodified":1464294922,
+    "wof:name":"Holiday Stationstores",
+    "wof:parent_id":420534475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.799703,
+    46.843407,
+    -96.799703,
+    46.843407
+],
+  "geometry": {"coordinates":[-96.79970299999999,46.843407],"type":"Point"}
+}

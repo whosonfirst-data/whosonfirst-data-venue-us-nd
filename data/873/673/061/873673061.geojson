@@ -1,0 +1,66 @@
+{
+  "id": 873673061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.040258,47.922371,-97.040258,47.922371",
+    "geom:latitude":47.922371,
+    "geom:longitude":-97.040258,
+    "iso:country":"US",
+    "sg:address":"901 University Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 7077",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lJN3WFR8s4Tu2PV7YuZ5a_47.922371_-97.040258@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295831,
+    "wof:geomhash":"a2743d4b8855c1d50ac6564c70d3af93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873673061
+        }
+    ],
+    "wof:id":873673061,
+    "wof:lastmodified":1464295831,
+    "wof:name":"Caffey Computer Co",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.040258,
+    47.922371,
+    -97.040258,
+    47.922371
+],
+  "geometry": {"coordinates":[-97.04025799999999,47.922371],"type":"Point"}
+}

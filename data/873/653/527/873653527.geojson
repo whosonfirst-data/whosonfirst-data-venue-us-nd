@@ -1,0 +1,77 @@
+{
+  "id": 873653527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.807244,46.875438,-96.807244,46.875438",
+    "geom:latitude":46.875438,
+    "geom:longitude":-96.807244,
+    "iso:country":"US",
+    "sg:address":"1638 Main Ave",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 298 3962",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "dealer",
+        "rug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SJWwYUPclkKbv1pcmhytA_46.875438_-96.807244@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295630,
+    "wof:geomhash":"00ac63d2e8f4d3feaa74fe3095d4eb4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873653527
+        }
+    ],
+    "wof:id":873653527,
+    "wof:lastmodified":1464295630,
+    "wof:name":"Lee's Flooring Inc",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "rug"
+    ]
+},
+  "bbox": [
+    -96.807244,
+    46.875438,
+    -96.807244,
+    46.875438
+],
+  "geometry": {"coordinates":[-96.807244,46.875438],"type":"Point"}
+}

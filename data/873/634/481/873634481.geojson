@@ -1,0 +1,77 @@
+{
+  "id": 873634481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.795429,46.890134,-96.795429,46.890134",
+    "geom:latitude":46.890134,
+    "geom:longitude":-96.795429,
+    "iso:country":"US",
+    "sg:address":"1142 11th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 280 2260",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877363,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04vSEmUvz8V0gXMbQaZ2pc_46.890134_-96.795429@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295418,
+    "wof:geomhash":"b1b987ea03cbec15806a1e0bae9a6a41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877363,
+            "region_id":85688525,
+            "venue_id":873634481
+        }
+    ],
+    "wof:id":873634481,
+    "wof:lastmodified":1464295418,
+    "wof:name":"Bass Auto Sales",
+    "wof:parent_id":85877363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -96.795429,
+    46.890134,
+    -96.795429,
+    46.890134
+],
+  "geometry": {"coordinates":[-96.795429,46.890134],"type":"Point"}
+}

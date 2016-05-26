@@ -1,0 +1,72 @@
+{
+  "id": 873805055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.840278,46.81573,-96.840278,46.81573",
+    "geom:latitude":46.81573,
+    "geom:longitude":-96.840278,
+    "iso:country":"US",
+    "sg:address":"4151 38th St S Suite A",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 540 5100",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"http://www.dietrichconstructionllc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gF79qL5IZGo5jUfx0YNqV_46.815730_-96.840278@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297835,
+    "wof:geomhash":"5137cd72a60237fc504a346133e7fa15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873805055
+        }
+    ],
+    "wof:id":873805055,
+    "wof:lastmodified":1464297835,
+    "wof:name":"Dietrich Construction LLC",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.840278,
+    46.81573,
+    -96.840278,
+    46.81573
+],
+  "geometry": {"coordinates":[-96.840278,46.81573],"type":"Point"}
+}

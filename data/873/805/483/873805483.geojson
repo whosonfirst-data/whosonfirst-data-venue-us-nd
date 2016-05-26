@@ -1,0 +1,68 @@
+{
+  "id": 873805483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.177706,48.561983,-97.177706,48.561983",
+    "geom:latitude":48.561983,
+    "geom:longitude":-97.177706,
+    "iso:country":"US",
+    "sg:address":"122 N Main St",
+    "sg:city":"Drayton",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 454 6531",
+    "sg:postcode":"58225",
+    "sg:province":"ND",
+    "sg:tags":[
+        "oils-fuel",
+        "diesel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62A4sh1myDMGN4TvmKJEKI_48.561983_-97.177706@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297843,
+    "wof:geomhash":"5e07fd716304135b71747540289560e5",
+    "wof:hierarchy":[],
+    "wof:id":873805483,
+    "wof:lastmodified":1464297843,
+    "wof:name":"Cenex Oil",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oils-fuel",
+        "diesel"
+    ]
+},
+  "bbox": [
+    -97.177706,
+    48.561983,
+    -97.177706,
+    48.561983
+],
+  "geometry": {"coordinates":[-97.177706,48.561983],"type":"Point"}
+}

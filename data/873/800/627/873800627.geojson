@@ -1,0 +1,83 @@
+{
+  "id": 873800627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.822398,46.883401,-96.822398,46.883401",
+    "geom:latitude":46.883401,
+    "geom:longitude":-96.822398,
+    "iso:country":"US",
+    "sg:address":"714 27th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 239 4800",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "system",
+        "specialty",
+        "heating",
+        "contractor",
+        "air conditioning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56IFu7fnfSqoouPCmwjMA1_46.883401_-96.822398@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297780,
+    "wof:geomhash":"67c23f5f9ddde844ddd8e7fec53c45c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873800627
+        }
+    ],
+    "wof:id":873800627,
+    "wof:lastmodified":1464297780,
+    "wof:name":"Rungers Heating & Air Conditio",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system",
+        "specialty",
+        "heating",
+        "contractor",
+        "air conditioning"
+    ]
+},
+  "bbox": [
+    -96.822398,
+    46.883401,
+    -96.822398,
+    46.883401
+],
+  "geometry": {"coordinates":[-96.82239800000001,46.883401],"type":"Point"}
+}

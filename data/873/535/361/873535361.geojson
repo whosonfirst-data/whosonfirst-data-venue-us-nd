@@ -1,0 +1,73 @@
+{
+  "id": 873535361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.647773,46.738094,-100.647773,46.738094",
+    "geom:latitude":46.738094,
+    "geom:longitude":-100.647773,
+    "iso:country":"US",
+    "sg:address":"6050 93rd St SE",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 6850",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ueTN9sRN6Y6k4nYVCh1Gq_46.738094_-100.647773@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294209,
+    "wof:geomhash":"92651e8a22391bd1ccb2d21532c41120",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873535361
+        }
+    ],
+    "wof:id":873535361,
+    "wof:lastmodified":1464294209,
+    "wof:name":"Abraham Farms",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -100.647773,
+    46.738094,
+    -100.647773,
+    46.738094
+],
+  "geometry": {"coordinates":[-100.647773,46.738094],"type":"Point"}
+}

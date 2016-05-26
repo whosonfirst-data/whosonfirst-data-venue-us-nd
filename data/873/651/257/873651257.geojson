@@ -1,0 +1,71 @@
+{
+  "id": 873651257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.066379,47.910172,-97.066379,47.910172",
+    "geom:latitude":47.910172,
+    "geom:longitude":-97.066379,
+    "iso:country":"US",
+    "sg:address":"1197 S Columbia Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 4751",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ldjdhQ4NZoF4tbvRjBATO_47.910172_-97.066379@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295600,
+    "wof:geomhash":"86976b2fa9a9f3a2ca450bf5d5649117",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873651257
+        }
+    ],
+    "wof:id":873651257,
+    "wof:lastmodified":1464295600,
+    "wof:name":"Curtis Tanabe DDS",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -97.066379,
+    47.910172,
+    -97.066379,
+    47.910172
+],
+  "geometry": {"coordinates":[-97.066379,47.910172],"type":"Point"}
+}

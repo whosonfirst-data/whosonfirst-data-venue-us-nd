@@ -1,0 +1,75 @@
+{
+  "id": 873699175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.336233,47.884638,-101.336233,47.884638",
+    "geom:latitude":47.884638,
+    "geom:longitude":-101.336233,
+    "iso:country":"US",
+    "sg:address":"33801 30th St SW",
+    "sg:city":"Max",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 679 2662",
+    "sg:postcode":"58759",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automobile",
+        "used",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1exjvaWrRJAjPuhvAR8TWC_47.884638_-101.336233@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296396,
+    "wof:geomhash":"d42b8f19f3cef268757da08749a82d6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873699175
+        }
+    ],
+    "wof:id":873699175,
+    "wof:lastmodified":1464296396,
+    "wof:name":"Brads Auto",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "used",
+        "general"
+    ]
+},
+  "bbox": [
+    -101.336233,
+    47.884638,
+    -101.336233,
+    47.884638
+],
+  "geometry": {"coordinates":[-101.33623299999999,47.884638],"type":"Point"}
+}

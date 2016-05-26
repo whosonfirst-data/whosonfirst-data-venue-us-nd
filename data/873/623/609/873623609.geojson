@@ -1,0 +1,71 @@
+{
+  "id": 873623609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.780193,46.79812,-100.780193,46.79812",
+    "geom:latitude":46.79812,
+    "geom:longitude":-100.780193,
+    "iso:country":"US",
+    "sg:address":"523 S 8th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 328 9658",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "parole"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57PB1xNxM4ROqBxCKShwsO_46.798120_-100.780193@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295293,
+    "wof:geomhash":"b3e4333d5d93f5e2bece15f204fedfcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873623609
+        }
+    ],
+    "wof:id":873623609,
+    "wof:lastmodified":1464295293,
+    "wof:name":"South Bismarck Satellite Off",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parole"
+    ]
+},
+  "bbox": [
+    -100.780193,
+    46.79812,
+    -100.780193,
+    46.79812
+],
+  "geometry": {"coordinates":[-100.780193,46.79812],"type":"Point"}
+}

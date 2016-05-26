@@ -1,0 +1,66 @@
+{
+  "id": 873534121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.032163,47.884769,-97.032163,47.884769",
+    "geom:latitude":47.884769,
+    "geom:longitude":-97.032163,
+    "iso:country":"US",
+    "sg:address":"538 Terrace Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 8389",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dIqRq89d6IdK1SmcWqGw2_47.884769_-97.032163@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294191,
+    "wof:geomhash":"7ac7417a3043fc1f92dc04665ce6c7a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873534121
+        }
+    ],
+    "wof:id":873534121,
+    "wof:lastmodified":1464294191,
+    "wof:name":"Unique Pavers & Landscaping",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.032163,
+    47.884769,
+    -97.032163,
+    47.884769
+],
+  "geometry": {"coordinates":[-97.032163,47.884769],"type":"Point"}
+}

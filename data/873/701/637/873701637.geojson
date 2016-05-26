@@ -1,0 +1,81 @@
+{
+  "id": 873701637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.829328,46.844323,-96.829328,46.844323",
+    "geom:latitude":46.844323,
+    "geom:longitude":-96.829328,
+    "iso:country":"US",
+    "sg:address":"2626 24th Ave SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 238 8032",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automobile",
+        "co",
+        "drive",
+        "transporter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534475,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mnaeinDhqGRApVA6ozVoF_46.844323_-96.829328@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296422,
+    "wof:geomhash":"8bba1db724ef5f0766a97942bf28a276",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534475,
+            "region_id":85688525,
+            "venue_id":873701637
+        }
+    ],
+    "wof:id":873701637,
+    "wof:lastmodified":1464296422,
+    "wof:name":"Interstate Auto Transport",
+    "wof:parent_id":420534475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "co",
+        "drive",
+        "transporter"
+    ]
+},
+  "bbox": [
+    -96.829328,
+    46.844323,
+    -96.829328,
+    46.844323
+],
+  "geometry": {"coordinates":[-96.829328,46.844323],"type":"Point"}
+}

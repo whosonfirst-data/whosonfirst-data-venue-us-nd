@@ -1,0 +1,73 @@
+{
+  "id": 873728629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.17682,48.075757,-97.17682,48.075757",
+    "geom:latitude":48.075757,
+    "geom:longitude":-97.17682,
+    "iso:country":"US",
+    "sg:address":"502 Oldham Ave",
+    "sg:city":"Manvel",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 696 2368",
+    "sg:postcode":"58256",
+    "sg:province":"ND",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1x2YuGuACvryVGmQfgoptq_48.075757_-97.176820@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296762,
+    "wof:geomhash":"ea2d87462f6eb73ec302baea4f68d110",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873728629
+        }
+    ],
+    "wof:id":873728629,
+    "wof:lastmodified":1464296762,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -97.17682,
+    48.075757,
+    -97.17682,
+    48.075757
+],
+  "geometry": {"coordinates":[-97.17682000000001,48.075757],"type":"Point"}
+}

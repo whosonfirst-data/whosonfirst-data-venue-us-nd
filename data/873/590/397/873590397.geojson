@@ -1,0 +1,76 @@
+{
+  "id": 873590397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.308095,48.202985,-101.308095,48.202985",
+    "geom:latitude":48.202985,
+    "geom:longitude":-101.308095,
+    "iso:country":"US",
+    "sg:address":"1100 31st Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 7655",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "ornamental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0erF2M1ckSF1QaHo0TjacY_48.202985_-101.308095@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294835,
+    "wof:geomhash":"46c0dc315b3c3316b4f094f99c91e717",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873590397
+        }
+    ],
+    "wof:id":873590397,
+    "wof:lastmodified":1464294835,
+    "wof:name":"Country Meadows Grnhse Floral",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ornamental"
+    ]
+},
+  "bbox": [
+    -101.308095,
+    48.202985,
+    -101.308095,
+    48.202985
+],
+  "geometry": {"coordinates":[-101.30809499999999,48.202985],"type":"Point"}
+}

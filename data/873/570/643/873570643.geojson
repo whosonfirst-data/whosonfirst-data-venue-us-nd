@@ -1,0 +1,71 @@
+{
+  "id": 873570643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.029226,47.924472,-97.029226,47.924472",
+    "geom:latitude":47.924472,
+    "geom:longitude":-97.029226,
+    "iso:country":"US",
+    "sg:address":"16 S 3rd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 9716",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RYbKxRHkRXy40jJTe5Hea_47.924472_-97.029226@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294617,
+    "wof:geomhash":"dff29ee61d96825e3566f1b8fbd8b252",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873570643
+        }
+    ],
+    "wof:id":873570643,
+    "wof:lastmodified":1464294617,
+    "wof:name":"River City Jewelers",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -97.029226,
+    47.924472,
+    -97.029226,
+    47.924472
+],
+  "geometry": {"coordinates":[-97.02922599999999,47.924472],"type":"Point"}
+}

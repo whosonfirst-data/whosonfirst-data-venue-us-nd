@@ -1,0 +1,66 @@
+{
+  "id": 873567095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.262998,48.229181,-101.262998,48.229181",
+    "geom:latitude":48.229181,
+    "geom:longitude":-101.262998,
+    "iso:country":"US",
+    "sg:address":"2001 8th Ave SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 0496",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uUyVAXSO2eyX9GA9b6XOk_48.229181_-101.262998@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294576,
+    "wof:geomhash":"dcc408a46b5ec97f839fa400ac482f78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873567095
+        }
+    ],
+    "wof:id":873567095,
+    "wof:lastmodified":1464294576,
+    "wof:name":"Minot Association Of Builders",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.262998,
+    48.229181,
+    -101.262998,
+    48.229181
+],
+  "geometry": {"coordinates":[-101.262998,48.229181],"type":"Point"}
+}

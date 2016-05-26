@@ -1,0 +1,71 @@
+{
+  "id": 873751993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.739994,46.840865,-100.739994,46.840865",
+    "geom:latitude":46.840865,
+    "geom:longitude":-100.739994,
+    "iso:country":"US",
+    "sg:address":"3500 Saratoga Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 9312",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZEaLDgyBm1Wp5RGPXATzD_46.840865_-100.739994@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297101,
+    "wof:geomhash":"bba8883cc4d5ef2cc8272f04297a6f55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873751993
+        }
+    ],
+    "wof:id":873751993,
+    "wof:lastmodified":1464297101,
+    "wof:name":"Labor One Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -100.739994,
+    46.840865,
+    -100.739994,
+    46.840865
+],
+  "geometry": {"coordinates":[-100.739994,46.840865],"type":"Point"}
+}

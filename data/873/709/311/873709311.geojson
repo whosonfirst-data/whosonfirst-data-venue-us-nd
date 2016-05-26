@@ -1,0 +1,66 @@
+{
+  "id": 873709311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.045099,47.912232,-97.045099,47.912232",
+    "geom:latitude":47.912232,
+    "geom:longitude":-97.045099,
+    "iso:country":"US",
+    "sg:address":"1020 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 5589",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dvXmyoeRDQKwEFq5bziyO_47.912232_-97.045099@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296511,
+    "wof:geomhash":"bdbcca2d8dbe78e87a72e6fac4fe0fca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873709311
+        }
+    ],
+    "wof:id":873709311,
+    "wof:lastmodified":1464296511,
+    "wof:name":"Medicine Shoppe Pharmacy",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.045099,
+    47.912232,
+    -97.045099,
+    47.912232
+],
+  "geometry": {"coordinates":[-97.04509899999999,47.912232],"type":"Point"}
+}

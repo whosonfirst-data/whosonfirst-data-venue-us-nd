@@ -1,0 +1,66 @@
+{
+  "id": 873727867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.767213,46.798392,-100.767213,46.798392",
+    "geom:latitude":46.798392,
+    "geom:longitude":-100.767213,
+    "iso:country":"US",
+    "sg:address":"1617 Michigan Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 3304",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tipTi7E07tHES6E9j4kTS_46.798392_-100.767213@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296752,
+    "wof:geomhash":"063fcede6f48a9199833107bc40f7343",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873727867
+        }
+    ],
+    "wof:id":873727867,
+    "wof:lastmodified":1464296752,
+    "wof:name":"Bismarck Community Church",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.767213,
+    46.798392,
+    -100.767213,
+    46.798392
+],
+  "geometry": {"coordinates":[-100.767213,46.798392],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 873796659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.873408,46.861906,-96.873408,46.861906",
+    "geom:latitude":46.861906,
+    "geom:longitude":-96.873408,
+    "iso:country":"US",
+    "sg:address":"1625 13th Ave E",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/west-fargo/221251-caribou-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 277 0783",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kJEOhQgoOWETxciP2CYK2_46.861906_-96.873408@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297733,
+    "wof:geomhash":"7b37b306a11785e59545d7b88c55fffe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873796659
+        }
+    ],
+    "wof:id":873796659,
+    "wof:lastmodified":1464297733,
+    "wof:name":"Caribou Coffee",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -96.873408,
+    46.861906,
+    -96.873408,
+    46.861906
+],
+  "geometry": {"coordinates":[-96.873408,46.861906],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873540339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.619536,46.939187,-100.619536,46.939187",
+    "geom:latitude":46.939187,
+    "geom:longitude":-100.619536,
+    "iso:country":"US",
+    "sg:address":"11600 123rd Ave NE",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 673 3324",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ELaFsnPV8ydSlyWYpo31J_46.939187_-100.619536@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294262,
+    "wof:geomhash":"185d8389a6143fc79010f753e555a12c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873540339
+        }
+    ],
+    "wof:id":873540339,
+    "wof:lastmodified":1464294262,
+    "wof:name":"Gene Ryberg",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -100.619536,
+    46.939187,
+    -100.619536,
+    46.939187
+],
+  "geometry": {"coordinates":[-100.619536,46.939187],"type":"Point"}
+}

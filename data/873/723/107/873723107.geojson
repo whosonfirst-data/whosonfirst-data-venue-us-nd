@@ -1,0 +1,75 @@
+{
+  "id": 873723107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.291581,48.235264,-101.291581,48.235264",
+    "geom:latitude":48.235264,
+    "geom:longitude":-101.291581,
+    "iso:country":"US",
+    "sg:address":"116 1st St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 5322",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "advisory",
+        "consulting",
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RWLdqkwGj0Ttf6gwZW3YU_48.235264_-101.291581@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296688,
+    "wof:geomhash":"18b37058ee7b3f9dc5c4e4f713667a13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873723107
+        }
+    ],
+    "wof:id":873723107,
+    "wof:lastmodified":1464296688,
+    "wof:name":"American Express",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "consulting",
+        "management"
+    ]
+},
+  "bbox": [
+    -101.291581,
+    48.235264,
+    -101.291581,
+    48.235264
+],
+  "geometry": {"coordinates":[-101.29158099999999,48.235264],"type":"Point"}
+}

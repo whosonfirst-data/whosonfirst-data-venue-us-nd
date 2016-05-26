@@ -1,0 +1,73 @@
+{
+  "id": 873731397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.046363,47.9211,-97.046363,47.9211",
+    "geom:latitude":47.9211,
+    "geom:longitude":-97.046363,
+    "iso:country":"US",
+    "sg:address":"1309 2nd Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 7922",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "federal",
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Y9vvHok8SjfF43V8JO0Wc_47.921100_-97.046363@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296797,
+    "wof:geomhash":"f782f3a65d22147049aaa934ab197c08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873731397
+        }
+    ],
+    "wof:id":873731397,
+    "wof:lastmodified":1464296797,
+    "wof:name":"Burlington Nthrn Federal Cr Un",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "state"
+    ]
+},
+  "bbox": [
+    -97.046363,
+    47.9211,
+    -97.046363,
+    47.9211
+],
+  "geometry": {"coordinates":[-97.046363,47.9211],"type":"Point"}
+}

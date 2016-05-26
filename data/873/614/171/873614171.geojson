@@ -1,0 +1,71 @@
+{
+  "id": 873614171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.052349,47.904019,-97.052349,47.904019",
+    "geom:latitude":47.904019,
+    "geom:longitude":-97.052349,
+    "iso:country":"US",
+    "sg:address":"1728 17th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 402 0192",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "alteration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CkgX4WbeCUYdH6Dg072oS_47.904019_-97.052349@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295187,
+    "wof:geomhash":"1ad243acaca92f13338c3a340268eee8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873614171
+        }
+    ],
+    "wof:id":873614171,
+    "wof:lastmodified":1464295187,
+    "wof:name":"Nip & Tuck Alterations",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alteration"
+    ]
+},
+  "bbox": [
+    -97.052349,
+    47.904019,
+    -97.052349,
+    47.904019
+],
+  "geometry": {"coordinates":[-97.05234900000001,47.904019],"type":"Point"}
+}

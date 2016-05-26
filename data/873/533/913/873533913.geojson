@@ -1,0 +1,71 @@
+{
+  "id": 873533913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.690603,46.873318,-100.690603,46.873318",
+    "geom:latitude":46.873318,
+    "geom:longitude":-100.690603,
+    "iso:country":"US",
+    "sg:address":"6500 Rocky Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 6573",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Bmaw5oqxL2zGYrI599ngV_46.873318_-100.690603@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294186,
+    "wof:geomhash":"5de5a0050ffe069ca039ffc547f5b8d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873533913
+        }
+    ],
+    "wof:id":873533913,
+    "wof:lastmodified":1464294186,
+    "wof:name":"Lisa Shiness",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -100.690603,
+    46.873318,
+    -100.690603,
+    46.873318
+],
+  "geometry": {"coordinates":[-100.690603,46.873318],"type":"Point"}
+}

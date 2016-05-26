@@ -1,0 +1,71 @@
+{
+  "id": 873589701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.292094,48.214591,-101.292094,48.214591",
+    "geom:latitude":48.214591,
+    "geom:longitude":-101.292094,
+    "iso:country":"US",
+    "sg:address":"18 18th Ave SE",
+    "sg:city":"Stanley",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 628 2965",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fu89gAvZhzT3tQKloMnG2_48.214591_-101.292094@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294827,
+    "wof:geomhash":"e49931d1a55f4b4e42ce5a0b7b1365e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873589701
+        }
+    ],
+    "wof:id":873589701,
+    "wof:lastmodified":1464294827,
+    "wof:name":"Schulte & Enget",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -101.292094,
+    48.214591,
+    -101.292094,
+    48.214591
+],
+  "geometry": {"coordinates":[-101.29209400000001,48.214591],"type":"Point"}
+}

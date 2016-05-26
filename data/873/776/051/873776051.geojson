@@ -1,0 +1,70 @@
+{
+  "id": 873776051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-102.786683,46.880695,-102.786683,46.880695",
+    "geom:latitude":46.880695,
+    "geom:longitude":-102.786683,
+    "iso:country":"US",
+    "sg:address":"118 1st Ave W",
+    "sg:city":"Dickinson",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 483 9104",
+    "sg:postcode":"58601",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877119,
+        102191575,
+        404482179,
+        85633793,
+        85982521,
+        102082105,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KTFKkP8Fiti7tel3DvRqE_46.880695_-102.786683@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297438,
+    "wof:geomhash":"02760a8c149bd6fd18ba1d48f3a2d412",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082105,
+            "localadmin_id":404482179,
+            "locality_id":85982521,
+            "neighbourhood_id":85877119,
+            "region_id":85688525,
+            "venue_id":873776051
+        }
+    ],
+    "wof:id":873776051,
+    "wof:lastmodified":1464297438,
+    "wof:name":"American Insurance",
+    "wof:parent_id":85877119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -102.786683,
+    46.880695,
+    -102.786683,
+    46.880695
+],
+  "geometry": {"coordinates":[-102.786683,46.880695],"type":"Point"}
+}

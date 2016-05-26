@@ -1,0 +1,72 @@
+{
+  "id": 873654229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.737285,46.80917,-100.737285,46.80917",
+    "geom:latitude":46.80917,
+    "geom:longitude":-100.737285,
+    "iso:country":"US",
+    "sg:address":"3550 E Rosser Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Credit Reporting & Collection",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 250 1390",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "agency"
+    ],
+    "sg:website":"www.ccbinet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6P4R7k23kBRxNNnUNcCkqQ_46.809170_-100.737285@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295638,
+    "wof:geomhash":"84519c0c1f52ecbd6d59a04a37be1659",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873654229
+        }
+    ],
+    "wof:id":873654229,
+    "wof:lastmodified":1464295638,
+    "wof:name":"Credit Collections Bureau",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -100.737285,
+    46.80917,
+    -100.737285,
+    46.80917
+],
+  "geometry": {"coordinates":[-100.737285,46.80917],"type":"Point"}
+}

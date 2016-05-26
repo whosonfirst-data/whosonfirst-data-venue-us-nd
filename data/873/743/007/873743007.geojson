@@ -1,0 +1,70 @@
+{
+  "id": 873743007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.838098,46.858036,-96.838098,46.858036",
+    "geom:latitude":46.858036,
+    "geom:longitude":-96.838098,
+    "iso:country":"US",
+    "sg:address":"1469 35th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 729 2344",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aSR0r1uS7bUEvhz1I8u1D_46.858036_-96.838098@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296972,
+    "wof:geomhash":"bea39a5eefe9163ad3dc9c9e093fcb3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873743007
+        }
+    ],
+    "wof:id":873743007,
+    "wof:lastmodified":1464296972,
+    "wof:name":"Getz Landscaping",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.838098,
+    46.858036,
+    -96.838098,
+    46.858036
+],
+  "geometry": {"coordinates":[-96.838098,46.858036],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873770143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.792454,46.800194,-100.792454,46.800194",
+    "geom:latitude":46.800194,
+    "geom:longitude":-100.792454,
+    "iso:country":"US",
+    "sg:address":"114 E Indiana Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 9712",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "antique",
+        "made",
+        "sales",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mnmEOcNLRqTNNhpwtbJPT_46.800194_-100.792454@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297368,
+    "wof:geomhash":"6ebbeb81c21be5287dd65cba69447574",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873770143
+        }
+    ],
+    "wof:id":873770143,
+    "wof:lastmodified":1464297368,
+    "wof:name":"A & K Treasures",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique",
+        "made",
+        "sales",
+        "custom"
+    ]
+},
+  "bbox": [
+    -100.792454,
+    46.800194,
+    -100.792454,
+    46.800194
+],
+  "geometry": {"coordinates":[-100.79245400000001,46.800194],"type":"Point"}
+}

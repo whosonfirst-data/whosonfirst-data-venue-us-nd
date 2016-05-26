@@ -1,0 +1,66 @@
+{
+  "id": 873614631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.051163,47.928308,-97.051163,47.928308",
+    "geom:latitude":47.928308,
+    "geom:longitude":-97.051163,
+    "iso:country":"US",
+    "sg:address":"1714 9th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 5879",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eSdT7iZkBgtYDDAmQcjTO_47.928308_-97.051163@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295191,
+    "wof:geomhash":"a57e1ec79c19a7fcc7b0fd589d228d60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873614631
+        }
+    ],
+    "wof:id":873614631,
+    "wof:lastmodified":1464295191,
+    "wof:name":"North Dakota Association Bli",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.051163,
+    47.928308,
+    -97.051163,
+    47.928308
+],
+  "geometry": {"coordinates":[-97.051163,47.928308],"type":"Point"}
+}

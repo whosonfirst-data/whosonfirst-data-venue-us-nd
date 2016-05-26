@@ -1,0 +1,71 @@
+{
+  "id": 873779253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.171394,46.648251,-100.171394,46.648251",
+    "geom:latitude":46.648251,
+    "geom:longitude":-100.171394,
+    "iso:country":"US",
+    "sg:address":"38900 141st Ave SE",
+    "sg:city":"Moffit",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 387 4347",
+    "sg:postcode":"58560",
+    "sg:province":"ND",
+    "sg:tags":[
+        "livestock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64ZizoZP1AAXBQjFULcVq8_46.648251_-100.171394@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297479,
+    "wof:geomhash":"74c5c29b7841bc02a12a3d0834fe08ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873779253
+        }
+    ],
+    "wof:id":873779253,
+    "wof:lastmodified":1464297479,
+    "wof:name":"Darrell J Glovich",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "livestock"
+    ]
+},
+  "bbox": [
+    -100.171394,
+    46.648251,
+    -100.171394,
+    46.648251
+],
+  "geometry": {"coordinates":[-100.17139400000001,46.648251],"type":"Point"}
+}

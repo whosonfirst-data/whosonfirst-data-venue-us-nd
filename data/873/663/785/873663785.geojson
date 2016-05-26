@@ -1,0 +1,73 @@
+{
+  "id": 873663785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.097592,47.928185,-97.097592,47.928185",
+    "geom:latitude":47.928185,
+    "geom:longitude":-97.097592,
+    "iso:country":"US",
+    "sg:address":"4703 Silver Gate Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 7997",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "merchandise",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aR8utJRXMM7w64q1ldg3W_47.928185_-97.097592@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295738,
+    "wof:geomhash":"ca408c366a0ae1e7963848abfa086bca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873663785
+        }
+    ],
+    "wof:id":873663785,
+    "wof:lastmodified":1464295738,
+    "wof:name":"Debs Decor",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise",
+        "general"
+    ]
+},
+  "bbox": [
+    -97.097592,
+    47.928185,
+    -97.097592,
+    47.928185
+],
+  "geometry": {"coordinates":[-97.09759200000001,47.928185],"type":"Point"}
+}

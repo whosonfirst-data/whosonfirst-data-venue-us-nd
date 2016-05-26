@@ -1,0 +1,75 @@
+{
+  "id": 873788537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.834194,46.836944,-96.834194,46.836944",
+    "geom:latitude":46.836944,
+    "geom:longitude":-96.834194,
+    "iso:country":"US",
+    "sg:address":"3344 30th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 241 7700",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877355,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ce8jg2o7tCK7l7ANoXKof_46.837011_-96.834089@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464297624,
+    "wof:geomhash":"ebde653c7e535a49945bc316eae7e1a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877355,
+            "region_id":85688525,
+            "venue_id":873788537
+        }
+    ],
+    "wof:id":873788537,
+    "wof:lastmodified":1464297624,
+    "wof:name":"Kristen's Kreations",
+    "wof:parent_id":85877355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -96.834194,
+    46.836944,
+    -96.834194,
+    46.836944
+],
+  "geometry": {"coordinates":[-96.834194,46.836944],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873770739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.303714,48.235893,-101.303714,48.235893",
+    "geom:latitude":48.235893,
+    "geom:longitude":-101.303714,
+    "iso:country":"US",
+    "sg:address":"1 7th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 857 4605",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WQRSqYF4qCTufTtE3n06f_48.235893_-101.303714@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297374,
+    "wof:geomhash":"8b1612e9bb1fe5e5e484eaf9a12e2e3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873770739
+        }
+    ],
+    "wof:id":873770739,
+    "wof:lastmodified":1464297374,
+    "wof:name":"Lincoln Elementary School",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.303714,
+    48.235893,
+    -101.303714,
+    48.235893
+],
+  "geometry": {"coordinates":[-101.303714,48.235893],"type":"Point"}
+}

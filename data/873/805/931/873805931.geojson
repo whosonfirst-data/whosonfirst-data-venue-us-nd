@@ -1,0 +1,71 @@
+{
+  "id": 873805931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.772361,46.815201,-100.772361,46.815201",
+    "geom:latitude":46.815201,
+    "geom:longitude":-100.772361,
+    "iso:country":"US",
+    "sg:address":"1302 E Avenue F",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 4458",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TX8PyyqiC3RTrb8GqpWYV_46.815201_-100.772361@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297851,
+    "wof:geomhash":"ea07cea6e370c4e3fa5e3c469ec0945a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873805931
+        }
+    ],
+    "wof:id":873805931,
+    "wof:lastmodified":1464297851,
+    "wof:name":"New Image Salon",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.772361,
+    46.815201,
+    -100.772361,
+    46.815201
+],
+  "geometry": {"coordinates":[-100.772361,46.815201],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873801269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.789297,46.890555,-96.789297,46.890555",
+    "geom:latitude":46.890555,
+    "geom:longitude":-96.789297,
+    "iso:country":"US",
+    "sg:address":"1246 7th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 361 6441",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534485,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aSXtR8SoYI2UyTIGBQ3zz_46.890555_-96.789297@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297788,
+    "wof:geomhash":"0ed618d159f69fa00da0081c23557e24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534485,
+            "region_id":85688525,
+            "venue_id":873801269
+        }
+    ],
+    "wof:id":873801269,
+    "wof:lastmodified":1464297788,
+    "wof:name":"North Scape Property Design",
+    "wof:parent_id":420534485,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.789297,
+    46.890555,
+    -96.789297,
+    46.890555
+],
+  "geometry": {"coordinates":[-96.789297,46.890555],"type":"Point"}
+}

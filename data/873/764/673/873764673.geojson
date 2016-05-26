@@ -1,0 +1,71 @@
+{
+  "id": 873764673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.076443,47.917756,-97.076443,47.917756",
+    "geom:latitude":47.917756,
+    "geom:longitude":-97.076443,
+    "iso:country":"US",
+    "sg:address":"3100 Demers Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 5507",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "construction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XywqGZxexkf8nDz3SSFsF_47.917756_-97.076443@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297289,
+    "wof:geomhash":"b83a4cafce9b735db69bf3be20b13a17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873764673
+        }
+    ],
+    "wof:id":873764673,
+    "wof:lastmodified":1464297289,
+    "wof:name":"Construction Development Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "construction"
+    ]
+},
+  "bbox": [
+    -97.076443,
+    47.917756,
+    -97.076443,
+    47.917756
+],
+  "geometry": {"coordinates":[-97.076443,47.917756],"type":"Point"}
+}

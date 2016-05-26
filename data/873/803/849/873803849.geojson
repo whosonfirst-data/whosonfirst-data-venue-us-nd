@@ -1,0 +1,86 @@
+{
+  "id": 873803849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.798506,46.855357,-96.798506,46.855357",
+    "geom:latitude":46.855357,
+    "geom:longitude":-96.798506,
+    "iso:country":"US",
+    "sg:address":"1621 University Dr S # 214",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 3667",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "consultant",
+        "commercial",
+        "analyst",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534481,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IQTckSxgQDSZO9q8PTwny_46.855357_-96.798506@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297819,
+    "wof:geomhash":"13c0e05bcbbe37025b42ea5feb14d189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534481,
+            "region_id":85688525,
+            "venue_id":873803849
+        }
+    ],
+    "wof:id":873803849,
+    "wof:lastmodified":1464297819,
+    "wof:name":"Senior's Insurance Service L L C",
+    "wof:parent_id":420534481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "commercial",
+        "analyst",
+        "business"
+    ]
+},
+  "bbox": [
+    -96.798506,
+    46.855357,
+    -96.798506,
+    46.855357
+],
+  "geometry": {"coordinates":[-96.798506,46.855357],"type":"Point"}
+}

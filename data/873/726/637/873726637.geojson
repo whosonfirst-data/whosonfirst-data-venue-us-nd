@@ -1,0 +1,75 @@
+{
+  "id": 873726637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.804921,46.875305,-96.804921,46.875305",
+    "geom:latitude":46.875305,
+    "geom:longitude":-96.804921,
+    "iso:country":"US",
+    "sg:address":"1534 Main Ave",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 238 6990",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nDkwJjOar3WvjPukmAKmh_46.875305_-96.804921@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296735,
+    "wof:geomhash":"14669c7d2ae06594f9db5bda15b84003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873726637
+        }
+    ],
+    "wof:id":873726637,
+    "wof:lastmodified":1464296735,
+    "wof:name":"Dentman",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -96.804921,
+    46.875305,
+    -96.804921,
+    46.875305
+],
+  "geometry": {"coordinates":[-96.80492099999999,46.875305],"type":"Point"}
+}

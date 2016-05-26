@@ -1,0 +1,66 @@
+{
+  "id": 873668441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.065487,47.933005,-97.065487,47.933005",
+    "geom:latitude":47.933005,
+    "geom:longitude":-97.065487,
+    "iso:country":"US",
+    "sg:address":"2105 Gateway Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 2566",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4I5cpLhcjF3DvCBHe9yxOx_47.933005_-97.065487@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295785,
+    "wof:geomhash":"601d7e7f6a5a2ac687a4c89cd38d3dbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873668441
+        }
+    ],
+    "wof:id":873668441,
+    "wof:lastmodified":1464295785,
+    "wof:name":"Agassiz Enterprises",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.065487,
+    47.933005,
+    -97.065487,
+    47.933005
+],
+  "geometry": {"coordinates":[-97.065487,47.933005],"type":"Point"}
+}

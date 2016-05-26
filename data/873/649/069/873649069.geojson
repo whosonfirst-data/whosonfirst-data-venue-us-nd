@@ -1,0 +1,71 @@
+{
+  "id": 873649069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.701613,48.180344,-97.701613,48.180344",
+    "geom:latitude":48.180344,
+    "geom:longitude":-97.701613,
+    "iso:country":"US",
+    "sg:address":"4068 35th Ave NE",
+    "sg:city":"Fordville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 865 4112",
+    "sg:postcode":"58231",
+    "sg:province":"ND",
+    "sg:tags":[
+        "metal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12TDrwhGHFhYNA2rdcxtrB_48.180344_-97.701613@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295577,
+    "wof:geomhash":"c4350164b204ea06342fdddf07e1954c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873649069
+        }
+    ],
+    "wof:id":873649069,
+    "wof:lastmodified":1464295577,
+    "wof:name":"Forest River Colony & Salvage",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "metal"
+    ]
+},
+  "bbox": [
+    -97.701613,
+    48.180344,
+    -97.701613,
+    48.180344
+],
+  "geometry": {"coordinates":[-97.70161299999999,48.180344],"type":"Point"}
+}

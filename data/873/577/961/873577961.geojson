@@ -1,0 +1,71 @@
+{
+  "id": 873577961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.784788,46.806365,-100.784788,46.806365",
+    "geom:latitude":46.806365,
+    "geom:longitude":-100.784788,
+    "iso:country":"US",
+    "sg:address":"417 E Broadway Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 6430",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5H3bcVppHlNVAuZW8i0iHQ_46.806365_-100.784788@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294694,
+    "wof:geomhash":"f5015bdff91f42bceee49be17111a334",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873577961
+        }
+    ],
+    "wof:id":873577961,
+    "wof:lastmodified":1464294694,
+    "wof:name":"Westley's Jewelry Inc",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -100.784788,
+    46.806365,
+    -100.784788,
+    46.806365
+],
+  "geometry": {"coordinates":[-100.78478800000001,46.806365],"type":"Point"}
+}

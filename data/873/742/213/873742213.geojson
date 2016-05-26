@@ -1,0 +1,73 @@
+{
+  "id": 873742213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.290617,48.201549,-101.290617,48.201549",
+    "geom:latitude":48.201549,
+    "geom:longitude":-101.290617,
+    "iso:country":"US",
+    "sg:address":"3200 2nd St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 837 9474",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JAl5wdpx09t9HnuzVSwhu_48.201549_-101.290617@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296959,
+    "wof:geomhash":"366e27605015b1dc58c5978a418a9671",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873742213
+        }
+    ],
+    "wof:id":873742213,
+    "wof:lastmodified":1464296959,
+    "wof:name":"Performance Plastics & Coating",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "truck"
+    ]
+},
+  "bbox": [
+    -101.290617,
+    48.201549,
+    -101.290617,
+    48.201549
+],
+  "geometry": {"coordinates":[-101.290617,48.201549],"type":"Point"}
+}

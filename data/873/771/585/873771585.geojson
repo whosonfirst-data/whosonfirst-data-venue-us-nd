@@ -1,0 +1,71 @@
+{
+  "id": 873771585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.279589,48.232645,-101.279589,48.232645",
+    "geom:latitude":48.232645,
+    "geom:longitude":-101.279589,
+    "iso:country":"US",
+    "sg:address":"400 9th St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 837 0300",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77NEt8lrvwBlDj8HLCMDQ1_48.232645_-101.279589@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297384,
+    "wof:geomhash":"563d67921602a1075ac2a6fa854a24bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873771585
+        }
+    ],
+    "wof:id":873771585,
+    "wof:lastmodified":1464297384,
+    "wof:name":"Big Boys Toys",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -101.279589,
+    48.232645,
+    -101.279589,
+    48.232645
+],
+  "geometry": {"coordinates":[-101.279589,48.232645],"type":"Point"}
+}

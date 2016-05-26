@@ -1,0 +1,67 @@
+{
+  "id": 873787065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.287867,46.875014,-100.287867,46.875014",
+    "geom:latitude":46.875014,
+    "geom:longitude":-100.287867,
+    "iso:country":"US",
+    "sg:address":"6601 State Hwy 14",
+    "sg:city":"Sterling",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 387 4326",
+    "sg:postcode":"58572",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "soybean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ixCAQBowOv7Y03Nlemiwx_46.875014_-100.287867@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297593,
+    "wof:geomhash":"15defcc7ededbfe4fa2f5788683244f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873787065
+        }
+    ],
+    "wof:id":873787065,
+    "wof:lastmodified":1464297593,
+    "wof:name":"Funston Merle",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "soybean"
+    ]
+},
+  "bbox": [
+    -100.287867,
+    46.875014,
+    -100.287867,
+    46.875014
+],
+  "geometry": {"coordinates":[-100.28786700000001,46.875014],"type":"Point"}
+}

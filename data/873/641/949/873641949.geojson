@@ -1,0 +1,71 @@
+{
+  "id": 873641949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.063313,47.892233,-97.063313,47.892233",
+    "geom:latitude":47.892233,
+    "geom:longitude":-97.063313,
+    "iso:country":"US",
+    "sg:address":"2550 28th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 7287",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3s0sgw1HZJJFil3Tm6OmfK_47.892233_-97.063313@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295498,
+    "wof:geomhash":"c06e68196997e52335608e5c199b3be0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873641949
+        }
+    ],
+    "wof:id":873641949,
+    "wof:lastmodified":1464295498,
+    "wof:name":"Wonder Years Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -97.063313,
+    47.892233,
+    -97.063313,
+    47.892233
+],
+  "geometry": {"coordinates":[-97.06331299999999,47.892233],"type":"Point"}
+}

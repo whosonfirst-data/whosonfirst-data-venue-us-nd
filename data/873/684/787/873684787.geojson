@@ -1,0 +1,73 @@
+{
+  "id": 873684787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.05532,47.928149,-97.05532,47.928149",
+    "geom:latitude":47.928149,
+    "geom:longitude":-97.05532,
+    "iso:country":"US",
+    "sg:address":"815 N 20th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 4773",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "lutheran",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Dbf4ygOoARySGVSMPoij5_47.928149_-97.055320@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296132,
+    "wof:geomhash":"dfec82d3b4cb01369c885b7dc867abf1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873684787
+        }
+    ],
+    "wof:id":873684787,
+    "wof:lastmodified":1464296132,
+    "wof:name":"Redeemer Lutheran Church",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lutheran",
+        "church"
+    ]
+},
+  "bbox": [
+    -97.05532,
+    47.928149,
+    -97.05532,
+    47.928149
+],
+  "geometry": {"coordinates":[-97.05531999999999,47.928149],"type":"Point"}
+}

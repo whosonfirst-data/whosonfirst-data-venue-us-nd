@@ -1,0 +1,87 @@
+{
+  "id": 873804535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.828484,46.871183,-96.828484,46.871183",
+    "geom:latitude":46.871183,
+    "geom:longitude":-96.828484,
+    "iso:country":"US",
+    "sg:address":"3221 4th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 552 5265",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "accessory",
+        "remodeling",
+        "closet",
+        "designing"
+    ],
+    "sg:website":"http://www.woodspecialistsinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5w6qd1oncJy8dRtjJS5jRo_46.871183_-96.828484@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297829,
+    "wof:geomhash":"7d5d0b37f9826d088b5f22170ee78213",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873804535
+        }
+    ],
+    "wof:id":873804535,
+    "wof:lastmodified":1464297829,
+    "wof:name":"Wood Specialists Inc",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accessory",
+        "remodeling",
+        "closet",
+        "designing"
+    ]
+},
+  "bbox": [
+    -96.828484,
+    46.871183,
+    -96.828484,
+    46.871183
+],
+  "geometry": {"coordinates":[-96.828484,46.871183],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873718235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.246702,48.229132,-101.246702,48.229132",
+    "geom:latitude":48.229132,
+    "geom:longitude":-101.246702,
+    "iso:country":"US",
+    "sg:address":"3101 Burdick Expy E",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Arcade",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 2054",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "amusement",
+        "devices"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vsK3vkSecXHDojhwwpEBr_48.229132_-101.246702@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296623,
+    "wof:geomhash":"46c569f8c50fc8c97d9b32530c345bbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873718235
+        }
+    ],
+    "wof:id":873718235,
+    "wof:lastmodified":1464296623,
+    "wof:name":"I F LA Fleur & Sons",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "amusement",
+        "devices"
+    ]
+},
+  "bbox": [
+    -101.246702,
+    48.229132,
+    -101.246702,
+    48.229132
+],
+  "geometry": {"coordinates":[-101.246702,48.229132],"type":"Point"}
+}

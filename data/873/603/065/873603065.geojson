@@ -1,0 +1,71 @@
+{
+  "id": 873603065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.688781,46.823768,-100.688781,46.823768",
+    "geom:latitude":46.823768,
+    "geom:longitude":-100.688781,
+    "iso:country":"US",
+    "sg:address":"1751 66th St NE",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 1673",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29IoUBOwM4dwGm6fz8fyEm_46.823768_-100.688781@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295019,
+    "wof:geomhash":"61d3b817db8a7dbba8f79daee0b0c2c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873603065
+        }
+    ],
+    "wof:id":873603065,
+    "wof:lastmodified":1464295019,
+    "wof:name":"Bitz Pius",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -100.688781,
+    46.823768,
+    -100.688781,
+    46.823768
+],
+  "geometry": {"coordinates":[-100.68878100000001,46.823768],"type":"Point"}
+}

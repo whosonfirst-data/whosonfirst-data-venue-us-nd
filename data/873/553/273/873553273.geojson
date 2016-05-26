@@ -1,0 +1,77 @@
+{
+  "id": 873553273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.557752,47.233464,-97.557752,47.233464",
+    "geom:latitude":47.233464,
+    "geom:longitude":-97.557752,
+    "iso:country":"US",
+    "sg:address":"1238 139th Ave SE",
+    "sg:city":"Page",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 668 2932",
+    "sg:postcode":"58064",
+    "sg:province":"ND",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KSXI1QSqGAXqB7xxguT67_47.233464_-97.557752@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294415,
+    "wof:geomhash":"2af4e3bf0d99b3879d7701df65e5dbef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873553273
+        }
+    ],
+    "wof:id":873553273,
+    "wof:lastmodified":1464294415,
+    "wof:name":"Allen Langdahl",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -97.557752,
+    47.233464,
+    -97.557752,
+    47.233464
+],
+  "geometry": {"coordinates":[-97.55775199999999,47.233464],"type":"Point"}
+}

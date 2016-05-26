@@ -1,0 +1,88 @@
+{
+  "id": 873804767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.849817,46.83655,-96.849817,46.83655",
+    "geom:latitude":46.83655,
+    "geom:longitude":-96.849817,
+    "iso:country":"US",
+    "sg:address":"4133 30th Ave S #101",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 8346",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "vascular",
+        "medicine",
+        "surgery"
+    ],
+    "sg:website":"http://www.hogueveininstitute.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fkOJu0wuufacNZY6gEj2H_46.836550_-96.849817@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297832,
+    "wof:geomhash":"7ee8491a309b406b17c2670fee785c1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873804767
+        }
+    ],
+    "wof:id":873804767,
+    "wof:lastmodified":1464297832,
+    "wof:name":"Hogue Vein Institute",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "vascular",
+        "medicine",
+        "surgery"
+    ]
+},
+  "bbox": [
+    -96.849817,
+    46.83655,
+    -96.849817,
+    46.83655
+],
+  "geometry": {"coordinates":[-96.849817,46.83655],"type":"Point"}
+}

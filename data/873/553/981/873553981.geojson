@@ -1,0 +1,77 @@
+{
+  "id": 873553981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.827551,46.890526,-96.827551,46.890526",
+    "geom:latitude":46.890526,
+    "geom:longitude":-96.827551,
+    "iso:country":"US",
+    "sg:address":"3131 12th Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 298 3333",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877363,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CCvxhJnKdheUDydd1h7m1_46.890526_-96.827551@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294422,
+    "wof:geomhash":"eb96864f1a0857220f0c4f269b6558d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877363,
+            "region_id":85688525,
+            "venue_id":873553981
+        }
+    ],
+    "wof:id":873553981,
+    "wof:lastmodified":1464294422,
+    "wof:name":"Whale Of A Wash",
+    "wof:parent_id":85877363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -96.827551,
+    46.890526,
+    -96.827551,
+    46.890526
+],
+  "geometry": {"coordinates":[-96.827551,46.890526],"type":"Point"}
+}

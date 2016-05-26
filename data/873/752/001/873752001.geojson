@@ -1,0 +1,78 @@
+{
+  "id": 873752001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.802015,46.831979,-96.802015,46.831979",
+    "geom:latitude":46.831979,
+    "geom:longitude":-96.802015,
+    "iso:country":"US",
+    "sg:address":"3233 15th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 297 9256",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "development",
+        "laboratory"
+    ],
+    "sg:website":"www.aldevron.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534487,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lkSCScXPxIFRpsZgB1EAB_46.831979_-96.802015@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297101,
+    "wof:geomhash":"e595d4e3e2ff02801fcbf9f3c75c29a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534487,
+            "region_id":85688525,
+            "venue_id":873752001
+        }
+    ],
+    "wof:id":873752001,
+    "wof:lastmodified":1464297101,
+    "wof:name":"Aldevron",
+    "wof:parent_id":420534487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -96.802015,
+    46.831979,
+    -96.802015,
+    46.831979
+],
+  "geometry": {"coordinates":[-96.802015,46.831979],"type":"Point"}
+}

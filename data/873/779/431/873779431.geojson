@@ -1,0 +1,73 @@
+{
+  "id": 873779431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.080152,48.089664,-101.080152,48.089664",
+    "geom:latitude":48.089664,
+    "geom:longitude":-101.080152,
+    "iso:country":"US",
+    "sg:address":"14103 139th St SE",
+    "sg:city":"Sawyer",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 624 2019",
+    "sg:postcode":"58781",
+    "sg:province":"ND",
+    "sg:tags":[
+        "trailer",
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ockGZHzF5kipwcWWK9VlG_48.089664_-101.080152@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297482,
+    "wof:geomhash":"4cc49f35e1d147ba89dd0f61431a3997",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873779431
+        }
+    ],
+    "wof:id":873779431,
+    "wof:lastmodified":1464297482,
+    "wof:name":"Central Management",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trailer",
+        "utility"
+    ]
+},
+  "bbox": [
+    -101.080152,
+    48.089664,
+    -101.080152,
+    48.089664
+],
+  "geometry": {"coordinates":[-101.080152,48.089664],"type":"Point"}
+}

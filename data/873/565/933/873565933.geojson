@@ -1,0 +1,73 @@
+{
+  "id": 873565933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.035832,47.88948,-97.035832,47.88948",
+    "geom:latitude":47.88948,
+    "geom:longitude":-97.035832,
+    "iso:country":"US",
+    "sg:address":"530 32nd Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 9342",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "technical",
+        "assistance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Y2HM0fgyzDR3bL76GhN9F_47.889480_-97.035832@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294565,
+    "wof:geomhash":"42dc51118b492b9fc4c1b6b6938dda62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873565933
+        }
+    ],
+    "wof:id":873565933,
+    "wof:lastmodified":1464294565,
+    "wof:name":"Tiegs Computer Services",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "technical",
+        "assistance"
+    ]
+},
+  "bbox": [
+    -97.035832,
+    47.88948,
+    -97.035832,
+    47.88948
+],
+  "geometry": {"coordinates":[-97.035832,47.88948],"type":"Point"}
+}

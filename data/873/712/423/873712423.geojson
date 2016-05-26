@@ -1,0 +1,66 @@
+{
+  "id": 873712423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.789242,46.806344,-100.789242,46.806344",
+    "geom:latitude":46.806344,
+    "geom:longitude":-100.789242,
+    "iso:country":"US",
+    "sg:address":"116 N 2nd St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 221 9500",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zGMRVt3LcitpQ0V5mzotx_46.806344_-100.789242@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296549,
+    "wof:geomhash":"dc4d5b447e00192ff776e382fd0b1360",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873712423
+        }
+    ],
+    "wof:id":873712423,
+    "wof:lastmodified":1464296549,
+    "wof:name":"Suzanne M Schweigert",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.789242,
+    46.806344,
+    -100.789242,
+    46.806344
+],
+  "geometry": {"coordinates":[-100.789242,46.806344],"type":"Point"}
+}

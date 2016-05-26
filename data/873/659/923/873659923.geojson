@@ -1,0 +1,73 @@
+{
+  "id": 873659923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.24428,46.650326,-97.24428,46.650326",
+    "geom:latitude":46.650326,
+    "geom:longitude":-97.24428,
+    "iso:country":"US",
+    "sg:address":"11 4th St S",
+    "sg:city":"Leonard",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 645 9027",
+    "sg:postcode":"58052",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LFEohI8pN6Q831nL9UuxA_46.650326_-97.244280@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295697,
+    "wof:geomhash":"1b5f520ddf2637624b072b1d56afe21d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873659923
+        }
+    ],
+    "wof:id":873659923,
+    "wof:lastmodified":1464295697,
+    "wof:name":"Mike's Auto",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -97.24428,
+    46.650326,
+    -97.24428,
+    46.650326
+],
+  "geometry": {"coordinates":[-97.24428,46.650326],"type":"Point"}
+}

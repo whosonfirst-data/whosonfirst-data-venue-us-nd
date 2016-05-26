@@ -1,0 +1,71 @@
+{
+  "id": 873691849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.762907,46.790704,-100.762907,46.790704",
+    "geom:latitude":46.790704,
+    "geom:longitude":-100.762907,
+    "iso:country":"US",
+    "sg:address":"1201 Airport Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 9700",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "sprinkler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KT4aKGm56xw05JNWhG3vz_46.790704_-100.762907@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296314,
+    "wof:geomhash":"b0b5c807c95b67eb60ffb02827604470",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873691849
+        }
+    ],
+    "wof:id":873691849,
+    "wof:lastmodified":1464296314,
+    "wof:name":"Northern Water Works Supply",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sprinkler"
+    ]
+},
+  "bbox": [
+    -100.762907,
+    46.790704,
+    -100.762907,
+    46.790704
+],
+  "geometry": {"coordinates":[-100.762907,46.790704],"type":"Point"}
+}

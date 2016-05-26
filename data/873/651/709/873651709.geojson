@@ -1,0 +1,71 @@
+{
+  "id": 873651709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.031572,47.925715,-97.031572,47.925715",
+    "geom:latitude":47.925715,
+    "geom:longitude":-97.031572,
+    "iso:country":"US",
+    "sg:address":"23 N 3rd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 5480",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dDjsvyi2rTBZ3MeL4K6gk_47.925715_-97.031572@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295610,
+    "wof:geomhash":"39eb63f7073d8bfa892ed09624f8d5bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873651709
+        }
+    ],
+    "wof:id":873651709,
+    "wof:lastmodified":1464295610,
+    "wof:name":"Garsten-Perennial Management",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -97.031572,
+    47.925715,
+    -97.031572,
+    47.925715
+],
+  "geometry": {"coordinates":[-97.031572,47.925715],"type":"Point"}
+}

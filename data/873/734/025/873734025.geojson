@@ -1,0 +1,73 @@
+{
+  "id": 873734025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.815985,46.763277,-100.815985,46.763277",
+    "geom:latitude":46.763277,
+    "geom:longitude":-100.815985,
+    "iso:country":"US",
+    "sg:address":"3710 England St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 1951",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Fk14yOGDcGeJ3hKwY98O0_46.763277_-100.815985@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296832,
+    "wof:geomhash":"b20ff2d90b30f80dd1f652adfb866f43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873734025
+        }
+    ],
+    "wof:id":873734025,
+    "wof:lastmodified":1464296832,
+    "wof:name":"Nelson Builders",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -100.815985,
+    46.763277,
+    -100.815985,
+    46.763277
+],
+  "geometry": {"coordinates":[-100.815985,46.763277],"type":"Point"}
+}

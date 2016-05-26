@@ -1,0 +1,66 @@
+{
+  "id": 873592469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.288951,46.831522,-100.288951,46.831522",
+    "geom:latitude":46.831522,
+    "geom:longitude":-100.288951,
+    "iso:country":"US",
+    "sg:address":"31350 27th Ave NE",
+    "sg:city":"Sterling",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 387 4343",
+    "sg:postcode":"58572",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YOqn9RerURuj0AzP2Dp9c_46.831522_-100.288951@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294863,
+    "wof:geomhash":"74498648bb800324966f5b16e7ca9b04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873592469
+        }
+    ],
+    "wof:id":873592469,
+    "wof:lastmodified":1464294863,
+    "wof:name":"Darnell's",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.288951,
+    46.831522,
+    -100.288951,
+    46.831522
+],
+  "geometry": {"coordinates":[-100.288951,46.831522],"type":"Point"}
+}

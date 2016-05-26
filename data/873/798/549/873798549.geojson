@@ -1,0 +1,82 @@
+{
+  "id": 873798549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.29878,48.210665,-101.29878,48.210665",
+    "geom:latitude":48.210665,
+    "geom:longitude":-101.29878,
+    "iso:country":"US",
+    "sg:address":"405 20th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/minot/102142-perkins-restaurant--bakery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 2020",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pastry",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kUD3ebwFzAANt8IZhBlMH_48.210665_-101.298780@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297757,
+    "wof:geomhash":"38f1f08fa5b1fa66a0beb5abc3ad5b96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873798549
+        }
+    ],
+    "wof:id":873798549,
+    "wof:lastmodified":1464297757,
+    "wof:name":"Perkins Restaurant & Bakery",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pastry",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -101.29878,
+    48.210665,
+    -101.29878,
+    48.210665
+],
+  "geometry": {"coordinates":[-101.29877999999999,48.210665],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 873727435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.801268,46.863164,-96.801268,46.863164",
+    "geom:latitude":46.863164,
+    "geom:longitude":-96.801268,
+    "iso:country":"US",
+    "sg:address":"1101 14th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 6160",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534479,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MiEFYICg9eMjcqTfN4tRu_46.863164_-96.801268@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296746,
+    "wof:geomhash":"3714f2db7ec1fa7f1baf8ba5763b80f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534479,
+            "region_id":85688525,
+            "venue_id":873727435
+        }
+    ],
+    "wof:id":873727435,
+    "wof:lastmodified":1464296746,
+    "wof:name":"Autism Cmnty of Upper Mid W",
+    "wof:parent_id":420534479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.801268,
+    46.863164,
+    -96.801268,
+    46.863164
+],
+  "geometry": {"coordinates":[-96.80126799999999,46.863164],"type":"Point"}
+}

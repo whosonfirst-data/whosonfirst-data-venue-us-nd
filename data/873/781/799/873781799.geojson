@@ -1,0 +1,66 @@
+{
+  "id": 873781799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.043431,47.895727,-97.043431,47.895727",
+    "geom:latitude":47.895727,
+    "geom:longitude":-97.043431,
+    "iso:country":"US",
+    "sg:address":"1117 25th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 885 5557",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lwJcekLQ5gSjoYcgxTqHS_47.895727_-97.043431@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297515,
+    "wof:geomhash":"86130e7daa913d71683dbc1c11361d05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873781799
+        }
+    ],
+    "wof:id":873781799,
+    "wof:lastmodified":1464297515,
+    "wof:name":"Green Horizons",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.043431,
+    47.895727,
+    -97.043431,
+    47.895727
+],
+  "geometry": {"coordinates":[-97.043431,47.895727],"type":"Point"}
+}

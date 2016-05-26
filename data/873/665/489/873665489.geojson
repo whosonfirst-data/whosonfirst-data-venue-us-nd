@@ -1,0 +1,77 @@
+{
+  "id": 873665489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.884281,46.87385,-96.884281,46.87385",
+    "geom:latitude":46.87385,
+    "geom:longitude":-96.884281,
+    "iso:country":"US",
+    "sg:address":"244 Co Rd 10",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 0567",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0v5oF79p6JxCr9BweoSgrl_46.873850_-96.884281@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295755,
+    "wof:geomhash":"aa1f9694a2a2cc39194384265ad79493",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873665489
+        }
+    ],
+    "wof:id":873665489,
+    "wof:lastmodified":1464295755,
+    "wof:name":"RC Properties",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -96.884281,
+    46.87385,
+    -96.884281,
+    46.87385
+],
+  "geometry": {"coordinates":[-96.884281,46.87385],"type":"Point"}
+}

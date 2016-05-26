@@ -1,0 +1,70 @@
+{
+  "id": 873652961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.831573,46.855543,-96.831573,46.855543",
+    "geom:latitude":46.855543,
+    "geom:longitude":-96.831573,
+    "iso:country":"US",
+    "sg:address":"3202 16th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 3336",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27gAHYrnowINalekydbsji_46.855543_-96.831573@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295624,
+    "wof:geomhash":"8a091dbf6f02fab329f8a00fb417d11c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873652961
+        }
+    ],
+    "wof:id":873652961,
+    "wof:lastmodified":1464295624,
+    "wof:name":"Landmark Realty Inc",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.831573,
+    46.855543,
+    -96.831573,
+    46.855543
+],
+  "geometry": {"coordinates":[-96.83157300000001,46.855543],"type":"Point"}
+}

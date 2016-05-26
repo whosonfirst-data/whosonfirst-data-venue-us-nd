@@ -1,0 +1,81 @@
+{
+  "id": 873607085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.821843,46.875926,-96.821843,46.875926",
+    "geom:latitude":46.875926,
+    "geom:longitude":-96.821843,
+    "iso:country":"US",
+    "sg:address":"2714 Main Ave",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 0993",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "designer",
+        "dealer",
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CrvPv5upOd4GoLl7yUrQa_46.875926_-96.821843@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295079,
+    "wof:geomhash":"9b1f8ffd39d69e9da461e9fc68ec4246",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873607085
+        }
+    ],
+    "wof:id":873607085,
+    "wof:lastmodified":1464295079,
+    "wof:name":"Tubs Of Fun Family Recreation",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "designer",
+        "dealer",
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -96.821843,
+    46.875926,
+    -96.821843,
+    46.875926
+],
+  "geometry": {"coordinates":[-96.821843,46.875926],"type":"Point"}
+}

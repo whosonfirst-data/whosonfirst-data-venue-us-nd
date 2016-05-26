@@ -1,0 +1,66 @@
+{
+  "id": 873656067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.027227,47.909713,-97.027227,47.909713",
+    "geom:latitude":47.909713,
+    "geom:longitude":-97.027227,
+    "iso:country":"US",
+    "sg:address":"1125 Reeves Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 6116",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LfwDPPrDjiz74gJ9JW9uT_47.909713_-97.027227@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295657,
+    "wof:geomhash":"1b67a51715d862ce0644222877983c2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873656067
+        }
+    ],
+    "wof:id":873656067,
+    "wof:lastmodified":1464295657,
+    "wof:name":"Alto Technologies",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.027227,
+    47.909713,
+    -97.027227,
+    47.909713
+],
+  "geometry": {"coordinates":[-97.027227,47.909713],"type":"Point"}
+}

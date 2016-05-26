@@ -1,0 +1,73 @@
+{
+  "id": 873721973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.6675,47.696265,-97.6675,47.696265",
+    "geom:latitude":47.696265,
+    "geom:longitude":-97.6675,
+    "iso:country":"US",
+    "sg:address":"173 39th St NE",
+    "sg:city":"Northwood",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 587 6041",
+    "sg:postcode":"58267",
+    "sg:province":"ND",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lDK0l8VF1Ot1R9eTsAb1h_47.696265_-97.667500@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296674,
+    "wof:geomhash":"8947ccf278c8afaf9f912f542e6f0880",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873721973
+        }
+    ],
+    "wof:id":873721973,
+    "wof:lastmodified":1464296674,
+    "wof:name":"Arnold Ellingso",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -97.6675,
+    47.696265,
+    -97.6675,
+    47.696265
+],
+  "geometry": {"coordinates":[-97.6675,47.696265],"type":"Point"}
+}

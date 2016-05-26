@@ -1,0 +1,77 @@
+{
+  "id": 873770387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.297633,48.210586,-101.297633,48.210586",
+    "geom:latitude":48.210586,
+    "geom:longitude":-101.297633,
+    "iso:country":"US",
+    "sg:address":"305 20th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 3333",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "club",
+        "health",
+        "studio",
+        "gymnasium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IIEMVX05mbnTvWKSFbv1g_48.210586_-101.297633@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297370,
+    "wof:geomhash":"065eabb0c105090186f1f75d2582bf59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873770387
+        }
+    ],
+    "wof:id":873770387,
+    "wof:lastmodified":1464297370,
+    "wof:name":"Anytime Fitness",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "health",
+        "studio",
+        "gymnasium"
+    ]
+},
+  "bbox": [
+    -101.297633,
+    48.210586,
+    -101.297633,
+    48.210586
+],
+  "geometry": {"coordinates":[-101.297633,48.210586],"type":"Point"}
+}

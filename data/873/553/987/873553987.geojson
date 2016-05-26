@@ -1,0 +1,66 @@
+{
+  "id": 873553987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.331208,48.241557,-101.331208,48.241557",
+    "geom:latitude":48.241557,
+    "geom:longitude":-101.331208,
+    "iso:country":"US",
+    "sg:address":"412 26th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 0260",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Z3Z6dAjV5OPGBt719ZgEt_48.241557_-101.331208@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294422,
+    "wof:geomhash":"b5c9fa4ace2c599a624661acb4f4424c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873553987
+        }
+    ],
+    "wof:id":873553987,
+    "wof:lastmodified":1464294422,
+    "wof:name":"A Child's 2nd Home",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.331208,
+    48.241557,
+    -101.331208,
+    48.241557
+],
+  "geometry": {"coordinates":[-101.331208,48.241557],"type":"Point"}
+}

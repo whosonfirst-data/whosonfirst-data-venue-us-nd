@@ -1,0 +1,71 @@
+{
+  "id": 873702559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.407673,48.291122,-101.407673,48.291122",
+    "geom:latitude":48.291122,
+    "geom:longitude":-101.407673,
+    "iso:country":"US",
+    "sg:address":"5701 74th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 6628",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lmYtKRPLd8wOFqbuX2eFP_48.291122_-101.407673@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296431,
+    "wof:geomhash":"7e7bb6ef6fa0211b5bc7ad185f60166f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873702559
+        }
+    ],
+    "wof:id":873702559,
+    "wof:lastmodified":1464296431,
+    "wof:name":"L&B Lucky Strike Restaurant",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -101.407673,
+    48.291122,
+    -101.407673,
+    48.291122
+],
+  "geometry": {"coordinates":[-101.407673,48.291122],"type":"Point"}
+}

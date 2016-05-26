@@ -1,0 +1,76 @@
+{
+  "id": 873756059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.901803,46.876839,-96.901803,46.876839",
+    "geom:latitude":46.876839,
+    "geom:longitude":-96.901803,
+    "iso:country":"US",
+    "sg:address":"205 Main Ave W",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 6570",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "sg:tags":[
+        "commercial"
+    ],
+    "sg:website":"www.officeinteriors.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wwSTsXfAHPHCvnuClyJH3_46.876839_-96.901803@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297157,
+    "wof:geomhash":"028b8683a5ba354ee9deaadafc3a80c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873756059
+        }
+    ],
+    "wof:id":873756059,
+    "wof:lastmodified":1464297157,
+    "wof:name":"Office Interiors Printing",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial"
+    ]
+},
+  "bbox": [
+    -96.901803,
+    46.876839,
+    -96.901803,
+    46.876839
+],
+  "geometry": {"coordinates":[-96.901803,46.876839],"type":"Point"}
+}

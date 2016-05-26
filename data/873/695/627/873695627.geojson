@@ -1,0 +1,73 @@
+{
+  "id": 873695627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.002307,47.854605,-97.002307,47.854605",
+    "geom:latitude":47.854605,
+    "geom:longitude":-97.002307,
+    "iso:country":"US",
+    "sg:address":"6828 16th St SE",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 6400",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "construction",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TBo2Tx6uYVIf1JWqYMKJs_47.854605_-97.002307@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296362,
+    "wof:geomhash":"5141e2a7a97ea4be34931c9ee48a72bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873695627
+        }
+    ],
+    "wof:id":873695627,
+    "wof:lastmodified":1464296362,
+    "wof:name":"Joe Carlson Builders LLP",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "construction",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -97.002307,
+    47.854605,
+    -97.002307,
+    47.854605
+],
+  "geometry": {"coordinates":[-97.002307,47.854605],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873730663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.306732,48.220169,-101.306732,48.220169",
+    "geom:latitude":48.220169,
+    "geom:longitude":-101.306732,
+    "iso:country":"US",
+    "sg:address":"1410 10th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 0271",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MSZ1vu8xhYKaGL362RLhb_48.220169_-101.306732@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296787,
+    "wof:geomhash":"3fc155d0f5344a5eb3fa0dca4ba28e87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873730663
+        }
+    ],
+    "wof:id":873730663,
+    "wof:lastmodified":1464296787,
+    "wof:name":"Pioneer Mutual Life Insurance",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.306732,
+    48.220169,
+    -101.306732,
+    48.220169
+],
+  "geometry": {"coordinates":[-101.306732,48.220169],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 873718885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.846172,46.871701,-96.846172,46.871701",
+    "geom:latitude":46.871701,
+    "geom:longitude":-96.846172,
+    "iso:country":"US",
+    "sg:address":"4025 4th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 4477",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "truss"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6i40Os7Bx2we1lxdOhVBUz_46.871701_-96.846172@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296631,
+    "wof:geomhash":"67592949d75e52e4f5a86bb77495d66f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873718885
+        }
+    ],
+    "wof:id":873718885,
+    "wof:lastmodified":1464296631,
+    "wof:name":"Northland Truss Systems Inc",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truss"
+    ]
+},
+  "bbox": [
+    -96.846172,
+    46.871701,
+    -96.846172,
+    46.871701
+],
+  "geometry": {"coordinates":[-96.846172,46.871701],"type":"Point"}
+}

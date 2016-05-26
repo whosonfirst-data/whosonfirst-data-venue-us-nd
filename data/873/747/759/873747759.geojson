@@ -1,0 +1,66 @@
+{
+  "id": 873747759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.082298,47.92577,-97.082298,47.92577",
+    "geom:latitude":47.92577,
+    "geom:longitude":-97.082298,
+    "iso:country":"US",
+    "sg:address":"3600 6th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 2433",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52LjgNwC5AMt2B3Kdufepy_47.925770_-97.082298@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297047,
+    "wof:geomhash":"1ba6873c80779480c0a858961ad080fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873747759
+        }
+    ],
+    "wof:id":873747759,
+    "wof:lastmodified":1464297047,
+    "wof:name":"Head Start",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.082298,
+    47.92577,
+    -97.082298,
+    47.92577
+],
+  "geometry": {"coordinates":[-97.08229799999999,47.92577],"type":"Point"}
+}

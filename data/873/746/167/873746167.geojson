@@ -1,0 +1,73 @@
+{
+  "id": 873746167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.687698,46.761988,-100.687698,46.761988",
+    "geom:latitude":46.761988,
+    "geom:longitude":-100.687698,
+    "iso:country":"US",
+    "sg:address":"103 Roadrunner Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 2485",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "painter",
+        "hanging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_243lhSi7OOnpttMQQT3p5w_46.761988_-100.687698@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297028,
+    "wof:geomhash":"025c9e577bb91350a78ab60aa560d641",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873746167
+        }
+    ],
+    "wof:id":873746167,
+    "wof:lastmodified":1464297028,
+    "wof:name":"Twin City Finishes",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter",
+        "hanging"
+    ]
+},
+  "bbox": [
+    -100.687698,
+    46.761988,
+    -100.687698,
+    46.761988
+],
+  "geometry": {"coordinates":[-100.687698,46.761988],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873575295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.364811,48.283604,-101.364811,48.283604",
+    "geom:latitude":48.283604,
+    "geom:longitude":-101.364811,
+    "iso:country":"US",
+    "sg:address":"4700 46th Ave NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 1182",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "garbage",
+        "collection",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VtnjuTUIgq3R89WhsK986_48.283604_-101.364811@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294667,
+    "wof:geomhash":"8021eabc9c23295072562c977daceccf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873575295
+        }
+    ],
+    "wof:id":873575295,
+    "wof:lastmodified":1464294667,
+    "wof:name":"Circle Sanitation Inc",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection",
+        "system"
+    ]
+},
+  "bbox": [
+    -101.364811,
+    48.283604,
+    -101.364811,
+    48.283604
+],
+  "geometry": {"coordinates":[-101.364811,48.283604],"type":"Point"}
+}

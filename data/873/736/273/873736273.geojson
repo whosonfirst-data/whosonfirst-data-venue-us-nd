@@ -1,0 +1,71 @@
+{
+  "id": 873736273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.296883,48.218387,-101.296883,48.218387",
+    "geom:latitude":48.218387,
+    "geom:longitude":-101.296883,
+    "iso:country":"US",
+    "sg:address":"310 16th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 5142",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "entertainer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QyFvrAyoXVXBiIZjCAsJD_48.218387_-101.296883@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296874,
+    "wof:geomhash":"ac6528573f95b4891c4bd844a98e758a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873736273
+        }
+    ],
+    "wof:id":873736273,
+    "wof:lastmodified":1464296874,
+    "wof:name":"Magic Touch Entertainment",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "entertainer"
+    ]
+},
+  "bbox": [
+    -101.296883,
+    48.218387,
+    -101.296883,
+    48.218387
+],
+  "geometry": {"coordinates":[-101.29688299999999,48.218387],"type":"Point"}
+}

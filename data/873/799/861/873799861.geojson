@@ -1,0 +1,76 @@
+{
+  "id": 873799861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.015331,46.647521,-97.015331,46.647521",
+    "geom:latitude":46.647521,
+    "geom:longitude":-97.015331,
+    "iso:country":"US",
+    "sg:address":"271 Linden St",
+    "sg:city":"Kindred",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 428 3624",
+    "sg:postcode":"58051",
+    "sg:province":"ND",
+    "sg:tags":[
+        "churches-methodist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LmXonvoOrrJgUBI5GN2SH_46.647521_-97.015331@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297772,
+    "wof:geomhash":"bed001c24c5b44cada9c30a42d78e40f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873799861
+        }
+    ],
+    "wof:id":873799861,
+    "wof:lastmodified":1464297772,
+    "wof:name":"Kindred United Methdst Parish",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-methodist"
+    ]
+},
+  "bbox": [
+    -97.015331,
+    46.647521,
+    -97.015331,
+    46.647521
+],
+  "geometry": {"coordinates":[-97.015331,46.647521],"type":"Point"}
+}

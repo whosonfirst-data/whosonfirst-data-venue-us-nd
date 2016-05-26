@@ -1,0 +1,71 @@
+{
+  "id": 873553907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.281722,48.245231,-101.281722,48.245231",
+    "geom:latitude":48.245231,
+    "geom:longitude":-101.281722,
+    "iso:country":"US",
+    "sg:address":"801 9th Ave NE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 2502",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "dressmaker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XnjoXMMxQB29su1xkaGqn_48.245231_-101.281722@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294421,
+    "wof:geomhash":"063fd66c8f78c1d5c3f04cc78048af4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873553907
+        }
+    ],
+    "wof:id":873553907,
+    "wof:lastmodified":1464294421,
+    "wof:name":"Barbie Jo Seamstress",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dressmaker"
+    ]
+},
+  "bbox": [
+    -101.281722,
+    48.245231,
+    -101.281722,
+    48.245231
+],
+  "geometry": {"coordinates":[-101.281722,48.245231],"type":"Point"}
+}

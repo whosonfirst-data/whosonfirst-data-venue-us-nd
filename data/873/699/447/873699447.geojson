@@ -1,0 +1,66 @@
+{
+  "id": 873699447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.069978,47.906128,-97.069978,47.906128",
+    "geom:latitude":47.906128,
+    "geom:longitude":-97.069978,
+    "iso:country":"US",
+    "sg:address":"2811 Knight Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 7328",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CfnUDoYIx8CBfAzLiirLZ_47.906128_-97.069978@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296399,
+    "wof:geomhash":"bfe73dd58291e8e5ba8dda818b369b11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873699447
+        }
+    ],
+    "wof:id":873699447,
+    "wof:lastmodified":1464296399,
+    "wof:name":"Brendle Agency",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.069978,
+    47.906128,
+    -97.069978,
+    47.906128
+],
+  "geometry": {"coordinates":[-97.06997800000001,47.906128],"type":"Point"}
+}

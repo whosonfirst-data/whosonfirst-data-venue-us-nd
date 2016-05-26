@@ -1,0 +1,78 @@
+{
+  "id": 873727701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.819707,46.843777,-96.819707,46.843777",
+    "geom:latitude":46.843777,
+    "geom:longitude":-96.819707,
+    "iso:country":"US",
+    "sg:address":"2345 25th St SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 9829",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.retina-consultants.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534475,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rddrXV81wpmcVoIyyhrzc_46.843777_-96.819707@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296750,
+    "wof:geomhash":"3d1fd4211d88eedef5c353f0be6ac733",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534475,
+            "region_id":85688525,
+            "venue_id":873727701
+        }
+    ],
+    "wof:id":873727701,
+    "wof:lastmodified":1464296750,
+    "wof:name":"Retina Consultants LTD",
+    "wof:parent_id":420534475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -96.819707,
+    46.843777,
+    -96.819707,
+    46.843777
+],
+  "geometry": {"coordinates":[-96.81970699999999,46.843777],"type":"Point"}
+}

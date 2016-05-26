@@ -1,0 +1,74 @@
+{
+  "id": 873799323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.306746,48.208003,-101.306746,48.208003",
+    "geom:latitude":48.208003,
+    "geom:longitude":-101.306746,
+    "iso:country":"US",
+    "sg:address":"2400 10th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/minot/158914-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 7313",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1M0YxgA0x43E6XBO3JYzwu_48.207528_-101.306607@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297765,
+    "wof:geomhash":"55206640923d88c8bcc30006baa64e79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873799323
+        }
+    ],
+    "wof:id":873799323,
+    "wof:lastmodified":1464297765,
+    "wof:name":"Arby's",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -101.306746,
+    48.208003,
+    -101.306746,
+    48.208003
+],
+  "geometry": {"coordinates":[-101.306746,48.208003],"type":"Point"}
+}

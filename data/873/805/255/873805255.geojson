@@ -1,0 +1,76 @@
+{
+  "id": 873805255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.845167,46.822397,-96.845167,46.822397",
+    "geom:latitude":46.822397,
+    "geom:longitude":-96.845167,
+    "iso:country":"US",
+    "sg:address":"3931 37th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 4900",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "store"
+    ],
+    "sg:website":"http://www.solidcomfort.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877355,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31Hv0Q1D6Wy1hfXbrNEgyu_46.822397_-96.845167@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297838,
+    "wof:geomhash":"1a951061853e3e3fc5bcbbbf63af0536",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877355,
+            "region_id":85688525,
+            "venue_id":873805255
+        }
+    ],
+    "wof:id":873805255,
+    "wof:lastmodified":1464297838,
+    "wof:name":"Solid Comfort Furniture",
+    "wof:parent_id":85877355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -96.845167,
+    46.822397,
+    -96.845167,
+    46.822397
+],
+  "geometry": {"coordinates":[-96.845167,46.822397],"type":"Point"}
+}

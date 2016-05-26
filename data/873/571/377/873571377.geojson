@@ -1,0 +1,75 @@
+{
+  "id": 873571377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.055657,47.940678,-97.055657,47.940678",
+    "geom:latitude":47.940678,
+    "geom:longitude":-97.055657,
+    "iso:country":"US",
+    "sg:address":"2104 Mill Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 3477",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "electric",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qWB9mFuF7VMWBTYU4voXy_47.940678_-97.055657@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294624,
+    "wof:geomhash":"b0ff0d647a9c0ed83e084f8c5d1fd43b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873571377
+        }
+    ],
+    "wof:id":873571377,
+    "wof:lastmodified":1464294624,
+    "wof:name":"Border States Electric Supl Co",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "electric",
+        "supply"
+    ]
+},
+  "bbox": [
+    -97.055657,
+    47.940678,
+    -97.055657,
+    47.940678
+],
+  "geometry": {"coordinates":[-97.055657,47.940678],"type":"Point"}
+}

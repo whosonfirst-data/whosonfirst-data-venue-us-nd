@@ -1,0 +1,66 @@
+{
+  "id": 873765185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.031702,47.925825,-97.031702,47.925825",
+    "geom:latitude":47.925825,
+    "geom:longitude":-97.031702,
+    "iso:country":"US",
+    "sg:address":"7 N 3rd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 5503",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EvUfGRn3d6zlt0U9wzQbh_47.925825_-97.031702@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297299,
+    "wof:geomhash":"104043657a43046d56501ab7a5abe170",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873765185
+        }
+    ],
+    "wof:id":873765185,
+    "wof:lastmodified":1464297299,
+    "wof:name":"Business Essentials",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.031702,
+    47.925825,
+    -97.031702,
+    47.925825
+],
+  "geometry": {"coordinates":[-97.031702,47.925825],"type":"Point"}
+}

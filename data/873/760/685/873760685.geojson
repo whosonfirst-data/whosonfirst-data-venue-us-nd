@@ -1,0 +1,66 @@
+{
+  "id": 873760685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.429879,48.274314,-101.429879,48.274314",
+    "geom:latitude":48.274314,
+    "geom:longitude":-101.429879,
+    "iso:country":"US",
+    "sg:address":"19 Colton Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 3561",
+    "sg:postcode":"58722",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zJkgVRAOfmeGflajJ8gJo_48.274314_-101.429879@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297216,
+    "wof:geomhash":"4b1418dbd61fbc91fdc4e68fac2f35bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873760685
+        }
+    ],
+    "wof:id":873760685,
+    "wof:lastmodified":1464297216,
+    "wof:name":"Burlington Senior Center",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.429879,
+    48.274314,
+    -101.429879,
+    48.274314
+],
+  "geometry": {"coordinates":[-101.429879,48.274314],"type":"Point"}
+}

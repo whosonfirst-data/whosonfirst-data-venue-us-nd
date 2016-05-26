@@ -1,0 +1,78 @@
+{
+  "id": 873803143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.821931,46.86343,-96.821931,46.86343",
+    "geom:latitude":46.86343,
+    "geom:longitude":-96.821931,
+    "iso:country":"US",
+    "sg:address":"1202 27th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 239 8800",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "commercial",
+        "business"
+    ],
+    "sg:website":"http://www.statefarm.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cP340F0PlV9wvvoR4pfOr_46.863430_-96.821931@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297811,
+    "wof:geomhash":"ad5c1567d593b60cdf563f317d6b3fd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873803143
+        }
+    ],
+    "wof:id":873803143,
+    "wof:lastmodified":1464297811,
+    "wof:name":"State Farm Insurance",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "business"
+    ]
+},
+  "bbox": [
+    -96.821931,
+    46.86343,
+    -96.821931,
+    46.86343
+],
+  "geometry": {"coordinates":[-96.82193100000001,46.86343],"type":"Point"}
+}

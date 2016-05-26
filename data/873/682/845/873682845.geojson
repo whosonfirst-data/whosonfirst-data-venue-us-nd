@@ -1,0 +1,73 @@
+{
+  "id": 873682845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.062321,47.911307,-97.062321,47.911307",
+    "geom:latitude":47.911307,
+    "geom:longitude":-97.062321,
+    "iso:country":"US",
+    "sg:address":"2210 11th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 5193",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "investment",
+        "closed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47MIwYyoQcwfi6iWGczdjb_47.911307_-97.062321@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296076,
+    "wof:geomhash":"553b20e2795cd75a09ac56ff1e741ab2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873682845
+        }
+    ],
+    "wof:id":873682845,
+    "wof:lastmodified":1464296076,
+    "wof:name":"Alvis B Amble",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investment",
+        "closed"
+    ]
+},
+  "bbox": [
+    -97.062321,
+    47.911307,
+    -97.062321,
+    47.911307
+],
+  "geometry": {"coordinates":[-97.062321,47.911307],"type":"Point"}
+}

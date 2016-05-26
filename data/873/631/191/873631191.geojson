@@ -1,0 +1,73 @@
+{
+  "id": 873631191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.044905,47.925159,-97.044905,47.925159",
+    "geom:latitude":47.925159,
+    "geom:longitude":-97.044905,
+    "iso:country":"US",
+    "sg:address":"510 N Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 738 0013",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iIBfmnHQkoZ8wUVjsLSvE_47.925159_-97.044905@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295376,
+    "wof:geomhash":"8cfec3587248188dfede99a195e64109",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873631191
+        }
+    ],
+    "wof:id":873631191,
+    "wof:lastmodified":1464295376,
+    "wof:name":"American Dream Mortgage",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -97.044905,
+    47.925159,
+    -97.044905,
+    47.925159
+],
+  "geometry": {"coordinates":[-97.044905,47.925159],"type":"Point"}
+}

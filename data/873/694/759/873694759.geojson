@@ -1,0 +1,73 @@
+{
+  "id": 873694759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.03162,47.925952,-97.03162,47.925952",
+    "geom:latitude":47.925952,
+    "geom:longitude":-97.03162,
+    "iso:country":"US",
+    "sg:address":"6 N 3rd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 6649",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "instruction",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rPIdSZgMYn5YyUUg6eTEZ_47.925952_-97.031620@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296347,
+    "wof:geomhash":"ae48a87b0b1c759d1d028d03d9736b91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873694759
+        }
+    ],
+    "wof:id":873694759,
+    "wof:lastmodified":1464296347,
+    "wof:name":"Scott's Music Stores Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "music"
+    ]
+},
+  "bbox": [
+    -97.03162,
+    47.925952,
+    -97.03162,
+    47.925952
+],
+  "geometry": {"coordinates":[-97.03162,47.925952],"type":"Point"}
+}

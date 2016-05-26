@@ -1,0 +1,85 @@
+{
+  "id": 873804269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.85939,46.850948,-96.85939,46.850948",
+    "geom:latitude":46.850948,
+    "geom:longitude":-96.85939,
+    "iso:country":"US",
+    "sg:address":"1900 44th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 9494",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "financing",
+        "loan",
+        "plan"
+    ],
+    "sg:website":"http://www.farmcredit.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3M0WLpm8RmPjMRusDLkOEC_46.850948_-96.859390@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297826,
+    "wof:geomhash":"f54572e83dde0bbce58b7bc27dd2cf00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873804269
+        }
+    ],
+    "wof:id":873804269,
+    "wof:lastmodified":1464297826,
+    "wof:name":"Farm Credit Services",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "financing",
+        "loan",
+        "plan"
+    ]
+},
+  "bbox": [
+    -96.85939,
+    46.850948,
+    -96.85939,
+    46.850948
+],
+  "geometry": {"coordinates":[-96.85939,46.850948],"type":"Point"}
+}

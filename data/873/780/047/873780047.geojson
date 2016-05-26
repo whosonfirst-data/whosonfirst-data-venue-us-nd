@@ -1,0 +1,79 @@
+{
+  "id": 873780047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.017346,46.964081,-97.017346,46.964081",
+    "geom:latitude":46.964081,
+    "geom:longitude":-97.017346,
+    "iso:country":"US",
+    "sg:address":"102 Prosper Main St",
+    "sg:city":"Harwood",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 5726",
+    "sg:postcode":"58042",
+    "sg:province":"ND",
+    "sg:tags":[
+        "truck",
+        "trailer",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_042nBmVyivDIBAtJeWwVLH_46.964081_-97.017346@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297493,
+    "wof:geomhash":"dec8bf8088670f94118821dd4a3f3acd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873780047
+        }
+    ],
+    "wof:id":873780047,
+    "wof:lastmodified":1464297493,
+    "wof:name":"Prosper Manufacturing",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "trailer",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -97.017346,
+    46.964081,
+    -97.017346,
+    46.964081
+],
+  "geometry": {"coordinates":[-97.017346,46.964081],"type":"Point"}
+}

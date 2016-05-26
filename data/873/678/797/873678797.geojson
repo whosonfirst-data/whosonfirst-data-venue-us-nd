@@ -1,0 +1,71 @@
+{
+  "id": 873678797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.263719,48.231507,-101.263719,48.231507",
+    "geom:latitude":48.231507,
+    "geom:longitude":-101.263719,
+    "iso:country":"US",
+    "sg:address":"2030 Burdick Expy E",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 3291",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wUAyxrPjsoY2pSDSoZ1h7_48.231507_-101.263719@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295961,
+    "wof:geomhash":"e889321b1fab26ed30265edda31402c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873678797
+        }
+    ],
+    "wof:id":873678797,
+    "wof:lastmodified":1464295961,
+    "wof:name":"Capri Bar",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -101.263719,
+    48.231507,
+    -101.263719,
+    48.231507
+],
+  "geometry": {"coordinates":[-101.26371899999999,48.231507],"type":"Point"}
+}

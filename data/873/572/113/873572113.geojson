@@ -1,0 +1,71 @@
+{
+  "id": 873572113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.905487,46.773325,-96.905487,46.773325",
+    "geom:latitude":46.773325,
+    "geom:longitude":-96.905487,
+    "iso:country":"US",
+    "sg:address":"7725 70th St S",
+    "sg:city":"Horace",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 7747",
+    "sg:postcode":"58047",
+    "sg:province":"ND",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5d1uTMaIkqW53YFOBGHR8s_46.773325_-96.905487@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294632,
+    "wof:geomhash":"d0d49560324876e08cef3ba73aaee696",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873572113
+        }
+    ],
+    "wof:id":873572113,
+    "wof:lastmodified":1464294632,
+    "wof:name":"Dj Selland Consulting Services",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -96.905487,
+    46.773325,
+    -96.905487,
+    46.773325
+],
+  "geometry": {"coordinates":[-96.90548699999999,46.773325],"type":"Point"}
+}

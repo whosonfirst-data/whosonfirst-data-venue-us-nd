@@ -1,0 +1,75 @@
+{
+  "id": 873541253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.827889,46.886614,-96.827889,46.886614",
+    "geom:latitude":46.886614,
+    "geom:longitude":-96.827889,
+    "iso:country":"US",
+    "sg:address":"3010 10th Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 5172",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ig2VX2oxd2dTQ4tBuUhDi_46.886614_-96.827889@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294272,
+    "wof:geomhash":"a47f393b8a88d4d8b6ad7ee2291b5b90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873541253
+        }
+    ],
+    "wof:id":873541253,
+    "wof:lastmodified":1464294272,
+    "wof:name":"Church of God Seventh Day",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -96.827889,
+    46.886614,
+    -96.827889,
+    46.886614
+],
+  "geometry": {"coordinates":[-96.827889,46.886614],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873785105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.136629,46.850889,-100.136629,46.850889",
+    "geom:latitude":46.850889,
+    "geom:longitude":-100.136629,
+    "iso:country":"US",
+    "sg:address":"40802 Co Hwy 10",
+    "sg:city":"Driscoll",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 387 4313",
+    "sg:postcode":"58532",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "grain",
+        "cash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kciC1oG17RV2fsdUygG4z_46.850889_-100.136629@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297557,
+    "wof:geomhash":"aa300793743bfa8e7b9b7b6d775f7841",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873785105
+        }
+    ],
+    "wof:id":873785105,
+    "wof:lastmodified":1464297557,
+    "wof:name":"Richard A Harpole",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "grain",
+        "cash"
+    ]
+},
+  "bbox": [
+    -100.136629,
+    46.850889,
+    -100.136629,
+    46.850889
+],
+  "geometry": {"coordinates":[-100.136629,46.850889],"type":"Point"}
+}

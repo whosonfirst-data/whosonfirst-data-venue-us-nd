@@ -1,0 +1,71 @@
+{
+  "id": 873663257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.805618,46.805847,-100.805618,46.805847",
+    "geom:latitude":46.805847,
+    "geom:longitude":-100.805618,
+    "iso:country":"US",
+    "sg:address":"733 Memorial Hwy",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 1757",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "monument"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1k2AivBXZUE74c3pohjWVh_46.805847_-100.805618@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295733,
+    "wof:geomhash":"24d4c3729dd3832fa215b841b195d76b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873663257
+        }
+    ],
+    "wof:id":873663257,
+    "wof:lastmodified":1464295733,
+    "wof:name":"Bismarck Memorial",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monument"
+    ]
+},
+  "bbox": [
+    -100.805618,
+    46.805847,
+    -100.805618,
+    46.805847
+],
+  "geometry": {"coordinates":[-100.805618,46.805847],"type":"Point"}
+}

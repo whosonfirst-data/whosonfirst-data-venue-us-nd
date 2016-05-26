@@ -1,0 +1,77 @@
+{
+  "id": 873602795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.823847,46.931378,-96.823847,46.931378",
+    "geom:latitude":46.931378,
+    "geom:longitude":-96.823847,
+    "iso:country":"US",
+    "sg:address":"3920 31st St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 451 5800",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "national",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877363,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4heUisx2OsuHvlgAYMBMvd_46.931378_-96.823847@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295016,
+    "wof:geomhash":"c9f1ce1fed817e6544b5b5dfa474ff86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877363,
+            "region_id":85688525,
+            "venue_id":873602795
+        }
+    ],
+    "wof:id":873602795,
+    "wof:lastmodified":1464295016,
+    "wof:name":"188th Army Band",
+    "wof:parent_id":85877363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "security"
+    ]
+},
+  "bbox": [
+    -96.823847,
+    46.931378,
+    -96.823847,
+    46.931378
+],
+  "geometry": {"coordinates":[-96.823847,46.931378],"type":"Point"}
+}

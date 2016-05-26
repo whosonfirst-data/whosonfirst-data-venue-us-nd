@@ -1,0 +1,73 @@
+{
+  "id": 873647771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.743592,46.806132,-100.743592,46.806132",
+    "geom:latitude":46.806132,
+    "geom:longitude":-100.743592,
+    "iso:country":"US",
+    "sg:address":"3128 E Broadway Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 1700",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "broadcasting",
+        "co"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aOz2bfXyF8vMUGbjh6MT6_46.806132_-100.743592@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295564,
+    "wof:geomhash":"4546d026f3054d26f14956b86c255812",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873647771
+        }
+    ],
+    "wof:id":873647771,
+    "wof:lastmodified":1464295564,
+    "wof:name":"KBMY",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broadcasting",
+        "co"
+    ]
+},
+  "bbox": [
+    -100.743592,
+    46.806132,
+    -100.743592,
+    46.806132
+],
+  "geometry": {"coordinates":[-100.74359200000001,46.806132],"type":"Point"}
+}

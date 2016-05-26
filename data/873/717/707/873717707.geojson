@@ -1,0 +1,75 @@
+{
+  "id": 873717707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.032183,47.889565,-97.032183,47.889565",
+    "geom:latitude":47.889565,
+    "geom:longitude":-97.032183,
+    "iso:country":"US",
+    "sg:address":"3117 Walnut St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 4665",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "fitness",
+        "physical",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QxRkhwXLLXvPihjOeThk1_47.889565_-97.032183@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296617,
+    "wof:geomhash":"04355f6d2dffd878109e0c51b1aea86b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873717707
+        }
+    ],
+    "wof:id":873717707,
+    "wof:lastmodified":1464296617,
+    "wof:name":"Pilates Body Within Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fitness",
+        "physical",
+        "facility"
+    ]
+},
+  "bbox": [
+    -97.032183,
+    47.889565,
+    -97.032183,
+    47.889565
+],
+  "geometry": {"coordinates":[-97.032183,47.889565],"type":"Point"}
+}

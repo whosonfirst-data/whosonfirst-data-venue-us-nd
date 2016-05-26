@@ -1,0 +1,76 @@
+{
+  "id": 873778535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.83245,46.883341,-96.83245,46.883341",
+    "geom:latitude":46.883341,
+    "geom:longitude":-96.83245,
+    "iso:country":"US",
+    "sg:address":"3345 7th Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 277 9745",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "tile"
+    ],
+    "sg:website":"www.syversontile.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52iQ51gtbvXNLMIHfF2Z45_46.883341_-96.832450@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297470,
+    "wof:geomhash":"e2132d62d94cb944b5731e554a892d60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873778535
+        }
+    ],
+    "wof:id":873778535,
+    "wof:lastmodified":1464297470,
+    "wof:name":"Syverson Tile & Stone",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile"
+    ]
+},
+  "bbox": [
+    -96.83245,
+    46.883341,
+    -96.83245,
+    46.883341
+],
+  "geometry": {"coordinates":[-96.83244999999999,46.883341],"type":"Point"}
+}

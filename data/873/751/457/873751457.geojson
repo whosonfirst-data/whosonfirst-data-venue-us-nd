@@ -1,0 +1,71 @@
+{
+  "id": 873751457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.070147,46.713367,-97.070147,46.713367",
+    "geom:latitude":46.713367,
+    "geom:longitude":-97.070147,
+    "iso:country":"US",
+    "sg:address":"270 1st St",
+    "sg:city":"Davenport",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 428 3398",
+    "sg:postcode":"58021",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Zup3caCUkIbawzmIhidw0_46.713367_-97.070147@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297093,
+    "wof:geomhash":"5332d5b391ba346fc1b2661c37235ab7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873751457
+        }
+    ],
+    "wof:id":873751457,
+    "wof:lastmodified":1464297093,
+    "wof:name":"Davenport Lutheran Church",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -97.070147,
+    46.713367,
+    -97.070147,
+    46.713367
+],
+  "geometry": {"coordinates":[-97.07014700000001,46.713367],"type":"Point"}
+}

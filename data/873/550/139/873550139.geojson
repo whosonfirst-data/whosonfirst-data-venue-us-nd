@@ -1,0 +1,71 @@
+{
+  "id": 873550139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.32238,48.22966,-101.32238,48.22966",
+    "geom:latitude":48.22966,
+    "geom:longitude":-101.32238,
+    "iso:country":"US",
+    "sg:address":"602 20th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 1862",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "group"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DFC18KDNKptltTYv8RXOt_48.229660_-101.322380@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294380,
+    "wof:geomhash":"90996dc0edd9ef2b2511862eae4a279e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873550139
+        }
+    ],
+    "wof:id":873550139,
+    "wof:lastmodified":1464294380,
+    "wof:name":"Country Heartland Music Inc",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "group"
+    ]
+},
+  "bbox": [
+    -101.32238,
+    48.22966,
+    -101.32238,
+    48.22966
+],
+  "geometry": {"coordinates":[-101.32238,48.22966],"type":"Point"}
+}

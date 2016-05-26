@@ -1,0 +1,72 @@
+{
+  "id": 873778243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.088531,47.8852,-97.088531,47.8852",
+    "geom:latitude":47.8852,
+    "geom:longitude":-97.088531,
+    "iso:country":"US",
+    "sg:address":"3450 S 42nd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 8400",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "engine"
+    ],
+    "sg:website":"www.istate.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QpoVCYdl5YUwLx35c9xGs_47.885200_-97.088531@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297466,
+    "wof:geomhash":"ee341fd66485be36fd69c0bb22ad4465",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873778243
+        }
+    ],
+    "wof:id":873778243,
+    "wof:lastmodified":1464297466,
+    "wof:name":"Interstate Power Systems",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine"
+    ]
+},
+  "bbox": [
+    -97.088531,
+    47.8852,
+    -97.088531,
+    47.8852
+],
+  "geometry": {"coordinates":[-97.088531,47.8852],"type":"Point"}
+}

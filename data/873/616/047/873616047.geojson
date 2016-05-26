@@ -1,0 +1,73 @@
+{
+  "id": 873616047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.064057,47.922269,-97.064057,47.922269",
+    "geom:latitude":47.922269,
+    "geom:longitude":-97.064057,
+    "iso:country":"US",
+    "sg:address":"2500 University Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 777 1518",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "sorority",
+        "fraternity"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iXa7dEwUP0cMx1h8VGca7_47.922269_-97.064057@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295205,
+    "wof:geomhash":"1ea6ba27996864ee894252f941cea6d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873616047
+        }
+    ],
+    "wof:id":873616047,
+    "wof:lastmodified":1464295205,
+    "wof:name":"Kappa Alpha Theta",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sorority",
+        "fraternity"
+    ]
+},
+  "bbox": [
+    -97.064057,
+    47.922269,
+    -97.064057,
+    47.922269
+],
+  "geometry": {"coordinates":[-97.06405700000001,47.922269],"type":"Point"}
+}

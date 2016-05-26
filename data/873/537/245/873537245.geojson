@@ -1,0 +1,75 @@
+{
+  "id": 873537245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.802384,46.826495,-96.802384,46.826495",
+    "geom:latitude":46.826495,
+    "geom:longitude":-96.802384,
+    "iso:country":"US",
+    "sg:address":"3540 S University Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 241 9088",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534487,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4h8Z1VLpiyuCJnWMhD3o5y_46.826495_-96.802384@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294231,
+    "wof:geomhash":"0bd79f0de45964454fcf11decf66449d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534487,
+            "region_id":85688525,
+            "venue_id":873537245
+        }
+    ],
+    "wof:id":873537245,
+    "wof:lastmodified":1464294231,
+    "wof:name":"Little Salon The",
+    "wof:parent_id":420534487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -96.802384,
+    46.826495,
+    -96.802384,
+    46.826495
+],
+  "geometry": {"coordinates":[-96.802384,46.826495],"type":"Point"}
+}

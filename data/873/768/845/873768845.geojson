@@ -1,0 +1,75 @@
+{
+  "id": 873768845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.78918,46.899091,-96.78918,46.899091",
+    "geom:latitude":46.899091,
+    "geom:longitude":-96.78918,
+    "iso:country":"US",
+    "sg:address":"1518 7th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 261 3144",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "cabinet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534483,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hy6jimbY5HHw2SYNbjF3T_46.899091_-96.789180@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297348,
+    "wof:geomhash":"93d384446fcd0b0bf4ec098ad3e6c08a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534483,
+            "region_id":85688525,
+            "venue_id":873768845
+        }
+    ],
+    "wof:id":873768845,
+    "wof:lastmodified":1464297348,
+    "wof:name":"K & L Cabinets",
+    "wof:parent_id":420534483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cabinet"
+    ]
+},
+  "bbox": [
+    -96.78918,
+    46.899091,
+    -96.78918,
+    46.899091
+],
+  "geometry": {"coordinates":[-96.78918,46.899091],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873785629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.668778,47.903927,-97.668778,47.903927",
+    "geom:latitude":47.903927,
+    "geom:longitude":-97.668778,
+    "iso:country":"US",
+    "sg:address":"3950 16th Ave",
+    "sg:city":"Larimore",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 343 2009",
+    "sg:postcode":"58251",
+    "sg:province":"ND",
+    "sg:tags":[
+        "wheat",
+        "farm",
+        "corn",
+        "cash",
+        "grain",
+        "soybean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rSDysCj3bt5lxB8ku6APg_47.903927_-97.668778@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297563,
+    "wof:geomhash":"1faf3491238532eb94a5c4d355b33e7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873785629
+        }
+    ],
+    "wof:id":873785629,
+    "wof:lastmodified":1464297563,
+    "wof:name":"David Farrell",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wheat",
+        "farm",
+        "corn",
+        "cash",
+        "grain",
+        "soybean"
+    ]
+},
+  "bbox": [
+    -97.668778,
+    47.903927,
+    -97.668778,
+    47.903927
+],
+  "geometry": {"coordinates":[-97.668778,47.903927],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 873749715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.068787,47.951201,-97.068787,47.951201",
+    "geom:latitude":47.951201,
+    "geom:longitude":-97.068787,
+    "iso:country":"US",
+    "sg:address":"3001 N Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 5591",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "potato"
+    ],
+    "sg:website":"www.tristeelmfg.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ooMh0b8TryfzXVYXSeIFp_47.951201_-97.068787@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297071,
+    "wof:geomhash":"b208024ecf0c87780e489ea0943213b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873749715
+        }
+    ],
+    "wof:id":873749715,
+    "wof:lastmodified":1464297071,
+    "wof:name":"Tri-Steel Manufacturing Co",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "potato"
+    ]
+},
+  "bbox": [
+    -97.068787,
+    47.951201,
+    -97.068787,
+    47.951201
+],
+  "geometry": {"coordinates":[-97.068787,47.951201],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873720809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.771234,46.803937,-100.771234,46.803937",
+    "geom:latitude":46.803937,
+    "geom:longitude":-100.771234,
+    "iso:country":"US",
+    "sg:address":"1323 E Front Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Labor Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 5991",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ch6hpxbm1eC9Rjl6WmX6k_46.803937_-100.771234@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296661,
+    "wof:geomhash":"546f6d731ed7ac6c5b1012208eabaf81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873720809
+        }
+    ],
+    "wof:id":873720809,
+    "wof:lastmodified":1464296661,
+    "wof:name":"Laborers Union Local 580",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.771234,
+    46.803937,
+    -100.771234,
+    46.803937
+],
+  "geometry": {"coordinates":[-100.77123400000001,46.803937],"type":"Point"}
+}

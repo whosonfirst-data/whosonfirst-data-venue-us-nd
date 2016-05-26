@@ -1,0 +1,82 @@
+{
+  "id": 873797389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.066399,47.909074,-97.066399,47.909074",
+    "geom:latitude":47.909074,
+    "geom:longitude":-97.066399,
+    "iso:country":"US",
+    "sg:address":"1305 S Columbia Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/grand-forks/102140-perkins-restaurant--bakery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 0493",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pastry",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61CHMjdjsuRgNTHWDBUKF3_47.909074_-97.066399@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297743,
+    "wof:geomhash":"d62be428439a0fc326084e4ad51f99d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873797389
+        }
+    ],
+    "wof:id":873797389,
+    "wof:lastmodified":1464297743,
+    "wof:name":"Perkins Restaurant & Bakery",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pastry",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -97.066399,
+    47.909074,
+    -97.066399,
+    47.909074
+],
+  "geometry": {"coordinates":[-97.066399,47.909074],"type":"Point"}
+}

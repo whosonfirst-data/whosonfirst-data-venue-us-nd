@@ -1,0 +1,71 @@
+{
+  "id": 873710897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.046211,47.920207,-97.046211,47.920207",
+    "geom:latitude":47.920207,
+    "geom:longitude":-97.046211,
+    "iso:country":"US",
+    "sg:address":"1324 1st Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 885 2544",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SiCoz3nUQtRpaZWBOcbHE_47.920207_-97.046211@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296531,
+    "wof:geomhash":"4dfdb4f3649e4149656b18b938bf90aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873710897
+        }
+    ],
+    "wof:id":873710897,
+    "wof:lastmodified":1464296531,
+    "wof:name":"Hutton Contracting",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -97.046211,
+    47.920207,
+    -97.046211,
+    47.920207
+],
+  "geometry": {"coordinates":[-97.046211,47.920207],"type":"Point"}
+}

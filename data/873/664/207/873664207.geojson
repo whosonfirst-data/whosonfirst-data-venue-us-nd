@@ -1,0 +1,70 @@
+{
+  "id": 873664207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.810035,46.816333,-100.810035,46.816333",
+    "geom:latitude":46.816333,
+    "geom:longitude":-100.810035,
+    "iso:country":"US",
+    "sg:address":"1004 E Highland Acres Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 1001",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MgrFhhed6zFuDWwf8VZzq_46.816333_-100.810035@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295742,
+    "wof:geomhash":"c79a6e28b86bcaabb775f90e828d8757",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873664207
+        }
+    ],
+    "wof:id":873664207,
+    "wof:lastmodified":1464295742,
+    "wof:name":"Church Of The Cross",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.810035,
+    46.816333,
+    -100.810035,
+    46.816333
+],
+  "geometry": {"coordinates":[-100.810035,46.816333],"type":"Point"}
+}

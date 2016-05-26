@@ -1,0 +1,70 @@
+{
+  "id": 873576961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.774548,46.82812,-100.774548,46.82812",
+    "geom:latitude":46.82812,
+    "geom:longitude":-100.774548,
+    "iso:country":"US",
+    "sg:address":"1100 E Capitol Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 0404",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hXokyBjKDIogjOBPUyQD6_46.828120_-100.774548@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294683,
+    "wof:geomhash":"035e8ef497a16f94b6873fcc3d0f17ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873576961
+        }
+    ],
+    "wof:id":873576961,
+    "wof:lastmodified":1464294683,
+    "wof:name":"Dan Seifert Insurance Inc",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.774548,
+    46.82812,
+    -100.774548,
+    46.82812
+],
+  "geometry": {"coordinates":[-100.774548,46.82812],"type":"Point"}
+}

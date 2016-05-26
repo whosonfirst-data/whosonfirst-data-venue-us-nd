@@ -1,0 +1,71 @@
+{
+  "id": 873779871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.3177,48.222906,-101.3177,48.222906",
+    "geom:latitude":48.222906,
+    "geom:longitude":-101.3177,
+    "iso:country":"US",
+    "sg:address":"1230 18th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 8163",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "cement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2o0E2FvbQwzmGoTBqOWQgC_48.222906_-101.317700@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297490,
+    "wof:geomhash":"54b01f537e6f8764f3e380576ec8a837",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873779871
+        }
+    ],
+    "wof:id":873779871,
+    "wof:lastmodified":1464297490,
+    "wof:name":"Lafarge Corp",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cement"
+    ]
+},
+  "bbox": [
+    -101.3177,
+    48.222906,
+    -101.3177,
+    48.222906
+],
+  "geometry": {"coordinates":[-101.3177,48.222906],"type":"Point"}
+}

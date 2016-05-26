@@ -1,0 +1,92 @@
+{
+  "id": 873802217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.846532,46.861599,-96.846532,46.861599",
+    "geom:latitude":46.861599,
+    "geom:longitude":-96.846532,
+    "iso:country":"US",
+    "sg:address":"3902 13th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 7780",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shop",
+        "american",
+        "sandwich",
+        "take"
+    ],
+    "sg:website":"http://www.subway.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uFutuIYy3fmxlbpBC45zo_46.861599_-96.846532@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297800,
+    "wof:geomhash":"46086fe3d15e29ac0360eaa26ea78459",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873802217
+        }
+    ],
+    "wof:id":873802217,
+    "wof:lastmodified":1464297800,
+    "wof:name":"Subway",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "american",
+        "sandwich",
+        "take"
+    ]
+},
+  "bbox": [
+    -96.846532,
+    46.861599,
+    -96.846532,
+    46.861599
+],
+  "geometry": {"coordinates":[-96.846532,46.861599],"type":"Point"}
+}

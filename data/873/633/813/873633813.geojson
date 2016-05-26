@@ -1,0 +1,73 @@
+{
+  "id": 873633813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.601054,47.036936,-100.601054,47.036936",
+    "geom:latitude":47.036936,
+    "geom:longitude":-100.601054,
+    "iso:country":"US",
+    "sg:address":"21050 119th St NE",
+    "sg:city":"Baldwin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 323 7968",
+    "sg:postcode":"58521",
+    "sg:province":"ND",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hv0a6legQV1wlchLGtyyO_47.036936_-100.601054@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295411,
+    "wof:geomhash":"20642e88ddaadfba2e4910fc1f14aefc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873633813
+        }
+    ],
+    "wof:id":873633813,
+    "wof:lastmodified":1464295411,
+    "wof:name":"All Dunn Construction",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.601054,
+    47.036936,
+    -100.601054,
+    47.036936
+],
+  "geometry": {"coordinates":[-100.601054,47.036936],"type":"Point"}
+}

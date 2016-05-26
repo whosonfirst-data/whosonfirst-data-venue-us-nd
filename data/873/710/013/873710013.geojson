@@ -1,0 +1,75 @@
+{
+  "id": 873710013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.17841,46.708746,-97.17841,46.708746",
+    "geom:latitude":46.708746,
+    "geom:longitude":-97.17841,
+    "iso:country":"US",
+    "sg:address":"4854 157th Ave SE",
+    "sg:city":"Davenport",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 645 2595",
+    "sg:postcode":"58021",
+    "sg:province":"ND",
+    "sg:tags":[
+        "grain",
+        "cash",
+        "livestock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gZBHUz3UrQBAFkr4Zlb8C_46.708746_-97.178410@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296521,
+    "wof:geomhash":"088fa555ff0ffa00a777c117b6475ce2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873710013
+        }
+    ],
+    "wof:id":873710013,
+    "wof:lastmodified":1464296521,
+    "wof:name":"Ronald Plath",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grain",
+        "cash",
+        "livestock"
+    ]
+},
+  "bbox": [
+    -97.17841,
+    46.708746,
+    -97.17841,
+    46.708746
+],
+  "geometry": {"coordinates":[-97.17841,46.708746],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873573177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.778415,46.808376,-100.778415,46.808376",
+    "geom:latitude":46.808376,
+    "geom:longitude":-100.778415,
+    "iso:country":"US",
+    "sg:address":"311 N 9th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 530 7500",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ASzDK4xKTYn131d5FqIdp_46.808376_-100.778415@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294643,
+    "wof:geomhash":"66a247b911459da6082ac33d56460633",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873573177
+        }
+    ],
+    "wof:id":873573177,
+    "wof:lastmodified":1464294643,
+    "wof:name":"A Piyamahunt",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -100.778415,
+    46.808376,
+    -100.778415,
+    46.808376
+],
+  "geometry": {"coordinates":[-100.778415,46.808376],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873548581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.153383,47.908349,-97.153383,47.908349",
+    "geom:latitude":47.908349,
+    "geom:longitude":-97.153383,
+    "iso:country":"US",
+    "sg:address":"1390 S 83rd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 2825",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "sand",
+        "gravel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6g3htr3C8u6Xzhx8h3qlH3_47.908349_-97.153383@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294362,
+    "wof:geomhash":"3fcd5ca3a6cc144c396dfd7b3e1f4070",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873548581
+        }
+    ],
+    "wof:id":873548581,
+    "wof:lastmodified":1464294362,
+    "wof:name":"Jets Black Dirt & Road Gravel",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sand",
+        "gravel"
+    ]
+},
+  "bbox": [
+    -97.153383,
+    47.908349,
+    -97.153383,
+    47.908349
+],
+  "geometry": {"coordinates":[-97.15338300000001,47.908349],"type":"Point"}
+}

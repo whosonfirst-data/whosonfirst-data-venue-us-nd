@@ -1,0 +1,70 @@
+{
+  "id": 873660181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-102.788305,46.894082,-102.788305,46.894082",
+    "geom:latitude":46.894082,
+    "geom:longitude":-102.788305,
+    "iso:country":"US",
+    "sg:address":"231 W Museum Dr",
+    "sg:city":"Dickinson",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 225 6617",
+    "sg:postcode":"58601",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877119,
+        102191575,
+        404482179,
+        85633793,
+        85982521,
+        102082105,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LI0uftgqbkbJemUxEfUyb_46.894082_-102.788305@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295700,
+    "wof:geomhash":"f47ca9c01a8e9bfce7807af34cadbeb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082105,
+            "localadmin_id":404482179,
+            "locality_id":85982521,
+            "neighbourhood_id":85877119,
+            "region_id":85688525,
+            "venue_id":873660181
+        }
+    ],
+    "wof:id":873660181,
+    "wof:lastmodified":1464295700,
+    "wof:name":"Holiday Station Store",
+    "wof:parent_id":85877119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -102.788305,
+    46.894082,
+    -102.788305,
+    46.894082
+],
+  "geometry": {"coordinates":[-102.78830499999999,46.894082],"type":"Point"}
+}

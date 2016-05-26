@@ -1,0 +1,80 @@
+{
+  "id": 873802221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.830351,46.863723,-96.830351,46.863723",
+    "geom:latitude":46.863723,
+    "geom:longitude":-96.830351,
+    "iso:country":"US",
+    "sg:address":"1131 Westrac Dr S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 238 1750",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VFFfhFVJ7hbWlDIZwEQuo_46.863723_-96.830351@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297800,
+    "wof:geomhash":"e88b4194c1f530d3568fb6fd248b8365",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873802221
+        }
+    ],
+    "wof:id":873802221,
+    "wof:lastmodified":1464297800,
+    "wof:name":"Mason & Company",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -96.830351,
+    46.863723,
+    -96.830351,
+    46.863723
+],
+  "geometry": {"coordinates":[-96.83035099999999,46.863723],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873741785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.834168,46.802582,-96.834168,46.802582",
+    "geom:latitude":46.802582,
+    "geom:longitude":-96.834168,
+    "iso:country":"US",
+    "sg:address":"5303 34th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 200 9020",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877333,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0N85cBPy1Aw7yTOlMvrRfa_46.802582_-96.834168@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296951,
+    "wof:geomhash":"fd3a8b7f710d8f160dca25931b170969",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877333,
+            "region_id":85688525,
+            "venue_id":873741785
+        }
+    ],
+    "wof:id":873741785,
+    "wof:lastmodified":1464296951,
+    "wof:name":"Brewer Tile",
+    "wof:parent_id":85877333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.834168,
+    46.802582,
+    -96.834168,
+    46.802582
+],
+  "geometry": {"coordinates":[-96.83416800000001,46.802582],"type":"Point"}
+}

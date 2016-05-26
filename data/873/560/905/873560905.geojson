@@ -1,0 +1,66 @@
+{
+  "id": 873560905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.088569,47.924574,-97.088569,47.924574",
+    "geom:latitude":47.924574,
+    "geom:longitude":-97.088569,
+    "iso:country":"US",
+    "sg:address":"4297 5th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 740 6337",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_202wsCKQgShNx2xL40ogsw_47.924574_-97.088569@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294509,
+    "wof:geomhash":"e6ccf109afca63e6b7e7e92c747444c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873560905
+        }
+    ],
+    "wof:id":873560905,
+    "wof:lastmodified":1464294509,
+    "wof:name":"Dynamic Solutions",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.088569,
+    47.924574,
+    -97.088569,
+    47.924574
+],
+  "geometry": {"coordinates":[-97.08856900000001,47.924574],"type":"Point"}
+}

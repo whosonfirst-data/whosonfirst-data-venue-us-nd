@@ -1,0 +1,72 @@
+{
+  "id": 873725755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.050557,47.941169,-97.050557,47.941169",
+    "geom:latitude":47.941169,
+    "geom:longitude":-97.050557,
+    "iso:country":"US",
+    "sg:address":"222 Red Dot Pl",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 9381",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "exporter"
+    ],
+    "sg:website":"www.residualmaterials.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Wh0ZAxNdzjhxDZliFfccX_47.941169_-97.050557@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296721,
+    "wof:geomhash":"057bb492372dc86b08f62d1444029f30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873725755
+        }
+    ],
+    "wof:id":873725755,
+    "wof:lastmodified":1464296721,
+    "wof:name":"Residual Materials Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exporter"
+    ]
+},
+  "bbox": [
+    -97.050557,
+    47.941169,
+    -97.050557,
+    47.941169
+],
+  "geometry": {"coordinates":[-97.050557,47.941169],"type":"Point"}
+}

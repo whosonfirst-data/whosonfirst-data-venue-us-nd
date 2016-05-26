@@ -1,0 +1,79 @@
+{
+  "id": 873741235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.805004,46.818353,-96.805004,46.818353",
+    "geom:latitude":46.818353,
+    "geom:longitude":-96.805004,
+    "iso:country":"US",
+    "sg:address":"3932 15th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 8576",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "fitness",
+        "physical",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534487,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4L7Fd9t6JwfIhIC3loCWyp_46.818353_-96.805004@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296941,
+    "wof:geomhash":"1b47e6135022571c129a9a824af82ae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534487,
+            "region_id":85688525,
+            "venue_id":873741235
+        }
+    ],
+    "wof:id":873741235,
+    "wof:lastmodified":1464296941,
+    "wof:name":"Loris Total Body Fitness",
+    "wof:parent_id":420534487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fitness",
+        "physical",
+        "facility"
+    ]
+},
+  "bbox": [
+    -96.805004,
+    46.818353,
+    -96.805004,
+    46.818353
+],
+  "geometry": {"coordinates":[-96.805004,46.818353],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873599449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.797993,46.919203,-96.797993,46.919203",
+    "geom:latitude":46.919203,
+    "geom:longitude":-96.797993,
+    "iso:country":"US",
+    "sg:address":"2940 N University Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 0828",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877363,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1p69Up1ymcrBPxZyjxY53c_46.919203_-96.797993@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294981,
+    "wof:geomhash":"f7924888191f11bf1e4bda0ef5f55d94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877363,
+            "region_id":85688525,
+            "venue_id":873599449
+        }
+    ],
+    "wof:id":873599449,
+    "wof:lastmodified":1464294981,
+    "wof:name":"North Dakota Air Nat Guard",
+    "wof:parent_id":85877363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -96.797993,
+    46.919203,
+    -96.797993,
+    46.919203
+],
+  "geometry": {"coordinates":[-96.79799300000001,46.919203],"type":"Point"}
+}

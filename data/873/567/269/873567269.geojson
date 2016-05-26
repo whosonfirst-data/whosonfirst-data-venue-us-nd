@@ -1,0 +1,75 @@
+{
+  "id": 873567269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.82748,46.862437,-96.82748,46.862437",
+    "geom:latitude":46.862437,
+    "geom:longitude":-96.82748,
+    "iso:country":"US",
+    "sg:address":"1202 Page Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 5750",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Pj51f2A8QXg0xFNgU96Hu_46.862437_-96.827480@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294578,
+    "wof:geomhash":"fa036649066303cac5631dfd828bc470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873567269
+        }
+    ],
+    "wof:id":873567269,
+    "wof:lastmodified":1464294578,
+    "wof:name":"Prairieland Home Care",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -96.82748,
+    46.862437,
+    -96.82748,
+    46.862437
+],
+  "geometry": {"coordinates":[-96.82747999999999,46.862437],"type":"Point"}
+}

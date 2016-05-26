@@ -1,0 +1,75 @@
+{
+  "id": 873708261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.773513,46.786711,-100.773513,46.786711",
+    "geom:latitude":46.786711,
+    "geom:longitude":-100.773513,
+    "iso:country":"US",
+    "sg:address":"1419 Continental Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 3554",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "commercial",
+        "storage",
+        "special"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UomO2SqlpCSk2J9aX7ihH_46.786711_-100.773513@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296498,
+    "wof:geomhash":"de904940296443f93d0e14754becb0f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873708261
+        }
+    ],
+    "wof:id":873708261,
+    "wof:lastmodified":1464296498,
+    "wof:name":"D K Storage",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage",
+        "special"
+    ]
+},
+  "bbox": [
+    -100.773513,
+    46.786711,
+    -100.773513,
+    46.786711
+],
+  "geometry": {"coordinates":[-100.77351299999999,46.786711],"type":"Point"}
+}

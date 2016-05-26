@@ -1,0 +1,78 @@
+{
+  "id": 873589949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.758703,46.79325,-100.758703,46.79325",
+    "geom:latitude":46.79325,
+    "geom:longitude":-100.758703,
+    "iso:country":"US",
+    "sg:address":"2011 Lovett Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 0783",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repairing",
+        "house",
+        "remodeling",
+        "contractor"
+    ],
+    "sg:website":"www.sparlingconstruction.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7N3cRbu8odbOa6SVpoXzT2_46.793250_-100.758703@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294831,
+    "wof:geomhash":"6c51d2e38ce4063c571e3ca9fc91f9c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873589949
+        }
+    ],
+    "wof:id":873589949,
+    "wof:lastmodified":1464294831,
+    "wof:name":"Sparling Construction Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "house",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.758703,
+    46.79325,
+    -100.758703,
+    46.79325
+],
+  "geometry": {"coordinates":[-100.758703,46.79325],"type":"Point"}
+}

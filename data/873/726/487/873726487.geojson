@@ -1,0 +1,73 @@
+{
+  "id": 873726487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.687341,46.763107,-100.687341,46.763107",
+    "geom:latitude":46.763107,
+    "geom:longitude":-100.687341,
+    "iso:country":"US",
+    "sg:address":"103 Sandpiper Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 2633",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rf3wg6whDoDOf7kc7Dm0c_46.763107_-100.687341@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296731,
+    "wof:geomhash":"1d0cf1a976925584c66e11d9d73983c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873726487
+        }
+    ],
+    "wof:id":873726487,
+    "wof:lastmodified":1464296731,
+    "wof:name":"Markwed Excavating",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.687341,
+    46.763107,
+    -100.687341,
+    46.763107
+],
+  "geometry": {"coordinates":[-100.687341,46.763107],"type":"Point"}
+}

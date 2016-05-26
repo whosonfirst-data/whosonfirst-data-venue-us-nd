@@ -1,0 +1,75 @@
+{
+  "id": 873550213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.783252,46.886657,-96.783252,46.886657",
+    "geom:latitude":46.886657,
+    "geom:longitude":-96.783252,
+    "iso:country":"US",
+    "sg:address":"908 3rd St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 6903",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534465,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BZNMecX483LJivSHtDyLX_46.886657_-96.783252@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294381,
+    "wof:geomhash":"14802afb400580f3a02871729c857205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534465,
+            "region_id":85688525,
+            "venue_id":873550213
+        }
+    ],
+    "wof:id":873550213,
+    "wof:lastmodified":1464294381,
+    "wof:name":"Baumgartners Family Day Care",
+    "wof:parent_id":420534465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -96.783252,
+    46.886657,
+    -96.783252,
+    46.886657
+],
+  "geometry": {"coordinates":[-96.783252,46.886657],"type":"Point"}
+}

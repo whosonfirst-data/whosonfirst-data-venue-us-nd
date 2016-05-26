@@ -1,0 +1,71 @@
+{
+  "id": 873597167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.304699,48.210814,-101.304699,48.210814",
+    "geom:latitude":48.210814,
+    "geom:longitude":-101.304699,
+    "iso:country":"US",
+    "sg:address":"724 20th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 5191",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7P14CdFAtn8kDaRUddQB2J_48.210814_-101.304699@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294948,
+    "wof:geomhash":"be0ce68d180f59777c6c0a684421a790",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873597167
+        }
+    ],
+    "wof:id":873597167,
+    "wof:lastmodified":1464294948,
+    "wof:name":"Elite Studio",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -101.304699,
+    48.210814,
+    -101.304699,
+    48.210814
+],
+  "geometry": {"coordinates":[-101.304699,48.210814],"type":"Point"}
+}

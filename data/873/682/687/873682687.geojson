@@ -1,0 +1,73 @@
+{
+  "id": 873682687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.758609,46.791918,-100.758609,46.791918",
+    "geom:latitude":46.791918,
+    "geom:longitude":-100.758609,
+    "iso:country":"US",
+    "sg:address":"2001 Lee Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 224 9019",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "commercial",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NzBSqSOnCVyIzgiCJVITg_46.791918_-100.758609@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296072,
+    "wof:geomhash":"df93b99124f51313a4a624bc9f60b885",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873682687
+        }
+    ],
+    "wof:id":873682687,
+    "wof:lastmodified":1464296072,
+    "wof:name":"C A D D Services",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "design"
+    ]
+},
+  "bbox": [
+    -100.758609,
+    46.791918,
+    -100.758609,
+    46.791918
+],
+  "geometry": {"coordinates":[-100.75860900000001,46.791918],"type":"Point"}
+}

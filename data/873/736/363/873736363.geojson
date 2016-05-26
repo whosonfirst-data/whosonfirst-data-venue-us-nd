@@ -1,0 +1,73 @@
+{
+  "id": 873736363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.643861,48.166835,-97.643861,48.166835",
+    "geom:latitude":48.166835,
+    "geom:longitude":-97.643861,
+    "iso:country":"US",
+    "sg:address":"3472 38th St NE",
+    "sg:city":"Inkster",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 865 4281",
+    "sg:postcode":"58244",
+    "sg:province":"ND",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CNCGuRCxrLXQMLmIkCE1B_48.166835_-97.643861@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296875,
+    "wof:geomhash":"522add4e776bf8a86d375dae3b6264c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873736363
+        }
+    ],
+    "wof:id":873736363,
+    "wof:lastmodified":1464296875,
+    "wof:name":"Russell Grabanski",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -97.643861,
+    48.166835,
+    -97.643861,
+    48.166835
+],
+  "geometry": {"coordinates":[-97.643861,48.166835],"type":"Point"}
+}

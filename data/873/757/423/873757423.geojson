@@ -1,0 +1,75 @@
+{
+  "id": 873757423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.318306,48.220072,-101.318306,48.220072",
+    "geom:latitude":48.220072,
+    "geom:longitude":-101.318306,
+    "iso:country":"US",
+    "sg:address":"1555 18th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 8750",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JADaLOHmVaFlbeMMNYE1e_48.220072_-101.318306@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297175,
+    "wof:geomhash":"2e6abd25e7e1027ae848f85e2971a6c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873757423
+        }
+    ],
+    "wof:id":873757423,
+    "wof:lastmodified":1464297175,
+    "wof:name":"Rob Lakoduk",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -101.318306,
+    48.220072,
+    -101.318306,
+    48.220072
+],
+  "geometry": {"coordinates":[-101.31830600000001,48.220072],"type":"Point"}
+}

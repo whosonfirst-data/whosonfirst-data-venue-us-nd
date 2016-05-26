@@ -1,0 +1,66 @@
+{
+  "id": 873548033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.329119,48.236109,-101.329119,48.236109",
+    "geom:latitude":48.236109,
+    "geom:longitude":-101.329119,
+    "iso:country":"US",
+    "sg:address":"18 24th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 4458",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06toOxOB72n8Mfcx8nWTde_48.236109_-101.329119@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294357,
+    "wof:geomhash":"f20e02ba64f94ca18387ee1cf47e92ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873548033
+        }
+    ],
+    "wof:id":873548033,
+    "wof:lastmodified":1464294357,
+    "wof:name":"Magic City Support Systems",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.329119,
+    48.236109,
+    -101.329119,
+    48.236109
+],
+  "geometry": {"coordinates":[-101.32911900000001,48.236109],"type":"Point"}
+}

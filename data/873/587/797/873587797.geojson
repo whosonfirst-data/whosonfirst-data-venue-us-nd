@@ -1,0 +1,77 @@
+{
+  "id": 873587797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.824177,46.861674,-96.824177,46.861674",
+    "geom:latitude":46.861674,
+    "geom:longitude":-96.824177,
+    "iso:country":"US",
+    "sg:address":"2727 13th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 1067",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_189JGuwyNtQnAvrV98knJe_46.861674_-96.824177@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294805,
+    "wof:geomhash":"f6ba2bc2aca7a6a74e123037f1d75823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873587797
+        }
+    ],
+    "wof:id":873587797,
+    "wof:lastmodified":1464294805,
+    "wof:name":"Secure Wireless",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -96.824177,
+    46.861674,
+    -96.824177,
+    46.861674
+],
+  "geometry": {"coordinates":[-96.82417700000001,46.861674],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873640355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.031002,47.871668,-97.031002,47.871668",
+    "geom:latitude":47.871668,
+    "geom:longitude":-97.031002,
+    "iso:country":"US",
+    "sg:address":"5023 Chestnut St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 7172",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12pDyRBY8gH2Ug2rRVmNgF_47.871668_-97.031002@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295476,
+    "wof:geomhash":"47f6253855963b49a8bb950666d3a1e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873640355
+        }
+    ],
+    "wof:id":873640355,
+    "wof:lastmodified":1464295476,
+    "wof:name":"Computer Spectrum",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -97.031002,
+    47.871668,
+    -97.031002,
+    47.871668
+],
+  "geometry": {"coordinates":[-97.031002,47.871668],"type":"Point"}
+}

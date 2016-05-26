@@ -1,0 +1,73 @@
+{
+  "id": 873677453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.106269,46.865321,-100.106269,46.865321",
+    "geom:latitude":46.865321,
+    "geom:longitude":-100.106269,
+    "iso:country":"US",
+    "sg:address":"42600 57th Ave NE",
+    "sg:city":"Driscoll",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 387 4750",
+    "sg:postcode":"58532",
+    "sg:province":"ND",
+    "sg:tags":[
+        "agricultural",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vxa7Z97jX3rov2xCDdMSc_46.865321_-100.106269@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295922,
+    "wof:geomhash":"b6fd07c321e05de2d1a81d39aed65e46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873677453
+        }
+    ],
+    "wof:id":873677453,
+    "wof:lastmodified":1464295922,
+    "wof:name":"KAP Custom Ag Svc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agricultural",
+        "consultant"
+    ]
+},
+  "bbox": [
+    -100.106269,
+    46.865321,
+    -100.106269,
+    46.865321
+],
+  "geometry": {"coordinates":[-100.106269,46.865321],"type":"Point"}
+}

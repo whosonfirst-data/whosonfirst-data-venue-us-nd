@@ -1,0 +1,77 @@
+{
+  "id": 873738255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.816215,46.8852,-96.816215,46.8852",
+    "geom:latitude":46.8852,
+    "geom:longitude":-96.816215,
+    "iso:country":"US",
+    "sg:address":"2301 8th Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 241 1468",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877363,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7asajMNl2OY9JI4KCnrcnJ_46.885200_-96.816215@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296900,
+    "wof:geomhash":"37d749cbecedd23fec2b79b4fc19ee16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877363,
+            "region_id":85688525,
+            "venue_id":873738255
+        }
+    ],
+    "wof:id":873738255,
+    "wof:lastmodified":1464296900,
+    "wof:name":"Fargo City Water Dept",
+    "wof:parent_id":85877363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -96.816215,
+    46.8852,
+    -96.816215,
+    46.8852
+],
+  "geometry": {"coordinates":[-96.816215,46.8852],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873615781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.31229,48.243855,-101.31229,48.243855",
+    "geom:latitude":48.243855,
+    "geom:longitude":-101.31229,
+    "iso:country":"US",
+    "sg:address":"1206 7th Ave NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 1960",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automobile",
+        "restoration",
+        "classic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mLuynl66jXwsBwpljEqL6_48.243855_-101.312290@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295203,
+    "wof:geomhash":"811062c62e8e33a4b1ea5accbb0fcbb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873615781
+        }
+    ],
+    "wof:id":873615781,
+    "wof:lastmodified":1464295203,
+    "wof:name":"Magic City Rod & Custom",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "restoration",
+        "classic"
+    ]
+},
+  "bbox": [
+    -101.31229,
+    48.243855,
+    -101.31229,
+    48.243855
+],
+  "geometry": {"coordinates":[-101.31229,48.243855],"type":"Point"}
+}

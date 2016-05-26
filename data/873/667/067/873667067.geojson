@@ -1,0 +1,75 @@
+{
+  "id": 873667067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.322966,48.222411,-101.322966,48.222411",
+    "geom:latitude":48.222411,
+    "geom:longitude":-101.322966,
+    "iso:country":"US",
+    "sg:address":"2101 Burdick Expy W",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 4035",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "plumbing",
+        "fixture",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Sve2mGcvJJ5c6qWXAFM86_48.222411_-101.322966@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295770,
+    "wof:geomhash":"fa0ba2d138d29689943412bab1b40490",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873667067
+        }
+    ],
+    "wof:id":873667067,
+    "wof:lastmodified":1464295770,
+    "wof:name":"Western Steel & Plumbing",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "fixture",
+        "supply"
+    ]
+},
+  "bbox": [
+    -101.322966,
+    48.222411,
+    -101.322966,
+    48.222411
+],
+  "geometry": {"coordinates":[-101.32296599999999,48.222411],"type":"Point"}
+}

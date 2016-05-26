@@ -1,0 +1,75 @@
+{
+  "id": 873663005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.088273,47.945376,-97.088273,47.945376",
+    "geom:latitude":47.945376,
+    "geom:longitude":-97.088273,
+    "iso:country":"US",
+    "sg:address":"2475 N 42nd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 6592",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automotive",
+        "work",
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3b7C5QPTrUZnJ4mmOKhvPw_47.945376_-97.088273@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295731,
+    "wof:geomhash":"44c2fdb5e34f9979455ce6dbff0ae222",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873663005
+        }
+    ],
+    "wof:id":873663005,
+    "wof:lastmodified":1464295731,
+    "wof:name":"J & J Trucking",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "work",
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -97.088273,
+    47.945376,
+    -97.088273,
+    47.945376
+],
+  "geometry": {"coordinates":[-97.088273,47.945376],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873535219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.73784,46.813967,-100.73784,46.813967",
+    "geom:latitude":46.813967,
+    "geom:longitude":-100.73784,
+    "iso:country":"US",
+    "sg:address":"829 N 35th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 627 4020",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "general",
+        "metal",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Cixjzvv0MGesy7OoPBiku_46.813967_-100.737840@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294207,
+    "wof:geomhash":"3bf861034460681678c72db81ccd3eac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873535219
+        }
+    ],
+    "wof:id":873535219,
+    "wof:lastmodified":1464294207,
+    "wof:name":"Fladeland Mechanical",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "metal",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.73784,
+    46.813967,
+    -100.73784,
+    46.813967
+],
+  "geometry": {"coordinates":[-100.73784000000001,46.813967],"type":"Point"}
+}

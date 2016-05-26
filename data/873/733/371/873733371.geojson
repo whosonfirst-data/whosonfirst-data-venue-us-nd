@@ -1,0 +1,66 @@
+{
+  "id": 873733371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.31761,48.245267,-101.31761,48.245267",
+    "geom:latitude":48.245267,
+    "geom:longitude":-101.31761,
+    "iso:country":"US",
+    "sg:address":"1510 University Ave W",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 857 4496",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qXODSGW0AuOeuYH7r8emf_48.245267_-101.317610@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296819,
+    "wof:geomhash":"4ba91d804a0cb9c65332e4abeba92006",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873733371
+        }
+    ],
+    "wof:id":873733371,
+    "wof:lastmodified":1464296819,
+    "wof:name":"Souris River Campus High Schl",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.31761,
+    48.245267,
+    -101.31761,
+    48.245267
+],
+  "geometry": {"coordinates":[-101.31761,48.245267],"type":"Point"}
+}

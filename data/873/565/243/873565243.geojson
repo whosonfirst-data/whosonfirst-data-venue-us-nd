@@ -1,0 +1,71 @@
+{
+  "id": 873565243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.043852,47.930015,-97.043852,47.930015",
+    "geom:latitude":47.930015,
+    "geom:longitude":-97.043852,
+    "iso:country":"US",
+    "sg:address":"809 N 5th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 9665",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NcnVmOPsMPB0zx9sBtLbU_47.930015_-97.043852@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294558,
+    "wof:geomhash":"eb9a70c445fcbd87bbfed731cdb71f07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873565243
+        }
+    ],
+    "wof:id":873565243,
+    "wof:lastmodified":1464294558,
+    "wof:name":"Reindeer Property Mgmt",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -97.043852,
+    47.930015,
+    -97.043852,
+    47.930015
+],
+  "geometry": {"coordinates":[-97.043852,47.930015],"type":"Point"}
+}

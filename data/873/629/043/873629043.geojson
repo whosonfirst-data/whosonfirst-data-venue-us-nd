@@ -1,0 +1,73 @@
+{
+  "id": 873629043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.566463,47.733155,-97.566463,47.733155",
+    "geom:latitude":47.733155,
+    "geom:longitude":-97.566463,
+    "iso:country":"US",
+    "sg:address":"303 Main St",
+    "sg:city":"Northwood",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 587 5048",
+    "sg:postcode":"58267",
+    "sg:province":"ND",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hbZwHahKwhTSZ0k4whENG_47.733155_-97.566463@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295350,
+    "wof:geomhash":"bfc35b0df7aa376157031e70db640db7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873629043
+        }
+    ],
+    "wof:id":873629043,
+    "wof:lastmodified":1464295350,
+    "wof:name":"Skip's Auto Sales",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -97.566463,
+    47.733155,
+    -97.566463,
+    47.733155
+],
+  "geometry": {"coordinates":[-97.566463,47.733155],"type":"Point"}
+}

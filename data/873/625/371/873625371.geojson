@@ -1,0 +1,71 @@
+{
+  "id": 873625371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.311011,48.239185,-101.311011,48.239185",
+    "geom:latitude":48.239185,
+    "geom:longitude":-101.311011,
+    "iso:country":"US",
+    "sg:address":"1304 4th Ave NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 9227",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JvW2q1aVBV35C7xw0NGGe_48.239185_-101.311011@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295314,
+    "wof:geomhash":"d764bf8fa9e85211df18a3c800e36c8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873625371
+        }
+    ],
+    "wof:id":873625371,
+    "wof:lastmodified":1464295314,
+    "wof:name":"Studio 6 Photography",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -101.311011,
+    48.239185,
+    -101.311011,
+    48.239185
+],
+  "geometry": {"coordinates":[-101.31101099999999,48.239185],"type":"Point"}
+}

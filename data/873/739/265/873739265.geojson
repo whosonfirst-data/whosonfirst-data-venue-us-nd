@@ -1,0 +1,66 @@
+{
+  "id": 873739265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.286729,48.23272,-101.286729,48.23272",
+    "geom:latitude":48.23272,
+    "geom:longitude":-101.286729,
+    "iso:country":"US",
+    "sg:address":"417 Burdick Expy E",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 6828",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58GE1RhJEcWlb67uxDfL7m_48.232720_-101.286729@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296911,
+    "wof:geomhash":"fc188252be26895e7f29b5a5d92b6656",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873739265
+        }
+    ],
+    "wof:id":873739265,
+    "wof:lastmodified":1464296911,
+    "wof:name":"Bethke Gardens",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.286729,
+    48.23272,
+    -101.286729,
+    48.23272
+],
+  "geometry": {"coordinates":[-101.28672899999999,48.23272],"type":"Point"}
+}

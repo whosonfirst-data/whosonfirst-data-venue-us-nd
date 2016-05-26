@@ -1,0 +1,77 @@
+{
+  "id": 873786945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.642919,47.239517,-97.642919,47.239517",
+    "geom:latitude":47.239517,
+    "geom:longitude":-97.642919,
+    "iso:country":"US",
+    "sg:address":"13498 12th St SE",
+    "sg:city":"Hope",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 945 2510",
+    "sg:postcode":"58046",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "wheat",
+        "grain",
+        "cash",
+        "soybean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gXSyHMmGlKlwRrtrvwCe3_47.239517_-97.642919@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297589,
+    "wof:geomhash":"672f3c2684f706b78bd3a5cbccc5ef52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873786945
+        }
+    ],
+    "wof:id":873786945,
+    "wof:lastmodified":1464297589,
+    "wof:name":"Mike Whitmore",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "wheat",
+        "grain",
+        "cash",
+        "soybean"
+    ]
+},
+  "bbox": [
+    -97.642919,
+    47.239517,
+    -97.642919,
+    47.239517
+],
+  "geometry": {"coordinates":[-97.64291900000001,47.239517],"type":"Point"}
+}

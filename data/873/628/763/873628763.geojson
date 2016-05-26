@@ -1,0 +1,81 @@
+{
+  "id": 873628763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.789213,46.807646,-100.789213,46.807646",
+    "geom:latitude":46.807646,
+    "geom:longitude":-100.789213,
+    "iso:country":"US",
+    "sg:address":"106 E Thayer Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 4445",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "baker"
+    ],
+    "sg:website":"www.breadpoets.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OOHbMabLgjpQx0XOMzyZS_46.807646_-100.789213@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295347,
+    "wof:geomhash":"b9f1c392d1324d312d2c3ddf3c09b39a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873628763
+        }
+    ],
+    "wof:id":873628763,
+    "wof:lastmodified":1464295347,
+    "wof:name":"Bread Poets Baking Co",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -100.789213,
+    46.807646,
+    -100.789213,
+    46.807646
+],
+  "geometry": {"coordinates":[-100.789213,46.807646],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873765457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.047978,47.915549,-97.047978,47.915549",
+    "geom:latitude":47.915549,
+    "geom:longitude":-97.047978,
+    "iso:country":"US",
+    "sg:address":"623 S 15th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 6534",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45O7XJR1Zy3qpJzS4TeGbO_47.915549_-97.047978@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297303,
+    "wof:geomhash":"4d47ddf84f1de856eada32e48b1d5f9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873765457
+        }
+    ],
+    "wof:id":873765457,
+    "wof:lastmodified":1464297303,
+    "wof:name":"Len's Auto Repair",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -97.047978,
+    47.915549,
+    -97.047978,
+    47.915549
+],
+  "geometry": {"coordinates":[-97.047978,47.915549],"type":"Point"}
+}

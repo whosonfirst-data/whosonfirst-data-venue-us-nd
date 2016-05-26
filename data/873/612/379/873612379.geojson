@@ -1,0 +1,71 @@
+{
+  "id": 873612379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.080007,47.947684,-97.080007,47.947684",
+    "geom:latitude":47.947684,
+    "geom:longitude":-97.080007,
+    "iso:country":"US",
+    "sg:address":"2949 27th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 1241",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mV6DvStegNd4Xkq8dc9iL_47.947684_-97.080007@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295170,
+    "wof:geomhash":"f30c66c686ee2c641928c58face6de37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873612379
+        }
+    ],
+    "wof:id":873612379,
+    "wof:lastmodified":1464295170,
+    "wof:name":"Qwest Solutions Ctr",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -97.080007,
+    47.947684,
+    -97.080007,
+    47.947684
+],
+  "geometry": {"coordinates":[-97.08000699999999,47.947684],"type":"Point"}
+}

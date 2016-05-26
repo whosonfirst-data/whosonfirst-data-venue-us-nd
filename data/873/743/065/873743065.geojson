@@ -1,0 +1,75 @@
+{
+  "id": 873743065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-102.784378,46.897688,-102.784378,46.897688",
+    "geom:latitude":46.897688,
+    "geom:longitude":-102.784378,
+    "iso:country":"US",
+    "sg:address":"16 14th St E",
+    "sg:city":"Dickinson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 225 1591",
+    "sg:postcode":"58601",
+    "sg:province":"ND",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877119,
+        102191575,
+        404482179,
+        85633793,
+        85982521,
+        102082105,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52hXIvGf2RmpZPLOE6NGRe_46.897688_-102.784378@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296972,
+    "wof:geomhash":"2ab758161b1d95025c218c8f6daffff4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082105,
+            "localadmin_id":404482179,
+            "locality_id":85982521,
+            "neighbourhood_id":85877119,
+            "region_id":85688525,
+            "venue_id":873743065
+        }
+    ],
+    "wof:id":873743065,
+    "wof:lastmodified":1464296972,
+    "wof:name":"A Forster DVM",
+    "wof:parent_id":85877119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -102.784378,
+    46.897688,
+    -102.784378,
+    46.897688
+],
+  "geometry": {"coordinates":[-102.784378,46.897688],"type":"Point"}
+}

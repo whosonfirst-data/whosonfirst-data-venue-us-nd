@@ -1,0 +1,82 @@
+{
+  "id": 873746953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.301996,48.20283,-101.301996,48.20283",
+    "geom:latitude":48.20283,
+    "geom:longitude":-101.301996,
+    "iso:country":"US",
+    "sg:address":"615 31st Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 8079",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "glass",
+        "window",
+        "contractor",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6R7xHvjGg7Oj2rkle5eVxh_48.202830_-101.301996@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297037,
+    "wof:geomhash":"8b04be9aaed1f2edb8719f6d37f0a646",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873746953
+        }
+    ],
+    "wof:id":873746953,
+    "wof:lastmodified":1464297037,
+    "wof:name":"All American City Glass",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "contractor",
+        "plate"
+    ]
+},
+  "bbox": [
+    -101.301996,
+    48.20283,
+    -101.301996,
+    48.20283
+],
+  "geometry": {"coordinates":[-101.301996,48.20283],"type":"Point"}
+}

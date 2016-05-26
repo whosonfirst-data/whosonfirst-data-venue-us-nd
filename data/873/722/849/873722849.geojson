@@ -1,0 +1,75 @@
+{
+  "id": 873722849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.292958,48.234838,-101.292958,48.234838",
+    "geom:latitude":48.234838,
+    "geom:longitude":-101.292958,
+    "iso:country":"US",
+    "sg:address":"217 Main St S",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 1560",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "federal",
+        "planning",
+        "dev"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SPIUcbKgTlRU97YtwGikQ_48.234838_-101.292958@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296685,
+    "wof:geomhash":"4ccb116c29dcb87515c0e6485b690fbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873722849
+        }
+    ],
+    "wof:id":873722849,
+    "wof:lastmodified":1464296685,
+    "wof:name":"USDA Rural Development",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "planning",
+        "dev"
+    ]
+},
+  "bbox": [
+    -101.292958,
+    48.234838,
+    -101.292958,
+    48.234838
+],
+  "geometry": {"coordinates":[-101.292958,48.234838],"type":"Point"}
+}

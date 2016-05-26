@@ -1,0 +1,77 @@
+{
+  "id": 873685351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.740876,46.823454,-100.740876,46.823454",
+    "geom:latitude":46.823454,
+    "geom:longitude":-100.740876,
+    "iso:country":"US",
+    "sg:address":"3405 E Divide Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 7774",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "body",
+        "automotive",
+        "painting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Jmugt26HdtduvyGqXoiol_46.823454_-100.740876@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296147,
+    "wof:geomhash":"f87196c81aa873f7bb86b89b6471af69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873685351
+        }
+    ],
+    "wof:id":873685351,
+    "wof:lastmodified":1464296147,
+    "wof:name":"C K Frame & Collision Center",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automotive",
+        "painting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -100.740876,
+    46.823454,
+    -100.740876,
+    46.823454
+],
+  "geometry": {"coordinates":[-100.740876,46.823454],"type":"Point"}
+}

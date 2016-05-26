@@ -1,0 +1,74 @@
+{
+  "id": 873684087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.253049,48.215149,-101.253049,48.215149",
+    "geom:latitude":48.215149,
+    "geom:longitude":-101.253049,
+    "iso:country":"US",
+    "sg:address":"2626 Valley St",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 4445",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "sg:website":"www.holmeselectric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HvJof5unLBkyzb1g7zBHj_48.215149_-101.253049@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296113,
+    "wof:geomhash":"ea67d869c7834e8350f6097f43e81b71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873684087
+        }
+    ],
+    "wof:id":873684087,
+    "wof:lastmodified":1464296113,
+    "wof:name":"Holmes Electric Co",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.253049,
+    48.215149,
+    -101.253049,
+    48.215149
+],
+  "geometry": {"coordinates":[-101.253049,48.215149],"type":"Point"}
+}

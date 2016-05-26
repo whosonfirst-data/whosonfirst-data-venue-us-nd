@@ -1,0 +1,71 @@
+{
+  "id": 873671551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.01149,47.8677,-97.01149,47.8677",
+    "geom:latitude":47.8677,
+    "geom:longitude":-97.01149,
+    "iso:country":"US",
+    "sg:address":"803 Shady Ridge Ct",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 0718",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Fqj4PNnjt3bkmtbKz3bQk_47.867700_-97.011490@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295817,
+    "wof:geomhash":"223f81ef9b90fdc878a7339a2bc1e720",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873671551
+        }
+    ],
+    "wof:id":873671551,
+    "wof:lastmodified":1464295817,
+    "wof:name":"Blarney Mill",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -97.01149,
+    47.8677,
+    -97.01149,
+    47.8677
+],
+  "geometry": {"coordinates":[-97.01148999999999,47.8677],"type":"Point"}
+}

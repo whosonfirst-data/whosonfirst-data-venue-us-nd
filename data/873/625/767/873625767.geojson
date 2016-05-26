@@ -1,0 +1,71 @@
+{
+  "id": 873625767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.773402,46.788445,-100.773402,46.788445",
+    "geom:latitude":46.788445,
+    "geom:longitude":-100.773402,
+    "iso:country":"US",
+    "sg:address":"1208 Frontier Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 8900",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29pGurSOJ4giwuPdMGx7dG_46.788445_-100.773402@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295318,
+    "wof:geomhash":"c32b57b343cefeaecfc25fc42415ab6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873625767
+        }
+    ],
+    "wof:id":873625767,
+    "wof:lastmodified":1464295318,
+    "wof:name":"Northwest Building Improvement",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.773402,
+    46.788445,
+    -100.773402,
+    46.788445
+],
+  "geometry": {"coordinates":[-100.773402,46.788445],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873626693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.752248,46.811203,-100.752248,46.811203",
+    "geom:latitude":46.811203,
+    "geom:longitude":-100.752248,
+    "iso:country":"US",
+    "sg:address":"2426 Kimberly Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 224 0815",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7doFZP8b31ViCKFmBrtj2d_46.811203_-100.752248@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295327,
+    "wof:geomhash":"8363903837d769faa4eaf189859b8a61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873626693
+        }
+    ],
+    "wof:id":873626693,
+    "wof:lastmodified":1464295327,
+    "wof:name":"Night Patrol DJ Svc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bureau"
+    ]
+},
+  "bbox": [
+    -100.752248,
+    46.811203,
+    -100.752248,
+    46.811203
+],
+  "geometry": {"coordinates":[-100.75224799999999,46.811203],"type":"Point"}
+}

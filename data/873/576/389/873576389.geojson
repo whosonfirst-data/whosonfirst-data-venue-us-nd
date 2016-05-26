@@ -1,0 +1,75 @@
+{
+  "id": 873576389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.82157,46.850539,-96.82157,46.850539",
+    "geom:latitude":46.850539,
+    "geom:longitude":-96.82157,
+    "iso:country":"US",
+    "sg:address":"103 Prairiewood Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 9888",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420558815,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Q4OYhYrYBE3xdoIfKtbnP_46.850539_-96.821570@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294677,
+    "wof:geomhash":"53f53f95b315ec0649d7531cbd60efe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420558815,
+            "region_id":85688525,
+            "venue_id":873576389
+        }
+    ],
+    "wof:id":873576389,
+    "wof:lastmodified":1464294677,
+    "wof:name":"F M Electrolysis",
+    "wof:parent_id":420558815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -96.82157,
+    46.850539,
+    -96.82157,
+    46.850539
+],
+  "geometry": {"coordinates":[-96.82156999999999,46.850539],"type":"Point"}
+}

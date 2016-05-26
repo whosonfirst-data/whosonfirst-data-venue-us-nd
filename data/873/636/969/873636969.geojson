@@ -1,0 +1,72 @@
+{
+  "id": 873636969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.778576,46.786444,-100.778576,46.786444",
+    "geom:latitude":46.786444,
+    "geom:longitude":-100.778576,
+    "iso:country":"US",
+    "sg:address":"901 Basin Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 1500",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "engineer"
+    ],
+    "sg:website":"www.fecinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bBaIs2ZRdkk7PUoE9v7vc_46.786444_-100.778576@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295444,
+    "wof:geomhash":"3323c23907bedbfb2f01b5fac29a425a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873636969
+        }
+    ],
+    "wof:id":873636969,
+    "wof:lastmodified":1464295444,
+    "wof:name":"Finley Engineering Co Inc",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -100.778576,
+    46.786444,
+    -100.778576,
+    46.786444
+],
+  "geometry": {"coordinates":[-100.778576,46.786444],"type":"Point"}
+}

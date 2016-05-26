@@ -1,0 +1,71 @@
+{
+  "id": 873579677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.044605,47.898897,-97.044605,47.898897",
+    "geom:latitude":47.898897,
+    "geom:longitude":-97.044605,
+    "iso:country":"US",
+    "sg:address":"2317 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 5336",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KwJ7G3UygN8tuWuh8OnbI_47.898897_-97.044605@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294713,
+    "wof:geomhash":"8bc14d85b9077e46da86339f377760bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873579677
+        }
+    ],
+    "wof:id":873579677,
+    "wof:lastmodified":1464294713,
+    "wof:name":"C & R Cleaners & Laundry",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -97.044605,
+    47.898897,
+    -97.044605,
+    47.898897
+],
+  "geometry": {"coordinates":[-97.044605,47.898897],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873717693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.318888,48.240164,-101.318888,48.240164",
+    "geom:latitude":48.240164,
+    "geom:longitude":-101.318888,
+    "iso:country":"US",
+    "sg:address":"1620 4th Ave NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 8046",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automotive",
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Bw8UDg9xbm80BXdsoZU8f_48.240164_-101.318888@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296617,
+    "wof:geomhash":"b28c780f6f55251e3c001411048c8a7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873717693
+        }
+    ],
+    "wof:id":873717693,
+    "wof:lastmodified":1464296617,
+    "wof:name":"Midwest Tire & Muffler",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "repair"
+    ]
+},
+  "bbox": [
+    -101.318888,
+    48.240164,
+    -101.318888,
+    48.240164
+],
+  "geometry": {"coordinates":[-101.318888,48.240164],"type":"Point"}
+}

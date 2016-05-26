@@ -1,0 +1,71 @@
+{
+  "id": 873778471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.799418,46.799646,-100.799418,46.799646",
+    "geom:latitude":46.799646,
+    "geom:longitude":-100.799418,
+    "iso:country":"US",
+    "sg:address":"505 W Indiana Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 8845",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OAIu4gdL4C9tFwq2ZyKZt_46.799646_-100.799418@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297469,
+    "wof:geomhash":"122d4af900b68dc93df494d58758c7ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873778471
+        }
+    ],
+    "wof:id":873778471,
+    "wof:lastmodified":1464297469,
+    "wof:name":"Riverpark Apartments",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -100.799418,
+    46.799646,
+    -100.799418,
+    46.799646
+],
+  "geometry": {"coordinates":[-100.799418,46.799646],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873656785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.108585,47.933067,-97.108585,47.933067",
+    "geom:latitude":47.933067,
+    "geom:longitude":-97.108585,
+    "iso:country":"US",
+    "sg:address":"5208 Gateway Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 6003",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mt794bELppZgdTGYO0X37_47.933067_-97.108585@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295665,
+    "wof:geomhash":"6276c522f65b6b8b5f627f1f8a7513ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873656785
+        }
+    ],
+    "wof:id":873656785,
+    "wof:lastmodified":1464295665,
+    "wof:name":"Crosscountry Courier",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.108585,
+    47.933067,
+    -97.108585,
+    47.933067
+],
+  "geometry": {"coordinates":[-97.10858500000001,47.933067],"type":"Point"}
+}

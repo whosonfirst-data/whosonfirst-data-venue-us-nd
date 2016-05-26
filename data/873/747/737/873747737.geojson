@@ -1,0 +1,67 @@
+{
+  "id": 873747737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.293258,48.236527,-101.293258,48.236527",
+    "geom:latitude":48.236527,
+    "geom:longitude":-101.293258,
+    "iso:country":"US",
+    "sg:address":"22 Central Ave W",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 5047",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:website":"www.creativesalon.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gdg9zKbEhrjqpv8uV2wgr_48.236527_-101.293258@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297047,
+    "wof:geomhash":"67b9d8c9eebe09b147190bd3b8f3d97d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873747737
+        }
+    ],
+    "wof:id":873747737,
+    "wof:lastmodified":1464297047,
+    "wof:name":"Creative Salon & Spa",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.293258,
+    48.236527,
+    -101.293258,
+    48.236527
+],
+  "geometry": {"coordinates":[-101.29325799999999,48.236527],"type":"Point"}
+}

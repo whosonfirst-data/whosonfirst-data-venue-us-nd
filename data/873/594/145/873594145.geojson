@@ -1,0 +1,75 @@
+{
+  "id": 873594145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.622323,47.905783,-97.622323,47.905783",
+    "geom:latitude":47.905783,
+    "geom:longitude":-97.622323,
+    "iso:country":"US",
+    "sg:address":"113 E Main St",
+    "sg:city":"Larimore",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 343 2052",
+    "sg:postcode":"58251",
+    "sg:province":"ND",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YgdQeqAb3Hy1MPdPAs05c_47.905783_-97.622323@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294886,
+    "wof:geomhash":"cdd79b98674f71850745e4e5e0dbdd96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873594145
+        }
+    ],
+    "wof:id":873594145,
+    "wof:lastmodified":1464294886,
+    "wof:name":"Marly Pups",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -97.622323,
+    47.905783,
+    -97.622323,
+    47.905783
+],
+  "geometry": {"coordinates":[-97.62232299999999,47.905783],"type":"Point"}
+}

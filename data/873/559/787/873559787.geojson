@@ -1,0 +1,75 @@
+{
+  "id": 873559787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.44682,47.316438,-100.44682,47.316438",
+    "geom:latitude":47.316438,
+    "geom:longitude":-100.44682,
+    "iso:country":"US",
+    "sg:address":"21400 461st Ave NE",
+    "sg:city":"Regan",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 363 2359",
+    "sg:postcode":"58477",
+    "sg:province":"ND",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jyPrjeEGLu7OcDHYFkzNg_47.316438_-100.446820@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294497,
+    "wof:geomhash":"301de09ebd709cc2d5e72d5d1acac9b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873559787
+        }
+    ],
+    "wof:id":873559787,
+    "wof:lastmodified":1464294497,
+    "wof:name":"Myrna Nigrin",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -100.44682,
+    47.316438,
+    -100.44682,
+    47.316438
+],
+  "geometry": {"coordinates":[-100.44682,47.316438],"type":"Point"}
+}

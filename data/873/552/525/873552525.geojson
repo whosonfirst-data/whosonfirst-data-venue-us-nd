@@ -1,0 +1,77 @@
+{
+  "id": 873552525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.755464,46.820809,-100.755464,46.820809",
+    "geom:latitude":46.820809,
+    "geom:longitude":-100.755464,
+    "iso:country":"US",
+    "sg:address":"2432 Laforest Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 0951",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wm4jJmIZ3k90qQNvz8Ncf_46.820809_-100.755464@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294407,
+    "wof:geomhash":"a9fd897582dd93f64309083b1aba3a7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873552525
+        }
+    ],
+    "wof:id":873552525,
+    "wof:lastmodified":1464294407,
+    "wof:name":"Climatech Heating & Air Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.755464,
+    46.820809,
+    -100.755464,
+    46.820809
+],
+  "geometry": {"coordinates":[-100.755464,46.820809],"type":"Point"}
+}

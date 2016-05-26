@@ -1,0 +1,73 @@
+{
+  "id": 873651427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.292192,48.240119,-101.292192,48.240119",
+    "geom:latitude":48.240119,
+    "geom:longitude":-101.292192,
+    "iso:country":"US",
+    "sg:address":"15 4th Ave NE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 1562",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "guard",
+        "patrol"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CdrqNboEsqStfSGryVMfj_48.240119_-101.292192@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295602,
+    "wof:geomhash":"39fc831e48d24e2b92e7bdf8a1312cc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873651427
+        }
+    ],
+    "wof:id":873651427,
+    "wof:lastmodified":1464295602,
+    "wof:name":"J-N-T Security Svc",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guard",
+        "patrol"
+    ]
+},
+  "bbox": [
+    -101.292192,
+    48.240119,
+    -101.292192,
+    48.240119
+],
+  "geometry": {"coordinates":[-101.292192,48.240119],"type":"Point"}
+}

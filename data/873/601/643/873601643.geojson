@@ -1,0 +1,71 @@
+{
+  "id": 873601643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.75425,46.809981,-100.75425,46.809981",
+    "geom:latitude":46.809981,
+    "geom:longitude":-100.75425,
+    "iso:country":"US",
+    "sg:address":"517 N 25th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 1038",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "clothing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iUQHRwSKJanxoV5ui4YDr_46.809981_-100.754250@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295004,
+    "wof:geomhash":"f3847b93eedc302bcb892a3644c80821",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873601643
+        }
+    ],
+    "wof:id":873601643,
+    "wof:lastmodified":1464295004,
+    "wof:name":"Fruit of Womb",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clothing"
+    ]
+},
+  "bbox": [
+    -100.75425,
+    46.809981,
+    -100.75425,
+    46.809981
+],
+  "geometry": {"coordinates":[-100.75425,46.809981],"type":"Point"}
+}

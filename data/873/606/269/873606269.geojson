@@ -1,0 +1,73 @@
+{
+  "id": 873606269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.057579,47.916082,-97.057579,47.916082",
+    "geom:latitude":47.916082,
+    "geom:longitude":-97.057579,
+    "iso:country":"US",
+    "sg:address":"2111 Demers Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 7189",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LmKJjxZJxNBTjO3I6o3Ql_47.916082_-97.057579@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295062,
+    "wof:geomhash":"ff046b2458de4e517f37bb5d7d147cec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873606269
+        }
+    ],
+    "wof:id":873606269,
+    "wof:lastmodified":1464295062,
+    "wof:name":"Keith's Lock & Key Shop",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -97.057579,
+    47.916082,
+    -97.057579,
+    47.916082
+],
+  "geometry": {"coordinates":[-97.057579,47.916082],"type":"Point"}
+}

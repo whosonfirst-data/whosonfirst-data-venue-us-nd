@@ -1,0 +1,77 @@
+{
+  "id": 873602269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.736714,48.314316,-101.736714,48.314316",
+    "geom:latitude":48.314316,
+    "geom:longitude":-101.736714,
+    "iso:country":"US",
+    "sg:address":"105 Main St N",
+    "sg:city":"Berthold",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 453 3472",
+    "sg:postcode":"58718",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "dryer",
+        "grain",
+        "drying"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2S6kaBrGpIrNEzjUJNSGZD_48.314316_-101.736714@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295011,
+    "wof:geomhash":"c63d98b54e05c4fba56376ba6789e5b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873602269
+        }
+    ],
+    "wof:id":873602269,
+    "wof:lastmodified":1464295011,
+    "wof:name":"Western Builders Inc",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dryer",
+        "grain",
+        "drying"
+    ]
+},
+  "bbox": [
+    -101.736714,
+    48.314316,
+    -101.736714,
+    48.314316
+],
+  "geometry": {"coordinates":[-101.73671400000001,48.314316],"type":"Point"}
+}

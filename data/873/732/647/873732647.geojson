@@ -1,0 +1,77 @@
+{
+  "id": 873732647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.757887,46.820609,-100.757887,46.820609",
+    "geom:latitude":46.820609,
+    "geom:longitude":-100.757887,
+    "iso:country":"US",
+    "sg:address":"1349 N 23rd St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 1659",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "building",
+        "ope",
+        "apartment",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bTWlqzP5JCi2r26Jx1yHa_46.820609_-100.757887@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296811,
+    "wof:geomhash":"2ec88ee1fccca0fdb8ef32f2a84ad506",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873732647
+        }
+    ],
+    "wof:id":873732647,
+    "wof:lastmodified":1464296811,
+    "wof:name":"Ell Enterprises",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "ope",
+        "apartment",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -100.757887,
+    46.820609,
+    -100.757887,
+    46.820609
+],
+  "geometry": {"coordinates":[-100.757887,46.820609],"type":"Point"}
+}

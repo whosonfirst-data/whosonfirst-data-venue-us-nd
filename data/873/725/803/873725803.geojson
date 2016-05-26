@@ -1,0 +1,66 @@
+{
+  "id": 873725803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.038817,47.893,-97.038817,47.893",
+    "geom:latitude":47.893,
+    "geom:longitude":-97.038817,
+    "iso:country":"US",
+    "sg:address":"819 28th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 2573",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZpvaApl7viwBHjcmPTeME_47.893000_-97.038817@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296722,
+    "wof:geomhash":"ab9f2e19fa58f69a17c65efb45ecfdb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873725803
+        }
+    ],
+    "wof:id":873725803,
+    "wof:lastmodified":1464296722,
+    "wof:name":"Hot Perks Coffee Service",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.038817,
+    47.893,
+    -97.038817,
+    47.893
+],
+  "geometry": {"coordinates":[-97.03881699999999,47.893],"type":"Point"}
+}

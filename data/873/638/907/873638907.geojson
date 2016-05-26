@@ -1,0 +1,71 @@
+{
+  "id": 873638907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.781599,46.802129,-100.781599,46.802129",
+    "geom:latitude":46.802129,
+    "geom:longitude":-100.781599,
+    "iso:country":"US",
+    "sg:address":"311 S 7th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 3108",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QTSzKpZpZThV0yOBt6Yns_46.802129_-100.781599@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295463,
+    "wof:geomhash":"ef1be2cfab51cf47b89441364a714287",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873638907
+        }
+    ],
+    "wof:id":873638907,
+    "wof:lastmodified":1464295463,
+    "wof:name":"A & B Pizza",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -100.781599,
+    46.802129,
+    -100.781599,
+    46.802129
+],
+  "geometry": {"coordinates":[-100.781599,46.802129],"type":"Point"}
+}

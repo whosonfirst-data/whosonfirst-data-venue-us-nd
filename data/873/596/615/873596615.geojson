@@ -1,0 +1,73 @@
+{
+  "id": 873596615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.302956,48.265647,-101.302956,48.265647",
+    "geom:latitude":48.265647,
+    "geom:longitude":-101.302956,
+    "iso:country":"US",
+    "sg:address":"2616 6th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 837 9051",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56ld7v9HDITpyO8Cw6acDR_48.265647_-101.302956@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294939,
+    "wof:geomhash":"961dc374aa275449a1e35a897208ff35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873596615
+        }
+    ],
+    "wof:id":873596615,
+    "wof:lastmodified":1464294939,
+    "wof:name":"ACB Construction",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.302956,
+    48.265647,
+    -101.302956,
+    48.265647
+],
+  "geometry": {"coordinates":[-101.30295599999999,48.265647],"type":"Point"}
+}

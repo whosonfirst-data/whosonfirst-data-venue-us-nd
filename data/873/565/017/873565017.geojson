@@ -1,0 +1,80 @@
+{
+  "id": 873565017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.83688,46.864472,-96.83688,46.864472",
+    "geom:latitude":46.864472,
+    "geom:longitude":-96.83688,
+    "iso:country":"US",
+    "sg:address":"3429 Interstate Blvd S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 241 8504",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "machine",
+        "duplicating",
+        "copying"
+    ],
+    "sg:website":"www.liberty.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NeEZqCPhobKH3sIy9uJgH_46.864472_-96.836880@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294555,
+    "wof:geomhash":"4b19b272c09e7a93c9e0409bce113fcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873565017
+        }
+    ],
+    "wof:id":873565017,
+    "wof:lastmodified":1464294555,
+    "wof:name":"Liberty Business Systems Inc",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "duplicating",
+        "copying"
+    ]
+},
+  "bbox": [
+    -96.83688,
+    46.864472,
+    -96.83688,
+    46.864472
+],
+  "geometry": {"coordinates":[-96.83687999999999,46.864472],"type":"Point"}
+}

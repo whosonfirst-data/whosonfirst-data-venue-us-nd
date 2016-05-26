@@ -1,0 +1,73 @@
+{
+  "id": 873768769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.080966,47.88938,-97.080966,47.88938",
+    "geom:latitude":47.88938,
+    "geom:longitude":-97.080966,
+    "iso:country":"US",
+    "sg:address":"3861 32nd Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 0072",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "craft",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YpJ7zi5FxTOLLA2XNzCtk_47.889380_-97.080966@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297347,
+    "wof:geomhash":"292d30e4a481b1222dd32f41c044ea83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873768769
+        }
+    ],
+    "wof:id":873768769,
+    "wof:lastmodified":1464297347,
+    "wof:name":"Michaels Arts & Crafts Store",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "craft",
+        "supply"
+    ]
+},
+  "bbox": [
+    -97.080966,
+    47.88938,
+    -97.080966,
+    47.88938
+],
+  "geometry": {"coordinates":[-97.080966,47.88938],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873557173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.037424,47.895722,-97.037424,47.895722",
+    "geom:latitude":47.895722,
+    "geom:longitude":-97.037424,
+    "iso:country":"US",
+    "sg:address":"711 25th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 6227",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "embroidery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MsDmsCLHhzy5wfz06wpH1_47.895722_-97.037424@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294462,
+    "wof:geomhash":"0445e62599e2f643f8131ec4ed04d935",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873557173
+        }
+    ],
+    "wof:id":873557173,
+    "wof:lastmodified":1464294462,
+    "wof:name":"Murphy Embroidery",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "embroidery"
+    ]
+},
+  "bbox": [
+    -97.037424,
+    47.895722,
+    -97.037424,
+    47.895722
+],
+  "geometry": {"coordinates":[-97.037424,47.895722],"type":"Point"}
+}

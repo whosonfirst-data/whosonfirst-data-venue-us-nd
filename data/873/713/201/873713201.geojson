@@ -1,0 +1,71 @@
+{
+  "id": 873713201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.287744,48.243173,-101.287744,48.243173",
+    "geom:latitude":48.243173,
+    "geom:longitude":-101.287744,
+    "iso:country":"US",
+    "sg:address":"600 3rd St NE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 2244",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RO4CFlZjdH9IFre6Yq6r7_48.243173_-101.287744@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296558,
+    "wof:geomhash":"df51dce76be8da323d4a4022f2d30020",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873713201
+        }
+    ],
+    "wof:id":873713201,
+    "wof:lastmodified":1464296558,
+    "wof:name":"B & D Market East",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -101.287744,
+    48.243173,
+    -101.287744,
+    48.243173
+],
+  "geometry": {"coordinates":[-101.287744,48.243173],"type":"Point"}
+}

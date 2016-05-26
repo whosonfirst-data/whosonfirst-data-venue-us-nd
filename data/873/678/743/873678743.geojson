@@ -1,0 +1,71 @@
+{
+  "id": 873678743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.788071,46.794081,-100.788071,46.794081",
+    "geom:latitude":46.794081,
+    "geom:longitude":-100.788071,
+    "iso:country":"US",
+    "sg:address":"1116 S 3rd St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 391 5384",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Bqsyxen40aPwCkXw9QtqL_46.794081_-100.788071@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295960,
+    "wof:geomhash":"ca0dc8e3264a0e886f18881e4457d8fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873678743
+        }
+    ],
+    "wof:id":873678743,
+    "wof:lastmodified":1464295960,
+    "wof:name":"At Your Place Computer & Tech",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -100.788071,
+    46.794081,
+    -100.788071,
+    46.794081
+],
+  "geometry": {"coordinates":[-100.788071,46.794081],"type":"Point"}
+}

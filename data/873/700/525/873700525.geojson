@@ -1,0 +1,75 @@
+{
+  "id": 873700525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.813474,46.875357,-96.813474,46.875357",
+    "geom:latitude":46.875357,
+    "geom:longitude":-96.813474,
+    "iso:country":"US",
+    "sg:address":"15 21st St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 364 0011",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46zHm7kkCOuv2q5nNTCO78_46.875357_-96.813474@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296412,
+    "wof:geomhash":"44135b41ada964c66c2f15a6af4d4bce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873700525
+        }
+    ],
+    "wof:id":873700525,
+    "wof:lastmodified":1464296412,
+    "wof:name":"Omni Entertainment",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bureau"
+    ]
+},
+  "bbox": [
+    -96.813474,
+    46.875357,
+    -96.813474,
+    46.875357
+],
+  "geometry": {"coordinates":[-96.813474,46.875357],"type":"Point"}
+}

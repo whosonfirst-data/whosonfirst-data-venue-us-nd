@@ -1,0 +1,73 @@
+{
+  "id": 873561955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.778579,46.78688,-100.778579,46.78688",
+    "geom:latitude":46.78688,
+    "geom:longitude":-100.778579,
+    "iso:country":"US",
+    "sg:address":"925 Basin Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 2242",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "consultant",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Wjk1axuOs0kKkNP2C0IvD_46.786880_-100.778579@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294520,
+    "wof:geomhash":"d27a128d33600aa728e3041236e4d741",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873561955
+        }
+    ],
+    "wof:id":873561955,
+    "wof:lastmodified":1464294520,
+    "wof:name":"Inet Technologies",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "business"
+    ]
+},
+  "bbox": [
+    -100.778579,
+    46.78688,
+    -100.778579,
+    46.78688
+],
+  "geometry": {"coordinates":[-100.77857899999999,46.78688],"type":"Point"}
+}

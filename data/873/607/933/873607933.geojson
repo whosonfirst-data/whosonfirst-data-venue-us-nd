@@ -1,0 +1,71 @@
+{
+  "id": 873607933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.321893,48.237277,-101.321893,48.237277",
+    "geom:latitude":48.237277,
+    "geom:longitude":-101.321893,
+    "iso:country":"US",
+    "sg:address":"108 19th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 8278",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KHTc5b2diyW0fCHL0CBb2_48.237277_-101.321893@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295098,
+    "wof:geomhash":"a838580fc0ace3fc232af98118e7202f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873607933
+        }
+    ],
+    "wof:id":873607933,
+    "wof:lastmodified":1464295098,
+    "wof:name":"Haaland Appraisal Svc",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -101.321893,
+    48.237277,
+    -101.321893,
+    48.237277
+],
+  "geometry": {"coordinates":[-101.321893,48.237277],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 873736709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.035844,47.903083,-97.035844,47.903083",
+    "geom:latitude":47.903083,
+    "geom:longitude":-97.035844,
+    "iso:country":"US",
+    "sg:address":"1710 Cherry St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 7125",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.immanuelgf.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30FcljEhQvBk95rTwLzjMl_47.903083_-97.035844@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296879,
+    "wof:geomhash":"131de94a2f7bdcac20ce4571318af76d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873736709
+        }
+    ],
+    "wof:id":873736709,
+    "wof:lastmodified":1464296879,
+    "wof:name":"Immanuel Lutheran Church Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -97.035844,
+    47.903083,
+    -97.035844,
+    47.903083
+],
+  "geometry": {"coordinates":[-97.035844,47.903083],"type":"Point"}
+}

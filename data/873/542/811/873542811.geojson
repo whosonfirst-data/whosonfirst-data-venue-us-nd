@@ -1,0 +1,66 @@
+{
+  "id": 873542811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.060712,47.874992,-97.060712,47.874992",
+    "geom:latitude":47.874992,
+    "geom:longitude":-97.060712,
+    "iso:country":"US",
+    "sg:address":"2400 47th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 792 4041",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jAa4jkWdW5hY1b2nY6xCS_47.874992_-97.060712@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294289,
+    "wof:geomhash":"f5e7123df20f80c7538f0da389568839",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873542811
+        }
+    ],
+    "wof:id":873542811,
+    "wof:lastmodified":1464294289,
+    "wof:name":"Grand Forks Instructional Svc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.060712,
+    47.874992,
+    -97.060712,
+    47.874992
+],
+  "geometry": {"coordinates":[-97.060712,47.874992],"type":"Point"}
+}

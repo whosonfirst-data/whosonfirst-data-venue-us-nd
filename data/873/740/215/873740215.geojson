@@ -1,0 +1,75 @@
+{
+  "id": 873740215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.044853,47.91715,-97.044853,47.91715",
+    "geom:latitude":47.91715,
+    "geom:longitude":-97.044853,
+    "iso:country":"US",
+    "sg:address":"575 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 4683",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "land",
+        "oil",
+        "lease"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SWeHCTL3qK6WDYRwdj9jX_47.917150_-97.044853@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296923,
+    "wof:geomhash":"90908cd6b7a2f17a5e4d948b598525a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873740215
+        }
+    ],
+    "wof:id":873740215,
+    "wof:lastmodified":1464296923,
+    "wof:name":"E J Lander Co",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "land",
+        "oil",
+        "lease"
+    ]
+},
+  "bbox": [
+    -97.044853,
+    47.91715,
+    -97.044853,
+    47.91715
+],
+  "geometry": {"coordinates":[-97.044853,47.91715],"type":"Point"}
+}

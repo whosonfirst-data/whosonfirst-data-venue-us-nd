@@ -1,0 +1,75 @@
+{
+  "id": 873680395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.299157,48.258289,-101.299157,48.258289",
+    "geom:latitude":48.258289,
+    "geom:longitude":-101.299157,
+    "iso:country":"US",
+    "sg:address":"2006 4th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 6431",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "live",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102531137,
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vAC0ExupI2HBATomjA1me_48.258289_-101.299157@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296007,
+    "wof:geomhash":"0c7d4cb06d373fcbb51034545ab6e5d4",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531137,
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873680395
+        }
+    ],
+    "wof:id":873680395,
+    "wof:lastmodified":1464296007,
+    "wof:name":"ADJ T'n T Production",
+    "wof:parent_id":102531137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "live",
+        "music"
+    ]
+},
+  "bbox": [
+    -101.299157,
+    48.258289,
+    -101.299157,
+    48.258289
+],
+  "geometry": {"coordinates":[-101.29915699999999,48.258289],"type":"Point"}
+}

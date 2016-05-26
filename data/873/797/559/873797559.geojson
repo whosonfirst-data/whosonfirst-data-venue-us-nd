@@ -1,0 +1,74 @@
+{
+  "id": 873797559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.044995,47.911116,-97.044995,47.911116",
+    "geom:latitude":47.911116,
+    "geom:longitude":-97.044995,
+    "iso:country":"US",
+    "sg:address":"1111 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/grand-forks/96328-taco-johns/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 9550",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KYrSWO7AOJeTu8yJLr7js_47.911116_-97.044995@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297744,
+    "wof:geomhash":"04f10481592218549cc65ad23ddbf3bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873797559
+        }
+    ],
+    "wof:id":873797559,
+    "wof:lastmodified":1464297744,
+    "wof:name":"Taco John's",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -97.044995,
+    47.911116,
+    -97.044995,
+    47.911116
+],
+  "geometry": {"coordinates":[-97.044995,47.911116],"type":"Point"}
+}

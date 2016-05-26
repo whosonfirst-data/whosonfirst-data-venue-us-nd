@@ -1,0 +1,80 @@
+{
+  "id": 873555739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.816744,46.875915,-96.816744,46.875915",
+    "geom:latitude":46.875915,
+    "geom:longitude":-96.816744,
+    "iso:country":"US",
+    "sg:address":"2300 Main Ave",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 0781",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "brick",
+        "common",
+        "face"
+    ],
+    "sg:website":"www.hebronbrick.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oCet9HszXTQx87XU6sA7v_46.875915_-96.816744@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294446,
+    "wof:geomhash":"dbf9b80260eefa8f461bb9f2065784bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873555739
+        }
+    ],
+    "wof:id":873555739,
+    "wof:lastmodified":1464294446,
+    "wof:name":"Hebron Brick Supply Co",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brick",
+        "common",
+        "face"
+    ]
+},
+  "bbox": [
+    -96.816744,
+    46.875915,
+    -96.816744,
+    46.875915
+],
+  "geometry": {"coordinates":[-96.816744,46.875915],"type":"Point"}
+}

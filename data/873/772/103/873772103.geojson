@@ -1,0 +1,75 @@
+{
+  "id": 873772103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.324181,48.236382,-101.324181,48.236382",
+    "geom:latitude":48.236382,
+    "geom:longitude":-101.324181,
+    "iso:country":"US",
+    "sg:address":"2013 Central Ave W",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 1511",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "house",
+        "improvement",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eJBAxe1EcKeGw89ZQ0ozX_48.236382_-101.324181@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297390,
+    "wof:geomhash":"f0fbe8b3283990c8d056c37a1469605a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873772103
+        }
+    ],
+    "wof:id":873772103,
+    "wof:lastmodified":1464297390,
+    "wof:name":"Jeff's Building & Remodeling",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "improvement",
+        "home"
+    ]
+},
+  "bbox": [
+    -101.324181,
+    48.236382,
+    -101.324181,
+    48.236382
+],
+  "geometry": {"coordinates":[-101.324181,48.236382],"type":"Point"}
+}

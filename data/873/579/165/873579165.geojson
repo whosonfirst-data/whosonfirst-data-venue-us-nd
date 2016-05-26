@@ -1,0 +1,73 @@
+{
+  "id": 873579165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.566586,47.734146,-97.566586,47.734146",
+    "geom:latitude":47.734146,
+    "geom:longitude":-97.566586,
+    "iso:country":"US",
+    "sg:address":"206 Main St",
+    "sg:city":"Northwood",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 587 5343",
+    "sg:postcode":"58267",
+    "sg:province":"ND",
+    "sg:tags":[
+        "commercial",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43k9eKPTOrRFAPgkUZOgfh_47.734146_-97.566586@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294707,
+    "wof:geomhash":"4992c2470fbc1b1cf07986a69a25372f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873579165
+        }
+    ],
+    "wof:id":873579165,
+    "wof:lastmodified":1464294707,
+    "wof:name":"A G V I S E Research Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "physical"
+    ]
+},
+  "bbox": [
+    -97.566586,
+    47.734146,
+    -97.566586,
+    47.734146
+],
+  "geometry": {"coordinates":[-97.566586,47.734146],"type":"Point"}
+}

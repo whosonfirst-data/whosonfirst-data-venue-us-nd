@@ -1,0 +1,66 @@
+{
+  "id": 873634555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.292964,48.236287,-101.292964,48.236287",
+    "geom:latitude":48.236287,
+    "geom:longitude":-101.292964,
+    "iso:country":"US",
+    "sg:address":"23 Main St S",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 2566",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tIXPLuOLW8dT6jjhJOndM_48.236287_-101.292964@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295419,
+    "wof:geomhash":"8b58789c641fd93680da581080df6dab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873634555
+        }
+    ],
+    "wof:id":873634555,
+    "wof:lastmodified":1464295419,
+    "wof:name":"Ricks Jewelry Repair Inc",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.292964,
+    48.236287,
+    -101.292964,
+    48.236287
+],
+  "geometry": {"coordinates":[-101.292964,48.236287],"type":"Point"}
+}

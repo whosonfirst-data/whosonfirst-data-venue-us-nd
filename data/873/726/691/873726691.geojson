@@ -1,0 +1,73 @@
+{
+  "id": 873726691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.301514,48.232382,-101.301514,48.232382",
+    "geom:latitude":48.232382,
+    "geom:longitude":-101.301514,
+    "iso:country":"US",
+    "sg:address":"608 US Hwy 2 Bus",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 837 8737",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "consulting",
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kZtLGMXf816r2V7qVZZID_48.232382_-101.301514@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296737,
+    "wof:geomhash":"d3e33771a146bbdf6af1663a8213a4d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873726691
+        }
+    ],
+    "wof:id":873726691,
+    "wof:lastmodified":1464296737,
+    "wof:name":"Ackerman-Estvold Engineering M",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -101.301514,
+    48.232382,
+    -101.301514,
+    48.232382
+],
+  "geometry": {"coordinates":[-101.301514,48.232382],"type":"Point"}
+}

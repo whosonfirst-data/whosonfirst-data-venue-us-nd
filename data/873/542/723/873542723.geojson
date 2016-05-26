@@ -1,0 +1,75 @@
+{
+  "id": 873542723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.833056,46.836276,-96.833056,46.836276",
+    "geom:latitude":46.836276,
+    "geom:longitude":-96.833056,
+    "iso:country":"US",
+    "sg:address":"3031 33rd St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 433 0785",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877355,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3O0mbqvFM10YkjV9FEE3ES_46.836276_-96.833056@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294288,
+    "wof:geomhash":"a5a2740fc6f1fdedbea55e4b6f2b3d62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877355,
+            "region_id":85688525,
+            "venue_id":873542723
+        }
+    ],
+    "wof:id":873542723,
+    "wof:lastmodified":1464294288,
+    "wof:name":"Matjo Siding",
+    "wof:parent_id":85877355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.833056,
+    46.836276,
+    -96.833056,
+    46.836276
+],
+  "geometry": {"coordinates":[-96.833056,46.836276],"type":"Point"}
+}

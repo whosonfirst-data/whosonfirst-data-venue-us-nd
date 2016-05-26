@@ -1,0 +1,76 @@
+{
+  "id": 873599961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.054884,47.939675,-97.054884,47.939675",
+    "geom:latitude":47.939675,
+    "geom:longitude":-97.054884,
+    "iso:country":"US",
+    "sg:address":"2010 Mill Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 3911",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "plumbing",
+        "fixture",
+        "supply"
+    ],
+    "sg:website":"www.northernplumbing.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aOFdPCXWE469RECdiBlR6_47.939675_-97.054884@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294986,
+    "wof:geomhash":"fe113014059544ee20c95b506c4d10dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873599961
+        }
+    ],
+    "wof:id":873599961,
+    "wof:lastmodified":1464294986,
+    "wof:name":"Northern Plumbing Supply",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "fixture",
+        "supply"
+    ]
+},
+  "bbox": [
+    -97.054884,
+    47.939675,
+    -97.054884,
+    47.939675
+],
+  "geometry": {"coordinates":[-97.054884,47.939675],"type":"Point"}
+}

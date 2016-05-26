@@ -1,0 +1,70 @@
+{
+  "id": 873566995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-102.786859,46.879498,-102.786859,46.879498",
+    "geom:latitude":46.879498,
+    "geom:longitude":-102.786859,
+    "iso:country":"US",
+    "sg:address":"34 1st Ave W",
+    "sg:city":"Dickinson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 483 3531",
+    "sg:postcode":"58601",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877119,
+        102191575,
+        404482179,
+        85633793,
+        85982521,
+        102082105,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aItqkpbCcZmvVbiQCI8Nc_46.879498_-102.786859@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294575,
+    "wof:geomhash":"1129c441103efc54eb1298e56134eee3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082105,
+            "localadmin_id":404482179,
+            "locality_id":85982521,
+            "neighbourhood_id":85877119,
+            "region_id":85688525,
+            "venue_id":873566995
+        }
+    ],
+    "wof:id":873566995,
+    "wof:lastmodified":1464294575,
+    "wof:name":"Dickinson Office Supply",
+    "wof:parent_id":85877119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -102.786859,
+    46.879498,
+    -102.786859,
+    46.879498
+],
+  "geometry": {"coordinates":[-102.78685900000001,46.879498],"type":"Point"}
+}

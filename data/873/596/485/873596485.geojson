@@ -1,0 +1,66 @@
+{
+  "id": 873596485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.298215,48.233143,-101.298215,48.233143",
+    "geom:latitude":48.233143,
+    "geom:longitude":-101.298215,
+    "iso:country":"US",
+    "sg:address":"300 3rd Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 1444",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ibD7uxPDXBcQxGdMSzuNt_48.233143_-101.298215@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294935,
+    "wof:geomhash":"a54082f19896579c731a55a3e544bf49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873596485
+        }
+    ],
+    "wof:id":873596485,
+    "wof:lastmodified":1464294935,
+    "wof:name":"Demke Financial Svc",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.298215,
+    48.233143,
+    -101.298215,
+    48.233143
+],
+  "geometry": {"coordinates":[-101.298215,48.233143],"type":"Point"}
+}

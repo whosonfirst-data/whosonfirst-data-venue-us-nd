@@ -1,0 +1,75 @@
+{
+  "id": 873581401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.106091,47.92398,-97.106091,47.92398",
+    "geom:latitude":47.92398,
+    "geom:longitude":-97.106091,
+    "iso:country":"US",
+    "sg:address":"5295 Center Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 4252",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "mobile",
+        "home",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Xxjt0pB1IuPOyV4oJxB3D_47.923980_-97.106091@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294737,
+    "wof:geomhash":"739662df968c4d905b5d40e765fbd6d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873581401
+        }
+    ],
+    "wof:id":873581401,
+    "wof:lastmodified":1464294737,
+    "wof:name":"Park Manor Mobile Home Park",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home",
+        "community"
+    ]
+},
+  "bbox": [
+    -97.106091,
+    47.92398,
+    -97.106091,
+    47.92398
+],
+  "geometry": {"coordinates":[-97.10609100000001,47.92398],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 873632743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.045077,47.914469,-97.045077,47.914469",
+    "geom:latitude":47.914469,
+    "geom:longitude":-97.045077,
+    "iso:country":"US",
+    "sg:address":"714 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 5172",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "compact",
+        "record",
+        "disc",
+        "video",
+        "tape",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PPyD6ZKwsixCtneylecZ5_47.914469_-97.045077@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295396,
+    "wof:geomhash":"1eaebb7a600aa0258fef7e1581994f95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873632743
+        }
+    ],
+    "wof:id":873632743,
+    "wof:lastmodified":1464295396,
+    "wof:name":"Budget Music & Video",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "compact",
+        "record",
+        "disc",
+        "video",
+        "tape",
+        "rental"
+    ]
+},
+  "bbox": [
+    -97.045077,
+    47.914469,
+    -97.045077,
+    47.914469
+],
+  "geometry": {"coordinates":[-97.04507700000001,47.914469],"type":"Point"}
+}

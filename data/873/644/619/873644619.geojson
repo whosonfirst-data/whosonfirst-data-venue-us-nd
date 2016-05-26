@@ -1,0 +1,72 @@
+{
+  "id": 873644619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.037952,47.923988,-97.037952,47.923988",
+    "geom:latitude":47.923988,
+    "geom:longitude":-97.037952,
+    "iso:country":"US",
+    "sg:address":"215 N 7th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 2586",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "community"
+    ],
+    "sg:website":"www.gfymca.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bKCVwrDdMJl7KCikRG6ZI_47.923988_-97.037952@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295532,
+    "wof:geomhash":"4861986cf6824cb41f77904e416a1084",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873644619
+        }
+    ],
+    "wof:id":873644619,
+    "wof:lastmodified":1464295532,
+    "wof:name":"YMCA",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "community"
+    ]
+},
+  "bbox": [
+    -97.037952,
+    47.923988,
+    -97.037952,
+    47.923988
+],
+  "geometry": {"coordinates":[-97.037952,47.923988],"type":"Point"}
+}

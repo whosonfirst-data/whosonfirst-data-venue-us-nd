@@ -1,0 +1,79 @@
+{
+  "id": 873633355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.090975,47.064769,-97.090975,47.064769",
+    "geom:latitude":47.064769,
+    "geom:longitude":-97.090975,
+    "iso:country":"US",
+    "sg:address":"16068 24th St SE",
+    "sg:city":"Argusville",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 484 5779",
+    "sg:postcode":"58005",
+    "sg:province":"ND",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GIMU1BACMZq3uH5lnvcED_47.064769_-97.090975@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295404,
+    "wof:geomhash":"be5db7f393b1c35a6d1b160ac13bb356",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873633355
+        }
+    ],
+    "wof:id":873633355,
+    "wof:lastmodified":1464295404,
+    "wof:name":"Olson Hereford Ranch",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -97.090975,
+    47.064769,
+    -97.090975,
+    47.064769
+],
+  "geometry": {"coordinates":[-97.090975,47.064769],"type":"Point"}
+}

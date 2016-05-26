@@ -1,0 +1,73 @@
+{
+  "id": 873672617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.035376,47.91411,-97.035376,47.91411",
+    "geom:latitude":47.91411,
+    "geom:longitude":-97.035376,
+    "iso:country":"US",
+    "sg:address":"620 8th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 8614",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shop",
+        "thrift"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QcDNGPGIoy7g3KzCv89ui_47.914110_-97.035376@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295827,
+    "wof:geomhash":"57d508e136caccda0bb60e0930ffc8b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873672617
+        }
+    ],
+    "wof:id":873672617,
+    "wof:lastmodified":1464295827,
+    "wof:name":"St Vincent De Paul",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "thrift"
+    ]
+},
+  "bbox": [
+    -97.035376,
+    47.91411,
+    -97.035376,
+    47.91411
+],
+  "geometry": {"coordinates":[-97.035376,47.91411],"type":"Point"}
+}

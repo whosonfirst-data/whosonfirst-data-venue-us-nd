@@ -1,0 +1,71 @@
+{
+  "id": 873707911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.564211,46.671113,-100.564211,46.671113",
+    "geom:latitude":46.671113,
+    "geom:longitude":-100.564211,
+    "iso:country":"US",
+    "sg:address":"12150 145th St SE",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 673 3325",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Tirnxalql0oAEti69mhLF_46.671113_-100.564211@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296494,
+    "wof:geomhash":"01802b4640f9af86016d002ff13fce8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873707911
+        }
+    ],
+    "wof:id":873707911,
+    "wof:lastmodified":1464296494,
+    "wof:name":"Rogstad Construction",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -100.564211,
+    46.671113,
+    -100.564211,
+    46.671113
+],
+  "geometry": {"coordinates":[-100.564211,46.671113],"type":"Point"}
+}

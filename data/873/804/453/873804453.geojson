@@ -1,0 +1,75 @@
+{
+  "id": 873804453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.826317,46.846111,-96.826317,46.846111",
+    "geom:latitude":46.846111,
+    "geom:longitude":-96.826317,
+    "iso:country":"US",
+    "sg:address":"3039 23rd Ave S Unit B",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 298 0264",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534475,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oUOxijyxRjNhXKS0yV9dV_46.846111_-96.826317@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297828,
+    "wof:geomhash":"262109587836e2b6e7e345474de8dba5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534475,
+            "region_id":85688525,
+            "venue_id":873804453
+        }
+    ],
+    "wof:id":873804453,
+    "wof:lastmodified":1464297828,
+    "wof:name":"Tucker Pointe Townhomes",
+    "wof:parent_id":420534475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.826317,
+    46.846111,
+    -96.826317,
+    46.846111
+],
+  "geometry": {"coordinates":[-96.826317,46.846111],"type":"Point"}
+}

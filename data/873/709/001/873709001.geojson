@@ -1,0 +1,73 @@
+{
+  "id": 873709001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.309362,48.220921,-101.309362,48.220921",
+    "geom:latitude":48.220921,
+    "geom:longitude":-101.309362,
+    "iso:country":"US",
+    "sg:address":"1413 12th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 3132",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "company",
+        "holding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5plIrxL8yxgquP0P3VFXrX_48.220921_-101.309362@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296507,
+    "wof:geomhash":"acb9ae576cb257c780ea1ef9b17698fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873709001
+        }
+    ],
+    "wof:id":873709001,
+    "wof:lastmodified":1464296507,
+    "wof:name":"T&M Scherr Holdings LLC",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "holding"
+    ]
+},
+  "bbox": [
+    -101.309362,
+    48.220921,
+    -101.309362,
+    48.220921
+],
+  "geometry": {"coordinates":[-101.30936199999999,48.220921],"type":"Point"}
+}

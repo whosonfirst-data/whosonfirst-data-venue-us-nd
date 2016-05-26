@@ -1,0 +1,71 @@
+{
+  "id": 873754729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.125271,48.399869,-101.125271,48.399869",
+    "geom:latitude":48.399869,
+    "geom:longitude":-101.125271,
+    "iso:country":"US",
+    "sg:address":"15101 111th St NE",
+    "sg:city":"Glenburn",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 728 6462",
+    "sg:postcode":"58740",
+    "sg:province":"ND",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cfiV9XK64Beh9StHMMhyU_48.399869_-101.125271@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297142,
+    "wof:geomhash":"24f3f9ccc9e3826f0db2ed2a82d16ed3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873754729
+        }
+    ],
+    "wof:id":873754729,
+    "wof:lastmodified":1464297142,
+    "wof:name":"Snack Attack Concessions",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -101.125271,
+    48.399869,
+    -101.125271,
+    48.399869
+],
+  "geometry": {"coordinates":[-101.125271,48.399869],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873534325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.298814,48.200367,-101.298814,48.200367",
+    "geom:latitude":48.200367,
+    "geom:longitude":-101.298814,
+    "iso:country":"US",
+    "sg:address":"3305 4th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 837 1355",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zRW5Vkt1wjz1GHoqvKIOn_48.200367_-101.298814@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294195,
+    "wof:geomhash":"29aff411f4f0f60c5531db19538203e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873534325
+        }
+    ],
+    "wof:id":873534325,
+    "wof:lastmodified":1464294195,
+    "wof:name":"Schillinger's Auto Body",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -101.298814,
+    48.200367,
+    -101.298814,
+    48.200367
+],
+  "geometry": {"coordinates":[-101.29881399999999,48.200367],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873697397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.299855,48.223155,-101.299855,48.223155",
+    "geom:latitude":48.223155,
+    "geom:longitude":-101.299855,
+    "iso:country":"US",
+    "sg:address":"1309 5th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 2989",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eIuYdpTM7X74PZxsQVj43_48.223155_-101.299855@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296378,
+    "wof:geomhash":"746196aa30ae6262b0b9fd84f5044f7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873697397
+        }
+    ],
+    "wof:id":873697397,
+    "wof:lastmodified":1464296378,
+    "wof:name":"Eisenzimmer Painting",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.299855,
+    48.223155,
+    -101.299855,
+    48.223155
+],
+  "geometry": {"coordinates":[-101.29985499999999,48.223155],"type":"Point"}
+}

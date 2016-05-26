@@ -1,0 +1,71 @@
+{
+  "id": 873658599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.057902,47.893244,-97.057902,47.893244",
+    "geom:latitude":47.893244,
+    "geom:longitude":-97.057902,
+    "iso:country":"US",
+    "sg:address":"2027 27th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 777 9899",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "biologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1c7v3zjiRPH3D8eH5UvdUA_47.893244_-97.057902@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295684,
+    "wof:geomhash":"3f9110be0a32d38094e4818d3a2e0f70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873658599
+        }
+    ],
+    "wof:id":873658599,
+    "wof:lastmodified":1464295684,
+    "wof:name":"Dustin Solberg",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biologist"
+    ]
+},
+  "bbox": [
+    -97.057902,
+    47.893244,
+    -97.057902,
+    47.893244
+],
+  "geometry": {"coordinates":[-97.057902,47.893244],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873773477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.731255,46.804984,-100.731255,46.804984",
+    "geom:latitude":46.804984,
+    "geom:longitude":-100.731255,
+    "iso:country":"US",
+    "sg:address":"100 N Bismarck Expy",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 328 6349",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1esf9kDUU2nwXnClUp2LxY_46.804984_-100.731255@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297406,
+    "wof:geomhash":"d580686d607e5c93b9d4302a31c62d56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873773477
+        }
+    ],
+    "wof:id":873773477,
+    "wof:lastmodified":1464297406,
+    "wof:name":"State Fisheries",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.731255,
+    46.804984,
+    -100.731255,
+    46.804984
+],
+  "geometry": {"coordinates":[-100.731255,46.804984],"type":"Point"}
+}

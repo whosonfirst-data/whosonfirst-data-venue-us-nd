@@ -1,0 +1,70 @@
+{
+  "id": 873684857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.798368,46.870972,-96.798368,46.870972",
+    "geom:latitude":46.870972,
+    "geom:longitude":-96.798368,
+    "iso:country":"US",
+    "sg:address":"317 S University Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 6022",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vvLeZHvGVE2aHnnoiRhpM_46.870972_-96.798368@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296134,
+    "wof:geomhash":"6160245d2d5f2695ebbdea63fcf5927c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873684857
+        }
+    ],
+    "wof:id":873684857,
+    "wof:lastmodified":1464296134,
+    "wof:name":"Terrence Dalaney",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.798368,
+    46.870972,
+    -96.798368,
+    46.870972
+],
+  "geometry": {"coordinates":[-96.798368,46.870972],"type":"Point"}
+}

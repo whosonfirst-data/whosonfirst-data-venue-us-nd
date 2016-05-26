@@ -1,0 +1,71 @@
+{
+  "id": 873688441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.283217,46.658322,-97.283217,46.658322",
+    "geom:latitude":46.658322,
+    "geom:longitude":-97.283217,
+    "iso:country":"US",
+    "sg:address":"15141 52nd St SE",
+    "sg:city":"Leonard",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 645 2582",
+    "sg:postcode":"58052",
+    "sg:province":"ND",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lpgvYKF0bzWS4qIdM7Xam_46.658322_-97.283217@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296232,
+    "wof:geomhash":"10dcb5be2bcfc2e0bb68a568467a3eae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873688441
+        }
+    ],
+    "wof:id":873688441,
+    "wof:lastmodified":1464296232,
+    "wof:name":"Leonard Country Club",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -97.283217,
+    46.658322,
+    -97.283217,
+    46.658322
+],
+  "geometry": {"coordinates":[-97.28321699999999,46.658322],"type":"Point"}
+}

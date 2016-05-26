@@ -1,0 +1,71 @@
+{
+  "id": 873613705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.321883,48.239897,-101.321883,48.239897",
+    "geom:latitude":48.239897,
+    "geom:longitude":-101.321883,
+    "iso:country":"US",
+    "sg:address":"220 19th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 1406",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71kI6joVjELUDfP2SOUCcl_48.239897_-101.321883@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295182,
+    "wof:geomhash":"b69054aaa50bed8b8ef031e1763b2426",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873613705
+        }
+    ],
+    "wof:id":873613705,
+    "wof:lastmodified":1464295182,
+    "wof:name":"Small World Nursery School",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -101.321883,
+    48.239897,
+    -101.321883,
+    48.239897
+],
+  "geometry": {"coordinates":[-101.321883,48.239897],"type":"Point"}
+}

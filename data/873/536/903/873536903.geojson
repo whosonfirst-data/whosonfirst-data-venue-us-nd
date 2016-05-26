@@ -1,0 +1,76 @@
+{
+  "id": 873536903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.080274,47.88953,-97.080274,47.88953",
+    "geom:latitude":47.88953,
+    "geom:longitude":-97.080274,
+    "iso:country":"US",
+    "sg:address":"4000 32nd Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 4461",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "transmits",
+        "distributes",
+        "energy"
+    ],
+    "sg:website":"www.nodakelectric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eIexxqAWvISvgIlWlLQDf_47.889530_-97.080274@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294225,
+    "wof:geomhash":"f8d052c1926c7823d4d4fd48378a206f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873536903
+        }
+    ],
+    "wof:id":873536903,
+    "wof:lastmodified":1464294225,
+    "wof:name":"Nodak Electric Cooperative",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmits",
+        "distributes",
+        "energy"
+    ]
+},
+  "bbox": [
+    -97.080274,
+    47.88953,
+    -97.080274,
+    47.88953
+],
+  "geometry": {"coordinates":[-97.080274,47.88953],"type":"Point"}
+}

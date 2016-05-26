@@ -1,0 +1,73 @@
+{
+  "id": 873726385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.044912,47.923031,-97.044912,47.923031",
+    "geom:latitude":47.923031,
+    "geom:longitude":-97.044912,
+    "iso:country":"US",
+    "sg:address":"324 N Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 5100",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1t2tDvysUhBDi1F1BzKnWl_47.923031_-97.044912@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296730,
+    "wof:geomhash":"a81395eff606e2cdf2406169cb91481b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873726385
+        }
+    ],
+    "wof:id":873726385,
+    "wof:lastmodified":1464296730,
+    "wof:name":"Valley Car Wash",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -97.044912,
+    47.923031,
+    -97.044912,
+    47.923031
+],
+  "geometry": {"coordinates":[-97.044912,47.923031],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873564123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.240244,48.223943,-101.240244,48.223943",
+    "geom:latitude":48.223943,
+    "geom:longitude":-101.240244,
+    "iso:country":"US",
+    "sg:address":"2990 17 Ave NE",
+    "sg:city":"Anamoose",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 465 7245",
+    "sg:postcode":"58710",
+    "sg:province":"ND",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_476H9TEwZOi6YCW2IM6ZXU_48.223943_-101.240244@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294545,
+    "wof:geomhash":"4a035dc95c167483b205cf977e99c62c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873564123
+        }
+    ],
+    "wof:id":873564123,
+    "wof:lastmodified":1464294545,
+    "wof:name":"Rodney Buxa",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -101.240244,
+    48.223943,
+    -101.240244,
+    48.223943
+],
+  "geometry": {"coordinates":[-101.240244,48.223943],"type":"Point"}
+}

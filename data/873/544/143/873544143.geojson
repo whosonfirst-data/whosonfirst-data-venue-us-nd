@@ -1,0 +1,66 @@
+{
+  "id": 873544143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.010679,46.648856,-97.010679,46.648856",
+    "geom:latitude":46.648856,
+    "geom:longitude":-97.010679,
+    "iso:country":"US",
+    "sg:address":"13 1st Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 237 3256",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RnY78VcFBw1qlJsKbmWCs_46.648856_-97.010679@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294308,
+    "wof:geomhash":"52d54063d633d5de517cdc333f107daa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873544143
+        }
+    ],
+    "wof:id":873544143,
+    "wof:lastmodified":1464294308,
+    "wof:name":"Dees Upholstery",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.010679,
+    46.648856,
+    -97.010679,
+    46.648856
+],
+  "geometry": {"coordinates":[-97.010679,46.648856],"type":"Point"}
+}

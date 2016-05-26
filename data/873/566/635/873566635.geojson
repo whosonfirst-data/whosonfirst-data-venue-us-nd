@@ -1,0 +1,75 @@
+{
+  "id": 873566635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.754207,46.808263,-100.754207,46.808263",
+    "geom:latitude":46.808263,
+    "geom:longitude":-100.754207,
+    "iso:country":"US",
+    "sg:address":"2402 E Rosser Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 391 5313",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "household",
+        "wood",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0twh3CGXgAoJc40zjHl9ra_46.808263_-100.754207@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294572,
+    "wof:geomhash":"d23e35437b426b423c2c8abd15d1f0d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873566635
+        }
+    ],
+    "wof:id":873566635,
+    "wof:lastmodified":1464294572,
+    "wof:name":"Natures Creations",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "household",
+        "wood",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -100.754207,
+    46.808263,
+    -100.754207,
+    46.808263
+],
+  "geometry": {"coordinates":[-100.75420699999999,46.808263],"type":"Point"}
+}

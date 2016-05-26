@@ -1,0 +1,79 @@
+{
+  "id": 873732021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.822216,46.876003,-96.822216,46.876003",
+    "geom:latitude":46.876003,
+    "geom:longitude":-96.822216,
+    "iso:country":"US",
+    "sg:address":"2750 Main Ave",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 1075",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "outdoor",
+        "lighting",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7c3YedI1fHyueC6iYvwZz0_46.876003_-96.822216@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296804,
+    "wof:geomhash":"b4d075ec87ac0108718b637db5acdba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873732021
+        }
+    ],
+    "wof:id":873732021,
+    "wof:lastmodified":1464296804,
+    "wof:name":"Bright Ideas Christmas Decor",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "outdoor",
+        "lighting",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -96.822216,
+    46.876003,
+    -96.822216,
+    46.876003
+],
+  "geometry": {"coordinates":[-96.822216,46.876003],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873562033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.050187,47.893081,-97.050187,47.893081",
+    "geom:latitude":47.893081,
+    "geom:longitude":-97.050187,
+    "iso:country":"US",
+    "sg:address":"1401 28th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 3991",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "counselor",
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ob7Jve7fPjFnV0V0gaByY_47.893081_-97.050187@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294521,
+    "wof:geomhash":"6facca5d25dbe3c904295d305f581dba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873562033
+        }
+    ],
+    "wof:id":873562033,
+    "wof:lastmodified":1464294521,
+    "wof:name":"J P Advertising & Productions",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counselor",
+        "agency"
+    ]
+},
+  "bbox": [
+    -97.050187,
+    47.893081,
+    -97.050187,
+    47.893081
+],
+  "geometry": {"coordinates":[-97.05018699999999,47.893081],"type":"Point"}
+}

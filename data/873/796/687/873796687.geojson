@@ -1,0 +1,78 @@
+{
+  "id": 873796687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.890385,46.876031,-96.890385,46.876031",
+    "geom:latitude":46.876031,
+    "geom:longitude":-96.890385,
+    "iso:country":"US",
+    "sg:address":"501 Main Ave E",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/west-fargo/194648-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 281 9092",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Bg3lTOLn3tvG1QtUVOLov_46.876031_-96.890385@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297734,
+    "wof:geomhash":"d3f99758e4800609ec00d9e000dc43f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873796687
+        }
+    ],
+    "wof:id":873796687,
+    "wof:lastmodified":1464297734,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -96.890385,
+    46.876031,
+    -96.890385,
+    46.876031
+],
+  "geometry": {"coordinates":[-96.89038499999999,46.876031],"type":"Point"}
+}

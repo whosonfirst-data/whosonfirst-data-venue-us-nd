@@ -1,0 +1,71 @@
+{
+  "id": 873805099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.845785,46.833623,-96.845785,46.833623",
+    "geom:latitude":46.833623,
+    "geom:longitude":-96.845785,
+    "iso:country":"US",
+    "sg:address":"3150 39th St S Ste A",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 5585",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:website":"http://www.crystalinns.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877355,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aqaMO9PC0nXPFwsZL4lFa_46.833623_-96.845785@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297835,
+    "wof:geomhash":"284ce3eaff4acceed8236f9ddfa0d88a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877355,
+            "region_id":85688525,
+            "venue_id":873805099
+        }
+    ],
+    "wof:id":873805099,
+    "wof:lastmodified":1464297835,
+    "wof:name":"Cfj Properties",
+    "wof:parent_id":85877355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.845785,
+    46.833623,
+    -96.845785,
+    46.833623
+],
+  "geometry": {"coordinates":[-96.84578500000001,46.833623],"type":"Point"}
+}

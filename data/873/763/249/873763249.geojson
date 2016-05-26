@@ -1,0 +1,71 @@
+{
+  "id": 873763249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.784009,46.791351,-100.784009,46.791351",
+    "geom:latitude":46.791351,
+    "geom:longitude":-100.784009,
+    "iso:country":"US",
+    "sg:address":"1337 Albany Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 355 4482",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08ozqTLU3USi2n9GyRghR8_46.791351_-100.784009@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297262,
+    "wof:geomhash":"8f221a54664177986e19155aac16deb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873763249
+        }
+    ],
+    "wof:id":873763249,
+    "wof:lastmodified":1464297262,
+    "wof:name":"John's Appliance Repair",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -100.784009,
+    46.791351,
+    -100.784009,
+    46.791351
+],
+  "geometry": {"coordinates":[-100.784009,46.791351],"type":"Point"}
+}

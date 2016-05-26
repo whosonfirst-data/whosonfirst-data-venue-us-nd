@@ -1,0 +1,66 @@
+{
+  "id": 873587515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.186252,48.22045,-101.186252,48.22045",
+    "geom:latitude":48.22045,
+    "geom:longitude":-101.186252,
+    "iso:country":"US",
+    "sg:address":"1412 73rd St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 5867",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zlSMdsvpFNHtB0k8x8xDF_48.220450_-101.186252@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294802,
+    "wof:geomhash":"cd8c1387606bc2dab8b7c36a9aeaf9df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873587515
+        }
+    ],
+    "wof:id":873587515,
+    "wof:lastmodified":1464294802,
+    "wof:name":"Skydive North Dakota",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.186252,
+    48.22045,
+    -101.186252,
+    48.22045
+],
+  "geometry": {"coordinates":[-101.186252,48.22045],"type":"Point"}
+}

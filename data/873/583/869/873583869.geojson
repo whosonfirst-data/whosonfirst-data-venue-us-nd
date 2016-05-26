@@ -1,0 +1,75 @@
+{
+  "id": 873583869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.765098,46.795298,-100.765098,46.795298",
+    "geom:latitude":46.795298,
+    "geom:longitude":-100.765098,
+    "iso:country":"US",
+    "sg:address":"804 S 18th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 9311",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "land",
+        "oil",
+        "lease"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xiTqAJeuWNq81oso2Jr84_46.795298_-100.765098@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294761,
+    "wof:geomhash":"5723e3a794d596e438b3db954c1a7606",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873583869
+        }
+    ],
+    "wof:id":873583869,
+    "wof:lastmodified":1464294761,
+    "wof:name":"Ashley Resources Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "land",
+        "oil",
+        "lease"
+    ]
+},
+  "bbox": [
+    -100.765098,
+    46.795298,
+    -100.765098,
+    46.795298
+],
+  "geometry": {"coordinates":[-100.76509799999999,46.795298],"type":"Point"}
+}

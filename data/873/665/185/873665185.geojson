@@ -1,0 +1,66 @@
+{
+  "id": 873665185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.783198,46.778465,-100.783198,46.778465",
+    "geom:latitude":46.778465,
+    "geom:longitude":-100.783198,
+    "iso:country":"US",
+    "sg:address":"573 Cottonwood Loop",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 1747",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xLWDwZq33Sa0seSOBqdsw_46.778465_-100.783198@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295752,
+    "wof:geomhash":"8590b5ecd426f700e8d19a8ee93a092c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873665185
+        }
+    ],
+    "wof:id":873665185,
+    "wof:lastmodified":1464295752,
+    "wof:name":"Gienger's Sausage & Meat",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.783198,
+    46.778465,
+    -100.783198,
+    46.778465
+],
+  "geometry": {"coordinates":[-100.783198,46.778465],"type":"Point"}
+}

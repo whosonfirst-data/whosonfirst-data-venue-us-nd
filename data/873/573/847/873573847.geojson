@@ -1,0 +1,71 @@
+{
+  "id": 873573847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.904714,46.756941,-96.904714,46.756941",
+    "geom:latitude":46.756941,
+    "geom:longitude":-96.904714,
+    "iso:country":"US",
+    "sg:address":"629 Willow Ct",
+    "sg:city":"Horace",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 281 1709",
+    "sg:postcode":"58047",
+    "sg:province":"ND",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Um9arRjOftyyHNirSQEqo_46.756941_-96.904714@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294651,
+    "wof:geomhash":"ed9b6710950704390d67003db3a57d8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873573847
+        }
+    ],
+    "wof:id":873573847,
+    "wof:lastmodified":1464294651,
+    "wof:name":"Peters Family Day Care",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -96.904714,
+    46.756941,
+    -96.904714,
+    46.756941
+],
+  "geometry": {"coordinates":[-96.904714,46.756941],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873782841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.294265,47.891961,-101.294265,47.891961",
+    "geom:latitude":47.891961,
+    "geom:longitude":-101.294265,
+    "iso:country":"US",
+    "sg:address":"300 331st Ave SW",
+    "sg:city":"Max",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 679 2405",
+    "sg:postcode":"58759",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "field",
+        "crop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bn0LSAFxL9YyPFEpKVuY7_47.891961_-101.294265@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297528,
+    "wof:geomhash":"528cf2898e25a25b7f326b79929e53e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873782841
+        }
+    ],
+    "wof:id":873782841,
+    "wof:lastmodified":1464297528,
+    "wof:name":"Mark Bingham",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "field",
+        "crop"
+    ]
+},
+  "bbox": [
+    -101.294265,
+    47.891961,
+    -101.294265,
+    47.891961
+],
+  "geometry": {"coordinates":[-101.294265,47.891961],"type":"Point"}
+}

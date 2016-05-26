@@ -1,0 +1,73 @@
+{
+  "id": 873556217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.284128,48.235595,-101.284128,48.235595",
+    "geom:latitude":48.235595,
+    "geom:longitude":-101.284128,
+    "iso:country":"US",
+    "sg:address":"604 1st Ave SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 5675",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UNC8Hzt52GWJaDZtOsKew_48.235595_-101.284128@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294450,
+    "wof:geomhash":"5c41d3400c777f0b1d10875847df3b29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873556217
+        }
+    ],
+    "wof:id":873556217,
+    "wof:lastmodified":1464294450,
+    "wof:name":"PC Consultants",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -101.284128,
+    48.235595,
+    -101.284128,
+    48.235595
+],
+  "geometry": {"coordinates":[-101.284128,48.235595],"type":"Point"}
+}

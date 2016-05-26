@@ -1,0 +1,73 @@
+{
+  "id": 873662245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.472381,47.968911,-97.472381,47.968911",
+    "geom:latitude":47.968911,
+    "geom:longitude":-97.472381,
+    "iso:country":"US",
+    "sg:address":"2075 30th St NE",
+    "sg:city":"Arvilla",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 218 773 2677",
+    "sg:postcode":"58214",
+    "sg:province":"ND",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3odRRzoknzTQPHzGSUp1YI_47.968911_-97.472381@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295721,
+    "wof:geomhash":"3c2f42976572031860e8cde9dd845218",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873662245
+        }
+    ],
+    "wof:id":873662245,
+    "wof:lastmodified":1464295721,
+    "wof:name":"Dan's Excavating Backhoe",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.472381,
+    47.968911,
+    -97.472381,
+    47.968911
+],
+  "geometry": {"coordinates":[-97.472381,47.968911],"type":"Point"}
+}

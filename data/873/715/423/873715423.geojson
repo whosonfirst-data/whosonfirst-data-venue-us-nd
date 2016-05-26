@@ -1,0 +1,71 @@
+{
+  "id": 873715423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.033865,47.925945,-97.033865,47.925945",
+    "geom:latitude":47.925945,
+    "geom:longitude":-97.033865,
+    "iso:country":"US",
+    "sg:address":"312 2nd Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 0070",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5izlbg7r7XZkzVsGag4ypJ_47.925945_-97.033865@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296586,
+    "wof:geomhash":"b2f2d897c8d1e38499c2eb5394dce54b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873715423
+        }
+    ],
+    "wof:id":873715423,
+    "wof:lastmodified":1464296586,
+    "wof:name":"Border States Trophy & Awards",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -97.033865,
+    47.925945,
+    -97.033865,
+    47.925945
+],
+  "geometry": {"coordinates":[-97.03386500000001,47.925945],"type":"Point"}
+}

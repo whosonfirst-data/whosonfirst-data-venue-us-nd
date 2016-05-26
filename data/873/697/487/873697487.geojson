@@ -1,0 +1,75 @@
+{
+  "id": 873697487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.790797,46.89009,-96.790797,46.89009",
+    "geom:latitude":46.89009,
+    "geom:longitude":-96.790797,
+    "iso:country":"US",
+    "sg:address":"1115 8th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 365 2012",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534465,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sGzzhfPn5rgQ7lD5Gpr40_46.890090_-96.790797@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296379,
+    "wof:geomhash":"1b02b112541f2f56a15128f881235507",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534465,
+            "region_id":85688525,
+            "venue_id":873697487
+        }
+    ],
+    "wof:id":873697487,
+    "wof:lastmodified":1464296379,
+    "wof:name":"Itmg Central",
+    "wof:parent_id":420534465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -96.790797,
+    46.89009,
+    -96.790797,
+    46.89009
+],
+  "geometry": {"coordinates":[-96.790797,46.89009],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 873776651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.252719,48.218947,-101.252719,48.218947",
+    "geom:latitude":48.218947,
+    "geom:longitude":-101.252719,
+    "iso:country":"US",
+    "sg:address":"1625 27th St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 3797",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "transmission"
+    ],
+    "sg:website":"www.tufftrucksinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uss6RDP4GnLlfe2AVIeJX_48.218947_-101.252719@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297445,
+    "wof:geomhash":"bd9df982985c775cad32676a6b1c6403",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873776651
+        }
+    ],
+    "wof:id":873776651,
+    "wof:lastmodified":1464297445,
+    "wof:name":"Tuff Trucks Inc Off Road Ctr",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -101.252719,
+    48.218947,
+    -101.252719,
+    48.218947
+],
+  "geometry": {"coordinates":[-101.252719,48.218947],"type":"Point"}
+}

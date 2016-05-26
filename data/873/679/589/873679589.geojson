@@ -1,0 +1,73 @@
+{
+  "id": 873679589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.420802,48.276287,-101.420802,48.276287",
+    "geom:latitude":48.276287,
+    "geom:longitude":-101.420802,
+    "iso:country":"US",
+    "sg:address":"510 Colton Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 6059",
+    "sg:postcode":"58722",
+    "sg:province":"ND",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KV9wGwojJrR2ONmuloXVY_48.276287_-101.420802@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295985,
+    "wof:geomhash":"d4da38894d7ff82be1961a40a7f07fe1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873679589
+        }
+    ],
+    "wof:id":873679589,
+    "wof:lastmodified":1464295985,
+    "wof:name":"Jost Construction",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.420802,
+    48.276287,
+    -101.420802,
+    48.276287
+],
+  "geometry": {"coordinates":[-101.42080199999999,48.276287],"type":"Point"}
+}

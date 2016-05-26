@@ -1,0 +1,81 @@
+{
+  "id": 873759245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.811653,46.875726,-96.811653,46.875726",
+    "geom:latitude":46.875726,
+    "geom:longitude":-96.811653,
+    "iso:country":"US",
+    "sg:address":"1917 Main Ave",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 237 4641",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "racing",
+        "car",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VXoA5xGG9uO6I5cjWJ6Df_46.875726_-96.811653@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297197,
+    "wof:geomhash":"1ec1951d3ff6f8709da84eb6b89f5fd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873759245
+        }
+    ],
+    "wof:id":873759245,
+    "wof:lastmodified":1464297197,
+    "wof:name":"Performance Auto",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "racing",
+        "car",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -96.811653,
+    46.875726,
+    -96.811653,
+    46.875726
+],
+  "geometry": {"coordinates":[-96.81165300000001,46.875726],"type":"Point"}
+}

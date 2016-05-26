@@ -1,0 +1,66 @@
+{
+  "id": 873587281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.773369,46.792587,-100.773369,46.792587",
+    "geom:latitude":46.792587,
+    "geom:longitude":-100.773369,
+    "iso:country":"US",
+    "sg:address":"1133 S 12th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 6234",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ANj30ZR7hH3LXcHgsKkq5_46.792587_-100.773369@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294800,
+    "wof:geomhash":"ee7e53719d970cfe7bfe8e82f0b97f2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873587281
+        }
+    ],
+    "wof:id":873587281,
+    "wof:lastmodified":1464294800,
+    "wof:name":"Basin Insurance Svc",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.773369,
+    46.792587,
+    -100.773369,
+    46.792587
+],
+  "geometry": {"coordinates":[-100.773369,46.792587],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873614161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.316472,48.243968,-101.316472,48.243968",
+    "geom:latitude":48.243968,
+    "geom:longitude":-101.316472,
+    "iso:country":"US",
+    "sg:address":"1518 7th Ave NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 7121",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15UhWccG86CATQQdbUXIhB_48.243968_-101.316472@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295187,
+    "wof:geomhash":"eccf734054c193cdfeff43c94738da26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873614161
+        }
+    ],
+    "wof:id":873614161,
+    "wof:lastmodified":1464295187,
+    "wof:name":"A Daddy's Day Care",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.316472,
+    48.243968,
+    -101.316472,
+    48.243968
+],
+  "geometry": {"coordinates":[-101.316472,48.243968],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873738795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.312113,48.256321,-101.312113,48.256321",
+    "geom:latitude":48.256321,
+    "geom:longitude":-101.312113,
+    "iso:country":"US",
+    "sg:address":"1816 12th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 5357",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SfpRq2nzzQCHTmCiSjc7r_48.256321_-101.312113@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296906,
+    "wof:geomhash":"ef1d8f9f7213368a97d4d491bbb13073",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873738795
+        }
+    ],
+    "wof:id":873738795,
+    "wof:lastmodified":1464296906,
+    "wof:name":"John Hambek",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -101.312113,
+    48.256321,
+    -101.312113,
+    48.256321
+],
+  "geometry": {"coordinates":[-101.312113,48.256321],"type":"Point"}
+}

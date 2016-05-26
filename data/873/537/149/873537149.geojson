@@ -1,0 +1,66 @@
+{
+  "id": 873537149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.794421,46.795051,-100.794421,46.795051",
+    "geom:latitude":46.795051,
+    "geom:longitude":-100.794421,
+    "iso:country":"US",
+    "sg:address":"931 S Washington St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 7944",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zzIyazxrpjWwALy1N4i3Z_46.795051_-100.794421@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294230,
+    "wof:geomhash":"f1416429892bbcae9263648ab45085b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873537149
+        }
+    ],
+    "wof:id":873537149,
+    "wof:lastmodified":1464294230,
+    "wof:name":"Arman Agency LLC",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.794421,
+    46.795051,
+    -100.794421,
+    46.795051
+],
+  "geometry": {"coordinates":[-100.794421,46.795051],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873772611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.798021,46.775608,-100.798021,46.775608",
+    "geom:latitude":46.775608,
+    "geom:longitude":-100.798021,
+    "iso:country":"US",
+    "sg:address":"527 Sherwood Ln",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 2601",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VqTqlzXg0akqyNNWiB3Hx_46.775608_-100.798021@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297397,
+    "wof:geomhash":"02b0392e62310d1f0b026c8b68fbff86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873772611
+        }
+    ],
+    "wof:id":873772611,
+    "wof:lastmodified":1464297397,
+    "wof:name":"Helen Renschler",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -100.798021,
+    46.775608,
+    -100.798021,
+    46.775608
+],
+  "geometry": {"coordinates":[-100.79802100000001,46.775608],"type":"Point"}
+}

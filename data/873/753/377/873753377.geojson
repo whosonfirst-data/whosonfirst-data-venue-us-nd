@@ -1,0 +1,79 @@
+{
+  "id": 873753377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.067978,47.935263,-97.067978,47.935263",
+    "geom:latitude":47.935263,
+    "geom:longitude":-97.067978,
+    "iso:country":"US",
+    "sg:address":"2703 Valley Cir",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 0851",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "construction",
+        "fastener",
+        "industrial",
+        "suppl",
+        "threaded"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Z6o5GuhVb0EUIdfvosAwD_47.935263_-97.067978@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297125,
+    "wof:geomhash":"b137917bc735ebfb69ebe345daca8ba8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873753377
+        }
+    ],
+    "wof:id":873753377,
+    "wof:lastmodified":1464297125,
+    "wof:name":"Fastenal Company",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "construction",
+        "fastener",
+        "industrial",
+        "suppl",
+        "threaded"
+    ]
+},
+  "bbox": [
+    -97.067978,
+    47.935263,
+    -97.067978,
+    47.935263
+],
+  "geometry": {"coordinates":[-97.067978,47.935263],"type":"Point"}
+}

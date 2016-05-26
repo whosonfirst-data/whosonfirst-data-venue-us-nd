@@ -1,0 +1,66 @@
+{
+  "id": 873646809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.787533,46.808497,-100.787533,46.808497",
+    "geom:latitude":46.808497,
+    "geom:longitude":-100.787533,
+    "iso:country":"US",
+    "sg:address":"309 N 3rd St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 1173",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UDJDD2a3kxxL5faDFgkqh_46.808497_-100.787533@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295554,
+    "wof:geomhash":"3b311ca98e4aadea37a39ece0e9cd197",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873646809
+        }
+    ],
+    "wof:id":873646809,
+    "wof:lastmodified":1464295554,
+    "wof:name":"Corwin Churchill Appliance Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.787533,
+    46.808497,
+    -100.787533,
+    46.808497
+],
+  "geometry": {"coordinates":[-100.787533,46.808497],"type":"Point"}
+}

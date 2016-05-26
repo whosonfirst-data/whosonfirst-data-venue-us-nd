@@ -1,0 +1,73 @@
+{
+  "id": 873535025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.207051,48.205098,-101.207051,48.205098",
+    "geom:latitude":48.205098,
+    "geom:longitude":-101.207051,
+    "iso:country":"US",
+    "sg:address":"5810 27th Ave SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 5546",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7G0M5FlaBy2dOwuWCnzK5x_48.205098_-101.207051@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294204,
+    "wof:geomhash":"ed7475cb854867aeaf50cad57464f952",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873535025
+        }
+    ],
+    "wof:id":873535025,
+    "wof:lastmodified":1464294204,
+    "wof:name":"O K Painting",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.207051,
+    48.205098,
+    -101.207051,
+    48.205098
+],
+  "geometry": {"coordinates":[-101.20705100000001,48.205098],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873565231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.783262,46.887763,-96.783262,46.887763",
+    "geom:latitude":46.887763,
+    "geom:longitude":-96.783262,
+    "iso:country":"US",
+    "sg:address":"1042 3rd St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 1635",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534465,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1l5RiYt0WK2Fu938bmk1Li_46.887763_-96.783262@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294558,
+    "wof:geomhash":"48f9dc86b0d15bf619800f5b11d1531d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534465,
+            "region_id":85688525,
+            "venue_id":873565231
+        }
+    ],
+    "wof:id":873565231,
+    "wof:lastmodified":1464294558,
+    "wof:name":"Hylden Landscaping",
+    "wof:parent_id":420534465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -96.783262,
+    46.887763,
+    -96.783262,
+    46.887763
+],
+  "geometry": {"coordinates":[-96.78326199999999,46.887763],"type":"Point"}
+}

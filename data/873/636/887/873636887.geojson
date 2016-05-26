@@ -1,0 +1,71 @@
+{
+  "id": 873636887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.029044,47.882621,-97.029044,47.882621",
+    "geom:latitude":47.882621,
+    "geom:longitude":-97.029044,
+    "iso:country":"US",
+    "sg:address":"3855 Belmont Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 5334",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "investor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZQqqEY10IiADviVmmaJkl_47.882621_-97.029044@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295444,
+    "wof:geomhash":"15fcd956618293e5611b37fb02831a42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873636887
+        }
+    ],
+    "wof:id":873636887,
+    "wof:lastmodified":1464295444,
+    "wof:name":"Northwest Investments LLP",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investor"
+    ]
+},
+  "bbox": [
+    -97.029044,
+    47.882621,
+    -97.029044,
+    47.882621
+],
+  "geometry": {"coordinates":[-97.029044,47.882621],"type":"Point"}
+}

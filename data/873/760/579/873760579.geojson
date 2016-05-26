@@ -1,0 +1,74 @@
+{
+  "id": 873760579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.746752,46.722924,-100.746752,46.722924",
+    "geom:latitude":46.722924,
+    "geom:longitude":-100.746752,
+    "iso:country":"US",
+    "sg:address":"7520 University Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 1520",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "woman",
+        "order"
+    ],
+    "sg:website":"www.annunciationmonastery.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FGZ3uu3PmAKCzu3gdPxCy_46.722924_-100.746752@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297214,
+    "wof:geomhash":"5dc727a7510cafad2dc1008a2aa6e938",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873760579
+        }
+    ],
+    "wof:id":873760579,
+    "wof:lastmodified":1464297214,
+    "wof:name":"Annunciation Monastery",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woman",
+        "order"
+    ]
+},
+  "bbox": [
+    -100.746752,
+    46.722924,
+    -100.746752,
+    46.722924
+],
+  "geometry": {"coordinates":[-100.746752,46.722924],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873684245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.245662,46.649703,-97.245662,46.649703",
+    "geom:latitude":46.649703,
+    "geom:longitude":-97.245662,
+    "iso:country":"US",
+    "sg:address":"510 1st Ave S",
+    "sg:city":"Leonard",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 645 2435",
+    "sg:postcode":"58052",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0b4Fqqst4kSNaizYVnbqVN_46.649703_-97.245662@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296118,
+    "wof:geomhash":"79544dd34b2f3b5286e44ae8f749d840",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873684245
+        }
+    ],
+    "wof:id":873684245,
+    "wof:lastmodified":1464296118,
+    "wof:name":"Leonard Lutheran Church",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -97.245662,
+    46.649703,
+    -97.245662,
+    46.649703
+],
+  "geometry": {"coordinates":[-97.245662,46.649703],"type":"Point"}
+}

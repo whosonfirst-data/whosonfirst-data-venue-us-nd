@@ -1,0 +1,64 @@
+{
+  "id": 873799881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.977317,46.163591,-96.977317,46.163591",
+    "geom:latitude":46.163591,
+    "geom:longitude":-96.977317,
+    "iso:country":"US",
+    "sg:address":"102 Main St",
+    "sg:city":"Mantador",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 242 7203",
+    "sg:postcode":"58058",
+    "sg:province":"ND",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oUmk5G7GsQHt7doK620rX_46.163591_-96.977317@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297772,
+    "wof:geomhash":"654b9c0e37633aa446d206485310a504",
+    "wof:hierarchy":[],
+    "wof:id":873799881,
+    "wof:lastmodified":1464297772,
+    "wof:name":"Us Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -96.977317,
+    46.163591,
+    -96.977317,
+    46.163591
+],
+  "geometry": {"coordinates":[-96.977317,46.163591],"type":"Point"}
+}

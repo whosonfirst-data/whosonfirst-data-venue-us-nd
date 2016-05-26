@@ -1,0 +1,66 @@
+{
+  "id": 873757981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.913704,46.756876,-96.913704,46.756876",
+    "geom:latitude":46.756876,
+    "geom:longitude":-96.913704,
+    "iso:country":"US",
+    "sg:address":"602 Southwood Dr",
+    "sg:city":"Horace",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 6772",
+    "sg:postcode":"58047",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZSZEDfqUGGOhllQTviW6U_46.756876_-96.913704@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297181,
+    "wof:geomhash":"b0867b4cbcf7fcda2c8193a8e82876b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873757981
+        }
+    ],
+    "wof:id":873757981,
+    "wof:lastmodified":1464297181,
+    "wof:name":"Charles Upholstery Shoppe",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.913704,
+    46.756876,
+    -96.913704,
+    46.756876
+],
+  "geometry": {"coordinates":[-96.913704,46.756876],"type":"Point"}
+}

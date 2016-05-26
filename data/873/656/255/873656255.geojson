@@ -1,0 +1,66 @@
+{
+  "id": 873656255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.632856,47.912943,-97.632856,47.912943",
+    "geom:latitude":47.912943,
+    "geom:longitude":-97.632856,
+    "iso:country":"US",
+    "sg:address":"614 W 9th St",
+    "sg:city":"Larimore",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 343 6250",
+    "sg:postcode":"58251",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5C2Z1Og4rWajp8fO5jOuVX_47.912943_-97.632856@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295659,
+    "wof:geomhash":"39b599693019479b907b0fc4a0a01296",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873656255
+        }
+    ],
+    "wof:id":873656255,
+    "wof:lastmodified":1464295659,
+    "wof:name":"Double O Enterprises",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.632856,
+    47.912943,
+    -97.632856,
+    47.912943
+],
+  "geometry": {"coordinates":[-97.632856,47.912943],"type":"Point"}
+}

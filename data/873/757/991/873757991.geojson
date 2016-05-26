@@ -1,0 +1,66 @@
+{
+  "id": 873757991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.048656,47.897678,-97.048656,47.897678",
+    "geom:latitude":47.897678,
+    "geom:longitude":-97.048656,
+    "iso:country":"US",
+    "sg:address":"2300 Library Cir",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 8319",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UalAudvRoC2VXj9V9q31e_47.897678_-97.048656@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297181,
+    "wof:geomhash":"2cc5c218bf669f42fa6a4e60f0c5591b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873757991
+        }
+    ],
+    "wof:id":873757991,
+    "wof:lastmodified":1464297181,
+    "wof:name":"John Halstenson Insurance",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.048656,
+    47.897678,
+    -97.048656,
+    47.897678
+],
+  "geometry": {"coordinates":[-97.04865599999999,47.897678],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873587191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.775567,46.822145,-100.775567,46.822145",
+    "geom:latitude":46.822145,
+    "geom:longitude":-100.775567,
+    "iso:country":"US",
+    "sg:address":"1533 N 12th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 530 9410",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1i46fL5I6Zx2QSnIRhi1xD_46.822145_-100.775567@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294799,
+    "wof:geomhash":"7ad3379610b7217c53ed073f5a8f8896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873587191
+        }
+    ],
+    "wof:id":873587191,
+    "wof:lastmodified":1464294799,
+    "wof:name":"Wagner Law Firm",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -100.775567,
+    46.822145,
+    -100.775567,
+    46.822145
+],
+  "geometry": {"coordinates":[-100.775567,46.822145],"type":"Point"}
+}

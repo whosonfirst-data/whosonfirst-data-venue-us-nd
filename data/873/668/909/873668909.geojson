@@ -1,0 +1,84 @@
+{
+  "id": 873668909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.054217,47.933174,-97.054217,47.933174",
+    "geom:latitude":47.933174,
+    "geom:longitude":-97.054217,
+    "iso:country":"US",
+    "sg:address":"1812 Gateway Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Metals & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 4866",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "steel",
+        "shop",
+        "machine",
+        "industrial",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zXhyFC4XglyfKw4RNemih_47.933174_-97.054217@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295789,
+    "wof:geomhash":"b38d37c1cba78b8323e9a66a9edc57ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873668909
+        }
+    ],
+    "wof:id":873668909,
+    "wof:lastmodified":1464295789,
+    "wof:name":"Grand Forks Welding Machine Co",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "shop",
+        "machine",
+        "industrial",
+        "supply"
+    ]
+},
+  "bbox": [
+    -97.054217,
+    47.933174,
+    -97.054217,
+    47.933174
+],
+  "geometry": {"coordinates":[-97.05421699999999,47.933174],"type":"Point"}
+}

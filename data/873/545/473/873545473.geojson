@@ -1,0 +1,75 @@
+{
+  "id": 873545473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.681564,46.755165,-100.681564,46.755165",
+    "geom:latitude":46.755165,
+    "geom:longitude":-100.681564,
+    "iso:country":"US",
+    "sg:address":"3115 Majestic St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 220 7127",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "fixed",
+        "motor",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bYGyDFB7b8RG9DglaaKkn_46.755165_-100.681564@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294321,
+    "wof:geomhash":"695ccf73f16f98d9943394fa87ece303",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873545473
+        }
+    ],
+    "wof:id":873545473,
+    "wof:lastmodified":1464294321,
+    "wof:name":"Advanced Home Inspections",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fixed",
+        "motor",
+        "facility"
+    ]
+},
+  "bbox": [
+    -100.681564,
+    46.755165,
+    -100.681564,
+    46.755165
+],
+  "geometry": {"coordinates":[-100.68156399999999,46.755165],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873723833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.288023,48.240745,-101.288023,48.240745",
+    "geom:latitude":48.240745,
+    "geom:longitude":-101.288023,
+    "iso:country":"US",
+    "sg:address":"412 3rd St NE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 3731",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yeTOE5yF0CWISX4TJEK3J_48.240745_-101.288023@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296697,
+    "wof:geomhash":"8ab431812942be711d706b5126c9f09c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873723833
+        }
+    ],
+    "wof:id":873723833,
+    "wof:lastmodified":1464296697,
+    "wof:name":"Marc's Computer",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -101.288023,
+    48.240745,
+    -101.288023,
+    48.240745
+],
+  "geometry": {"coordinates":[-101.288023,48.240745],"type":"Point"}
+}

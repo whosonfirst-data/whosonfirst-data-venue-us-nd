@@ -1,0 +1,76 @@
+{
+  "id": 873620533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.289193,48.210996,-101.289193,48.210996",
+    "geom:latitude":48.210996,
+    "geom:longitude":-101.289193,
+    "iso:country":"US",
+    "sg:address":"408 20th Ave SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 0722",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "leather"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16pctwhT6jwamRecvR3yik_48.210996_-101.289193@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295256,
+    "wof:geomhash":"f196d53f288c4de4f30310d5055bdb6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873620533
+        }
+    ],
+    "wof:id":873620533,
+    "wof:lastmodified":1464295256,
+    "wof:name":"Hensen's Fur & Leather",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leather"
+    ]
+},
+  "bbox": [
+    -101.289193,
+    48.210996,
+    -101.289193,
+    48.210996
+],
+  "geometry": {"coordinates":[-101.289193,48.210996],"type":"Point"}
+}

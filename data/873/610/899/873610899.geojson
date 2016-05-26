@@ -1,0 +1,74 @@
+{
+  "id": 873610899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.301469,48.232383,-101.301469,48.232383",
+    "geom:latitude":48.232383,
+    "geom:longitude":-101.301469,
+    "iso:country":"US",
+    "sg:address":"604 Burdick Expy W",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 3377",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "sg:website":"www.motorservicecompany.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JaAvQMkLUqlRYOLcWJnK0_48.232383_-101.301469@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295153,
+    "wof:geomhash":"9186516f45cbc36c549a030610370aea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873610899
+        }
+    ],
+    "wof:id":873610899,
+    "wof:lastmodified":1464295153,
+    "wof:name":"Motor Service Co",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -101.301469,
+    48.232383,
+    -101.301469,
+    48.232383
+],
+  "geometry": {"coordinates":[-101.301469,48.232383],"type":"Point"}
+}

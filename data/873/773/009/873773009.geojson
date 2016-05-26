@@ -1,0 +1,70 @@
+{
+  "id": 873773009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.840177,46.863615,-96.840177,46.863615",
+    "geom:latitude":46.863615,
+    "geom:longitude":-96.840177,
+    "iso:country":"US",
+    "sg:address":"1150 36th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 2400",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_439s2Tc2K4LMcaW5m6skuo_46.863615_-96.840177@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297401,
+    "wof:geomhash":"55a9524849afe2d680508cb655c02c7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873773009
+        }
+    ],
+    "wof:id":873773009,
+    "wof:lastmodified":1464297401,
+    "wof:name":"Mr Steak Restaurant",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.840177,
+    46.863615,
+    -96.840177,
+    46.863615
+],
+  "geometry": {"coordinates":[-96.840177,46.863615],"type":"Point"}
+}

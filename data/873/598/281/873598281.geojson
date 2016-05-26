@@ -1,0 +1,71 @@
+{
+  "id": 873598281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.096044,47.911137,-97.096044,47.911137",
+    "geom:latitude":47.911137,
+    "geom:longitude":-97.096044,
+    "iso:country":"US",
+    "sg:address":"1250 S 46th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Plants",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 0536",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "florist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VhUW0W2YF2Yf9rfkPZeTj_47.911137_-97.096044@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294962,
+    "wof:geomhash":"0edeadf99da32a3dc362282c26e6359e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873598281
+        }
+    ],
+    "wof:id":873598281,
+    "wof:lastmodified":1464294962,
+    "wof:name":"J W Perry Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "florist"
+    ]
+},
+  "bbox": [
+    -97.096044,
+    47.911137,
+    -97.096044,
+    47.911137
+],
+  "geometry": {"coordinates":[-97.09604400000001,47.911137],"type":"Point"}
+}

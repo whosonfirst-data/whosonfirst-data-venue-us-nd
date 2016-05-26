@@ -1,0 +1,71 @@
+{
+  "id": 873785327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.302184,48.095217,-101.302184,48.095217",
+    "geom:latitude":48.095217,
+    "geom:longitude":-101.302184,
+    "iso:country":"US",
+    "sg:address":"801 135th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 722 3324",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "grain",
+        "wheat",
+        "cash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1niMwWazlMab23w9GBYO3q_48.095217_-101.302184@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297559,
+    "wof:geomhash":"3cc0edf0007d9a7ab233573c74186595",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873785327
+        }
+    ],
+    "wof:id":873785327,
+    "wof:lastmodified":1464297559,
+    "wof:name":"Elvin Pietsch",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "grain",
+        "wheat",
+        "cash"
+    ]
+},
+  "bbox": [
+    -101.302184,
+    48.095217,
+    -101.302184,
+    48.095217
+],
+  "geometry": {"coordinates":[-101.302184,48.095217],"type":"Point"}
+}

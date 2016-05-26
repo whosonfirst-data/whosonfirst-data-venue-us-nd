@@ -1,0 +1,75 @@
+{
+  "id": 873637855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.160638,47.991186,-97.160638,47.991186",
+    "geom:latitude":47.991186,
+    "geom:longitude":-97.160638,
+    "iso:country":"US",
+    "sg:address":"8796 70th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 8938",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0V4vResSyZbjIKQasgeJQc_47.991186_-97.160638@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295453,
+    "wof:geomhash":"b00d4695fe84c9f96b672dc36082c5ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873637855
+        }
+    ],
+    "wof:id":873637855,
+    "wof:lastmodified":1464295453,
+    "wof:name":"James E Meagher",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -97.160638,
+    47.991186,
+    -97.160638,
+    47.991186
+],
+  "geometry": {"coordinates":[-97.16063800000001,47.991186],"type":"Point"}
+}

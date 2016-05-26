@@ -1,0 +1,71 @@
+{
+  "id": 873661457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.053408,47.900423,-97.053408,47.900423",
+    "geom:latitude":47.900423,
+    "geom:longitude":-97.053408,
+    "iso:country":"US",
+    "sg:address":"1702 20th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 885 2555",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "glass"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26LAmqY0CldfIagtRftvB3_47.900423_-97.053408@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295714,
+    "wof:geomhash":"2079460a6fe5c6b133a2d15d1478873d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873661457
+        }
+    ],
+    "wof:id":873661457,
+    "wof:lastmodified":1464295714,
+    "wof:name":"Dwight's Glass",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass"
+    ]
+},
+  "bbox": [
+    -97.053408,
+    47.900423,
+    -97.053408,
+    47.900423
+],
+  "geometry": {"coordinates":[-97.053408,47.900423],"type":"Point"}
+}

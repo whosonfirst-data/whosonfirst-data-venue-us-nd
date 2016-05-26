@@ -1,0 +1,73 @@
+{
+  "id": 873536491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.331928,48.250658,-101.331928,48.250658",
+    "geom:latitude":48.250658,
+    "geom:longitude":-101.331928,
+    "iso:country":"US",
+    "sg:address":"1300 25th Pl NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 0637",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "installation",
+        "drapery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YNZstGeU6SLAlwhVgmibY_48.250658_-101.331928@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294220,
+    "wof:geomhash":"9696a76ecf3cf8c571cb769389b7c055",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873536491
+        }
+    ],
+    "wof:id":873536491,
+    "wof:lastmodified":1464294220,
+    "wof:name":"Roger Cole Carpet & Drapery",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installation",
+        "drapery"
+    ]
+},
+  "bbox": [
+    -101.331928,
+    48.250658,
+    -101.331928,
+    48.250658
+],
+  "geometry": {"coordinates":[-101.331928,48.250658],"type":"Point"}
+}

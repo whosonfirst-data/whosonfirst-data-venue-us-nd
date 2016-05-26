@@ -1,0 +1,71 @@
+{
+  "id": 873766151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.808061,46.807739,-100.808061,46.807739",
+    "geom:latitude":46.807739,
+    "geom:longitude":-100.808061,
+    "iso:country":"US",
+    "sg:address":"1019 Lake Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 6333",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1u7ysfV23iTYWQwO6KiPu7_46.807739_-100.808061@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297314,
+    "wof:geomhash":"87157b4ca4a915fd8c36db4e37968000",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873766151
+        }
+    ],
+    "wof:id":873766151,
+    "wof:lastmodified":1464297314,
+    "wof:name":"Mc Leod USA",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -100.808061,
+    46.807739,
+    -100.808061,
+    46.807739
+],
+  "geometry": {"coordinates":[-100.808061,46.807739],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873596491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.101652,47.92402,-97.101652,47.92402",
+    "geom:latitude":47.92402,
+    "geom:longitude":-97.101652,
+    "iso:country":"US",
+    "sg:address":"5018 4th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 6167",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "fireplace",
+        "chimney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LDlqr7TFbMFJGR2AkG9ck_47.924020_-97.101652@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294936,
+    "wof:geomhash":"0fb9e5fa0a9682919d5173a395402d39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873596491
+        }
+    ],
+    "wof:id":873596491,
+    "wof:lastmodified":1464294936,
+    "wof:name":"Chimney Doctor",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fireplace",
+        "chimney"
+    ]
+},
+  "bbox": [
+    -97.101652,
+    47.92402,
+    -97.101652,
+    47.92402
+],
+  "geometry": {"coordinates":[-97.101652,47.92402],"type":"Point"}
+}

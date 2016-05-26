@@ -1,0 +1,71 @@
+{
+  "id": 873757049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.042344,47.902889,-97.042344,47.902889",
+    "geom:latitude":47.902889,
+    "geom:longitude":-97.042344,
+    "iso:country":"US",
+    "sg:address":"1115 18th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 780 8923",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27Eawn4kZNGohtCCh5GTRJ_47.902889_-97.042344@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297170,
+    "wof:geomhash":"475bb3829481621e31ef26cf97695698",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873757049
+        }
+    ],
+    "wof:id":873757049,
+    "wof:lastmodified":1464297170,
+    "wof:name":"Mondry Apartments",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -97.042344,
+    47.902889,
+    -97.042344,
+    47.902889
+],
+  "geometry": {"coordinates":[-97.042344,47.902889],"type":"Point"}
+}

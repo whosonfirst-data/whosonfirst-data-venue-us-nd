@@ -1,0 +1,78 @@
+{
+  "id": 873723731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-102.785632,46.878783,-102.785632,46.878783",
+    "geom:latitude":46.878783,
+    "geom:longitude":-102.785632,
+    "iso:country":"US",
+    "sg:address":"6 W Villard St",
+    "sg:city":"Dickinson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 483 8495",
+    "sg:postcode":"58601",
+    "sg:province":"ND",
+    "sg:tags":[
+        "picture",
+        "frame"
+    ],
+    "sg:website":"www.jpframeshop.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877119,
+        102191575,
+        404482179,
+        85633793,
+        85982521,
+        102082105,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08DoXcat7XiSLwaNF8XFTt_46.878783_-102.785632@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296696,
+    "wof:geomhash":"54254b501982a9dfdebc03a77b6686c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082105,
+            "localadmin_id":404482179,
+            "locality_id":85982521,
+            "neighbourhood_id":85877119,
+            "region_id":85688525,
+            "venue_id":873723731
+        }
+    ],
+    "wof:id":873723731,
+    "wof:lastmodified":1464296696,
+    "wof:name":"J P Frameshop & Western Edge",
+    "wof:parent_id":85877119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "picture",
+        "frame"
+    ]
+},
+  "bbox": [
+    -102.785632,
+    46.878783,
+    -102.785632,
+    46.878783
+],
+  "geometry": {"coordinates":[-102.78563200000001,46.878783],"type":"Point"}
+}

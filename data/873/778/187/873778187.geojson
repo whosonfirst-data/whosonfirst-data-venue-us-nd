@@ -1,0 +1,74 @@
+{
+  "id": 873778187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.090583,47.928481,-97.090583,47.928481",
+    "geom:latitude":47.928481,
+    "geom:longitude":-97.090583,
+    "iso:country":"US",
+    "sg:address":"802 N 43rd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 5561",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "agency",
+        "bureau"
+    ],
+    "sg:website":"www.brekketours.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6u2dDf2Hnk0OiUTRnP75rH_47.928481_-97.090583@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297465,
+    "wof:geomhash":"9d6e6f3d9edf0decc1c37ad4d8d8d108",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873778187
+        }
+    ],
+    "wof:id":873778187,
+    "wof:lastmodified":1464297465,
+    "wof:name":"Brekke Tours Scandinavia",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "bureau"
+    ]
+},
+  "bbox": [
+    -97.090583,
+    47.928481,
+    -97.090583,
+    47.928481
+],
+  "geometry": {"coordinates":[-97.090583,47.928481],"type":"Point"}
+}

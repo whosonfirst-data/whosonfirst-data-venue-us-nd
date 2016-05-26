@@ -1,0 +1,73 @@
+{
+  "id": 873552705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.273581,48.211024,-101.273581,48.211024",
+    "geom:latitude":48.211024,
+    "geom:longitude":-101.273581,
+    "iso:country":"US",
+    "sg:address":"1400 20th Ave SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 1067",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "book",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PAINE71Y6tsyFJ73Det8m_48.211024_-101.273581@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294408,
+    "wof:geomhash":"ef962d85464e84090d78ae382dfc5a5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873552705
+        }
+    ],
+    "wof:id":873552705,
+    "wof:lastmodified":1464294408,
+    "wof:name":"Samaritan The",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "book",
+        "music"
+    ]
+},
+  "bbox": [
+    -101.273581,
+    48.211024,
+    -101.273581,
+    48.211024
+],
+  "geometry": {"coordinates":[-101.27358099999999,48.211024],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873651189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.789769,46.912112,-96.789769,46.912112",
+    "geom:latitude":46.912112,
+    "geom:longitude":-96.789769,
+    "iso:country":"US",
+    "sg:address":"707 28th Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Bowling",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 1171",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877353,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22tpe6rHo0GB8laaR2yhiT_46.912112_-96.789769@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295599,
+    "wof:geomhash":"a9c6fe01540a9d5dc8ae80f44cbf707e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877353,
+            "region_id":85688525,
+            "venue_id":873651189
+        }
+    ],
+    "wof:id":873651189,
+    "wof:lastmodified":1464295599,
+    "wof:name":"Red River Lanes Casino Lounge",
+    "wof:parent_id":85877353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -96.789769,
+    46.912112,
+    -96.789769,
+    46.912112
+],
+  "geometry": {"coordinates":[-96.78976900000001,46.912112],"type":"Point"}
+}

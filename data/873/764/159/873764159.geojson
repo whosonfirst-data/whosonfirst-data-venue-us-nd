@@ -1,0 +1,71 @@
+{
+  "id": 873764159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.324468,48.246804,-101.324468,48.246804",
+    "geom:latitude":48.246804,
+    "geom:longitude":-101.324468,
+    "iso:country":"US",
+    "sg:address":"804 21st St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 721 0574",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5y3Zx5VZ9nm1h7spQoGxW5_48.246804_-101.324468@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297277,
+    "wof:geomhash":"d3f44bc61735c4dba91eacaeca05aae5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873764159
+        }
+    ],
+    "wof:id":873764159,
+    "wof:lastmodified":1464297277,
+    "wof:name":"Sheppard's Taxidermy",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxidermist"
+    ]
+},
+  "bbox": [
+    -101.324468,
+    48.246804,
+    -101.324468,
+    48.246804
+],
+  "geometry": {"coordinates":[-101.324468,48.246804],"type":"Point"}
+}

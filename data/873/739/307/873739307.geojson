@@ -1,0 +1,73 @@
+{
+  "id": 873739307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.752358,46.827222,-100.752358,46.827222",
+    "geom:latitude":46.827222,
+    "geom:longitude":-100.752358,
+    "iso:country":"US",
+    "sg:address":"2513 Grant Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 6615",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "consultant",
+        "safety"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IYEDDX6TRxnjqmQPi13xT_46.827222_-100.752358@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296911,
+    "wof:geomhash":"13f09429546499d4d3e85f4a9b7d7aca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873739307
+        }
+    ],
+    "wof:id":873739307,
+    "wof:lastmodified":1464296911,
+    "wof:name":"One Call Concepts",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "safety"
+    ]
+},
+  "bbox": [
+    -100.752358,
+    46.827222,
+    -100.752358,
+    46.827222
+],
+  "geometry": {"coordinates":[-100.752358,46.827222],"type":"Point"}
+}

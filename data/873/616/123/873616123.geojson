@@ -1,0 +1,66 @@
+{
+  "id": 873616123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.05808,47.92233,-97.05808,47.92233",
+    "geom:latitude":47.92233,
+    "geom:longitude":-97.05808,
+    "iso:country":"US",
+    "sg:address":"2122 University Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 4745",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TRR9uPolit3DdedIy0gp4_47.922330_-97.058080@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295206,
+    "wof:geomhash":"9f83d009d2ef684442ec9a547198f1de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873616123
+        }
+    ],
+    "wof:id":873616123,
+    "wof:lastmodified":1464295206,
+    "wof:name":"University Lutheran Church",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.05808,
+    47.92233,
+    -97.05808,
+    47.92233
+],
+  "geometry": {"coordinates":[-97.05808,47.92233],"type":"Point"}
+}

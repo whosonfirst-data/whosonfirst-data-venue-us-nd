@@ -1,0 +1,80 @@
+{
+  "id": 873579029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.784675,46.804159,-100.784675,46.804159",
+    "geom:latitude":46.804159,
+    "geom:longitude":-100.784675,
+    "iso:country":"US",
+    "sg:address":"301 E Front Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 224 0802",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "picture",
+        "frame",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KCEwa3vApPLcngpBs2sHC_46.804159_-100.784675@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294706,
+    "wof:geomhash":"b72cfe417d8ba4d195ff971f787ef755",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873579029
+        }
+    ],
+    "wof:id":873579029,
+    "wof:lastmodified":1464294706,
+    "wof:name":"Carden Custom Framing",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "picture",
+        "frame",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -100.784675,
+    46.804159,
+    -100.784675,
+    46.804159
+],
+  "geometry": {"coordinates":[-100.78467499999999,46.804159],"type":"Point"}
+}

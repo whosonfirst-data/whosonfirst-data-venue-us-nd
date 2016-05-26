@@ -1,0 +1,72 @@
+{
+  "id": 873798077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.787821,46.800113,-100.787821,46.800113",
+    "geom:latitude":46.800113,
+    "geom:longitude":-100.787821,
+    "iso:country":"US",
+    "sg:address":"600 S 3rd St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/bismarck/124898-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 221 2072",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ULJrP3amTUiP3ofLtGwez_46.800113_-100.787821@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297751,
+    "wof:geomhash":"61dbf76ce57bf8f292da59a08654c8c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873798077
+        }
+    ],
+    "wof:id":873798077,
+    "wof:lastmodified":1464297751,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -100.787821,
+    46.800113,
+    -100.787821,
+    46.800113
+],
+  "geometry": {"coordinates":[-100.78782099999999,46.800113],"type":"Point"}
+}

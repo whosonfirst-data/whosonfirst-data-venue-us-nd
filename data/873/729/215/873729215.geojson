@@ -1,0 +1,75 @@
+{
+  "id": 873729215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.029184,47.924437,-97.029184,47.924437",
+    "geom:latitude":47.924437,
+    "geom:longitude":-97.029184,
+    "iso:country":"US",
+    "sg:address":"12 S 3rd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 1312",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shop",
+        "treatment",
+        "skin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1W4fDPlgfcz8NkGwb2HvQa_47.924437_-97.029184@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296770,
+    "wof:geomhash":"6f5a9193b8cec6300cfe42fa52bad885",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873729215
+        }
+    ],
+    "wof:id":873729215,
+    "wof:lastmodified":1464296770,
+    "wof:name":"Skin & Bodywork Institute Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "treatment",
+        "skin"
+    ]
+},
+  "bbox": [
+    -97.029184,
+    47.924437,
+    -97.029184,
+    47.924437
+],
+  "geometry": {"coordinates":[-97.029184,47.924437],"type":"Point"}
+}

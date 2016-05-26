@@ -1,0 +1,73 @@
+{
+  "id": 873681529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.735776,46.84094,-100.735776,46.84094",
+    "geom:latitude":46.84094,
+    "geom:longitude":-100.735776,
+    "iso:country":"US",
+    "sg:address":"3614 Saratoga Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 250 7186",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68CiAtmNl2O1WO5olXtSjh_46.840940_-100.735776@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296038,
+    "wof:geomhash":"ea1549137855559d49f410ab4e22e658",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873681529
+        }
+    ],
+    "wof:id":873681529,
+    "wof:lastmodified":1464296038,
+    "wof:name":"Titus Excavating Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.735776,
+    46.84094,
+    -100.735776,
+    46.84094
+],
+  "geometry": {"coordinates":[-100.735776,46.84094],"type":"Point"}
+}

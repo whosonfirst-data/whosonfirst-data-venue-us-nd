@@ -1,0 +1,71 @@
+{
+  "id": 873553205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.036022,47.888297,-97.036022,47.888297",
+    "geom:latitude":47.888297,
+    "geom:longitude":-97.036022,
+    "iso:country":"US",
+    "sg:address":"3210 Cherry St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 4447",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "social"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lhLdOM6GExcILe3eI6gl2_47.888297_-97.036022@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294414,
+    "wof:geomhash":"21f939e66b206fc6b57daf2911b62131",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873553205
+        }
+    ],
+    "wof:id":873553205,
+    "wof:lastmodified":1464294414,
+    "wof:name":"Parents Families & Friend",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "social"
+    ]
+},
+  "bbox": [
+    -97.036022,
+    47.888297,
+    -97.036022,
+    47.888297
+],
+  "geometry": {"coordinates":[-97.036022,47.888297],"type":"Point"}
+}

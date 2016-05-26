@@ -1,0 +1,73 @@
+{
+  "id": 873774779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.258409,48.229073,-101.258409,48.229073",
+    "geom:latitude":48.229073,
+    "geom:longitude":-101.258409,
+    "iso:country":"US",
+    "sg:address":"2424 Burdick Expy E",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 5353",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "report",
+        "construction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qdzD8HDW3ybgOMQWmRXtm_48.229073_-101.258409@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297423,
+    "wof:geomhash":"d355245e26ac93fc6fa683dcdfc5e1be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873774779
+        }
+    ],
+    "wof:id":873774779,
+    "wof:lastmodified":1464297423,
+    "wof:name":"Minot Builders Exchange",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "report",
+        "construction"
+    ]
+},
+  "bbox": [
+    -101.258409,
+    48.229073,
+    -101.258409,
+    48.229073
+],
+  "geometry": {"coordinates":[-101.258409,48.229073],"type":"Point"}
+}

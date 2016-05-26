@@ -1,0 +1,71 @@
+{
+  "id": 873738113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.28642,48.24733,-101.28642,48.24733",
+    "geom:latitude":48.24733,
+    "geom:longitude":-101.28642,
+    "iso:country":"US",
+    "sg:address":"400 Hillcrest Dr NE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 4627",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2u44dz1O979SSVgUfseQZD_48.247330_-101.286420@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296897,
+    "wof:geomhash":"58ce3fafbe1449e04573ec2bddd63dbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873738113
+        }
+    ],
+    "wof:id":873738113,
+    "wof:lastmodified":1464296897,
+    "wof:name":"Marvels Day Care",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -101.28642,
+    48.24733,
+    -101.28642,
+    48.24733
+],
+  "geometry": {"coordinates":[-101.28642000000001,48.24733],"type":"Point"}
+}

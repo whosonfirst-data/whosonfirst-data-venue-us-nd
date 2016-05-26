@@ -1,0 +1,67 @@
+{
+  "id": 873786461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.684735,48.296108,-101.684735,48.296108",
+    "geom:latitude":48.296108,
+    "geom:longitude":-101.684735,
+    "iso:country":"US",
+    "sg:address":"5150 254th St NW",
+    "sg:city":"Berthold",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 453 3587",
+    "sg:postcode":"58718",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "wheat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aVDJiUl0Xkwm7kDUhwsYb_48.296108_-101.684735@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297579,
+    "wof:geomhash":"a999f69f35209d50a910c31a37f1a364",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873786461
+        }
+    ],
+    "wof:id":873786461,
+    "wof:lastmodified":1464297579,
+    "wof:name":"Flatland Farms",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "wheat"
+    ]
+},
+  "bbox": [
+    -101.684735,
+    48.296108,
+    -101.684735,
+    48.296108
+],
+  "geometry": {"coordinates":[-101.684735,48.296108],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 873701807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.058591,47.93207,-97.058591,47.93207",
+    "geom:latitude":47.93207,
+    "geom:longitude":-97.058591,
+    "iso:country":"US",
+    "sg:address":"2103 13th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 5454",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "installs",
+        "communication",
+        "including",
+        "system",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7g7N2aSyg4b5e0LmBIAgrL_47.932070_-97.058591@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296423,
+    "wof:geomhash":"5085b1e3e45812a8ce72398547e583e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873701807
+        }
+    ],
+    "wof:id":873701807,
+    "wof:lastmodified":1464296423,
+    "wof:name":"Stans Communications Corp",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installs",
+        "communication",
+        "including",
+        "system",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -97.058591,
+    47.93207,
+    -97.058591,
+    47.93207
+],
+  "geometry": {"coordinates":[-97.05859100000001,47.93207],"type":"Point"}
+}

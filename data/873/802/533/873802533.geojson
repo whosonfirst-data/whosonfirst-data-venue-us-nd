@@ -1,0 +1,98 @@
+{
+  "id": 873802533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.861627,46.869813,-96.861627,46.869813",
+    "geom:latitude":46.869813,
+    "geom:longitude":-96.861627,
+    "iso:country":"US",
+    "sg:address":"524 45th St S # 303",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 205 0221",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "industrial",
+        "removing",
+        "coating",
+        "painting",
+        "contractor",
+        "paint",
+        "contractors-commercial",
+        "exterior",
+        "drywall",
+        "stucco"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PNmU9WkHZ0s1skn7kJMEP_46.869813_-96.861627@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297804,
+    "wof:geomhash":"2838c1d4198cc1ba04f6122561221df5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873802533
+        }
+    ],
+    "wof:id":873802533,
+    "wof:lastmodified":1464297804,
+    "wof:name":"Erok Painting & Drywall",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "removing",
+        "coating",
+        "painting",
+        "contractor",
+        "paint",
+        "contractors-commercial",
+        "exterior",
+        "drywall",
+        "stucco"
+    ]
+},
+  "bbox": [
+    -96.861627,
+    46.869813,
+    -96.861627,
+    46.869813
+],
+  "geometry": {"coordinates":[-96.861627,46.869813],"type":"Point"}
+}

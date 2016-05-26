@@ -1,0 +1,72 @@
+{
+  "id": 873624729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.784716,46.799734,-100.784716,46.799734",
+    "geom:latitude":46.799734,
+    "geom:longitude":-100.784716,
+    "iso:country":"US",
+    "sg:address":"653 Kirkwood Mall",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 221 9601",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "software"
+    ],
+    "sg:website":"www.gamestop.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XPuGD7SyVqG8ZQynoGq3t_46.799734_-100.784716@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295305,
+    "wof:geomhash":"238c7f6d77eafd92d98894b704036d9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873624729
+        }
+    ],
+    "wof:id":873624729,
+    "wof:lastmodified":1464295305,
+    "wof:name":"Software Etc",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [
+    -100.784716,
+    46.799734,
+    -100.784716,
+    46.799734
+],
+  "geometry": {"coordinates":[-100.784716,46.799734],"type":"Point"}
+}

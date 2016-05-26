@@ -1,0 +1,71 @@
+{
+  "id": 873572761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.012577,46.649605,-97.012577,46.649605",
+    "geom:latitude":46.649605,
+    "geom:longitude":-97.012577,
+    "iso:country":"US",
+    "sg:address":"151 Spruce St",
+    "sg:city":"Kindred",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 428 9174",
+    "sg:postcode":"58051",
+    "sg:province":"ND",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Kbu2xmOBrPBc98RMMn4zf_46.649605_-97.012577@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294639,
+    "wof:geomhash":"b872b1dd0956cd7f75e2408d93a57514",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873572761
+        }
+    ],
+    "wof:id":873572761,
+    "wof:lastmodified":1464294639,
+    "wof:name":"Robert Discount",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -97.012577,
+    46.649605,
+    -97.012577,
+    46.649605
+],
+  "geometry": {"coordinates":[-97.01257699999999,46.649605],"type":"Point"}
+}

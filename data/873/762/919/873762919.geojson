@@ -1,0 +1,78 @@
+{
+  "id": 873762919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.050176,47.930128,-97.050176,47.930128",
+    "geom:latitude":47.930128,
+    "geom:longitude":-97.050176,
+    "iso:country":"US",
+    "sg:address":"1503 11th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 7381",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "training",
+        "computer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NmMvLXD9h5yMk9uslzUEi_47.930128_-97.050176@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297257,
+    "wof:geomhash":"b5debd3f310a8c2b9e921d88e20db1c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873762919
+        }
+    ],
+    "wof:id":873762919,
+    "wof:lastmodified":1464297257,
+    "wof:name":"Counsel Lodge Institute",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "training",
+        "computer"
+    ]
+},
+  "bbox": [
+    -97.050176,
+    47.930128,
+    -97.050176,
+    47.930128
+],
+  "geometry": {"coordinates":[-97.05017599999999,47.930128],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 873802039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.810343,46.832552,-96.810343,46.832552",
+    "geom:latitude":46.832552,
+    "geom:longitude":-96.810343,
+    "iso:country":"US",
+    "sg:address":"1790 32nd Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 238 2938",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "counseling",
+        "addiction",
+        "abuse",
+        "drug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534487,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tR6UJYzVLIak8DcD5UKIj_46.832552_-96.810343@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297797,
+    "wof:geomhash":"8521f345f67e690693f8e61b16628513",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534487,
+            "region_id":85688525,
+            "venue_id":873802039
+        }
+    ],
+    "wof:id":873802039,
+    "wof:lastmodified":1464297797,
+    "wof:name":"Cathy Hjelle Counseling and Associates",
+    "wof:parent_id":420534487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling",
+        "addiction",
+        "abuse",
+        "drug"
+    ]
+},
+  "bbox": [
+    -96.810343,
+    46.832552,
+    -96.810343,
+    46.832552
+],
+  "geometry": {"coordinates":[-96.810343,46.832552],"type":"Point"}
+}

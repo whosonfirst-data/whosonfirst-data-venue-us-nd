@@ -1,0 +1,77 @@
+{
+  "id": 873633153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.820941,46.872287,-96.820941,46.872287",
+    "geom:latitude":46.872287,
+    "geom:longitude":-96.820941,
+    "iso:country":"US",
+    "sg:address":"320 27th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Recreational Vehicle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 237 6046",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "home",
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PQBQMfmMgUvvjkJS128TL_46.872287_-96.820941@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295402,
+    "wof:geomhash":"e172b3680914ad6ccaff9ffec5d279ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873633153
+        }
+    ],
+    "wof:id":873633153,
+    "wof:lastmodified":1464295402,
+    "wof:name":"Mc Laughlins Rv & Marine",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "trailer"
+    ]
+},
+  "bbox": [
+    -96.820941,
+    46.872287,
+    -96.820941,
+    46.872287
+],
+  "geometry": {"coordinates":[-96.820941,46.872287],"type":"Point"}
+}

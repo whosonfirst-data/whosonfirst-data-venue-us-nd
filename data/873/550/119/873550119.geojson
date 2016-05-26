@@ -1,0 +1,66 @@
+{
+  "id": 873550119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.24642,46.650824,-97.24642,46.650824",
+    "geom:latitude":46.650824,
+    "geom:longitude":-97.24642,
+    "iso:country":"US",
+    "sg:address":"10 Main St S",
+    "sg:city":"Leonard",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 645 2395",
+    "sg:postcode":"58052",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28hGgGvz3zgaRo14ssZo5o_46.650824_-97.246420@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294380,
+    "wof:geomhash":"c3f5bda8ee146e0233ceedb82fa55d9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873550119
+        }
+    ],
+    "wof:id":873550119,
+    "wof:lastmodified":1464294380,
+    "wof:name":"Sheyenne Valley Lumber Co",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.24642,
+    46.650824,
+    -97.24642,
+    46.650824
+],
+  "geometry": {"coordinates":[-97.24642,46.650824],"type":"Point"}
+}

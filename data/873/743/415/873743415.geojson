@@ -1,0 +1,73 @@
+{
+  "id": 873743415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.055471,47.913329,-97.055471,47.913329",
+    "geom:latitude":47.913329,
+    "geom:longitude":-97.055471,
+    "iso:country":"US",
+    "sg:address":"803 S 20th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 7955",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fTaijSW3Zj0qWONERAZ7g_47.913329_-97.055471@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296977,
+    "wof:geomhash":"9889e18c6fdde364d986c8f8f58ade44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873743415
+        }
+    ],
+    "wof:id":873743415,
+    "wof:lastmodified":1464296977,
+    "wof:name":"Selliken Excavating",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.055471,
+    47.913329,
+    -97.055471,
+    47.913329
+],
+  "geometry": {"coordinates":[-97.055471,47.913329],"type":"Point"}
+}

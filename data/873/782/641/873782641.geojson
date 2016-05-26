@@ -1,0 +1,67 @@
+{
+  "id": 873782641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.61365,47.845627,-97.61365,47.845627",
+    "geom:latitude":47.845627,
+    "geom:longitude":-97.61365,
+    "iso:country":"US",
+    "sg:address":"3694 12th Ave",
+    "sg:city":"Larimore",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 343 2623",
+    "sg:postcode":"58251",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "wheat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05oDWaVxcC1XjjK99Q23N8_47.845627_-97.613650@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297526,
+    "wof:geomhash":"159780461b3d8e2dc63ae64d55b55d6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873782641
+        }
+    ],
+    "wof:id":873782641,
+    "wof:lastmodified":1464297526,
+    "wof:name":"Shide Farming Co Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "wheat"
+    ]
+},
+  "bbox": [
+    -97.61365,
+    47.845627,
+    -97.61365,
+    47.845627
+],
+  "geometry": {"coordinates":[-97.61365000000001,47.845627],"type":"Point"}
+}

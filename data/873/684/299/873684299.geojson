@@ -1,0 +1,75 @@
+{
+  "id": 873684299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.792263,46.893945,-96.792263,46.893945",
+    "geom:latitude":46.893945,
+    "geom:longitude":-96.792263,
+    "iso:country":"US",
+    "sg:address":"1350 9th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 298 6196",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877359,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oxLl0FAjLmhle3nNKKfng_46.893945_-96.792263@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296119,
+    "wof:geomhash":"665a0d60454ef3c108298d2a2c775454",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877359,
+            "region_id":85688525,
+            "venue_id":873684299
+        }
+    ],
+    "wof:id":873684299,
+    "wof:lastmodified":1464296119,
+    "wof:name":"Prayers of Wind Spirits",
+    "wof:parent_id":85877359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -96.792263,
+    46.893945,
+    -96.792263,
+    46.893945
+],
+  "geometry": {"coordinates":[-96.79226300000001,46.893945],"type":"Point"}
+}

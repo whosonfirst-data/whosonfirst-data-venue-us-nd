@@ -1,0 +1,70 @@
+{
+  "id": 873644377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.794288,46.815322,-100.794288,46.815322",
+    "geom:latitude":46.815322,
+    "geom:longitude":-100.794288,
+    "iso:country":"US",
+    "sg:address":"806 N Washington St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 355 3000",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ceQwPgDbc7bzBdZa1rPie_46.815322_-100.794288@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295529,
+    "wof:geomhash":"066a55f01160ab8e07f801776b6cfcf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873644377
+        }
+    ],
+    "wof:id":873644377,
+    "wof:lastmodified":1464295529,
+    "wof:name":"Bismarck Public Schools Adm",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.794288,
+    46.815322,
+    -100.794288,
+    46.815322
+],
+  "geometry": {"coordinates":[-100.79428799999999,46.815322],"type":"Point"}
+}

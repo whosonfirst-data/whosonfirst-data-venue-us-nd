@@ -1,0 +1,73 @@
+{
+  "id": 873687511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.757413,46.80318,-100.757413,46.80318",
+    "geom:latitude":46.80318,
+    "geom:longitude":-100.757413,
+    "iso:country":"US",
+    "sg:address":"2222 E Front Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 227 1000",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yfYvJLot3U05eeXW2ePzp_46.803180_-100.757413@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296206,
+    "wof:geomhash":"06ff8a2ff42f6fa1144753e9b2701c61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873687511
+        }
+    ],
+    "wof:id":873687511,
+    "wof:lastmodified":1464296206,
+    "wof:name":"America's Best Contractors",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.757413,
+    46.80318,
+    -100.757413,
+    46.80318
+],
+  "geometry": {"coordinates":[-100.757413,46.80318],"type":"Point"}
+}

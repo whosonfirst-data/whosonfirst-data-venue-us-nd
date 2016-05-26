@@ -1,0 +1,83 @@
+{
+  "id": 873800417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.83365,46.883317,-96.83365,46.883317",
+    "geom:latitude":46.883317,
+    "geom:longitude":-96.83365,
+    "iso:country":"US",
+    "sg:address":"3453 7th Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 540 4026",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "hardwood",
+        "material"
+    ],
+    "sg:website":"http://www.lumberliquidators.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0p66WyTr7M01QfiZK2KSB5_46.883317_-96.833650@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297778,
+    "wof:geomhash":"48b60b214761e74e620375e53b0bd8be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873800417
+        }
+    ],
+    "wof:id":873800417,
+    "wof:lastmodified":1464297778,
+    "wof:name":"Lumber Liquidators",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hardwood",
+        "material"
+    ]
+},
+  "bbox": [
+    -96.83365,
+    46.883317,
+    -96.83365,
+    46.883317
+],
+  "geometry": {"coordinates":[-96.83365000000001,46.883317],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873756527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.901656,46.876836,-96.901656,46.876836",
+    "geom:latitude":46.876836,
+    "geom:longitude":-96.901656,
+    "iso:country":"US",
+    "sg:address":"227 Main Ave W",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 356 0642",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "sg:tags":[
+        "tower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BeMobu46J3TL1QT2BocQR_46.876836_-96.901656@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297163,
+    "wof:geomhash":"122285f944f997a9e2ca5552b0be37ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873756527
+        }
+    ],
+    "wof:id":873756527,
+    "wof:lastmodified":1464297163,
+    "wof:name":"Great Plains Tower Properties",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tower"
+    ]
+},
+  "bbox": [
+    -96.901656,
+    46.876836,
+    -96.901656,
+    46.876836
+],
+  "geometry": {"coordinates":[-96.901656,46.876836],"type":"Point"}
+}

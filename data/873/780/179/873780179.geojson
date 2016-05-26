@@ -1,0 +1,72 @@
+{
+  "id": 873780179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.756565,46.805021,-100.756565,46.805021",
+    "geom:latitude":46.805021,
+    "geom:longitude":-100.756565,
+    "iso:country":"US",
+    "sg:address":"2015 E Main Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 9800",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "opportunity"
+    ],
+    "sg:website":"www.laborready.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AlkkpYduyKgjJ8K2kGvp2_46.805021_-100.756565@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297495,
+    "wof:geomhash":"4bdaa640fd043f1622dc0c97f3e649fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873780179
+        }
+    ],
+    "wof:id":873780179,
+    "wof:lastmodified":1464297495,
+    "wof:name":"Labor Ready Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "opportunity"
+    ]
+},
+  "bbox": [
+    -100.756565,
+    46.805021,
+    -100.756565,
+    46.805021
+],
+  "geometry": {"coordinates":[-100.75656499999999,46.805021],"type":"Point"}
+}

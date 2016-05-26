@@ -1,0 +1,77 @@
+{
+  "id": 873746373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-102.77525,46.894535,-102.77525,46.894535",
+    "geom:latitude":46.894535,
+    "geom:longitude":-102.77525,
+    "iso:country":"US",
+    "sg:address":"607 13th St E",
+    "sg:city":"Dickinson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 483 5037",
+    "sg:postcode":"58601",
+    "sg:province":"ND",
+    "sg:tags":[
+        "machinery",
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877119,
+        102191575,
+        404482179,
+        85633793,
+        85982521,
+        102082105,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69xwVPFrz7u97hnrxbiabU_46.894535_-102.775250@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297030,
+    "wof:geomhash":"f2158619d5a618b4ffd98cadd4a983fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082105,
+            "localadmin_id":404482179,
+            "locality_id":85982521,
+            "neighbourhood_id":85877119,
+            "region_id":85688525,
+            "venue_id":873746373
+        }
+    ],
+    "wof:id":873746373,
+    "wof:lastmodified":1464297030,
+    "wof:name":"Landscaping Solutions",
+    "wof:parent_id":85877119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machinery",
+        "landscape"
+    ]
+},
+  "bbox": [
+    -102.77525,
+    46.894535,
+    -102.77525,
+    46.894535
+],
+  "geometry": {"coordinates":[-102.77525,46.894535],"type":"Point"}
+}

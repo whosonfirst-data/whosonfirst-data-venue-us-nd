@@ -1,0 +1,75 @@
+{
+  "id": 873660749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.875714,46.856593,-96.875714,46.856593",
+    "geom:latitude":46.856593,
+    "geom:longitude":-96.875714,
+    "iso:country":"US",
+    "sg:address":"1471 Maple Ln",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 6650",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42lS57d4Zw42pHlJaWgDzh_46.856593_-96.875714@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295706,
+    "wof:geomhash":"a2eacc6b12389d11fde9a50b3886f6f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873660749
+        }
+    ],
+    "wof:id":873660749,
+    "wof:lastmodified":1464295706,
+    "wof:name":"Welder Construction",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -96.875714,
+    46.856593,
+    -96.875714,
+    46.856593
+],
+  "geometry": {"coordinates":[-96.875714,46.856593],"type":"Point"}
+}

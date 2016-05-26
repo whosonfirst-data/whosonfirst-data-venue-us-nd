@@ -1,0 +1,73 @@
+{
+  "id": 873652607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.764654,47.950083,-101.764654,47.950083",
+    "geom:latitude":47.950083,
+    "geom:longitude":-101.764654,
+    "iso:country":"US",
+    "sg:address":"27400 310th St SW",
+    "sg:city":"Makoti",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 726 5580",
+    "sg:postcode":"58756",
+    "sg:province":"ND",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47nYw1crHVXbpeqYUd5szA_47.950083_-101.764654@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295620,
+    "wof:geomhash":"451849765b9576018d6008106da97089",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873652607
+        }
+    ],
+    "wof:id":873652607,
+    "wof:lastmodified":1464295620,
+    "wof:name":"Hauf Electric",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.764654,
+    47.950083,
+    -101.764654,
+    47.950083
+],
+  "geometry": {"coordinates":[-101.76465399999999,47.950083],"type":"Point"}
+}

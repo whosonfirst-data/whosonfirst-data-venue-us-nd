@@ -1,0 +1,96 @@
+{
+  "id": 873804287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.833359,46.863548,-96.833359,46.863548",
+    "geom:latitude":46.863548,
+    "geom:longitude":-96.833359,
+    "iso:country":"US",
+    "sg:address":"3401 Fiechtner Dr S Ste A",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 7548",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "scanning",
+        "printer",
+        "supply",
+        "services-commercial",
+        "lithographer",
+        "plotting"
+    ],
+    "sg:website":"http://www.knightprinting.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1udShQYlA07Gk9hUgFYkAM_46.863548_-96.833359@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297826,
+    "wof:geomhash":"481aa09448925cb4fa1680113d5541e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873804287
+        }
+    ],
+    "wof:id":873804287,
+    "wof:lastmodified":1464297826,
+    "wof:name":"Knight Printing",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scanning",
+        "printer",
+        "supply",
+        "services-commercial",
+        "lithographer",
+        "plotting"
+    ]
+},
+  "bbox": [
+    -96.833359,
+    46.863548,
+    -96.833359,
+    46.863548
+],
+  "geometry": {"coordinates":[-96.833359,46.863548],"type":"Point"}
+}

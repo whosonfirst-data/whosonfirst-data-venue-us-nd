@@ -1,0 +1,73 @@
+{
+  "id": 873627457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.396245,46.642482,-100.396245,46.642482",
+    "geom:latitude":46.642482,
+    "geom:longitude":-100.396245,
+    "iso:country":"US",
+    "sg:address":"14651 249th St SE",
+    "sg:city":"Moffit",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 387 4417",
+    "sg:postcode":"58560",
+    "sg:province":"ND",
+    "sg:tags":[
+        "animal",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pMlmkV68J5QFFCKJYXhi7_46.642482_-100.396245@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295334,
+    "wof:geomhash":"f0c5a34dac9de4b1e97f813c27c6f7c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873627457
+        }
+    ],
+    "wof:id":873627457,
+    "wof:lastmodified":1464295334,
+    "wof:name":"Brian Dralle",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "animal",
+        "general"
+    ]
+},
+  "bbox": [
+    -100.396245,
+    46.642482,
+    -100.396245,
+    46.642482
+],
+  "geometry": {"coordinates":[-100.39624499999999,46.642482],"type":"Point"}
+}

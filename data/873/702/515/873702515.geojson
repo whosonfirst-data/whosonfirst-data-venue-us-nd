@@ -1,0 +1,70 @@
+{
+  "id": 873702515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.832515,46.832419,-100.832515,46.832419",
+    "geom:latitude":46.832419,
+    "geom:longitude":-100.832515,
+    "iso:country":"US",
+    "sg:address":"1700 River Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 0666",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nsDEq5k8tF3Qq5IEAAZZk_46.832419_-100.832515@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296431,
+    "wof:geomhash":"3b03a9c5cd62a5de9f9784b94b7bf516",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873702515
+        }
+    ],
+    "wof:id":873702515,
+    "wof:lastmodified":1464296431,
+    "wof:name":"Meriwether's",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.832515,
+    46.832419,
+    -100.832515,
+    46.832419
+],
+  "geometry": {"coordinates":[-100.832515,46.832419],"type":"Point"}
+}

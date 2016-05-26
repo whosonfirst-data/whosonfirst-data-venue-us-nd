@@ -1,0 +1,73 @@
+{
+  "id": 873777559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.043464,47.926429,-97.043464,47.926429",
+    "geom:latitude":47.926429,
+    "geom:longitude":-97.043464,
+    "iso:country":"US",
+    "sg:address":"715 7th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 5222",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71pixpzFzTyZ7nPDblDZoq_47.926429_-97.043464@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297457,
+    "wof:geomhash":"cfe225d3237c8efea6dd8900543923cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873777559
+        }
+    ],
+    "wof:id":873777559,
+    "wof:lastmodified":1464297457,
+    "wof:name":"Advance Electric Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.043464,
+    47.926429,
+    -97.043464,
+    47.926429
+],
+  "geometry": {"coordinates":[-97.043464,47.926429],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873722657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.775801,46.798883,-100.775801,46.798883",
+    "geom:latitude":46.798883,
+    "geom:longitude":-100.775801,
+    "iso:country":"US",
+    "sg:address":"1011 Michigan Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 226 1739",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rOT6UD9sKmzKs55QWBN1N_46.798883_-100.775801@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296683,
+    "wof:geomhash":"f9deb3a7f14bd76299315f6c1ea0156a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873722657
+        }
+    ],
+    "wof:id":873722657,
+    "wof:lastmodified":1464296683,
+    "wof:name":"M P Drywall",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.775801,
+    46.798883,
+    -100.775801,
+    46.798883
+],
+  "geometry": {"coordinates":[-100.775801,46.798883],"type":"Point"}
+}

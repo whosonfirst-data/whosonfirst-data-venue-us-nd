@@ -1,0 +1,73 @@
+{
+  "id": 873562021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.072909,47.883507,-97.072909,47.883507",
+    "geom:latitude":47.883507,
+    "geom:longitude":-97.072909,
+    "iso:country":"US",
+    "sg:address":"3077 Queens Ct",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 3863",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "prepackaged",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71nOgNZO5S9iZVFh8oGo7G_47.883507_-97.072909@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294521,
+    "wof:geomhash":"3eb3ffd88220f9dc449adaea000263d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873562021
+        }
+    ],
+    "wof:id":873562021,
+    "wof:lastmodified":1464294521,
+    "wof:name":"Dakota Programs",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "prepackaged",
+        "software"
+    ]
+},
+  "bbox": [
+    -97.072909,
+    47.883507,
+    -97.072909,
+    47.883507
+],
+  "geometry": {"coordinates":[-97.072909,47.883507],"type":"Point"}
+}

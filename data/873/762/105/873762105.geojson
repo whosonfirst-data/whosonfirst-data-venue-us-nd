@@ -1,0 +1,70 @@
+{
+  "id": 873762105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-102.786023,46.878822,-102.786023,46.878822",
+    "geom:latitude":46.878822,
+    "geom:longitude":-102.786023,
+    "iso:country":"US",
+    "sg:address":"44 W Villard St",
+    "sg:city":"Dickinson",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 225 1374",
+    "sg:postcode":"58601",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877119,
+        102191575,
+        404482179,
+        85633793,
+        85982521,
+        102082105,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BfEhf3JQTn97TDORj7Brr_46.878822_-102.786023@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297239,
+    "wof:geomhash":"88ae56be5924d2f663c2b3ca4882f514",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082105,
+            "localadmin_id":404482179,
+            "locality_id":85982521,
+            "neighbourhood_id":85877119,
+            "region_id":85688525,
+            "venue_id":873762105
+        }
+    ],
+    "wof:id":873762105,
+    "wof:lastmodified":1464297239,
+    "wof:name":"Finder",
+    "wof:parent_id":85877119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -102.786023,
+    46.878822,
+    -102.786023,
+    46.878822
+],
+  "geometry": {"coordinates":[-102.786023,46.878822],"type":"Point"}
+}

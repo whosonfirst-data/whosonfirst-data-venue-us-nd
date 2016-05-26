@@ -1,0 +1,75 @@
+{
+  "id": 873770915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.788437,46.777563,-100.788437,46.777563",
+    "geom:latitude":46.777563,
+    "geom:longitude":-100.788437,
+    "iso:country":"US",
+    "sg:address":"2021 Boston Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Stationery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 224 8548",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "business",
+        "form",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oKPswvp41TjcjBwVxRcrJ_46.777563_-100.788437@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297376,
+    "wof:geomhash":"40f252c80c1fcb384069e3a6f8897ee6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873770915
+        }
+    ],
+    "wof:id":873770915,
+    "wof:lastmodified":1464297376,
+    "wof:name":"Star Business Forms",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business",
+        "form",
+        "system"
+    ]
+},
+  "bbox": [
+    -100.788437,
+    46.777563,
+    -100.788437,
+    46.777563
+],
+  "geometry": {"coordinates":[-100.788437,46.777563],"type":"Point"}
+}

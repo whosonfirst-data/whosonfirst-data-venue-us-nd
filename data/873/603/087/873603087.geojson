@@ -1,0 +1,73 @@
+{
+  "id": 873603087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.736969,46.809013,-100.736969,46.809013",
+    "geom:latitude":46.809013,
+    "geom:longitude":-100.736969,
+    "iso:country":"US",
+    "sg:address":"3505 E Rosser Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 3775",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LA8sTjSnxPejO8gefaDtX_46.809013_-100.736969@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295019,
+    "wof:geomhash":"cb69495bf1b0fb14b13685edb046f9d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873603087
+        }
+    ],
+    "wof:id":873603087,
+    "wof:lastmodified":1464295019,
+    "wof:name":"City Air Mechanical Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.736969,
+    46.809013,
+    -100.736969,
+    46.809013
+],
+  "geometry": {"coordinates":[-100.736969,46.809013],"type":"Point"}
+}

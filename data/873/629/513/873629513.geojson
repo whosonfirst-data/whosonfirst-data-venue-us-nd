@@ -1,0 +1,66 @@
+{
+  "id": 873629513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.08117,47.898715,-97.08117,47.898715",
+    "geom:latitude":47.898715,
+    "geom:longitude":-97.08117,
+    "iso:country":"US",
+    "sg:address":"3774 22nd Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 2508",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08qSWCfAjZPQJhil6rpWO5_47.898715_-97.081170@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295361,
+    "wof:geomhash":"f1484396e4110707059adfd961fe8c5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873629513
+        }
+    ],
+    "wof:id":873629513,
+    "wof:lastmodified":1464295361,
+    "wof:name":"Vicki Ericson St Frm",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.08117,
+    47.898715,
+    -97.08117,
+    47.898715
+],
+  "geometry": {"coordinates":[-97.08117,47.898715],"type":"Point"}
+}

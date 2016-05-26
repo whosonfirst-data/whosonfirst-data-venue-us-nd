@@ -1,0 +1,71 @@
+{
+  "id": 873690085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.287652,48.241931,-101.287652,48.241931",
+    "geom:latitude":48.241931,
+    "geom:longitude":-101.287652,
+    "iso:country":"US",
+    "sg:address":"514 3rd St NE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 857 4021",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yR6C7TfkDDcKtI3RqjyPc_48.241931_-101.287652@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296275,
+    "wof:geomhash":"f257752131a598495a3d0c1fd1a8060e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873690085
+        }
+    ],
+    "wof:id":873690085,
+    "wof:lastmodified":1464296275,
+    "wof:name":"King Koin Launderette",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -101.287652,
+    48.241931,
+    -101.287652,
+    48.241931
+],
+  "geometry": {"coordinates":[-101.28765199999999,48.241931],"type":"Point"}
+}

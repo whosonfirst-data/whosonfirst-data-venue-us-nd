@@ -1,0 +1,71 @@
+{
+  "id": 873543773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.33528,48.239393,-101.33528,48.239393",
+    "geom:latitude":48.239393,
+    "geom:longitude":-101.33528,
+    "iso:country":"US",
+    "sg:address":"305 28th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 1684",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IlxKwhbNKvAEipm8BgffS_48.239393_-101.335280@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294304,
+    "wof:geomhash":"da2f3f9aa84bcb813e6e9422bf29f168",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873543773
+        }
+    ],
+    "wof:id":873543773,
+    "wof:lastmodified":1464294304,
+    "wof:name":"Dakota Plains Construction LLC",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -101.33528,
+    48.239393,
+    -101.33528,
+    48.239393
+],
+  "geometry": {"coordinates":[-101.33528,48.239393],"type":"Point"}
+}

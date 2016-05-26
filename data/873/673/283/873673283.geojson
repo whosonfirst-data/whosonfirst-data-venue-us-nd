@@ -1,0 +1,73 @@
+{
+  "id": 873673283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.666862,47.990947,-97.666862,47.990947",
+    "geom:latitude":47.990947,
+    "geom:longitude":-97.666862,
+    "iso:country":"US",
+    "sg:address":"3850 22nd Ave NE",
+    "sg:city":"Mccanna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 397 5866",
+    "sg:postcode":"58251",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FiGlhqXhSqhcx178jKSZg_47.990947_-97.666862@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295833,
+    "wof:geomhash":"6787ca96c87d7451b442b4bfa73ad67d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873673283
+        }
+    ],
+    "wof:id":873673283,
+    "wof:lastmodified":1464295833,
+    "wof:name":"Anderson Repair",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -97.666862,
+    47.990947,
+    -97.666862,
+    47.990947
+],
+  "geometry": {"coordinates":[-97.66686199999999,47.990947],"type":"Point"}
+}

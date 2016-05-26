@@ -1,0 +1,73 @@
+{
+  "id": 873604281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.272808,48.229102,-101.272808,48.229102",
+    "geom:latitude":48.229102,
+    "geom:longitude":-101.272808,
+    "iso:country":"US",
+    "sg:address":"1400 8th Ave SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 1346",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "distribution",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eahh0d2gEN3VBUh0joyX9_48.229102_-101.272808@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295032,
+    "wof:geomhash":"c542a5724aaccabfb53d4ce47794692f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873604281
+        }
+    ],
+    "wof:id":873604281,
+    "wof:lastmodified":1464295032,
+    "wof:name":"Food Services of America Inc",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distribution",
+        "center"
+    ]
+},
+  "bbox": [
+    -101.272808,
+    48.229102,
+    -101.272808,
+    48.229102
+],
+  "geometry": {"coordinates":[-101.272808,48.229102],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873648691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.091726,47.942811,-97.091726,47.942811",
+    "geom:latitude":47.942811,
+    "geom:longitude":-97.091726,
+    "iso:country":"US",
+    "sg:address":"2267 N 44th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 787 0675",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WtOgoj0ZS3iOMRCwYp02T_47.942811_-97.091726@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295574,
+    "wof:geomhash":"ae0e1d346da4ee0f10a682f776465529",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873648691
+        }
+    ],
+    "wof:id":873648691,
+    "wof:lastmodified":1464295574,
+    "wof:name":"Grand Forks Roofing",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.091726,
+    47.942811,
+    -97.091726,
+    47.942811
+],
+  "geometry": {"coordinates":[-97.09172599999999,47.942811],"type":"Point"}
+}

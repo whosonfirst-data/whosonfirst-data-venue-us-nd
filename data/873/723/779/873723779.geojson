@@ -1,0 +1,73 @@
+{
+  "id": 873723779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.090733,47.924973,-97.090733,47.924973",
+    "geom:latitude":47.924973,
+    "geom:longitude":-97.090733,
+    "iso:country":"US",
+    "sg:address":"675 N 43rd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 9455",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1naplNrBnIsJtWROnxRhZM_47.924973_-97.090733@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296696,
+    "wof:geomhash":"32b59247b51efdf723bc4662905e049c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873723779
+        }
+    ],
+    "wof:id":873723779,
+    "wof:lastmodified":1464296696,
+    "wof:name":"Harvest Homes",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -97.090733,
+    47.924973,
+    -97.090733,
+    47.924973
+],
+  "geometry": {"coordinates":[-97.090733,47.924973],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 873797109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.850099,46.861248,-96.850099,46.861248",
+    "geom:latitude":46.861248,
+    "geom:longitude":-96.850099,
+    "iso:country":"US",
+    "sg:address":"4100 13th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/fargo/75802-tgi-fridays/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 281 3030",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74fNmQfF6GjvvO6iDHKeqO_46.861248_-96.850099@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297739,
+    "wof:geomhash":"aed6b180098f15f7bc2286d7747b1fcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873797109
+        }
+    ],
+    "wof:id":873797109,
+    "wof:lastmodified":1464297739,
+    "wof:name":"T.G.I. Friday's",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -96.850099,
+    46.861248,
+    -96.850099,
+    46.861248
+],
+  "geometry": {"coordinates":[-96.850099,46.861248],"type":"Point"}
+}

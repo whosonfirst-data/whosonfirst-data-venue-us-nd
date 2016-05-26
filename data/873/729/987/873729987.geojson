@@ -1,0 +1,75 @@
+{
+  "id": 873729987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.81072,46.868678,-96.81072,46.868678",
+    "geom:latitude":46.868678,
+    "geom:longitude":-96.81072,
+    "iso:country":"US",
+    "sg:address":"1822 6th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 3576",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877331,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DDYGF9nRpQthPDhaFsL7M_46.868678_-96.810720@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296779,
+    "wof:geomhash":"0d492fd8459c906af17b01a65a6cd005",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877331,
+            "region_id":85688525,
+            "venue_id":873729987
+        }
+    ],
+    "wof:id":873729987,
+    "wof:lastmodified":1464296779,
+    "wof:name":"C & T Electrolysis Clinic",
+    "wof:parent_id":85877331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -96.81072,
+    46.868678,
+    -96.81072,
+    46.868678
+],
+  "geometry": {"coordinates":[-96.81072,46.868678],"type":"Point"}
+}

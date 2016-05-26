@@ -1,0 +1,76 @@
+{
+  "id": 873798977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.841029,46.81606,-96.841029,46.81606",
+    "geom:latitude":46.81606,
+    "geom:longitude":-96.841029,
+    "iso:country":"US",
+    "sg:address":"4141 38th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/fargo/78226-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 3484",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LaPSbLy1df77R65rhQ7nC_46.815544_-96.840330@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297762,
+    "wof:geomhash":"3b43d37f448a94a81b451279ecc05153",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873798977
+        }
+    ],
+    "wof:id":873798977,
+    "wof:lastmodified":1464297762,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -96.841029,
+    46.81606,
+    -96.841029,
+    46.81606
+],
+  "geometry": {"coordinates":[-96.84102900000001,46.81606],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873660061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.055216,47.931258,-97.055216,47.931258",
+    "geom:latitude":47.931258,
+    "geom:longitude":-97.055216,
+    "iso:country":"US",
+    "sg:address":"1702 12th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 2823",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15Wv9tG8UjCVJpBZWZgubK_47.931258_-97.055216@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295699,
+    "wof:geomhash":"778ac6cb81873fa289765f153b258fd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873660061
+        }
+    ],
+    "wof:id":873660061,
+    "wof:lastmodified":1464295699,
+    "wof:name":"Acme Rents",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.055216,
+    47.931258,
+    -97.055216,
+    47.931258
+],
+  "geometry": {"coordinates":[-97.055216,47.931258],"type":"Point"}
+}

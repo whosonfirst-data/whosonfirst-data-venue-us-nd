@@ -1,0 +1,71 @@
+{
+  "id": 873687165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.288951,46.831522,-100.288951,46.831522",
+    "geom:latitude":46.831522,
+    "geom:longitude":-100.288951,
+    "iso:country":"US",
+    "sg:address":"31350 27th Ave NE",
+    "sg:city":"Sterling",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 387 9465",
+    "sg:postcode":"58572",
+    "sg:province":"ND",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rtIFLU4aliYfx3UTF3y7l_46.831522_-100.288951@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296197,
+    "wof:geomhash":"74498648bb800324966f5b16e7ca9b04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873687165
+        }
+    ],
+    "wof:id":873687165,
+    "wof:lastmodified":1464296197,
+    "wof:name":"Sterling Bar",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -100.288951,
+    46.831522,
+    -100.288951,
+    46.831522
+],
+  "geometry": {"coordinates":[-100.288951,46.831522],"type":"Point"}
+}

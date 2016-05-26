@@ -1,0 +1,74 @@
+{
+  "id": 873705911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.023476,47.843803,-97.023476,47.843803",
+    "geom:latitude":47.843803,
+    "geom:longitude":-97.023476,
+    "iso:country":"US",
+    "sg:address":"1185 9th St NE",
+    "sg:city":"Thompson",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 4611",
+    "sg:postcode":"58278",
+    "sg:province":"ND",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "sg:website":"www.leightonbroadcasting.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Xg831J7R0grCSqTT9nKG7_47.843803_-97.023476@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296469,
+    "wof:geomhash":"a8b15d95d1d647b61dfce8f79aedfb8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873705911
+        }
+    ],
+    "wof:id":873705911,
+    "wof:lastmodified":1464296469,
+    "wof:name":"KYCK",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -97.023476,
+    47.843803,
+    -97.023476,
+    47.843803
+],
+  "geometry": {"coordinates":[-97.023476,47.843803],"type":"Point"}
+}

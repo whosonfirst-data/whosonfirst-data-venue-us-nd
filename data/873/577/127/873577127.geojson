@@ -1,0 +1,75 @@
+{
+  "id": 873577127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.791051,46.888557,-96.791051,46.888557",
+    "geom:latitude":46.888557,
+    "geom:longitude":-96.791051,
+    "iso:country":"US",
+    "sg:address":"1029 8th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 6029",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877359,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3I2l7XaBRQwkyGMXYgTgCT_46.888557_-96.791051@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294685,
+    "wof:geomhash":"705b1aaeed6d5a155e1f29a922eff01d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877359,
+            "region_id":85688525,
+            "venue_id":873577127
+        }
+    ],
+    "wof:id":873577127,
+    "wof:lastmodified":1464294685,
+    "wof:name":"Blue Moon Training & Cnsltng",
+    "wof:parent_id":85877359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "program"
+    ]
+},
+  "bbox": [
+    -96.791051,
+    46.888557,
+    -96.791051,
+    46.888557
+],
+  "geometry": {"coordinates":[-96.791051,46.888557],"type":"Point"}
+}

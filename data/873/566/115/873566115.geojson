@@ -1,0 +1,66 @@
+{
+  "id": 873566115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.756715,46.823105,-100.756715,46.823105",
+    "geom:latitude":46.823105,
+    "geom:longitude":-100.756715,
+    "iso:country":"US",
+    "sg:address":"2358 Rolling Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 0363",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PtP0TwmnyKvBQ1SFUivFT_46.823105_-100.756715@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294567,
+    "wof:geomhash":"c64d34878810e10a140009f06be2f876",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873566115
+        }
+    ],
+    "wof:id":873566115,
+    "wof:lastmodified":1464294567,
+    "wof:name":"Karol K Riedman",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.756715,
+    46.823105,
+    -100.756715,
+    46.823105
+],
+  "geometry": {"coordinates":[-100.756715,46.823105],"type":"Point"}
+}

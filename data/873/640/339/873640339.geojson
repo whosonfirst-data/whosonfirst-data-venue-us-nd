@@ -1,0 +1,71 @@
+{
+  "id": 873640339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.365787,47.847696,-97.365787,47.847696",
+    "geom:latitude":47.847696,
+    "geom:longitude":-97.365787,
+    "iso:country":"US",
+    "sg:address":"1215 25th St NE",
+    "sg:city":"Emerado",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 594 4793",
+    "sg:postcode":"58228",
+    "sg:province":"ND",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VnfD8wDUDBxfnHBMxRfqF_47.847696_-97.365787@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295476,
+    "wof:geomhash":"34657999a9c15e73a6a6ceb39f0275e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873640339
+        }
+    ],
+    "wof:id":873640339,
+    "wof:lastmodified":1464295476,
+    "wof:name":"Stottrup Excavating & Septic",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -97.365787,
+    47.847696,
+    -97.365787,
+    47.847696
+],
+  "geometry": {"coordinates":[-97.365787,47.847696],"type":"Point"}
+}

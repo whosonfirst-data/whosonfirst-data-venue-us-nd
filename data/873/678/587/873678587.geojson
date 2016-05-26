@@ -1,0 +1,79 @@
+{
+  "id": 873678587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.762241,46.834381,-100.762241,46.834381",
+    "geom:latitude":46.834381,
+    "geom:longitude":-100.762241,
+    "iso:country":"US",
+    "sg:address":"2525 N 19th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 3600",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "miniature",
+        "range",
+        "golf",
+        "driving",
+        "course"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yqt6vsGmPiIw3U9EEyc4d_46.834381_-100.762241@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295956,
+    "wof:geomhash":"027facb7ec0203ea5aa60690dbacf92e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873678587
+        }
+    ],
+    "wof:id":873678587,
+    "wof:lastmodified":1464295956,
+    "wof:name":"Pebble Creek",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "miniature",
+        "range",
+        "golf",
+        "driving",
+        "course"
+    ]
+},
+  "bbox": [
+    -100.762241,
+    46.834381,
+    -100.762241,
+    46.834381
+],
+  "geometry": {"coordinates":[-100.762241,46.834381],"type":"Point"}
+}

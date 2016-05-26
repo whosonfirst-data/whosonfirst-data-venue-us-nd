@@ -1,0 +1,72 @@
+{
+  "id": 873772707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.733702,48.31621,-101.733702,48.31621",
+    "geom:latitude":48.31621,
+    "geom:longitude":-101.733702,
+    "iso:country":"US",
+    "sg:address":"321 Tyler St NE",
+    "sg:city":"Berthold",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 453 3655",
+    "sg:postcode":"58718",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.abc-dakotas.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24kMRJfa09Cqa5Em1zeFam_48.316210_-101.733702@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297398,
+    "wof:geomhash":"bd28fea5636ffd331b4c7356e8b014b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873772707
+        }
+    ],
+    "wof:id":873772707,
+    "wof:lastmodified":1464297398,
+    "wof:name":"Berthold Baptist Church",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -101.733702,
+    48.31621,
+    -101.733702,
+    48.31621
+],
+  "geometry": {"coordinates":[-101.73370199999999,48.31621],"type":"Point"}
+}

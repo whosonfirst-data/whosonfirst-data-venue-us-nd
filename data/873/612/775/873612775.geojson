@@ -1,0 +1,80 @@
+{
+  "id": 873612775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.763881,46.82458,-100.763881,46.82458",
+    "geom:latitude":46.82458,
+    "geom:longitude":-100.763881,
+    "iso:country":"US",
+    "sg:address":"1808 Kennedy Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 6119",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "retaining",
+        "wall",
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68YU6lcJ1ckNaatHHh7SGj_46.824580_-100.763881@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295174,
+    "wof:geomhash":"06c2ec1a0bc752f1469988c5f1d1cdcc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873612775
+        }
+    ],
+    "wof:id":873612775,
+    "wof:lastmodified":1464295174,
+    "wof:name":"Harter's Landscaping",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "retaining",
+        "wall",
+        "landscape"
+    ]
+},
+  "bbox": [
+    -100.763881,
+    46.82458,
+    -100.763881,
+    46.82458
+],
+  "geometry": {"coordinates":[-100.763881,46.82458],"type":"Point"}
+}

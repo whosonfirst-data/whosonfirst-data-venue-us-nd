@@ -1,0 +1,78 @@
+{
+  "id": 873796701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.899033,46.876508,-96.899033,46.876508",
+    "geom:latitude":46.876508,
+    "geom:longitude":-96.899033,
+    "iso:country":"US",
+    "sg:address":"109 Main Ave E",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/west-fargo/129646-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 281 3920",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7S7Zrx3hO3tXkHWQHCjPit_46.876508_-96.899033@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297734,
+    "wof:geomhash":"20f0934ff5320f0f9f49f2ca9c06a743",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873796701
+        }
+    ],
+    "wof:id":873796701,
+    "wof:lastmodified":1464297734,
+    "wof:name":"Subway",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -96.899033,
+    46.876508,
+    -96.899033,
+    46.876508
+],
+  "geometry": {"coordinates":[-96.899033,46.876508],"type":"Point"}
+}

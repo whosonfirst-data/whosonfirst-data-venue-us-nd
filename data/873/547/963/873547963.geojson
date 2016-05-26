@@ -1,0 +1,75 @@
+{
+  "id": 873547963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.050632,47.919022,-97.050632,47.919022",
+    "geom:latitude":47.919022,
+    "geom:longitude":-97.050632,
+    "iso:country":"US",
+    "sg:address":"1623 Dyke Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 9428",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "propane",
+        "diesel",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cdBhfp9BanNHy2ZY8zcju_47.919022_-97.050632@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294356,
+    "wof:geomhash":"e0ffd287a576496ee39ac388d2c11da6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873547963
+        }
+    ],
+    "wof:id":873547963,
+    "wof:lastmodified":1464294356,
+    "wof:name":"Ferrellgas L P",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "propane",
+        "diesel",
+        "gas"
+    ]
+},
+  "bbox": [
+    -97.050632,
+    47.919022,
+    -97.050632,
+    47.919022
+],
+  "geometry": {"coordinates":[-97.05063199999999,47.919022],"type":"Point"}
+}

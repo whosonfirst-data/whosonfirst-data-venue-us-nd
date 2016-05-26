@@ -1,0 +1,77 @@
+{
+  "id": 873556257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.82929,46.934172,-96.82929,46.934172",
+    "geom:latitude":46.934172,
+    "geom:longitude":-96.82929,
+    "iso:country":"US",
+    "sg:address":"4101 32nd St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 237 4860",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "product",
+        "asphalt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877363,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kMQjUtFs1k3FTknA3LaiH_46.934172_-96.829290@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294451,
+    "wof:geomhash":"c8c464f3c944d9f8e4da102804bb8279",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877363,
+            "region_id":85688525,
+            "venue_id":873556257
+        }
+    ],
+    "wof:id":873556257,
+    "wof:lastmodified":1464294451,
+    "wof:name":"Border States Paving Inc",
+    "wof:parent_id":85877363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "asphalt"
+    ]
+},
+  "bbox": [
+    -96.82929,
+    46.934172,
+    -96.82929,
+    46.934172
+],
+  "geometry": {"coordinates":[-96.82929,46.934172],"type":"Point"}
+}

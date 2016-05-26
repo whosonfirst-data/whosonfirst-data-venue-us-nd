@@ -1,0 +1,78 @@
+{
+  "id": 873802811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.819616,46.858708,-96.819616,46.858708",
+    "geom:latitude":46.858708,
+    "geom:longitude":-96.819616,
+    "iso:country":"US",
+    "sg:address":"1450 25th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 212 4324",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "temporary",
+        "contractor"
+    ],
+    "sg:website":"http://www.spherion.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877331,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qBixTYe6K534OMP4kMjDC_46.858708_-96.819616@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297807,
+    "wof:geomhash":"d0861aa700c86dc15f1de336b8d13f48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877331,
+            "region_id":85688525,
+            "venue_id":873802811
+        }
+    ],
+    "wof:id":873802811,
+    "wof:lastmodified":1464297807,
+    "wof:name":"Spherion",
+    "wof:parent_id":85877331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "temporary",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.819616,
+    46.858708,
+    -96.819616,
+    46.858708
+],
+  "geometry": {"coordinates":[-96.819616,46.858708],"type":"Point"}
+}

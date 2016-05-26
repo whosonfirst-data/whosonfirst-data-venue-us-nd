@@ -1,0 +1,73 @@
+{
+  "id": 873748829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.03926,47.879376,-97.03926,47.879376",
+    "geom:latitude":47.879376,
+    "geom:longitude":-97.03926,
+    "iso:country":"US",
+    "sg:address":"713 Great Plains Ct",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 6187",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60q918y8SRAtQUoFo6OFul_47.879376_-97.039260@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297060,
+    "wof:geomhash":"4732a93dd25779126b644f50c6c6bba3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873748829
+        }
+    ],
+    "wof:id":873748829,
+    "wof:lastmodified":1464297060,
+    "wof:name":"Wasylow Trucking LLC",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -97.03926,
+    47.879376,
+    -97.03926,
+    47.879376
+],
+  "geometry": {"coordinates":[-97.03926,47.879376],"type":"Point"}
+}

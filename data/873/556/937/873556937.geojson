@@ -1,0 +1,73 @@
+{
+  "id": 873556937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.096561,47.924843,-97.096561,47.924843",
+    "geom:latitude":47.924843,
+    "geom:longitude":-97.096561,
+    "iso:country":"US",
+    "sg:address":"520 N 47th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 2519",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "national",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0INCmlBj0cABNKJ274h4uc_47.924843_-97.096561@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294460,
+    "wof:geomhash":"5b28f2af8c841da3e8b88e193a8ecf39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873556937
+        }
+    ],
+    "wof:id":873556937,
+    "wof:lastmodified":1464294460,
+    "wof:name":"Usar Center",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "security"
+    ]
+},
+  "bbox": [
+    -97.096561,
+    47.924843,
+    -97.096561,
+    47.924843
+],
+  "geometry": {"coordinates":[-97.09656099999999,47.924843],"type":"Point"}
+}

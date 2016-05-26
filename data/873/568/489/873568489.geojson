@@ -1,0 +1,71 @@
+{
+  "id": 873568489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.758699,46.829305,-100.758699,46.829305",
+    "geom:latitude":46.829305,
+    "geom:longitude":-100.758699,
+    "iso:country":"US",
+    "sg:address":"1937 Jackson Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 2897",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eY9Z25bv18jQgxVzbBcFy_46.829305_-100.758699@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294591,
+    "wof:geomhash":"888db8ac1f34093b777d732935b67172",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873568489
+        }
+    ],
+    "wof:id":873568489,
+    "wof:lastmodified":1464294591,
+    "wof:name":"A W Snowblower Choppers and AC",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.758699,
+    46.829305,
+    -100.758699,
+    46.829305
+],
+  "geometry": {"coordinates":[-100.75869899999999,46.829305],"type":"Point"}
+}

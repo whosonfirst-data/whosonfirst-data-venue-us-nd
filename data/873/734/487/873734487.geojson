@@ -1,0 +1,66 @@
+{
+  "id": 873734487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.428125,48.274981,-101.428125,48.274981",
+    "geom:latitude":48.274981,
+    "geom:longitude":-101.428125,
+    "iso:country":"US",
+    "sg:address":"145 Johnson St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 5661",
+    "sg:postcode":"58722",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7l6rJFnb1gVDUnuSIvRe7w_48.274981_-101.428125@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296839,
+    "wof:geomhash":"902882a1074a236ff571f0a81e10499d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873734487
+        }
+    ],
+    "wof:id":873734487,
+    "wof:lastmodified":1464296839,
+    "wof:name":"J's Stop & Go",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.428125,
+    48.274981,
+    -101.428125,
+    48.274981
+],
+  "geometry": {"coordinates":[-101.42812499999999,48.274981],"type":"Point"}
+}

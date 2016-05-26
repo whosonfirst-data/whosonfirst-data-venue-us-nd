@@ -1,0 +1,75 @@
+{
+  "id": 873564217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.107228,47.77969,-97.107228,47.77969",
+    "geom:latitude":47.77969,
+    "geom:longitude":-97.107228,
+    "iso:country":"US",
+    "sg:address":"608 Morrison Ave",
+    "sg:city":"Thompson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 599 2302",
+    "sg:postcode":"58278",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automobile",
+        "restoration",
+        "classic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5X2IfJdhSwQ9m53cUw8hNo_47.779690_-97.107228@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294546,
+    "wof:geomhash":"28e1674bd5dfb40c93659aa1437ca76f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873564217
+        }
+    ],
+    "wof:id":873564217,
+    "wof:lastmodified":1464294546,
+    "wof:name":"Intimidator Pro-Polish",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "restoration",
+        "classic"
+    ]
+},
+  "bbox": [
+    -97.107228,
+    47.77969,
+    -97.107228,
+    47.77969
+],
+  "geometry": {"coordinates":[-97.10722800000001,47.77969],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873603997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.321142,48.240083,-101.321142,48.240083",
+    "geom:latitude":48.240083,
+    "geom:longitude":-101.321142,
+    "iso:country":"US",
+    "sg:address":"1800 4th Ave NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 837 9773",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "video"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HdpKY4BcqgfxYBZZb397G_48.240083_-101.321142@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295029,
+    "wof:geomhash":"1e6396e8de7aafcb8a99d42db6cf7df4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873603997
+        }
+    ],
+    "wof:id":873603997,
+    "wof:lastmodified":1464295029,
+    "wof:name":"ATO Svc",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "video"
+    ]
+},
+  "bbox": [
+    -101.321142,
+    48.240083,
+    -101.321142,
+    48.240083
+],
+  "geometry": {"coordinates":[-101.32114199999999,48.240083],"type":"Point"}
+}

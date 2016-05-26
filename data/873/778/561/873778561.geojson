@@ -1,0 +1,66 @@
+{
+  "id": 873778561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.768643,46.761398,-100.768643,46.761398",
+    "geom:latitude":46.761398,
+    "geom:longitude":-100.768643,
+    "iso:country":"US",
+    "sg:address":"3803 E Regent Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 3456",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EdpJS3RqHrF26gTNIIgaW_46.761398_-100.768643@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297470,
+    "wof:geomhash":"e9426f7394d1dd291380299c7371df5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873778561
+        }
+    ],
+    "wof:id":873778561,
+    "wof:lastmodified":1464297470,
+    "wof:name":"Anthony J Danzl Danzl Sig",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.768643,
+    46.761398,
+    -100.768643,
+    46.761398
+],
+  "geometry": {"coordinates":[-100.768643,46.761398],"type":"Point"}
+}

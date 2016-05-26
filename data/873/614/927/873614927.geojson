@@ -1,0 +1,76 @@
+{
+  "id": 873614927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.060949,47.938508,-97.060949,47.938508",
+    "geom:latitude":47.938508,
+    "geom:longitude":-97.060949,
+    "iso:country":"US",
+    "sg:address":"2215 N Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 8154",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "sg:website":"www.mmeinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37pBNRLFOl0hg5Ry1M2Nf0_47.938508_-97.060949@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295194,
+    "wof:geomhash":"acd839be5f3eeafeb11b6e18bc818cd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873614927
+        }
+    ],
+    "wof:id":873614927,
+    "wof:lastmodified":1464295194,
+    "wof:name":"Midwest Motor Express Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -97.060949,
+    47.938508,
+    -97.060949,
+    47.938508
+],
+  "geometry": {"coordinates":[-97.06094899999999,47.938508],"type":"Point"}
+}

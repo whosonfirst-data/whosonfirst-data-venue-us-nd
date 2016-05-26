@@ -1,0 +1,72 @@
+{
+  "id": 873536565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.219303,48.229151,-101.219303,48.229151",
+    "geom:latitude":48.229151,
+    "geom:longitude":-101.219303,
+    "iso:country":"US",
+    "sg:address":"5315 US Hwy 2 Bus",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 3384",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "cabinet"
+    ],
+    "sg:website":"www.scherrs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AdKwey28Qs0rv70B6Iyfl_48.229151_-101.219303@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294220,
+    "wof:geomhash":"95d0bed175dd0da5a8ee7124f7d83ea1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873536565
+        }
+    ],
+    "wof:id":873536565,
+    "wof:lastmodified":1464294220,
+    "wof:name":"Scherr's Cabinets & Doors",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cabinet"
+    ]
+},
+  "bbox": [
+    -101.219303,
+    48.229151,
+    -101.219303,
+    48.229151
+],
+  "geometry": {"coordinates":[-101.219303,48.229151],"type":"Point"}
+}

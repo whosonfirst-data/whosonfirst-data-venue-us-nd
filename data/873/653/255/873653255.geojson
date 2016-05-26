@@ -1,0 +1,71 @@
+{
+  "id": 873653255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.073602,47.933101,-97.073602,47.933101",
+    "geom:latitude":47.933101,
+    "geom:longitude":-97.073602,
+    "iso:country":"US",
+    "sg:address":"3300 Gateway Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 9489",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cOISR5TjWH4LfZi00ieCz_47.933101_-97.073602@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295627,
+    "wof:geomhash":"1ef5c3883a784ef95f5678a850a03d1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873653255
+        }
+    ],
+    "wof:id":873653255,
+    "wof:lastmodified":1464295627,
+    "wof:name":"Transport Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -97.073602,
+    47.933101,
+    -97.073602,
+    47.933101
+],
+  "geometry": {"coordinates":[-97.07360199999999,47.933101],"type":"Point"}
+}

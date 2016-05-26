@@ -1,0 +1,71 @@
+{
+  "id": 873753395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.74252,48.313708,-101.74252,48.313708",
+    "geom:latitude":48.313708,
+    "geom:longitude":-101.74252,
+    "iso:country":"US",
+    "sg:address":"13 Blaisdell St",
+    "sg:city":"Blaisdell",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 453 9695",
+    "sg:postcode":"58718",
+    "sg:province":"ND",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jBtsffjeXKZxNoRlJblPF_48.313708_-101.742520@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297125,
+    "wof:geomhash":"a3be8af6aa2561c1a8f706602c6f7f9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873753395
+        }
+    ],
+    "wof:id":873753395,
+    "wof:lastmodified":1464297125,
+    "wof:name":"Sneak Creek Saloon",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -101.74252,
+    48.313708,
+    -101.74252,
+    48.313708
+],
+  "geometry": {"coordinates":[-101.74252,48.313708],"type":"Point"}
+}

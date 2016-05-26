@@ -1,0 +1,74 @@
+{
+  "id": 873767117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.034877,47.922096,-97.034877,47.922096",
+    "geom:latitude":47.922096,
+    "geom:longitude":-97.034877,
+    "iso:country":"US",
+    "sg:address":"621 Demers Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 218 773 5800",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.meritcare.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bVTDxcq6SYKgU4GtttD6P_47.922096_-97.034877@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297327,
+    "wof:geomhash":"c2dce2dff118713261e8d057638b5665",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873767117
+        }
+    ],
+    "wof:id":873767117,
+    "wof:lastmodified":1464297327,
+    "wof:name":"Meritcare",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -97.034877,
+    47.922096,
+    -97.034877,
+    47.922096
+],
+  "geometry": {"coordinates":[-97.03487699999999,47.922096],"type":"Point"}
+}

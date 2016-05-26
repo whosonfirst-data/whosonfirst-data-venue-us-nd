@@ -1,0 +1,70 @@
+{
+  "id": 873542469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.811436,46.865861,-96.811436,46.865861",
+    "geom:latitude":46.865861,
+    "geom:longitude":-96.811436,
+    "iso:country":"US",
+    "sg:address":"809 19th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 2131",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877331,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3diXINe8msIGDWCWLAs8gA_46.865861_-96.811436@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294286,
+    "wof:geomhash":"1b5d49d19a166407a213a8cab9f0901b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877331,
+            "region_id":85688525,
+            "venue_id":873542469
+        }
+    ],
+    "wof:id":873542469,
+    "wof:lastmodified":1464294286,
+    "wof:name":"Jokstad Tax Service",
+    "wof:parent_id":85877331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.811436,
+    46.865861,
+    -96.811436,
+    46.865861
+],
+  "geometry": {"coordinates":[-96.811436,46.865861],"type":"Point"}
+}

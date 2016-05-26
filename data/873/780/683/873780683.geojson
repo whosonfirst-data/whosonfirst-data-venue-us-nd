@@ -1,0 +1,71 @@
+{
+  "id": 873780683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.762564,46.731239,-100.762564,46.731239",
+    "geom:latitude":46.731239,
+    "geom:longitude":-100.762564,
+    "iso:country":"US",
+    "sg:address":"6758 Apple Creek Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 3223",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OmWSq8tWfe6m5CYKlmIOI_46.731239_-100.762564@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297501,
+    "wof:geomhash":"051b4988afeb35856544b551e5ab8d64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873780683
+        }
+    ],
+    "wof:id":873780683,
+    "wof:lastmodified":1464297501,
+    "wof:name":"Aid Association For Lutherans",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -100.762564,
+    46.731239,
+    -100.762564,
+    46.731239
+],
+  "geometry": {"coordinates":[-100.762564,46.731239],"type":"Point"}
+}

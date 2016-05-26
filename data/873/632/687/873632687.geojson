@@ -1,0 +1,71 @@
+{
+  "id": 873632687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.762814,46.792153,-100.762814,46.792153",
+    "geom:latitude":46.792153,
+    "geom:longitude":-100.762814,
+    "iso:country":"US",
+    "sg:address":"1107 Airport Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 663 1069",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XTvIxKtbz1azbb5XPk7Ds_46.792153_-100.762814@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295395,
+    "wof:geomhash":"af5f960a1c832a720c23ec02c081e027",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873632687
+        }
+    ],
+    "wof:id":873632687,
+    "wof:lastmodified":1464295395,
+    "wof:name":"Doll's Kustom Fx Airbrushing",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -100.762814,
+    46.792153,
+    -100.762814,
+    46.792153
+],
+  "geometry": {"coordinates":[-100.76281400000001,46.792153],"type":"Point"}
+}

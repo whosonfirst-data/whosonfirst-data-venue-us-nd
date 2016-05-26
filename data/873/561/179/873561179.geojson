@@ -1,0 +1,75 @@
+{
+  "id": 873561179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.832602,46.81931,-96.832602,46.81931",
+    "geom:latitude":46.81931,
+    "geom:longitude":-96.832602,
+    "iso:country":"US",
+    "sg:address":"3901 33rd St SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 5666",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877333,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dozqT0ov2r8CVaufi4MDL_46.819310_-96.832602@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294511,
+    "wof:geomhash":"110b082e81002f4665bc47aa4835e60f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877333,
+            "region_id":85688525,
+            "venue_id":873561179
+        }
+    ],
+    "wof:id":873561179,
+    "wof:lastmodified":1464294511,
+    "wof:name":"Thalman Photography",
+    "wof:parent_id":85877333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -96.832602,
+    46.81931,
+    -96.832602,
+    46.81931
+],
+  "geometry": {"coordinates":[-96.83260199999999,46.81931],"type":"Point"}
+}

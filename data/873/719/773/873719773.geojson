@@ -1,0 +1,70 @@
+{
+  "id": 873719773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.83381,46.842938,-96.83381,46.842938",
+    "geom:latitude":46.842938,
+    "geom:longitude":-96.83381,
+    "iso:country":"US",
+    "sg:address":"3437 26th Ave SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 7628",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534467,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4V3TDfVNcvbQ1anUKRdjtm_46.842938_-96.833810@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296649,
+    "wof:geomhash":"bd716088ed51a9a398a31f98e9341488",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534467,
+            "region_id":85688525,
+            "venue_id":873719773
+        }
+    ],
+    "wof:id":873719773,
+    "wof:lastmodified":1464296649,
+    "wof:name":"Dealer Resources Inc",
+    "wof:parent_id":420534467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.83381,
+    46.842938,
+    -96.83381,
+    46.842938
+],
+  "geometry": {"coordinates":[-96.83381,46.842938],"type":"Point"}
+}

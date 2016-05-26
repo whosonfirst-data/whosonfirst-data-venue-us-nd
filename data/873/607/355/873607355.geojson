@@ -1,0 +1,73 @@
+{
+  "id": 873607355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.778693,46.795202,-100.778693,46.795202",
+    "geom:latitude":46.795202,
+    "geom:longitude":-100.778693,
+    "iso:country":"US",
+    "sg:address":"911 S 9th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 3393",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KNbnYtifBmOs9iXDQucT7_46.795202_-100.778693@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295084,
+    "wof:geomhash":"e3e818ae014585fe66902bc73e526bf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873607355
+        }
+    ],
+    "wof:id":873607355,
+    "wof:lastmodified":1464295084,
+    "wof:name":"H A Thompson & Sons Inc",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.778693,
+    46.795202,
+    -100.778693,
+    46.795202
+],
+  "geometry": {"coordinates":[-100.778693,46.795202],"type":"Point"}
+}

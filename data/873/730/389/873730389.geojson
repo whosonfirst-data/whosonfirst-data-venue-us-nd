@@ -1,0 +1,73 @@
+{
+  "id": 873730389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.516439,47.866564,-97.516439,47.866564",
+    "geom:latitude":47.866564,
+    "geom:longitude":-97.516439,
+    "iso:country":"US",
+    "sg:address":"1392 32nd St NE",
+    "sg:city":"Arvilla",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 343 2830",
+    "sg:postcode":"58214",
+    "sg:province":"ND",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Dt8Z7k6PWZv8S7Y90rZ9L_47.866564_-97.516439@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296784,
+    "wof:geomhash":"fc9ced7b6f3e2d4ffcff0e11cf0a6ab6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873730389
+        }
+    ],
+    "wof:id":873730389,
+    "wof:lastmodified":1464296784,
+    "wof:name":"Francis Beard",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -97.516439,
+    47.866564,
+    -97.516439,
+    47.866564
+],
+  "geometry": {"coordinates":[-97.51643900000001,47.866564],"type":"Point"}
+}

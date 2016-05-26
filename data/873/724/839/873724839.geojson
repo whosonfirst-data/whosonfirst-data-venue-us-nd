@@ -1,0 +1,75 @@
+{
+  "id": 873724839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.693346,46.88586,-100.693346,46.88586",
+    "geom:latitude":46.88586,
+    "geom:longitude":-100.693346,
+    "iso:country":"US",
+    "sg:address":"6162 Comet Ln",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 2871",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WQlZsBBun6AwduC0UyoYc_46.885860_-100.693346@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296710,
+    "wof:geomhash":"2b91d5fa018effef90fca16fa447835b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873724839
+        }
+    ],
+    "wof:id":873724839,
+    "wof:lastmodified":1464296710,
+    "wof:name":"Blaine Lutz Piano Svc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -100.693346,
+    46.88586,
+    -100.693346,
+    46.88586
+],
+  "geometry": {"coordinates":[-100.69334600000001,46.88586],"type":"Point"}
+}

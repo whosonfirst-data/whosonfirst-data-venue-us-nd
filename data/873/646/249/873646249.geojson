@@ -1,0 +1,82 @@
+{
+  "id": 873646249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.292953,48.233465,-101.292953,48.233465",
+    "geom:latitude":48.233465,
+    "geom:longitude":-101.292953,
+    "iso:country":"US",
+    "sg:address":"401 Main St S",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 5876",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "clinic",
+        "mental",
+        "outpatient",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zVShMkPO1KYAgv9ELHj2Y_48.233465_-101.292953@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295549,
+    "wof:geomhash":"80938458d05cb8390bdc36e600752e89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873646249
+        }
+    ],
+    "wof:id":873646249,
+    "wof:lastmodified":1464295549,
+    "wof:name":"Burckhard Clinic",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "mental",
+        "outpatient",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -101.292953,
+    48.233465,
+    -101.292953,
+    48.233465
+],
+  "geometry": {"coordinates":[-101.292953,48.233465],"type":"Point"}
+}

@@ -1,0 +1,101 @@
+{
+  "id": 873802001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.795411,46.861622,-96.795411,46.861622",
+    "geom:latitude":46.861622,
+    "geom:longitude":-96.795411,
+    "iso:country":"US",
+    "sg:address":"1009 13th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Home Furnishings",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 237 6070",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "draperies",
+        "designer",
+        "window",
+        "treatment",
+        "curtain",
+        "interior",
+        "shades-wholesale",
+        "decorator",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534479,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Jdnj9ySfvIWGrdqpM09s3_46.861622_-96.795411@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297797,
+    "wof:geomhash":"d9aed89b36338c12d78ab7eb33e054a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534479,
+            "region_id":85688525,
+            "venue_id":873802001
+        }
+    ],
+    "wof:id":873802001,
+    "wof:lastmodified":1464297797,
+    "wof:name":"Matchmaker's",
+    "wof:parent_id":420534479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "draperies",
+        "designer",
+        "window",
+        "treatment",
+        "curtain",
+        "interior",
+        "shades-wholesale",
+        "decorator",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -96.795411,
+    46.861622,
+    -96.795411,
+    46.861622
+],
+  "geometry": {"coordinates":[-96.795411,46.861622],"type":"Point"}
+}

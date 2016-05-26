@@ -1,0 +1,66 @@
+{
+  "id": 873621571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.032661,47.879223,-97.032661,47.879223",
+    "geom:latitude":47.879223,
+    "geom:longitude":-97.032661,
+    "iso:country":"US",
+    "sg:address":"4116 Cottonwood St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 4927",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DUhRYRe31aQlFXI0rvHVm_47.879223_-97.032661@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295266,
+    "wof:geomhash":"a7b7350bb90ecea1615a14bc861e8cd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873621571
+        }
+    ],
+    "wof:id":873621571,
+    "wof:lastmodified":1464295266,
+    "wof:name":"R&D Lawn Service",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.032661,
+    47.879223,
+    -97.032661,
+    47.879223
+],
+  "geometry": {"coordinates":[-97.032661,47.879223],"type":"Point"}
+}

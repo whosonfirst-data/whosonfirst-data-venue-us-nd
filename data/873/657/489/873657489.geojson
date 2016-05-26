@@ -1,0 +1,66 @@
+{
+  "id": 873657489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.03618,47.878061,-97.03618,47.878061",
+    "geom:latitude":47.878061,
+    "geom:longitude":-97.03618,
+    "iso:country":"US",
+    "sg:address":"772 Great Plains Ct",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 6846",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30vCYD5bot1CoKfHa3Ybbs_47.878061_-97.036180@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295673,
+    "wof:geomhash":"3ee70652ea23eb17334d36d74e36c152",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873657489
+        }
+    ],
+    "wof:id":873657489,
+    "wof:lastmodified":1464295673,
+    "wof:name":"Comm Testing Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.03618,
+    47.878061,
+    -97.03618,
+    47.878061
+],
+  "geometry": {"coordinates":[-97.03618,47.878061],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 873565629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.821785,46.85476,-96.821785,46.85476",
+    "geom:latitude":46.85476,
+    "geom:longitude":-96.821785,
+    "iso:country":"US",
+    "sg:address":"2602 Cobblestone Ct",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 238 0377",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dHDKWMhks3gBduaKev1g2_46.854760_-96.821785@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294562,
+    "wof:geomhash":"955e627fcddfd30f41439de6b2fdc50d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873565629
+        }
+    ],
+    "wof:id":873565629,
+    "wof:lastmodified":1464294562,
+    "wof:name":"Herby's Auto",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -96.821785,
+    46.85476,
+    -96.821785,
+    46.85476
+],
+  "geometry": {"coordinates":[-96.82178500000001,46.85476],"type":"Point"}
+}

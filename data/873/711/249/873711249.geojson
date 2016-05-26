@@ -1,0 +1,73 @@
+{
+  "id": 873711249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.32008,48.424896,-101.32008,48.424896",
+    "geom:latitude":48.424896,
+    "geom:longitude":-101.32008,
+    "iso:country":"US",
+    "sg:address":"124 Roaming Rd",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Jewelry",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 727 0150",
+    "sg:postcode":"58704",
+    "sg:province":"ND",
+    "sg:tags":[
+        "costume",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mO9FajHymajEsJnvZlEBs_48.424896_-101.320080@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296536,
+    "wof:geomhash":"8527ac26a5ff26e85c02c7da0c297fa4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873711249
+        }
+    ],
+    "wof:id":873711249,
+    "wof:lastmodified":1464296536,
+    "wof:name":"Unbeadable Braids",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "costume",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -101.32008,
+    48.424896,
+    -101.32008,
+    48.424896
+],
+  "geometry": {"coordinates":[-101.32008,48.424896],"type":"Point"}
+}

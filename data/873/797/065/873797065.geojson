@@ -1,0 +1,80 @@
+{
+  "id": 873797065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.836142,46.861496,-96.836142,46.861496",
+    "geom:latitude":46.861496,
+    "geom:longitude":-96.836142,
+    "iso:country":"US",
+    "sg:address":"1303 34th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/fargo/11111-acapulco/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 297 0355",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "american",
+        "mexican",
+        "tex-mex"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Xf5YGbyes3ZN4IDFRGCdd_46.861496_-96.836142@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297739,
+    "wof:geomhash":"45f7088ef617e4cb6c9a2a1f3aaa44fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873797065
+        }
+    ],
+    "wof:id":873797065,
+    "wof:lastmodified":1464297739,
+    "wof:name":"Acapulco",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican",
+        "tex-mex"
+    ]
+},
+  "bbox": [
+    -96.836142,
+    46.861496,
+    -96.836142,
+    46.861496
+],
+  "geometry": {"coordinates":[-96.836142,46.861496],"type":"Point"}
+}

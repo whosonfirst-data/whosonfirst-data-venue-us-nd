@@ -1,0 +1,77 @@
+{
+  "id": 873754687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-102.785473,46.880121,-102.785473,46.880121",
+    "geom:latitude":46.880121,
+    "geom:longitude":-102.785473,
+    "iso:country":"US",
+    "sg:address":"135 Sims St",
+    "sg:city":"Dickinson",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 483 4777",
+    "sg:postcode":"58601",
+    "sg:province":"ND",
+    "sg:tags":[
+        "field",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877119,
+        102191575,
+        404482179,
+        85633793,
+        85982521,
+        102082105,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zDXPT2ldLzx2n4MRmXYT7_46.880121_-102.785473@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297141,
+    "wof:geomhash":"c4f9fdb937bf6b5f8098344a075c118b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082105,
+            "localadmin_id":404482179,
+            "locality_id":85982521,
+            "neighbourhood_id":85877119,
+            "region_id":85688525,
+            "venue_id":873754687
+        }
+    ],
+    "wof:id":873754687,
+    "wof:lastmodified":1464297141,
+    "wof:name":"Baker Petrolite",
+    "wof:parent_id":85877119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "oil"
+    ]
+},
+  "bbox": [
+    -102.785473,
+    46.880121,
+    -102.785473,
+    46.880121
+],
+  "geometry": {"coordinates":[-102.785473,46.880121],"type":"Point"}
+}

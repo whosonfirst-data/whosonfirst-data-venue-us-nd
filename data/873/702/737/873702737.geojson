@@ -1,0 +1,66 @@
+{
+  "id": 873702737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.301216,48.21067,-101.301216,48.21067",
+    "geom:latitude":48.21067,
+    "geom:longitude":-101.301216,
+    "iso:country":"US",
+    "sg:address":"415 20th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 1093",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zmWnhJX1ks33OPmJyqwHI_48.210670_-101.301216@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296433,
+    "wof:geomhash":"f6ef9bf28a1e97e2d731d040bb2114fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873702737
+        }
+    ],
+    "wof:id":873702737,
+    "wof:lastmodified":1464296433,
+    "wof:name":"Humphreys Insurance & Surety",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.301216,
+    48.21067,
+    -101.301216,
+    48.21067
+],
+  "geometry": {"coordinates":[-101.301216,48.21067],"type":"Point"}
+}

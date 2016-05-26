@@ -1,0 +1,77 @@
+{
+  "id": 873781419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.292964,48.236377,-101.292964,48.236377",
+    "geom:latitude":48.236377,
+    "geom:longitude":-101.292964,
+    "iso:country":"US",
+    "sg:address":"11 Main St S",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 0912",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "handicapped",
+        "organization",
+        "for",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Cgoe3bzTaKyHZmCtR1xl1_48.236377_-101.292964@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297509,
+    "wof:geomhash":"33b03b729fec341aacc75fd93b6104a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873781419
+        }
+    ],
+    "wof:id":873781419,
+    "wof:lastmodified":1464297509,
+    "wof:name":"Second Story",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "handicapped",
+        "organization",
+        "for",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -101.292964,
+    48.236377,
+    -101.292964,
+    48.236377
+],
+  "geometry": {"coordinates":[-101.292964,48.236377],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873763647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.05592,47.893159,-97.05592,47.893159",
+    "geom:latitude":47.893159,
+    "geom:longitude":-97.05592,
+    "iso:country":"US",
+    "sg:address":"1998 27th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 0894",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "ornamental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SLIcY7glaQdaisiLY70Gw_47.893159_-97.055920@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297268,
+    "wof:geomhash":"22c742208e879bde178169a9563d36a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873763647
+        }
+    ],
+    "wof:id":873763647,
+    "wof:lastmodified":1464297268,
+    "wof:name":"Ricards Sod Farms",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ornamental"
+    ]
+},
+  "bbox": [
+    -97.05592,
+    47.893159,
+    -97.05592,
+    47.893159
+],
+  "geometry": {"coordinates":[-97.05592,47.893159],"type":"Point"}
+}

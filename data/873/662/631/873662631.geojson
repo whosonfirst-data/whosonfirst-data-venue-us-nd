@@ -1,0 +1,71 @@
+{
+  "id": 873662631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.309945,48.223074,-101.309945,48.223074",
+    "geom:latitude":48.223074,
+    "geom:longitude":-101.309945,
+    "iso:country":"US",
+    "sg:address":"1320 12th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 7424",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6s0OwCH6IcOtnwMomdLC2k_48.223074_-101.309945@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295726,
+    "wof:geomhash":"68d6a2e9831349c2a912506b75e04daf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873662631
+        }
+    ],
+    "wof:id":873662631,
+    "wof:lastmodified":1464295726,
+    "wof:name":"Elite Enterprises",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -101.309945,
+    48.223074,
+    -101.309945,
+    48.223074
+],
+  "geometry": {"coordinates":[-101.309945,48.223074],"type":"Point"}
+}

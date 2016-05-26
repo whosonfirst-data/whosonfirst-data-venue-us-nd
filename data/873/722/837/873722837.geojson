@@ -1,0 +1,70 @@
+{
+  "id": 873722837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.811872,46.848919,-96.811872,46.848919",
+    "geom:latitude":46.848919,
+    "geom:longitude":-96.811872,
+    "iso:country":"US",
+    "sg:address":"1825 19th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 8511",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534475,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kfC2jBIzG5v3PnU5kA54i_46.848919_-96.811872@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296685,
+    "wof:geomhash":"d7ed7b75e618ffd6c7c20858c204bfdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534475,
+            "region_id":85688525,
+            "venue_id":873722837
+        }
+    ],
+    "wof:id":873722837,
+    "wof:lastmodified":1464296685,
+    "wof:name":"River City Electric Inc",
+    "wof:parent_id":420534475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.811872,
+    46.848919,
+    -96.811872,
+    46.848919
+],
+  "geometry": {"coordinates":[-96.81187199999999,46.848919],"type":"Point"}
+}

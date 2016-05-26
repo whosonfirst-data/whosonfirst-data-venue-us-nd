@@ -1,0 +1,73 @@
+{
+  "id": 873646057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.296157,48.196358,-101.296157,48.196358",
+    "geom:latitude":48.196358,
+    "geom:longitude":-101.296157,
+    "iso:country":"US",
+    "sg:address":"3806 2nd St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 8955",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "oil",
+        "recovery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1J9GFKg6zDxMZul31ZT6x5_48.196358_-101.296157@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295547,
+    "wof:geomhash":"f485d4381983830388dd804a1270c72e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873646057
+        }
+    ],
+    "wof:id":873646057,
+    "wof:lastmodified":1464295547,
+    "wof:name":"Tri B Oil Co Inc",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "recovery"
+    ]
+},
+  "bbox": [
+    -101.296157,
+    48.196358,
+    -101.296157,
+    48.196358
+],
+  "geometry": {"coordinates":[-101.29615699999999,48.196358],"type":"Point"}
+}

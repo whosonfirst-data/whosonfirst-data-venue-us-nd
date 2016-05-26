@@ -1,0 +1,67 @@
+{
+  "id": 873540529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.785817,46.804248,-100.785817,46.804248",
+    "geom:latitude":46.804248,
+    "geom:longitude":-100.785817,
+    "iso:country":"US",
+    "sg:address":"410 E Front Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 3518",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:website":"www.ndlc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MGV2osBi59POpGoCx4zFu_46.804248_-100.785817@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294265,
+    "wof:geomhash":"9a49fa1ecab236465bc46bf7395e7ca3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873540529
+        }
+    ],
+    "wof:id":873540529,
+    "wof:lastmodified":1464294265,
+    "wof:name":"N D League Of Cities",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.785817,
+    46.804248,
+    -100.785817,
+    46.804248
+],
+  "geometry": {"coordinates":[-100.78581699999999,46.804248],"type":"Point"}
+}

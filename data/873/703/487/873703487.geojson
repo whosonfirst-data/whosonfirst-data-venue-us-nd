@@ -1,0 +1,75 @@
+{
+  "id": 873703487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.221643,48.193953,-101.221643,48.193953",
+    "geom:latitude":48.193953,
+    "geom:longitude":-101.221643,
+    "iso:country":"US",
+    "sg:address":"4100 US Hwy 52",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 1650",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "residential",
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5L8gpDRQHa7Qkpey32Jsnj_48.193953_-101.221643@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296440,
+    "wof:geomhash":"a53348871a15137ab2c88c478c18e51f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873703487
+        }
+    ],
+    "wof:id":873703487,
+    "wof:lastmodified":1464296440,
+    "wof:name":"D L Enterprise & Construction",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.221643,
+    48.193953,
+    -101.221643,
+    48.193953
+],
+  "geometry": {"coordinates":[-101.221643,48.193953],"type":"Point"}
+}

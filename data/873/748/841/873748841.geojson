@@ -1,0 +1,66 @@
+{
+  "id": 873748841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.820039,46.778518,-100.820039,46.778518",
+    "geom:latitude":46.778518,
+    "geom:longitude":-100.820039,
+    "iso:country":"US",
+    "sg:address":"2012 Harbor Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 1546",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4y0Upf783OLsJPm3N01hVU_46.778518_-100.820039@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297060,
+    "wof:geomhash":"1a3c15d963b1916203c822ac2f63577f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873748841
+        }
+    ],
+    "wof:id":873748841,
+    "wof:lastmodified":1464297060,
+    "wof:name":"Main & Company Realtors",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.820039,
+    46.778518,
+    -100.820039,
+    46.778518
+],
+  "geometry": {"coordinates":[-100.82003899999999,46.778518],"type":"Point"}
+}

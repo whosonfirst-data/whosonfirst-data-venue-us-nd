@@ -1,0 +1,77 @@
+{
+  "id": 873744387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.427473,48.279925,-101.427473,48.279925",
+    "geom:latitude":48.279925,
+    "geom:longitude":-101.427473,
+    "iso:country":"US",
+    "sg:address":"414 Grace St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 833 3778",
+    "sg:postcode":"58722",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "electronic",
+        "electrical",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bME3LUDTvqnih6hAIOCIT_48.279925_-101.427473@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297000,
+    "wof:geomhash":"4c1f4594cc67b74488c17c213e096238",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873744387
+        }
+    ],
+    "wof:id":873744387,
+    "wof:lastmodified":1464297000,
+    "wof:name":"Eckels Electronics",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "electronic",
+        "electrical",
+        "supply"
+    ]
+},
+  "bbox": [
+    -101.427473,
+    48.279925,
+    -101.427473,
+    48.279925
+],
+  "geometry": {"coordinates":[-101.42747300000001,48.279925],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873672145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.296339,48.216398,-101.296339,48.216398",
+    "geom:latitude":48.216398,
+    "geom:longitude":-101.296339,
+    "iso:country":"US",
+    "sg:address":"305 17th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 7741",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "taxation",
+        "finance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ChrBSSVrTd3U6DolU5asB_48.216398_-101.296339@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295822,
+    "wof:geomhash":"22c57cd0e4a4e9e6026d14f4b141b0d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873672145
+        }
+    ],
+    "wof:id":873672145,
+    "wof:lastmodified":1464295822,
+    "wof:name":"Internal Revenue Service",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxation",
+        "finance"
+    ]
+},
+  "bbox": [
+    -101.296339,
+    48.216398,
+    -101.296339,
+    48.216398
+],
+  "geometry": {"coordinates":[-101.296339,48.216398],"type":"Point"}
+}

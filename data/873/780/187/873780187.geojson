@@ -1,0 +1,71 @@
+{
+  "id": 873780187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.279913,48.225136,-101.279913,48.225136",
+    "geom:latitude":48.225136,
+    "geom:longitude":-101.279913,
+    "iso:country":"US",
+    "sg:address":"1312 Hiawatha St",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 9289",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FkOs8xT6TsRUXHT8Db5MN_48.225136_-101.279913@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297495,
+    "wof:geomhash":"82b2c97aa51be0f8f07c4bd2024f00b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873780187
+        }
+    ],
+    "wof:id":873780187,
+    "wof:lastmodified":1464297495,
+    "wof:name":"David A Humphreys",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -101.279913,
+    48.225136,
+    -101.279913,
+    48.225136
+],
+  "geometry": {"coordinates":[-101.27991299999999,48.225136],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873621935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.292964,48.236347,-101.292964,48.236347",
+    "geom:latitude":48.236347,
+    "geom:longitude":-101.292964,
+    "iso:country":"US",
+    "sg:address":"15 Main St S",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 5934",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "duplicating",
+        "copying"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75Ypy6zXTRZQtiWmx1OT3e_48.236347_-101.292964@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295270,
+    "wof:geomhash":"330d901ac9e4fb3db1af0a66b9e1750b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873621935
+        }
+    ],
+    "wof:id":873621935,
+    "wof:lastmodified":1464295270,
+    "wof:name":"Copies Quick",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "duplicating",
+        "copying"
+    ]
+},
+  "bbox": [
+    -101.292964,
+    48.236347,
+    -101.292964,
+    48.236347
+],
+  "geometry": {"coordinates":[-101.292964,48.236347],"type":"Point"}
+}

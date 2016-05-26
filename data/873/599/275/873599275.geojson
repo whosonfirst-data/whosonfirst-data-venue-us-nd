@@ -1,0 +1,71 @@
+{
+  "id": 873599275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.059414,47.922331,-97.059414,47.922331",
+    "geom:latitude":47.922331,
+    "geom:longitude":-97.059414,
+    "iso:country":"US",
+    "sg:address":"2224 University Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 2864",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SvcYZVhMPsCpGFDhpVuYc_47.922331_-97.059414@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294976,
+    "wof:geomhash":"0223a2954edf3b942cc2e2e8b6a6b3f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873599275
+        }
+    ],
+    "wof:id":873599275,
+    "wof:lastmodified":1464294976,
+    "wof:name":"Leevers Enterprises LLC",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -97.059414,
+    47.922331,
+    -97.059414,
+    47.922331
+],
+  "geometry": {"coordinates":[-97.059414,47.922331],"type":"Point"}
+}

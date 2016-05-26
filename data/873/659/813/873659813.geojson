@@ -1,0 +1,75 @@
+{
+  "id": 873659813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.100028,47.931775,-97.100028,47.931775",
+    "geom:latitude":47.931775,
+    "geom:longitude":-97.100028,
+    "iso:country":"US",
+    "sg:address":"5051 Copper Gate Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 7229",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DSyxeS5kN7i0Na7G7QTfD_47.931775_-97.100028@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295696,
+    "wof:geomhash":"e18d51f15b573944fd35d440778406bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873659813
+        }
+    ],
+    "wof:id":873659813,
+    "wof:lastmodified":1464295696,
+    "wof:name":"Bonaime Trucking",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -97.100028,
+    47.931775,
+    -97.100028,
+    47.931775
+],
+  "geometry": {"coordinates":[-97.10002799999999,47.931775],"type":"Point"}
+}

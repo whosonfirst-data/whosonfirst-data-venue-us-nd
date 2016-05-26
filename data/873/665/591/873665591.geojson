@@ -1,0 +1,66 @@
+{
+  "id": 873665591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.038192,47.904431,-97.038192,47.904431",
+    "geom:latitude":47.904431,
+    "geom:longitude":-97.038192,
+    "iso:country":"US",
+    "sg:address":"811 Sunset Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 8747",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LGNoTKPcGppGiOtrirtOs_47.904431_-97.038192@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295756,
+    "wof:geomhash":"3377b6d21d998bf71c21001ea0bc14c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873665591
+        }
+    ],
+    "wof:id":873665591,
+    "wof:lastmodified":1464295756,
+    "wof:name":"Books By Linda",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.038192,
+    47.904431,
+    -97.038192,
+    47.904431
+],
+  "geometry": {"coordinates":[-97.038192,47.904431],"type":"Point"}
+}

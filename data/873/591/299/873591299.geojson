@@ -1,0 +1,75 @@
+{
+  "id": 873591299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.139493,46.921979,-100.139493,46.921979",
+    "geom:latitude":46.921979,
+    "geom:longitude":-100.139493,
+    "iso:country":"US",
+    "sg:address":"9950 405th St NE",
+    "sg:city":"Driscoll",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 387 4323",
+    "sg:postcode":"58532",
+    "sg:province":"ND",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ekYTWnTUjNb3hEhZJ0AU8_46.921979_-100.139493@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294847,
+    "wof:geomhash":"86c5dbf75005824fb814c37aeece69ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873591299
+        }
+    ],
+    "wof:id":873591299,
+    "wof:lastmodified":1464294847,
+    "wof:name":"Irvin Wehri",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -100.139493,
+    46.921979,
+    -100.139493,
+    46.921979
+],
+  "geometry": {"coordinates":[-100.139493,46.921979],"type":"Point"}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 873593581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-102.781762,46.878379,-102.781762,46.878379",
+    "geom:latitude":46.878379,
+    "geom:longitude":-102.781762,
+    "iso:country":"US",
+    "sg:address":"250 E Villard St",
+    "sg:city":"Dickinson",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 483 3612",
+    "sg:postcode":"58601",
+    "sg:province":"ND",
+    "sg:tags":[
+        "industrial",
+        "gas",
+        "system",
+        "air",
+        "filter",
+        "conditioning",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877119,
+        102191575,
+        404482179,
+        85633793,
+        85982521,
+        102082105,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JR3nFCR67uqXRiniNpKTV_46.878379_-102.781762@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294877,
+    "wof:geomhash":"15f4bd4d5d80a4474e4e7388406a4eb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082105,
+            "localadmin_id":404482179,
+            "locality_id":85982521,
+            "neighbourhood_id":85877119,
+            "region_id":85688525,
+            "venue_id":873593581
+        }
+    ],
+    "wof:id":873593581,
+    "wof:lastmodified":1464294877,
+    "wof:name":"Don's Filters & Furnaces Unltd",
+    "wof:parent_id":85877119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "gas",
+        "system",
+        "air",
+        "filter",
+        "conditioning",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -102.781762,
+    46.878379,
+    -102.781762,
+    46.878379
+],
+  "geometry": {"coordinates":[-102.781762,46.878379],"type":"Point"}
+}

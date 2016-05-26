@@ -1,0 +1,94 @@
+{
+  "id": 873804671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.83595,46.832232,-96.83595,46.832232",
+    "geom:latitude":46.832232,
+    "geom:longitude":-96.83595,
+    "iso:country":"US",
+    "sg:address":"3202 36th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 356 7100",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "recap",
+        "retread",
+        "tires-wholesale",
+        "tire",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.coopertire.com/html/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877355,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FCU120xxRvfyHBX781aY8_46.832232_-96.835950@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297830,
+    "wof:geomhash":"3b3dcc9cff06cac3b3b3e651a658fff0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877355,
+            "region_id":85688525,
+            "venue_id":873804671
+        }
+    ],
+    "wof:id":873804671,
+    "wof:lastmodified":1464297830,
+    "wof:name":"Luther Family Buick Pontiac Gmc",
+    "wof:parent_id":85877355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recap",
+        "retread",
+        "tires-wholesale",
+        "tire",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -96.83595,
+    46.832232,
+    -96.83595,
+    46.832232
+],
+  "geometry": {"coordinates":[-96.83595,46.832232],"type":"Point"}
+}

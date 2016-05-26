@@ -1,0 +1,75 @@
+{
+  "id": 873740387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.794155,46.813901,-100.794155,46.813901",
+    "geom:latitude":46.813901,
+    "geom:longitude":-100.794155,
+    "iso:country":"US",
+    "sg:address":"917 N Washington St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 355 4538",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WqFBalzzVRwgL6qI7vj2L_46.813901_-100.794155@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296926,
+    "wof:geomhash":"80eecc7139927c0c9561091a674521fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873740387
+        }
+    ],
+    "wof:id":873740387,
+    "wof:lastmodified":1464296926,
+    "wof:name":"Marilyn Foss",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -100.794155,
+    46.813901,
+    -100.794155,
+    46.813901
+],
+  "geometry": {"coordinates":[-100.794155,46.813901],"type":"Point"}
+}

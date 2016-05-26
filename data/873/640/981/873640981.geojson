@@ -1,0 +1,74 @@
+{
+  "id": 873640981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.773073,46.788447,-100.773073,46.788447",
+    "geom:latitude":46.788447,
+    "geom:longitude":-100.773073,
+    "iso:country":"US",
+    "sg:address":"1238 Frontier Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 6609",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "linen",
+        "supply"
+    ],
+    "sg:website":"www.ameripride.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NmeeZ5nDacnOT3RPhbWiK_46.788447_-100.773073@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295487,
+    "wof:geomhash":"8b5f9548a9188af2ea294b02970bab4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873640981
+        }
+    ],
+    "wof:id":873640981,
+    "wof:lastmodified":1464295487,
+    "wof:name":"Ameri Pride Linen & Apparel",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "linen",
+        "supply"
+    ]
+},
+  "bbox": [
+    -100.773073,
+    46.788447,
+    -100.773073,
+    46.788447
+],
+  "geometry": {"coordinates":[-100.773073,46.788447],"type":"Point"}
+}

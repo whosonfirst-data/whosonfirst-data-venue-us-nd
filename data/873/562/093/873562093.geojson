@@ -1,0 +1,73 @@
+{
+  "id": 873562093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.149901,47.894414,-97.149901,47.894414",
+    "geom:latitude":47.894414,
+    "geom:longitude":-97.149901,
+    "iso:country":"US",
+    "sg:address":"2979 Prairie Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 1987",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3t2OIwK6sGa4VDlSyzp1v8_47.894414_-97.149901@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294522,
+    "wof:geomhash":"e97c2d8b8336772991ebca8f457cc4d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873562093
+        }
+    ],
+    "wof:id":873562093,
+    "wof:lastmodified":1464294522,
+    "wof:name":"R & S Electrical Contracting",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.149901,
+    47.894414,
+    -97.149901,
+    47.894414
+],
+  "geometry": {"coordinates":[-97.149901,47.894414],"type":"Point"}
+}

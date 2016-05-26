@@ -1,0 +1,71 @@
+{
+  "id": 873752657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.066486,47.923242,-97.066486,47.923242",
+    "geom:latitude":47.923242,
+    "geom:longitude":-97.066486,
+    "iso:country":"US",
+    "sg:address":"2605 4th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 787 5660",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oAQnwKkv3Umy9oKIC5rFm_47.923242_-97.066486@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297113,
+    "wof:geomhash":"db996cbe3a7937a09e308d198b5954e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873752657
+        }
+    ],
+    "wof:id":873752657,
+    "wof:lastmodified":1464297113,
+    "wof:name":"Hutton Enterprises Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -97.066486,
+    47.923242,
+    -97.066486,
+    47.923242
+],
+  "geometry": {"coordinates":[-97.066486,47.923242],"type":"Point"}
+}

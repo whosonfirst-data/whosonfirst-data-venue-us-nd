@@ -1,0 +1,75 @@
+{
+  "id": 873561533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.784868,46.799668,-100.784868,46.799668",
+    "geom:latitude":46.799668,
+    "geom:longitude":-100.784868,
+    "iso:country":"US",
+    "sg:address":"626 Kirkwood Mall",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 9570",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PbeEYzk0XAqyxZ2YRUFEe_46.799668_-100.784868@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294516,
+    "wof:geomhash":"2bf9e23229dd3c03fda7376ec393ee6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873561533
+        }
+    ],
+    "wof:id":873561533,
+    "wof:lastmodified":1464294516,
+    "wof:name":"Wild Things Gallery & Frame",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -100.784868,
+    46.799668,
+    -100.784868,
+    46.799668
+],
+  "geometry": {"coordinates":[-100.784868,46.799668],"type":"Point"}
+}

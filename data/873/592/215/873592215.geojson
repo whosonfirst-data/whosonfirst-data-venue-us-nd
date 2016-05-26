@@ -1,0 +1,70 @@
+{
+  "id": 873592215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.815281,46.823057,-100.815281,46.823057",
+    "geom:latitude":46.823057,
+    "geom:longitude":-100.815281,
+    "iso:country":"US",
+    "sg:address":"1425 Schafer St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 224 5453",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lTzzpOcoEm3tv5DwqzVG4_46.823057_-100.815281@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294861,
+    "wof:geomhash":"3a572af761ff6ef1256983606aa5e84a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873592215
+        }
+    ],
+    "wof:id":873592215,
+    "wof:lastmodified":1464294861,
+    "wof:name":"Bismark College Bk Store State",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.815281,
+    46.823057,
+    -100.815281,
+    46.823057
+],
+  "geometry": {"coordinates":[-100.815281,46.823057],"type":"Point"}
+}

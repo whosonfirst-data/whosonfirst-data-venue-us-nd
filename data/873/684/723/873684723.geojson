@@ -1,0 +1,71 @@
+{
+  "id": 873684723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.050758,47.925026,-97.050758,47.925026",
+    "geom:latitude":47.925026,
+    "geom:longitude":-97.050758,
+    "iso:country":"US",
+    "sg:address":"524 N 17th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 9401",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nE0oLW5Hv1LwheMajBy7a_47.925026_-97.050758@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296130,
+    "wof:geomhash":"82e8857d491fbdb67074871906506085",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873684723
+        }
+    ],
+    "wof:id":873684723,
+    "wof:lastmodified":1464296130,
+    "wof:name":"St Anne's Guest Home",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.050758,
+    47.925026,
+    -97.050758,
+    47.925026
+],
+  "geometry": {"coordinates":[-97.050758,47.925026],"type":"Point"}
+}

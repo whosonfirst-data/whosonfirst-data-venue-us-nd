@@ -1,0 +1,75 @@
+{
+  "id": 873656463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.284222,48.244371,-101.284222,48.244371",
+    "geom:latitude":48.244371,
+    "geom:longitude":-101.284222,
+    "iso:country":"US",
+    "sg:address":"517 8th Ave NE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 9366",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58TCSU4CW2GFveR1SsxZsY_48.244371_-101.284222@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295661,
+    "wof:geomhash":"caaf8e77eff6c9389d5c149b0310cf9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873656463
+        }
+    ],
+    "wof:id":873656463,
+    "wof:lastmodified":1464295661,
+    "wof:name":"Mike Russell Home Svc & Rpr",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.284222,
+    48.244371,
+    -101.284222,
+    48.244371
+],
+  "geometry": {"coordinates":[-101.284222,48.244371],"type":"Point"}
+}

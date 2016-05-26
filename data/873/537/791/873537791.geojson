@@ -1,0 +1,71 @@
+{
+  "id": 873537791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.3218,48.243893,-101.3218,48.243893",
+    "geom:latitude":48.243893,
+    "geom:longitude":-101.3218,
+    "iso:country":"US",
+    "sg:address":"500 19th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 3351",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Vv60TIqDOXMhPQ1H245oU_48.243893_-101.321800@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294236,
+    "wof:geomhash":"ffaf753e86fc585c59bb9c7ecb1bd1e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873537791
+        }
+    ],
+    "wof:id":873537791,
+    "wof:lastmodified":1464294236,
+    "wof:name":"Ted H Haugan Financial Svcs",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.3218,
+    48.243893,
+    -101.3218,
+    48.243893
+],
+  "geometry": {"coordinates":[-101.3218,48.243893],"type":"Point"}
+}

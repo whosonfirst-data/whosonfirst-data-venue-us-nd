@@ -1,0 +1,73 @@
+{
+  "id": 873738887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.088099,48.005922,-97.088099,48.005922",
+    "geom:latitude":48.005922,
+    "geom:longitude":-97.088099,
+    "iso:country":"US",
+    "sg:address":"7501 N 42nd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 1880",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TOR11nvRZuWHqTmapBnjC_48.005922_-97.088099@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296907,
+    "wof:geomhash":"1595674c64f68ad8e96041c90ceb442b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873738887
+        }
+    ],
+    "wof:id":873738887,
+    "wof:lastmodified":1464296907,
+    "wof:name":"CMI Construction Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.088099,
+    48.005922,
+    -97.088099,
+    48.005922
+],
+  "geometry": {"coordinates":[-97.088099,48.005922],"type":"Point"}
+}

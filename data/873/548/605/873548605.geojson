@@ -1,0 +1,74 @@
+{
+  "id": 873548605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.309712,48.216026,-101.309712,48.216026",
+    "geom:latitude":48.216026,
+    "geom:longitude":-101.309712,
+    "iso:country":"US",
+    "sg:address":"1725 12th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 2958",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "sg:website":"www.wm.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zRHPWDv0xdS71fmShorY0_48.216026_-101.309712@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294362,
+    "wof:geomhash":"ed58427b506663f0a40ec416280428bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873548605
+        }
+    ],
+    "wof:id":873548605,
+    "wof:lastmodified":1464294362,
+    "wof:name":"Waste Management Inc",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -101.309712,
+    48.216026,
+    -101.309712,
+    48.216026
+],
+  "geometry": {"coordinates":[-101.309712,48.216026],"type":"Point"}
+}

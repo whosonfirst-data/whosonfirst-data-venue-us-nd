@@ -1,0 +1,73 @@
+{
+  "id": 873658165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.053556,47.925198,-97.053556,47.925198",
+    "geom:latitude":47.925198,
+    "geom:longitude":-97.053556,
+    "iso:country":"US",
+    "sg:address":"1823 6th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 9302",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29GAJeGPBoqwTGW05pYASN_47.925198_-97.053556@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295680,
+    "wof:geomhash":"aa0f8ce7937e8f83045dd427fc31f330",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873658165
+        }
+    ],
+    "wof:id":873658165,
+    "wof:lastmodified":1464295680,
+    "wof:name":"William K Sullivan Electric",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.053556,
+    47.925198,
+    -97.053556,
+    47.925198
+],
+  "geometry": {"coordinates":[-97.053556,47.925198],"type":"Point"}
+}

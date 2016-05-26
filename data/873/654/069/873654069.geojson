@@ -1,0 +1,72 @@
+{
+  "id": 873654069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.802795,46.798569,-100.802795,46.798569",
+    "geom:latitude":46.798569,
+    "geom:longitude":-100.802795,
+    "iso:country":"US",
+    "sg:address":"605 W Arbor Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 6464",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "parks"
+    ],
+    "sg:website":"www.bisparks.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54gAbP6o3JY3xes40HbvTY_46.798569_-100.802795@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295636,
+    "wof:geomhash":"fc71f7bb6d2af1c9e5c791344df0b132",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873654069
+        }
+    ],
+    "wof:id":873654069,
+    "wof:lastmodified":1464295636,
+    "wof:name":"Bismarck Park Maintenance Shop",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -100.802795,
+    46.798569,
+    -100.802795,
+    46.798569
+],
+  "geometry": {"coordinates":[-100.802795,46.798569],"type":"Point"}
+}

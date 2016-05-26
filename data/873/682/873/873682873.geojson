@@ -1,0 +1,70 @@
+{
+  "id": 873682873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.901013,46.876977,-96.901013,46.876977",
+    "geom:latitude":46.876977,
+    "geom:longitude":-96.901013,
+    "iso:country":"US",
+    "sg:address":"144 Main Ave W",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 277 4683",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YvRFGzlXXeUyZAbV3xIvz_46.876977_-96.901013@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296078,
+    "wof:geomhash":"d9ad17c80563a159f4201030695b8fad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873682873
+        }
+    ],
+    "wof:id":873682873,
+    "wof:lastmodified":1464296078,
+    "wof:name":"Family Dollar Store",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.901013,
+    46.876977,
+    -96.901013,
+    46.876977
+],
+  "geometry": {"coordinates":[-96.90101300000001,46.876977],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873643871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.046413,47.920055,-97.046413,47.920055",
+    "geom:latitude":47.920055,
+    "geom:longitude":-97.046413,
+    "iso:country":"US",
+    "sg:address":"1305 1st Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 6004",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iEqN9NMEU6EBDq5xXkln0_47.920055_-97.046413@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295523,
+    "wof:geomhash":"74951769bc9f2e6543cbc684aafa9533",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873643871
+        }
+    ],
+    "wof:id":873643871,
+    "wof:lastmodified":1464295523,
+    "wof:name":"Dakota Chiropractic",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.046413,
+    47.920055,
+    -97.046413,
+    47.920055
+],
+  "geometry": {"coordinates":[-97.046413,47.920055],"type":"Point"}
+}

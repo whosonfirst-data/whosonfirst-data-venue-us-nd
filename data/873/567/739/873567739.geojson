@@ -1,0 +1,70 @@
+{
+  "id": 873567739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.818432,46.858536,-96.818432,46.858536",
+    "geom:latitude":46.858536,
+    "geom:longitude":-96.818432,
+    "iso:country":"US",
+    "sg:address":"2352 Demores Dr S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 8015",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877331,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21O21eJsUgzwujVv64cbBd_46.858536_-96.818432@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294583,
+    "wof:geomhash":"327f3a92b2d369212f456a6aec7a7bf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877331,
+            "region_id":85688525,
+            "venue_id":873567739
+        }
+    ],
+    "wof:id":873567739,
+    "wof:lastmodified":1464294583,
+    "wof:name":"Mary L Hershberger",
+    "wof:parent_id":85877331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.818432,
+    46.858536,
+    -96.818432,
+    46.858536
+],
+  "geometry": {"coordinates":[-96.818432,46.858536],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873588513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.752961,46.803938,-100.752961,46.803938",
+    "geom:latitude":46.803938,
+    "geom:longitude":-100.752961,
+    "iso:country":"US",
+    "sg:address":"2407 Railroad Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 7447",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "distribution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24hIymL2O5GXJxnGnZgvB5_46.803938_-100.752961@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294813,
+    "wof:geomhash":"efde4acf2b1e9093621fd4e13b12c491",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873588513
+        }
+    ],
+    "wof:id":873588513,
+    "wof:lastmodified":1464294813,
+    "wof:name":"Folwer & Peth",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distribution"
+    ]
+},
+  "bbox": [
+    -100.752961,
+    46.803938,
+    -100.752961,
+    46.803938
+],
+  "geometry": {"coordinates":[-100.752961,46.803938],"type":"Point"}
+}

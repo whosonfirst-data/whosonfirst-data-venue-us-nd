@@ -1,0 +1,80 @@
+{
+  "id": 873557103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.252723,48.223267,-101.252723,48.223267",
+    "geom:latitude":48.223267,
+    "geom:longitude":-101.252723,
+    "iso:country":"US",
+    "sg:address":"1325 27th St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 1118",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "mobile",
+        "home",
+        "site"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yimER9tlKX7RLr3709Wqi_48.223267_-101.252723@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294462,
+    "wof:geomhash":"03f63beed16021a89c9de85fb3b9f85b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873557103
+        }
+    ],
+    "wof:id":873557103,
+    "wof:lastmodified":1464294462,
+    "wof:name":"Holiday Village Mobile Home Pk",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home",
+        "site"
+    ]
+},
+  "bbox": [
+    -101.252723,
+    48.223267,
+    -101.252723,
+    48.223267
+],
+  "geometry": {"coordinates":[-101.252723,48.223267],"type":"Point"}
+}

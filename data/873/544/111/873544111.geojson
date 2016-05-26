@@ -1,0 +1,71 @@
+{
+  "id": 873544111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.596706,46.821855,-100.596706,46.821855",
+    "geom:latitude":46.821855,
+    "geom:longitude":-100.596706,
+    "iso:country":"US",
+    "sg:address":"1523 E Blossom Dr",
+    "sg:city":"Menoken",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 400 5568",
+    "sg:postcode":"58558",
+    "sg:province":"ND",
+    "sg:tags":[
+        "chair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0s113LIpRfo4eGYZMmIbhy_46.821855_-100.596706@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294307,
+    "wof:geomhash":"1200dc0138df3964c4e0ae4f7e262123",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873544111
+        }
+    ],
+    "wof:id":873544111,
+    "wof:lastmodified":1464294307,
+    "wof:name":"Sit-Rite",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chair"
+    ]
+},
+  "bbox": [
+    -100.596706,
+    46.821855,
+    -100.596706,
+    46.821855
+],
+  "geometry": {"coordinates":[-100.596706,46.821855],"type":"Point"}
+}

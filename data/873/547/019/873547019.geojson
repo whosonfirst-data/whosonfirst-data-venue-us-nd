@@ -1,0 +1,75 @@
+{
+  "id": 873547019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.298031,48.200335,-101.298031,48.200335",
+    "geom:latitude":48.200335,
+    "geom:longitude":-101.298031,
+    "iso:country":"US",
+    "sg:address":"305 33rd Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Motor Vehicles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 0705",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "body",
+        "equipment",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OLWZJdmZadg3oUJwYDvGE_48.200335_-101.298031@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294340,
+    "wof:geomhash":"27f306f12211a5987828823beb8be02c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873547019
+        }
+    ],
+    "wof:id":873547019,
+    "wof:lastmodified":1464294340,
+    "wof:name":"Lucke Manufacturing & Sales",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "equipment",
+        "truck"
+    ]
+},
+  "bbox": [
+    -101.298031,
+    48.200335,
+    -101.298031,
+    48.200335
+],
+  "geometry": {"coordinates":[-101.29803099999999,48.200335],"type":"Point"}
+}

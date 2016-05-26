@@ -1,0 +1,67 @@
+{
+  "id": 873560959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.044787,47.88957,-97.044787,47.88957",
+    "geom:latitude":47.88957,
+    "geom:longitude":-97.044787,
+    "iso:country":"US",
+    "sg:address":"2801 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 2009",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:website":"www.lmmeats.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07Nk6ONHx5vL8AyRmLx54S_47.889570_-97.044787@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294510,
+    "wof:geomhash":"73b84d5eeeafce5b0321319b11a3a047",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873560959
+        }
+    ],
+    "wof:id":873560959,
+    "wof:lastmodified":1464294510,
+    "wof:name":"L & M Meat & Sausage Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.044787,
+    47.88957,
+    -97.044787,
+    47.88957
+],
+  "geometry": {"coordinates":[-97.044787,47.88957],"type":"Point"}
+}

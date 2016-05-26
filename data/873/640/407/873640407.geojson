@@ -1,0 +1,71 @@
+{
+  "id": 873640407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.382798,48.234379,-101.382798,48.234379",
+    "geom:latitude":48.234379,
+    "geom:longitude":-101.382798,
+    "iso:country":"US",
+    "sg:address":"40 62nd St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 0630",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cGWr7AFYoxoxT9dZNRl2b_48.234379_-101.382798@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295477,
+    "wof:geomhash":"8d1a937fd8c525956b1e4dd669364f52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873640407
+        }
+    ],
+    "wof:id":873640407,
+    "wof:lastmodified":1464295477,
+    "wof:name":"Genos Construction",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -101.382798,
+    48.234379,
+    -101.382798,
+    48.234379
+],
+  "geometry": {"coordinates":[-101.38279799999999,48.234379],"type":"Point"}
+}

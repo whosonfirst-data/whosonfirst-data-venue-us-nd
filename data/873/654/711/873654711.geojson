@@ -1,0 +1,66 @@
+{
+  "id": 873654711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.764636,46.826785,-100.764636,46.826785",
+    "geom:latitude":46.826785,
+    "geom:longitude":-100.764636,
+    "iso:country":"US",
+    "sg:address":"1817 Longley Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 221 2302",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68gvmLI0AaV7OH5ZFc7yIr_46.826785_-100.764636@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295642,
+    "wof:geomhash":"c9d562f3b993519fd49de8bd409cb7a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873654711
+        }
+    ],
+    "wof:id":873654711,
+    "wof:lastmodified":1464295642,
+    "wof:name":"Rooke Piano Tuning",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.764636,
+    46.826785,
+    -100.764636,
+    46.826785
+],
+  "geometry": {"coordinates":[-100.764636,46.826785],"type":"Point"}
+}

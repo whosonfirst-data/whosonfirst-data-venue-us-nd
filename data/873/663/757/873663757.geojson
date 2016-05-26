@@ -1,0 +1,71 @@
+{
+  "id": 873663757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.046371,47.912177,-97.046371,47.912177",
+    "geom:latitude":47.912177,
+    "geom:longitude":-97.046371,
+    "iso:country":"US",
+    "sg:address":"1319 10th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 4040",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zc4EsTj7jUryHm1ElB0M6_47.912177_-97.046371@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295738,
+    "wof:geomhash":"e232d48900c6a15c1ef2e82c07bcf9f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873663757
+        }
+    ],
+    "wof:id":873663757,
+    "wof:lastmodified":1464295738,
+    "wof:name":"Anenson Plumbing",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.046371,
+    47.912177,
+    -97.046371,
+    47.912177
+],
+  "geometry": {"coordinates":[-97.04637099999999,47.912177],"type":"Point"}
+}

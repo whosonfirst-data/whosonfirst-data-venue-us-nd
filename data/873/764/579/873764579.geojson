@@ -1,0 +1,74 @@
+{
+  "id": 873764579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.624966,47.905637,-97.624966,47.905637",
+    "geom:latitude":47.905637,
+    "geom:longitude":-97.624966,
+    "iso:country":"US",
+    "sg:address":"122 W Main St",
+    "sg:city":"Larimore",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 343 2181",
+    "sg:postcode":"58251",
+    "sg:province":"ND",
+    "sg:tags":[
+        "city",
+        "taxation"
+    ],
+    "sg:website":"www.larimorecity.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ushom18NVp3p8d9NITvEE_47.905637_-97.624966@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297287,
+    "wof:geomhash":"dd462d0d22be08123ce4ad22f1e402a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873764579
+        }
+    ],
+    "wof:id":873764579,
+    "wof:lastmodified":1464297287,
+    "wof:name":"Larimore City Auditor",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "taxation"
+    ]
+},
+  "bbox": [
+    -97.624966,
+    47.905637,
+    -97.624966,
+    47.905637
+],
+  "geometry": {"coordinates":[-97.624966,47.905637],"type":"Point"}
+}

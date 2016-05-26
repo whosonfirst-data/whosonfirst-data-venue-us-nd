@@ -1,0 +1,75 @@
+{
+  "id": 873752387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.76319,46.819793,-100.76319,46.819793",
+    "geom:latitude":46.819793,
+    "geom:longitude":-100.76319,
+    "iso:country":"US",
+    "sg:address":"1327 N 19th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 7978",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "cat",
+        "dog",
+        "kennel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IWXiBN52DTMn85N4vZneS_46.819793_-100.763190@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297105,
+    "wof:geomhash":"87c642834bf9e0fbbd660305c8811c2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873752387
+        }
+    ],
+    "wof:id":873752387,
+    "wof:lastmodified":1464297105,
+    "wof:name":"TLC Pet Sitting",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cat",
+        "dog",
+        "kennel"
+    ]
+},
+  "bbox": [
+    -100.76319,
+    46.819793,
+    -100.76319,
+    46.819793
+],
+  "geometry": {"coordinates":[-100.76318999999999,46.819793],"type":"Point"}
+}

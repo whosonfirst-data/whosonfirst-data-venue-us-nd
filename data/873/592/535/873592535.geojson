@@ -1,0 +1,77 @@
+{
+  "id": 873592535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.326963,48.211199,-101.326963,48.211199",
+    "geom:latitude":48.211199,
+    "geom:longitude":-101.326963,
+    "iso:country":"US",
+    "sg:address":"2204 20th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 1043",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "con",
+        "transportation",
+        "trade"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Vz8ryQHeNXJwund0nqFal_48.211199_-101.326963@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294864,
+    "wof:geomhash":"8e049e0ab6187ef57c33a926b4620b77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873592535
+        }
+    ],
+    "wof:id":873592535,
+    "wof:lastmodified":1464294864,
+    "wof:name":"Gilbertson Welding & Repair",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "con",
+        "transportation",
+        "trade"
+    ]
+},
+  "bbox": [
+    -101.326963,
+    48.211199,
+    -101.326963,
+    48.211199
+],
+  "geometry": {"coordinates":[-101.32696300000001,48.211199],"type":"Point"}
+}

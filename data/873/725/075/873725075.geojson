@@ -1,0 +1,71 @@
+{
+  "id": 873725075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.331882,48.249388,-101.331882,48.249388",
+    "geom:latitude":48.249388,
+    "geom:longitude":-101.331882,
+    "iso:country":"US",
+    "sg:address":"2512 Crescent Dr",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 8048",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IrmEvqUa3bBPH9wrnIBBd_48.249388_-101.331882@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296713,
+    "wof:geomhash":"76e861615801c6c3052fc9a06771c1f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873725075
+        }
+    ],
+    "wof:id":873725075,
+    "wof:lastmodified":1464296713,
+    "wof:name":"Paintless Dent Repr Specialist",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -101.331882,
+    48.249388,
+    -101.331882,
+    48.249388
+],
+  "geometry": {"coordinates":[-101.33188199999999,48.249388],"type":"Point"}
+}

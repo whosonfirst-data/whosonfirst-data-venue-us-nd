@@ -1,0 +1,73 @@
+{
+  "id": 873792991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.020137,46.629993,-97.020137,46.629993",
+    "geom:latitude":46.629993,
+    "geom:longitude":-97.020137,
+    "iso:country":"US",
+    "sg:address":"16541 54th St SE",
+    "sg:city":"Kindred",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 428 9876",
+    "sg:postcode":"58051",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "corn",
+        "wheat",
+        "soybean",
+        "f"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sDRzFKG30Q4AdvrlPYpXv_46.629993_-97.020137@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297689,
+    "wof:geomhash":"672d4a4075d3b98e7eb1556f64e15b1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873792991
+        }
+    ],
+    "wof:id":873792991,
+    "wof:lastmodified":1464297689,
+    "wof:name":"Kub Jeffri",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "corn",
+        "wheat",
+        "soybean",
+        "f"
+    ]
+},
+  "bbox": [
+    -97.020137,
+    46.629993,
+    -97.020137,
+    46.629993
+],
+  "geometry": {"coordinates":[-97.02013700000001,46.629993],"type":"Point"}
+}

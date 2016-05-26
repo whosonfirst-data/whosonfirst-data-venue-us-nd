@@ -1,0 +1,69 @@
+{
+  "id": 873789995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.986436,47.759294,-96.986436,47.759294",
+    "geom:latitude":47.759294,
+    "geom:longitude":-96.986436,
+    "iso:country":"US",
+    "sg:address":"730 6th Ave NE",
+    "sg:city":"Thompson",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 599 2567",
+    "sg:postcode":"58278",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "grain",
+        "cash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ynw66BIz8PhUvL4oEfXm2_47.759294_-96.986436@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297640,
+    "wof:geomhash":"4705a6b2fadc953c462cc79b94693607",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873789995
+        }
+    ],
+    "wof:id":873789995,
+    "wof:lastmodified":1464297640,
+    "wof:name":"Don Kvasager",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "grain",
+        "cash"
+    ]
+},
+  "bbox": [
+    -96.986436,
+    47.759294,
+    -96.986436,
+    47.759294
+],
+  "geometry": {"coordinates":[-96.986436,47.759294],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 873798193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.787775,46.801763,-100.787775,46.801763",
+    "geom:latitude":46.801763,
+    "geom:longitude":-100.787775,
+    "iso:country":"US",
+    "sg:address":"434 S 3rd St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/bismarck/89725-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 1018",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CCCSSZlyaRKn81itqPHnM_46.801763_-100.787775@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297753,
+    "wof:geomhash":"da05b8537b678f3229297bd68886b090",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873798193
+        }
+    ],
+    "wof:id":873798193,
+    "wof:lastmodified":1464297753,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -100.787775,
+    46.801763,
+    -100.787775,
+    46.801763
+],
+  "geometry": {"coordinates":[-100.787775,46.801763],"type":"Point"}
+}

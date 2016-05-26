@@ -1,0 +1,81 @@
+{
+  "id": 873770159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.81964,46.861573,-96.81964,46.861573",
+    "geom:latitude":46.861573,
+    "geom:longitude":-96.81964,
+    "iso:country":"US",
+    "sg:address":"2501 13th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 4039",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "profit",
+        "sharing",
+        "pension",
+        "plan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877331,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14590S8OVK2bwKLzY7mSf7_46.861573_-96.819640@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297368,
+    "wof:geomhash":"55e7ee265575cfd2889b2dff115e3981",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877331,
+            "region_id":85688525,
+            "venue_id":873770159
+        }
+    ],
+    "wof:id":873770159,
+    "wof:lastmodified":1464297368,
+    "wof:name":"Dakota Capital Retention Corp",
+    "wof:parent_id":85877331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "profit",
+        "sharing",
+        "pension",
+        "plan"
+    ]
+},
+  "bbox": [
+    -96.81964,
+    46.861573,
+    -96.81964,
+    46.861573
+],
+  "geometry": {"coordinates":[-96.81964000000001,46.861573],"type":"Point"}
+}

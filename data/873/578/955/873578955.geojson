@@ -1,0 +1,71 @@
+{
+  "id": 873578955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.064395,47.933008,-97.064395,47.933008",
+    "geom:latitude":47.933008,
+    "geom:longitude":-97.064395,
+    "iso:country":"US",
+    "sg:address":"2205 Gateway Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 3567",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Vgw5lfoxiS1Xhgoj3EKid_47.933008_-97.064395@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294705,
+    "wof:geomhash":"bd8189ed364cac2d9164dfbd26e826f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873578955
+        }
+    ],
+    "wof:id":873578955,
+    "wof:lastmodified":1464294705,
+    "wof:name":"Gateway Auto Tech",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -97.064395,
+    47.933008,
+    -97.064395,
+    47.933008
+],
+  "geometry": {"coordinates":[-97.064395,47.933008],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873780767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.900544,46.757581,-96.900544,46.757581",
+    "geom:latitude":46.757581,
+    "geom:longitude":-96.900544,
+    "iso:country":"US",
+    "sg:address":"110 3rd St E",
+    "sg:city":"Horace",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 356 2080",
+    "sg:postcode":"58047",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74C4qrc3dCWFZhHuVj7vTI_46.757581_-96.900544@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297502,
+    "wof:geomhash":"db105f5c6053ac3de82fa2e7be153723",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873780767
+        }
+    ],
+    "wof:id":873780767,
+    "wof:lastmodified":1464297502,
+    "wof:name":"Horace Elementary School",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.900544,
+    46.757581,
+    -96.900544,
+    46.757581
+],
+  "geometry": {"coordinates":[-96.900544,46.757581],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873777005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.773437,46.786786,-100.773437,46.786786",
+    "geom:latitude":46.786786,
+    "geom:longitude":-100.773437,
+    "iso:country":"US",
+    "sg:address":"1513 S 12th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 250 4318",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qrW1h877S7TlhPkshTKDs_46.786786_-100.773437@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297451,
+    "wof:geomhash":"73b15fd8687bec282075320a248150d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873777005
+        }
+    ],
+    "wof:id":873777005,
+    "wof:lastmodified":1464297451,
+    "wof:name":"US General Svc Adm",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -100.773437,
+    46.786786,
+    -100.773437,
+    46.786786
+],
+  "geometry": {"coordinates":[-100.773437,46.786786],"type":"Point"}
+}

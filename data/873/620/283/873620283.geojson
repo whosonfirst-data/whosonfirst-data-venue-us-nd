@@ -1,0 +1,79 @@
+{
+  "id": 873620283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.824671,46.867471,-96.824671,46.867471",
+    "geom:latitude":46.867471,
+    "geom:longitude":-96.824671,
+    "iso:country":"US",
+    "sg:address":"720 28th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 0087",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "credit",
+        "debt",
+        "counseling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MrcZnv3s2YRL3fkntds6L_46.867471_-96.824671@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295254,
+    "wof:geomhash":"bcbf0f35b6d2ceaed0061dad9d91a86e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873620283
+        }
+    ],
+    "wof:id":873620283,
+    "wof:lastmodified":1464295254,
+    "wof:name":"Quest",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "credit",
+        "debt",
+        "counseling"
+    ]
+},
+  "bbox": [
+    -96.824671,
+    46.867471,
+    -96.824671,
+    46.867471
+],
+  "geometry": {"coordinates":[-96.824671,46.867471],"type":"Point"}
+}

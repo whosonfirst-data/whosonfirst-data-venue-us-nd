@@ -1,0 +1,66 @@
+{
+  "id": 873564397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.238522,48.227857,-101.238522,48.227857",
+    "geom:latitude":48.227857,
+    "geom:longitude":-101.238522,
+    "iso:country":"US",
+    "sg:address":"901 37th St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 3164",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4F9ZjxBR3xH6ViqixELU4Q_48.227857_-101.238522@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294548,
+    "wof:geomhash":"f873c085cef1a287312eda2954ce12d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873564397
+        }
+    ],
+    "wof:id":873564397,
+    "wof:lastmodified":1464294548,
+    "wof:name":"Mobile Home Doctors",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.238522,
+    48.227857,
+    -101.238522,
+    48.227857
+],
+  "geometry": {"coordinates":[-101.238522,48.227857],"type":"Point"}
+}

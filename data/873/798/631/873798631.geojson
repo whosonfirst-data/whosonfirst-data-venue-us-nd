@@ -1,0 +1,76 @@
+{
+  "id": 873798631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.295956,48.26027,-101.295956,48.26027",
+    "geom:latitude":48.26027,
+    "geom:longitude":-101.295956,
+    "iso:country":"US",
+    "sg:address":"2205 N Broadway",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/minot/154679-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 4408",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102531137,
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sPSzsaGewRyjFuJ9Bj4kA_48.260270_-101.295956@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297758,
+    "wof:geomhash":"78ba5f3c4a063fa42dfaa2ed6f4dc2fd",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531137,
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873798631
+        }
+    ],
+    "wof:id":873798631,
+    "wof:lastmodified":1464297758,
+    "wof:name":"Hardee's",
+    "wof:parent_id":102531137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -101.295956,
+    48.26027,
+    -101.295956,
+    48.26027
+],
+  "geometry": {"coordinates":[-101.295956,48.26027],"type":"Point"}
+}

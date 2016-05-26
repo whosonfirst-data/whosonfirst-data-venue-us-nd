@@ -1,0 +1,67 @@
+{
+  "id": 873685549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.091296,47.931784,-97.091296,47.931784",
+    "geom:latitude":47.931784,
+    "geom:longitude":-97.091296,
+    "iso:country":"US",
+    "sg:address":"1205 N 43rd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 3951",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:website":"www.gframada.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TecZkl4G6kisF3jRL9KmK_47.931784_-97.091296@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296152,
+    "wof:geomhash":"25bb4c9f3fe0fa31d3a26b40ad2012c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873685549
+        }
+    ],
+    "wof:id":873685549,
+    "wof:lastmodified":1464296152,
+    "wof:name":"Ramada Inn",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.091296,
+    47.931784,
+    -97.091296,
+    47.931784
+],
+  "geometry": {"coordinates":[-97.091296,47.931784],"type":"Point"}
+}

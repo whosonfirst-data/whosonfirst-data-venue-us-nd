@@ -1,0 +1,76 @@
+{
+  "id": 873650057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.812675,46.83129,-96.812675,46.83129",
+    "geom:latitude":46.83129,
+    "geom:longitude":-96.812675,
+    "iso:country":"US",
+    "sg:address":"3270 20th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 6471",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "software"
+    ],
+    "sg:website":"www.mbsweb.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534487,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VTZOU3wUyKlqzJKqEFJ7F_46.831290_-96.812675@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295586,
+    "wof:geomhash":"f8971fd81c3d47c312b183c4c385380a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534487,
+            "region_id":85688525,
+            "venue_id":873650057
+        }
+    ],
+    "wof:id":873650057,
+    "wof:lastmodified":1464295586,
+    "wof:name":"Metal Building Software",
+    "wof:parent_id":420534487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [
+    -96.812675,
+    46.83129,
+    -96.812675,
+    46.83129
+],
+  "geometry": {"coordinates":[-96.812675,46.83129],"type":"Point"}
+}

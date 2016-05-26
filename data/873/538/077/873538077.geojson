@@ -1,0 +1,75 @@
+{
+  "id": 873538077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.787468,46.910174,-96.787468,46.910174",
+    "geom:latitude":46.910174,
+    "geom:longitude":-96.787468,
+    "iso:country":"US",
+    "sg:address":"2522 Broadway",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 5543",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "drug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877353,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AMdtpuHSTijUhNwOLBSjP_46.910174_-96.787468@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294239,
+    "wof:geomhash":"35ed93fc3c824f79fcd7c50a3b0c2769",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877353,
+            "region_id":85688525,
+            "venue_id":873538077
+        }
+    ],
+    "wof:id":873538077,
+    "wof:lastmodified":1464294239,
+    "wof:name":"Northport Drug",
+    "wof:parent_id":85877353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug"
+    ]
+},
+  "bbox": [
+    -96.787468,
+    46.910174,
+    -96.787468,
+    46.910174
+],
+  "geometry": {"coordinates":[-96.787468,46.910174],"type":"Point"}
+}

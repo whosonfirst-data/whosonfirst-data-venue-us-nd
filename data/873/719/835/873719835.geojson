@@ -1,0 +1,73 @@
+{
+  "id": 873719835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.254202,48.229149,-101.254202,48.229149",
+    "geom:latitude":48.229149,
+    "geom:longitude":-101.254202,
+    "iso:country":"US",
+    "sg:address":"2625 Burdick Expy E",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 4003",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "club",
+        "night"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1T2JjCFluCjKmMRW6fG1x2_48.229149_-101.254202@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296650,
+    "wof:geomhash":"68fafe8f1685bf26e6251cc31c8d76be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873719835
+        }
+    ],
+    "wof:id":873719835,
+    "wof:lastmodified":1464296650,
+    "wof:name":"Rockin Horse",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "night"
+    ]
+},
+  "bbox": [
+    -101.254202,
+    48.229149,
+    -101.254202,
+    48.229149
+],
+  "geometry": {"coordinates":[-101.25420200000001,48.229149],"type":"Point"}
+}

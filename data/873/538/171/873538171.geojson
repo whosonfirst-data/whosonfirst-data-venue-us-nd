@@ -1,0 +1,75 @@
+{
+  "id": 873538171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.045084,47.913149,-97.045084,47.913149",
+    "geom:latitude":47.913149,
+    "geom:longitude":-97.045084,
+    "iso:country":"US",
+    "sg:address":"910 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 5724",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68SJa5eAoUgCeX7SHk7H6P_47.913149_-97.045084@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294240,
+    "wof:geomhash":"b0f24947dd5ab2e63f0149ae82bf0d03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873538171
+        }
+    ],
+    "wof:id":873538171,
+    "wof:lastmodified":1464294240,
+    "wof:name":"Jay Holms Valley Auto Sales",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -97.045084,
+    47.913149,
+    -97.045084,
+    47.913149
+],
+  "geometry": {"coordinates":[-97.045084,47.913149],"type":"Point"}
+}

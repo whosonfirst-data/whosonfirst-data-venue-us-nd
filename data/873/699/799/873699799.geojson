@@ -1,0 +1,66 @@
+{
+  "id": 873699799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.750343,46.811502,-100.750343,46.811502",
+    "geom:latitude":46.811502,
+    "geom:longitude":-100.750343,
+    "iso:country":"US",
+    "sg:address":"601 N 27th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 3431",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ir7xVaopuOs7R2W0WbWRh_46.811502_-100.750343@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296403,
+    "wof:geomhash":"d2d0ef80ef311fd72891f3fce6936094",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873699799
+        }
+    ],
+    "wof:id":873699799,
+    "wof:lastmodified":1464296403,
+    "wof:name":"Child Evangelism Fellowship Sw",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.750343,
+    46.811502,
+    -100.750343,
+    46.811502
+],
+  "geometry": {"coordinates":[-100.750343,46.811502],"type":"Point"}
+}

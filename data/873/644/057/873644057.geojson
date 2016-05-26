@@ -1,0 +1,81 @@
+{
+  "id": 873644057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.308095,48.202985,-101.308095,48.202985",
+    "geom:latitude":48.202985,
+    "geom:longitude":-101.308095,
+    "iso:country":"US",
+    "sg:address":"1100 31st Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 3270",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "mobile",
+        "communication",
+        "system",
+        "communications",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aIkB73swXX7DfT812MNnm_48.202985_-101.308095@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295525,
+    "wof:geomhash":"46c0dc315b3c3316b4f094f99c91e717",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873644057
+        }
+    ],
+    "wof:id":873644057,
+    "wof:lastmodified":1464295525,
+    "wof:name":"Team Electronics Inc",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "mobile",
+        "communication",
+        "system",
+        "communications",
+        "radio"
+    ]
+},
+  "bbox": [
+    -101.308095,
+    48.202985,
+    -101.308095,
+    48.202985
+],
+  "geometry": {"coordinates":[-101.30809499999999,48.202985],"type":"Point"}
+}

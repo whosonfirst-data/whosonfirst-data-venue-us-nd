@@ -1,0 +1,66 @@
+{
+  "id": 873711867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.705735,46.759072,-100.705735,46.759072",
+    "geom:latitude":46.759072,
+    "geom:longitude":-100.705735,
+    "iso:country":"US",
+    "sg:address":"12 Penenah Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 4616",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jt5KQYXuUQB8F51wzIzV2_46.759072_-100.705735@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296543,
+    "wof:geomhash":"1e00a45985546eba3288e8b344eeb712",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873711867
+        }
+    ],
+    "wof:id":873711867,
+    "wof:lastmodified":1464296543,
+    "wof:name":"Basket Emporium",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.705735,
+    46.759072,
+    -100.705735,
+    46.759072
+],
+  "geometry": {"coordinates":[-100.705735,46.759072],"type":"Point"}
+}

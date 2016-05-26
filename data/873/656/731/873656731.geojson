@@ -1,0 +1,71 @@
+{
+  "id": 873656731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.292964,48.236317,-101.292964,48.236317",
+    "geom:latitude":48.236317,
+    "geom:longitude":-101.292964,
+    "iso:country":"US",
+    "sg:address":"19 Main St S",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 4255",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39OL5uj9LcJIH61OV7ehqQ_48.236317_-101.292964@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295665,
+    "wof:geomhash":"9f88999a66f8a5182e33c03f7f58edc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873656731
+        }
+    ],
+    "wof:id":873656731,
+    "wof:lastmodified":1464295665,
+    "wof:name":"Peggy's Gift Shoppe",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -101.292964,
+    48.236317,
+    -101.292964,
+    48.236317
+],
+  "geometry": {"coordinates":[-101.292964,48.236317],"type":"Point"}
+}

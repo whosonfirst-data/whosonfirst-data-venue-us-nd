@@ -1,0 +1,73 @@
+{
+  "id": 873582099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.029905,47.923646,-97.029905,47.923646",
+    "geom:latitude":47.923646,
+    "geom:longitude":-97.029905,
+    "iso:country":"US",
+    "sg:address":"311 Kittson Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 7171",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7g0Tu9jSye68PDEQZDqjqB_47.923646_-97.029905@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294743,
+    "wof:geomhash":"1970a4420089bb90ab4f83855e96d067",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873582099
+        }
+    ],
+    "wof:id":873582099,
+    "wof:lastmodified":1464294743,
+    "wof:name":"Strategic Mortgage",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -97.029905,
+    47.923646,
+    -97.029905,
+    47.923646
+],
+  "geometry": {"coordinates":[-97.029905,47.923646],"type":"Point"}
+}

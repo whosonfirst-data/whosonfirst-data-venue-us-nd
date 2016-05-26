@@ -1,0 +1,77 @@
+{
+  "id": 873730083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.816653,46.881497,-96.816653,46.881497",
+    "geom:latitude":46.881497,
+    "geom:longitude":-96.816653,
+    "iso:country":"US",
+    "sg:address":"2202 5th Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 237 5369",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aZA9QdaDE11yXNXl7U8bc_46.881497_-96.816653@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296780,
+    "wof:geomhash":"ae47541d33880b447d36773e49b874e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873730083
+        }
+    ],
+    "wof:id":873730083,
+    "wof:lastmodified":1464296780,
+    "wof:name":"Dakota Thunder Inc",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.816653,
+    46.881497,
+    -96.816653,
+    46.881497
+],
+  "geometry": {"coordinates":[-96.816653,46.881497],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873729079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.29869,48.254879,-101.29869,48.254879",
+    "geom:latitude":48.254879,
+    "geom:longitude":-101.29869,
+    "iso:country":"US",
+    "sg:address":"1953 Anderson Dr NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 4305",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wVwpXLdYqZjQLMdQbXjJd_48.254879_-101.298690@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296769,
+    "wof:geomhash":"6b71e7a57a7726d6dc42916385603032",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873729079
+        }
+    ],
+    "wof:id":873729079,
+    "wof:lastmodified":1464296769,
+    "wof:name":"Hendrickson's Art Shop",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -101.29869,
+    48.254879,
+    -101.29869,
+    48.254879
+],
+  "geometry": {"coordinates":[-101.29868999999999,48.254879],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873648885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.099057,47.911154,-97.099057,47.911154",
+    "geom:latitude":47.911154,
+    "geom:longitude":-97.099057,
+    "iso:country":"US",
+    "sg:address":"1002 S 48th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Beer",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 7344",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "distributor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23w6tcq6uuGUyX6qK6JtDo_47.911154_-97.099057@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295576,
+    "wof:geomhash":"12ccffc18d552b2f1fa23e5167e388c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873648885
+        }
+    ],
+    "wof:id":873648885,
+    "wof:lastmodified":1464295576,
+    "wof:name":"Mc Kinnon Co Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distributor"
+    ]
+},
+  "bbox": [
+    -97.099057,
+    47.911154,
+    -97.099057,
+    47.911154
+],
+  "geometry": {"coordinates":[-97.099057,47.911154],"type":"Point"}
+}

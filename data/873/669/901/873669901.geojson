@@ -1,0 +1,77 @@
+{
+  "id": 873669901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.040164,47.924158,-97.040164,47.924158",
+    "geom:latitude":47.924158,
+    "geom:longitude":-97.040164,
+    "iso:country":"US",
+    "sg:address":"706 4th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 5560",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "dressmaker",
+        "miscellaneous",
+        "store",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fPYSFAwdSCmwGiSI5Jwjv_47.924158_-97.040164@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295800,
+    "wof:geomhash":"feadc23ee3f39b1a7178de1fefa1ce1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873669901
+        }
+    ],
+    "wof:id":873669901,
+    "wof:lastmodified":1464295800,
+    "wof:name":"Faye's Tailoring & Altering",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dressmaker",
+        "miscellaneous",
+        "store",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -97.040164,
+    47.924158,
+    -97.040164,
+    47.924158
+],
+  "geometry": {"coordinates":[-97.040164,47.924158],"type":"Point"}
+}

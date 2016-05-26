@@ -1,0 +1,85 @@
+{
+  "id": 873805917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.808864,46.823765,-100.808864,46.823765",
+    "geom:latitude":46.823765,
+    "geom:longitude":-100.808864,
+    "iso:country":"US",
+    "sg:address":"1154 W Divide Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 6525",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automobile",
+        "part",
+        "truck"
+    ],
+    "sg:website":"http://clickserve.dartsearch.net/link/click?lid=43000000313868578&ds_s_kwgid=58000000006820725&ds_e_matchtype={MatchType}&ds_e_kwdid={OrderItemId}&ds_e_adid={AdId}&ds_url_v=2",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SYmfjSr1BU0WyRlvZmHLR_46.823765_-100.808864@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297850,
+    "wof:geomhash":"f74a01ab2d4416a8010b0b8c4a26b4de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873805917
+        }
+    ],
+    "wof:id":873805917,
+    "wof:lastmodified":1464297850,
+    "wof:name":"Auto Express Care and Repair",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "part",
+        "truck"
+    ]
+},
+  "bbox": [
+    -100.808864,
+    46.823765,
+    -100.808864,
+    46.823765
+],
+  "geometry": {"coordinates":[-100.808864,46.823765],"type":"Point"}
+}

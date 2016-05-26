@@ -1,0 +1,71 @@
+{
+  "id": 873694653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.044625,47.896774,-97.044625,47.896774",
+    "geom:latitude":47.896774,
+    "geom:longitude":-97.044625,
+    "iso:country":"US",
+    "sg:address":"2105 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Bowling",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 0663",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JyjPXYImppurF0PM8keD6_47.896774_-97.044625@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296345,
+    "wof:geomhash":"2e35be50d97bb45f21afe8ba3b67e918",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873694653
+        }
+    ],
+    "wof:id":873694653,
+    "wof:lastmodified":1464296345,
+    "wof:name":"Lew Flynn's Red Ray Lanes",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -97.044625,
+    47.896774,
+    -97.044625,
+    47.896774
+],
+  "geometry": {"coordinates":[-97.044625,47.896774],"type":"Point"}
+}

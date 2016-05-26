@@ -1,0 +1,73 @@
+{
+  "id": 873565811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.757345,46.806219,-100.757345,46.806219",
+    "geom:latitude":46.806219,
+    "geom:longitude":-100.757345,
+    "iso:country":"US",
+    "sg:address":"2206 E Broadway Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 220 5580",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56dvig6boP7vcIJtRD9EMf_46.806219_-100.757345@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294564,
+    "wof:geomhash":"102755712115c52bc47aca7f0ce3da1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873565811
+        }
+    ],
+    "wof:id":873565811,
+    "wof:lastmodified":1464294564,
+    "wof:name":"Val's Body Therapy",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -100.757345,
+    46.806219,
+    -100.757345,
+    46.806219
+],
+  "geometry": {"coordinates":[-100.757345,46.806219],"type":"Point"}
+}

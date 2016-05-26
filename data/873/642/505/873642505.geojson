@@ -1,0 +1,81 @@
+{
+  "id": 873642505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.844558,46.893253,-96.844558,46.893253",
+    "geom:latitude":46.893253,
+    "geom:longitude":-96.844558,
+    "iso:country":"US",
+    "sg:address":"1318 39th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 1089",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automotive",
+        "supply",
+        "sign",
+        "graphics"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vRgzBaGJpl7sNleSXdjUN_46.893253_-96.844558@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295505,
+    "wof:geomhash":"928e464a0f3f360a59ebfd43ad610579",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873642505
+        }
+    ],
+    "wof:id":873642505,
+    "wof:lastmodified":1464295505,
+    "wof:name":"Far-From-Normal Supply",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "supply",
+        "sign",
+        "graphics"
+    ]
+},
+  "bbox": [
+    -96.844558,
+    46.893253,
+    -96.844558,
+    46.893253
+],
+  "geometry": {"coordinates":[-96.84455800000001,46.893253],"type":"Point"}
+}

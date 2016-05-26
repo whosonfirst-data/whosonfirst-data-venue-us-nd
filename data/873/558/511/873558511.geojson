@@ -1,0 +1,66 @@
+{
+  "id": 873558511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.03153,47.924564,-97.03153,47.924564",
+    "geom:latitude":47.924564,
+    "geom:longitude":-97.03153,
+    "iso:country":"US",
+    "sg:address":"308 Demers Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 5709",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oZCk16GH67lrQRDPMeuoC_47.924564_-97.031530@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294482,
+    "wof:geomhash":"9dbb9805c8b064a0bd4ed7a2df9a1da9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873558511
+        }
+    ],
+    "wof:id":873558511,
+    "wof:lastmodified":1464294482,
+    "wof:name":"Meadowbrook Office",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.03153,
+    47.924564,
+    -97.03153,
+    47.924564
+],
+  "geometry": {"coordinates":[-97.03153,47.924564],"type":"Point"}
+}

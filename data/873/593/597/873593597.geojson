@@ -1,0 +1,71 @@
+{
+  "id": 873593597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.067372,47.904054,-97.067372,47.904054",
+    "geom:latitude":47.904054,
+    "geom:longitude":-97.067372,
+    "iso:country":"US",
+    "sg:address":"2714 17th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 4893",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rjA4KCxGmpTlZJPNijnlI_47.904054_-97.067372@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294877,
+    "wof:geomhash":"7601bbf37950134fbe82d04ca34a8da8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873593597
+        }
+    ],
+    "wof:id":873593597,
+    "wof:lastmodified":1464294877,
+    "wof:name":"Heshe's Salon For Hair",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -97.067372,
+    47.904054,
+    -97.067372,
+    47.904054
+],
+  "geometry": {"coordinates":[-97.06737200000001,47.904054],"type":"Point"}
+}

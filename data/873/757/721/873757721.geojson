@@ -1,0 +1,85 @@
+{
+  "id": 873757721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.132842,46.702014,-97.132842,46.702014",
+    "geom:latitude":46.702014,
+    "geom:longitude":-97.132842,
+    "iso:country":"US",
+    "sg:address":"15985 49th St SE",
+    "sg:city":"Davenport",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 428 9882",
+    "sg:postcode":"58021",
+    "sg:province":"ND",
+    "sg:tags":[
+        "flare",
+        "cloud",
+        "seeding",
+        "ice",
+        "mfg"
+    ],
+    "sg:website":"www.iceflares.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vIaomyrnssSv94e08unaJ_46.702014_-97.132842@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297178,
+    "wof:geomhash":"e9c9c344c549dc3840d97f0ca2ab1875",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873757721
+        }
+    ],
+    "wof:id":873757721,
+    "wof:lastmodified":1464297178,
+    "wof:name":"Ice Crystal Engineering LLC",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flare",
+        "cloud",
+        "seeding",
+        "ice",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -97.132842,
+    46.702014,
+    -97.132842,
+    46.702014
+],
+  "geometry": {"coordinates":[-97.132842,46.702014],"type":"Point"}
+}

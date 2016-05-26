@@ -1,0 +1,73 @@
+{
+  "id": 873599347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.798872,46.784127,-100.798872,46.784127",
+    "geom:latitude":46.784127,
+    "geom:longitude":-100.798872,
+    "iso:country":"US",
+    "sg:address":"1727 S Reno Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 4666",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "commercial",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Cjk3jwa93JEHip2y2wkS8_46.784127_-100.798872@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294979,
+    "wof:geomhash":"2ca7b4cb010fdef7ee2006272cae2384",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873599347
+        }
+    ],
+    "wof:id":873599347,
+    "wof:lastmodified":1464294979,
+    "wof:name":"Anne West",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "design"
+    ]
+},
+  "bbox": [
+    -100.798872,
+    46.784127,
+    -100.798872,
+    46.784127
+],
+  "geometry": {"coordinates":[-100.798872,46.784127],"type":"Point"}
+}

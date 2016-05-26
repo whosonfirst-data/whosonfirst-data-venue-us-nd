@@ -1,0 +1,71 @@
+{
+  "id": 873634661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.625231,47.907051,-97.625231,47.907051",
+    "geom:latitude":47.907051,
+    "geom:longitude":-97.625231,
+    "iso:country":"US",
+    "sg:address":"417 Terry Ave",
+    "sg:city":"Larimore",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 343 2019",
+    "sg:postcode":"58251",
+    "sg:province":"ND",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rwkbDVeKWVuiRXf3KQEwm_47.907051_-97.625231@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295419,
+    "wof:geomhash":"d9f693d9f8320bf4e18a87859720fe47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873634661
+        }
+    ],
+    "wof:id":873634661,
+    "wof:lastmodified":1464295419,
+    "wof:name":"Schempp S Janitorial Service",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -97.625231,
+    47.907051,
+    -97.625231,
+    47.907051
+],
+  "geometry": {"coordinates":[-97.625231,47.907051],"type":"Point"}
+}

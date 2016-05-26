@@ -1,0 +1,73 @@
+{
+  "id": 873594011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.393111,48.266664,-101.393111,48.266664",
+    "geom:latitude":48.266664,
+    "geom:longitude":-101.393111,
+    "iso:country":"US",
+    "sg:address":"6807 27th Ave NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 4504",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "janitorial",
+        "contract"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_422EcQtbvixF6AE8lUxm8p_48.266664_-101.393111@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294883,
+    "wof:geomhash":"cdb12229f82b6e44162b8d1c2e8e3a31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873594011
+        }
+    ],
+    "wof:id":873594011,
+    "wof:lastmodified":1464294883,
+    "wof:name":"Maintenance Plus Inc",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitorial",
+        "contract"
+    ]
+},
+  "bbox": [
+    -101.393111,
+    48.266664,
+    -101.393111,
+    48.266664
+],
+  "geometry": {"coordinates":[-101.393111,48.266664],"type":"Point"}
+}

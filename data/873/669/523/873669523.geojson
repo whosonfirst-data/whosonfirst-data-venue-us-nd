@@ -1,0 +1,73 @@
+{
+  "id": 873669523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.0465,47.928987,-97.0465,47.928987",
+    "geom:latitude":47.928987,
+    "geom:longitude":-97.0465,
+    "iso:country":"US",
+    "sg:address":"921 N Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 4570",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4i7LPTLObJcQLgemqT5XB3_47.928987_-97.046500@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295796,
+    "wof:geomhash":"9170680741813ddbeff01942300beef2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873669523
+        }
+    ],
+    "wof:id":873669523,
+    "wof:lastmodified":1464295796,
+    "wof:name":"Bremer Bank NA",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -97.0465,
+    47.928987,
+    -97.0465,
+    47.928987
+],
+  "geometry": {"coordinates":[-97.04649999999999,47.928987],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873581601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.336697,48.222211,-101.336697,48.222211",
+    "geom:latitude":48.222211,
+    "geom:longitude":-101.336697,
+    "iso:country":"US",
+    "sg:address":"1321 28th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 4989",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FVLEEVMXqAQvxqHLE1ijX_48.222211_-101.336697@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294739,
+    "wof:geomhash":"966d04415fd4710140f40da5854b3931",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873581601
+        }
+    ],
+    "wof:id":873581601,
+    "wof:lastmodified":1464294739,
+    "wof:name":"Martronics Information Systems",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -101.336697,
+    48.222211,
+    -101.336697,
+    48.222211
+],
+  "geometry": {"coordinates":[-101.336697,48.222211],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873578179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.026394,47.876349,-97.026394,47.876349",
+    "geom:latitude":47.876349,
+    "geom:longitude":-97.026394,
+    "iso:country":"US",
+    "sg:address":"277 Grassy Hills Ln",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 3380",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39ulY9nDPEdu2btitTNR50_47.876349_-97.026394@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294696,
+    "wof:geomhash":"4981e9f874acd3148c070d73fd68b59b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873578179
+        }
+    ],
+    "wof:id":873578179,
+    "wof:lastmodified":1464294696,
+    "wof:name":"Knights of Columbus Insurance",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.026394,
+    47.876349,
+    -97.026394,
+    47.876349
+],
+  "geometry": {"coordinates":[-97.026394,47.876349],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873664417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.703305,46.763903,-100.703305,46.763903",
+    "geom:latitude":46.763903,
+    "geom:longitude":-100.703305,
+    "iso:country":"US",
+    "sg:address":"27 Benteen Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 1494",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YNr1VqKPIgaLfOmEh0Yg4_46.763903_-100.703305@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295744,
+    "wof:geomhash":"423fa7b6d2618b0c55e3e71c373a34bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873664417
+        }
+    ],
+    "wof:id":873664417,
+    "wof:lastmodified":1464295744,
+    "wof:name":"Tashas Cleaning Service",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaning"
+    ]
+},
+  "bbox": [
+    -100.703305,
+    46.763903,
+    -100.703305,
+    46.763903
+],
+  "geometry": {"coordinates":[-100.703305,46.763903],"type":"Point"}
+}

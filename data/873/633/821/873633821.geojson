@@ -1,0 +1,75 @@
+{
+  "id": 873633821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.827749,46.823118,-96.827749,46.823118",
+    "geom:latitude":46.823118,
+    "geom:longitude":-96.827749,
+    "iso:country":"US",
+    "sg:address":"2933 37th Ave SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 1995",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877333,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4z72g8b9zDRA3LWeEp7Tob_46.823118_-96.827749@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295411,
+    "wof:geomhash":"9c8962902e2d279385355e0e31ad4074",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877333,
+            "region_id":85688525,
+            "venue_id":873633821
+        }
+    ],
+    "wof:id":873633821,
+    "wof:lastmodified":1464295411,
+    "wof:name":"All Ways Moving",
+    "wof:parent_id":85877333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -96.827749,
+    46.823118,
+    -96.827749,
+    46.823118
+],
+  "geometry": {"coordinates":[-96.827749,46.823118],"type":"Point"}
+}

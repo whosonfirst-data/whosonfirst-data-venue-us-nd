@@ -1,0 +1,73 @@
+{
+  "id": 873571661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.049025,47.93303,-97.049025,47.93303",
+    "geom:latitude":47.93303,
+    "geom:longitude":-97.049025,
+    "iso:country":"US",
+    "sg:address":"409 Gateway Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 0911",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "used",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PmF2VRInmhAbx9kjdNXZS_47.933030_-97.049025@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294627,
+    "wof:geomhash":"4b2cabf9761dfd551be3330e3879b9a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873571661
+        }
+    ],
+    "wof:id":873571661,
+    "wof:lastmodified":1464294627,
+    "wof:name":"A 1 Vacuum",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -97.049025,
+    47.93303,
+    -97.049025,
+    47.93303
+],
+  "geometry": {"coordinates":[-97.049025,47.93303],"type":"Point"}
+}

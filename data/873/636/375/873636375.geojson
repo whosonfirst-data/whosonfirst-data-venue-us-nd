@@ -1,0 +1,66 @@
+{
+  "id": 873636375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.623647,47.905223,-97.623647,47.905223",
+    "geom:latitude":47.905223,
+    "geom:longitude":-97.623647,
+    "iso:country":"US",
+    "sg:address":"203 Towner Ave",
+    "sg:city":"Larimore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 343 2461",
+    "sg:postcode":"58251",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xdJyCLYGechkht37RKPIp_47.905223_-97.623647@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295435,
+    "wof:geomhash":"c3c92446b7c015f7f98410a1fe8bbbe7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873636375
+        }
+    ],
+    "wof:id":873636375,
+    "wof:lastmodified":1464295435,
+    "wof:name":"Larimore Drug & Gift",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.623647,
+    47.905223,
+    -97.623647,
+    47.905223
+],
+  "geometry": {"coordinates":[-97.62364700000001,47.905223],"type":"Point"}
+}

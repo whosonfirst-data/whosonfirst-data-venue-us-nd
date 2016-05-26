@@ -1,0 +1,75 @@
+{
+  "id": 873772751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.809919,46.870772,-96.809919,46.870772",
+    "geom:latitude":46.870772,
+    "geom:longitude":-96.809919,
+    "iso:country":"US",
+    "sg:address":"1630 4th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 237 9612",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XQnCmgjOPtIEaQFw6GvaA_46.870772_-96.809919@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297398,
+    "wof:geomhash":"fcb32dcde9b2051e95c61e4a3933dfdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873772751
+        }
+    ],
+    "wof:id":873772751,
+    "wof:lastmodified":1464297398,
+    "wof:name":"Tretter's Maintenance",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -96.809919,
+    46.870772,
+    -96.809919,
+    46.870772
+],
+  "geometry": {"coordinates":[-96.80991899999999,46.870772],"type":"Point"}
+}

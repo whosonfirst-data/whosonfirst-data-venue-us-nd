@@ -1,0 +1,73 @@
+{
+  "id": 873607441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.774125,46.78412,-100.774125,46.78412",
+    "geom:latitude":46.78412,
+    "geom:longitude":-100.774125,
+    "iso:country":"US",
+    "sg:address":"1033 Basin Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 6305",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZXfDYAewCACzDEhoP3GEl_46.784120_-100.774125@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295086,
+    "wof:geomhash":"a9a76e1b06a3db2f8de77862ef6008f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873607441
+        }
+    ],
+    "wof:id":873607441,
+    "wof:lastmodified":1464295086,
+    "wof:name":"Lordex Spine Institute",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -100.774125,
+    46.78412,
+    -100.774125,
+    46.78412
+],
+  "geometry": {"coordinates":[-100.774125,46.78412],"type":"Point"}
+}

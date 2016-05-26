@@ -1,0 +1,77 @@
+{
+  "id": 873740915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.770928,46.822383,-100.770928,46.822383",
+    "geom:latitude":46.822383,
+    "geom:longitude":-100.770928,
+    "iso:country":"US",
+    "sg:address":"1524 N 14th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 400 9989",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eOJDPBohAQyiqOwYRK9dH_46.822383_-100.770928@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296935,
+    "wof:geomhash":"b205f3fc686f58b420b866286f22ede3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873740915
+        }
+    ],
+    "wof:id":873740915,
+    "wof:lastmodified":1464296935,
+    "wof:name":"Northern Solutions Inc",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "medical"
+    ]
+},
+  "bbox": [
+    -100.770928,
+    46.822383,
+    -100.770928,
+    46.822383
+],
+  "geometry": {"coordinates":[-100.770928,46.822383],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873768341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.076999,47.94767,-97.076999,47.94767",
+    "geom:latitude":47.94767,
+    "geom:longitude":-97.076999,
+    "iso:country":"US",
+    "sg:address":"2974 27th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 1911",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "shop",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QrkDYFS0lfWDYYfq3B29G_47.947670_-97.076999@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297342,
+    "wof:geomhash":"b361a43a8e65d910c66d808d0c2e4b44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873768341
+        }
+    ],
+    "wof:id":873768341,
+    "wof:lastmodified":1464297342,
+    "wof:name":"Denny's Engine & Machine Shop",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "shop",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -97.076999,
+    47.94767,
+    -97.076999,
+    47.94767
+],
+  "geometry": {"coordinates":[-97.076999,47.94767],"type":"Point"}
+}

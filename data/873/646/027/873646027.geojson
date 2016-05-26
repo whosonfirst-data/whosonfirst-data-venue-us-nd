@@ -1,0 +1,66 @@
+{
+  "id": 873646027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.288513,48.236263,-101.288513,48.236263",
+    "geom:latitude":48.236263,
+    "geom:longitude":-101.288513,
+    "iso:country":"US",
+    "sg:address":"18 3rd St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 837 9584",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Mew8NKgId3bGfpGDAQReI_48.236263_-101.288513@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295547,
+    "wof:geomhash":"2253a8b87d00bb1d88276657e17293c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873646027
+        }
+    ],
+    "wof:id":873646027,
+    "wof:lastmodified":1464295547,
+    "wof:name":"Restore Inc",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.288513,
+    48.236263,
+    -101.288513,
+    48.236263
+],
+  "geometry": {"coordinates":[-101.28851299999999,48.236263],"type":"Point"}
+}

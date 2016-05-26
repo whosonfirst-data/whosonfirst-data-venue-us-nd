@@ -1,0 +1,83 @@
+{
+  "id": 873554001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.064425,47.893077,-97.064425,47.893077",
+    "geom:latitude":47.893077,
+    "geom:longitude":-97.064425,
+    "iso:country":"US",
+    "sg:address":"2616 S 26th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 0331",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "recreation",
+        "sport",
+        "to",
+        "program",
+        "meta",
+        "nonprofit",
+        "providing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3L9DzDqaVrafD8hNlplXgb_47.893077_-97.064425@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294422,
+    "wof:geomhash":"709de4f4edd77df4f2578590586e0273",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873554001
+        }
+    ],
+    "wof:id":873554001,
+    "wof:lastmodified":1464294422,
+    "wof:name":"Special Olympics North Dakota",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recreation",
+        "sport",
+        "to",
+        "program",
+        "meta",
+        "nonprofit",
+        "providing"
+    ]
+},
+  "bbox": [
+    -97.064425,
+    47.893077,
+    -97.064425,
+    47.893077
+],
+  "geometry": {"coordinates":[-97.064425,47.893077],"type":"Point"}
+}

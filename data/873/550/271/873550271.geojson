@@ -1,0 +1,73 @@
+{
+  "id": 873550271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.762914,46.796305,-100.762914,46.796305",
+    "geom:latitude":46.796305,
+    "geom:longitude":-100.762914,
+    "iso:country":"US",
+    "sg:address":"816 Airport Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 328 9539",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "wildlife",
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bJfvyByeeqWVyrGuQn1o2_46.796305_-100.762914@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294381,
+    "wof:geomhash":"f8890d9aaaa0871d8a427d64a75fcbfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873550271
+        }
+    ],
+    "wof:id":873550271,
+    "wof:lastmodified":1464294381,
+    "wof:name":"Bismarck Game and Fish Lab",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wildlife",
+        "agency"
+    ]
+},
+  "bbox": [
+    -100.762914,
+    46.796305,
+    -100.762914,
+    46.796305
+],
+  "geometry": {"coordinates":[-100.76291399999999,46.796305],"type":"Point"}
+}

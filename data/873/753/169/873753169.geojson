@@ -1,0 +1,75 @@
+{
+  "id": 873753169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.759608,46.802516,-100.759608,46.802516",
+    "geom:latitude":46.802516,
+    "geom:longitude":-100.759608,
+    "iso:country":"US",
+    "sg:address":"2019 E Sweet Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 530 2150",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "wheel",
+        "axle",
+        "alignment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gmtiFr9tcpcemiMQghoiY_46.802516_-100.759608@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297121,
+    "wof:geomhash":"3755eede79a99c9c6323430ce9ce6551",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873753169
+        }
+    ],
+    "wof:id":873753169,
+    "wof:lastmodified":1464297121,
+    "wof:name":"Thompson Frame Svc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wheel",
+        "axle",
+        "alignment"
+    ]
+},
+  "bbox": [
+    -100.759608,
+    46.802516,
+    -100.759608,
+    46.802516
+],
+  "geometry": {"coordinates":[-100.759608,46.802516],"type":"Point"}
+}

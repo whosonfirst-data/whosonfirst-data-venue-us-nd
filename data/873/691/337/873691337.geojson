@@ -1,0 +1,71 @@
+{
+  "id": 873691337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.29317,48.236527,-101.29317,48.236527",
+    "geom:latitude":48.236527,
+    "geom:longitude":-101.29317,
+    "iso:country":"US",
+    "sg:address":"14 Central Ave W",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 833 5455",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "internet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21h2yuzzpWSo62AwkqJD2w_48.236527_-101.293170@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296307,
+    "wof:geomhash":"8431033562611cba6f5792cd1c0a0038",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873691337
+        }
+    ],
+    "wof:id":873691337,
+    "wof:lastmodified":1464296307,
+    "wof:name":"1st Choice Technology Solution",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "internet"
+    ]
+},
+  "bbox": [
+    -101.29317,
+    48.236527,
+    -101.29317,
+    48.236527
+],
+  "geometry": {"coordinates":[-101.29317,48.236527],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873664361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.778493,46.811393,-100.778493,46.811393",
+    "geom:latitude":46.811393,
+    "geom:longitude":-100.778493,
+    "iso:country":"US",
+    "sg:address":"620 N 9th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 6776",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "optician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aUImeEheAtQyeeCaunpvY_46.811393_-100.778493@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295744,
+    "wof:geomhash":"7deb52aaa084d0568a9126c4e437d1da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873664361
+        }
+    ],
+    "wof:id":873664361,
+    "wof:lastmodified":1464295744,
+    "wof:name":"Northern Lights Optical Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "optician"
+    ]
+},
+  "bbox": [
+    -100.778493,
+    46.811393,
+    -100.778493,
+    46.811393
+],
+  "geometry": {"coordinates":[-100.778493,46.811393],"type":"Point"}
+}

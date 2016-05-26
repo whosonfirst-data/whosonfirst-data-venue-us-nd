@@ -1,0 +1,75 @@
+{
+  "id": 873553259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.609333,46.802462,-100.609333,46.802462",
+    "geom:latitude":46.802462,
+    "geom:longitude":-100.609333,
+    "iso:country":"US",
+    "sg:address":"11809 Elsa Rosa Dr",
+    "sg:city":"Menoken",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 2850",
+    "sg:postcode":"58558",
+    "sg:province":"ND",
+    "sg:tags":[
+        "wholesaler",
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NhX2xb8qgcnueCkhMYfaq_46.802462_-100.609333@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294414,
+    "wof:geomhash":"f32d8335444e191dc353305dd54b43b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873553259
+        }
+    ],
+    "wof:id":873553259,
+    "wof:lastmodified":1464294414,
+    "wof:name":"Mees Masonry Corp",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wholesaler",
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.609333,
+    46.802462,
+    -100.609333,
+    46.802462
+],
+  "geometry": {"coordinates":[-100.60933300000001,46.802462],"type":"Point"}
+}

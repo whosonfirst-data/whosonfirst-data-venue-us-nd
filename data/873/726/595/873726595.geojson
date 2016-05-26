@@ -1,0 +1,73 @@
+{
+  "id": 873726595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.03736,47.903019,-97.03736,47.903019",
+    "geom:latitude":47.903019,
+    "geom:longitude":-97.03736,
+    "iso:country":"US",
+    "sg:address":"1704 Oak St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 7191",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qDgvibioICqhzhsEqNcxV_47.903019_-97.037360@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296734,
+    "wof:geomhash":"71622b4f1352635ab350e791787a66cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873726595
+        }
+    ],
+    "wof:id":873726595,
+    "wof:lastmodified":1464296734,
+    "wof:name":"Edyson Electric LLP",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.03736,
+    47.903019,
+    -97.03736,
+    47.903019
+],
+  "geometry": {"coordinates":[-97.03736000000001,47.903019],"type":"Point"}
+}

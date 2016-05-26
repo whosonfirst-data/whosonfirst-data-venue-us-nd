@@ -1,0 +1,77 @@
+{
+  "id": 873645113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.773528,46.785805,-100.773528,46.785805",
+    "geom:latitude":46.785805,
+    "geom:longitude":-100.773528,
+    "iso:country":"US",
+    "sg:address":"1601 S 12th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 1533",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "specializing",
+        "re",
+        "commercial",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IyRT2mKQcncMZH2DKA7rh_46.785805_-100.773528@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295537,
+    "wof:geomhash":"df2c41d70f94c11526d07a13f5408c5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873645113
+        }
+    ],
+    "wof:id":873645113,
+    "wof:lastmodified":1464295537,
+    "wof:name":"Koch Construction Inc",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specializing",
+        "re",
+        "commercial",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.773528,
+    46.785805,
+    -100.773528,
+    46.785805
+],
+  "geometry": {"coordinates":[-100.773528,46.785805],"type":"Point"}
+}

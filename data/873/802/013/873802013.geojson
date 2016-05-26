@@ -1,0 +1,84 @@
+{
+  "id": 873802013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.814232,46.861542,-96.814232,46.861542",
+    "geom:latitude":46.861542,
+    "geom:longitude":-96.814232,
+    "iso:country":"US",
+    "sg:address":"1301 21st St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 234 0544",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "consultant",
+        "financing",
+        "planning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877331,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tsMErd26h7LySn6psLhK1_46.861542_-96.814232@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297797,
+    "wof:geomhash":"8b415f984e4449fad81fc6503be7680f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877331,
+            "region_id":85688525,
+            "venue_id":873802013
+        }
+    ],
+    "wof:id":873802013,
+    "wof:lastmodified":1464297797,
+    "wof:name":"Johnson Loan Consulting",
+    "wof:parent_id":85877331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "financing",
+        "planning"
+    ]
+},
+  "bbox": [
+    -96.814232,
+    46.861542,
+    -96.814232,
+    46.861542
+],
+  "geometry": {"coordinates":[-96.814232,46.861542],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873557773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.061704,47.939791,-97.061704,47.939791",
+    "geom:latitude":47.939791,
+    "geom:longitude":-97.061704,
+    "iso:country":"US",
+    "sg:address":"2120 N Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 3984",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "bean",
+        "broker",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TS1NJqndTp0kBDicpoaaM_47.939791_-97.061704@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294468,
+    "wof:geomhash":"ab72b9d382d2634fd1c346b6a4ac3cfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873557773
+        }
+    ],
+    "wof:id":873557773,
+    "wof:lastmodified":1464294468,
+    "wof:name":"Grand Forks Bean Co",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bean",
+        "broker",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -97.061704,
+    47.939791,
+    -97.061704,
+    47.939791
+],
+  "geometry": {"coordinates":[-97.06170400000001,47.939791],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873616009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.447206,48.123734,-101.447206,48.123734",
+    "geom:latitude":48.123734,
+    "geom:longitude":-101.447206,
+    "iso:country":"US",
+    "sg:address":"10765 Co Hwy 15",
+    "sg:city":"Crosby",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 965 6157",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "course"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6b4wUHxm5vRWOi7dYIwR6O_48.123734_-101.447206@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295205,
+    "wof:geomhash":"bb59fb820082723153468b8030f18d77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873616009
+        }
+    ],
+    "wof:id":873616009,
+    "wof:lastmodified":1464295205,
+    "wof:name":"Crosby Country Club",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course"
+    ]
+},
+  "bbox": [
+    -101.447206,
+    48.123734,
+    -101.447206,
+    48.123734
+],
+  "geometry": {"coordinates":[-101.44720599999999,48.123734],"type":"Point"}
+}

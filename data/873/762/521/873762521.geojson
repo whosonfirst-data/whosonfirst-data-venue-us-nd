@@ -1,0 +1,75 @@
+{
+  "id": 873762521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.767639,46.805159,-100.767639,46.805159",
+    "geom:latitude":46.805159,
+    "geom:longitude":-100.767639,
+    "iso:country":"US",
+    "sg:address":"1317 E Main Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 5287",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "fitting",
+        "hose",
+        "coupling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07Fw9W6jz8EiszUKbHXbu8_46.805159_-100.767639@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297249,
+    "wof:geomhash":"174f5ea2207d078f1a5fa0bc0d4a29cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873762521
+        }
+    ],
+    "wof:id":873762521,
+    "wof:lastmodified":1464297249,
+    "wof:name":"General Trading Co Of Bismarck",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fitting",
+        "hose",
+        "coupling"
+    ]
+},
+  "bbox": [
+    -100.767639,
+    46.805159,
+    -100.767639,
+    46.805159
+],
+  "geometry": {"coordinates":[-100.767639,46.805159],"type":"Point"}
+}

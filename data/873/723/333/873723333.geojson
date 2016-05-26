@@ -1,0 +1,71 @@
+{
+  "id": 873723333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.7893,46.803808,-100.7893,46.803808",
+    "geom:latitude":46.803808,
+    "geom:longitude":-100.7893,
+    "iso:country":"US",
+    "sg:address":"210 S 2nd St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 667 3401",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "probation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1T5YFJneQi1R7zOoqNQH3J_46.803808_-100.789300@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296691,
+    "wof:geomhash":"8fe381cf5033b40d02a270b32cfcfb4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873723333
+        }
+    ],
+    "wof:id":873723333,
+    "wof:lastmodified":1464296691,
+    "wof:name":"Parole & Probation Div",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "probation"
+    ]
+},
+  "bbox": [
+    -100.7893,
+    46.803808,
+    -100.7893,
+    46.803808
+],
+  "geometry": {"coordinates":[-100.7893,46.803808],"type":"Point"}
+}

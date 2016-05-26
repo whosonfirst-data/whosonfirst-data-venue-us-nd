@@ -1,0 +1,73 @@
+{
+  "id": 873687839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.261971,46.647409,-97.261971,46.647409",
+    "geom:latitude":46.647409,
+    "geom:longitude":-97.261971,
+    "iso:country":"US",
+    "sg:address":"5274 153rd Ave SE",
+    "sg:city":"Leonard",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 645 2341",
+    "sg:postcode":"58052",
+    "sg:province":"ND",
+    "sg:tags":[
+        "course",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Y2jb5uSCDG0MBkyExies2_46.647409_-97.261971@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296216,
+    "wof:geomhash":"4a3806ec0f01dc648a84a931653ea9f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873687839
+        }
+    ],
+    "wof:id":873687839,
+    "wof:lastmodified":1464296216,
+    "wof:name":"Leonard Sand Hills Golf Course",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course",
+        "public"
+    ]
+},
+  "bbox": [
+    -97.261971,
+    46.647409,
+    -97.261971,
+    46.647409
+],
+  "geometry": {"coordinates":[-97.261971,46.647409],"type":"Point"}
+}

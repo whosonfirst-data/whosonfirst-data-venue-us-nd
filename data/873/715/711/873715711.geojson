@@ -1,0 +1,66 @@
+{
+  "id": 873715711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.043205,47.915426,-97.043205,47.915426",
+    "geom:latitude":47.915426,
+    "geom:longitude":-97.043205,
+    "iso:country":"US",
+    "sg:address":"1122 7th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 2763",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MS4pnPnU2FJB2gLa9q9l6_47.915426_-97.043205@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296589,
+    "wof:geomhash":"f141ae3f55ab221e9396558084c83dd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873715711
+        }
+    ],
+    "wof:id":873715711,
+    "wof:lastmodified":1464296589,
+    "wof:name":"First Season Community Center",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.043205,
+    47.915426,
+    -97.043205,
+    47.915426
+],
+  "geometry": {"coordinates":[-97.043205,47.915426],"type":"Point"}
+}

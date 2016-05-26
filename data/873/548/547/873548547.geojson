@@ -1,0 +1,71 @@
+{
+  "id": 873548547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.069257,47.903902,-97.069257,47.903902",
+    "geom:latitude":47.903902,
+    "geom:longitude":-97.069257,
+    "iso:country":"US",
+    "sg:address":"2803 17th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 4993",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "out"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Zw7h9xxYVr2HboD30HEWC_47.903902_-97.069257@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294362,
+    "wof:geomhash":"d455f2aeb1c25a9b44beacd68a8e00ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873548547
+        }
+    ],
+    "wof:id":873548547,
+    "wof:lastmodified":1464294362,
+    "wof:name":"Kegs",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "out"
+    ]
+},
+  "bbox": [
+    -97.069257,
+    47.903902,
+    -97.069257,
+    47.903902
+],
+  "geometry": {"coordinates":[-97.06925699999999,47.903902],"type":"Point"}
+}

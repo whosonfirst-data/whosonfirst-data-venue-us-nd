@@ -1,0 +1,73 @@
+{
+  "id": 873788441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.374231,47.875211,-97.374231,47.875211",
+    "geom:latitude":47.875211,
+    "geom:longitude":-97.374231,
+    "iso:country":"US",
+    "sg:address":"2542 14th Ave NE",
+    "sg:city":"Emerado",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 594 5068",
+    "sg:postcode":"58228",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "wheat",
+        "grain",
+        "cash",
+        "soybean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39wkYGlBJT32caa6DfUma0_47.875211_-97.374231@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297623,
+    "wof:geomhash":"85bf63cf83c2a699fea5a6ef574bb1cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873788441
+        }
+    ],
+    "wof:id":873788441,
+    "wof:lastmodified":1464297623,
+    "wof:name":"Bennie Warnke",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "wheat",
+        "grain",
+        "cash",
+        "soybean"
+    ]
+},
+  "bbox": [
+    -97.374231,
+    47.875211,
+    -97.374231,
+    47.875211
+],
+  "geometry": {"coordinates":[-97.37423099999999,47.875211],"type":"Point"}
+}

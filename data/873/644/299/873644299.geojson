@@ -1,0 +1,66 @@
+{
+  "id": 873644299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.300298,48.228083,-101.300298,48.228083",
+    "geom:latitude":48.228083,
+    "geom:longitude":-101.300298,
+    "iso:country":"US",
+    "sg:address":"833 5th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 833 6635",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4E3yRElhZj4QhlWWBl7eMD_48.228083_-101.300298@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295528,
+    "wof:geomhash":"e1addeaf54459b93803b2d2c284e4607",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873644299
+        }
+    ],
+    "wof:id":873644299,
+    "wof:lastmodified":1464295528,
+    "wof:name":"Shear Heaven",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.300298,
+    48.228083,
+    -101.300298,
+    48.228083
+],
+  "geometry": {"coordinates":[-101.300298,48.228083],"type":"Point"}
+}

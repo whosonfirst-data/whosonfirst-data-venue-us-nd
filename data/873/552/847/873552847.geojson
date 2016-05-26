@@ -1,0 +1,71 @@
+{
+  "id": 873552847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.735095,46.826117,-100.735095,46.826117",
+    "geom:latitude":46.826117,
+    "geom:longitude":-100.735095,
+    "iso:country":"US",
+    "sg:address":"3604 E Divide Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 0438",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lrZiS6A4m9SxXXeIsn1Ic_46.826117_-100.735095@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294410,
+    "wof:geomhash":"8520fde5a2996224205a076a63c6e98c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873552847
+        }
+    ],
+    "wof:id":873552847,
+    "wof:lastmodified":1464294410,
+    "wof:name":"Ace 24 Hour Towing",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -100.735095,
+    46.826117,
+    -100.735095,
+    46.826117
+],
+  "geometry": {"coordinates":[-100.735095,46.826117],"type":"Point"}
+}

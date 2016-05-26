@@ -1,0 +1,71 @@
+{
+  "id": 873669171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.247408,48.225476,-101.247408,48.225476",
+    "geom:latitude":48.225476,
+    "geom:longitude":-101.247408,
+    "iso:country":"US",
+    "sg:address":"3100 11th Ave SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 0270",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HIBBufI6BesPjZ77vLn9A_48.225476_-101.247408@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295792,
+    "wof:geomhash":"2e44fe8c3ddd27651920fa279bab835a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873669171
+        }
+    ],
+    "wof:id":873669171,
+    "wof:lastmodified":1464295792,
+    "wof:name":"Jerry's Transfer Svc",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -101.247408,
+    48.225476,
+    -101.247408,
+    48.225476
+],
+  "geometry": {"coordinates":[-101.24740799999999,48.225476],"type":"Point"}
+}

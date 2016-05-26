@@ -1,0 +1,66 @@
+{
+  "id": 873774451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.579132,46.634974,-100.579132,46.634974",
+    "geom:latitude":46.634974,
+    "geom:longitude":-100.579132,
+    "iso:country":"US",
+    "sg:address":"13600 154th Ave SE",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 673 3245",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zxOo54KMFqrQblSNr5lft_46.634974_-100.579132@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297419,
+    "wof:geomhash":"731bc734ba1923fcf0cbeb7c057b5910",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873774451
+        }
+    ],
+    "wof:id":873774451,
+    "wof:lastmodified":1464297419,
+    "wof:name":"Missouri Slope Wool Growers",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.579132,
+    46.634974,
+    -100.579132,
+    46.634974
+],
+  "geometry": {"coordinates":[-100.579132,46.634974],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873702535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.789508,46.884506,-96.789508,46.884506",
+    "geom:latitude":46.884506,
+    "geom:longitude":-96.789508,
+    "iso:country":"US",
+    "sg:address":"708 7th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 239 1679",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "top",
+        "counter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534465,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1R2GSTeYvclvenQQ0HK5kL_46.884506_-96.789508@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296431,
+    "wof:geomhash":"3100eb5412b73c64af0bc308d00dfb65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534465,
+            "region_id":85688525,
+            "venue_id":873702535
+        }
+    ],
+    "wof:id":873702535,
+    "wof:lastmodified":1464296431,
+    "wof:name":"Dynamic Edge Inc",
+    "wof:parent_id":420534465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "top",
+        "counter"
+    ]
+},
+  "bbox": [
+    -96.789508,
+    46.884506,
+    -96.789508,
+    46.884506
+],
+  "geometry": {"coordinates":[-96.789508,46.884506],"type":"Point"}
+}

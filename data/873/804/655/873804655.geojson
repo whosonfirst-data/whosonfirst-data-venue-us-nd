@@ -1,0 +1,70 @@
+{
+  "id": 873804655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.861351,46.815876,-96.861351,46.815876",
+    "geom:latitude":46.815876,
+    "geom:longitude":-96.861351,
+    "iso:country":"US",
+    "sg:address":"4265 45th St S Ste 200",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 281 5007",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877355,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3c7q7titCQ36I7Ep8o43i2_46.815876_-96.861351@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297830,
+    "wof:geomhash":"93cc89a8743f98067918d0863a6daf61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877355,
+            "region_id":85688525,
+            "venue_id":873804655
+        }
+    ],
+    "wof:id":873804655,
+    "wof:lastmodified":1464297830,
+    "wof:name":"North Dakota Alliance For Renewable Energy, Inc.",
+    "wof:parent_id":85877355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.861351,
+    46.815876,
+    -96.861351,
+    46.815876
+],
+  "geometry": {"coordinates":[-96.861351,46.815876],"type":"Point"}
+}

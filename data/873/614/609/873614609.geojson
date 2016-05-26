@@ -1,0 +1,81 @@
+{
+  "id": 873614609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.81821,46.881382,-96.81821,46.881382",
+    "geom:latitude":46.881382,
+    "geom:longitude":-96.81821,
+    "iso:country":"US",
+    "sg:address":"318 24th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 3918",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "exchanging",
+        "automobile",
+        "engine",
+        "rebuilding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HNApbPxxQLiTq3UcdF2Bg_46.881382_-96.818210@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295191,
+    "wof:geomhash":"91036cc4765197e8b2f43edf19aff7f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873614609
+        }
+    ],
+    "wof:id":873614609,
+    "wof:lastmodified":1464295191,
+    "wof:name":"Quality Engine & Machine Inc",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exchanging",
+        "automobile",
+        "engine",
+        "rebuilding"
+    ]
+},
+  "bbox": [
+    -96.81821,
+    46.881382,
+    -96.81821,
+    46.881382
+],
+  "geometry": {"coordinates":[-96.81820999999999,46.881382],"type":"Point"}
+}

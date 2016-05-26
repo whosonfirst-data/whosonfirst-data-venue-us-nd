@@ -1,0 +1,77 @@
+{
+  "id": 873596821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.830182,46.801192,-96.830182,46.801192",
+    "geom:latitude":46.801192,
+    "geom:longitude":-96.830182,
+    "iso:country":"US",
+    "sg:address":"5422 32nd St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 0188",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "bookkeeping",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877333,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40ZZHvkYLN1LWE8Qb6tgUX_46.801192_-96.830182@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294942,
+    "wof:geomhash":"ecb4ceca4a6c6d3e9cedc0ee8155a73d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877333,
+            "region_id":85688525,
+            "venue_id":873596821
+        }
+    ],
+    "wof:id":873596821,
+    "wof:lastmodified":1464294942,
+    "wof:name":"A B D's Accounting Svc",
+    "wof:parent_id":85877333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookkeeping",
+        "general"
+    ]
+},
+  "bbox": [
+    -96.830182,
+    46.801192,
+    -96.830182,
+    46.801192
+],
+  "geometry": {"coordinates":[-96.83018199999999,46.801192],"type":"Point"}
+}

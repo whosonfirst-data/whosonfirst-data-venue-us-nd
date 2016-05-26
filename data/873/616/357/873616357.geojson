@@ -1,0 +1,87 @@
+{
+  "id": 873616357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.792244,46.895022,-96.792244,46.895022",
+    "geom:latitude":46.895022,
+    "geom:longitude":-96.792244,
+    "iso:country":"US",
+    "sg:address":"1306 9th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 5955",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "ad",
+        "for",
+        "sessions",
+        "drug",
+        "alcohol",
+        "counseling",
+        "out"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877359,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YwgoY4rqwVs8RV30ylYoC_46.895022_-96.792244@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295209,
+    "wof:geomhash":"cedd32bfa891ee5acb9727e5fad3312e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877359,
+            "region_id":85688525,
+            "venue_id":873616357
+        }
+    ],
+    "wof:id":873616357,
+    "wof:lastmodified":1464295209,
+    "wof:name":"Pathways Recovery Center Inc",
+    "wof:parent_id":85877359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ad",
+        "for",
+        "sessions",
+        "drug",
+        "alcohol",
+        "counseling",
+        "out"
+    ]
+},
+  "bbox": [
+    -96.792244,
+    46.895022,
+    -96.792244,
+    46.895022
+],
+  "geometry": {"coordinates":[-96.792244,46.895022],"type":"Point"}
+}

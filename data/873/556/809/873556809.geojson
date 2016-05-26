@@ -1,0 +1,66 @@
+{
+  "id": 873556809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.292964,48.236332,-101.292964,48.236332",
+    "geom:latitude":48.236332,
+    "geom:longitude":-101.292964,
+    "iso:country":"US",
+    "sg:address":"17 Main St S",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 3090",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wiZgFUutDaG6XCViUjpBP_48.236332_-101.292964@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294457,
+    "wof:geomhash":"569f2cf558ba6bc396f676a2f1abf8fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873556809
+        }
+    ],
+    "wof:id":873556809,
+    "wof:lastmodified":1464294457,
+    "wof:name":"American Investment Services",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.292964,
+    48.236332,
+    -101.292964,
+    48.236332
+],
+  "geometry": {"coordinates":[-101.292964,48.236332],"type":"Point"}
+}

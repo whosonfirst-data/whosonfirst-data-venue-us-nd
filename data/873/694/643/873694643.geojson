@@ -1,0 +1,66 @@
+{
+  "id": 873694643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.160032,46.644122,-97.160032,46.644122",
+    "geom:latitude":46.644122,
+    "geom:longitude":-97.160032,
+    "iso:country":"US",
+    "sg:address":"15845 53rd St SE",
+    "sg:city":"Kindred",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 645 9062",
+    "sg:postcode":"58051",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QSUKINN1CqU13pku3Yn49_46.644122_-97.160032@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296345,
+    "wof:geomhash":"87927fc2f886b4a6bb6495aa09b698d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873694643
+        }
+    ],
+    "wof:id":873694643,
+    "wof:lastmodified":1464296345,
+    "wof:name":"Cemecare",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.160032,
+    46.644122,
+    -97.160032,
+    46.644122
+],
+  "geometry": {"coordinates":[-97.160032,46.644122],"type":"Point"}
+}

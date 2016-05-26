@@ -1,0 +1,73 @@
+{
+  "id": 873763619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.249475,48.211712,-101.249475,48.211712",
+    "geom:latitude":48.211712,
+    "geom:longitude":-101.249475,
+    "iso:country":"US",
+    "sg:address":"2905 Valley St",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 7673",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "saddlery",
+        "harness"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bP2KMjnLP0k3SuNwYFWbK_48.211712_-101.249475@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297267,
+    "wof:geomhash":"efbc79eadbaf0c383eb4035ea31633f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873763619
+        }
+    ],
+    "wof:id":873763619,
+    "wof:lastmodified":1464297267,
+    "wof:name":"Ropin Box",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saddlery",
+        "harness"
+    ]
+},
+  "bbox": [
+    -101.249475,
+    48.211712,
+    -101.249475,
+    48.211712
+],
+  "geometry": {"coordinates":[-101.249475,48.211712],"type":"Point"}
+}

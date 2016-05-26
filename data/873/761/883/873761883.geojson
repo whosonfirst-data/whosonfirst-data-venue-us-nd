@@ -1,0 +1,71 @@
+{
+  "id": 873761883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.447357,48.259208,-101.447357,48.259208",
+    "geom:latitude":48.259208,
+    "geom:longitude":-101.447357,
+    "iso:country":"US",
+    "sg:address":"2401 100th St NW",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 1104",
+    "sg:postcode":"58722",
+    "sg:province":"ND",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OQ2pCsntI0UFa1np2klSL_48.259208_-101.447357@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297235,
+    "wof:geomhash":"c46173fe735ed66e23b6690049c5b8e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873761883
+        }
+    ],
+    "wof:id":873761883,
+    "wof:lastmodified":1464297235,
+    "wof:name":"De Loughery Painting Co",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -101.447357,
+    48.259208,
+    -101.447357,
+    48.259208
+],
+  "geometry": {"coordinates":[-101.447357,48.259208],"type":"Point"}
+}

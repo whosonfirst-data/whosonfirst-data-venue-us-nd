@@ -1,0 +1,75 @@
+{
+  "id": 873764585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.823309,46.86975,-96.823309,46.86975",
+    "geom:latitude":46.86975,
+    "geom:longitude":-96.823309,
+    "iso:country":"US",
+    "sg:address":"2790 5th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 297 7705",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "embroidery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dzPneCesXMSn3hTmv6DE9_46.869750_-96.823309@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297287,
+    "wof:geomhash":"89861a362ae70ec2fcecfe7198dfba54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873764585
+        }
+    ],
+    "wof:id":873764585,
+    "wof:lastmodified":1464297287,
+    "wof:name":"Embroidery By Andvik",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "embroidery"
+    ]
+},
+  "bbox": [
+    -96.823309,
+    46.86975,
+    -96.823309,
+    46.86975
+],
+  "geometry": {"coordinates":[-96.82330899999999,46.86975],"type":"Point"}
+}

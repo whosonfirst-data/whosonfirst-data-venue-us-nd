@@ -1,0 +1,71 @@
+{
+  "id": 873621845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.051986,48.089058,-101.051986,48.089058",
+    "geom:latitude":48.089058,
+    "geom:longitude":-101.051986,
+    "iso:country":"US",
+    "sg:address":"203 1st Ave E",
+    "sg:city":"Sawyer",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 624 5341",
+    "sg:postcode":"58781",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wqXNzrsDyddJNAbHgMXbG_48.089058_-101.051986@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295269,
+    "wof:geomhash":"58f55a694e1c1f2300f19ff7488169cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873621845
+        }
+    ],
+    "wof:id":873621845,
+    "wof:lastmodified":1464295269,
+    "wof:name":"St Peter's Lutheran Parsonage",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -101.051986,
+    48.089058,
+    -101.051986,
+    48.089058
+],
+  "geometry": {"coordinates":[-101.051986,48.089058],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873648281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.052166,47.893093,-97.052166,47.893093",
+    "geom:latitude":47.893093,
+    "geom:longitude":-97.052166,
+    "iso:country":"US",
+    "sg:address":"1725 28th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 8871",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DzxBAFY9vvjS5GAi3asoO_47.893093_-97.052166@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295570,
+    "wof:geomhash":"0d444f3e41fec0b5911af4b72893b8e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873648281
+        }
+    ],
+    "wof:id":873648281,
+    "wof:lastmodified":1464295570,
+    "wof:name":"Red River Decorators",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.052166,
+    47.893093,
+    -97.052166,
+    47.893093
+],
+  "geometry": {"coordinates":[-97.052166,47.893093],"type":"Point"}
+}

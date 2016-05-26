@@ -1,0 +1,77 @@
+{
+  "id": 873771245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.765096,46.795394,-100.765096,46.795394",
+    "geom:latitude":46.795394,
+    "geom:longitude":-100.765096,
+    "iso:country":"US",
+    "sg:address":"812 S 18th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 2887",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "contractor",
+        "electrical",
+        "merchandise",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OK2Dt1xv5hMxpUizy3C4S_46.795394_-100.765096@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297380,
+    "wof:geomhash":"719e905bb2fb1f21a479b8cc7aae0a0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873771245
+        }
+    ],
+    "wof:id":873771245,
+    "wof:lastmodified":1464297380,
+    "wof:name":"Dell-Comm Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "electrical",
+        "merchandise",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -100.765096,
+    46.795394,
+    -100.765096,
+    46.795394
+],
+  "geometry": {"coordinates":[-100.765096,46.795394],"type":"Point"}
+}

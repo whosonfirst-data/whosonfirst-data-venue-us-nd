@@ -1,0 +1,75 @@
+{
+  "id": 873776901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.801666,46.850553,-96.801666,46.850553",
+    "geom:latitude":46.850553,
+    "geom:longitude":-96.801666,
+    "iso:country":"US",
+    "sg:address":"1909 14th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 491 2809",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "handyman"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534481,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_645oFWaUNl68t4yZ9fmiea_46.850553_-96.801666@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297449,
+    "wof:geomhash":"6d1f1172f93cb5b8b22491fcd64e8b78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534481,
+            "region_id":85688525,
+            "venue_id":873776901
+        }
+    ],
+    "wof:id":873776901,
+    "wof:lastmodified":1464297449,
+    "wof:name":"Energy Savers",
+    "wof:parent_id":420534481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "handyman"
+    ]
+},
+  "bbox": [
+    -96.801666,
+    46.850553,
+    -96.801666,
+    46.850553
+],
+  "geometry": {"coordinates":[-96.801666,46.850553],"type":"Point"}
+}

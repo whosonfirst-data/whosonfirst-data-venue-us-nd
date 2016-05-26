@@ -1,0 +1,75 @@
+{
+  "id": 873591331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.799361,46.805667,-100.799361,46.805667",
+    "geom:latitude":46.805667,
+    "geom:longitude":-100.799361,
+    "iso:country":"US",
+    "sg:address":"540 W Front Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 3019",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "armed",
+        "force",
+        "recruiting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JYalImhzQFRNTrN1ujUKX_46.805667_-100.799361@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294847,
+    "wof:geomhash":"89abe1bf0262d51af39f6087eea6fc10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873591331
+        }
+    ],
+    "wof:id":873591331,
+    "wof:lastmodified":1464294847,
+    "wof:name":"US Marine Corps Recruiting",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "armed",
+        "force",
+        "recruiting"
+    ]
+},
+  "bbox": [
+    -100.799361,
+    46.805667,
+    -100.799361,
+    46.805667
+],
+  "geometry": {"coordinates":[-100.799361,46.805667],"type":"Point"}
+}

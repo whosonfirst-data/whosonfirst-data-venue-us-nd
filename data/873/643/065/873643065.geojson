@@ -1,0 +1,71 @@
+{
+  "id": 873643065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.032333,47.92377,-97.032333,47.92377",
+    "geom:latitude":47.92377,
+    "geom:longitude":-97.032333,
+    "iso:country":"US",
+    "sg:address":"421 Demers Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 6707",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AAmncGVFejsALQvOSlxSh_47.923770_-97.032333@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295511,
+    "wof:geomhash":"0a8f8ef9e579ddb7643aed95dcba1015",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873643065
+        }
+    ],
+    "wof:id":873643065,
+    "wof:lastmodified":1464295511,
+    "wof:name":"Ackre Law Firm",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -97.032333,
+    47.92377,
+    -97.032333,
+    47.92377
+],
+  "geometry": {"coordinates":[-97.03233299999999,47.92377],"type":"Point"}
+}

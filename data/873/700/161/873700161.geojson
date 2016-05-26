@@ -1,0 +1,73 @@
+{
+  "id": 873700161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.762728,46.799324,-100.762728,46.799324",
+    "geom:latitude":46.799324,
+    "geom:longitude":-100.762728,
+    "iso:country":"US",
+    "sg:address":"533 Airport Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 6779",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HXESyQAWjCQ0dpPGHvn2j_46.799324_-100.762728@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296408,
+    "wof:geomhash":"2bdce39121eaec25990b5ac7e0da2d7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873700161
+        }
+    ],
+    "wof:id":873700161,
+    "wof:lastmodified":1464296408,
+    "wof:name":"M K Home Builders",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -100.762728,
+    46.799324,
+    -100.762728,
+    46.799324
+],
+  "geometry": {"coordinates":[-100.762728,46.799324],"type":"Point"}
+}

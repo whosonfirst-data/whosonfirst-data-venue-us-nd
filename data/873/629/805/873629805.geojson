@@ -1,0 +1,75 @@
+{
+  "id": 873629805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.305688,48.207342,-101.305688,48.207342",
+    "geom:latitude":48.207342,
+    "geom:longitude":-101.305688,
+    "iso:country":"US",
+    "sg:address":"906 24th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 728 6683",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "electronic",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FCYCzBjxv4yIqb7S6DaWx_48.207342_-101.305688@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295364,
+    "wof:geomhash":"b747fab22d2d7bf4157fcd0a1d95c74a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873629805
+        }
+    ],
+    "wof:id":873629805,
+    "wof:lastmodified":1464295364,
+    "wof:name":"Team Electronics",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "electronic",
+        "supply"
+    ]
+},
+  "bbox": [
+    -101.305688,
+    48.207342,
+    -101.305688,
+    48.207342
+],
+  "geometry": {"coordinates":[-101.305688,48.207342],"type":"Point"}
+}

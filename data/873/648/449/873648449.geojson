@@ -1,0 +1,67 @@
+{
+  "id": 873648449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.044919,47.92107,-97.044919,47.92107",
+    "geom:latitude":47.92107,
+    "geom:longitude":-97.044919,
+    "iso:country":"US",
+    "sg:address":"110 N Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 8777",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:website":"www.twincity.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QImw91rlhzyH2nI2vfun7_47.921070_-97.044919@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295571,
+    "wof:geomhash":"b1e000fea560b813af53cfa0c853867e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873648449
+        }
+    ],
+    "wof:id":873648449,
+    "wof:lastmodified":1464295571,
+    "wof:name":"Twin City Motors",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.044919,
+    47.92107,
+    -97.044919,
+    47.92107
+],
+  "geometry": {"coordinates":[-97.04491899999999,47.92107],"type":"Point"}
+}

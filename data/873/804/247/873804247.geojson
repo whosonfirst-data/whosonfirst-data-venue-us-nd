@@ -1,0 +1,89 @@
+{
+  "id": 873804247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.796349,46.854321,-96.796349,46.854321",
+    "geom:latitude":46.854321,
+    "geom:longitude":-96.796349,
+    "iso:country":"US",
+    "sg:address":"1101 17th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 8985",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "churches-interdenominational",
+        "churches-various",
+        "denomination"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534481,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mQAQ8TF7Br0OlxjZ4xc2e_46.854321_-96.796349@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297826,
+    "wof:geomhash":"9be8c3710b6c37c0df268703bcbf8052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534481,
+            "region_id":85688525,
+            "venue_id":873804247
+        }
+    ],
+    "wof:id":873804247,
+    "wof:lastmodified":1464297826,
+    "wof:name":"First Cngrgtional Ch Christ-Fa",
+    "wof:parent_id":420534481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-interdenominational",
+        "churches-various",
+        "denomination"
+    ]
+},
+  "bbox": [
+    -96.796349,
+    46.854321,
+    -96.796349,
+    46.854321
+],
+  "geometry": {"coordinates":[-96.79634900000001,46.854321],"type":"Point"}
+}

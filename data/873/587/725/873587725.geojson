@@ -1,0 +1,80 @@
+{
+  "id": 873587725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.091728,47.94228,-97.091728,47.94228",
+    "geom:latitude":47.94228,
+    "geom:longitude":-97.091728,
+    "iso:country":"US",
+    "sg:address":"2149 N 44th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 0226",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "heavy",
+        "duty",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wePnesh8YhmqmDU111tip_47.942280_-97.091728@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294804,
+    "wof:geomhash":"b50c82bb2020eb0cfd81ef28101e8bd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873587725
+        }
+    ],
+    "wof:id":873587725,
+    "wof:lastmodified":1464294804,
+    "wof:name":"Dempsey Truck Svc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heavy",
+        "duty",
+        "truck"
+    ]
+},
+  "bbox": [
+    -97.091728,
+    47.94228,
+    -97.091728,
+    47.94228
+],
+  "geometry": {"coordinates":[-97.091728,47.94228],"type":"Point"}
+}

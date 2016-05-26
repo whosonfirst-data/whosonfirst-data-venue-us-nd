@@ -1,0 +1,77 @@
+{
+  "id": 873582059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.756102,46.797843,-100.756102,46.797843",
+    "geom:latitude":46.797843,
+    "geom:longitude":-100.756102,
+    "iso:country":"US",
+    "sg:address":"2300 Vermont Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 224 8355",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "trucking",
+        "forwarding",
+        "business",
+        "carrier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bVKbDpn3JIA4ED4gQqVTv_46.797843_-100.756102@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294743,
+    "wof:geomhash":"dc043e2fd086268d3dd95488e8a28333",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873582059
+        }
+    ],
+    "wof:id":873582059,
+    "wof:lastmodified":1464294743,
+    "wof:name":"Bob's Pickup & Delivery",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking",
+        "forwarding",
+        "business",
+        "carrier"
+    ]
+},
+  "bbox": [
+    -100.756102,
+    46.797843,
+    -100.756102,
+    46.797843
+],
+  "geometry": {"coordinates":[-100.756102,46.797843],"type":"Point"}
+}

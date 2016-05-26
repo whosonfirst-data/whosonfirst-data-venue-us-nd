@@ -1,0 +1,72 @@
+{
+  "id": 873797397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.079534,47.889388,-97.079534,47.889388",
+    "geom:latitude":47.889388,
+    "geom:longitude":-97.079534,
+    "iso:country":"US",
+    "sg:address":"3551 32nd Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/grand-forks/124908-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 4292",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zGBlgJ3pYUNPVaYOEcqg8_47.889388_-97.079534@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297743,
+    "wof:geomhash":"2ced73ad6d26b716c69fee6748c8cb32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873797397
+        }
+    ],
+    "wof:id":873797397,
+    "wof:lastmodified":1464297743,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -97.079534,
+    47.889388,
+    -97.079534,
+    47.889388
+],
+  "geometry": {"coordinates":[-97.079534,47.889388],"type":"Point"}
+}

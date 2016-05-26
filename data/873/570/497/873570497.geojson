@@ -1,0 +1,73 @@
+{
+  "id": 873570497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.773019,46.798982,-100.773019,46.798982",
+    "geom:latitude":46.798982,
+    "geom:longitude":-100.773019,
+    "iso:country":"US",
+    "sg:address":"1222 Michigan Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 400 0991",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "personal",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wMlXrlcixqWoYLZGRWMba_46.798982_-100.773019@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294615,
+    "wof:geomhash":"22f0ff00d28b35fb66ffd54ca2cbffeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873570497
+        }
+    ],
+    "wof:id":873570497,
+    "wof:lastmodified":1464294615,
+    "wof:name":"Jack of All Trades",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "house"
+    ]
+},
+  "bbox": [
+    -100.773019,
+    46.798982,
+    -100.773019,
+    46.798982
+],
+  "geometry": {"coordinates":[-100.77301900000001,46.798982],"type":"Point"}
+}

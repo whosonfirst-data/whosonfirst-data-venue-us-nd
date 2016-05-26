@@ -1,0 +1,83 @@
+{
+  "id": 873805085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.838754,46.821908,-96.838754,46.821908",
+    "geom:latitude":46.821908,
+    "geom:longitude":-96.838754,
+    "iso:country":"US",
+    "sg:address":"3730 36th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 298 7700",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "battery",
+        "tire"
+    ],
+    "sg:website":"http://www.fleetfarm.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877333,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UlOfywo1IioUF26w6HevX_46.821908_-96.838754@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297835,
+    "wof:geomhash":"637d2b73145b698a19c40199eb9852d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877333,
+            "region_id":85688525,
+            "venue_id":873805085
+        }
+    ],
+    "wof:id":873805085,
+    "wof:lastmodified":1464297835,
+    "wof:name":"Mills Fleet Farm",
+    "wof:parent_id":85877333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "battery",
+        "tire"
+    ]
+},
+  "bbox": [
+    -96.838754,
+    46.821908,
+    -96.838754,
+    46.821908
+],
+  "geometry": {"coordinates":[-96.83875399999999,46.821908],"type":"Point"}
+}

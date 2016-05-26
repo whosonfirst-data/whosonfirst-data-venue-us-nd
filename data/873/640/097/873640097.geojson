@@ -1,0 +1,66 @@
+{
+  "id": 873640097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.305632,48.210668,-101.305632,48.210668",
+    "geom:latitude":48.210668,
+    "geom:longitude":-101.305632,
+    "iso:country":"US",
+    "sg:address":"925 20th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 3500",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FEFSEuKrQE8ysuhmKj3of_48.210668_-101.305632@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295474,
+    "wof:geomhash":"9f2bff61fa0dfaaf80860e1dc2e0dbfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873640097
+        }
+    ],
+    "wof:id":873640097,
+    "wof:lastmodified":1464295474,
+    "wof:name":"United Community Bank",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.305632,
+    48.210668,
+    -101.305632,
+    48.210668
+],
+  "geometry": {"coordinates":[-101.305632,48.210668],"type":"Point"}
+}

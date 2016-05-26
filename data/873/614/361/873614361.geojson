@@ -1,0 +1,71 @@
+{
+  "id": 873614361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.756671,46.822536,-100.756671,46.822536",
+    "geom:latitude":46.822536,
+    "geom:longitude":-100.756671,
+    "iso:country":"US",
+    "sg:address":"2321 Rolling Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 250 8733",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iBV4V7PEN6sQaV4ImjppQ_46.822536_-100.756671@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295189,
+    "wof:geomhash":"6a0dcb91a1adc2556cc0ed7d1673b0b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873614361
+        }
+    ],
+    "wof:id":873614361,
+    "wof:lastmodified":1464295189,
+    "wof:name":"Faith Center Church Of God",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -100.756671,
+    46.822536,
+    -100.756671,
+    46.822536
+],
+  "geometry": {"coordinates":[-100.756671,46.822536],"type":"Point"}
+}

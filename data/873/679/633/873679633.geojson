@@ -1,0 +1,73 @@
+{
+  "id": 873679633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.908218,46.780023,-96.908218,46.780023",
+    "geom:latitude":46.780023,
+    "geom:longitude":-96.908218,
+    "iso:country":"US",
+    "sg:address":"7207 Sunnyside St",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Ferry",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 281 2726",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "water",
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2M8QlZwCWQsgIrPX4It0dY_46.780023_-96.908218@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295986,
+    "wof:geomhash":"d61784d8d95ce876b3a43b3d0b9d84c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873679633
+        }
+    ],
+    "wof:id":873679633,
+    "wof:lastmodified":1464295986,
+    "wof:name":"Cruise One Ltd Liability Co",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "passenger"
+    ]
+},
+  "bbox": [
+    -96.908218,
+    46.780023,
+    -96.908218,
+    46.780023
+],
+  "geometry": {"coordinates":[-96.90821800000001,46.780023],"type":"Point"}
+}

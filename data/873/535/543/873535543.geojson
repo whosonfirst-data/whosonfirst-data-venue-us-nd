@@ -1,0 +1,75 @@
+{
+  "id": 873535543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.809005,46.863803,-96.809005,46.863803",
+    "geom:latitude":46.863803,
+    "geom:longitude":-96.809005,
+    "iso:country":"US",
+    "sg:address":"1026 17th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 1968",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877331,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jYJgzk2KNpI1oCtw1CfgA_46.863803_-96.809005@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294211,
+    "wof:geomhash":"1fad74a87da68145cb71c8237abaac4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877331,
+            "region_id":85688525,
+            "venue_id":873535543
+        }
+    ],
+    "wof:id":873535543,
+    "wof:lastmodified":1464294211,
+    "wof:name":"Cmj Inc",
+    "wof:parent_id":85877331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -96.809005,
+    46.863803,
+    -96.809005,
+    46.863803
+],
+  "geometry": {"coordinates":[-96.809005,46.863803],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 873735973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.817043,46.868351,-96.817043,46.868351",
+    "geom:latitude":46.868351,
+    "geom:longitude":-96.817043,
+    "iso:country":"US",
+    "sg:address":"602 23rd St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 8300",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877331,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Y92SlJYTBpWIyj2vbgKxq_46.868351_-96.817043@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296870,
+    "wof:geomhash":"b0481e2e6d9ea4731839956815975977",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877331,
+            "region_id":85688525,
+            "venue_id":873735973
+        }
+    ],
+    "wof:id":873735973,
+    "wof:lastmodified":1464296870,
+    "wof:name":"Stop N Go",
+    "wof:parent_id":85877331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.817043,
+    46.868351,
+    -96.817043,
+    46.868351
+],
+  "geometry": {"coordinates":[-96.817043,46.868351],"type":"Point"}
+}

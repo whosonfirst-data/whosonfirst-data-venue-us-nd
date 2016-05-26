@@ -1,0 +1,78 @@
+{
+  "id": 873542761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.783018,46.806324,-100.783018,46.806324",
+    "geom:latitude":46.806324,
+    "geom:longitude":-100.783018,
+    "iso:country":"US",
+    "sg:address":"111 N 6th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 6372",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "chapter",
+        "national",
+        "safety",
+        "council"
+    ],
+    "sg:website":"www.ndsc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Wm0QfVGIbq8vgKWThLwGV_46.806324_-100.783018@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294288,
+    "wof:geomhash":"dbc51ddcb145581fab24e8f554f5bc1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873542761
+        }
+    ],
+    "wof:id":873542761,
+    "wof:lastmodified":1464294288,
+    "wof:name":"North Dakota Safety Council",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chapter",
+        "national",
+        "safety",
+        "council"
+    ]
+},
+  "bbox": [
+    -100.783018,
+    46.806324,
+    -100.783018,
+    46.806324
+],
+  "geometry": {"coordinates":[-100.783018,46.806324],"type":"Point"}
+}

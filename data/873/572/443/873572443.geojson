@@ -1,0 +1,71 @@
+{
+  "id": 873572443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.222223,48.196626,-101.222223,48.196626",
+    "geom:latitude":48.196626,
+    "geom:longitude":-101.222223,
+    "iso:country":"US",
+    "sg:address":"4805 37th Ave SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 0678",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ScsO98DCVKcjZEsaeEgXQ_48.196626_-101.222223@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294636,
+    "wof:geomhash":"9d1aa6d1efea00d40ef31dcfc9fa9b3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873572443
+        }
+    ],
+    "wof:id":873572443,
+    "wof:lastmodified":1464294636,
+    "wof:name":"Steves Repair",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -101.222223,
+    48.196626,
+    -101.222223,
+    48.196626
+],
+  "geometry": {"coordinates":[-101.222223,48.196626],"type":"Point"}
+}

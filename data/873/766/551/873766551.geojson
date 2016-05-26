@@ -1,0 +1,73 @@
+{
+  "id": 873766551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.73178,46.858903,-100.73178,46.858903",
+    "geom:latitude":46.858903,
+    "geom:longitude":-100.73178,
+    "iso:country":"US",
+    "sg:address":"4725 Wildrose Cres",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 250 0181",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "home",
+        "improvement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58EDnDMRhnByBs1c2m44FY_46.858903_-100.731780@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297319,
+    "wof:geomhash":"0a74d0838867ab0d4ffcfc764f3629c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873766551
+        }
+    ],
+    "wof:id":873766551,
+    "wof:lastmodified":1464297319,
+    "wof:name":"All Phase Home Improvement Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "improvement"
+    ]
+},
+  "bbox": [
+    -100.73178,
+    46.858903,
+    -100.73178,
+    46.858903
+],
+  "geometry": {"coordinates":[-100.73178,46.858903],"type":"Point"}
+}

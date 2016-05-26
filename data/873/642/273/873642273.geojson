@@ -1,0 +1,79 @@
+{
+  "id": 873642273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.846242,46.871552,-96.846242,46.871552",
+    "geom:latitude":46.871552,
+    "geom:longitude":-96.846242,
+    "iso:country":"US",
+    "sg:address":"4020 4th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 4888",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2I0XfHHJsmPfMfOA8MSZWG_46.871552_-96.846242@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295502,
+    "wof:geomhash":"d80702aa66fc4d0a762682561bf01dbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873642273
+        }
+    ],
+    "wof:id":873642273,
+    "wof:lastmodified":1464295502,
+    "wof:name":"Ruan Transportation Mgmt Systs",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -96.846242,
+    46.871552,
+    -96.846242,
+    46.871552
+],
+  "geometry": {"coordinates":[-96.846242,46.871552],"type":"Point"}
+}

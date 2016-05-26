@@ -1,0 +1,71 @@
+{
+  "id": 873581663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.033266,47.907852,-97.033266,47.907852",
+    "geom:latitude":47.907852,
+    "geom:longitude":-97.033266,
+    "iso:country":"US",
+    "sg:address":"1423 Cottonwood St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 0258",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jCN5FppvgB1t4WNBNaFi3_47.907852_-97.033266@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294739,
+    "wof:geomhash":"194cdd560766a7c117115552c3119c1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873581663
+        }
+    ],
+    "wof:id":873581663,
+    "wof:lastmodified":1464294739,
+    "wof:name":"Hair Care By Carolyn",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -97.033266,
+    47.907852,
+    -97.033266,
+    47.907852
+],
+  "geometry": {"coordinates":[-97.033266,47.907852],"type":"Point"}
+}

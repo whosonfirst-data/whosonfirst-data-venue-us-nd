@@ -1,0 +1,73 @@
+{
+  "id": 873709261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.033375,47.889481,-97.033375,47.889481",
+    "geom:latitude":47.889481,
+    "geom:longitude":-97.033375,
+    "iso:country":"US",
+    "sg:address":"506 32nd Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 4917",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "inspection",
+        "realty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mLQ8YhiuKUzcL3zTBJjvu_47.889481_-97.033375@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296510,
+    "wof:geomhash":"8c7f055a43e0ff30c180737aeda0fe4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873709261
+        }
+    ],
+    "wof:id":873709261,
+    "wof:lastmodified":1464296510,
+    "wof:name":"Home Sweet HM Inspections LLP",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection",
+        "realty"
+    ]
+},
+  "bbox": [
+    -97.033375,
+    47.889481,
+    -97.033375,
+    47.889481
+],
+  "geometry": {"coordinates":[-97.03337500000001,47.889481],"type":"Point"}
+}

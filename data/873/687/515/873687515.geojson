@@ -1,0 +1,71 @@
+{
+  "id": 873687515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.047745,47.929297,-97.047745,47.929297",
+    "geom:latitude":47.929297,
+    "geom:longitude":-97.047745,
+    "iso:country":"US",
+    "sg:address":"1416 10th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 7589",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0d3ye9y1qOUoisfUqtotFe_47.929297_-97.047745@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296206,
+    "wof:geomhash":"a6ba6331d547ebe8c17db1b3de0e4f30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873687515
+        }
+    ],
+    "wof:id":873687515,
+    "wof:lastmodified":1464296206,
+    "wof:name":"LDS Missionaries",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -97.047745,
+    47.929297,
+    -97.047745,
+    47.929297
+],
+  "geometry": {"coordinates":[-97.04774500000001,47.929297],"type":"Point"}
+}

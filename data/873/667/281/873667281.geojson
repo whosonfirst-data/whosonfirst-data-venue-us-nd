@@ -1,0 +1,66 @@
+{
+  "id": 873667281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.294549,48.216155,-101.294549,48.216155",
+    "geom:latitude":48.216155,
+    "geom:longitude":-101.294549,
+    "iso:country":"US",
+    "sg:address":"1719 1st St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 240 8395",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JTJ5uQYAEtGY8sGrIgF7M_48.216155_-101.294549@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295772,
+    "wof:geomhash":"8b76c9422749f9953b4b99fe09ebfe6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873667281
+        }
+    ],
+    "wof:id":873667281,
+    "wof:lastmodified":1464295772,
+    "wof:name":"H T H",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.294549,
+    48.216155,
+    -101.294549,
+    48.216155
+],
+  "geometry": {"coordinates":[-101.294549,48.216155],"type":"Point"}
+}

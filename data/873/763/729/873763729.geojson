@@ -1,0 +1,66 @@
+{
+  "id": 873763729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.317539,48.214076,-101.317539,48.214076",
+    "geom:latitude":48.214076,
+    "geom:longitude":-101.317539,
+    "iso:country":"US",
+    "sg:address":"1825 16th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 0515",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Kfa4yikpc2TTfsLsIcVRO_48.214076_-101.317539@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297269,
+    "wof:geomhash":"2247d8722a14910264104ee21fac87c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873763729
+        }
+    ],
+    "wof:id":873763729,
+    "wof:lastmodified":1464297269,
+    "wof:name":"Lipp Chiropractic Clinic PC",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.317539,
+    48.214076,
+    -101.317539,
+    48.214076
+],
+  "geometry": {"coordinates":[-101.317539,48.214076],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873773269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.29533,48.239935,-101.29533,48.239935",
+    "geom:latitude":48.239935,
+    "geom:longitude":-101.29533,
+    "iso:country":"US",
+    "sg:address":"103 4th Ave NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 5604",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6c8IS9MZRd5yGbjI61s79J_48.239935_-101.295330@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297404,
+    "wof:geomhash":"f53c837c6799841456d6f06494bd844b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873773269
+        }
+    ],
+    "wof:id":873773269,
+    "wof:lastmodified":1464297404,
+    "wof:name":"Home Sweet Home",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -101.29533,
+    48.239935,
+    -101.29533,
+    48.239935
+],
+  "geometry": {"coordinates":[-101.29533000000001,48.239935],"type":"Point"}
+}

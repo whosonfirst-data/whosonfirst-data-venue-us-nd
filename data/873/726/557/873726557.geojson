@@ -1,0 +1,73 @@
+{
+  "id": 873726557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.76395,46.830691,-100.76395,46.830691",
+    "geom:latitude":46.830691,
+    "geom:longitude":-100.76395,
+    "iso:country":"US",
+    "sg:address":"1839 E Capitol Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 250 1006",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZWL8UhTAsmcfJQS6rSF12_46.830691_-100.763950@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296732,
+    "wof:geomhash":"0e035e14d738b52f613bcc709f59b609",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873726557
+        }
+    ],
+    "wof:id":873726557,
+    "wof:lastmodified":1464296732,
+    "wof:name":"Benedictine Living Communities",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -100.76395,
+    46.830691,
+    -100.76395,
+    46.830691
+],
+  "geometry": {"coordinates":[-100.76394999999999,46.830691],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873616565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.911978,46.760125,-96.911978,46.760125",
+    "geom:latitude":46.760125,
+    "geom:longitude":-96.911978,
+    "iso:country":"US",
+    "sg:address":"537 W Brook Dr",
+    "sg:city":"Horace",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 277 1237",
+    "sg:postcode":"58047",
+    "sg:province":"ND",
+    "sg:tags":[
+        "hardwood",
+        "mill",
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PR3Gsv5iyhYxTbOJvflxR_46.760125_-96.911978@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295211,
+    "wof:geomhash":"86369633c6434d0c639a3260e207414d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873616565
+        }
+    ],
+    "wof:id":873616565,
+    "wof:lastmodified":1464295211,
+    "wof:name":"Sheyenne Cabinetry",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hardwood",
+        "mill",
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.911978,
+    46.760125,
+    -96.911978,
+    46.760125
+],
+  "geometry": {"coordinates":[-96.911978,46.760125],"type":"Point"}
+}

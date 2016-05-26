@@ -1,0 +1,71 @@
+{
+  "id": 873768701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.096376,47.931605,-97.096376,47.931605",
+    "geom:latitude":47.931605,
+    "geom:longitude":-97.096376,
+    "iso:country":"US",
+    "sg:address":"1211 N 47th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 9901",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "hotel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NIbQz3jvuce6wEAQHA47E_47.931605_-97.096376@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297346,
+    "wof:geomhash":"747dc8f9294d344ad53d5001cbf18541",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873768701
+        }
+    ],
+    "wof:id":873768701,
+    "wof:lastmodified":1464297346,
+    "wof:name":"Grand Forks Settle Inn",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hotel"
+    ]
+},
+  "bbox": [
+    -97.096376,
+    47.931605,
+    -97.096376,
+    47.931605
+],
+  "geometry": {"coordinates":[-97.09637600000001,47.931605],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873537825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.753621,46.804988,-100.753621,46.804988",
+    "geom:latitude":46.804988,
+    "geom:longitude":-100.753621,
+    "iso:country":"US",
+    "sg:address":"2513 E Main Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 4949",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OQTupe4Vg39Ry7dKqc92W_46.804988_-100.753621@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294237,
+    "wof:geomhash":"87819177439653df5541c5347f55f8b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873537825
+        }
+    ],
+    "wof:id":873537825,
+    "wof:lastmodified":1464294237,
+    "wof:name":"Little Cottage Cafe",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.753621,
+    46.804988,
+    -100.753621,
+    46.804988
+],
+  "geometry": {"coordinates":[-100.753621,46.804988],"type":"Point"}
+}

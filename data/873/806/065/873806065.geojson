@@ -1,0 +1,66 @@
+{
+  "id": 873806065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.790646,46.803161,-100.790646,46.803161",
+    "geom:latitude":46.803161,
+    "geom:longitude":-100.790646,
+    "iso:country":"US",
+    "sg:address":"108 E Sweet Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 400 8825",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4A8FDThIFyzliIM2U3AW1a_46.803161_-100.790646@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297853,
+    "wof:geomhash":"8c311e5e0029c8052a54dd9f0107b64f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873806065
+        }
+    ],
+    "wof:id":873806065,
+    "wof:lastmodified":1464297853,
+    "wof:name":"Salon Md Marla Dusek Wireless",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.790646,
+    46.803161,
+    -100.790646,
+    46.803161
+],
+  "geometry": {"coordinates":[-100.790646,46.803161],"type":"Point"}
+}

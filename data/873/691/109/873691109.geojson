@@ -1,0 +1,71 @@
+{
+  "id": 873691109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.778533,46.803255,-100.778533,46.803255",
+    "geom:latitude":46.803255,
+    "geom:longitude":-100.778533,
+    "iso:country":"US",
+    "sg:address":"221 S 9th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 250 0511",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10LlV5L00ezcNNwO8HYGkn_46.803255_-100.778533@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296302,
+    "wof:geomhash":"b35282db7521a3082128747d5e9a6753",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873691109
+        }
+    ],
+    "wof:id":873691109,
+    "wof:lastmodified":1464296302,
+    "wof:name":"Zorells Jewelry",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -100.778533,
+    46.803255,
+    -100.778533,
+    46.803255
+],
+  "geometry": {"coordinates":[-100.778533,46.803255],"type":"Point"}
+}

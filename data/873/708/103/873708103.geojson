@@ -1,0 +1,75 @@
+{
+  "id": 873708103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.807854,46.829041,-96.807854,46.829041",
+    "geom:latitude":46.829041,
+    "geom:longitude":-96.807854,
+    "iso:country":"US",
+    "sg:address":"3410 17th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 729 3136",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534487,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aWNAAoDYJBTBzAYfxRGsW_46.829041_-96.807854@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296496,
+    "wof:geomhash":"e04a5641b2b4c0c5439ded3329225872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534487,
+            "region_id":85688525,
+            "venue_id":873708103
+        }
+    ],
+    "wof:id":873708103,
+    "wof:lastmodified":1464296496,
+    "wof:name":"Attention To Detail Painting",
+    "wof:parent_id":420534487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -96.807854,
+    46.829041,
+    -96.807854,
+    46.829041
+],
+  "geometry": {"coordinates":[-96.80785400000001,46.829041],"type":"Point"}
+}

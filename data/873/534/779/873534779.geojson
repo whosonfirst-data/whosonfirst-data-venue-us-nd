@@ -1,0 +1,71 @@
+{
+  "id": 873534779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.739845,46.804874,-100.739845,46.804874",
+    "geom:latitude":46.804874,
+    "geom:longitude":-100.739845,
+    "iso:country":"US",
+    "sg:address":"3400 E Main Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 3333",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "nurseryman"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XjL0XrkvUGATSJkTvlmW0_46.804874_-100.739845@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294201,
+    "wof:geomhash":"2d83d0a75901d743278fe5fbfd59281c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873534779
+        }
+    ],
+    "wof:id":873534779,
+    "wof:lastmodified":1464294201,
+    "wof:name":"Cashman Nursery & Landscaping",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurseryman"
+    ]
+},
+  "bbox": [
+    -100.739845,
+    46.804874,
+    -100.739845,
+    46.804874
+],
+  "geometry": {"coordinates":[-100.739845,46.804874],"type":"Point"}
+}

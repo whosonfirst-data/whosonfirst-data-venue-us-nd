@@ -1,0 +1,75 @@
+{
+  "id": 873752113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.297088,48.235558,-101.297088,48.235558",
+    "geom:latitude":48.235558,
+    "geom:longitude":-101.297088,
+    "iso:country":"US",
+    "sg:address":"5 Summit Dr",
+    "sg:city":"Minot Afb",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 727 3330",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vHGzzUn1HvEg6uwfosC42_48.235558_-101.297088@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297102,
+    "wof:geomhash":"8ecbc7e386f0d3b836d3666425dd3a70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873752113
+        }
+    ],
+    "wof:id":873752113,
+    "wof:lastmodified":1464297102,
+    "wof:name":"Head Start",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -101.297088,
+    48.235558,
+    -101.297088,
+    48.235558
+],
+  "geometry": {"coordinates":[-101.297088,48.235558],"type":"Point"}
+}

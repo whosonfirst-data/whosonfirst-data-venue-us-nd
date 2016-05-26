@@ -1,0 +1,87 @@
+{
+  "id": 873555783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.81947,46.879487,-96.81947,46.879487",
+    "geom:latitude":46.879487,
+    "geom:longitude":-96.81947,
+    "iso:country":"US",
+    "sg:address":"2401 3rd Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 280 2050",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "door",
+        "gate",
+        "operating",
+        "devices"
+    ],
+    "sg:website":"www.weselldoors.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sovmM0B7PhpUzCLFkgDyv_46.879487_-96.819470@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294447,
+    "wof:geomhash":"e85cb59e07b17633b379ba81e8c022b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873555783
+        }
+    ],
+    "wof:id":873555783,
+    "wof:lastmodified":1464294447,
+    "wof:name":"D & M Industries Inc",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "door",
+        "gate",
+        "operating",
+        "devices"
+    ]
+},
+  "bbox": [
+    -96.81947,
+    46.879487,
+    -96.81947,
+    46.879487
+],
+  "geometry": {"coordinates":[-96.81947,46.879487],"type":"Point"}
+}

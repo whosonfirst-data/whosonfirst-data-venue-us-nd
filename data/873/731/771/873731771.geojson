@@ -1,0 +1,75 @@
+{
+  "id": 873731771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.803359,46.875214,-96.803359,46.875214",
+    "geom:latitude":46.875214,
+    "geom:longitude":-96.803359,
+    "iso:country":"US",
+    "sg:address":"1402 Main Ave",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 356 7883",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jbv5UVPrdJ8NV2EHcdxhl_46.875214_-96.803359@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296801,
+    "wof:geomhash":"a210c38ff58dc4f203cb8cb5535ca727",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873731771
+        }
+    ],
+    "wof:id":873731771,
+    "wof:lastmodified":1464296801,
+    "wof:name":"F M Intl Food",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -96.803359,
+    46.875214,
+    -96.803359,
+    46.875214
+],
+  "geometry": {"coordinates":[-96.803359,46.875214],"type":"Point"}
+}

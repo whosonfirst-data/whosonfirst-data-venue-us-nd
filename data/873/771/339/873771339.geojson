@@ -1,0 +1,73 @@
+{
+  "id": 873771339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.297066,48.233878,-101.297066,48.233878",
+    "geom:latitude":48.233878,
+    "geom:longitude":-101.297066,
+    "iso:country":"US",
+    "sg:address":"211 Summit Dr",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 723 3484",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "national",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47R3JNidIqfuGzWvd3v1jY_48.233878_-101.297066@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297382,
+    "wof:geomhash":"699fabf8ff436169564ee054f69b2cac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873771339
+        }
+    ],
+    "wof:id":873771339,
+    "wof:lastmodified":1464297382,
+    "wof:name":"Minot Afb",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "security"
+    ]
+},
+  "bbox": [
+    -101.297066,
+    48.233878,
+    -101.297066,
+    48.233878
+],
+  "geometry": {"coordinates":[-101.297066,48.233878],"type":"Point"}
+}

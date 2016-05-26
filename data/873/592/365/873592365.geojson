@@ -1,0 +1,66 @@
+{
+  "id": 873592365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.305492,48.219235,-101.305492,48.219235",
+    "geom:latitude":48.219235,
+    "geom:longitude":-101.305492,
+    "iso:country":"US",
+    "sg:address":"1517 9th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 9510",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47nXC7X4DtO7mWt4Xgv4If_48.219235_-101.305492@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294863,
+    "wof:geomhash":"5a3e89e18f017451a2dd93f2d9e8aa8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873592365
+        }
+    ],
+    "wof:id":873592365,
+    "wof:lastmodified":1464294863,
+    "wof:name":"Clausen Creations",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.305492,
+    48.219235,
+    -101.305492,
+    48.219235
+],
+  "geometry": {"coordinates":[-101.305492,48.219235],"type":"Point"}
+}

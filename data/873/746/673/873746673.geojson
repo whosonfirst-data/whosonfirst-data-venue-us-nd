@@ -1,0 +1,73 @@
+{
+  "id": 873746673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.758641,46.802664,-100.758641,46.802664",
+    "geom:latitude":46.802664,
+    "geom:longitude":-100.758641,
+    "iso:country":"US",
+    "sg:address":"1922 E Sweet Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 3998",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZqDHp22AWv8d4uMSheIwf_46.802664_-100.758641@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297034,
+    "wof:geomhash":"cb058552d045896f281deca080497286",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873746673
+        }
+    ],
+    "wof:id":873746673,
+    "wof:lastmodified":1464297034,
+    "wof:name":"Mid-Dakota Masonry & Concrete",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.758641,
+    46.802664,
+    -100.758641,
+    46.802664
+],
+  "geometry": {"coordinates":[-100.758641,46.802664],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873760215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.032772,47.9266,-97.032772,47.9266",
+    "geom:latitude":47.9266,
+    "geom:longitude":-97.032772,
+    "iso:country":"US",
+    "sg:address":"108 N 3rd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 7789",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69a3VRDQOXjKg4s2blHduu_47.926600_-97.032772@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297209,
+    "wof:geomhash":"e08caaef193273f88d8d78fc3aa60c1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873760215
+        }
+    ],
+    "wof:id":873760215,
+    "wof:lastmodified":1464297209,
+    "wof:name":"Third Street Cafe",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.032772,
+    47.9266,
+    -97.032772,
+    47.9266
+],
+  "geometry": {"coordinates":[-97.03277199999999,47.9266],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873682179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.088187,47.931701,-97.088187,47.931701",
+    "geom:latitude":47.931701,
+    "geom:longitude":-97.088187,
+    "iso:country":"US",
+    "sg:address":"1215 N 42nd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 8030",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "consultant",
+        "planning",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lEKfi9eodJM1B92LHhEQ8_47.931701_-97.088187@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296059,
+    "wof:geomhash":"b1a9d5615122919484031020ba1ae793",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873682179
+        }
+    ],
+    "wof:id":873682179,
+    "wof:lastmodified":1464296059,
+    "wof:name":"Waddell & Reed Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "planning",
+        "financial"
+    ]
+},
+  "bbox": [
+    -97.088187,
+    47.931701,
+    -97.088187,
+    47.931701
+],
+  "geometry": {"coordinates":[-97.088187,47.931701],"type":"Point"}
+}

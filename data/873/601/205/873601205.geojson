@@ -1,0 +1,71 @@
+{
+  "id": 873601205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.287665,48.243016,-101.287665,48.243016",
+    "geom:latitude":48.243016,
+    "geom:longitude":-101.287665,
+    "iso:country":"US",
+    "sg:address":"614 3rd St NE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 4036",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uvovIQKuUhzU53rhGXKIf_48.243016_-101.287665@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295000,
+    "wof:geomhash":"da75202156ca8fc6f0dd52d42238f09b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873601205
+        }
+    ],
+    "wof:id":873601205,
+    "wof:lastmodified":1464295000,
+    "wof:name":"On The Rocks",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -101.287665,
+    48.243016,
+    -101.287665,
+    48.243016
+],
+  "geometry": {"coordinates":[-101.287665,48.243016],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873567701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.081069,47.922277,-97.081069,47.922277",
+    "geom:latitude":47.922277,
+    "geom:longitude":-97.081069,
+    "iso:country":"US",
+    "sg:address":"500 Stanford Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 2741",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "state",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7M4ZTfi0r520tGE6BSQgrj_47.922277_-97.081069@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294583,
+    "wof:geomhash":"5e776d660b5625e6d074b94415eedc1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873567701
+        }
+    ],
+    "wof:id":873567701,
+    "wof:lastmodified":1464294583,
+    "wof:name":"Deafblind Svc Project",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "resource"
+    ]
+},
+  "bbox": [
+    -97.081069,
+    47.922277,
+    -97.081069,
+    47.922277
+],
+  "geometry": {"coordinates":[-97.081069,47.922277],"type":"Point"}
+}

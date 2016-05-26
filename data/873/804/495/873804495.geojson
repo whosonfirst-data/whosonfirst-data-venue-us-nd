@@ -1,0 +1,86 @@
+{
+  "id": 873804495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.825646,46.857046,-96.825646,46.857046",
+    "geom:latitude":46.857046,
+    "geom:longitude":-96.825646,
+    "iso:country":"US",
+    "sg:address":"2843 Southgate Dr S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 5764",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "manufacturer",
+        "bottler",
+        "bottles-wholesale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5b2heF25WrctxZl2mpHMY7_46.857046_-96.825646@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297828,
+    "wof:geomhash":"ebff9f75ffb67a6ebe1a9e5cfe6f1ec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873804495
+        }
+    ],
+    "wof:id":873804495,
+    "wof:lastmodified":1464297828,
+    "wof:name":"Beverage Control & Accounting",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "manufacturer",
+        "bottler",
+        "bottles-wholesale"
+    ]
+},
+  "bbox": [
+    -96.825646,
+    46.857046,
+    -96.825646,
+    46.857046
+],
+  "geometry": {"coordinates":[-96.82564600000001,46.857046],"type":"Point"}
+}

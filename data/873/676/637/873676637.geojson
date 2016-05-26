@@ -1,0 +1,71 @@
+{
+  "id": 873676637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.095882,47.912771,-97.095882,47.912771",
+    "geom:latitude":47.912771,
+    "geom:longitude":-97.095882,
+    "iso:country":"US",
+    "sg:address":"819 S 46th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 6211",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "bottler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QHlivRqliVwwrbiYcZt6D_47.912771_-97.095882@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295903,
+    "wof:geomhash":"ba2020b9229c3936048b5dfc85f4bc9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873676637
+        }
+    ],
+    "wof:id":873676637,
+    "wof:lastmodified":1464295903,
+    "wof:name":"Coca-Cola Bottling Co",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bottler"
+    ]
+},
+  "bbox": [
+    -97.095882,
+    47.912771,
+    -97.095882,
+    47.912771
+],
+  "geometry": {"coordinates":[-97.095882,47.912771],"type":"Point"}
+}

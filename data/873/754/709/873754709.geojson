@@ -1,0 +1,71 @@
+{
+  "id": 873754709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.302963,48.210732,-101.302963,48.210732",
+    "geom:latitude":48.210732,
+    "geom:longitude":-101.302963,
+    "iso:country":"US",
+    "sg:address":"600 20th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 8199",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aXYiy2BKWGHqiyGg2MpNM_48.210732_-101.302963@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297141,
+    "wof:geomhash":"d18ebbb590a16b3d5004c1262b4cd372",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873754709
+        }
+    ],
+    "wof:id":873754709,
+    "wof:lastmodified":1464297141,
+    "wof:name":"Blondie Hair Salon Inc",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -101.302963,
+    48.210732,
+    -101.302963,
+    48.210732
+],
+  "geometry": {"coordinates":[-101.30296300000001,48.210732],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873588505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.763117,46.805247,-100.763117,46.805247",
+    "geom:latitude":46.805247,
+    "geom:longitude":-100.763117,
+    "iso:country":"US",
+    "sg:address":"1730 E Main Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 2681",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TZ2DWFomzFXQcuq6MKDKz_46.805247_-100.763117@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294812,
+    "wof:geomhash":"61deeb780dfb14a36ea823eb19d5f840",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873588505
+        }
+    ],
+    "wof:id":873588505,
+    "wof:lastmodified":1464294812,
+    "wof:name":"NAPA Auto Parts",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -100.763117,
+    46.805247,
+    -100.763117,
+    46.805247
+],
+  "geometry": {"coordinates":[-100.76311699999999,46.805247],"type":"Point"}
+}

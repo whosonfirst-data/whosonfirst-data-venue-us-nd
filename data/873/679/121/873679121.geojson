@@ -1,0 +1,79 @@
+{
+  "id": 873679121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.845872,46.830186,-96.845872,46.830186",
+    "geom:latitude":46.830186,
+    "geom:longitude":-96.845872,
+    "iso:country":"US",
+    "sg:address":"3311 39th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 277 8700",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877355,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70DroqnfsNKMBtiyOBFlgY_46.830186_-96.845872@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295970,
+    "wof:geomhash":"7c825d7be9e4421e17b5149eefbf8fbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877355,
+            "region_id":85688525,
+            "venue_id":873679121
+        }
+    ],
+    "wof:id":873679121,
+    "wof:lastmodified":1464295970,
+    "wof:name":"Northland Limited",
+    "wof:parent_id":85877355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "plate"
+    ]
+},
+  "bbox": [
+    -96.845872,
+    46.830186,
+    -96.845872,
+    46.830186
+],
+  "geometry": {"coordinates":[-96.845872,46.830186],"type":"Point"}
+}

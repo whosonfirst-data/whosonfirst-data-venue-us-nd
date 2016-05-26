@@ -1,0 +1,77 @@
+{
+  "id": 873714415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.78951,46.884598,-96.78951,46.884598",
+    "geom:latitude":46.884598,
+    "geom:longitude":-96.78951,
+    "iso:country":"US",
+    "sg:address":"702 7th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 237 0499",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534465,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RRibmZmVpAy9dc2ARr0lt_46.884598_-96.789510@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296574,
+    "wof:geomhash":"29bcc9227e69e115291f7c3af37f67e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534465,
+            "region_id":85688525,
+            "venue_id":873714415
+        }
+    ],
+    "wof:id":873714415,
+    "wof:lastmodified":1464296574,
+    "wof:name":"Rodenburg & Torok",
+    "wof:parent_id":420534465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.78951,
+    46.884598,
+    -96.78951,
+    46.884598
+],
+  "geometry": {"coordinates":[-96.78951000000001,46.884598],"type":"Point"}
+}

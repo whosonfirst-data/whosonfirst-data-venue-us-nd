@@ -1,0 +1,67 @@
+{
+  "id": 873785015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.881898,48.046325,-97.881898,48.046325",
+    "geom:latitude":48.046325,
+    "geom:longitude":-97.881898,
+    "iso:country":"US",
+    "sg:address":"2564 49th St NE",
+    "sg:city":"Niagara",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 397 5270",
+    "sg:postcode":"58266",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "corn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iNmysDL9X2i7HHpVgbRS1_48.046325_-97.881898@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297556,
+    "wof:geomhash":"72d6d9b85b6134ed44ac447872e38a98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873785015
+        }
+    ],
+    "wof:id":873785015,
+    "wof:lastmodified":1464297556,
+    "wof:name":"Leonard Wolfgram",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "corn"
+    ]
+},
+  "bbox": [
+    -97.881898,
+    48.046325,
+    -97.881898,
+    48.046325
+],
+  "geometry": {"coordinates":[-97.88189800000001,48.046325],"type":"Point"}
+}

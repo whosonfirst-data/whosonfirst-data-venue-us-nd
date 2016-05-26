@@ -1,0 +1,73 @@
+{
+  "id": 873536669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.31322,48.249669,-101.31322,48.249669",
+    "geom:latitude":48.249669,
+    "geom:longitude":-101.31322,
+    "iso:country":"US",
+    "sg:address":"6820 14th Ave NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 721 5650",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "association",
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43m5d25g7bXud2UInUFKb6_48.249669_-101.313220@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294221,
+    "wof:geomhash":"4f634f9f0dde9843593a16bf6eba80f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873536669
+        }
+    ],
+    "wof:id":873536669,
+    "wof:lastmodified":1464294221,
+    "wof:name":"North Dakota Emergency Medical",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "association",
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -101.31322,
+    48.249669,
+    -101.31322,
+    48.249669
+],
+  "geometry": {"coordinates":[-101.31322,48.249669],"type":"Point"}
+}

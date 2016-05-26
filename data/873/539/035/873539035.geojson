@@ -1,0 +1,71 @@
+{
+  "id": 873539035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.734557,46.811559,-100.734557,46.811559",
+    "geom:latitude":46.811559,
+    "geom:longitude":-100.734557,
+    "iso:country":"US",
+    "sg:address":"701 Channel Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 9904",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "sprinkler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5P5w1B6ngjau54AWb7ZYbo_46.811559_-100.734557@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294250,
+    "wof:geomhash":"8454da387bf61333b1b2e372a8a16cc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873539035
+        }
+    ],
+    "wof:id":873539035,
+    "wof:lastmodified":1464294250,
+    "wof:name":"Viking Automatic Sprinkler Co",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sprinkler"
+    ]
+},
+  "bbox": [
+    -100.734557,
+    46.811559,
+    -100.734557,
+    46.811559
+],
+  "geometry": {"coordinates":[-100.734557,46.811559],"type":"Point"}
+}

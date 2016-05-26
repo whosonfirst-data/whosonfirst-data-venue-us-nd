@@ -1,0 +1,75 @@
+{
+  "id": 873621519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.046444,47.922249,-97.046444,47.922249",
+    "geom:latitude":47.922249,
+    "geom:longitude":-97.046444,
+    "iso:country":"US",
+    "sg:address":"1301 University Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 3449",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Z5rElaGOYEvEfqDQ2nBKX_47.922249_-97.046444@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295266,
+    "wof:geomhash":"bfe51219b49dd0b1cd8440b668958255",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873621519
+        }
+    ],
+    "wof:id":873621519,
+    "wof:lastmodified":1464295266,
+    "wof:name":"Mark's Parking Lot Maintenance",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -97.046444,
+    47.922249,
+    -97.046444,
+    47.922249
+],
+  "geometry": {"coordinates":[-97.04644399999999,47.922249],"type":"Point"}
+}

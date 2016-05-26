@@ -1,0 +1,71 @@
+{
+  "id": 873555583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.643974,48.125569,-97.643974,48.125569",
+    "geom:latitude":48.125569,
+    "geom:longitude":-97.643974,
+    "iso:country":"US",
+    "sg:address":"3125 38th St NE",
+    "sg:city":"Inkster",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 000 1111",
+    "sg:postcode":"58244",
+    "sg:province":"ND",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OD7DbHl2IiimLhIneXmuw_48.125569_-97.643974@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294444,
+    "wof:geomhash":"ab557a9b8fe02b61dbf82ba579f539f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873555583
+        }
+    ],
+    "wof:id":873555583,
+    "wof:lastmodified":1464294444,
+    "wof:name":"Inkster Fire Dept",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -97.643974,
+    48.125569,
+    -97.643974,
+    48.125569
+],
+  "geometry": {"coordinates":[-97.643974,48.125569],"type":"Point"}
+}

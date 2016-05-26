@@ -1,0 +1,75 @@
+{
+  "id": 873693669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.102786,47.92551,-97.102786,47.92551",
+    "geom:latitude":47.92551,
+    "geom:longitude":-97.102786,
+    "iso:country":"US",
+    "sg:address":"533 N 51st St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 740 2341",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "asbestos",
+        "removal",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yeGrjmxUE9WTUGeSoRoit_47.925510_-97.102786@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296335,
+    "wof:geomhash":"4ae9267cdd3539f439a7b665682a4f4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873693669
+        }
+    ],
+    "wof:id":873693669,
+    "wof:lastmodified":1464296335,
+    "wof:name":"Building Systems Corp",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asbestos",
+        "removal",
+        "general"
+    ]
+},
+  "bbox": [
+    -97.102786,
+    47.92551,
+    -97.102786,
+    47.92551
+],
+  "geometry": {"coordinates":[-97.10278599999999,47.92551],"type":"Point"}
+}

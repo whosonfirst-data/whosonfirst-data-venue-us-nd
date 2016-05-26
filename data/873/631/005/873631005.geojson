@@ -1,0 +1,73 @@
+{
+  "id": 873631005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.755926,46.812343,-100.755926,46.812343",
+    "geom:latitude":46.812343,
+    "geom:longitude":-100.755926,
+    "iso:country":"US",
+    "sg:address":"727 N 24th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 6755",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2d4g2RyOt1NzT7U92jBKTV_46.812343_-100.755926@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295375,
+    "wof:geomhash":"b4e07666bfa958c8feea6b701d4cfb1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873631005
+        }
+    ],
+    "wof:id":873631005,
+    "wof:lastmodified":1464295375,
+    "wof:name":"Shaklee Distrubuter",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -100.755926,
+    46.812343,
+    -100.755926,
+    46.812343
+],
+  "geometry": {"coordinates":[-100.755926,46.812343],"type":"Point"}
+}

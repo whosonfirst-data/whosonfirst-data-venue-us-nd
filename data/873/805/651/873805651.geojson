@@ -1,0 +1,80 @@
+{
+  "id": 873805651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.566559,47.734243,-97.566559,47.734243",
+    "geom:latitude":47.734243,
+    "geom:longitude":-97.566559,
+    "iso:country":"US",
+    "sg:address":"8 N Main St",
+    "sg:city":"Northwood",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 587 6121",
+    "sg:postcode":"58267",
+    "sg:province":"ND",
+    "sg:tags":[
+        "attorney",
+        "practice",
+        "elder",
+        "real estate",
+        "law"
+    ],
+    "sg:website":"http://www.uglemlaw.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jSNpmjvwCygUvQCUgChx4_47.734243_-97.566559@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297846,
+    "wof:geomhash":"650fab4eaa12813f35850ee1237dc580",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873805651
+        }
+    ],
+    "wof:id":873805651,
+    "wof:lastmodified":1464297846,
+    "wof:name":"Uglem Law, P.C.",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney",
+        "practice",
+        "elder",
+        "real estate",
+        "law"
+    ]
+},
+  "bbox": [
+    -97.566559,
+    47.734243,
+    -97.566559,
+    47.734243
+],
+  "geometry": {"coordinates":[-97.566559,47.734243],"type":"Point"}
+}

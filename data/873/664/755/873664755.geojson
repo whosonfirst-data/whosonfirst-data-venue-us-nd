@@ -1,0 +1,73 @@
+{
+  "id": 873664755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.770968,46.802054,-100.770968,46.802054",
+    "geom:latitude":46.802054,
+    "geom:longitude":-100.770968,
+    "iso:country":"US",
+    "sg:address":"313 S 14th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 8261",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gzRAl39mPhGmEdRfQNcJo_46.802054_-100.770968@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295747,
+    "wof:geomhash":"98e7cbd069df3da83230f4126f429f72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873664755
+        }
+    ],
+    "wof:id":873664755,
+    "wof:lastmodified":1464295747,
+    "wof:name":"Twin City Taxidermy",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "establishment"
+    ]
+},
+  "bbox": [
+    -100.770968,
+    46.802054,
+    -100.770968,
+    46.802054
+],
+  "geometry": {"coordinates":[-100.770968,46.802054],"type":"Point"}
+}

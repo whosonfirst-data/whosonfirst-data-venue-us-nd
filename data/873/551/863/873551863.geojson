@@ -1,0 +1,71 @@
+{
+  "id": 873551863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.229567,48.229226,-101.229567,48.229226",
+    "geom:latitude":48.229226,
+    "geom:longitude":-101.229567,
+    "iso:country":"US",
+    "sg:address":"4215 Burdick Expy E",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 6641",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YnbBX9j0roOjkGR1YRERJ_48.229226_-101.229567@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294398,
+    "wof:geomhash":"e87722611e2dc5e77ceda42a7a456bfd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873551863
+        }
+    ],
+    "wof:id":873551863,
+    "wof:lastmodified":1464294398,
+    "wof:name":"Souris Basin Planning Council",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -101.229567,
+    48.229226,
+    -101.229567,
+    48.229226
+],
+  "geometry": {"coordinates":[-101.229567,48.229226],"type":"Point"}
+}

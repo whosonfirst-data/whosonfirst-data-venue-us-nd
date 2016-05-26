@@ -1,0 +1,73 @@
+{
+  "id": 873622339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.903956,46.794,-96.903956,46.794",
+    "geom:latitude":46.794,
+    "geom:longitude":-96.903956,
+    "iso:country":"US",
+    "sg:address":"6927 Riverdale Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 6787",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "food",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QrzC2kqv9fdR5wKxwJuiv_46.794000_-96.903956@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295274,
+    "wof:geomhash":"d1a7c88c5fe0411f7451b9095a329d73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873622339
+        }
+    ],
+    "wof:id":873622339,
+    "wof:lastmodified":1464295274,
+    "wof:name":"French & Assoc",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "broker"
+    ]
+},
+  "bbox": [
+    -96.903956,
+    46.794,
+    -96.903956,
+    46.794
+],
+  "geometry": {"coordinates":[-96.90395599999999,46.794],"type":"Point"}
+}

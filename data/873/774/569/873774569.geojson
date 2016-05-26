@@ -1,0 +1,79 @@
+{
+  "id": 873774569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.899868,46.867098,-96.899868,46.867098",
+    "geom:latitude":46.867098,
+    "geom:longitude":-96.899868,
+    "iso:country":"US",
+    "sg:address":"1005 1st St",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 3351",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "sg:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nbpqBXgORo8k8pVnaQMTV_46.867098_-96.899868@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297421,
+    "wof:geomhash":"72f82f3ef0b1c8d95c97af0989637c61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873774569
+        }
+    ],
+    "wof:id":873774569,
+    "wof:lastmodified":1464297421,
+    "wof:name":"Head Start",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -96.899868,
+    46.867098,
+    -96.899868,
+    46.867098
+],
+  "geometry": {"coordinates":[-96.899868,46.867098],"type":"Point"}
+}

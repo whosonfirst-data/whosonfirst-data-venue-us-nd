@@ -1,0 +1,77 @@
+{
+  "id": 873549851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.809866,46.86882,-96.809866,46.86882",
+    "geom:latitude":46.86882,
+    "geom:longitude":-96.809866,
+    "iso:country":"US",
+    "sg:address":"1913 6th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 280 2998",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877331,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aDzUythHrDFIyjX8EKLaQ_46.868820_-96.809866@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294376,
+    "wof:geomhash":"580f729aa3495d2993fcd1abd88f4688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877331,
+            "region_id":85688525,
+            "venue_id":873549851
+        }
+    ],
+    "wof:id":873549851,
+    "wof:lastmodified":1464294376,
+    "wof:name":"Ross Zink Construction",
+    "wof:parent_id":85877331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.809866,
+    46.86882,
+    -96.809866,
+    46.86882
+],
+  "geometry": {"coordinates":[-96.809866,46.86882],"type":"Point"}
+}

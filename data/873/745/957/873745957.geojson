@@ -1,0 +1,75 @@
+{
+  "id": 873745957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.763001,46.790131,-100.763001,46.790131",
+    "geom:latitude":46.790131,
+    "geom:longitude":-100.763001,
+    "iso:country":"US",
+    "sg:address":"1400 Airport Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 224 0100",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "lawn",
+        "s",
+        "garden"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Li50yywQ4SneEVTgdvcsQ_46.790131_-100.763001@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297025,
+    "wof:geomhash":"26a57472ac34f0dfe126933e02d669bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873745957
+        }
+    ],
+    "wof:id":873745957,
+    "wof:lastmodified":1464297025,
+    "wof:name":"S & B Landscaping & Nursery",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "s",
+        "garden"
+    ]
+},
+  "bbox": [
+    -100.763001,
+    46.790131,
+    -100.763001,
+    46.790131
+],
+  "geometry": {"coordinates":[-100.763001,46.790131],"type":"Point"}
+}

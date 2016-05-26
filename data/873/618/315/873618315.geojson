@@ -1,0 +1,73 @@
+{
+  "id": 873618315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.054118,47.914363,-97.054118,47.914363",
+    "geom:latitude":47.914363,
+    "geom:longitude":-97.054118,
+    "iso:country":"US",
+    "sg:address":"702 S 19th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 6770",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "treatment",
+        "skin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_705SxgjtLBQvfrZFb0QtCK_47.914363_-97.054118@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295233,
+    "wof:geomhash":"71d88bb703d50b80c035f8837477c5eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873618315
+        }
+    ],
+    "wof:id":873618315,
+    "wof:lastmodified":1464295233,
+    "wof:name":"Nutriance Clinical Skin Thrpy",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "treatment",
+        "skin"
+    ]
+},
+  "bbox": [
+    -97.054118,
+    47.914363,
+    -97.054118,
+    47.914363
+],
+  "geometry": {"coordinates":[-97.054118,47.914363],"type":"Point"}
+}

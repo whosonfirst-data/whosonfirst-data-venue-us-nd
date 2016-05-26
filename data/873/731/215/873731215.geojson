@@ -1,0 +1,71 @@
+{
+  "id": 873731215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.30412,48.247166,-101.30412,48.247166",
+    "geom:latitude":48.247166,
+    "geom:longitude":-101.30412,
+    "iso:country":"US",
+    "sg:address":"707 11th Ave NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 5020",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0O9P4p7tpBmc8GHaMxrPes_48.247166_-101.304120@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296794,
+    "wof:geomhash":"1bc06f767da9c800435bbc2742518ae1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873731215
+        }
+    ],
+    "wof:id":873731215,
+    "wof:lastmodified":1464296794,
+    "wof:name":"Dokken's Laboratories",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -101.30412,
+    48.247166,
+    -101.30412,
+    48.247166
+],
+  "geometry": {"coordinates":[-101.30412,48.247166],"type":"Point"}
+}

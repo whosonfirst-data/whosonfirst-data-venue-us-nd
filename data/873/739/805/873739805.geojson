@@ -1,0 +1,79 @@
+{
+  "id": 873739805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.836034,46.811963,-96.836034,46.811963",
+    "geom:latitude":46.811963,
+    "geom:longitude":-96.836034,
+    "iso:country":"US",
+    "sg:address":"3542 46th Ave SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 306 3575",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877333,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5K3nHVRrIT0ijSw4opZsUn_46.811963_-96.836034@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296917,
+    "wof:geomhash":"4b9036e03a6e6c2af972e8ac29981a5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877333,
+            "region_id":85688525,
+            "venue_id":873739805
+        }
+    ],
+    "wof:id":873739805,
+    "wof:lastmodified":1464296917,
+    "wof:name":"All-Terrain Grounds Mntnc",
+    "wof:parent_id":85877333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ]
+},
+  "bbox": [
+    -96.836034,
+    46.811963,
+    -96.836034,
+    46.811963
+],
+  "geometry": {"coordinates":[-96.836034,46.811963],"type":"Point"}
+}

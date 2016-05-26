@@ -1,0 +1,77 @@
+{
+  "id": 873749451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.04197,47.896736,-97.04197,47.896736",
+    "geom:latitude":47.896736,
+    "geom:longitude":-97.04197,
+    "iso:country":"US",
+    "sg:address":"1001 24th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 8552",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.lutheransocialservices.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cnXWPZ3ltskicIr4YpqvU_47.896736_-97.041970@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297067,
+    "wof:geomhash":"0d134c59888148fb40979bc908325bae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873749451
+        }
+    ],
+    "wof:id":873749451,
+    "wof:lastmodified":1464297067,
+    "wof:name":"Center For New Americans LSS",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -97.04197,
+    47.896736,
+    -97.04197,
+    47.896736
+],
+  "geometry": {"coordinates":[-97.04197000000001,47.896736],"type":"Point"}
+}

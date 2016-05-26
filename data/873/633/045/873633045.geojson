@@ -1,0 +1,79 @@
+{
+  "id": 873633045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.821075,46.845914,-96.821075,46.845914",
+    "geom:latitude":46.845914,
+    "geom:longitude":-96.821075,
+    "iso:country":"US",
+    "sg:address":"2215 18th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 364 1777",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "aid",
+        "first",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534475,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZBbTuTPHbe9q69cQIYejZ_46.845914_-96.821075@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295400,
+    "wof:geomhash":"c8690bacb453a2ec1aed58a8c7f58b51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534475,
+            "region_id":85688525,
+            "venue_id":873633045
+        }
+    ],
+    "wof:id":873633045,
+    "wof:lastmodified":1464295400,
+    "wof:name":"First Line Medical",
+    "wof:parent_id":420534475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aid",
+        "first",
+        "supply"
+    ]
+},
+  "bbox": [
+    -96.821075,
+    46.845914,
+    -96.821075,
+    46.845914
+],
+  "geometry": {"coordinates":[-96.82107499999999,46.845914],"type":"Point"}
+}

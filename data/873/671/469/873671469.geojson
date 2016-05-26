@@ -1,0 +1,75 @@
+{
+  "id": 873671469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.823329,46.875512,-96.823329,46.875512",
+    "geom:latitude":46.875512,
+    "geom:longitude":-96.823329,
+    "iso:country":"US",
+    "sg:address":"66 28th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 4110",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "sandblasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64Lg7IFvyZKo5PNWlr2NjT_46.875512_-96.823329@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295816,
+    "wof:geomhash":"d0d3c044bb535c30e25144cd8e4a838f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873671469
+        }
+    ],
+    "wof:id":873671469,
+    "wof:lastmodified":1464295816,
+    "wof:name":"Schefter's Sandblasting Paint",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandblasting"
+    ]
+},
+  "bbox": [
+    -96.823329,
+    46.875512,
+    -96.823329,
+    46.875512
+],
+  "geometry": {"coordinates":[-96.823329,46.875512],"type":"Point"}
+}

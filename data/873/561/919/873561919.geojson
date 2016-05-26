@@ -1,0 +1,66 @@
+{
+  "id": 873561919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.298748,48.2201,-101.298748,48.2201",
+    "geom:latitude":48.2201,
+    "geom:longitude":-101.298748,
+    "iso:country":"US",
+    "sg:address":"225 15th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 8882",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SkJn8BGjimpW75ldzPdr0_48.220100_-101.298748@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294520,
+    "wof:geomhash":"e59e2e44ca5660f4144e443492bbdbb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873561919
+        }
+    ],
+    "wof:id":873561919,
+    "wof:lastmodified":1464294520,
+    "wof:name":"Off Broadway Laundromat",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.298748,
+    48.2201,
+    -101.298748,
+    48.2201
+],
+  "geometry": {"coordinates":[-101.298748,48.2201],"type":"Point"}
+}

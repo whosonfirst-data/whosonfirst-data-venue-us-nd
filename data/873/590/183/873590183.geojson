@@ -1,0 +1,81 @@
+{
+  "id": 873590183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.474532,47.063732,-100.474532,47.063732",
+    "geom:latitude":47.063732,
+    "geom:longitude":-100.474532,
+    "iso:country":"US",
+    "sg:address":"23350 197th St NE",
+    "sg:city":"Baldwin",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 286 7345",
+    "sg:postcode":"58521",
+    "sg:province":"ND",
+    "sg:tags":[
+        "wheat",
+        "beef",
+        "cash",
+        "grain",
+        "cattle",
+        "feedlot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kLBYTIf4fK2m0d8m5Qf0m_47.063732_-100.474532@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294833,
+    "wof:geomhash":"20662e0dbb3564af31de650a0fdd13d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873590183
+        }
+    ],
+    "wof:id":873590183,
+    "wof:lastmodified":1464294833,
+    "wof:name":"Marc Sundquist Farms",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wheat",
+        "beef",
+        "cash",
+        "grain",
+        "cattle",
+        "feedlot"
+    ]
+},
+  "bbox": [
+    -100.474532,
+    47.063732,
+    -100.474532,
+    47.063732
+],
+  "geometry": {"coordinates":[-100.474532,47.063732],"type":"Point"}
+}

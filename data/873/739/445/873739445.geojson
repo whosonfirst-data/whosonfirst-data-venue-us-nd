@@ -1,0 +1,71 @@
+{
+  "id": 873739445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.033255,47.908778,-97.033255,47.908778",
+    "geom:latitude":47.908778,
+    "geom:longitude":-97.033255,
+    "iso:country":"US",
+    "sg:address":"1125 Cottonwood St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 3272",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Y9lhFJ48oObOXhDGzsBvm_47.908778_-97.033255@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296913,
+    "wof:geomhash":"cded68fba1cca201b2ce4de236122edb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873739445
+        }
+    ],
+    "wof:id":873739445,
+    "wof:lastmodified":1464296913,
+    "wof:name":"Gifty Grandma's",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -97.033255,
+    47.908778,
+    -97.033255,
+    47.908778
+],
+  "geometry": {"coordinates":[-97.033255,47.908778],"type":"Point"}
+}

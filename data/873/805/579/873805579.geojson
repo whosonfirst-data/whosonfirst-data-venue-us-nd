@@ -1,0 +1,84 @@
+{
+  "id": 873805579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.176878,48.072722,-97.176878,48.072722",
+    "geom:latitude":48.072722,
+    "geom:longitude":-97.176878,
+    "iso:country":"US",
+    "sg:address":"511 8th St",
+    "sg:city":"Manvel",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 696 2219",
+    "sg:postcode":"58256",
+    "sg:province":"ND",
+    "sg:tags":[
+        "churches-catholic-traditional",
+        "churches-catholic"
+    ],
+    "sg:website":"http://www.cathedralofstmary.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MiNTfgmOtUPg1ouM7Owxr_48.072722_-97.176878@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297845,
+    "wof:geomhash":"1b382b534c7e8ae48024ed163b191253",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873805579
+        }
+    ],
+    "wof:id":873805579,
+    "wof:lastmodified":1464297845,
+    "wof:name":"St. Timothy's Church",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-catholic-traditional",
+        "churches-catholic"
+    ]
+},
+  "bbox": [
+    -97.176878,
+    48.072722,
+    -97.176878,
+    48.072722
+],
+  "geometry": {"coordinates":[-97.176878,48.072722],"type":"Point"}
+}

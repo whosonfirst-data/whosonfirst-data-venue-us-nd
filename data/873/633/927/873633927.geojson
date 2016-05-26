@@ -1,0 +1,71 @@
+{
+  "id": 873633927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.132338,48.242458,-101.132338,48.242458",
+    "geom:latitude":48.242458,
+    "geom:longitude":-101.132338,
+    "iso:country":"US",
+    "sg:address":"402 1st Ave NE",
+    "sg:city":"Surrey",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 1994",
+    "sg:postcode":"58785",
+    "sg:province":"ND",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xNe4PXTSw2uGvaQE2rO57_48.242458_-101.132338@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295413,
+    "wof:geomhash":"bddf5d1cb804e6a371aa4c82c0eb3ea5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873633927
+        }
+    ],
+    "wof:id":873633927,
+    "wof:lastmodified":1464295413,
+    "wof:name":"Midwest Home Maintenance",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -101.132338,
+    48.242458,
+    -101.132338,
+    48.242458
+],
+  "geometry": {"coordinates":[-101.132338,48.242458],"type":"Point"}
+}

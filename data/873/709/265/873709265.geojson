@@ -1,0 +1,77 @@
+{
+  "id": 873709265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.821423,46.869786,-96.821423,46.869786",
+    "geom:latitude":46.869786,
+    "geom:longitude":-96.821423,
+    "iso:country":"US",
+    "sg:address":"2730 5th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 0628",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ttaqkqs9J1K9D3eRxVfi9_46.869786_-96.821423@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296510,
+    "wof:geomhash":"dc37d236fd4607e022c12fb2f6923569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873709265
+        }
+    ],
+    "wof:id":873709265,
+    "wof:lastmodified":1464296510,
+    "wof:name":"Hauck & Buchholz Drywall",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.821423,
+    46.869786,
+    -96.821423,
+    46.869786
+],
+  "geometry": {"coordinates":[-96.821423,46.869786],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873683657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.700169,46.764353,-100.700169,46.764353",
+    "geom:latitude":46.764353,
+    "geom:longitude":-100.700169,
+    "iso:country":"US",
+    "sg:address":"3 Santee Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 5129",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "window"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wasgPS3gv7ZbI1h5ZRD7N_46.764353_-100.700169@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296098,
+    "wof:geomhash":"71b17c6ddd6c48500eeea6d2b268271b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873683657
+        }
+    ],
+    "wof:id":873683657,
+    "wof:lastmodified":1464296098,
+    "wof:name":"Crystal Clean Window Svc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "window"
+    ]
+},
+  "bbox": [
+    -100.700169,
+    46.764353,
+    -100.700169,
+    46.764353
+],
+  "geometry": {"coordinates":[-100.700169,46.764353],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 873797059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.818921,46.860476,-96.818921,46.860476",
+    "geom:latitude":46.860476,
+    "geom:longitude":-96.818921,
+    "iso:country":"US",
+    "sg:address":"1326 25th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/fargo/129648-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 347 5578",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534469,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lrxGgmlJo2fcNlQFMzEdQ_46.860476_-96.818921@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297739,
+    "wof:geomhash":"7b6cab3e576d48efd9c5b2490172a18e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534469,
+            "region_id":85688525,
+            "venue_id":873797059
+        }
+    ],
+    "wof:id":873797059,
+    "wof:lastmodified":1464297739,
+    "wof:name":"Subway",
+    "wof:parent_id":420534469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -96.818921,
+    46.860476,
+    -96.818921,
+    46.860476
+],
+  "geometry": {"coordinates":[-96.818921,46.860476],"type":"Point"}
+}

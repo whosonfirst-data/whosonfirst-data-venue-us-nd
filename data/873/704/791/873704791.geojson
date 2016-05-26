@@ -1,0 +1,71 @@
+{
+  "id": 873704791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.023935,47.758001,-97.023935,47.758001",
+    "geom:latitude":47.758001,
+    "geom:longitude":-97.023935,
+    "iso:country":"US",
+    "sg:address":"584 9th St NE",
+    "sg:city":"Thompson",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 599 2258",
+    "sg:postcode":"58278",
+    "sg:province":"ND",
+    "sg:tags":[
+        "advisory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mgSQaNEbbYqNP4X2Zg05F_47.758001_-97.023935@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296454,
+    "wof:geomhash":"08dd26d11491ee5a41425d84bf95c38a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873704791
+        }
+    ],
+    "wof:id":873704791,
+    "wof:lastmodified":1464296454,
+    "wof:name":"Duckstad Financial Services",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory"
+    ]
+},
+  "bbox": [
+    -97.023935,
+    47.758001,
+    -97.023935,
+    47.758001
+],
+  "geometry": {"coordinates":[-97.02393499999999,47.758001],"type":"Point"}
+}

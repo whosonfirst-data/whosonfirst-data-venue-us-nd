@@ -1,0 +1,80 @@
+{
+  "id": 873803679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.794772,46.84405,-96.794772,46.84405",
+    "geom:latitude":46.84405,
+    "geom:longitude":-96.794772,
+    "iso:country":"US",
+    "sg:address":"1008 24th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 1106",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "product",
+        "advertising-promotional",
+        "specialty"
+    ],
+    "sg:website":"http://www.juventours.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534475,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xSrkLVyKYNCkERmQZ4GTn_46.844050_-96.794772@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297818,
+    "wof:geomhash":"1c418f74e86a8418c8cdbe4d8f6c6dd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534475,
+            "region_id":85688525,
+            "venue_id":873803679
+        }
+    ],
+    "wof:id":873803679,
+    "wof:lastmodified":1464297818,
+    "wof:name":"Juven's Tours & Travel",
+    "wof:parent_id":420534475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "advertising-promotional",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -96.794772,
+    46.84405,
+    -96.794772,
+    46.84405
+],
+  "geometry": {"coordinates":[-96.79477199999999,46.84405],"type":"Point"}
+}

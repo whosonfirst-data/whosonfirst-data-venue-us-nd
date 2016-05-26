@@ -1,0 +1,66 @@
+{
+  "id": 873660207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.659056,48.165794,-97.659056,48.165794",
+    "geom:latitude":48.165794,
+    "geom:longitude":-97.659056,
+    "iso:country":"US",
+    "sg:address":"3870 34th Ave NE",
+    "sg:city":"Inkster",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 865 4192",
+    "sg:postcode":"58244",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_163iSKaU2zdO2DbqYcpmHU_48.165794_-97.659056@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295700,
+    "wof:geomhash":"973aabf4332afb2cb853e438e0dd2c82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873660207
+        }
+    ],
+    "wof:id":873660207,
+    "wof:lastmodified":1464295700,
+    "wof:name":"Phoenix Autobody & Refinishing",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.659056,
+    48.165794,
+    -97.659056,
+    48.165794
+],
+  "geometry": {"coordinates":[-97.65905600000001,48.165794],"type":"Point"}
+}

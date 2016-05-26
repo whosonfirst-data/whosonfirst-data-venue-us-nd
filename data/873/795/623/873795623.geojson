@@ -1,0 +1,69 @@
+{
+  "id": 873795623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.469619,48.14914,-97.469619,48.14914",
+    "geom:latitude":48.14914,
+    "geom:longitude":-97.469619,
+    "iso:country":"US",
+    "sg:address":"3295 Johnstown St",
+    "sg:city":"Gilby",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 869 2367",
+    "sg:postcode":"58235",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "irish",
+        "potato"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cVUTgqaKQzTHLSho8XpIe_48.149140_-97.469619@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297722,
+    "wof:geomhash":"8b7df5a8fe0b0f4229421a822f9d181f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873795623
+        }
+    ],
+    "wof:id":873795623,
+    "wof:lastmodified":1464297722,
+    "wof:name":"James Karley",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "irish",
+        "potato"
+    ]
+},
+  "bbox": [
+    -97.469619,
+    48.14914,
+    -97.469619,
+    48.14914
+],
+  "geometry": {"coordinates":[-97.46961899999999,48.14914],"type":"Point"}
+}

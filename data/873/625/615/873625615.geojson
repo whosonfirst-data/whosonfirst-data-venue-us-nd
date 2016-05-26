@@ -1,0 +1,73 @@
+{
+  "id": 873625615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.904246,46.790161,-96.904246,46.790161",
+    "geom:latitude":46.790161,
+    "geom:longitude":-96.904246,
+    "iso:country":"US",
+    "sg:address":"17 Horseshoe Bend",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 367 6742",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YUL6xAm2sY0kOm4TI6Z2e_46.790161_-96.904246@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295317,
+    "wof:geomhash":"1c3a1223a241506abf929480ebae7ef6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873625615
+        }
+    ],
+    "wof:id":873625615,
+    "wof:lastmodified":1464295317,
+    "wof:name":"Que's Landscaping",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.904246,
+    46.790161,
+    -96.904246,
+    46.790161
+],
+  "geometry": {"coordinates":[-96.904246,46.790161],"type":"Point"}
+}

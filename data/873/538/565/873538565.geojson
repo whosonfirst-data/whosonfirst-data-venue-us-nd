@@ -1,0 +1,71 @@
+{
+  "id": 873538565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.763193,46.810405,-100.763193,46.810405",
+    "geom:latitude":46.810405,
+    "geom:longitude":-100.763193,
+    "iso:country":"US",
+    "sg:address":"411 N 19th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 1551",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08J1ja3LCHB2y5EkF5MUyX_46.810405_-100.763193@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294245,
+    "wof:geomhash":"0ac85f169355cd9ae044133be6badb91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873538565
+        }
+    ],
+    "wof:id":873538565,
+    "wof:lastmodified":1464294245,
+    "wof:name":"Heimbucks Family Day Care",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -100.763193,
+    46.810405,
+    -100.763193,
+    46.810405
+],
+  "geometry": {"coordinates":[-100.763193,46.810405],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873627501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.043534,47.903955,-97.043534,47.903955",
+    "geom:latitude":47.903955,
+    "geom:longitude":-97.043534,
+    "iso:country":"US",
+    "sg:address":"1001 17th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 9886",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3774YAlJhpzgpBgOWf1gDp_47.903955_-97.043534@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295335,
+    "wof:geomhash":"fb12d406f27b6d7a658399d006757ffc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873627501
+        }
+    ],
+    "wof:id":873627501,
+    "wof:lastmodified":1464295335,
+    "wof:name":"Holy Family School",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.043534,
+    47.903955,
+    -97.043534,
+    47.903955
+],
+  "geometry": {"coordinates":[-97.04353399999999,47.903955],"type":"Point"}
+}

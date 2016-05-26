@@ -1,0 +1,69 @@
+{
+  "id": 873791519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.771685,48.303186,-101.771685,48.303186",
+    "geom:latitude":48.303186,
+    "geom:longitude":-101.771685,
+    "iso:country":"US",
+    "sg:address":"6501 310th St NW",
+    "sg:city":"Berthold",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 453 3567",
+    "sg:postcode":"58718",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "grain",
+        "cash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UTEVj0yfJ2fLrJccg4c2x_48.303186_-101.771685@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297665,
+    "wof:geomhash":"17ea4314f78092d48655f3a1cc2f6399",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873791519
+        }
+    ],
+    "wof:id":873791519,
+    "wof:lastmodified":1464297665,
+    "wof:name":"Judith Deaver Farm",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "grain",
+        "cash"
+    ]
+},
+  "bbox": [
+    -101.771685,
+    48.303186,
+    -101.771685,
+    48.303186
+],
+  "geometry": {"coordinates":[-101.77168500000001,48.303186],"type":"Point"}
+}

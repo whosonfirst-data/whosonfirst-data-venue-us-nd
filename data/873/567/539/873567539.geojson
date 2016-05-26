@@ -1,0 +1,71 @@
+{
+  "id": 873567539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.845888,46.834876,-96.845888,46.834876",
+    "geom:latitude":46.834876,
+    "geom:longitude":-96.845888,
+    "iso:country":"US",
+    "sg:address":"3101 39th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 281 8200",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:website":"www.dixoninsurance.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877355,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35NFsdtDVpZBX9TJpCj6y1_46.834876_-96.845888@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294581,
+    "wof:geomhash":"6af3c1dc88128d74a6a3bb81a4544a1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877355,
+            "region_id":85688525,
+            "venue_id":873567539
+        }
+    ],
+    "wof:id":873567539,
+    "wof:lastmodified":1464294581,
+    "wof:name":"Dixon Insurance",
+    "wof:parent_id":85877355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.845888,
+    46.834876,
+    -96.845888,
+    46.834876
+],
+  "geometry": {"coordinates":[-96.845888,46.834876],"type":"Point"}
+}

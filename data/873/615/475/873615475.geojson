@@ -1,0 +1,73 @@
+{
+  "id": 873615475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.28274,48.244354,-101.28274,48.244354",
+    "geom:latitude":48.244354,
+    "geom:longitude":-101.28274,
+    "iso:country":"US",
+    "sg:address":"707 8th Ave NE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 4604",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6r0lScZzA0iLvFMZdstt0c_48.244354_-101.282740@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295200,
+    "wof:geomhash":"a6d3d9ca02d114021a3c57bdf926f4f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873615475
+        }
+    ],
+    "wof:id":873615475,
+    "wof:lastmodified":1464295200,
+    "wof:name":"Anderson Dry Wall",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.28274,
+    48.244354,
+    -101.28274,
+    48.244354
+],
+  "geometry": {"coordinates":[-101.28274,48.244354],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873589639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.053505,47.902164,-97.053505,47.902164",
+    "geom:latitude":47.902164,
+    "geom:longitude":-97.053505,
+    "iso:country":"US",
+    "sg:address":"1814 S 19th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 0333",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Nt85lujNwZrJkKbEclKqD_47.902164_-97.053505@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294826,
+    "wof:geomhash":"933a4487c5834874ebfcc05a8434264e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873589639
+        }
+    ],
+    "wof:id":873589639,
+    "wof:lastmodified":1464294826,
+    "wof:name":"Go Bot Word",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.053505,
+    47.902164,
+    -97.053505,
+    47.902164
+],
+  "geometry": {"coordinates":[-97.053505,47.902164],"type":"Point"}
+}

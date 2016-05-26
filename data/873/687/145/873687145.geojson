@@ -1,0 +1,71 @@
+{
+  "id": 873687145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.667932,46.768592,-100.667932,46.768592",
+    "geom:latitude":46.768592,
+    "geom:longitude":-100.667932,
+    "iso:country":"US",
+    "sg:address":"8015 Kittie Ln",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 8517",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JCyrOK26ZLXQV9C4mQufg_46.768592_-100.667932@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296196,
+    "wof:geomhash":"f0bbd1958b60d9f4c60921735fdc2d25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873687145
+        }
+    ],
+    "wof:id":873687145,
+    "wof:lastmodified":1464296196,
+    "wof:name":"A-1 Tree Svc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -100.667932,
+    46.768592,
+    -100.667932,
+    46.768592
+],
+  "geometry": {"coordinates":[-100.66793199999999,46.768592],"type":"Point"}
+}

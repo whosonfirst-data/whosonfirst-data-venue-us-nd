@@ -1,0 +1,71 @@
+{
+  "id": 873669749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.0449,47.927308,-97.0449,47.927308",
+    "geom:latitude":47.927308,
+    "geom:longitude":-97.0449,
+    "iso:country":"US",
+    "sg:address":"702 N Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 4394",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2u4bfaPSMG6FzNSBhnaYPX_47.927308_-97.044900@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295798,
+    "wof:geomhash":"95a5391648e41b39b344a68eab838783",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873669749
+        }
+    ],
+    "wof:id":873669749,
+    "wof:lastmodified":1464295798,
+    "wof:name":"Foresburg Gateway Motors",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -97.0449,
+    47.927308,
+    -97.0449,
+    47.927308
+],
+  "geometry": {"coordinates":[-97.0449,47.927308],"type":"Point"}
+}

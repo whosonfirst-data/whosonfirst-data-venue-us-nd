@@ -1,0 +1,71 @@
+{
+  "id": 873749287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.365912,47.959031,-97.365912,47.959031",
+    "geom:latitude":47.959031,
+    "geom:longitude":-97.365912,
+    "iso:country":"US",
+    "sg:address":"1270 Randolph Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 594 8595",
+    "sg:postcode":"58204",
+    "sg:province":"ND",
+    "sg:tags":[
+        "sewing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HNCmSc5pdfbLNmPbZJnC7_47.959031_-97.365912@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297066,
+    "wof:geomhash":"db124c073300f8de37ef45f142c61bcc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873749287
+        }
+    ],
+    "wof:id":873749287,
+    "wof:lastmodified":1464297066,
+    "wof:name":"Sew Fine Sewing",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sewing"
+    ]
+},
+  "bbox": [
+    -97.365912,
+    47.959031,
+    -97.365912,
+    47.959031
+],
+  "geometry": {"coordinates":[-97.36591199999999,47.959031],"type":"Point"}
+}

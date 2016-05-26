@@ -1,0 +1,66 @@
+{
+  "id": 873637071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.044968,47.907556,-97.044968,47.907556",
+    "geom:latitude":47.907556,
+    "geom:longitude":-97.044968,
+    "iso:country":"US",
+    "sg:address":"1421 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 4764",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Cak3JprQq9UwDtM5ujeO7_47.907556_-97.044968@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295445,
+    "wof:geomhash":"9074a2651582cf1a1d0c92e47767ef50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873637071
+        }
+    ],
+    "wof:id":873637071,
+    "wof:lastmodified":1464295445,
+    "wof:name":"Gramma Butterwick's Restaurant",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.044968,
+    47.907556,
+    -97.044968,
+    47.907556
+],
+  "geometry": {"coordinates":[-97.044968,47.907556],"type":"Point"}
+}

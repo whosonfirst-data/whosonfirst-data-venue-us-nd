@@ -1,0 +1,79 @@
+{
+  "id": 873755027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.832822,46.871169,-96.832822,46.871169",
+    "geom:latitude":46.871169,
+    "geom:longitude":-96.832822,
+    "iso:country":"US",
+    "sg:address":"3342 4th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 478 4418",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "consultant",
+        "energy",
+        "conservation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xrO4KjFDPvn22hcIb4KOO_46.871169_-96.832822@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297145,
+    "wof:geomhash":"ecc3dd3b133fbc5d9a50301689464b1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873755027
+        }
+    ],
+    "wof:id":873755027,
+    "wof:lastmodified":1464297145,
+    "wof:name":"Imaging Resources",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "energy",
+        "conservation"
+    ]
+},
+  "bbox": [
+    -96.832822,
+    46.871169,
+    -96.832822,
+    46.871169
+],
+  "geometry": {"coordinates":[-96.83282199999999,46.871169],"type":"Point"}
+}

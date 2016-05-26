@@ -1,0 +1,78 @@
+{
+  "id": 873803811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.861794,46.858838,-96.861794,46.858838",
+    "geom:latitude":46.858838,
+    "geom:longitude":-96.861794,
+    "iso:country":"US",
+    "sg:address":"1444 45th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 492 2632",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "saving",
+        "commercial"
+    ],
+    "sg:website":"http://bremer.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pGOKIIQeINx60LnTD5kJ2_46.858838_-96.861794@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297819,
+    "wof:geomhash":"7f5d9ca467a48e75082af232b847c720",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873803811
+        }
+    ],
+    "wof:id":873803811,
+    "wof:lastmodified":1464297819,
+    "wof:name":"Bremer Bank",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saving",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -96.861794,
+    46.858838,
+    -96.861794,
+    46.858838
+],
+  "geometry": {"coordinates":[-96.861794,46.858838],"type":"Point"}
+}

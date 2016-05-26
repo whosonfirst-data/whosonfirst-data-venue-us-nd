@@ -1,0 +1,71 @@
+{
+  "id": 873780419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.032885,47.926598,-97.032885,47.926598",
+    "geom:latitude":47.926598,
+    "geom:longitude":-97.032885,
+    "iso:country":"US",
+    "sg:address":"101 N 3rd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 9578",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "elevator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FxfSsEjA9gwdFB83Ix1or_47.926598_-97.032885@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297498,
+    "wof:geomhash":"1402480415f52245565748f01e6c55c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873780419
+        }
+    ],
+    "wof:id":873780419,
+    "wof:lastmodified":1464297498,
+    "wof:name":"Grand Forks Elevator Co",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elevator"
+    ]
+},
+  "bbox": [
+    -97.032885,
+    47.926598,
+    -97.032885,
+    47.926598
+],
+  "geometry": {"coordinates":[-97.03288499999999,47.926598],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873595533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.656096,46.806395,-100.656096,46.806395",
+    "geom:latitude":46.806395,
+    "geom:longitude":-100.656096,
+    "iso:country":"US",
+    "sg:address":"75 Country Club Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 5650",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gqu8caAEqada47qndt9We_46.806395_-100.656096@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294917,
+    "wof:geomhash":"d1637f36dcd7f2bd2fd2147f50a28b09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873595533
+        }
+    ],
+    "wof:id":873595533,
+    "wof:lastmodified":1464294917,
+    "wof:name":"Johnston Farms Lllp",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -100.656096,
+    46.806395,
+    -100.656096,
+    46.806395
+],
+  "geometry": {"coordinates":[-100.65609600000001,46.806395],"type":"Point"}
+}

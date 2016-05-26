@@ -1,0 +1,71 @@
+{
+  "id": 873667975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.088284,47.906907,-97.088284,47.906907",
+    "geom:latitude":47.906907,
+    "geom:longitude":-97.088284,
+    "iso:country":"US",
+    "sg:address":"1200 S 42nd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 2501",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "arena"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3temPE97PJjE13Mql0LiuS_47.906907_-97.088284@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295780,
+    "wof:geomhash":"eca86ef2e4bec325555a0c88c44eb0d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873667975
+        }
+    ],
+    "wof:id":873667975,
+    "wof:lastmodified":1464295780,
+    "wof:name":"Alerus Center",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arena"
+    ]
+},
+  "bbox": [
+    -97.088284,
+    47.906907,
+    -97.088284,
+    47.906907
+],
+  "geometry": {"coordinates":[-97.088284,47.906907],"type":"Point"}
+}

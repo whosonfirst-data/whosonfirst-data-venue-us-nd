@@ -1,0 +1,71 @@
+{
+  "id": 873777749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.787916,46.805551,-100.787916,46.805551",
+    "geom:latitude":46.805551,
+    "geom:longitude":-100.787916,
+    "iso:country":"US",
+    "sg:address":"216 E Main Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 7126",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jN1NFPREl1ESZdZKj02rI_46.805551_-100.787916@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297460,
+    "wof:geomhash":"1f03220c192997900555e833ade76afe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873777749
+        }
+    ],
+    "wof:id":873777749,
+    "wof:lastmodified":1464297460,
+    "wof:name":"Paintballers Paradise",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -100.787916,
+    46.805551,
+    -100.787916,
+    46.805551
+],
+  "geometry": {"coordinates":[-100.787916,46.805551],"type":"Point"}
+}

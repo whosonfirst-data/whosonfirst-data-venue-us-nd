@@ -1,0 +1,70 @@
+{
+  "id": 873739211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.824714,46.865173,-96.824714,46.865173",
+    "geom:latitude":46.865173,
+    "geom:longitude":-96.824714,
+    "iso:country":"US",
+    "sg:address":"1002 28th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 476 0262",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UW8L3RuH0G7Db1l4vupLX_46.865173_-96.824714@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296910,
+    "wof:geomhash":"a3d54a658ece2102c12dd0fe691ae38a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873739211
+        }
+    ],
+    "wof:id":873739211,
+    "wof:lastmodified":1464296910,
+    "wof:name":"Mutual Service Insurance",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.824714,
+    46.865173,
+    -96.824714,
+    46.865173
+],
+  "geometry": {"coordinates":[-96.824714,46.865173],"type":"Point"}
+}

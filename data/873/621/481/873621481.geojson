@@ -1,0 +1,66 @@
+{
+  "id": 873621481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.769308,46.807079,-100.769308,46.807079",
+    "geom:latitude":46.807079,
+    "geom:longitude":-100.769308,
+    "iso:country":"US",
+    "sg:address":"223 N 15th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 224 1017",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mIrLFzWa7VuXkSBJlDmmF_46.807079_-100.769308@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295266,
+    "wof:geomhash":"d6d9974dbcdfb6d5cdabdabf93efa431",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873621481
+        }
+    ],
+    "wof:id":873621481,
+    "wof:lastmodified":1464295266,
+    "wof:name":"Masters Plan Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.769308,
+    46.807079,
+    -100.769308,
+    46.807079
+],
+  "geometry": {"coordinates":[-100.769308,46.807079],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 873622245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.773541,46.825151,-100.773541,46.825151",
+    "geom:latitude":46.825151,
+    "geom:longitude":-100.773541,
+    "iso:country":"US",
+    "sg:address":"1800 N 12th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 1402",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "drinking",
+        "eating",
+        "association"
+    ],
+    "sg:website":"www.wrrestaurants.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aBOWwRE65w5qPYuX4KW03_46.825151_-100.773541@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295273,
+    "wof:geomhash":"2b1103a707498a7c5a16a5eae2247f0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873622245
+        }
+    ],
+    "wof:id":873622245,
+    "wof:lastmodified":1464295273,
+    "wof:name":"Minerva's Restaurant & Bar",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "eating",
+        "association"
+    ]
+},
+  "bbox": [
+    -100.773541,
+    46.825151,
+    -100.773541,
+    46.825151
+],
+  "geometry": {"coordinates":[-100.77354099999999,46.825151],"type":"Point"}
+}

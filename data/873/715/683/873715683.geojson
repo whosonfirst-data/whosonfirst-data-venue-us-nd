@@ -1,0 +1,78 @@
+{
+  "id": 873715683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.238678,48.187903,-101.238678,48.187903",
+    "geom:latitude":48.187903,
+    "geom:longitude":-101.238678,
+    "iso:country":"US",
+    "sg:address":"5211 38th St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 4839",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "saddlery",
+        "harness"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6M1nPeLLwBRQEGwLFwyllC_48.187903_-101.238678@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296589,
+    "wof:geomhash":"fddd1b1067b2e9915d0bd9397304a1ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873715683
+        }
+    ],
+    "wof:id":873715683,
+    "wof:lastmodified":1464296589,
+    "wof:name":"Mac's Saddle Shop",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saddlery",
+        "harness"
+    ]
+},
+  "bbox": [
+    -101.238678,
+    48.187903,
+    -101.238678,
+    48.187903
+],
+  "geometry": {"coordinates":[-101.23867799999999,48.187903],"type":"Point"}
+}

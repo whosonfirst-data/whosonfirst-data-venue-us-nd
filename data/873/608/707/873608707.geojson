@@ -1,0 +1,66 @@
+{
+  "id": 873608707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.810298,46.806778,-100.810298,46.806778",
+    "geom:latitude":46.806778,
+    "geom:longitude":-100.810298,
+    "iso:country":"US",
+    "sg:address":"1152 Summit Blvd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 0275",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Utte2SRIveqG841y3IigJ_46.806778_-100.810298@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295118,
+    "wof:geomhash":"4d73aa1998c9fbb03344b3240358d870",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873608707
+        }
+    ],
+    "wof:id":873608707,
+    "wof:lastmodified":1464295118,
+    "wof:name":"Used Furniture & Hhld Bargains",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.810298,
+    46.806778,
+    -100.810298,
+    46.806778
+],
+  "geometry": {"coordinates":[-100.810298,46.806778],"type":"Point"}
+}

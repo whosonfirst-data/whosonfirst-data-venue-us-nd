@@ -1,0 +1,73 @@
+{
+  "id": 873568059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.04322,47.93236,-97.04322,47.93236",
+    "geom:latitude":47.93236,
+    "geom:longitude":-97.04322,
+    "iso:country":"US",
+    "sg:address":"915 N 3rd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 0813",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yJOB2OSNXdZrWhiRLZGiW_47.932360_-97.043220@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294586,
+    "wof:geomhash":"b34647883e822e5cc9eb0ca07e172a9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873568059
+        }
+    ],
+    "wof:id":873568059,
+    "wof:lastmodified":1464294586,
+    "wof:name":"G F Custom Woodwork Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.04322,
+    47.93236,
+    -97.04322,
+    47.93236
+],
+  "geometry": {"coordinates":[-97.04322000000001,47.93236],"type":"Point"}
+}

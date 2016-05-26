@@ -1,0 +1,71 @@
+{
+  "id": 873703255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.050516,47.900266,-97.050516,47.900266",
+    "geom:latitude":47.900266,
+    "geom:longitude":-97.050516,
+    "iso:country":"US",
+    "sg:address":"1625 20th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 2559",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iaXsuoK55Y51mXTPUSTPr_47.900266_-97.050516@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296438,
+    "wof:geomhash":"59db249d183cc566f5e7bad174a9f4aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873703255
+        }
+    ],
+    "wof:id":873703255,
+    "wof:lastmodified":1464296438,
+    "wof:name":"Colfax Log Cabins",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -97.050516,
+    47.900266,
+    -97.050516,
+    47.900266
+],
+  "geometry": {"coordinates":[-97.050516,47.900266],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873716783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.292962,48.235657,-101.292962,48.235657",
+    "geom:latitude":48.235657,
+    "geom:longitude":-101.292962,
+    "iso:country":"US",
+    "sg:address":"107 Main St S",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 5151",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73TP1eK1IuzudcelQpweaI_48.235657_-101.292962@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296603,
+    "wof:geomhash":"543985897f4651c7f94f4497bec1895f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873716783
+        }
+    ],
+    "wof:id":873716783,
+    "wof:lastmodified":1464296603,
+    "wof:name":"Lien's Jewelry",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -101.292962,
+    48.235657,
+    -101.292962,
+    48.235657
+],
+  "geometry": {"coordinates":[-101.292962,48.235657],"type":"Point"}
+}

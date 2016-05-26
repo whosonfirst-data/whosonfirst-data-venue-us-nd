@@ -1,0 +1,74 @@
+{
+  "id": 873596127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.805723,46.805864,-100.805723,46.805864",
+    "geom:latitude":46.805864,
+    "geom:longitude":-100.805723,
+    "iso:country":"US",
+    "sg:address":"721 Memorial Hwy",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 7956",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "sg:website":"www.godschild.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BjaIRgvdYFquTq9FOmjA1_46.805864_-100.805723@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294928,
+    "wof:geomhash":"4f4ff76eee8a954fc8fe6302e960e41a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873596127
+        }
+    ],
+    "wof:id":873596127,
+    "wof:lastmodified":1464294928,
+    "wof:name":"God's Child Project",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -100.805723,
+    46.805864,
+    -100.805723,
+    46.805864
+],
+  "geometry": {"coordinates":[-100.805723,46.805864],"type":"Point"}
+}

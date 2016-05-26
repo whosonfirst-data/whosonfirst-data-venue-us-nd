@@ -1,0 +1,87 @@
+{
+  "id": 873545369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.785368,46.812663,-100.785368,46.812663",
+    "geom:latitude":46.812663,
+    "geom:longitude":-100.785368,
+    "iso:country":"US",
+    "sg:address":"413 E Ave D",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 8286",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "kindergarten",
+        "academic",
+        "school",
+        "day"
+    ],
+    "sg:website":"www.zionbismarck.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xuVtpr9E21gjRi8ZYNTqe_46.812663_-100.785368@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294320,
+    "wof:geomhash":"45b92d122b26d346386348118639aa1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873545369
+        }
+    ],
+    "wof:id":873545369,
+    "wof:lastmodified":1464294320,
+    "wof:name":"Zion Lutheran Preschool",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "academic",
+        "school",
+        "day"
+    ]
+},
+  "bbox": [
+    -100.785368,
+    46.812663,
+    -100.785368,
+    46.812663
+],
+  "geometry": {"coordinates":[-100.78536800000001,46.812663],"type":"Point"}
+}

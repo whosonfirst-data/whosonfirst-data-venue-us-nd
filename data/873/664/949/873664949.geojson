@@ -1,0 +1,67 @@
+{
+  "id": 873664949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.030924,47.886447,-97.030924,47.886447",
+    "geom:latitude":47.886447,
+    "geom:longitude":-97.030924,
+    "iso:country":"US",
+    "sg:address":"3426 Chestnut St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 1846",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:website":"www.aflc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mtfbmbean0JofDKhtP3of_47.886447_-97.030924@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295750,
+    "wof:geomhash":"fc56ae3d3a1d2af5d36e25edaf39ee85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873664949
+        }
+    ],
+    "wof:id":873664949,
+    "wof:lastmodified":1464295750,
+    "wof:name":"Trinity Free Lutheran Church",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.030924,
+    47.886447,
+    -97.030924,
+    47.886447
+],
+  "geometry": {"coordinates":[-97.030924,47.886447],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 873590115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.044658,47.899719,-97.044658,47.899719",
+    "geom:latitude":47.899719,
+    "geom:longitude":-97.044658,
+    "iso:country":"US",
+    "sg:address":"2001 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 8670",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "new",
+        "used"
+    ],
+    "sg:website":"www.kennysmusic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6x3l5VcfR9BDP1v8FwIeo9_47.899719_-97.044658@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294832,
+    "wof:geomhash":"43d8df82d9bf33dca9c75e4848aff1ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873590115
+        }
+    ],
+    "wof:id":873590115,
+    "wof:lastmodified":1464294832,
+    "wof:name":"Kenny's Music Shoppe",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "used"
+    ]
+},
+  "bbox": [
+    -97.044658,
+    47.899719,
+    -97.044658,
+    47.899719
+],
+  "geometry": {"coordinates":[-97.044658,47.899719],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873597431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.594215,47.932627,-97.594215,47.932627",
+    "geom:latitude":47.932627,
+    "geom:longitude":-97.594215,
+    "iso:country":"US",
+    "sg:address":"3560 18th Ave NE",
+    "sg:city":"Larimore",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 343 2201",
+    "sg:postcode":"58251",
+    "sg:province":"ND",
+    "sg:tags":[
+        "course"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ilOKmZ33qZ86WPfxV01OL_47.932627_-97.594215@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294953,
+    "wof:geomhash":"7c2ff441c13a8fff45288f1da4c3fe10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873597431
+        }
+    ],
+    "wof:id":873597431,
+    "wof:lastmodified":1464294953,
+    "wof:name":"Larimore Golf Club",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course"
+    ]
+},
+  "bbox": [
+    -97.594215,
+    47.932627,
+    -97.594215,
+    47.932627
+],
+  "geometry": {"coordinates":[-97.59421500000001,47.932627],"type":"Point"}
+}

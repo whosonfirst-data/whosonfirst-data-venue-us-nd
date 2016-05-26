@@ -1,0 +1,77 @@
+{
+  "id": 873748545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.779902,46.916232,-96.779902,46.916232",
+    "geom:latitude":46.916232,
+    "geom:longitude":-96.779902,
+    "iso:country":"US",
+    "sg:address":"2937 Edgewood Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 7260",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877353,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65KlN0uf9inQbF4J2x3w6T_46.916232_-96.779902@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297056,
+    "wof:geomhash":"0f791f4aa32b8b65f0ade70845bd3839",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877353,
+            "region_id":85688525,
+            "venue_id":873748545
+        }
+    ],
+    "wof:id":873748545,
+    "wof:lastmodified":1464297056,
+    "wof:name":"David and Susan Lerud",
+    "wof:parent_id":85877353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -96.779902,
+    46.916232,
+    -96.779902,
+    46.916232
+],
+  "geometry": {"coordinates":[-96.77990200000001,46.916232],"type":"Point"}
+}

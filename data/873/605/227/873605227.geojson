@@ -1,0 +1,71 @@
+{
+  "id": 873605227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.034369,47.922522,-97.034369,47.922522",
+    "geom:latitude":47.922522,
+    "geom:longitude":-97.034369,
+    "iso:country":"US",
+    "sg:address":"667 Demers Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 8488",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dpem4GcyQIFqFYbdNjKGy_47.922522_-97.034369@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295043,
+    "wof:geomhash":"dc62a8c94d4a61040b636c29e7b2fdee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873605227
+        }
+    ],
+    "wof:id":873605227,
+    "wof:lastmodified":1464295043,
+    "wof:name":"John E Clayburgh DDS",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -97.034369,
+    47.922522,
+    -97.034369,
+    47.922522
+],
+  "geometry": {"coordinates":[-97.034369,47.922522],"type":"Point"}
+}

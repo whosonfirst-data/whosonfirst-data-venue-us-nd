@@ -1,0 +1,66 @@
+{
+  "id": 873583833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.294564,48.244459,-101.294564,48.244459",
+    "geom:latitude":48.244459,
+    "geom:longitude":-101.294564,
+    "iso:country":"US",
+    "sg:address":"116 8th Ave NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 6500",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_353oBbj0MN53MspiubS3VO_48.244459_-101.294564@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294761,
+    "wof:geomhash":"1e93f507abc444ef0339f287d37b0f47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873583833
+        }
+    ],
+    "wof:id":873583833,
+    "wof:lastmodified":1464294761,
+    "wof:name":"Northwestern Mutual",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.294564,
+    48.244459,
+    -101.294564,
+    48.244459
+],
+  "geometry": {"coordinates":[-101.29456399999999,48.244459],"type":"Point"}
+}

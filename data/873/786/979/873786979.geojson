@@ -1,0 +1,67 @@
+{
+  "id": 873786979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.056988,47.910785,-97.056988,47.910785",
+    "geom:latitude":47.910785,
+    "geom:longitude":-97.056988,
+    "iso:country":"US",
+    "sg:address":"1120 S 21st St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 6760",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "wheat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2he2hyNwBVuhp6D3X1L3Eb_47.910785_-97.056988@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297590,
+    "wof:geomhash":"cd41610d608d782265907b1cdddeb714",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873786979
+        }
+    ],
+    "wof:id":873786979,
+    "wof:lastmodified":1464297590,
+    "wof:name":"Krogstad Farms",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "wheat"
+    ]
+},
+  "bbox": [
+    -97.056988,
+    47.910785,
+    -97.056988,
+    47.910785
+],
+  "geometry": {"coordinates":[-97.056988,47.910785],"type":"Point"}
+}

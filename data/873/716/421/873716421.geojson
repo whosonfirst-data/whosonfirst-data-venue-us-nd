@@ -1,0 +1,66 @@
+{
+  "id": 873716421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.102401,47.932944,-97.102401,47.932944",
+    "geom:latitude":47.932944,
+    "geom:longitude":-97.102401,
+    "iso:country":"US",
+    "sg:address":"4916 Gateway Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 0126",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lxEjsqlhUM8zAiiZeY4H4_47.932944_-97.102401@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296599,
+    "wof:geomhash":"4f58c013a73f3c1b4db628cac2beeec0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873716421
+        }
+    ],
+    "wof:id":873716421,
+    "wof:lastmodified":1464296599,
+    "wof:name":"Classic International Homes",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.102401,
+    47.932944,
+    -97.102401,
+    47.932944
+],
+  "geometry": {"coordinates":[-97.102401,47.932944],"type":"Point"}
+}

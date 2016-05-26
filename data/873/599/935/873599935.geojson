@@ -1,0 +1,73 @@
+{
+  "id": 873599935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.060795,47.889371,-97.060795,47.889371",
+    "geom:latitude":47.889371,
+    "geom:longitude":-97.060795,
+    "iso:country":"US",
+    "sg:address":"2475 32nd Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 0425",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "return",
+        "filing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xvfGWkb8PEvFUrg9JwH9n_47.889371_-97.060795@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294986,
+    "wof:geomhash":"4ad6ff24d82c0613e2a268f4c548b71e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873599935
+        }
+    ],
+    "wof:id":873599935,
+    "wof:lastmodified":1464294986,
+    "wof:name":"H & R Block Tax Svc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return",
+        "filing"
+    ]
+},
+  "bbox": [
+    -97.060795,
+    47.889371,
+    -97.060795,
+    47.889371
+],
+  "geometry": {"coordinates":[-97.060795,47.889371],"type":"Point"}
+}

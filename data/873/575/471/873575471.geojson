@@ -1,0 +1,73 @@
+{
+  "id": 873575471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.10325,47.932322,-97.10325,47.932322",
+    "geom:latitude":47.932322,
+    "geom:longitude":-97.10325,
+    "iso:country":"US",
+    "sg:address":"1203 N 51st St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 1668",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "truck",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Bf2u7RPU0WKjQT4iSbthb_47.932322_-97.103250@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294669,
+    "wof:geomhash":"2bdca3b01e0667a98f348a1ec2c4e880",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873575471
+        }
+    ],
+    "wof:id":873575471,
+    "wof:lastmodified":1464294669,
+    "wof:name":"White Water Truck Wash",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "cleaning"
+    ]
+},
+  "bbox": [
+    -97.10325,
+    47.932322,
+    -97.10325,
+    47.932322
+],
+  "geometry": {"coordinates":[-97.10325,47.932322],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 873750219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.875202,46.855496,-96.875202,46.855496",
+    "geom:latitude":46.855496,
+    "geom:longitude":-96.875202,
+    "iso:country":"US",
+    "sg:address":"1626 16th St E",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 277 8354",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ceVL8FQE8f7GbrRe5pWsN_46.855496_-96.875202@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297077,
+    "wof:geomhash":"04832ee6ff98b5d9a4747504cc81865c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873750219
+        }
+    ],
+    "wof:id":873750219,
+    "wof:lastmodified":1464297077,
+    "wof:name":"Your Garden Path",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.875202,
+    46.855496,
+    -96.875202,
+    46.855496
+],
+  "geometry": {"coordinates":[-96.875202,46.855496],"type":"Point"}
+}

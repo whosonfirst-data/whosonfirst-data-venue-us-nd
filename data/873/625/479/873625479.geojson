@@ -1,0 +1,71 @@
+{
+  "id": 873625479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.775537,46.806442,-100.775537,46.806442",
+    "geom:latitude":46.806442,
+    "geom:longitude":-100.775537,
+    "iso:country":"US",
+    "sg:address":"906 E Broadway Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 2220",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KZqwf59NfcBeEABIko4fv_46.806442_-100.775537@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295315,
+    "wof:geomhash":"e9dd8481259fbf523d20db5da3b99122",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873625479
+        }
+    ],
+    "wof:id":873625479,
+    "wof:lastmodified":1464295315,
+    "wof:name":"Hair Shaft",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -100.775537,
+    46.806442,
+    -100.775537,
+    46.806442
+],
+  "geometry": {"coordinates":[-100.775537,46.806442],"type":"Point"}
+}

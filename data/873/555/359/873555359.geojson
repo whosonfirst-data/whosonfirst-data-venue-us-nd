@@ -1,0 +1,71 @@
+{
+  "id": 873555359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.328414,47.920872,-101.328414,47.920872",
+    "geom:latitude":47.920872,
+    "geom:longitude":-101.328414,
+    "iso:country":"US",
+    "sg:address":"2442 Co Hwy 22",
+    "sg:city":"Mandaree",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 759 3328",
+    "sg:postcode":"58759",
+    "sg:province":"ND",
+    "sg:tags":[
+        "ranch"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KoloZqP42YbgWLUVA2tg1_47.920872_-101.328414@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294441,
+    "wof:geomhash":"48a444928df74122ed6eb5ea9f014d50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873555359
+        }
+    ],
+    "wof:id":873555359,
+    "wof:lastmodified":1464294441,
+    "wof:name":"Whip 'n Ride Ranch",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ranch"
+    ]
+},
+  "bbox": [
+    -101.328414,
+    47.920872,
+    -101.328414,
+    47.920872
+],
+  "geometry": {"coordinates":[-101.328414,47.920872],"type":"Point"}
+}

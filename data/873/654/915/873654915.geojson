@@ -1,0 +1,84 @@
+{
+  "id": 873654915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-102.785315,46.881162,-102.785315,46.881162",
+    "geom:latitude":46.881162,
+    "geom:longitude":-102.785315,
+    "iso:country":"US",
+    "sg:address":"235 Sims St",
+    "sg:city":"Dickinson",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 483 4394",
+    "sg:postcode":"58601",
+    "sg:province":"ND",
+    "sg:tags":[
+        "consultant",
+        "educational",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877119,
+        102191575,
+        404482179,
+        85633793,
+        85982521,
+        102082105,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DzA51CzXUqrXK4nfrfh2M_46.881162_-102.785315@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295645,
+    "wof:geomhash":"712e946f66662c7192c2bdcf20d2e581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082105,
+            "localadmin_id":404482179,
+            "locality_id":85982521,
+            "neighbourhood_id":85877119,
+            "region_id":85688525,
+            "venue_id":873654915
+        }
+    ],
+    "wof:id":873654915,
+    "wof:lastmodified":1464295645,
+    "wof:name":"Kids Program",
+    "wof:parent_id":85877119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "educational",
+        "day"
+    ]
+},
+  "bbox": [
+    -102.785315,
+    46.881162,
+    -102.785315,
+    46.881162
+],
+  "geometry": {"coordinates":[-102.785315,46.881162],"type":"Point"}
+}

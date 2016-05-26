@@ -1,0 +1,77 @@
+{
+  "id": 873694343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.883529,46.87286,-96.883529,46.87286",
+    "geom:latitude":46.87286,
+    "geom:longitude":-96.883529,
+    "iso:country":"US",
+    "sg:address":"415 B St",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 2997",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0N7J7D0bJfxKjfjBJyjst0_46.872860_-96.883529@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296342,
+    "wof:geomhash":"4340183ace3c31da4b13d6f7ad3f8512",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873694343
+        }
+    ],
+    "wof:id":873694343,
+    "wof:lastmodified":1464296342,
+    "wof:name":"Groth Painting & Decorating",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.883529,
+    46.87286,
+    -96.883529,
+    46.87286
+],
+  "geometry": {"coordinates":[-96.883529,46.87286],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873592625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.364393,47.931726,-97.364393,47.931726",
+    "geom:latitude":47.931726,
+    "geom:longitude":-97.364393,
+    "iso:country":"US",
+    "sg:address":"201 Veitch St",
+    "sg:city":"Emerado",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 594 3887",
+    "sg:postcode":"58228",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hCP512H4WbB315U72sLki_47.931726_-97.364393@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294865,
+    "wof:geomhash":"fb39ec15f38f3492af87b62b8c7e1084",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873592625
+        }
+    ],
+    "wof:id":873592625,
+    "wof:lastmodified":1464294865,
+    "wof:name":"Rj's Pizza",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.364393,
+    47.931726,
+    -97.364393,
+    47.931726
+],
+  "geometry": {"coordinates":[-97.36439300000001,47.931726],"type":"Point"}
+}

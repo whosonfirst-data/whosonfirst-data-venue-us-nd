@@ -1,0 +1,71 @@
+{
+  "id": 873752093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.305314,48.239969,-101.305314,48.239969",
+    "geom:latitude":48.239969,
+    "geom:longitude":-101.305314,
+    "iso:country":"US",
+    "sg:address":"305 8th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 8510",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Xl1jMohnQ9vQtI4HIsrjS_48.239969_-101.305314@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297102,
+    "wof:geomhash":"a97c88772eb5d1c734c612a2e14fc04d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873752093
+        }
+    ],
+    "wof:id":873752093,
+    "wof:lastmodified":1464297102,
+    "wof:name":"J & J Auto Service",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -101.305314,
+    48.239969,
+    -101.305314,
+    48.239969
+],
+  "geometry": {"coordinates":[-101.305314,48.239969],"type":"Point"}
+}

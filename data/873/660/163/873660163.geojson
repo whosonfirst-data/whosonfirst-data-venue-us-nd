@@ -1,0 +1,73 @@
+{
+  "id": 873660163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.241251,48.42964,-101.241251,48.42964",
+    "geom:latitude":48.42964,
+    "geom:longitude":-101.241251,
+    "iso:country":"US",
+    "sg:address":"4001 184th Ave NE",
+    "sg:city":"Glenburn",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 362 7702",
+    "sg:postcode":"58740",
+    "sg:province":"ND",
+    "sg:tags":[
+        "photographer",
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JSHwRSBRRUUF51TvqqdpH_48.429640_-101.241251@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295700,
+    "wof:geomhash":"2caba9dd87f38991d4976b8a34181757",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873660163
+        }
+    ],
+    "wof:id":873660163,
+    "wof:lastmodified":1464295700,
+    "wof:name":"Carter's Photography",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer",
+        "photo"
+    ]
+},
+  "bbox": [
+    -101.241251,
+    48.42964,
+    -101.241251,
+    48.42964
+],
+  "geometry": {"coordinates":[-101.24125100000001,48.42964],"type":"Point"}
+}

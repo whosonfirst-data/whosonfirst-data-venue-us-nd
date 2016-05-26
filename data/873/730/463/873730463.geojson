@@ -1,0 +1,71 @@
+{
+  "id": 873730463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.346223,47.934073,-97.346223,47.934073",
+    "geom:latitude":47.934073,
+    "geom:longitude":-97.346223,
+    "iso:country":"US",
+    "sg:address":"1808 24th St NE",
+    "sg:city":"Emerado",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 594 9288",
+    "sg:postcode":"58228",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ygSuU0dCaVQIpdgx6IyJW_47.934073_-97.346223@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296785,
+    "wof:geomhash":"2207c1e0759a480b56c83742950a8a07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873730463
+        }
+    ],
+    "wof:id":873730463,
+    "wof:lastmodified":1464296785,
+    "wof:name":"Baseview Assembly Of God",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -97.346223,
+    47.934073,
+    -97.346223,
+    47.934073
+],
+  "geometry": {"coordinates":[-97.34622299999999,47.934073],"type":"Point"}
+}

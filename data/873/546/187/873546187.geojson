@@ -1,0 +1,75 @@
+{
+  "id": 873546187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.841636,46.85386,-96.841636,46.85386",
+    "geom:latitude":46.85386,
+    "geom:longitude":-96.841636,
+    "iso:country":"US",
+    "sg:address":"1701 38th St SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 4905",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KTH7HAcuFveJAxdJV8kzl_46.853860_-96.841636@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294330,
+    "wof:geomhash":"7ce126a2aacd08060a88c8247d1d5a6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873546187
+        }
+    ],
+    "wof:id":873546187,
+    "wof:lastmodified":1464294330,
+    "wof:name":"Jt Kangas",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -96.841636,
+    46.85386,
+    -96.841636,
+    46.85386
+],
+  "geometry": {"coordinates":[-96.84163599999999,46.85386],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873752951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.306882,48.219546,-101.306882,48.219546",
+    "geom:latitude":48.219546,
+    "geom:longitude":-101.306882,
+    "iso:country":"US",
+    "sg:address":"1435 10th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 837 1026",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "layer",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mDpPHoLrBceYJRODeWq2P_48.219546_-101.306882@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297118,
+    "wof:geomhash":"9a21cac0ccadf301aff71814de648d38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873752951
+        }
+    ],
+    "wof:id":873752951,
+    "wof:lastmodified":1464297118,
+    "wof:name":"Rob's Carpet Installations",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "layer",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -101.306882,
+    48.219546,
+    -101.306882,
+    48.219546
+],
+  "geometry": {"coordinates":[-101.306882,48.219546],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873706673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.77994,46.816194,-100.77994,46.816194",
+    "geom:latitude":46.816194,
+    "geom:longitude":-100.77994,
+    "iso:country":"US",
+    "sg:address":"1028 N 8th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 3443",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01AuPRaczOtToLFyefzbY1_46.816194_-100.779940@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296477,
+    "wof:geomhash":"a4feb3b974a3bf60cdc0b127f31fba6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873706673
+        }
+    ],
+    "wof:id":873706673,
+    "wof:lastmodified":1464296477,
+    "wof:name":"Construction Plus",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -100.77994,
+    46.816194,
+    -100.77994,
+    46.816194
+],
+  "geometry": {"coordinates":[-100.77994,46.816194],"type":"Point"}
+}

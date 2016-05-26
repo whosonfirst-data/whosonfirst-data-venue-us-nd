@@ -1,0 +1,70 @@
+{
+  "id": 873615455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.793963,46.808583,-100.793963,46.808583",
+    "geom:latitude":46.808583,
+    "geom:longitude":-100.793963,
+    "iso:country":"US",
+    "sg:address":"225 W Rosser Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 7229",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1F0eESqDn5ziICFt3gxyOc_46.808583_-100.793963@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295200,
+    "wof:geomhash":"68645fa14887fc7923ef1f34249fb065",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873615455
+        }
+    ],
+    "wof:id":873615455,
+    "wof:lastmodified":1464295200,
+    "wof:name":"Youthworks",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.793963,
+    46.808583,
+    -100.793963,
+    46.808583
+],
+  "geometry": {"coordinates":[-100.79396300000001,46.808583],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873599635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.903,46.801016,-96.903,46.801016",
+    "geom:latitude":46.801016,
+    "geom:longitude":-96.903,
+    "iso:country":"US",
+    "sg:address":"5506 Co Rd 17 S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 281 5980",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18IsZJIZopla6lx37WMZly_46.801016_-96.903000@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294983,
+    "wof:geomhash":"bedad17f6a8baf46e873c65e8e680a31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873599635
+        }
+    ],
+    "wof:id":873599635,
+    "wof:lastmodified":1464294983,
+    "wof:name":"Main Ave Hair",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -96.903,
+    46.801016,
+    -96.903,
+    46.801016
+],
+  "geometry": {"coordinates":[-96.90300000000001,46.801016],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873707205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.827467,46.8181,-96.827467,46.8181",
+    "geom:latitude":46.8181,
+    "geom:longitude":-96.827467,
+    "iso:country":"US",
+    "sg:address":"3055 40th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 356 5543",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "computer",
+        "networking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877333,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xQUUzsOQ6bf1iwTVwP4bJ_46.818100_-96.827467@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296485,
+    "wof:geomhash":"2db5745e17d13bb432ac5725f18eb680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877333,
+            "region_id":85688525,
+            "venue_id":873707205
+        }
+    ],
+    "wof:id":873707205,
+    "wof:lastmodified":1464296485,
+    "wof:name":"MCA Inc",
+    "wof:parent_id":85877333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "computer",
+        "networking"
+    ]
+},
+  "bbox": [
+    -96.827467,
+    46.8181,
+    -96.827467,
+    46.8181
+],
+  "geometry": {"coordinates":[-96.827467,46.8181],"type":"Point"}
+}

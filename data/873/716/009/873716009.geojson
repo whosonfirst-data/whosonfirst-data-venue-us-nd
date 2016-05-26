@@ -1,0 +1,66 @@
+{
+  "id": 873716009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.284109,48.211205,-101.284109,48.211205",
+    "geom:latitude":48.211205,
+    "geom:longitude":-101.284109,
+    "iso:country":"US",
+    "sg:address":"629 20th Ave SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Signs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 0331",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BLovZBjfwLVeCUJKYILEM_48.211205_-101.284109@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296593,
+    "wof:geomhash":"5f324c1be50ef22668949d07f033d28c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873716009
+        }
+    ],
+    "wof:id":873716009,
+    "wof:lastmodified":1464296593,
+    "wof:name":"Bacon Signs Inc",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.284109,
+    48.211205,
+    -101.284109,
+    48.211205
+],
+  "geometry": {"coordinates":[-101.284109,48.211205],"type":"Point"}
+}

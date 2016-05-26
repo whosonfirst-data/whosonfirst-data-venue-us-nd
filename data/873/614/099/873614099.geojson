@@ -1,0 +1,73 @@
+{
+  "id": 873614099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.039755,47.885898,-97.039755,47.885898",
+    "geom:latitude":47.885898,
+    "geom:longitude":-97.039755,
+    "iso:country":"US",
+    "sg:address":"3435 S 10th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 8295",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rfDgKBOPbfR61SOFrnS7p_47.885898_-97.039755@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295186,
+    "wof:geomhash":"16e777985c950a125e2f964b40d60b24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873614099
+        }
+    ],
+    "wof:id":873614099,
+    "wof:lastmodified":1464295186,
+    "wof:name":"Dennis J Duray",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.039755,
+    47.885898,
+    -97.039755,
+    47.885898
+],
+  "geometry": {"coordinates":[-97.039755,47.885898],"type":"Point"}
+}

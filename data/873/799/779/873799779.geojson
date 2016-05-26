@@ -1,0 +1,80 @@
+{
+  "id": 873799779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.867584,46.731489,-96.867584,46.731489",
+    "geom:latitude":46.731489,
+    "geom:longitude":-96.867584,
+    "iso:country":"US",
+    "sg:address":"4910 112th Ave S",
+    "sg:city":"Horace",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 238 5138",
+    "sg:postcode":"58047",
+    "sg:province":"ND",
+    "sg:tags":[
+        "home",
+        "builder",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2D4NO6IvIcbj3DuhdQXpPy_46.731489_-96.867584@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297770,
+    "wof:geomhash":"c7193afaf5d306eba513f47049874b8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873799779
+        }
+    ],
+    "wof:id":873799779,
+    "wof:lastmodified":1464297770,
+    "wof:name":"Rasmussen Construction",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.867584,
+    46.731489,
+    -96.867584,
+    46.731489
+],
+  "geometry": {"coordinates":[-96.86758399999999,46.731489],"type":"Point"}
+}

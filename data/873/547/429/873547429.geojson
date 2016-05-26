@@ -1,0 +1,73 @@
+{
+  "id": 873547429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.78165,46.79211,-100.78165,46.79211",
+    "geom:latitude":46.79211,
+    "geom:longitude":-100.78165,
+    "iso:country":"US",
+    "sg:address":"1329 Richmond Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 471 3368",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "mfg",
+        "trimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iOrlsr0E3rjCMSaHAJGyI_46.792110_-100.781650@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294345,
+    "wof:geomhash":"f9f546dd748746ddbd537c8d024f22b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873547429
+        }
+    ],
+    "wof:id":873547429,
+    "wof:lastmodified":1464294345,
+    "wof:name":"D M Inc",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "trimming"
+    ]
+},
+  "bbox": [
+    -100.78165,
+    46.79211,
+    -100.78165,
+    46.79211
+],
+  "geometry": {"coordinates":[-100.78165,46.79211],"type":"Point"}
+}

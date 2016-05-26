@@ -1,0 +1,75 @@
+{
+  "id": 873616001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.426711,48.277099,-101.426711,48.277099",
+    "geom:latitude":48.277099,
+    "geom:longitude":-101.426711,
+    "iso:country":"US",
+    "sg:address":"316 1st Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 837 0479",
+    "sg:postcode":"58722",
+    "sg:province":"ND",
+    "sg:tags":[
+        "course",
+        "golf",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77IJtswenj91kpYtOnyLX4_48.277099_-101.426711@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295205,
+    "wof:geomhash":"4acad1025f994db907291534496c2a89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873616001
+        }
+    ],
+    "wof:id":873616001,
+    "wof:lastmodified":1464295205,
+    "wof:name":"Reel Grinding & Repair Inc",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course",
+        "golf",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -101.426711,
+    48.277099,
+    -101.426711,
+    48.277099
+],
+  "geometry": {"coordinates":[-101.426711,48.277099],"type":"Point"}
+}

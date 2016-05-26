@@ -1,0 +1,73 @@
+{
+  "id": 873627575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.787681,46.804173,-100.787681,46.804173",
+    "geom:latitude":46.804173,
+    "geom:longitude":-100.787681,
+    "iso:country":"US",
+    "sg:address":"201 E Front Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 3334",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "sewing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5c2nK071CY1rUuXMNLNUJc_46.804173_-100.787681@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295335,
+    "wof:geomhash":"5eb95939761a5d41548d385dbe38bb72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873627575
+        }
+    ],
+    "wof:id":873627575,
+    "wof:lastmodified":1464295335,
+    "wof:name":"Professional Sewing Svc",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sewing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.787681,
+    46.804173,
+    -100.787681,
+    46.804173
+],
+  "geometry": {"coordinates":[-100.78768100000001,46.804173],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873587765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.033324,47.926354,-97.033324,47.926354",
+    "geom:latitude":47.926354,
+    "geom:longitude":-97.033324,
+    "iso:country":"US",
+    "sg:address":"375 2nd Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 780 1200",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28jEDcQU6iSbL9GxAVIKhx_47.926354_-97.033324@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294804,
+    "wof:geomhash":"7e7478d352f426992de6a1a32abf5da8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873587765
+        }
+    ],
+    "wof:id":873587765,
+    "wof:lastmodified":1464294804,
+    "wof:name":"Grand Forks Herald Credit Un",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -97.033324,
+    47.926354,
+    -97.033324,
+    47.926354
+],
+  "geometry": {"coordinates":[-97.03332399999999,47.926354],"type":"Point"}
+}

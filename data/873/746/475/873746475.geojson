@@ -1,0 +1,71 @@
+{
+  "id": 873746475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.80035,46.779156,-100.80035,46.779156",
+    "geom:latitude":46.779156,
+    "geom:longitude":-100.80035,
+    "iso:country":"US",
+    "sg:address":"502 Stratford Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 0635",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ewmC4EoJ8ieLXBzncTAQ2_46.779156_-100.800350@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297032,
+    "wof:geomhash":"b1b71924c5065676c2c660004d6bade8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873746475
+        }
+    ],
+    "wof:id":873746475,
+    "wof:lastmodified":1464297032,
+    "wof:name":"Piatz Daycare",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -100.80035,
+    46.779156,
+    -100.80035,
+    46.779156
+],
+  "geometry": {"coordinates":[-100.80034999999999,46.779156],"type":"Point"}
+}

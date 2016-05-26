@@ -1,0 +1,80 @@
+{
+  "id": 873806269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.838422,46.818369,-96.838422,46.818369",
+    "geom:latitude":46.818369,
+    "geom:longitude":-96.838422,
+    "iso:country":"US",
+    "sg:address":"4075 40th Ave. S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 824 4491",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "heath",
+        "vitamins-and-supplements",
+        "retail"
+    ],
+    "sg:website":"http://www.swansonvitamins.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877333,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lzaMsELbnsnsqq1ynXNiU_46.818369_-96.838422@1308186501"
+    },
+    "wof:country":"US",
+    "wof:created":1464297855,
+    "wof:geomhash":"38342b3d1df98a4d1d94a22f50962395",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877333,
+            "region_id":85688525,
+            "venue_id":873806269
+        }
+    ],
+    "wof:id":873806269,
+    "wof:lastmodified":1464297855,
+    "wof:name":"Swanson Health Products",
+    "wof:parent_id":85877333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heath",
+        "vitamins-and-supplements",
+        "retail"
+    ]
+},
+  "bbox": [
+    -96.838422,
+    46.818369,
+    -96.838422,
+    46.818369
+],
+  "geometry": {"coordinates":[-96.83842199999999,46.818369],"type":"Point"}
+}

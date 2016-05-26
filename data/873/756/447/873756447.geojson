@@ -1,0 +1,66 @@
+{
+  "id": 873756447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.470642,48.163118,-97.470642,48.163118",
+    "geom:latitude":48.163118,
+    "geom:longitude":-97.470642,
+    "iso:country":"US",
+    "sg:address":"3343 30th St NE",
+    "sg:city":"Forest River",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 248 3391",
+    "sg:postcode":"58233",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TgzjeGCMZcC6dhKGkx0SR_48.163118_-97.470642@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297162,
+    "wof:geomhash":"54fadb88f36c411e99fd75e36658c105",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873756447
+        }
+    ],
+    "wof:id":873756447,
+    "wof:lastmodified":1464297162,
+    "wof:name":"Nelson Farms",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.470642,
+    48.163118,
+    -97.470642,
+    48.163118
+],
+  "geometry": {"coordinates":[-97.470642,48.163118],"type":"Point"}
+}

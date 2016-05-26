@@ -1,0 +1,78 @@
+{
+  "id": 873798365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-102.78619,46.892588,-102.78619,46.892588",
+    "geom:latitude":46.892588,
+    "geom:longitude":-102.78619,
+    "iso:country":"US",
+    "sg:address":"235 Osborn Dr",
+    "sg:city":"Dickinson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/dickinson/183480-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 225 3838",
+    "sg:postcode":"58601",
+    "sg:province":"ND",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877119,
+        102191575,
+        404482179,
+        85633793,
+        85982521,
+        102082105,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bkXNncWKYEZme9eGTKVGv_46.892588_-102.786190@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297754,
+    "wof:geomhash":"a64cd8d023b483b62f62c8256760bc92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082105,
+            "localadmin_id":404482179,
+            "locality_id":85982521,
+            "neighbourhood_id":85877119,
+            "region_id":85688525,
+            "venue_id":873798365
+        }
+    ],
+    "wof:id":873798365,
+    "wof:lastmodified":1464297754,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85877119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -102.78619,
+    46.892588,
+    -102.78619,
+    46.892588
+],
+  "geometry": {"coordinates":[-102.78619,46.892588],"type":"Point"}
+}

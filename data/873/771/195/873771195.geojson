@@ -1,0 +1,82 @@
+{
+  "id": 873771195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.191828,48.1085,-97.191828,48.1085",
+    "geom:latitude":48.1085,
+    "geom:longitude":-97.191828,
+    "iso:country":"US",
+    "sg:address":"3002 17th St NE",
+    "sg:city":"Manvel",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 741 1460",
+    "sg:postcode":"58256",
+    "sg:province":"ND",
+    "sg:tags":[
+        "glass",
+        "window",
+        "contractor",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40koneFYEVOzYSgLYmPUGm_48.108500_-97.191828@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297379,
+    "wof:geomhash":"402c562370e2cac732d14a48699bb289",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873771195
+        }
+    ],
+    "wof:id":873771195,
+    "wof:lastmodified":1464297379,
+    "wof:name":"E & J Glass Repair",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "contractor",
+        "plate"
+    ]
+},
+  "bbox": [
+    -97.191828,
+    48.1085,
+    -97.191828,
+    48.1085
+],
+  "geometry": {"coordinates":[-97.191828,48.1085],"type":"Point"}
+}

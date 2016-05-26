@@ -1,0 +1,71 @@
+{
+  "id": 873762233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.050703,47.922174,-97.050703,47.922174",
+    "geom:latitude":47.922174,
+    "geom:longitude":-97.050703,
+    "iso:country":"US",
+    "sg:address":"1615 University Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 3369",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39aSUakhkuHmweVzFUa40X_47.922174_-97.050703@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297242,
+    "wof:geomhash":"6943b8db2ac23dc7a083be71a06085ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873762233
+        }
+    ],
+    "wof:id":873762233,
+    "wof:lastmodified":1464297242,
+    "wof:name":"Aqualine",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.050703,
+    47.922174,
+    -97.050703,
+    47.922174
+],
+  "geometry": {"coordinates":[-97.050703,47.922174],"type":"Point"}
+}

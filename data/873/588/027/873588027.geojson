@@ -1,0 +1,66 @@
+{
+  "id": 873588027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.176786,47.935403,-101.176786,47.935403",
+    "geom:latitude":47.935403,
+    "geom:longitude":-101.176786,
+    "iso:country":"US",
+    "sg:address":"7701 289th Ave SE",
+    "sg:city":"Max",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 722 3667",
+    "sg:postcode":"58759",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51vf0lM8LK9aWoCU1YnMpX_47.935403_-101.176786@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294808,
+    "wof:geomhash":"6c7c996f5da292a0a18481474f32e7f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873588027
+        }
+    ],
+    "wof:id":873588027,
+    "wof:lastmodified":1464294808,
+    "wof:name":"Ward County Commissioners",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.176786,
+    47.935403,
+    -101.176786,
+    47.935403
+],
+  "geometry": {"coordinates":[-101.17678600000001,47.935403],"type":"Point"}
+}

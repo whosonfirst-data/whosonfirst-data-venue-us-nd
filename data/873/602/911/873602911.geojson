@@ -1,0 +1,71 @@
+{
+  "id": 873602911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.081995,47.902359,-97.081995,47.902359",
+    "geom:latitude":47.902359,
+    "geom:longitude":-97.081995,
+    "iso:country":"US",
+    "sg:address":"3717 18th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 6044",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28YTQQ3kvdAWJNUvYn7nkf_47.902359_-97.081995@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295017,
+    "wof:geomhash":"f807b6d7d6160b85bbebb3eb562ac80a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873602911
+        }
+    ],
+    "wof:id":873602911,
+    "wof:lastmodified":1464295017,
+    "wof:name":"Grand Forks Vending & Amuse Co",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sales"
+    ]
+},
+  "bbox": [
+    -97.081995,
+    47.902359,
+    -97.081995,
+    47.902359
+],
+  "geometry": {"coordinates":[-97.08199500000001,47.902359],"type":"Point"}
+}

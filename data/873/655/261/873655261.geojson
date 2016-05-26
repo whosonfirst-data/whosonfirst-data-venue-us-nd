@@ -1,0 +1,66 @@
+{
+  "id": 873655261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.298971,48.198445,-101.298971,48.198445",
+    "geom:latitude":48.198445,
+    "geom:longitude":-101.298971,
+    "iso:country":"US",
+    "sg:address":"3500 4th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 5127",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TF6mNcUHbGMtDvk2QmduW_48.198445_-101.298971@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295648,
+    "wof:geomhash":"279448105e4ecfedf88e7d15eaa15ae1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873655261
+        }
+    ],
+    "wof:id":873655261,
+    "wof:lastmodified":1464295648,
+    "wof:name":"Trinity Church",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.298971,
+    48.198445,
+    -101.298971,
+    48.198445
+],
+  "geometry": {"coordinates":[-101.29897099999999,48.198445],"type":"Point"}
+}

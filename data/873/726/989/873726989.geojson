@@ -1,0 +1,75 @@
+{
+  "id": 873726989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.823935,46.824183,-96.823935,46.824183",
+    "geom:latitude":46.824183,
+    "geom:longitude":-96.823935,
+    "iso:country":"US",
+    "sg:address":"2612 36th Ave SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 7254",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "advisory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534467,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6j3pqrwmxlTyqP2x8Rh3Nl_46.824183_-96.823935@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296741,
+    "wof:geomhash":"a6e744700bdac9faf88dcbe5d888569a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534467,
+            "region_id":85688525,
+            "venue_id":873726989
+        }
+    ],
+    "wof:id":873726989,
+    "wof:lastmodified":1464296741,
+    "wof:name":"Warne Financial Services",
+    "wof:parent_id":420534467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory"
+    ]
+},
+  "bbox": [
+    -96.823935,
+    46.824183,
+    -96.823935,
+    46.824183
+],
+  "geometry": {"coordinates":[-96.82393500000001,46.824183],"type":"Point"}
+}

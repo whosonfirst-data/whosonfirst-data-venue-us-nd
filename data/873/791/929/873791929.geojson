@@ -1,0 +1,67 @@
+{
+  "id": 873791929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.145814,48.190565,-97.145814,48.190565",
+    "geom:latitude":48.190565,
+    "geom:longitude":-97.145814,
+    "iso:country":"US",
+    "sg:address":"3555 15th St NE",
+    "sg:city":"Oslo",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 699 2101",
+    "sg:postcode":"58256",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "beet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5acuSZmdXJwB2Hvgz8wJ4Z_48.190565_-97.145814@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297675,
+    "wof:geomhash":"a9f64bb26df9466df092b8f96bf1b6e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873791929
+        }
+    ],
+    "wof:id":873791929,
+    "wof:lastmodified":1464297675,
+    "wof:name":"Mark Gowan",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "beet"
+    ]
+},
+  "bbox": [
+    -97.145814,
+    48.190565,
+    -97.145814,
+    48.190565
+],
+  "geometry": {"coordinates":[-97.145814,48.190565],"type":"Point"}
+}

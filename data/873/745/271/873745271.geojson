@@ -1,0 +1,66 @@
+{
+  "id": 873745271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.763382,46.807315,-100.763382,46.807315",
+    "geom:latitude":46.807315,
+    "geom:longitude":-100.763382,
+    "iso:country":"US",
+    "sg:address":"1806 E Thayer Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 9137",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fDyM4nlIGdRtITr6x82pO_46.807315_-100.763382@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297015,
+    "wof:geomhash":"3d4ae52c1e4b93dcfae71bed889174af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873745271
+        }
+    ],
+    "wof:id":873745271,
+    "wof:lastmodified":1464297015,
+    "wof:name":"Buy Gone Days",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.763382,
+    46.807315,
+    -100.763382,
+    46.807315
+],
+  "geometry": {"coordinates":[-100.76338199999999,46.807315],"type":"Point"}
+}

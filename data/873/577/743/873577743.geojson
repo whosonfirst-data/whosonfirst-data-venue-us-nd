@@ -1,0 +1,71 @@
+{
+  "id": 873577743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.275711,48.232697,-101.275711,48.232697",
+    "geom:latitude":48.232697,
+    "geom:longitude":-101.275711,
+    "iso:country":"US",
+    "sg:address":"1225 US Hwy 2 Bus",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 1886",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "supplier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZOcp5HbmHDcuBiKq9zWpE_48.232697_-101.275711@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294691,
+    "wof:geomhash":"279bfa1c1a630003045cd4c4731644dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873577743
+        }
+    ],
+    "wof:id":873577743,
+    "wof:lastmodified":1464294691,
+    "wof:name":"North Centl Rur Wtr Consortium",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supplier"
+    ]
+},
+  "bbox": [
+    -101.275711,
+    48.232697,
+    -101.275711,
+    48.232697
+],
+  "geometry": {"coordinates":[-101.275711,48.232697],"type":"Point"}
+}

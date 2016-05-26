@@ -1,0 +1,75 @@
+{
+  "id": 873730697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.845275,46.897473,-96.845275,46.897473",
+    "geom:latitude":46.897473,
+    "geom:longitude":-96.845275,
+    "iso:country":"US",
+    "sg:address":"3901 15th Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 4313",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "grain"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pij0IcG2J1yjeTsBfoUdk_46.897473_-96.845275@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296787,
+    "wof:geomhash":"6f6d5fac0646a4822e4b15433309da90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873730697
+        }
+    ],
+    "wof:id":873730697,
+    "wof:lastmodified":1464296787,
+    "wof:name":"Dahlgren & Co",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grain"
+    ]
+},
+  "bbox": [
+    -96.845275,
+    46.897473,
+    -96.845275,
+    46.897473
+],
+  "geometry": {"coordinates":[-96.845275,46.897473],"type":"Point"}
+}

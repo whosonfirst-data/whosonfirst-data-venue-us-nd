@@ -1,0 +1,78 @@
+{
+  "id": 873581325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.042988,47.885853,-97.042988,47.885853",
+    "geom:latitude":47.885853,
+    "geom:longitude":-97.042988,
+    "iso:country":"US",
+    "sg:address":"1149 36th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 4053",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "drinking",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nW8hWoj3umajC5nl7M270_47.885853_-97.042988@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294736,
+    "wof:geomhash":"a9621a13b4ff96b4aca7303231ef535f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873581325
+        }
+    ],
+    "wof:id":873581325,
+    "wof:lastmodified":1464294736,
+    "wof:name":"Parrot's Cay Tavern & Grill",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "eating"
+    ]
+},
+  "bbox": [
+    -97.042988,
+    47.885853,
+    -97.042988,
+    47.885853
+],
+  "geometry": {"coordinates":[-97.04298799999999,47.885853],"type":"Point"}
+}

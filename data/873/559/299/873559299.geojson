@@ -1,0 +1,71 @@
+{
+  "id": 873559299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.323866,48.23463,-101.323866,48.23463",
+    "geom:latitude":48.23463,
+    "geom:longitude":-101.323866,
+    "iso:country":"US",
+    "sg:address":"2005 Westfield Ave",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 5162",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fv5JvwYi6FIY2aBzq8Qyo_48.234630_-101.323866@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294492,
+    "wof:geomhash":"18dd3e01388c0279d39eab174d700086",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873559299
+        }
+    ],
+    "wof:id":873559299,
+    "wof:lastmodified":1464294492,
+    "wof:name":"Bernsdorf Builders",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -101.323866,
+    48.23463,
+    -101.323866,
+    48.23463
+],
+  "geometry": {"coordinates":[-101.323866,48.23463],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873573203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.756857,46.741317,-100.756857,46.741317",
+    "geom:latitude":46.741317,
+    "geom:longitude":-100.756857,
+    "iso:country":"US",
+    "sg:address":"5900 Apple Creek Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 4333",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iM6ZiEzCAqFxnd5l2o970_46.741317_-100.756857@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294643,
+    "wof:geomhash":"4a08499a6506ab8fb00d54d1b606f292",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873573203
+        }
+    ],
+    "wof:id":873573203,
+    "wof:lastmodified":1464294643,
+    "wof:name":"Steve Opp Trucking",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -100.756857,
+    46.741317,
+    -100.756857,
+    46.741317
+],
+  "geometry": {"coordinates":[-100.756857,46.741317],"type":"Point"}
+}

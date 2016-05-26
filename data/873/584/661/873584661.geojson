@@ -1,0 +1,73 @@
+{
+  "id": 873584661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.73182,46.842054,-100.73182,46.842054",
+    "geom:latitude":46.842054,
+    "geom:longitude":-100.73182,
+    "iso:country":"US",
+    "sg:address":"3831 Jericho Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 4679",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "disposal",
+        "waste"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vFo7eQUnu4WVQWc6UoQWx_46.842054_-100.731820@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294769,
+    "wof:geomhash":"c3515ca658508ebdd47dac81a184ea03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873584661
+        }
+    ],
+    "wof:id":873584661,
+    "wof:lastmodified":1464294769,
+    "wof:name":"Dakota Sanitation",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "disposal",
+        "waste"
+    ]
+},
+  "bbox": [
+    -100.73182,
+    46.842054,
+    -100.73182,
+    46.842054
+],
+  "geometry": {"coordinates":[-100.73182,46.842054],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873580285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.075772,47.891716,-97.075772,47.891716",
+    "geom:latitude":47.891716,
+    "geom:longitude":-97.075772,
+    "iso:country":"US",
+    "sg:address":"3225 30th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 780 8491",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CVmahnKp6ZcX31It3RoBZ_47.891716_-97.075772@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294721,
+    "wof:geomhash":"d976f5324c57c070c53b4394ea52d2e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873580285
+        }
+    ],
+    "wof:id":873580285,
+    "wof:lastmodified":1464294721,
+    "wof:name":"Office Max",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.075772,
+    47.891716,
+    -97.075772,
+    47.891716
+],
+  "geometry": {"coordinates":[-97.075772,47.891716],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873641549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.055924,47.889074,-97.055924,47.889074",
+    "geom:latitude":47.889074,
+    "geom:longitude":-97.055924,
+    "iso:country":"US",
+    "sg:address":"3551 S 20th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 0963",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fT67tT7cDHaJpduQHqRPK_47.889074_-97.055924@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295493,
+    "wof:geomhash":"d85a3b4b7ccac5261c313ac3cad389b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873641549
+        }
+    ],
+    "wof:id":873641549,
+    "wof:lastmodified":1464295493,
+    "wof:name":"Interstate Masonry",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.055924,
+    47.889074,
+    -97.055924,
+    47.889074
+],
+  "geometry": {"coordinates":[-97.055924,47.889074],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 873753895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.794165,46.805613,-100.794165,46.805613",
+    "geom:latitude":46.805613,
+    "geom:longitude":-100.794165,
+    "iso:country":"US",
+    "sg:address":"212 W Main Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 8274",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xxZLWO4sgq5GnLv807bzd_46.805613_-100.794165@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297132,
+    "wof:geomhash":"6641afba2204de1eea5f45787ec940ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873753895
+        }
+    ],
+    "wof:id":873753895,
+    "wof:lastmodified":1464297132,
+    "wof:name":"Balloon Palace",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.794165,
+    46.805613,
+    -100.794165,
+    46.805613
+],
+  "geometry": {"coordinates":[-100.79416500000001,46.805613],"type":"Point"}
+}

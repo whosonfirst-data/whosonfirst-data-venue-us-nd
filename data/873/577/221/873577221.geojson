@@ -1,0 +1,73 @@
+{
+  "id": 873577221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.306699,48.200995,-101.306699,48.200995",
+    "geom:latitude":48.200995,
+    "geom:longitude":-101.306699,
+    "iso:country":"US",
+    "sg:address":"3205 10th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 6443",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0peof24masdBpILR7II2Fk_48.200995_-101.306699@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294686,
+    "wof:geomhash":"a2c700267d46f40e5841020830efdec4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873577221
+        }
+    ],
+    "wof:id":873577221,
+    "wof:lastmodified":1464294686,
+    "wof:name":"Dakota Terrace 1",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.306699,
+    48.200995,
+    -101.306699,
+    48.200995
+],
+  "geometry": {"coordinates":[-101.30669899999999,48.200995],"type":"Point"}
+}

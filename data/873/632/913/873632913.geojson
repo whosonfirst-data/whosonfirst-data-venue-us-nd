@@ -1,0 +1,70 @@
+{
+  "id": 873632913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.798534,46.85957,-96.798534,46.85957",
+    "geom:latitude":46.85957,
+    "geom:longitude":-96.798534,
+    "iso:country":"US",
+    "sg:address":"1433 S University Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 237 9481",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534479,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60AaED0BnOfs9pEkqB6gNa_46.859570_-96.798534@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295399,
+    "wof:geomhash":"47fa463aa9cb96b3580739555dfdf6ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534479,
+            "region_id":85688525,
+            "venue_id":873632913
+        }
+    ],
+    "wof:id":873632913,
+    "wof:lastmodified":1464295399,
+    "wof:name":"Hornbacher Express 84",
+    "wof:parent_id":420534479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.798534,
+    46.85957,
+    -96.798534,
+    46.85957
+],
+  "geometry": {"coordinates":[-96.798534,46.85957],"type":"Point"}
+}

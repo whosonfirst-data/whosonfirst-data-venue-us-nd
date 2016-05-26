@@ -1,0 +1,66 @@
+{
+  "id": 873605983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.774139,47.831768,-97.774139,47.831768",
+    "geom:latitude":47.831768,
+    "geom:longitude":-97.774139,
+    "iso:country":"US",
+    "sg:address":"4380 11th Ave NE",
+    "sg:city":"Northwood",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 326 4122",
+    "sg:postcode":"58267",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cpRMnUODxvS4aqro0gahl_47.831768_-97.774139@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295058,
+    "wof:geomhash":"2ed7c1c937420cce8033107beb100542",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873605983
+        }
+    ],
+    "wof:id":873605983,
+    "wof:lastmodified":1464295058,
+    "wof:name":"Pioneer",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.774139,
+    47.831768,
+    -97.774139,
+    47.831768
+],
+  "geometry": {"coordinates":[-97.77413900000001,47.831768],"type":"Point"}
+}

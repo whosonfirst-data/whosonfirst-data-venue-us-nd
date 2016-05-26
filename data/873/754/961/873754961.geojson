@@ -1,0 +1,77 @@
+{
+  "id": 873754961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.800818,46.822794,-96.800818,46.822794",
+    "geom:latitude":46.822794,
+    "geom:longitude":-96.800818,
+    "iso:country":"US",
+    "sg:address":"3725 12th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 281 1294",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534487,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uQ6fnEpvETrR3CTQGPYPr_46.822794_-96.800818@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297144,
+    "wof:geomhash":"fcb5978c7dbc525fa544283000f54211",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534487,
+            "region_id":85688525,
+            "venue_id":873754961
+        }
+    ],
+    "wof:id":873754961,
+    "wof:lastmodified":1464297144,
+    "wof:name":"Ethic Real Estate",
+    "wof:parent_id":420534487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -96.800818,
+    46.822794,
+    -96.800818,
+    46.822794
+],
+  "geometry": {"coordinates":[-96.80081800000001,46.822794],"type":"Point"}
+}

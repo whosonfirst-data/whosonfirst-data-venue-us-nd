@@ -1,0 +1,67 @@
+{
+  "id": 873623483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.297175,48.260165,-101.297175,48.260165",
+    "geom:latitude":48.260165,
+    "geom:longitude":-101.297175,
+    "iso:country":"US",
+    "sg:address":"225 22nd Ave NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 3411",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:website":"www.selectinn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DE0AlTL8wIq6X5OGHJlxg_48.260165_-101.297175@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295291,
+    "wof:geomhash":"48b67dcbec3ca32fe5fb30a4f6abe980",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873623483
+        }
+    ],
+    "wof:id":873623483,
+    "wof:lastmodified":1464295291,
+    "wof:name":"Select Inn Of Minot",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.297175,
+    48.260165,
+    -101.297175,
+    48.260165
+],
+  "geometry": {"coordinates":[-101.297175,48.260165],"type":"Point"}
+}

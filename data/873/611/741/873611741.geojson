@@ -1,0 +1,66 @@
+{
+  "id": 873611741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.057638,48.329611,-101.057638,48.329611",
+    "geom:latitude":48.329611,
+    "geom:longitude":-101.057638,
+    "iso:country":"US",
+    "sg:address":"9901 153rd St NE",
+    "sg:city":"Surrey",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 728 6423",
+    "sg:postcode":"58785",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ByyIBMv4dGLJhujHXiFZ8_48.329611_-101.057638@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295164,
+    "wof:geomhash":"27c9ff97a41a7fe3d1f75f4d7eb82d5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873611741
+        }
+    ],
+    "wof:id":873611741,
+    "wof:lastmodified":1464295164,
+    "wof:name":"Muscle Magic Therapeutic",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.057638,
+    48.329611,
+    -101.057638,
+    48.329611
+],
+  "geometry": {"coordinates":[-101.057638,48.329611],"type":"Point"}
+}

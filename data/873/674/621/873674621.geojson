@@ -1,0 +1,73 @@
+{
+  "id": 873674621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.805577,46.805599,-100.805577,46.805599",
+    "geom:latitude":46.805599,
+    "geom:longitude":-100.805577,
+    "iso:country":"US",
+    "sg:address":"1039 Jefferson Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Signs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 2235",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "specialty",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13HgMq3k5KAb2QhuOxsBJm_46.805599_-100.805577@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295860,
+    "wof:geomhash":"cbd250a5a8a1f437ebe6f665de410c58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873674621
+        }
+    ],
+    "wof:id":873674621,
+    "wof:lastmodified":1464295860,
+    "wof:name":"Haag Signs",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -100.805577,
+    46.805599,
+    -100.805577,
+    46.805599
+],
+  "geometry": {"coordinates":[-100.805577,46.805599],"type":"Point"}
+}

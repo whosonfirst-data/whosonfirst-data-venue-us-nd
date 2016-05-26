@@ -1,0 +1,75 @@
+{
+  "id": 873651949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.804742,46.886764,-96.804742,46.886764",
+    "geom:latitude":46.886764,
+    "geom:longitude":-96.804742,
+    "iso:country":"US",
+    "sg:address":"902 15th St N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 7764",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877363,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4legN0XzsOgGZTQcQBArfM_46.886764_-96.804742@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295613,
+    "wof:geomhash":"5371cb92586db2563281e9f7a8d63de7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877363,
+            "region_id":85688525,
+            "venue_id":873651949
+        }
+    ],
+    "wof:id":873651949,
+    "wof:lastmodified":1464295613,
+    "wof:name":"Aggie Investment GP",
+    "wof:parent_id":85877363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.804742,
+    46.886764,
+    -96.804742,
+    46.886764
+],
+  "geometry": {"coordinates":[-96.804742,46.886764],"type":"Point"}
+}

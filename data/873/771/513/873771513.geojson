@@ -1,0 +1,71 @@
+{
+  "id": 873771513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.046279,47.927322,-97.046279,47.927322",
+    "geom:latitude":47.927322,
+    "geom:longitude":-97.046279,
+    "iso:country":"US",
+    "sg:address":"1314 8th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 3183",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mPvgpMmXGVuezESZa7c3R_47.927322_-97.046279@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297384,
+    "wof:geomhash":"0a2484188a95e386c2327c2f0f9be8ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873771513
+        }
+    ],
+    "wof:id":873771513,
+    "wof:lastmodified":1464297384,
+    "wof:name":"Auto Diagnostic Service",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -97.046279,
+    47.927322,
+    -97.046279,
+    47.927322
+],
+  "geometry": {"coordinates":[-97.046279,47.927322],"type":"Point"}
+}

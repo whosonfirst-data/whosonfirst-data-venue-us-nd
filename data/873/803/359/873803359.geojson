@@ -1,0 +1,80 @@
+{
+  "id": 873803359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.817169,46.845058,-96.817169,46.845058",
+    "geom:latitude":46.845058,
+    "geom:longitude":-96.817169,
+    "iso:country":"US",
+    "sg:address":"1711 Gold Dr S Ste 200",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 280 2800",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "information",
+        "attorney",
+        "referral"
+    ],
+    "sg:website":"http://www.forresthutchinson.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534475,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pdUrxeIKFpN8Vfz07dxIL_46.845058_-96.817169@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297814,
+    "wof:geomhash":"ea4b4d9c2849eea3c938abb9447ccf13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534475,
+            "region_id":85688525,
+            "venue_id":873803359
+        }
+    ],
+    "wof:id":873803359,
+    "wof:lastmodified":1464297814,
+    "wof:name":"Forrest Hutchinson & Associates",
+    "wof:parent_id":420534475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "attorney",
+        "referral"
+    ]
+},
+  "bbox": [
+    -96.817169,
+    46.845058,
+    -96.817169,
+    46.845058
+],
+  "geometry": {"coordinates":[-96.81716900000001,46.845058],"type":"Point"}
+}

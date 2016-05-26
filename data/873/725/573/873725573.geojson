@@ -1,0 +1,74 @@
+{
+  "id": 873725573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.774289,46.805224,-100.774289,46.805224",
+    "geom:latitude":46.805224,
+    "geom:longitude":-100.774289,
+    "iso:country":"US",
+    "sg:address":"1125 E Main Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 530 0986",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "sg:website":"www.npb.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48I75WITnkky8wcSbJhL63_46.805224_-100.774289@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296719,
+    "wof:geomhash":"f7a2afe2bf1d8620d86503da06cc9df7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873725573
+        }
+    ],
+    "wof:id":873725573,
+    "wof:lastmodified":1464296719,
+    "wof:name":"Northern Plains Ballet",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -100.774289,
+    46.805224,
+    -100.774289,
+    46.805224
+],
+  "geometry": {"coordinates":[-100.774289,46.805224],"type":"Point"}
+}

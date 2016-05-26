@@ -1,0 +1,77 @@
+{
+  "id": 873608287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.832143,46.861427,-96.832143,46.861427",
+    "geom:latitude":46.861427,
+    "geom:longitude":-96.832143,
+    "iso:country":"US",
+    "sg:address":"3220 13th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 5386",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PistnTxacByuY44CxPUXH_46.861427_-96.832143@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295110,
+    "wof:geomhash":"a33f36695faedb3ab57f0f21223572dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873608287
+        }
+    ],
+    "wof:id":873608287,
+    "wof:lastmodified":1464295110,
+    "wof:name":"Wells Fargo Financial Accptnc",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -96.832143,
+    46.861427,
+    -96.832143,
+    46.861427
+],
+  "geometry": {"coordinates":[-96.832143,46.861427],"type":"Point"}
+}

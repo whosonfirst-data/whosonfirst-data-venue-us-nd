@@ -1,0 +1,77 @@
+{
+  "id": 873583311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.708093,46.761639,-100.708093,46.761639",
+    "geom:latitude":46.761639,
+    "geom:longitude":-100.708093,
+    "iso:country":"US",
+    "sg:address":"16 Eckleson Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 224 1186",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3m7KeibMYeMxd1HadJ65k4_46.761639_-100.708093@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294755,
+    "wof:geomhash":"4b3cc6f199f29167d2cf672820e06634",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873583311
+        }
+    ],
+    "wof:id":873583311,
+    "wof:lastmodified":1464294755,
+    "wof:name":"M J's Sewer & Drain Cleaning",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ]
+},
+  "bbox": [
+    -100.708093,
+    46.761639,
+    -100.708093,
+    46.761639
+],
+  "geometry": {"coordinates":[-100.70809300000001,46.761639],"type":"Point"}
+}

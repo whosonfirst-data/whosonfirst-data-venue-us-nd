@@ -1,0 +1,82 @@
+{
+  "id": 873781051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.05003,47.895724,-97.05003,47.895724",
+    "geom:latitude":47.895724,
+    "geom:longitude":-97.05003,
+    "iso:country":"US",
+    "sg:address":"1407 24th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 9234",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "consulting",
+        "dealer",
+        "network"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GUKjUFJ6ZCR5YxPBOABH2_47.895724_-97.050030@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297505,
+    "wof:geomhash":"aa25065acc90675d543bcf68d2146452",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873781051
+        }
+    ],
+    "wof:id":873781051,
+    "wof:lastmodified":1464297505,
+    "wof:name":"Networking Specialists Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "consulting",
+        "dealer",
+        "network"
+    ]
+},
+  "bbox": [
+    -97.05003,
+    47.895724,
+    -97.05003,
+    47.895724
+],
+  "geometry": {"coordinates":[-97.05003000000001,47.895724],"type":"Point"}
+}

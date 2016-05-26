@@ -1,0 +1,73 @@
+{
+  "id": 873596629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.757318,46.811638,-100.757318,46.811638",
+    "geom:latitude":46.811638,
+    "geom:longitude":-100.757318,
+    "iso:country":"US",
+    "sg:address":"744 N 23rd St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 3637",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05use1myuzBtnQXDI7BsCQ_46.811638_-100.757318@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294939,
+    "wof:geomhash":"6e85b0e4275b6735bb7495d2ddcb49c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873596629
+        }
+    ],
+    "wof:id":873596629,
+    "wof:lastmodified":1464294939,
+    "wof:name":"Maurice Lardy",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -100.757318,
+    46.811638,
+    -100.757318,
+    46.811638
+],
+  "geometry": {"coordinates":[-100.757318,46.811638],"type":"Point"}
+}

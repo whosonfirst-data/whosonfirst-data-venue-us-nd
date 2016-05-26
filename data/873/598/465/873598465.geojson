@@ -1,0 +1,84 @@
+{
+  "id": 873598465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.709726,46.811319,-100.709726,46.811319",
+    "geom:latitude":46.811319,
+    "geom:longitude":-100.709726,
+    "iso:country":"US",
+    "sg:address":"627 52nd St NE",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 4025",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator",
+        "investor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JcGxGppXHiyjL50N9Wawu_46.811319_-100.709726@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294964,
+    "wof:geomhash":"708a8d53e15b82a12c8b5b5989fe1feb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873598465
+        }
+    ],
+    "wof:id":873598465,
+    "wof:lastmodified":1464294964,
+    "wof:name":"Pacesetter Designs Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator",
+        "investor"
+    ]
+},
+  "bbox": [
+    -100.709726,
+    46.811319,
+    -100.709726,
+    46.811319
+],
+  "geometry": {"coordinates":[-100.709726,46.811319],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873687675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.78171,46.798162,-100.78171,46.798162",
+    "geom:latitude":46.798162,
+    "geom:longitude":-100.78171,
+    "iso:country":"US",
+    "sg:address":"805 S 7th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 3054",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3T4ECsvSkagv8vLBiuNclS_46.798162_-100.781710@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296211,
+    "wof:geomhash":"5cbf819daceba53d1aceb45961067da9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873687675
+        }
+    ],
+    "wof:id":873687675,
+    "wof:lastmodified":1464296211,
+    "wof:name":"True Value Hardware",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.78171,
+    46.798162,
+    -100.78171,
+    46.798162
+],
+  "geometry": {"coordinates":[-100.78171,46.798162],"type":"Point"}
+}

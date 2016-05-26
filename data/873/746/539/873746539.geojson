@@ -1,0 +1,73 @@
+{
+  "id": 873746539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.812637,46.807573,-100.812637,46.807573",
+    "geom:latitude":46.807573,
+    "geom:longitude":-100.812637,
+    "iso:country":"US",
+    "sg:address":"1207 Memorial Hwy",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 9015",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UBhDn4YFLrHfEjKrPHI2o_46.807573_-100.812637@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297032,
+    "wof:geomhash":"7dbd8462219d189806fa1792963242ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873746539
+        }
+    ],
+    "wof:id":873746539,
+    "wof:lastmodified":1464297032,
+    "wof:name":"Doc's Veterinary Clinic",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -100.812637,
+    46.807573,
+    -100.812637,
+    46.807573
+],
+  "geometry": {"coordinates":[-100.812637,46.807573],"type":"Point"}
+}

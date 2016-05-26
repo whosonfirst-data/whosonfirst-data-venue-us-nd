@@ -1,0 +1,65 @@
+{
+  "id": 873687999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.784883,46.874679,-96.784883,46.874679",
+    "geom:latitude":46.874679,
+    "geom:longitude":-96.784883,
+    "iso:country":"US",
+    "sg:address":"44 4th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 9200",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "ambulatory",
+        "surgery",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dsas4L8j3fwsgrSZRoV9V_46.874679_-96.784883@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296220,
+    "wof:geomhash":"44351f74bbe25f606b5e43c37da331f6",
+    "wof:hierarchy":[],
+    "wof:id":873687999,
+    "wof:lastmodified":1464296220,
+    "wof:name":"Northern Plains Surgery Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulatory",
+        "surgery",
+        "center"
+    ]
+},
+  "bbox": [
+    -96.784883,
+    46.874679,
+    -96.784883,
+    46.874679
+],
+  "geometry": {"coordinates":[-96.78488299999999,46.874679],"type":"Point"}
+}

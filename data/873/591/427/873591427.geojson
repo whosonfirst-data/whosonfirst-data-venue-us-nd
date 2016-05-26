@@ -1,0 +1,79 @@
+{
+  "id": 873591427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.815626,46.883105,-96.815626,46.883105",
+    "geom:latitude":46.883105,
+    "geom:longitude":-96.815626,
+    "iso:country":"US",
+    "sg:address":"2236 7th Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 234 0755",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5C2u3qpnPHheTgI4UoUY0t_46.883105_-96.815626@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294848,
+    "wof:geomhash":"de75f857edfada08363c752aa7cf3352",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873591427
+        }
+    ],
+    "wof:id":873591427,
+    "wof:lastmodified":1464294848,
+    "wof:name":"Mechanical Insulation & Supply",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.815626,
+    46.883105,
+    -96.815626,
+    46.883105
+],
+  "geometry": {"coordinates":[-96.81562599999999,46.883105],"type":"Point"}
+}

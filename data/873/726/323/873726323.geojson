@@ -1,0 +1,71 @@
+{
+  "id": 873726323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.329653,48.25013,-101.329653,48.25013",
+    "geom:latitude":48.25013,
+    "geom:longitude":-101.329653,
+    "iso:country":"US",
+    "sg:address":"2416 Blake Rd",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 837 1189",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VHVJnNIBMcdoHzzZ5X9dr_48.250130_-101.329653@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296729,
+    "wof:geomhash":"f4d8fcb1dea6067c81f42b1bc889de65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873726323
+        }
+    ],
+    "wof:id":873726323,
+    "wof:lastmodified":1464296729,
+    "wof:name":"Ideas Ink",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial"
+    ]
+},
+  "bbox": [
+    -101.329653,
+    48.25013,
+    -101.329653,
+    48.25013
+],
+  "geometry": {"coordinates":[-101.32965299999999,48.25013],"type":"Point"}
+}

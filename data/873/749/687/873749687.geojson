@@ -1,0 +1,75 @@
+{
+  "id": 873749687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.82346,46.873114,-96.82346,46.873114",
+    "geom:latitude":46.873114,
+    "geom:longitude":-96.82346,
+    "iso:country":"US",
+    "sg:address":"234 28th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 3644",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "control"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ifj237PkUaN6Vip7WdzBW_46.873114_-96.823460@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297071,
+    "wof:geomhash":"15b8a18e7589eef8cf8dccca8562cbf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873749687
+        }
+    ],
+    "wof:id":873749687,
+    "wof:lastmodified":1464297071,
+    "wof:name":"Sweeney Controls",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control"
+    ]
+},
+  "bbox": [
+    -96.82346,
+    46.873114,
+    -96.82346,
+    46.873114
+],
+  "geometry": {"coordinates":[-96.82346,46.873114],"type":"Point"}
+}

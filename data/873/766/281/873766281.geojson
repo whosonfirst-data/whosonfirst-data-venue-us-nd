@@ -1,0 +1,73 @@
+{
+  "id": 873766281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.320338,48.25569,-101.320338,48.25569",
+    "geom:latitude":48.25569,
+    "geom:longitude":-101.320338,
+    "iso:country":"US",
+    "sg:address":"1803 Terrace Ct",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 9306",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1caekLntbQHXgy7wgjDSlg_48.255690_-101.320338@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297316,
+    "wof:geomhash":"9bd112a4844070086aa3ac5ad4b87b02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873766281
+        }
+    ],
+    "wof:id":873766281,
+    "wof:lastmodified":1464297316,
+    "wof:name":"Holm Construction",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.320338,
+    48.25569,
+    -101.320338,
+    48.25569
+],
+  "geometry": {"coordinates":[-101.32033800000001,48.25569],"type":"Point"}
+}

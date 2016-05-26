@@ -1,0 +1,66 @@
+{
+  "id": 873604473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.195896,47.710938,-97.195896,47.710938",
+    "geom:latitude":47.710938,
+    "geom:longitude":-97.195896,
+    "iso:country":"US",
+    "sg:address":"286 17th St NE",
+    "sg:city":"Reynolds",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 847 2311",
+    "sg:postcode":"58275",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_399dPtNp5ts3oj8keqL7Qf_47.710938_-97.195896@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295034,
+    "wof:geomhash":"f26da48ac1d8d17b37d4dbff32223c78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873604473
+        }
+    ],
+    "wof:id":873604473,
+    "wof:lastmodified":1464295034,
+    "wof:name":"North Star Tools",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.195896,
+    47.710938,
+    -97.195896,
+    47.710938
+],
+  "geometry": {"coordinates":[-97.195896,47.710938],"type":"Point"}
+}

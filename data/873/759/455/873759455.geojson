@@ -1,0 +1,73 @@
+{
+  "id": 873759455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.053343,47.900423,-97.053343,47.900423",
+    "geom:latitude":47.900423,
+    "geom:longitude":-97.053343,
+    "iso:country":"US",
+    "sg:address":"1710 20th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 8199",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "guard",
+        "patrol"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4t4NhviXir2CnMOBy8r0fR_47.900423_-97.053343@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297200,
+    "wof:geomhash":"63da33b748ff8481c9b0a3df64899555",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873759455
+        }
+    ],
+    "wof:id":873759455,
+    "wof:lastmodified":1464297200,
+    "wof:name":"Access Security",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guard",
+        "patrol"
+    ]
+},
+  "bbox": [
+    -97.053343,
+    47.900423,
+    -97.053343,
+    47.900423
+],
+  "geometry": {"coordinates":[-97.053343,47.900423],"type":"Point"}
+}

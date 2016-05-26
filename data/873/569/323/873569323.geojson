@@ -1,0 +1,71 @@
+{
+  "id": 873569323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.154552,48.124597,-101.154552,48.124597",
+    "geom:latitude":48.124597,
+    "geom:longitude":-101.154552,
+    "iso:country":"US",
+    "sg:address":"10901 86th St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 722 5538",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fQugQknpTX3KBBF3clTI1_48.124597_-101.154552@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294598,
+    "wof:geomhash":"bbaeadf7fe884356a351cd20fa62d757",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873569323
+        }
+    ],
+    "wof:id":873569323,
+    "wof:lastmodified":1464294598,
+    "wof:name":"Millennium SEC & Surveillance",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system"
+    ]
+},
+  "bbox": [
+    -101.154552,
+    48.124597,
+    -101.154552,
+    48.124597
+],
+  "geometry": {"coordinates":[-101.154552,48.124597],"type":"Point"}
+}

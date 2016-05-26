@@ -1,0 +1,75 @@
+{
+  "id": 873597925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.813007,46.842547,-96.813007,46.842547",
+    "geom:latitude":46.842547,
+    "geom:longitude":-96.813007,
+    "iso:country":"US",
+    "sg:address":"2014 25th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 1753",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534475,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64tjtthTrJJgcyKVy8nVnc_46.842547_-96.813007@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294958,
+    "wof:geomhash":"c50a88c84099a6b180a1dc2d501695e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534475,
+            "region_id":85688525,
+            "venue_id":873597925
+        }
+    ],
+    "wof:id":873597925,
+    "wof:lastmodified":1464294958,
+    "wof:name":"Trents Hair Inc",
+    "wof:parent_id":420534475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -96.813007,
+    46.842547,
+    -96.813007,
+    46.842547
+],
+  "geometry": {"coordinates":[-96.813007,46.842547],"type":"Point"}
+}

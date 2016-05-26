@@ -1,0 +1,71 @@
+{
+  "id": 873744609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.036113,47.881325,-97.036113,47.881325",
+    "geom:latitude":47.881325,
+    "geom:longitude":-97.036113,
+    "iso:country":"US",
+    "sg:address":"3920 Cherry St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 7327",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FBIW0NHyWWihgI42Jv2nA_47.881325_-97.036113@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297004,
+    "wof:geomhash":"a34315b08012340680d846b2a74e786d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873744609
+        }
+    ],
+    "wof:id":873744609,
+    "wof:lastmodified":1464297004,
+    "wof:name":"Valley Christian Center",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -97.036113,
+    47.881325,
+    -97.036113,
+    47.881325
+],
+  "geometry": {"coordinates":[-97.036113,47.881325],"type":"Point"}
+}

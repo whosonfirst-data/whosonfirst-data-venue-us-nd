@@ -1,0 +1,73 @@
+{
+  "id": 873602609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.707989,46.809135,-100.707989,46.809135",
+    "geom:latitude":46.809135,
+    "geom:longitude":-100.707989,
+    "iso:country":"US",
+    "sg:address":"5320 E Main Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 9559",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SHP0RJYMabggnHdTETBXp_46.809135_-100.707989@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295014,
+    "wof:geomhash":"a8e8fc2c0184d0aee6a37143dde62c9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873602609
+        }
+    ],
+    "wof:id":873602609,
+    "wof:lastmodified":1464295014,
+    "wof:name":"Concrete Mudjacking Svc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.707989,
+    46.809135,
+    -100.707989,
+    46.809135
+],
+  "geometry": {"coordinates":[-100.707989,46.809135],"type":"Point"}
+}

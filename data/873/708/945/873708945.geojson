@@ -1,0 +1,73 @@
+{
+  "id": 873708945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.082325,47.932962,-97.082325,47.932962",
+    "geom:latitude":47.932962,
+    "geom:longitude":-97.082325,
+    "iso:country":"US",
+    "sg:address":"3903 Gateway Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 780 0860",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31DkE4rwTLWLxb7ndtp12L_47.932962_-97.082325@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296506,
+    "wof:geomhash":"4f105372cffc2a3a1a60d883471d6543",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873708945
+        }
+    ],
+    "wof:id":873708945,
+    "wof:lastmodified":1464296506,
+    "wof:name":"Innovative Tile Design",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -97.082325,
+    47.932962,
+    -97.082325,
+    47.932962
+],
+  "geometry": {"coordinates":[-97.082325,47.932962],"type":"Point"}
+}

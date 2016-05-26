@@ -1,0 +1,73 @@
+{
+  "id": 873619951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.045739,47.890838,-97.045739,47.890838",
+    "geom:latitude":47.890838,
+    "geom:longitude":-97.045739,
+    "iso:country":"US",
+    "sg:address":"2820 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 8304",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20D7oca6UmEN1hYK3Y27Fn_47.890838_-97.045739@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295250,
+    "wof:geomhash":"4c8e81ca908549359819cf4685b84f0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873619951
+        }
+    ],
+    "wof:id":873619951,
+    "wof:lastmodified":1464295250,
+    "wof:name":"Midas Auto Svc Experts",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -97.045739,
+    47.890838,
+    -97.045739,
+    47.890838
+],
+  "geometry": {"coordinates":[-97.045739,47.890838],"type":"Point"}
+}

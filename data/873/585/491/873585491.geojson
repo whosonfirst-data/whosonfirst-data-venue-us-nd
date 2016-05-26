@@ -1,0 +1,75 @@
+{
+  "id": 873585491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.787793,46.882001,-96.787793,46.882001",
+    "geom:latitude":46.882001,
+    "geom:longitude":-96.787793,
+    "iso:country":"US",
+    "sg:address":"510 Broadway",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 6703",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534465,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mnkIpstCrmq6XXBOlYYMH_46.882001_-96.787793@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294778,
+    "wof:geomhash":"038c735821885cf4e24601e20f35774f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534465,
+            "region_id":85688525,
+            "venue_id":873585491
+        }
+    ],
+    "wof:id":873585491,
+    "wof:lastmodified":1464294778,
+    "wof:name":"Broadway Barber Shop",
+    "wof:parent_id":420534465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -96.787793,
+    46.882001,
+    -96.787793,
+    46.882001
+],
+  "geometry": {"coordinates":[-96.78779299999999,46.882001],"type":"Point"}
+}

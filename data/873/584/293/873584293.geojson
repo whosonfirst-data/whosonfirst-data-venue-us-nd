@@ -1,0 +1,75 @@
+{
+  "id": 873584293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-102.78853,46.879179,-102.78853,46.879179",
+    "geom:latitude":46.879179,
+    "geom:longitude":-102.78853,
+    "iso:country":"US",
+    "sg:address":"25 2nd Ave W",
+    "sg:city":"Dickinson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 456 7626",
+    "sg:postcode":"58601",
+    "sg:province":"ND",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877119,
+        102191575,
+        404482179,
+        85633793,
+        85982521,
+        102082105,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2c6pjrpquSWF3lyqqGBCYl_46.879179_-102.788530@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294766,
+    "wof:geomhash":"0b18a00afd2569e85e6fc6d239a79ab0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082105,
+            "localadmin_id":404482179,
+            "locality_id":85982521,
+            "neighbourhood_id":85877119,
+            "region_id":85688525,
+            "venue_id":873584293
+        }
+    ],
+    "wof:id":873584293,
+    "wof:lastmodified":1464294766,
+    "wof:name":"Dickinson Fire Department",
+    "wof:parent_id":85877119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -102.78853,
+    46.879179,
+    -102.78853,
+    46.879179
+],
+  "geometry": {"coordinates":[-102.78852999999999,46.879179],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873632325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.097492,47.917941,-97.097492,47.917941",
+    "geom:latitude":47.917941,
+    "geom:longitude":-97.097492,
+    "iso:country":"US",
+    "sg:address":"617 S 47th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 2200",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "mattress"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DMEffMBJmqTIrBcqSDReF_47.917941_-97.097492@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295390,
+    "wof:geomhash":"acb7c93e928e923c87f5eaf13d797043",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873632325
+        }
+    ],
+    "wof:id":873632325,
+    "wof:lastmodified":1464295390,
+    "wof:name":"Mattress Outlet Discount Beds",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mattress"
+    ]
+},
+  "bbox": [
+    -97.097492,
+    47.917941,
+    -97.097492,
+    47.917941
+],
+  "geometry": {"coordinates":[-97.097492,47.917941],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873751051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.840392,46.818386,-96.840392,46.818386",
+    "geom:latitude":46.818386,
+    "geom:longitude":-96.840392,
+    "iso:country":"US",
+    "sg:address":"4001 38th St SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 356 5641",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CzS90j8tIZEYJlsh0baJ1_46.818386_-96.840392@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297088,
+    "wof:geomhash":"3887c1ed775ba7a4dee21c70def3eaad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873751051
+        }
+    ],
+    "wof:id":873751051,
+    "wof:lastmodified":1464297088,
+    "wof:name":"Heavy Haul Svc",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.840392,
+    46.818386,
+    -96.840392,
+    46.818386
+],
+  "geometry": {"coordinates":[-96.84039199999999,46.818386],"type":"Point"}
+}

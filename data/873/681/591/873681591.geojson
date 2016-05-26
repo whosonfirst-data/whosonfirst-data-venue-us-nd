@@ -1,0 +1,75 @@
+{
+  "id": 873681591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.279688,47.14131,-100.279688,47.14131",
+    "geom:latitude":47.14131,
+    "geom:longitude":-100.279688,
+    "iso:country":"US",
+    "sg:address":"213 Main St",
+    "sg:city":"Wing",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 943 2490",
+    "sg:postcode":"58494",
+    "sg:province":"ND",
+    "sg:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02LjRiM0BwaTAV3fLuRINz_47.141310_-100.279688@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296041,
+    "wof:geomhash":"8876ec997cf3f67356381bd267955802",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873681591
+        }
+    ],
+    "wof:id":873681591,
+    "wof:lastmodified":1464296041,
+    "wof:name":"Wing Senior Ctr",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -100.279688,
+    47.14131,
+    -100.279688,
+    47.14131
+],
+  "geometry": {"coordinates":[-100.27968799999999,47.14131],"type":"Point"}
+}

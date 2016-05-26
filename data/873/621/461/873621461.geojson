@@ -1,0 +1,66 @@
+{
+  "id": 873621461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.778373,46.81031,-100.778373,46.81031",
+    "geom:latitude":46.81031,
+    "geom:longitude":-100.778373,
+    "iso:country":"US",
+    "sg:address":"525 N 9th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Podiatrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 8120",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HFhi9BwZ4WfTpxlycFBfT_46.810310_-100.778373@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295265,
+    "wof:geomhash":"a2c507cd589884555db18e2b295a7152",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873621461
+        }
+    ],
+    "wof:id":873621461,
+    "wof:lastmodified":1464295265,
+    "wof:name":"Olson Aaron C DPM",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.778373,
+    46.81031,
+    -100.778373,
+    46.81031
+],
+  "geometry": {"coordinates":[-100.778373,46.81031],"type":"Point"}
+}

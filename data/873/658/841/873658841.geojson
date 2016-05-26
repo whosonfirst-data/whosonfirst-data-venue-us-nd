@@ -1,0 +1,71 @@
+{
+  "id": 873658841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.002184,47.853804,-97.002184,47.853804",
+    "geom:latitude":47.853804,
+    "geom:longitude":-97.002184,
+    "iso:country":"US",
+    "sg:address":"6849 16th St SE",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 1126",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "paper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67PB1WzBnoSnu8MujClvfR_47.853804_-97.002184@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295687,
+    "wof:geomhash":"45e41af637723c83d170bfebb9c89c3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873658841
+        }
+    ],
+    "wof:id":873658841,
+    "wof:lastmodified":1464295687,
+    "wof:name":"Docu-Shred Mobile Shredding",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paper"
+    ]
+},
+  "bbox": [
+    -97.002184,
+    47.853804,
+    -97.002184,
+    47.853804
+],
+  "geometry": {"coordinates":[-97.002184,47.853804],"type":"Point"}
+}

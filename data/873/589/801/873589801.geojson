@@ -1,0 +1,66 @@
+{
+  "id": 873589801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.076443,47.917756,-97.076443,47.917756",
+    "geom:latitude":47.917756,
+    "geom:longitude":-97.076443,
+    "iso:country":"US",
+    "sg:address":"3165 Demers Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 780 6697",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YYlZgkfj4CNTq6QPP7x25_47.917756_-97.076443@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294829,
+    "wof:geomhash":"b83a4cafce9b735db69bf3be20b13a17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873589801
+        }
+    ],
+    "wof:id":873589801,
+    "wof:lastmodified":1464294829,
+    "wof:name":"Bansal Ashok",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.076443,
+    47.917756,
+    -97.076443,
+    47.917756
+],
+  "geometry": {"coordinates":[-97.076443,47.917756],"type":"Point"}
+}

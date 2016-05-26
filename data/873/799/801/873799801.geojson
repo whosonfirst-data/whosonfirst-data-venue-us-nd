@@ -1,0 +1,91 @@
+{
+  "id": 873799801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.010773,46.649525,-97.010773,46.649525",
+    "geom:latitude":46.649525,
+    "geom:longitude":-97.010773,
+    "iso:country":"US",
+    "sg:address":"111 1st Ave N Hngr 12",
+    "sg:city":"Kindred",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 428 9954",
+    "sg:postcode":"58051",
+    "sg:province":"ND",
+    "sg:tags":[
+        "rebuilding",
+        "industrial",
+        "aircraft",
+        "contractors-commercial",
+        "maintenance",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pzOwRbkwC4OP8wIsMkJBe_46.649525_-97.010773@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297771,
+    "wof:geomhash":"61d3a5e448b0bcfdb6589141e30bd695",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873799801
+        }
+    ],
+    "wof:id":873799801,
+    "wof:lastmodified":1464297771,
+    "wof:name":"Kindred Aircraft Maintenance",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rebuilding",
+        "industrial",
+        "aircraft",
+        "contractors-commercial",
+        "maintenance",
+        "painting"
+    ]
+},
+  "bbox": [
+    -97.010773,
+    46.649525,
+    -97.010773,
+    46.649525
+],
+  "geometry": {"coordinates":[-97.010773,46.649525],"type":"Point"}
+}

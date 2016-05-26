@@ -1,0 +1,72 @@
+{
+  "id": 873668927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.314946,48.211207,-101.314946,48.211207",
+    "geom:latitude":48.211207,
+    "geom:longitude":-101.314946,
+    "iso:country":"US",
+    "sg:address":"1400 20th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 858 1200",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "company"
+    ],
+    "sg:website":"www.srtwireless.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OPTftIw2GIgjKL2kFHP9i_48.211207_-101.314946@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295790,
+    "wof:geomhash":"399a2ea3e5469747c864c73f3568b2e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873668927
+        }
+    ],
+    "wof:id":873668927,
+    "wof:lastmodified":1464295790,
+    "wof:name":"SRT Communications Inc",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -101.314946,
+    48.211207,
+    -101.314946,
+    48.211207
+],
+  "geometry": {"coordinates":[-101.31494600000001,48.211207],"type":"Point"}
+}

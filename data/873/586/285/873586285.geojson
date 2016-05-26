@@ -1,0 +1,77 @@
+{
+  "id": 873586285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.329421,48.249272,-101.329421,48.249272",
+    "geom:latitude":48.249272,
+    "geom:longitude":-101.329421,
+    "iso:country":"US",
+    "sg:address":"2400 Crescent Dr",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 3139",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "program",
+        "physical",
+        "exercise",
+        "fitness"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RU4yPvPRF9xUaevQDceQZ_48.249272_-101.329421@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294787,
+    "wof:geomhash":"b695c95b75b19a4e09ba3f45446f9c3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873586285
+        }
+    ],
+    "wof:id":873586285,
+    "wof:lastmodified":1464294787,
+    "wof:name":"Advanced Sports Kinetics",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "program",
+        "physical",
+        "exercise",
+        "fitness"
+    ]
+},
+  "bbox": [
+    -101.329421,
+    48.249272,
+    -101.329421,
+    48.249272
+],
+  "geometry": {"coordinates":[-101.329421,48.249272],"type":"Point"}
+}

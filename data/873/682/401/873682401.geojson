@@ -1,0 +1,75 @@
+{
+  "id": 873682401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.221477,48.229136,-101.221477,48.229136",
+    "geom:latitude":48.229136,
+    "geom:longitude":-101.221477,
+    "iso:country":"US",
+    "sg:address":"5140 US Hwy 2 Bus",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 1634",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "specializing",
+        "paving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67M5pV6IPrJfCCe5Nb9UAt_48.229136_-101.221477@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296064,
+    "wof:geomhash":"455208d9b1d69087018a59cd90ce92db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873682401
+        }
+    ],
+    "wof:id":873682401,
+    "wof:lastmodified":1464296064,
+    "wof:name":"Bechtold Paving Inc",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specializing",
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.221477,
+    48.229136,
+    -101.221477,
+    48.229136
+],
+  "geometry": {"coordinates":[-101.22147699999999,48.229136],"type":"Point"}
+}

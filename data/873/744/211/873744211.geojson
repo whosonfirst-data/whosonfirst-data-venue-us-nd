@@ -1,0 +1,80 @@
+{
+  "id": 873744211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-102.78975,46.898894,-102.78975,46.898894",
+    "geom:latitude":46.898894,
+    "geom:longitude":-102.78975,
+    "iso:country":"US",
+    "sg:address":"1570 3rd Ave W",
+    "sg:city":"Dickinson",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 225 3751",
+    "sg:postcode":"58601",
+    "sg:province":"ND",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877119,
+        102191575,
+        404482179,
+        85633793,
+        85982521,
+        102082105,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JIhaIsF9PEzpZYsohzwW0_46.898894_-102.789750@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296997,
+    "wof:geomhash":"c8bcc85172a87aa5527a3a43fe9d5830",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082105,
+            "localadmin_id":404482179,
+            "locality_id":85982521,
+            "neighbourhood_id":85877119,
+            "region_id":85688525,
+            "venue_id":873744211
+        }
+    ],
+    "wof:id":873744211,
+    "wof:lastmodified":1464296997,
+    "wof:name":"Dakota Loan & Pawn North",
+    "wof:parent_id":85877119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -102.78975,
+    46.898894,
+    -102.78975,
+    46.898894
+],
+  "geometry": {"coordinates":[-102.78975,46.898894],"type":"Point"}
+}

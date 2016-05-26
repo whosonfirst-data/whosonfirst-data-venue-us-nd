@@ -1,0 +1,71 @@
+{
+  "id": 873583199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.314514,48.234285,-101.314514,48.234285",
+    "geom:latitude":48.234285,
+    "geom:longitude":-101.314514,
+    "iso:country":"US",
+    "sg:address":"1421 2nd Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 7297",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08DBh0niEgigoy973TPupt_48.234285_-101.314514@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294754,
+    "wof:geomhash":"e8d99d0433d7c02d11680817debe40c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873583199
+        }
+    ],
+    "wof:id":873583199,
+    "wof:lastmodified":1464294754,
+    "wof:name":"West Oaks Animal Hospital",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -101.314514,
+    48.234285,
+    -101.314514,
+    48.234285
+],
+  "geometry": {"coordinates":[-101.314514,48.234285],"type":"Point"}
+}

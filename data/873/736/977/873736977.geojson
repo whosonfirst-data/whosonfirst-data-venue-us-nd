@@ -1,0 +1,75 @@
+{
+  "id": 873736977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.393847,48.252797,-101.393847,48.252797",
+    "geom:latitude":48.252797,
+    "geom:longitude":-101.393847,
+    "iso:country":"US",
+    "sg:address":"6600 17th Ave NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 3134",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "group",
+        "live",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54afcL1P1gHaoEeIMDlXNz_48.252797_-101.393847@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296882,
+    "wof:geomhash":"2249155b111f25959223db800d2d14b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873736977
+        }
+    ],
+    "wof:id":873736977,
+    "wof:lastmodified":1464296882,
+    "wof:name":"Dakota Sound & Lights D J Svc",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "group",
+        "live",
+        "music"
+    ]
+},
+  "bbox": [
+    -101.393847,
+    48.252797,
+    -101.393847,
+    48.252797
+],
+  "geometry": {"coordinates":[-101.39384699999999,48.252797],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 873614767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.044776,47.887852,-97.044776,47.887852",
+    "geom:latitude":47.887852,
+    "geom:longitude":-97.044776,
+    "iso:country":"US",
+    "sg:address":"3425 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 1000",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:website":"www.1st-realty.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hlP0RGA9lq7b3jQRQu2ZC_47.887852_-97.044776@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295193,
+    "wof:geomhash":"24a5577295af04ecd7a4a7bbd9dea110",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873614767
+        }
+    ],
+    "wof:id":873614767,
+    "wof:lastmodified":1464295193,
+    "wof:name":"First Realty",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.044776,
+    47.887852,
+    -97.044776,
+    47.887852
+],
+  "geometry": {"coordinates":[-97.044776,47.887852],"type":"Point"}
+}

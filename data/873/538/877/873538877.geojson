@@ -1,0 +1,82 @@
+{
+  "id": 873538877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.140738,47.151832,-97.140738,47.151832",
+    "geom:latitude":47.151832,
+    "geom:longitude":-97.140738,
+    "iso:country":"US",
+    "sg:address":"15864 18th St SE",
+    "sg:city":"Hunter",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 491 0350",
+    "sg:postcode":"58048",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WTCUSuw3unwS3hlJbx91n_47.151832_-97.140738@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294248,
+    "wof:geomhash":"c54ee2566f83121624e78c1f0e148a6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873538877
+        }
+    ],
+    "wof:id":873538877,
+    "wof:lastmodified":1464294248,
+    "wof:name":"Lerew Auto Repair",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -97.140738,
+    47.151832,
+    -97.140738,
+    47.151832
+],
+  "geometry": {"coordinates":[-97.140738,47.151832],"type":"Point"}
+}

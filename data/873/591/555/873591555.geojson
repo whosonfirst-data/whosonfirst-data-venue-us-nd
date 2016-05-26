@@ -1,0 +1,67 @@
+{
+  "id": 873591555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.07476,47.889527,-97.07476,47.889527",
+    "geom:latitude":47.889527,
+    "geom:longitude":-97.07476,
+    "iso:country":"US",
+    "sg:address":"3450 32nd Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 9335",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:website":"www.subway.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3haPhJW6vPLR437kAWVeoN_47.889527_-97.074760@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294850,
+    "wof:geomhash":"dd27b693db360fe2a89f6497872b78a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873591555
+        }
+    ],
+    "wof:id":873591555,
+    "wof:lastmodified":1464294850,
+    "wof:name":"Subway Sandwiches & Salads",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.07476,
+    47.889527,
+    -97.07476,
+    47.889527
+],
+  "geometry": {"coordinates":[-97.07476,47.889527],"type":"Point"}
+}

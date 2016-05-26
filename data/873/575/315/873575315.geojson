@@ -1,0 +1,73 @@
+{
+  "id": 873575315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.063915,47.89945,-97.063915,47.89945",
+    "geom:latitude":47.89945,
+    "geom:longitude":-97.063915,
+    "iso:country":"US",
+    "sg:address":"2511 Estabrook Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 6131",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "court",
+        "reporter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XhNmiJYnQAm6wC2ljVzlS_47.899450_-97.063915@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294667,
+    "wof:geomhash":"dd56e5e84fb80df80aa6d8d6569cba03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873575315
+        }
+    ],
+    "wof:id":873575315,
+    "wof:lastmodified":1464294667,
+    "wof:name":"Gayle E Wood",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "court",
+        "reporter"
+    ]
+},
+  "bbox": [
+    -97.063915,
+    47.89945,
+    -97.063915,
+    47.89945
+],
+  "geometry": {"coordinates":[-97.06391499999999,47.89945],"type":"Point"}
+}

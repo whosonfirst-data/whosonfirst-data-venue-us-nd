@@ -1,0 +1,77 @@
+{
+  "id": 873627697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.835615,46.826237,-96.835615,46.826237",
+    "geom:latitude":46.826237,
+    "geom:longitude":-96.835615,
+    "iso:country":"US",
+    "sg:address":"3350 35th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 241 1468",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877355,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Kby7OsSzwN1dxv9JdBPwp_46.826237_-96.835615@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295337,
+    "wof:geomhash":"7b7f0b62e9aa7ee17baaebde2d0b83c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877355,
+            "region_id":85688525,
+            "venue_id":873627697
+        }
+    ],
+    "wof:id":873627697,
+    "wof:lastmodified":1464295337,
+    "wof:name":"Fargo City Water Dept",
+    "wof:parent_id":85877355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -96.835615,
+    46.826237,
+    -96.835615,
+    46.826237
+],
+  "geometry": {"coordinates":[-96.835615,46.826237],"type":"Point"}
+}

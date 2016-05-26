@@ -1,0 +1,74 @@
+{
+  "id": 873630371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.7704,46.79481,-100.7704,46.79481",
+    "geom:latitude":46.79481,
+    "geom:longitude":-100.7704,
+    "iso:country":"US",
+    "sg:address":"800 E Bismarck Expy",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 3500",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.eideflm.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hZcbXs8sYcwjmuiEV6git_46.794810_-100.770400@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295369,
+    "wof:geomhash":"96ba9e90526d257cc49aabba39dc20bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873630371
+        }
+    ],
+    "wof:id":873630371,
+    "wof:lastmodified":1464295369,
+    "wof:name":"Eide Ford Lincoln Mercury",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -100.7704,
+    46.79481,
+    -100.7704,
+    46.79481
+],
+  "geometry": {"coordinates":[-100.7704,46.79481],"type":"Point"}
+}

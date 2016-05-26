@@ -1,0 +1,71 @@
+{
+  "id": 873630265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.044582,47.899833,-97.044582,47.899833",
+    "geom:latitude":47.899833,
+    "geom:longitude":-97.044582,
+    "iso:country":"US",
+    "sg:address":"2011 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 2728",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ml1sh6pmmzJP2Nz5ppPoR_47.899833_-97.044582@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295368,
+    "wof:geomhash":"3803424025ada39657b03e8a78d224cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873630265
+        }
+    ],
+    "wof:id":873630265,
+    "wof:lastmodified":1464295368,
+    "wof:name":"Josef's School Of Hair Design",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school"
+    ]
+},
+  "bbox": [
+    -97.044582,
+    47.899833,
+    -97.044582,
+    47.899833
+],
+  "geometry": {"coordinates":[-97.04458200000001,47.899833],"type":"Point"}
+}

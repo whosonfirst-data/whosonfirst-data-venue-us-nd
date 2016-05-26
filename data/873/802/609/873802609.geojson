@@ -1,0 +1,77 @@
+{
+  "id": 873802609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.870445,46.859427,-96.870445,46.859427",
+    "geom:latitude":46.859427,
+    "geom:longitude":-96.870445,
+    "iso:country":"US",
+    "sg:address":"4920 15th Ave S Apt 307",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 373 0440",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "rooms-installation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Fl8nNplkFRYYgg0jvES4j_46.859427_-96.870445@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297805,
+    "wof:geomhash":"ee19e47321f78bbc5f2b205217599204",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873802609
+        }
+    ],
+    "wof:id":873802609,
+    "wof:lastmodified":1464297805,
+    "wof:name":"Wired Networks",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "rooms-installation"
+    ]
+},
+  "bbox": [
+    -96.870445,
+    46.859427,
+    -96.870445,
+    46.859427
+],
+  "geometry": {"coordinates":[-96.870445,46.859427],"type":"Point"}
+}

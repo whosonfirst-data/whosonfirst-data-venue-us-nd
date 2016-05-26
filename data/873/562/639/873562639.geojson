@@ -1,0 +1,76 @@
+{
+  "id": 873562639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.800342,46.814563,-100.800342,46.814563",
+    "geom:latitude":46.814563,
+    "geom:longitude":-100.800342,
+    "iso:country":"US",
+    "sg:address":"930 N Griffin St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 221 6836",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "caterer"
+    ],
+    "sg:website":"www.ladyjscatering.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Odj3M7GSRJESUcOYEnRyF_46.814563_-100.800342@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294528,
+    "wof:geomhash":"6ae8aaa8bd2099c96381033fa37eaaa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873562639
+        }
+    ],
+    "wof:id":873562639,
+    "wof:lastmodified":1464294528,
+    "wof:name":"Lady J's Catering",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -100.800342,
+    46.814563,
+    -100.800342,
+    46.814563
+],
+  "geometry": {"coordinates":[-100.800342,46.814563],"type":"Point"}
+}

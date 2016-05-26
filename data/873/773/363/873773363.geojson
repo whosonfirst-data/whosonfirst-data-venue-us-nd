@@ -1,0 +1,73 @@
+{
+  "id": 873773363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.284083,48.2351,-101.284083,48.2351",
+    "geom:latitude":48.2351,
+    "geom:longitude":-101.284083,
+    "iso:country":"US",
+    "sg:address":"121 6th St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 837 5521",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "motion",
+        "picture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BDAnYjwfTHi3fx2X281hc_48.235100_-101.284083@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297405,
+    "wof:geomhash":"664708245e1eec7b9fa8f6e7754319bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873773363
+        }
+    ],
+    "wof:id":873773363,
+    "wof:lastmodified":1464297405,
+    "wof:name":"40 Below Productions Inc",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motion",
+        "picture"
+    ]
+},
+  "bbox": [
+    -101.284083,
+    48.2351,
+    -101.284083,
+    48.2351
+],
+  "geometry": {"coordinates":[-101.284083,48.2351],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873652251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.783065,46.811395,-100.783065,46.811395",
+    "geom:latitude":46.811395,
+    "geom:longitude":-100.783065,
+    "iso:country":"US",
+    "sg:address":"626 N 6th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 0093",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "home",
+        "medical",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OutUiDCIKhiYist1qKSYz_46.811395_-100.783065@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295616,
+    "wof:geomhash":"adb22c7cb456a673454aaa7cf854d831",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873652251
+        }
+    ],
+    "wof:id":873652251,
+    "wof:lastmodified":1464295616,
+    "wof:name":"Medequip One LLC",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "medical",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -100.783065,
+    46.811395,
+    -100.783065,
+    46.811395
+],
+  "geometry": {"coordinates":[-100.78306499999999,46.811395],"type":"Point"}
+}

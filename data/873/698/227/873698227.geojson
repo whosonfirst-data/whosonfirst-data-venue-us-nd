@@ -1,0 +1,75 @@
+{
+  "id": 873698227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.807782,46.875487,-96.807782,46.875487",
+    "geom:latitude":46.875487,
+    "geom:longitude":-96.807782,
+    "iso:country":"US",
+    "sg:address":"1602 Main Ave",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 3448",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UPygOy1xBa9kihdlEZkeI_46.875487_-96.807782@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296387,
+    "wof:geomhash":"5f3525245545ed23a18a17b1d81803d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873698227
+        }
+    ],
+    "wof:id":873698227,
+    "wof:lastmodified":1464296387,
+    "wof:name":"M & H Gasoline Co",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -96.807782,
+    46.875487,
+    -96.807782,
+    46.875487
+],
+  "geometry": {"coordinates":[-96.807782,46.875487],"type":"Point"}
+}

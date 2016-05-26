@@ -1,0 +1,73 @@
+{
+  "id": 873590907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.159379,48.225728,-101.159379,48.225728",
+    "geom:latitude":48.225728,
+    "geom:longitude":-101.159379,
+    "iso:country":"US",
+    "sg:address":"8601 11th Ave SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 4968",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CqOaTLqKhgKmaiJg8qoCj_48.225728_-101.159379@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294842,
+    "wof:geomhash":"71c51d0294810124b26c802c6516b7a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873590907
+        }
+    ],
+    "wof:id":873590907,
+    "wof:lastmodified":1464294842,
+    "wof:name":"Dwaine Kauffman",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -101.159379,
+    48.225728,
+    -101.159379,
+    48.225728
+],
+  "geometry": {"coordinates":[-101.159379,48.225728],"type":"Point"}
+}

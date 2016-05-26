@@ -1,0 +1,67 @@
+{
+  "id": 873696093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.293795,48.232637,-101.293795,48.232637",
+    "geom:latitude":48.232637,
+    "geom:longitude":-101.293795,
+    "iso:country":"US",
+    "sg:address":"1 Burdick Expy W",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 857 5000",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:website":"www.trinityhealth.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12oehgN0TPLnA5zobWOCjW_48.232637_-101.293795@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296367,
+    "wof:geomhash":"5696fc44e89b7d98d7444b71603130fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873696093
+        }
+    ],
+    "wof:id":873696093,
+    "wof:lastmodified":1464296367,
+    "wof:name":"Trinity Hospital",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.293795,
+    48.232637,
+    -101.293795,
+    48.232637
+],
+  "geometry": {"coordinates":[-101.293795,48.232637],"type":"Point"}
+}

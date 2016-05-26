@@ -1,0 +1,66 @@
+{
+  "id": 873611387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.750198,46.804771,-100.750198,46.804771",
+    "geom:latitude":46.804771,
+    "geom:longitude":-100.750198,
+    "iso:country":"US",
+    "sg:address":"2635 E Main Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 328 6140",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jgTnxWrR7WFVfCZ3u9Y35_46.804771_-100.750198@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295158,
+    "wof:geomhash":"e0476223b58d90595a8a10eb87c49f7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873611387
+        }
+    ],
+    "wof:id":873611387,
+    "wof:lastmodified":1464295158,
+    "wof:name":"Health Lab Dept",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.750198,
+    46.804771,
+    -100.750198,
+    46.804771
+],
+  "geometry": {"coordinates":[-100.750198,46.804771],"type":"Point"}
+}

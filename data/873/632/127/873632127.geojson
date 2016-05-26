@@ -1,0 +1,66 @@
+{
+  "id": 873632127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.015262,46.646397,-97.015262,46.646397",
+    "geom:latitude":46.646397,
+    "geom:longitude":-97.015262,
+    "iso:country":"US",
+    "sg:address":"260 Maple St",
+    "sg:city":"Kindred",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 428 9158",
+    "sg:postcode":"58051",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5urORC3TqUEo0idEXj6CR4_46.646397_-97.015262@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295386,
+    "wof:geomhash":"25b3b8bbda0e930b649480734bd6fc48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873632127
+        }
+    ],
+    "wof:id":873632127,
+    "wof:lastmodified":1464295386,
+    "wof:name":"Dakota Baskets",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.015262,
+    46.646397,
+    -97.015262,
+    46.646397
+],
+  "geometry": {"coordinates":[-97.01526200000001,46.646397],"type":"Point"}
+}

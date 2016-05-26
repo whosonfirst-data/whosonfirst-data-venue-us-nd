@@ -1,0 +1,79 @@
+{
+  "id": 873803481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.824726,46.866508,-96.824726,46.866508",
+    "geom:latitude":46.866508,
+    "geom:longitude":-96.824726,
+    "iso:country":"US",
+    "sg:address":"825 28th St S Ste E",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 8765",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "bookkeeping",
+        "payroll",
+        "billing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_283jlOcI0DqYXiVEgPyGNz_46.866508_-96.824726@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297815,
+    "wof:geomhash":"b3cc0f9172f1c9edd89531980a325c8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873803481
+        }
+    ],
+    "wof:id":873803481,
+    "wof:lastmodified":1464297815,
+    "wof:name":"Professional Bookkeeping Services Inc",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookkeeping",
+        "payroll",
+        "billing"
+    ]
+},
+  "bbox": [
+    -96.824726,
+    46.866508,
+    -96.824726,
+    46.866508
+],
+  "geometry": {"coordinates":[-96.824726,46.866508],"type":"Point"}
+}

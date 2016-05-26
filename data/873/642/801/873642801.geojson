@@ -1,0 +1,71 @@
+{
+  "id": 873642801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.803801,46.783255,-100.803801,46.783255",
+    "geom:latitude":46.783255,
+    "geom:longitude":-100.803801,
+    "iso:country":"US",
+    "sg:address":"760 Munich Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 7411",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "communication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_692fRIwNprHn2AtvbHMaZe_46.783255_-100.803801@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295509,
+    "wof:geomhash":"01afc8e9208b7c140828b47d3ad8a027",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873642801
+        }
+    ],
+    "wof:id":873642801,
+    "wof:lastmodified":1464295509,
+    "wof:name":"Hoffman Jondahl Communications",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication"
+    ]
+},
+  "bbox": [
+    -100.803801,
+    46.783255,
+    -100.803801,
+    46.783255
+],
+  "geometry": {"coordinates":[-100.80380100000001,46.783255],"type":"Point"}
+}

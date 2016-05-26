@@ -1,0 +1,71 @@
+{
+  "id": 873762191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.729007,46.823556,-100.729007,46.823556",
+    "geom:latitude":46.823556,
+    "geom:longitude":-100.729007,
+    "iso:country":"US",
+    "sg:address":"1700 Revere Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 1825",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "casket"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jYJhUGfAJtGsVFiq7WcM4_46.823556_-100.729007@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297242,
+    "wof:geomhash":"b8219d34ee5078c5aff87b8a244895a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873762191
+        }
+    ],
+    "wof:id":873762191,
+    "wof:lastmodified":1464297242,
+    "wof:name":"Batesville Casket Co",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "casket"
+    ]
+},
+  "bbox": [
+    -100.729007,
+    46.823556,
+    -100.729007,
+    46.823556
+],
+  "geometry": {"coordinates":[-100.729007,46.823556],"type":"Point"}
+}

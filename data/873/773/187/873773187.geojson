@@ -1,0 +1,66 @@
+{
+  "id": 873773187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.662701,46.769653,-100.662701,46.769653",
+    "geom:latitude":46.769653,
+    "geom:longitude":-100.662701,
+    "iso:country":"US",
+    "sg:address":"8355 Kittie Ln",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Amusement Park",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 226 3674",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14m5d1N0gYJPKFCpEhXaI9_46.769653_-100.662701@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297403,
+    "wof:geomhash":"d4bd5c11fe4b835c933ff11dd8d493e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873773187
+        }
+    ],
+    "wof:id":873773187,
+    "wof:lastmodified":1464297403,
+    "wof:name":"Climb Dakota",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.662701,
+    46.769653,
+    -100.662701,
+    46.769653
+],
+  "geometry": {"coordinates":[-100.662701,46.769653],"type":"Point"}
+}

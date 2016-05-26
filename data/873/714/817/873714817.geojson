@@ -1,0 +1,75 @@
+{
+  "id": 873714817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.039877,47.922807,-97.039877,47.922807",
+    "geom:latitude":47.922807,
+    "geom:longitude":-97.039877,
+    "iso:country":"US",
+    "sg:address":"816 University Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 4558",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "drycleaning",
+        "plant",
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OnSuvW4PU8pzGv5I5PdNT_47.922807_-97.039877@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296579,
+    "wof:geomhash":"36618500ef1fd1e1ee2fe69f4827ceee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873714817
+        }
+    ],
+    "wof:id":873714817,
+    "wof:lastmodified":1464296579,
+    "wof:name":"University Laundromat",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant",
+        "coin"
+    ]
+},
+  "bbox": [
+    -97.039877,
+    47.922807,
+    -97.039877,
+    47.922807
+],
+  "geometry": {"coordinates":[-97.039877,47.922807],"type":"Point"}
+}

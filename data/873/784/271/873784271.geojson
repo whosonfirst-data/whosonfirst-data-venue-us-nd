@@ -1,0 +1,71 @@
+{
+  "id": 873784271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.774812,47.788183,-97.774812,47.788183",
+    "geom:latitude":47.788183,
+    "geom:longitude":-97.774812,
+    "iso:country":"US",
+    "sg:address":"805 44th St NE",
+    "sg:city":"Northwood",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 326 4523",
+    "sg:postcode":"58267",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "corn",
+        "wheat",
+        "soybean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10ayzXoFQytZJV9jWg7osv_47.788183_-97.774812@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297548,
+    "wof:geomhash":"f2bdb455ecf482e0335a06dbf99bb027",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873784271
+        }
+    ],
+    "wof:id":873784271,
+    "wof:lastmodified":1464297548,
+    "wof:name":"Karen Landman",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "corn",
+        "wheat",
+        "soybean"
+    ]
+},
+  "bbox": [
+    -97.774812,
+    47.788183,
+    -97.774812,
+    47.788183
+],
+  "geometry": {"coordinates":[-97.774812,47.788183],"type":"Point"}
+}

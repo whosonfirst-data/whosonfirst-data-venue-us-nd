@@ -1,0 +1,66 @@
+{
+  "id": 873613793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.78938,46.80644,-100.78938,46.80644",
+    "geom:latitude":46.80644,
+    "geom:longitude":-100.78938,
+    "iso:country":"US",
+    "sg:address":"121 E Broadway Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 3116",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mOCw6rCkV877wkqwvivtJ_46.806440_-100.789380@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295183,
+    "wof:geomhash":"61be7f6a3847fb40a51e71069ec439a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873613793
+        }
+    ],
+    "wof:id":873613793,
+    "wof:lastmodified":1464295183,
+    "wof:name":"AWBW-Bismarck",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.78938,
+    46.80644,
+    -100.78938,
+    46.80644
+],
+  "geometry": {"coordinates":[-100.78937999999999,46.80644],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873663073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.13922,48.231704,-101.13922,48.231704",
+    "geom:latitude":48.231704,
+    "geom:longitude":-101.13922,
+    "iso:country":"US",
+    "sg:address":"510 4th Ave SW",
+    "sg:city":"Surrey",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 7914",
+    "sg:postcode":"58785",
+    "sg:province":"ND",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Mog99YFqvZUzYcRHNKQq9_48.231704_-101.139220@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295731,
+    "wof:geomhash":"3a9a5476bce07319a7411fb0def2dc28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873663073
+        }
+    ],
+    "wof:id":873663073,
+    "wof:lastmodified":1464295731,
+    "wof:name":"Badke Construction Co",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.13922,
+    48.231704,
+    -101.13922,
+    48.231704
+],
+  "geometry": {"coordinates":[-101.13921999999999,48.231704],"type":"Point"}
+}

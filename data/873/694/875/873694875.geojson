@@ -1,0 +1,73 @@
+{
+  "id": 873694875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.709292,46.809147,-100.709292,46.809147",
+    "geom:latitude":46.809147,
+    "geom:longitude":-100.709292,
+    "iso:country":"US",
+    "sg:address":"5304 E Main Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 4761",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ft27aRAkX9gr2hPWDfd3Q_46.809147_-100.709292@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296348,
+    "wof:geomhash":"c743ca19f742b3d2cde04c10f1ca3868",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873694875
+        }
+    ],
+    "wof:id":873694875,
+    "wof:lastmodified":1464296348,
+    "wof:name":"Kuntz & Sons Trucking & Constr",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.709292,
+    46.809147,
+    -100.709292,
+    46.809147
+],
+  "geometry": {"coordinates":[-100.709292,46.809147],"type":"Point"}
+}

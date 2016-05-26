@@ -1,0 +1,73 @@
+{
+  "id": 873741355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.040267,47.914244,-97.040267,47.914244",
+    "geom:latitude":47.914244,
+    "geom:longitude":-97.040267,
+    "iso:country":"US",
+    "sg:address":"715 S 10th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 0041",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RIfysoL7nXyfbXX4XalBZ_47.914244_-97.040267@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296943,
+    "wof:geomhash":"2874852609d327fa058d2a10819b5a9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873741355
+        }
+    ],
+    "wof:id":873741355,
+    "wof:lastmodified":1464296943,
+    "wof:name":"Roger Briske Drywall",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.040267,
+    47.914244,
+    -97.040267,
+    47.914244
+],
+  "geometry": {"coordinates":[-97.040267,47.914244],"type":"Point"}
+}

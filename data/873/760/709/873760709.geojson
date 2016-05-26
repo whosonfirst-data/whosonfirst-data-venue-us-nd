@@ -1,0 +1,75 @@
+{
+  "id": 873760709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.083384,47.898067,-97.083384,47.898067",
+    "geom:latitude":47.898067,
+    "geom:longitude":-97.083384,
+    "iso:country":"US",
+    "sg:address":"2366 S 38th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 0968",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "fire",
+        "alarm",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6REX2Dh2e24BcXlmgCYt17_47.898067_-97.083384@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297216,
+    "wof:geomhash":"ec006e2112447405399fa463885eb4e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873760709
+        }
+    ],
+    "wof:id":873760709,
+    "wof:lastmodified":1464297216,
+    "wof:name":"Quality Assurance Intl",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "alarm",
+        "system"
+    ]
+},
+  "bbox": [
+    -97.083384,
+    47.898067,
+    -97.083384,
+    47.898067
+],
+  "geometry": {"coordinates":[-97.083384,47.898067],"type":"Point"}
+}

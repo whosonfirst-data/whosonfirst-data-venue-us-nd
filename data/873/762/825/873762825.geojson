@@ -1,0 +1,70 @@
+{
+  "id": 873762825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.838077,46.859333,-96.838077,46.859333",
+    "geom:latitude":46.859333,
+    "geom:longitude":-96.838077,
+    "iso:country":"US",
+    "sg:address":"1423 35th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 234 9946",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877373,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HKMDRv3Z7yUp12AQrSj5V_46.859333_-96.838077@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297255,
+    "wof:geomhash":"aed77753748563a58fbb2bc8612f2207",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877373,
+            "region_id":85688525,
+            "venue_id":873762825
+        }
+    ],
+    "wof:id":873762825,
+    "wof:lastmodified":1464297255,
+    "wof:name":"Americinn Lodge & Suites",
+    "wof:parent_id":85877373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.838077,
+    46.859333,
+    -96.838077,
+    46.859333
+],
+  "geometry": {"coordinates":[-96.838077,46.859333],"type":"Point"}
+}

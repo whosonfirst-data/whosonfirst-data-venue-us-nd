@@ -1,0 +1,75 @@
+{
+  "id": 873699081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.8184,46.852921,-96.8184,46.852921",
+    "geom:latitude":46.852921,
+    "geom:longitude":-96.8184,
+    "iso:country":"US",
+    "sg:address":"1831 Prairie Ln",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 237 6776",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534475,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4InGXJnJ13drPTcU4o5r0v_46.852921_-96.818400@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296394,
+    "wof:geomhash":"252380fe80e3a0b54c18eb439af72a1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534475,
+            "region_id":85688525,
+            "venue_id":873699081
+        }
+    ],
+    "wof:id":873699081,
+    "wof:lastmodified":1464296394,
+    "wof:name":"Stakeout Inc",
+    "wof:parent_id":420534475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -96.8184,
+    46.852921,
+    -96.8184,
+    46.852921
+],
+  "geometry": {"coordinates":[-96.8184,46.852921],"type":"Point"}
+}

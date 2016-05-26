@@ -1,0 +1,71 @@
+{
+  "id": 873787569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.134911,46.64816,-100.134911,46.64816",
+    "geom:latitude":46.64816,
+    "geom:longitude":-100.134911,
+    "iso:country":"US",
+    "sg:address":"41050 141st Ave SE",
+    "sg:city":"Braddock",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 332 6637",
+    "sg:postcode":"58560",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "corn",
+        "grain",
+        "cash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RtBjgXzMQqeSYsduSRW1O_46.648160_-100.134911@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297604,
+    "wof:geomhash":"7a78965fc7de3ec7e5a4eb4660425dbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873787569
+        }
+    ],
+    "wof:id":873787569,
+    "wof:lastmodified":1464297604,
+    "wof:name":"Tony Fettig",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "corn",
+        "grain",
+        "cash"
+    ]
+},
+  "bbox": [
+    -100.134911,
+    46.64816,
+    -100.134911,
+    46.64816
+],
+  "geometry": {"coordinates":[-100.134911,46.64816],"type":"Point"}
+}

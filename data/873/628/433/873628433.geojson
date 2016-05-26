@@ -1,0 +1,56 @@
+{
+  "id": 873628433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.403803,46.182079,-103.403803,46.182079",
+    "geom:latitude":46.182079,
+    "geom:longitude":-103.403803,
+    "iso:country":"US",
+    "sg:address":"14 6th Ave SW",
+    "sg:city":"Bowman",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 000 1111",
+    "sg:postcode":"58623",
+    "sg:province":"ND",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pMx8bX0YDcUFVkSOkT1mP_46.182079_-103.403803@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295344,
+    "wof:geomhash":"40c874a68c6dacdb14665378062784c9",
+    "wof:hierarchy":[],
+    "wof:id":873628433,
+    "wof:lastmodified":1464295344,
+    "wof:name":"Bowman Ambulance Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -103.403803,
+    46.182079,
+    -103.403803,
+    46.182079
+],
+  "geometry": {"coordinates":[-103.403803,46.182079],"type":"Point"}
+}

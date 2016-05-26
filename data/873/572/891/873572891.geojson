@@ -1,0 +1,71 @@
+{
+  "id": 873572891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.815986,46.763765,-100.815986,46.763765",
+    "geom:latitude":46.763765,
+    "geom:longitude":-100.815986,
+    "iso:country":"US",
+    "sg:address":"3640 England St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 0428",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rQYIl7hZZ8JAsnS3WnQon_46.763765_-100.815986@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294641,
+    "wof:geomhash":"20c5a0a5683860144f67ddc4bfd6548f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873572891
+        }
+    ],
+    "wof:id":873572891,
+    "wof:lastmodified":1464294641,
+    "wof:name":"Rall Roofing LLP",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.815986,
+    46.763765,
+    -100.815986,
+    46.763765
+],
+  "geometry": {"coordinates":[-100.815986,46.763765],"type":"Point"}
+}

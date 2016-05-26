@@ -1,0 +1,75 @@
+{
+  "id": 873656923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.841738,46.855547,-96.841738,46.855547",
+    "geom:latitude":46.855547,
+    "geom:longitude":-96.841738,
+    "iso:country":"US",
+    "sg:address":"1623 38th St SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 433 0313",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0llkaIk1g9ElSbPxl6HS6y_46.855547_-96.841738@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295666,
+    "wof:geomhash":"dbe48998eda14ba98bade7a903fad6b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873656923
+        }
+    ],
+    "wof:id":873656923,
+    "wof:lastmodified":1464295666,
+    "wof:name":"Big Lots",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -96.841738,
+    46.855547,
+    -96.841738,
+    46.855547
+],
+  "geometry": {"coordinates":[-96.84173800000001,46.855547],"type":"Point"}
+}

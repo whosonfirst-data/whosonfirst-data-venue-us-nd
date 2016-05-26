@@ -1,0 +1,79 @@
+{
+  "id": 873667387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.826279,46.812186,-96.826279,46.812186",
+    "geom:latitude":46.812186,
+    "geom:longitude":-96.826279,
+    "iso:country":"US",
+    "sg:address":"4647 Timberline Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 9578",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "management",
+        "open",
+        "investment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877333,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1croZHNZv94JS55lKSa06A_46.812186_-96.826279@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295773,
+    "wof:geomhash":"c77ab7b49f4601e24a88d7af856eb7c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877333,
+            "region_id":85688525,
+            "venue_id":873667387
+        }
+    ],
+    "wof:id":873667387,
+    "wof:lastmodified":1464295773,
+    "wof:name":"Sunrider Asset Management",
+    "wof:parent_id":85877333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management",
+        "open",
+        "investment"
+    ]
+},
+  "bbox": [
+    -96.826279,
+    46.812186,
+    -96.826279,
+    46.812186
+],
+  "geometry": {"coordinates":[-96.826279,46.812186],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873555713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.762809,46.803872,-100.762809,46.803872",
+    "geom:latitude":46.803872,
+    "geom:longitude":-100.762809,
+    "iso:country":"US",
+    "sg:address":"218 Airport Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 328 6950",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sguMcMe92yFpn8NVi70zt_46.803872_-100.762809@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294446,
+    "wof:geomhash":"1f377f6feec944d8aa95f4ce733af4f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873555713
+        }
+    ],
+    "wof:id":873555713,
+    "wof:lastmodified":1464294446,
+    "wof:name":"Transportation Dept",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -100.762809,
+    46.803872,
+    -100.762809,
+    46.803872
+],
+  "geometry": {"coordinates":[-100.762809,46.803872],"type":"Point"}
+}

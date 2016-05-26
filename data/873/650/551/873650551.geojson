@@ -1,0 +1,71 @@
+{
+  "id": 873650551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.028757,47.908919,-97.028757,47.908919",
+    "geom:latitude":47.908919,
+    "geom:longitude":-97.028757,
+    "iso:country":"US",
+    "sg:address":"1213 Belmont Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 8776",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "audio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33MdJHQULseTLlpiFV7c5N_47.908919_-97.028757@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295594,
+    "wof:geomhash":"6c74a784c90a88f4981cf7a29f4c651f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873650551
+        }
+    ],
+    "wof:id":873650551,
+    "wof:lastmodified":1464295594,
+    "wof:name":"John French Productions",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "audio"
+    ]
+},
+  "bbox": [
+    -97.028757,
+    47.908919,
+    -97.028757,
+    47.908919
+],
+  "geometry": {"coordinates":[-97.028757,47.908919],"type":"Point"}
+}

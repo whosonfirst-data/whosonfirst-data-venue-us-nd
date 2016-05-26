@@ -1,0 +1,75 @@
+{
+  "id": 873763935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.769789,46.79392,-100.769789,46.79392",
+    "geom:latitude":46.79392,
+    "geom:longitude":-100.769789,
+    "iso:country":"US",
+    "sg:address":"1402 Virginia Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 2232",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "roofing",
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7d6cYk2YPj2phGfT5cMpBK_46.793920_-100.769789@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297273,
+    "wof:geomhash":"6474d418524aa9c8a5576d3784ba9a2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873763935
+        }
+    ],
+    "wof:id":873763935,
+    "wof:lastmodified":1464297273,
+    "wof:name":"Stebbon",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.769789,
+    46.79392,
+    -100.769789,
+    46.79392
+],
+  "geometry": {"coordinates":[-100.769789,46.79392],"type":"Point"}
+}

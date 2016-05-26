@@ -1,0 +1,73 @@
+{
+  "id": 873779163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.031244,47.882032,-97.031244,47.882032",
+    "geom:latitude":47.882032,
+    "geom:longitude":-97.031244,
+    "iso:country":"US",
+    "sg:address":"514 39th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 3305",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wQ411h192tPRrPKTbat0G_47.882032_-97.031244@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297478,
+    "wof:geomhash":"444aafefbdaa61663d67acdbcbed9230",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873779163
+        }
+    ],
+    "wof:id":873779163,
+    "wof:lastmodified":1464297478,
+    "wof:name":"Dakota Drywall",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.031244,
+    47.882032,
+    -97.031244,
+    47.882032
+],
+  "geometry": {"coordinates":[-97.031244,47.882032],"type":"Point"}
+}

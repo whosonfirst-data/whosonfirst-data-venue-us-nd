@@ -1,0 +1,73 @@
+{
+  "id": 873669135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.762793,46.801811,-100.762793,46.801811",
+    "geom:latitude":46.801811,
+    "geom:longitude":-100.762793,
+    "iso:country":"US",
+    "sg:address":"424 Airport Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 8422",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "body",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tWgzC6J1cgxogmaVo7QB8_46.801811_-100.762793@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295791,
+    "wof:geomhash":"e93076f6b1f5dd241764e239515cf307",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873669135
+        }
+    ],
+    "wof:id":873669135,
+    "wof:lastmodified":1464295791,
+    "wof:name":"Eds Body & Radiator Shop",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -100.762793,
+    46.801811,
+    -100.762793,
+    46.801811
+],
+  "geometry": {"coordinates":[-100.762793,46.801811],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873615221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.03728,47.896663,-97.03728,47.896663",
+    "geom:latitude":47.896663,
+    "geom:longitude":-97.03728,
+    "iso:country":"US",
+    "sg:address":"715 24th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 4807",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66RCD6skx23eewSfm8TjdA_47.896663_-97.037280@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295197,
+    "wof:geomhash":"130dad3052b33ae2b13b8004dd5fb23b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873615221
+        }
+    ],
+    "wof:id":873615221,
+    "wof:lastmodified":1464295197,
+    "wof:name":"St Mark's Lutheran Church",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -97.03728,
+    47.896663,
+    -97.03728,
+    47.896663
+],
+  "geometry": {"coordinates":[-97.03728,47.896663],"type":"Point"}
+}

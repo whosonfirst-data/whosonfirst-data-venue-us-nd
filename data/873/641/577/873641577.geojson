@@ -1,0 +1,77 @@
+{
+  "id": 873641577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.355932,47.170867,-100.355932,47.170867",
+    "geom:latitude":47.170867,
+    "geom:longitude":-100.355932,
+    "iso:country":"US",
+    "sg:address":"26900 331st Ave NE",
+    "sg:city":"Wing",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 943 2474",
+    "sg:postcode":"58494",
+    "sg:province":"ND",
+    "sg:tags":[
+        "wheat",
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04Hb3IYyuygYWKQDIKNXmT_47.170867_-100.355932@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295493,
+    "wof:geomhash":"a914d878c379e7f6681377c2015c6453",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873641577
+        }
+    ],
+    "wof:id":873641577,
+    "wof:lastmodified":1464295493,
+    "wof:name":"Sanford Williams",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wheat",
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -100.355932,
+    47.170867,
+    -100.355932,
+    47.170867
+],
+  "geometry": {"coordinates":[-100.355932,47.170867],"type":"Point"}
+}

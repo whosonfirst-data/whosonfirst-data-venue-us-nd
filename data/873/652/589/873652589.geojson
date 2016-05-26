@@ -1,0 +1,71 @@
+{
+  "id": 873652589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.7394,46.794554,-100.7394,46.794554",
+    "geom:latitude":46.794554,
+    "geom:longitude":-100.7394,
+    "iso:country":"US",
+    "sg:address":"3305 Rock Island Pl",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 0530",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "ready"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SeFWBNW5B0AydrRPoVofR_46.794554_-100.739400@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295620,
+    "wof:geomhash":"051e513196f5534a8e506cea5f3a9a59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873652589
+        }
+    ],
+    "wof:id":873652589,
+    "wof:lastmodified":1464295620,
+    "wof:name":"Dakota Ready Mix",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready"
+    ]
+},
+  "bbox": [
+    -100.7394,
+    46.794554,
+    -100.7394,
+    46.794554
+],
+  "geometry": {"coordinates":[-100.7394,46.794554],"type":"Point"}
+}

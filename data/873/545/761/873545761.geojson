@@ -1,0 +1,67 @@
+{
+  "id": 873545761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.070544,47.889378,-97.070544,47.889378",
+    "geom:latitude":47.889378,
+    "geom:longitude":-97.070544,
+    "iso:country":"US",
+    "sg:address":"3001 32nd Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 4060",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:website":"www.janellekerr.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5F65BUk0W91yJjkiUBuT5l_47.889378_-97.070544@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294325,
+    "wof:geomhash":"16fd2f4388e4c2029d4a6666f5a04d6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873545761
+        }
+    ],
+    "wof:id":873545761,
+    "wof:lastmodified":1464294325,
+    "wof:name":"Kerrco Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.070544,
+    47.889378,
+    -97.070544,
+    47.889378
+],
+  "geometry": {"coordinates":[-97.070544,47.889378],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873770873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.926203,46.738741,-96.926203,46.738741",
+    "geom:latitude":46.738741,
+    "geom:longitude":-96.926203,
+    "iso:country":"US",
+    "sg:address":"10615 81st St S",
+    "sg:city":"Horace",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 281 4821",
+    "sg:postcode":"58047",
+    "sg:province":"ND",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4izNgLE64bIaVLLumyQZmw_46.738741_-96.926203@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297376,
+    "wof:geomhash":"9a9a88da28abfc5caea913af0ebcf3da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873770873
+        }
+    ],
+    "wof:id":873770873,
+    "wof:lastmodified":1464297376,
+    "wof:name":"Rtb Inc",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -96.926203,
+    46.738741,
+    -96.926203,
+    46.738741
+],
+  "geometry": {"coordinates":[-96.926203,46.738741],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873775591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.149903,47.891329,-97.149903,47.891329",
+    "geom:latitude":47.891329,
+    "geom:longitude":-97.149903,
+    "iso:country":"US",
+    "sg:address":"2717 Prairie Rd",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 5687",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36KmAPeTXri7PNZcnMtR1y_47.891329_-97.149903@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297433,
+    "wof:geomhash":"7fc7bdc5204939e6f33ed7ae5c8fb150",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873775591
+        }
+    ],
+    "wof:id":873775591,
+    "wof:lastmodified":1464297433,
+    "wof:name":"Green's Quality Construction",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.149903,
+    47.891329,
+    -97.149903,
+    47.891329
+],
+  "geometry": {"coordinates":[-97.14990299999999,47.891329],"type":"Point"}
+}

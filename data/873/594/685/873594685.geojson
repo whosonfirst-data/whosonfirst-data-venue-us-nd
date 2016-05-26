@@ -1,0 +1,73 @@
+{
+  "id": 873594685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.767774,46.827712,-100.767774,46.827712",
+    "geom:latitude":46.827712,
+    "geom:longitude":-100.767774,
+    "iso:country":"US",
+    "sg:address":"2027 N 16th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 9165",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fZfqnAK8O53bFlvsMeLbT_46.827712_-100.767774@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294898,
+    "wof:geomhash":"b23d93994f4316b36fd208a6aa052f10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873594685
+        }
+    ],
+    "wof:id":873594685,
+    "wof:lastmodified":1464294898,
+    "wof:name":"Crestview Manor Apartments",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -100.767774,
+    46.827712,
+    -100.767774,
+    46.827712
+],
+  "geometry": {"coordinates":[-100.767774,46.827712],"type":"Point"}
+}

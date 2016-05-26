@@ -1,0 +1,76 @@
+{
+  "id": 873549105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.099125,47.91392,-97.099125,47.91392",
+    "geom:latitude":47.91392,
+    "geom:longitude":-97.099125,
+    "iso:country":"US",
+    "sg:address":"715 S 48th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 7373",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "electric",
+        "supply"
+    ],
+    "sg:website":"www.dakotasupplygroup.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SLBM9CBatNXY86YA8xwko_47.913920_-97.099125@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294368,
+    "wof:geomhash":"4f329c1ee7c8334ce87157fec653b8b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873549105
+        }
+    ],
+    "wof:id":873549105,
+    "wof:lastmodified":1464294368,
+    "wof:name":"Dakota Supply Group",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "electric",
+        "supply"
+    ]
+},
+  "bbox": [
+    -97.099125,
+    47.91392,
+    -97.099125,
+    47.91392
+],
+  "geometry": {"coordinates":[-97.099125,47.91392],"type":"Point"}
+}

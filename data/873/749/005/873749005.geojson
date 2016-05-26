@@ -1,0 +1,71 @@
+{
+  "id": 873749005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.029639,47.922144,-97.029639,47.922144",
+    "geom:latitude":47.922144,
+    "geom:longitude":-97.029639,
+    "iso:country":"US",
+    "sg:address":"115 S 5th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 2508",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "law"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_373YV2tdP9PEvk3BG5ljKG_47.922144_-97.029639@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297062,
+    "wof:geomhash":"77e5f9e2d748fbfae69be7b58f8cc654",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873749005
+        }
+    ],
+    "wof:id":873749005,
+    "wof:lastmodified":1464297062,
+    "wof:name":"Spaeth Law Office",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "law"
+    ]
+},
+  "bbox": [
+    -97.029639,
+    47.922144,
+    -97.029639,
+    47.922144
+],
+  "geometry": {"coordinates":[-97.029639,47.922144],"type":"Point"}
+}

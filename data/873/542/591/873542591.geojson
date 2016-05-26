@@ -1,0 +1,73 @@
+{
+  "id": 873542591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.305713,48.207345,-101.305713,48.207345",
+    "geom:latitude":48.207345,
+    "geom:longitude":-101.305713,
+    "iso:country":"US",
+    "sg:address":"910 24th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 2115",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FTQxKdq1J6vAZsnGnwQVX_48.207345_-101.305713@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294287,
+    "wof:geomhash":"2afc04557b08fb8a5ea2ee605d79a106",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873542591
+        }
+    ],
+    "wof:id":873542591,
+    "wof:lastmodified":1464294287,
+    "wof:name":"Global Auto",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -101.305713,
+    48.207345,
+    -101.305713,
+    48.207345
+],
+  "geometry": {"coordinates":[-101.305713,48.207345],"type":"Point"}
+}

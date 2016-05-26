@@ -1,0 +1,71 @@
+{
+  "id": 873594755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.298811,48.20113,-101.298811,48.20113",
+    "geom:latitude":48.20113,
+    "geom:longitude":-101.298811,
+    "iso:country":"US",
+    "sg:address":"3205 4th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 1113",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GZllUdf7F0xSzsrPgEVjr_48.201130_-101.298811@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294899,
+    "wof:geomhash":"de00dd9a466e6c2a644e48e536bcc9e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873594755
+        }
+    ],
+    "wof:id":873594755,
+    "wof:lastmodified":1464294899,
+    "wof:name":"Guardian Manor",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -101.298811,
+    48.20113,
+    -101.298811,
+    48.20113
+],
+  "geometry": {"coordinates":[-101.298811,48.20113],"type":"Point"}
+}

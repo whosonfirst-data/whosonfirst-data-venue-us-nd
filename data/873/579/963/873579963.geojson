@@ -1,0 +1,66 @@
+{
+  "id": 873579963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.784842,46.803048,-100.784842,46.803048",
+    "geom:latitude":46.803048,
+    "geom:longitude":-100.784842,
+    "iso:country":"US",
+    "sg:address":"315 E Sweet Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 5032",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dXObQiyhEZYuVOBIcjbEz_46.803048_-100.784842@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294717,
+    "wof:geomhash":"24109894fa90277e8d206d22bb380581",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873579963
+        }
+    ],
+    "wof:id":873579963,
+    "wof:lastmodified":1464294717,
+    "wof:name":"Burger King",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.784842,
+    46.803048,
+    -100.784842,
+    46.803048
+],
+  "geometry": {"coordinates":[-100.784842,46.803048],"type":"Point"}
+}

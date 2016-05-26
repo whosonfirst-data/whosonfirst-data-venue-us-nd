@@ -1,0 +1,71 @@
+{
+  "id": 873664135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.32304,48.24272,-101.32304,48.24272",
+    "geom:latitude":48.24272,
+    "geom:longitude":-101.32304,
+    "iso:country":"US",
+    "sg:address":"616 20th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 1619",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "adjuster"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Q0Zlk1SnJ2d9Ona5qVZwd_48.242720_-101.323040@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295741,
+    "wof:geomhash":"96318a696e88f35c74148d7e352494a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873664135
+        }
+    ],
+    "wof:id":873664135,
+    "wof:lastmodified":1464295741,
+    "wof:name":"Baumgardner-Lind Insurance",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "adjuster"
+    ]
+},
+  "bbox": [
+    -101.32304,
+    48.24272,
+    -101.32304,
+    48.24272
+],
+  "geometry": {"coordinates":[-101.32304000000001,48.24272],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 873716743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.851144,46.858179,-96.851144,46.858179",
+    "geom:latitude":46.858179,
+    "geom:longitude":-96.851144,
+    "iso:country":"US",
+    "sg:address":"1515 42nd St SW",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 6369",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gTLqytUhQSN2fB1JKvJk8_46.858179_-96.851144@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296603,
+    "wof:geomhash":"49575a780e6c5c5a508be6752a6e2866",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873716743
+        }
+    ],
+    "wof:id":873716743,
+    "wof:lastmodified":1464296603,
+    "wof:name":"Gecko's Grill & Bar",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.851144,
+    46.858179,
+    -96.851144,
+    46.858179
+],
+  "geometry": {"coordinates":[-96.85114400000001,46.858179],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873619581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.767751,46.809333,-100.767751,46.809333",
+    "geom:latitude":46.809333,
+    "geom:longitude":-100.767751,
+    "iso:country":"US",
+    "sg:address":"509 N 16th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Massage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 400 9090",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6L1JBVaxKCgkJZIWVxCIMk_46.809333_-100.767751@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295246,
+    "wof:geomhash":"b68f0b4943dd4827a46986c7cb203f3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873619581
+        }
+    ],
+    "wof:id":873619581,
+    "wof:lastmodified":1464295246,
+    "wof:name":"Stevie B's Mobile Massage",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.767751,
+    46.809333,
+    -100.767751,
+    46.809333
+],
+  "geometry": {"coordinates":[-100.767751,46.809333],"type":"Point"}
+}

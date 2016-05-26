@@ -1,0 +1,73 @@
+{
+  "id": 873557441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.302286,48.23878,-101.302286,48.23878",
+    "geom:latitude":48.23878,
+    "geom:longitude":-101.302286,
+    "iso:country":"US",
+    "sg:address":"209 6th St NW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 3950",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automobile",
+        "lock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uLhwGKNerbe5k3urzcJnm_48.238780_-101.302286@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294465,
+    "wof:geomhash":"02eef41383762601896025daa45ed42e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873557441
+        }
+    ],
+    "wof:id":873557441,
+    "wof:lastmodified":1464294465,
+    "wof:name":"Lock Doctor",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lock"
+    ]
+},
+  "bbox": [
+    -101.302286,
+    48.23878,
+    -101.302286,
+    48.23878
+],
+  "geometry": {"coordinates":[-101.302286,48.23878],"type":"Point"}
+}

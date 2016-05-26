@@ -1,0 +1,73 @@
+{
+  "id": 873743281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.764983,46.826913,-100.764983,46.826913",
+    "geom:latitude":46.826913,
+    "geom:longitude":-100.764983,
+    "iso:country":"US",
+    "sg:address":"1832 Longley Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 3863",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sr8vuHvLifXtFFlUSGaxk_46.826913_-100.764983@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296975,
+    "wof:geomhash":"d2f42f2d34ee5747e252852631d0502d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873743281
+        }
+    ],
+    "wof:id":873743281,
+    "wof:lastmodified":1464296975,
+    "wof:name":"BJ Wallpapering & Paint",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.764983,
+    46.826913,
+    -100.764983,
+    46.826913
+],
+  "geometry": {"coordinates":[-100.764983,46.826913],"type":"Point"}
+}

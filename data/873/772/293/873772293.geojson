@@ -1,0 +1,75 @@
+{
+  "id": 873772293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.773393,46.790299,-100.773393,46.790299",
+    "geom:latitude":46.790299,
+    "geom:longitude":-100.773393,
+    "iso:country":"US",
+    "sg:address":"1321 S 12th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 1353",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "member",
+        "wood",
+        "structural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rIYx7m16FNwyAONSjeuXs_46.790299_-100.773393@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297393,
+    "wof:geomhash":"1b01eed62a7c08ac3457f32bc0b1eb83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873772293
+        }
+    ],
+    "wof:id":873772293,
+    "wof:lastmodified":1464297393,
+    "wof:name":"Truss Systems",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "member",
+        "wood",
+        "structural"
+    ]
+},
+  "bbox": [
+    -100.773393,
+    46.790299,
+    -100.773393,
+    46.790299
+],
+  "geometry": {"coordinates":[-100.773393,46.790299],"type":"Point"}
+}

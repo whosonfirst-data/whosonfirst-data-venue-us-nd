@@ -1,0 +1,73 @@
+{
+  "id": 873701989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.25272,48.218857,-101.25272,48.218857",
+    "geom:latitude":48.218857,
+    "geom:longitude":-101.25272,
+    "iso:country":"US",
+    "sg:address":"1631 27th St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 7112",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GToTNDEEbh35EZ3lRupiR_48.218857_-101.252720@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296425,
+    "wof:geomhash":"179ce2530eb36990b07fec8e6235a786",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873701989
+        }
+    ],
+    "wof:id":873701989,
+    "wof:lastmodified":1464296425,
+    "wof:name":"Alley's Radiator Repair",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -101.25272,
+    48.218857,
+    -101.25272,
+    48.218857
+],
+  "geometry": {"coordinates":[-101.25272,48.218857],"type":"Point"}
+}

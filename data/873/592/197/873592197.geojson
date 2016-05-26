@@ -1,0 +1,72 @@
+{
+  "id": 873592197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.787736,46.806564,-100.787736,46.806564",
+    "geom:latitude":46.806564,
+    "geom:longitude":-100.787736,
+    "iso:country":"US",
+    "sg:address":"208 E Broadway Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Jewelry",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 323 9222",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "beads"
+    ],
+    "sg:website":"www.urbangirlonline.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ibglAF4aIl3vbh7XPtZXB_46.806564_-100.787736@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294861,
+    "wof:geomhash":"66761ae7f7a98b5695f3adabdcadf773",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873592197
+        }
+    ],
+    "wof:id":873592197,
+    "wof:lastmodified":1464294861,
+    "wof:name":"Urban Girl Beads & Gifts",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beads"
+    ]
+},
+  "bbox": [
+    -100.787736,
+    46.806564,
+    -100.787736,
+    46.806564
+],
+  "geometry": {"coordinates":[-100.787736,46.806564],"type":"Point"}
+}

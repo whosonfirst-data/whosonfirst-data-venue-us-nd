@@ -1,0 +1,73 @@
+{
+  "id": 873599303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.793025,46.79055,-100.793025,46.79055",
+    "geom:latitude":46.79055,
+    "geom:longitude":-100.793025,
+    "iso:country":"US",
+    "sg:address":"1223 Portland Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 4152",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "m",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68f3AjPg7w2gyeczX2Gxt5_46.790550_-100.793025@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294977,
+    "wof:geomhash":"087db075e2b137b7624c3c795267119f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873599303
+        }
+    ],
+    "wof:id":873599303,
+    "wof:lastmodified":1464294977,
+    "wof:name":"North Dakota Lawn Sprinkling",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "m",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.793025,
+    46.79055,
+    -100.793025,
+    46.79055
+],
+  "geometry": {"coordinates":[-100.793025,46.79055],"type":"Point"}
+}

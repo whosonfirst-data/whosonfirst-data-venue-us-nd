@@ -1,0 +1,75 @@
+{
+  "id": 873722027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.447229,48.071513,-101.447229,48.071513",
+    "geom:latitude":48.071513,
+    "geom:longitude":-101.447229,
+    "iso:country":"US",
+    "sg:address":"16650 100th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 722 3575",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "excavation",
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0axyWp91mk39ixgtRmU5En_48.071513_-101.447229@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296674,
+    "wof:geomhash":"9158a1adcec45ae69b848e325a66e46b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873722027
+        }
+    ],
+    "wof:id":873722027,
+    "wof:lastmodified":1464296674,
+    "wof:name":"Mock Excavating & Concrete",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -101.447229,
+    48.071513,
+    -101.447229,
+    48.071513
+],
+  "geometry": {"coordinates":[-101.44722899999999,48.071513],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 873785171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.046164,47.930219,-97.046164,47.930219",
+    "geom:latitude":47.930219,
+    "geom:longitude":-97.046164,
+    "iso:country":"US",
+    "sg:address":"513 10th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 8471",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "commercial",
+        "refrigeration"
+    ],
+    "sg:website":"www.dakotafoodequipment.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kVSQNNW93XInEYHfCa3Zz_47.930219_-97.046164@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297558,
+    "wof:geomhash":"7594491171b8bd30d05754ed2078fbc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873785171
+        }
+    ],
+    "wof:id":873785171,
+    "wof:lastmodified":1464297558,
+    "wof:name":"Dakota Food Equipment Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "commercial",
+        "refrigeration"
+    ]
+},
+  "bbox": [
+    -97.046164,
+    47.930219,
+    -97.046164,
+    47.930219
+],
+  "geometry": {"coordinates":[-97.046164,47.930219],"type":"Point"}
+}

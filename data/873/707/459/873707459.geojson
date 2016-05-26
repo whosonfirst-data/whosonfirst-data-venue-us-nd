@@ -1,0 +1,75 @@
+{
+  "id": 873707459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.046407,47.933108,-97.046407,47.933108",
+    "geom:latitude":47.933108,
+    "geom:longitude":-97.046407,
+    "iso:country":"US",
+    "sg:address":"301 Gateway Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 6607",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VYKptveIcee7XhMqVO4fX_47.933108_-97.046407@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296489,
+    "wof:geomhash":"5db950f29be439b1579f162d9bc4688c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873707459
+        }
+    ],
+    "wof:id":873707459,
+    "wof:lastmodified":1464296489,
+    "wof:name":"Forx Radiator",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [
+    -97.046407,
+    47.933108,
+    -97.046407,
+    47.933108
+],
+  "geometry": {"coordinates":[-97.046407,47.933108],"type":"Point"}
+}

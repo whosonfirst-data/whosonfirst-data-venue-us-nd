@@ -1,0 +1,73 @@
+{
+  "id": 873761983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.753076,46.820754,-100.753076,46.820754",
+    "geom:latitude":46.820754,
+    "geom:longitude":-100.753076,
+    "iso:country":"US",
+    "sg:address":"1412 Ridgeview Ln",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 2036",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26fHiEaub9kpO4UNeGF3kH_46.820754_-100.753076@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297237,
+    "wof:geomhash":"6522bdabf1aa5ae559e42395cdd08fc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873761983
+        }
+    ],
+    "wof:id":873761983,
+    "wof:lastmodified":1464297237,
+    "wof:name":"Intrastate Consignments & Sale",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -100.753076,
+    46.820754,
+    -100.753076,
+    46.820754
+],
+  "geometry": {"coordinates":[-100.75307599999999,46.820754],"type":"Point"}
+}

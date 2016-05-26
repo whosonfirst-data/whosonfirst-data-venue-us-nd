@@ -1,0 +1,73 @@
+{
+  "id": 873759991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.287664,48.24297,-101.287664,48.24297",
+    "geom:latitude":48.24297,
+    "geom:longitude":-101.287664,
+    "iso:country":"US",
+    "sg:address":"618 3rd St NE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 9799",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PA0aj7R75ZuQztBhiC7CM_48.242970_-101.287664@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297206,
+    "wof:geomhash":"22dbe08a8468dc743bce37f7a7323cc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873759991
+        }
+    ],
+    "wof:id":873759991,
+    "wof:lastmodified":1464297206,
+    "wof:name":"Habitat For Humanity",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -101.287664,
+    48.24297,
+    -101.287664,
+    48.24297
+],
+  "geometry": {"coordinates":[-101.28766400000001,48.24297],"type":"Point"}
+}

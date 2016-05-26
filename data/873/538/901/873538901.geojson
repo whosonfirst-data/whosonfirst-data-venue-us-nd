@@ -1,0 +1,73 @@
+{
+  "id": 873538901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.286621,48.248445,-101.286621,48.248445",
+    "geom:latitude":48.248445,
+    "geom:longitude":-101.286621,
+    "iso:country":"US",
+    "sg:address":"1120 4th St NE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 0350",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "spraying",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LzDimcKAt4WUIUiVWgdHC_48.248445_-101.286621@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294249,
+    "wof:geomhash":"1c8c243bfe8b7e100696ac26e3eb7dc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873538901
+        }
+    ],
+    "wof:id":873538901,
+    "wof:lastmodified":1464294249,
+    "wof:name":"Grigsby AG Service",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spraying",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -101.286621,
+    48.248445,
+    -101.286621,
+    48.248445
+],
+  "geometry": {"coordinates":[-101.286621,48.248445],"type":"Point"}
+}

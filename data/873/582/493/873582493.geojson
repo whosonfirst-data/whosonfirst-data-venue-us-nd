@@ -1,0 +1,71 @@
+{
+  "id": 873582493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.754266,46.807215,-100.754266,46.807215",
+    "geom:latitude":46.807215,
+    "geom:longitude":-100.754266,
+    "iso:country":"US",
+    "sg:address":"2406 E Thayer Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 221 0767",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tZRzq0aNs0uKWcalmyH4S_46.807215_-100.754266@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294747,
+    "wof:geomhash":"4bcf2e05a2dea1315df5c24b961e0779",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873582493
+        }
+    ],
+    "wof:id":873582493,
+    "wof:lastmodified":1464294747,
+    "wof:name":"R J Trucking",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -100.754266,
+    46.807215,
+    -100.754266,
+    46.807215
+],
+  "geometry": {"coordinates":[-100.754266,46.807215],"type":"Point"}
+}

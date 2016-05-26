@@ -1,0 +1,71 @@
+{
+  "id": 873641053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.281555,48.227529,-101.281555,48.227529",
+    "geom:latitude":48.227529,
+    "geom:longitude":-101.281555,
+    "iso:country":"US",
+    "sg:address":"901 8th St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 6698",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hDbPLjyloHUKYJwlnGD6k_48.227529_-101.281555@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295488,
+    "wof:geomhash":"043ce2f53824d28f4302d75f64444890",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873641053
+        }
+    ],
+    "wof:id":873641053,
+    "wof:lastmodified":1464295488,
+    "wof:name":"Ohmeda",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment"
+    ]
+},
+  "bbox": [
+    -101.281555,
+    48.227529,
+    -101.281555,
+    48.227529
+],
+  "geometry": {"coordinates":[-101.281555,48.227529],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 873705727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.018103,46.648533,-97.018103,46.648533",
+    "geom:latitude":46.648533,
+    "geom:longitude":-97.018103,
+    "iso:country":"US",
+    "sg:address":"460 Elm St",
+    "sg:city":"Kindred",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 428 3432",
+    "sg:postcode":"58051",
+    "sg:province":"ND",
+    "sg:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nwl0q9U7VBnQT7rve57Rq_46.648533_-97.018103@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296466,
+    "wof:geomhash":"6f9f07304371113ef04fae423932aa38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873705727
+        }
+    ],
+    "wof:id":873705727,
+    "wof:lastmodified":1464296466,
+    "wof:name":"Senior Citizens Center",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -97.018103,
+    46.648533,
+    -97.018103,
+    46.648533
+],
+  "geometry": {"coordinates":[-97.018103,46.648533],"type":"Point"}
+}

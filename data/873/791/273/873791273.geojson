@@ -1,0 +1,71 @@
+{
+  "id": 873791273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.154361,47.042678,-97.154361,47.042678",
+    "geom:latitude":47.042678,
+    "geom:longitude":-97.154361,
+    "iso:country":"US",
+    "sg:address":"2545 158th Ave SE",
+    "sg:city":"Amenia",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 347 4969",
+    "sg:postcode":"58004",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "corn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RhXpaA4flHtZUCr3HPNRD_47.042678_-97.154361@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297658,
+    "wof:geomhash":"0487c9af5680f4a93f34f80a953634ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873791273
+        }
+    ],
+    "wof:id":873791273,
+    "wof:lastmodified":1464297658,
+    "wof:name":"Ken Cramer",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "corn"
+    ]
+},
+  "bbox": [
+    -97.154361,
+    47.042678,
+    -97.154361,
+    47.042678
+],
+  "geometry": {"coordinates":[-97.15436099999999,47.042678],"type":"Point"}
+}

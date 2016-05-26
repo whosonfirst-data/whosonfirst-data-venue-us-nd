@@ -1,0 +1,75 @@
+{
+  "id": 873700811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.792193,46.807609,-100.792193,46.807609",
+    "geom:latitude":46.807609,
+    "geom:longitude":-100.792193,
+    "iso:country":"US",
+    "sg:address":"200 N Mandan St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 1343",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iOBo0cGD4JvBMRE55NzwH_46.807609_-100.792193@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296414,
+    "wof:geomhash":"0051fce6284f816cda3aa12fe34bbc2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873700811
+        }
+    ],
+    "wof:id":873700811,
+    "wof:lastmodified":1464296414,
+    "wof:name":"Grinsteiner Law Offices",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -100.792193,
+    46.807609,
+    -100.792193,
+    46.807609
+],
+  "geometry": {"coordinates":[-100.792193,46.807609],"type":"Point"}
+}

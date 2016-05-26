@@ -1,0 +1,75 @@
+{
+  "id": 873560065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.756088,46.802893,-100.756088,46.802893",
+    "geom:latitude":46.802893,
+    "geom:longitude":-100.756088,
+    "iso:country":"US",
+    "sg:address":"2314 E Front Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 1727",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dhss3rQRr9YVELmZuhqQl_46.802893_-100.756088@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294501,
+    "wof:geomhash":"8278573aa214e7317eb6dc6d15aafd0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873560065
+        }
+    ],
+    "wof:id":873560065,
+    "wof:lastmodified":1464294501,
+    "wof:name":"Fertilawn Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ]
+},
+  "bbox": [
+    -100.756088,
+    46.802893,
+    -100.756088,
+    46.802893
+],
+  "geometry": {"coordinates":[-100.75608800000001,46.802893],"type":"Point"}
+}

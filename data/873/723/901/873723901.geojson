@@ -1,0 +1,71 @@
+{
+  "id": 873723901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.32953,48.244163,-101.32953,48.244163",
+    "geom:latitude":48.244163,
+    "geom:longitude":-101.32953,
+    "iso:country":"US",
+    "sg:address":"2408 Bel Air Dr",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Toys & Hobbies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 2923",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "wholesaler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67mVdpTCUqVatMaF8x7Wd3_48.244163_-101.329530@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296697,
+    "wof:geomhash":"82f13875683c7ca98350d2bad7fa4018",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873723901
+        }
+    ],
+    "wof:id":873723901,
+    "wof:lastmodified":1464296697,
+    "wof:name":"N J Kelly Sales",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wholesaler"
+    ]
+},
+  "bbox": [
+    -101.32953,
+    48.244163,
+    -101.32953,
+    48.244163
+],
+  "geometry": {"coordinates":[-101.32953000000001,48.244163],"type":"Point"}
+}

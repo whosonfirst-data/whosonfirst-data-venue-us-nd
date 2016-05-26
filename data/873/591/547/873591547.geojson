@@ -1,0 +1,71 @@
+{
+  "id": 873591547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.296032,48.244305,-101.296032,48.244305",
+    "geom:latitude":48.244305,
+    "geom:longitude":-101.296032,
+    "iso:country":"US",
+    "sg:address":"1000 N Broadway",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 7440",
+    "sg:postcode":"58703",
+    "sg:province":"ND",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OkJ6uuCstYvQ6jePE4s8s_48.244305_-101.296032@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294850,
+    "wof:geomhash":"af7a8656db7826d903485a55ee2e1317",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873591547
+        }
+    ],
+    "wof:id":873591547,
+    "wof:lastmodified":1464294850,
+    "wof:name":"Outlaw Grill",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -101.296032,
+    48.244305,
+    -101.296032,
+    48.244305
+],
+  "geometry": {"coordinates":[-101.296032,48.244305],"type":"Point"}
+}

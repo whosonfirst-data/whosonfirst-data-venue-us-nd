@@ -1,0 +1,71 @@
+{
+  "id": 873787405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.403914,48.106818,-101.403914,48.106818",
+    "geom:latitude":48.106818,
+    "geom:longitude":-101.403914,
+    "iso:country":"US",
+    "sg:address":"12400 72nd St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 722 3349",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "wheat",
+        "grain",
+        "cash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PsoN4WWTUivfKX0MkSQ2h_48.106818_-101.403914@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297600,
+    "wof:geomhash":"7a81353b537ad9d08d0e3563ba9bced6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873787405
+        }
+    ],
+    "wof:id":873787405,
+    "wof:lastmodified":1464297600,
+    "wof:name":"Laverne Mikkelson",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "wheat",
+        "grain",
+        "cash"
+    ]
+},
+  "bbox": [
+    -101.403914,
+    48.106818,
+    -101.403914,
+    48.106818
+],
+  "geometry": {"coordinates":[-101.403914,48.106818],"type":"Point"}
+}

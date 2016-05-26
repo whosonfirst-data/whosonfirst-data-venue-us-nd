@@ -1,0 +1,73 @@
+{
+  "id": 873539331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.011059,46.64648,-97.011059,46.64648",
+    "geom:latitude":46.64648,
+    "geom:longitude":-97.011059,
+    "iso:country":"US",
+    "sg:address":"131 Maple St",
+    "sg:city":"Kindred",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 428 3139",
+    "sg:postcode":"58051",
+    "sg:province":"ND",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6egCm90JP61zNd1m8J49fA_46.646480_-97.011059@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294253,
+    "wof:geomhash":"0854105c3ce9132957d9284fe05fa09b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873539331
+        }
+    ],
+    "wof:id":873539331,
+    "wof:lastmodified":1464294253,
+    "wof:name":"Cass Rural Water Users",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -97.011059,
+    46.64648,
+    -97.011059,
+    46.64648
+],
+  "geometry": {"coordinates":[-97.011059,46.64648],"type":"Point"}
+}

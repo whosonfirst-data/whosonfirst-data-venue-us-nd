@@ -1,0 +1,73 @@
+{
+  "id": 873649091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.076547,47.901405,-97.076547,47.901405",
+    "geom:latitude":47.901405,
+    "geom:longitude":-97.076547,
+    "iso:country":"US",
+    "sg:address":"3325 Primrose Ct",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 2243",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "representative",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BUGINW8ndYBRgUtuHT537_47.901405_-97.076547@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295577,
+    "wof:geomhash":"36755bd2543905f6b753a7f4e5e67172",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873649091
+        }
+    ],
+    "wof:id":873649091,
+    "wof:lastmodified":1464295577,
+    "wof:name":"A & B Sales",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "representative",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -97.076547,
+    47.901405,
+    -97.076547,
+    47.901405
+],
+  "geometry": {"coordinates":[-97.07654700000001,47.901405],"type":"Point"}
+}

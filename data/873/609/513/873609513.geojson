@@ -1,0 +1,72 @@
+{
+  "id": 873609513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.072503,47.889377,-97.072503,47.889377",
+    "geom:latitude":47.889377,
+    "geom:longitude":-97.072503,
+    "iso:country":"US",
+    "sg:address":"2781 32nd Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 8999",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "sewing"
+    ],
+    "sg:website":"www.joann.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yZrRjmPHg5oX0TJy4mRJg_47.889377_-97.072503@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295134,
+    "wof:geomhash":"6b14f539f8cae39d5f5528197e643f5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873609513
+        }
+    ],
+    "wof:id":873609513,
+    "wof:lastmodified":1464295134,
+    "wof:name":"Jo-Ann Fabrics & Crafts",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sewing"
+    ]
+},
+  "bbox": [
+    -97.072503,
+    47.889377,
+    -97.072503,
+    47.889377
+],
+  "geometry": {"coordinates":[-97.072503,47.889377],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 873797421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.066364,47.889381,-97.066364,47.889381",
+    "geom:latitude":47.889381,
+    "geom:longitude":-97.066364,
+    "iso:country":"US",
+    "sg:address":"2675 32nd Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nd/grand-forks/127890-red-lobster/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 8770",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3b2mm1h6THpvn1LZ9ob2PU_47.889381_-97.066364@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464297743,
+    "wof:geomhash":"f641f35c8cba02e35c2c98dc4453b4c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873797421
+        }
+    ],
+    "wof:id":873797421,
+    "wof:lastmodified":1464297743,
+    "wof:name":"Red Lobster",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -97.066364,
+    47.889381,
+    -97.066364,
+    47.889381
+],
+  "geometry": {"coordinates":[-97.06636399999999,47.889381],"type":"Point"}
+}

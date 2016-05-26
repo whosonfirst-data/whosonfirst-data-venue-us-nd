@@ -1,0 +1,71 @@
+{
+  "id": 873561149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.112531,47.932958,-97.112531,47.932958",
+    "geom:latitude":47.932958,
+    "geom:longitude":-97.112531,
+    "iso:country":"US",
+    "sg:address":"5700 Gateway Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 4187",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hY6U63RNo0AndpxGjzKhU_47.932958_-97.112531@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294511,
+    "wof:geomhash":"674d7e5b7ed8c110099abd6f0bfe3492",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873561149
+        }
+    ],
+    "wof:id":873561149,
+    "wof:lastmodified":1464294511,
+    "wof:name":"Magic Limousine Svc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine"
+    ]
+},
+  "bbox": [
+    -97.112531,
+    47.932958,
+    -97.112531,
+    47.932958
+],
+  "geometry": {"coordinates":[-97.112531,47.932958],"type":"Point"}
+}

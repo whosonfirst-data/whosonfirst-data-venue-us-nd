@@ -1,0 +1,70 @@
+{
+  "id": 873702553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.78737,46.912794,-96.78737,46.912794",
+    "geom:latitude":46.912794,
+    "geom:longitude":-96.78737,
+    "iso:country":"US",
+    "sg:address":"2800 Broadway",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 0221",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877353,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JVS4HOIhl0p0B1X8FQwln_46.912794_-96.787370@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296431,
+    "wof:geomhash":"fae901deab8c3d49badd2fa176f71479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877353,
+            "region_id":85688525,
+            "venue_id":873702553
+        }
+    ],
+    "wof:id":873702553,
+    "wof:lastmodified":1464296431,
+    "wof:name":"Medicine Shoppe The",
+    "wof:parent_id":85877353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.78737,
+    46.912794,
+    -96.78737,
+    46.912794
+],
+  "geometry": {"coordinates":[-96.78737,46.912794],"type":"Point"}
+}

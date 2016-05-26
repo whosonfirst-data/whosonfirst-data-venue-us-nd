@@ -1,0 +1,66 @@
+{
+  "id": 873724055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.289673,46.83138,-100.289673,46.83138",
+    "geom:latitude":46.83138,
+    "geom:longitude":-100.289673,
+    "iso:country":"US",
+    "sg:address":"31105 27th Ave NE",
+    "sg:city":"Sterling",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 387 4711",
+    "sg:postcode":"58572",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kM5oX2Hu4Yf8FHiasSWpR_46.831380_-100.289673@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296700,
+    "wof:geomhash":"f111907571e7902f957f04d72aa91f65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873724055
+        }
+    ],
+    "wof:id":873724055,
+    "wof:lastmodified":1464296700,
+    "wof:name":"Master Video & Weddings",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.289673,
+    46.83138,
+    -100.289673,
+    46.83138
+],
+  "geometry": {"coordinates":[-100.28967299999999,46.83138],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873594861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.787516,46.908097,-96.787516,46.908097",
+    "geom:latitude":46.908097,
+    "geom:longitude":-96.787516,
+    "iso:country":"US",
+    "sg:address":"2214 Broadway",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 280 2377",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877353,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kaVaHF38i9dpvKiHX959c_46.908097_-96.787516@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294901,
+    "wof:geomhash":"e48513010d2fe446a55d22a412c5d4f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877353,
+            "region_id":85688525,
+            "venue_id":873594861
+        }
+    ],
+    "wof:id":873594861,
+    "wof:lastmodified":1464294901,
+    "wof:name":"Andrew H Boe Trucking",
+    "wof:parent_id":85877353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.787516,
+    46.908097,
+    -96.787516,
+    46.908097
+],
+  "geometry": {"coordinates":[-96.787516,46.908097],"type":"Point"}
+}

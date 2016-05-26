@@ -1,0 +1,73 @@
+{
+  "id": 873621827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.663351,46.747358,-100.663351,46.747358",
+    "geom:latitude":46.747358,
+    "geom:longitude":-100.663351,
+    "iso:country":"US",
+    "sg:address":"8300 Pleasantview Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 8452",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sjVM1fOQffPhy88TmzEf6_46.747358_-100.663351@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295269,
+    "wof:geomhash":"674d3a8b913c9075bfb9ca36e975fe48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873621827
+        }
+    ],
+    "wof:id":873621827,
+    "wof:lastmodified":1464295269,
+    "wof:name":"Apple Creek Landscaping",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.663351,
+    46.747358,
+    -100.663351,
+    46.747358
+],
+  "geometry": {"coordinates":[-100.66335100000001,46.747358],"type":"Point"}
+}

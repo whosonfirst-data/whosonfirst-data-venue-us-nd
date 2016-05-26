@@ -1,0 +1,71 @@
+{
+  "id": 873557189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.080202,47.898735,-97.080202,47.898735",
+    "geom:latitude":47.898735,
+    "geom:longitude":-97.080202,
+    "iso:country":"US",
+    "sg:address":"2155 S 36th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 4423",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "association"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6q5laiV86xCszG8f4knGQs_47.898735_-97.080202@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294462,
+    "wof:geomhash":"23b79740fcc95b7dabab85619c1c53ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873557189
+        }
+    ],
+    "wof:id":873557189,
+    "wof:lastmodified":1464294462,
+    "wof:name":"Twin Homes Assoc Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "association"
+    ]
+},
+  "bbox": [
+    -97.080202,
+    47.898735,
+    -97.080202,
+    47.898735
+],
+  "geometry": {"coordinates":[-97.080202,47.898735],"type":"Point"}
+}

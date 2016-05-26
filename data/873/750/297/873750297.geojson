@@ -1,0 +1,80 @@
+{
+  "id": 873750297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.791875,46.859647,-96.791875,46.859647",
+    "geom:latitude":46.859647,
+    "geom:longitude":-96.791875,
+    "iso:country":"US",
+    "sg:address":"1302 8th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 293 3030",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "ornamental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534479,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6R1n5l1b2G04secdsjGRWv_46.859647_-96.791875@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297078,
+    "wof:geomhash":"6498d3daf76acac511b14172f7ab70b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534479,
+            "region_id":85688525,
+            "venue_id":873750297
+        }
+    ],
+    "wof:id":873750297,
+    "wof:lastmodified":1464297078,
+    "wof:name":"Shotwell Floral Greenhouses",
+    "wof:parent_id":420534479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ornamental"
+    ]
+},
+  "bbox": [
+    -96.791875,
+    46.859647,
+    -96.791875,
+    46.859647
+],
+  "geometry": {"coordinates":[-96.791875,46.859647],"type":"Point"}
+}

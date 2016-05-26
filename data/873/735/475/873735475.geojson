@@ -1,0 +1,66 @@
+{
+  "id": 873735475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.04347,47.908865,-97.04347,47.908865",
+    "geom:latitude":47.908865,
+    "geom:longitude":-97.04347,
+    "iso:country":"US",
+    "sg:address":"1100 13th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 2285",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BlEZMJu1jRozFa4Btvwcr_47.908865_-97.043470@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296857,
+    "wof:geomhash":"1bfbe1be98ff618c2b00f9c3bad33615",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873735475
+        }
+    ],
+    "wof:id":873735475,
+    "wof:lastmodified":1464296857,
+    "wof:name":"Lewis & Clark Elementary Schl",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.04347,
+    47.908865,
+    -97.04347,
+    47.908865
+],
+  "geometry": {"coordinates":[-97.04347,47.908865],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873564343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.778785,46.804008,-100.778785,46.804008",
+    "geom:latitude":46.804008,
+    "geom:longitude":-100.778785,
+    "iso:country":"US",
+    "sg:address":"819 E Front Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 3994",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "equipment",
+        "automobile",
+        "parts",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FnKQjjPqqGO60HfiEVBEb_46.804008_-100.778785@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294547,
+    "wof:geomhash":"72e9fe2a948962ed8e4ffc74cdd9434f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873564343
+        }
+    ],
+    "wof:id":873564343,
+    "wof:lastmodified":1464294547,
+    "wof:name":"Roughrider Speed Center Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "automobile",
+        "parts",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -100.778785,
+    46.804008,
+    -100.778785,
+    46.804008
+],
+  "geometry": {"coordinates":[-100.778785,46.804008],"type":"Point"}
+}

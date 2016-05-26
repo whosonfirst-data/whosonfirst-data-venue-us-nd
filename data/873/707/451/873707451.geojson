@@ -1,0 +1,73 @@
+{
+  "id": 873707451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.776042,46.785281,-100.776042,46.785281",
+    "geom:latitude":46.785281,
+    "geom:longitude":-100.776042,
+    "iso:country":"US",
+    "sg:address":"160 Northwest Dr",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 4842",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ttj2Oh2MfE7rYlzEVVOqZ_46.785281_-100.776042@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296489,
+    "wof:geomhash":"573d74ac4e0239fd12946c7ea1cefd33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873707451
+        }
+    ],
+    "wof:id":873707451,
+    "wof:lastmodified":1464296489,
+    "wof:name":"MB Ranch LLP",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -100.776042,
+    46.785281,
+    -100.776042,
+    46.785281
+],
+  "geometry": {"coordinates":[-100.776042,46.785281],"type":"Point"}
+}

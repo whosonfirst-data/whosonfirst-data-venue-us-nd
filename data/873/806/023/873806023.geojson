@@ -1,0 +1,76 @@
+{
+  "id": 873806023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.787726,46.801848,-100.787726,46.801848",
+    "geom:latitude":46.801848,
+    "geom:longitude":-100.787726,
+    "iso:country":"US",
+    "sg:address":"424 S 3rd St Ste 3",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Massage",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 7895",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MJq9Xukuvfgo2a4KOPNtb_46.801848_-100.787726@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297852,
+    "wof:geomhash":"cd2136cea719d21b6ab333cd5678092a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873806023
+        }
+    ],
+    "wof:id":873806023,
+    "wof:lastmodified":1464297852,
+    "wof:name":"Escape On Third Salon & Day Spa",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.787726,
+    46.801848,
+    -100.787726,
+    46.801848
+],
+  "geometry": {"coordinates":[-100.78772600000001,46.801848],"type":"Point"}
+}

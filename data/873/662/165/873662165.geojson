@@ -1,0 +1,76 @@
+{
+  "id": 873662165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.755523,46.794219,-100.755523,46.794219",
+    "geom:latitude":46.794219,
+    "geom:longitude":-100.755523,
+    "iso:country":"US",
+    "sg:address":"1021 S 23rd St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 0076",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "pipe",
+        "fitting",
+        "fabricated"
+    ],
+    "sg:website":"www.westconindustries.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CYKfGptQa2MAjeDUZRtsx_46.794219_-100.755523@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295721,
+    "wof:geomhash":"236334baa507febe04e6e7d7a02ce6ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873662165
+        }
+    ],
+    "wof:id":873662165,
+    "wof:lastmodified":1464295721,
+    "wof:name":"Westcon Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pipe",
+        "fitting",
+        "fabricated"
+    ]
+},
+  "bbox": [
+    -100.755523,
+    46.794219,
+    -100.755523,
+    46.794219
+],
+  "geometry": {"coordinates":[-100.755523,46.794219],"type":"Point"}
+}

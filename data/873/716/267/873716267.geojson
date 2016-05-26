@@ -1,0 +1,75 @@
+{
+  "id": 873716267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-102.784615,46.881849,-102.784615,46.881849",
+    "geom:latitude":46.881849,
+    "geom:longitude":-102.784615,
+    "iso:country":"US",
+    "sg:address":"51 3rd St E",
+    "sg:city":"Dickinson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 227 3150",
+    "sg:postcode":"58601",
+    "sg:province":"ND",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877119,
+        102191575,
+        404482179,
+        85633793,
+        85982521,
+        102082105,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zZqblGC7urjIaXuRhKhdK_46.881849_-102.784615@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296596,
+    "wof:geomhash":"64918ddb30ef60ed15ef736f6514d3d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082105,
+            "localadmin_id":404482179,
+            "locality_id":85982521,
+            "neighbourhood_id":85877119,
+            "region_id":85688525,
+            "venue_id":873716267
+        }
+    ],
+    "wof:id":873716267,
+    "wof:lastmodified":1464296596,
+    "wof:name":"District Court",
+    "wof:parent_id":85877119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -102.784615,
+    46.881849,
+    -102.784615,
+    46.881849
+],
+  "geometry": {"coordinates":[-102.784615,46.881849],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873542321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.822264,46.877881,-96.822264,46.877881",
+    "geom:latitude":46.877881,
+    "geom:longitude":-96.822264,
+    "iso:country":"US",
+    "sg:address":"2702 1st Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 2594",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "mixed",
+        "concrete"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877347,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zGDtRzMtIiaRxzdu7KNf3_46.877881_-96.822264@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294284,
+    "wof:geomhash":"ed543f606df3bff73d5d15421c81eb31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877347,
+            "region_id":85688525,
+            "venue_id":873542321
+        }
+    ],
+    "wof:id":873542321,
+    "wof:lastmodified":1464294284,
+    "wof:name":"Ames Sand & Gravel",
+    "wof:parent_id":85877347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mixed",
+        "concrete"
+    ]
+},
+  "bbox": [
+    -96.822264,
+    46.877881,
+    -96.822264,
+    46.877881
+],
+  "geometry": {"coordinates":[-96.822264,46.877881],"type":"Point"}
+}

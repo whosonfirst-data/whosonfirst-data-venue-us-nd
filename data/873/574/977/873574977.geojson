@@ -1,0 +1,73 @@
+{
+  "id": 873574977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.058736,47.916431,-97.058736,47.916431",
+    "geom:latitude":47.916431,
+    "geom:longitude":-97.058736,
+    "iso:country":"US",
+    "sg:address":"2004 Demers Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 746 9600",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "recycling",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SRPApLk5czkLxUF8Qd44Z_47.916431_-97.058736@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294663,
+    "wof:geomhash":"3ce81541c6bcb817055c31a52510bd33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873574977
+        }
+    ],
+    "wof:id":873574977,
+    "wof:lastmodified":1464294663,
+    "wof:name":"Minnkota Recycling",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center"
+    ]
+},
+  "bbox": [
+    -97.058736,
+    47.916431,
+    -97.058736,
+    47.916431
+],
+  "geometry": {"coordinates":[-97.058736,47.916431],"type":"Point"}
+}

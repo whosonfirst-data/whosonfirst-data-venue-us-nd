@@ -1,0 +1,71 @@
+{
+  "id": 873610441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.037172,47.91309,-97.037172,47.91309",
+    "geom:latitude":47.91309,
+    "geom:longitude":-97.037172,
+    "iso:country":"US",
+    "sg:address":"809 Oak St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 2039",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15AXaBF811ohSD5cmZI3SD_47.913090_-97.037172@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295148,
+    "wof:geomhash":"c7fcac29f130a8805436544db2e45326",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873610441
+        }
+    ],
+    "wof:id":873610441,
+    "wof:lastmodified":1464295148,
+    "wof:name":"Marilyns Family Day Care",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -97.037172,
+    47.91309,
+    -97.037172,
+    47.91309
+],
+  "geometry": {"coordinates":[-97.037172,47.91309],"type":"Point"}
+}

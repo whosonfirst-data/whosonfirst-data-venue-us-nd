@@ -1,0 +1,75 @@
+{
+  "id": 873691615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.798966,46.839219,-96.798966,46.839219",
+    "geom:latitude":46.839219,
+    "geom:longitude":-96.798966,
+    "iso:country":"US",
+    "sg:address":"2613 S University Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 241 8810",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534475,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46yFQ86zkZTYNkb9slgGLt_46.839219_-96.798966@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296311,
+    "wof:geomhash":"896c8287713dd909b40697de6ed2fd71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534475,
+            "region_id":85688525,
+            "venue_id":873691615
+        }
+    ],
+    "wof:id":873691615,
+    "wof:lastmodified":1464296311,
+    "wof:name":"L A Nails",
+    "wof:parent_id":420534475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -96.798966,
+    46.839219,
+    -96.798966,
+    46.839219
+],
+  "geometry": {"coordinates":[-96.79896599999999,46.839219],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 873800461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.859596,46.946072,-96.859596,46.946072",
+    "geom:latitude":46.946072,
+    "geom:longitude":-96.859596,
+    "iso:country":"US",
+    "sg:address":"1426 48th Ave N",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Motor Vehicles",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 364 9119",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "automobile",
+        "transporter",
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877363,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZIRoxVkqGrjqeMDcLKIwX_46.946072_-96.859596@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297779,
+    "wof:geomhash":"a0ced16e4ab88ced3765e758aa270713",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877363,
+            "region_id":85688525,
+            "venue_id":873800461
+        }
+    ],
+    "wof:id":873800461,
+    "wof:lastmodified":1464297779,
+    "wof:name":"Fargo Cargo",
+    "wof:parent_id":85877363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "transporter",
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.859596,
+    46.946072,
+    -96.859596,
+    46.946072
+],
+  "geometry": {"coordinates":[-96.859596,46.946072],"type":"Point"}
+}

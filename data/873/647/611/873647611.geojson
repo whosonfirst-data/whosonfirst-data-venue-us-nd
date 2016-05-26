@@ -1,0 +1,71 @@
+{
+  "id": 873647611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.084469,47.932976,-97.084469,47.932976",
+    "geom:latitude":47.932976,
+    "geom:longitude":-97.084469,
+    "iso:country":"US",
+    "sg:address":"3635 Gateway Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 3917",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KH7IK4PkiA8iaKUzWmSYr_47.932976_-97.084469@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295562,
+    "wof:geomhash":"3e8aed5bd9067009efcdeda34349601a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873647611
+        }
+    ],
+    "wof:id":873647611,
+    "wof:lastmodified":1464295562,
+    "wof:name":"Gateway Amoco",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -97.084469,
+    47.932976,
+    -97.084469,
+    47.932976
+],
+  "geometry": {"coordinates":[-97.084469,47.932976],"type":"Point"}
+}

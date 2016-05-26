@@ -1,0 +1,66 @@
+{
+  "id": 873764599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.286093,48.23649,-101.286093,48.23649",
+    "geom:latitude":48.23649,
+    "geom:longitude":-101.286093,
+    "iso:country":"US",
+    "sg:address":"405 Central Ave E",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 3866",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YIwvuwnrdPUNQeYgCF6sg_48.236490_-101.286093@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297287,
+    "wof:geomhash":"ee0318c593dd232339c36e90e6f0ebf3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873764599
+        }
+    ],
+    "wof:id":873764599,
+    "wof:lastmodified":1464297287,
+    "wof:name":"GEM Federal Credit Union",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.286093,
+    48.23649,
+    -101.286093,
+    48.23649
+],
+  "geometry": {"coordinates":[-101.28609299999999,48.23649],"type":"Point"}
+}

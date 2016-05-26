@@ -1,0 +1,75 @@
+{
+  "id": 873767103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.78738,46.913627,-96.78738,46.913627",
+    "geom:latitude":46.913627,
+    "geom:longitude":-96.78738,
+    "iso:country":"US",
+    "sg:address":"2801 Broadway",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 232 6568",
+    "sg:postcode":"58102",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877353,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Md8pAmG4RstL6x38i0Vf6_46.913627_-96.787380@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297326,
+    "wof:geomhash":"ffa5de5a4971966b33e24c23d3896878",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877353,
+            "region_id":85688525,
+            "venue_id":873767103
+        }
+    ],
+    "wof:id":873767103,
+    "wof:lastmodified":1464297326,
+    "wof:name":"Temple Baptist Church",
+    "wof:parent_id":85877353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -96.78738,
+    46.913627,
+    -96.78738,
+    46.913627
+],
+  "geometry": {"coordinates":[-96.78738,46.913627],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873651569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.078221,47.894315,-97.078221,47.894315",
+    "geom:latitude":47.894315,
+    "geom:longitude":-97.078221,
+    "iso:country":"US",
+    "sg:address":"2524 Sara Lyn Dr",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 787 0946",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1azxBj2YqNWharxjiWwUzr_47.894315_-97.078221@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295608,
+    "wof:geomhash":"778ac53057b599d768cc2ec698c516f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873651569
+        }
+    ],
+    "wof:id":873651569,
+    "wof:lastmodified":1464295608,
+    "wof:name":"Robin Silverman",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "program"
+    ]
+},
+  "bbox": [
+    -97.078221,
+    47.894315,
+    -97.078221,
+    47.894315
+],
+  "geometry": {"coordinates":[-97.078221,47.894315],"type":"Point"}
+}

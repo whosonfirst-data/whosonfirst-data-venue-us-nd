@@ -1,0 +1,75 @@
+{
+  "id": 873758831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.28583,48.210984,-101.28583,48.210984",
+    "geom:latitude":48.210984,
+    "geom:longitude":-101.28583,
+    "iso:country":"US",
+    "sg:address":"515 20th Ave SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 6737",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "martial",
+        "arts",
+        "instruction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZCzZH66DLzk3N8sVmhEB6_48.210984_-101.285830@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297192,
+    "wof:geomhash":"4e14f0b6450bd33975fa2980e973b24e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873758831
+        }
+    ],
+    "wof:id":873758831,
+    "wof:lastmodified":1464297192,
+    "wof:name":"ATA Black Belt Academy",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "martial",
+        "arts",
+        "instruction"
+    ]
+},
+  "bbox": [
+    -101.28583,
+    48.210984,
+    -101.28583,
+    48.210984
+],
+  "geometry": {"coordinates":[-101.28583,48.210984],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873651437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.055195,47.927179,-97.055195,47.927179",
+    "geom:latitude":47.927179,
+    "geom:longitude":-97.055195,
+    "iso:country":"US",
+    "sg:address":"1905 8th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 6001",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0f6AWw5KJoXj6wSIhQ0oZC_47.927179_-97.055195@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295602,
+    "wof:geomhash":"8618dea86924d50c48e120d5639ef037",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873651437
+        }
+    ],
+    "wof:id":873651437,
+    "wof:lastmodified":1464295602,
+    "wof:name":"Hagen's Auto Repair",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -97.055195,
+    47.927179,
+    -97.055195,
+    47.927179
+],
+  "geometry": {"coordinates":[-97.055195,47.927179],"type":"Point"}
+}

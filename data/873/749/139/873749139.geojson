@@ -1,0 +1,71 @@
+{
+  "id": 873749139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.10135,47.771181,-97.10135,47.771181",
+    "geom:latitude":47.771181,
+    "geom:longitude":-97.10135,
+    "iso:country":"US",
+    "sg:address":"620 Maplewood Dr",
+    "sg:city":"Thompson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 599 2493",
+    "sg:postcode":"58278",
+    "sg:province":"ND",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_323lJF4uSHLROqSQo73Czl_47.771181_-97.101350@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297063,
+    "wof:geomhash":"7d4405c4e9b6aaf49c6930082a9ad44f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873749139
+        }
+    ],
+    "wof:id":873749139,
+    "wof:lastmodified":1464297063,
+    "wof:name":"Craftsmen Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -97.10135,
+    47.771181,
+    -97.10135,
+    47.771181
+],
+  "geometry": {"coordinates":[-97.10135,47.771181],"type":"Point"}
+}

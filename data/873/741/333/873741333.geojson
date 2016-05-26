@@ -1,0 +1,66 @@
+{
+  "id": 873741333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.186365,47.701002,-97.186365,47.701002",
+    "geom:latitude":47.701002,
+    "geom:longitude":-97.186365,
+    "iso:country":"US",
+    "sg:address":"1653 2nd Ave NE",
+    "sg:city":"Reynolds",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 847 2053",
+    "sg:postcode":"58275",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RkPOXJGR7GqsbacLZQngb_47.701002_-97.186365@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296943,
+    "wof:geomhash":"9e1f79408e61ddb5e11e02704beadac0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873741333
+        }
+    ],
+    "wof:id":873741333,
+    "wof:lastmodified":1464296943,
+    "wof:name":"Cole Creek Siberians",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.186365,
+    47.701002,
+    -97.186365,
+    47.701002
+],
+  "geometry": {"coordinates":[-97.186365,47.701002],"type":"Point"}
+}

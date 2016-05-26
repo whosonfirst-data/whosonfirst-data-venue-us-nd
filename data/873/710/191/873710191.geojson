@@ -1,0 +1,73 @@
+{
+  "id": 873710191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.044872,47.926333,-97.044872,47.926333",
+    "geom:latitude":47.926333,
+    "geom:longitude":-97.044872,
+    "iso:country":"US",
+    "sg:address":"1210 7th Ave N",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 8220",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29PsfvmQh8IipTzB7Oe9Io_47.926333_-97.044872@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296523,
+    "wof:geomhash":"dd9411317941792f4917fbaf2f8b8f80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873710191
+        }
+    ],
+    "wof:id":873710191,
+    "wof:lastmodified":1464296523,
+    "wof:name":"Bob E Koopman",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.044872,
+    47.926333,
+    -97.044872,
+    47.926333
+],
+  "geometry": {"coordinates":[-97.044872,47.926333],"type":"Point"}
+}

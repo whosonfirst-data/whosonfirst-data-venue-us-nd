@@ -1,0 +1,74 @@
+{
+  "id": 873769101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.747447,46.796973,-100.747447,46.796973",
+    "geom:latitude":46.796973,
+    "geom:longitude":-100.747447,
+    "iso:country":"US",
+    "sg:address":"3020 Vermont Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 258 6655",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "shaft",
+        "drive"
+    ],
+    "sg:website":"www.inlandtruckparts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jOGNGmABQt8AyMxPXK744_46.796973_-100.747447@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297351,
+    "wof:geomhash":"7a099099f9c9b43ba9a535a50f9b371c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873769101
+        }
+    ],
+    "wof:id":873769101,
+    "wof:lastmodified":1464297351,
+    "wof:name":"Inland Truck Parts & Svc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shaft",
+        "drive"
+    ]
+},
+  "bbox": [
+    -100.747447,
+    46.796973,
+    -100.747447,
+    46.796973
+],
+  "geometry": {"coordinates":[-100.74744699999999,46.796973],"type":"Point"}
+}

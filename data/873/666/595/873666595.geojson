@@ -1,0 +1,77 @@
+{
+  "id": 873666595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.217324,47.192532,-97.217324,47.192532",
+    "geom:latitude":47.192532,
+    "geom:longitude":-97.217324,
+    "iso:country":"US",
+    "sg:address":"501 Main St",
+    "sg:city":"Hunter",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 874 2168",
+    "sg:postcode":"58048",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZeuB8HiUmZZidaFjlkKSF_47.192532_-97.217324@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295765,
+    "wof:geomhash":"425e9983d365d023a76780c948ad26ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873666595
+        }
+    ],
+    "wof:id":873666595,
+    "wof:lastmodified":1464295765,
+    "wof:name":"Hunter Equipment Inc",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -97.217324,
+    47.192532,
+    -97.217324,
+    47.192532
+],
+  "geometry": {"coordinates":[-97.217324,47.192532],"type":"Point"}
+}

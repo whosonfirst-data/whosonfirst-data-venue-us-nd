@@ -1,0 +1,66 @@
+{
+  "id": 873636439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.302963,48.210732,-101.302963,48.210732",
+    "geom:latitude":48.210732,
+    "geom:longitude":-101.302963,
+    "iso:country":"US",
+    "sg:address":"600 20th Ave SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 839 7300",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6clzIlHW3kP9VrC3Dz7vHv_48.210732_-101.302963@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295436,
+    "wof:geomhash":"d18ebbb590a16b3d5004c1262b4cd372",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873636439
+        }
+    ],
+    "wof:id":873636439,
+    "wof:lastmodified":1464295436,
+    "wof:name":"H & R Block",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.302963,
+    48.210732,
+    -101.302963,
+    48.210732
+],
+  "geometry": {"coordinates":[-101.30296300000001,48.210732],"type":"Point"}
+}

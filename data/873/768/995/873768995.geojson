@@ -1,0 +1,73 @@
+{
+  "id": 873768995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.053355,47.902018,-97.053355,47.902018",
+    "geom:latitude":47.902018,
+    "geom:longitude":-97.053355,
+    "iso:country":"US",
+    "sg:address":"1803 S 19th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 8182",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "television",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0x2G80cR2zNMHgLaISBfvI_47.902018_-97.053355@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297350,
+    "wof:geomhash":"532a1744cf695be71497f4fff79f141a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873768995
+        }
+    ],
+    "wof:id":873768995,
+    "wof:lastmodified":1464297350,
+    "wof:name":"Goodman TV Svc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "radio"
+    ]
+},
+  "bbox": [
+    -97.053355,
+    47.902018,
+    -97.053355,
+    47.902018
+],
+  "geometry": {"coordinates":[-97.053355,47.902018],"type":"Point"}
+}

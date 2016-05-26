@@ -1,0 +1,75 @@
+{
+  "id": 873623905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.221595,48.229135,-101.221595,48.229135",
+    "geom:latitude":48.229135,
+    "geom:longitude":-101.221595,
+    "iso:country":"US",
+    "sg:address":"5115 US Hwy 2 Bus",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 837 8880",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VRLCNkwlmoIHvqxN868J4_48.229135_-101.221595@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295297,
+    "wof:geomhash":"5f96c823fd871dd5a8dc26aa88e14821",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873623905
+        }
+    ],
+    "wof:id":873623905,
+    "wof:lastmodified":1464295297,
+    "wof:name":"Kevin's Auto Body",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -101.221595,
+    48.229135,
+    -101.221595,
+    48.229135
+],
+  "geometry": {"coordinates":[-101.22159499999999,48.229135],"type":"Point"}
+}

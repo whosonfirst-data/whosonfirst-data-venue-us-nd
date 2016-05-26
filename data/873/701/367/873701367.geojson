@@ -1,0 +1,71 @@
+{
+  "id": 873701367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.794686,46.795807,-100.794686,46.795807",
+    "geom:latitude":46.795807,
+    "geom:longitude":-100.794686,
+    "iso:country":"US",
+    "sg:address":"900 S Washington St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 255 1199",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hbP0pOpuilG9zoilfio1Q_46.795807_-100.794686@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296419,
+    "wof:geomhash":"e48e0d105e26d4887a755836fa74d75d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873701367
+        }
+    ],
+    "wof:id":873701367,
+    "wof:lastmodified":1464296419,
+    "wof:name":"Elks Lodge",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -100.794686,
+    46.795807,
+    -100.794686,
+    46.795807
+],
+  "geometry": {"coordinates":[-100.794686,46.795807],"type":"Point"}
+}

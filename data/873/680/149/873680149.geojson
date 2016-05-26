@@ -1,0 +1,66 @@
+{
+  "id": 873680149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.231287,48.229229,-101.231287,48.229229",
+    "geom:latitude":48.229229,
+    "geom:longitude":-101.231287,
+    "iso:country":"US",
+    "sg:address":"4105 Burdick Expy E",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 6575",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3noWdQaPFPb20xLgFLFgJM_48.229229_-101.231287@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296000,
+    "wof:geomhash":"f549f1ab3cda8ebe63491b0f9e881517",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873680149
+        }
+    ],
+    "wof:id":873680149,
+    "wof:lastmodified":1464296000,
+    "wof:name":"School Masters",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.231287,
+    48.229229,
+    -101.231287,
+    48.229229
+],
+  "geometry": {"coordinates":[-101.23128699999999,48.229229],"type":"Point"}
+}

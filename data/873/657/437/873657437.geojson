@@ -1,0 +1,80 @@
+{
+  "id": 873657437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.773447,46.792201,-100.773447,46.792201",
+    "geom:latitude":46.792201,
+    "geom:longitude":-100.773447,
+    "iso:country":"US",
+    "sg:address":"1223 S 12th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 8999",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "diving",
+        "training",
+        "diver"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ahPNkxrLWcgeAd5BNybes_46.792201_-100.773447@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295672,
+    "wof:geomhash":"79a12ddc25f2e5dcbb5a8f5a9694b34d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873657437
+        }
+    ],
+    "wof:id":873657437,
+    "wof:lastmodified":1464295672,
+    "wof:name":"Dacotah Divers & Snorkel Ctr",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diving",
+        "training",
+        "diver"
+    ]
+},
+  "bbox": [
+    -100.773447,
+    46.792201,
+    -100.773447,
+    46.792201
+],
+  "geometry": {"coordinates":[-100.773447,46.792201],"type":"Point"}
+}

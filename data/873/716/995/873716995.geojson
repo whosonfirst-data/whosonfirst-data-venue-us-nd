@@ -1,0 +1,73 @@
+{
+  "id": 873716995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.091203,47.931598,-97.091203,47.931598",
+    "geom:latitude":47.931598,
+    "geom:longitude":-97.091203,
+    "iso:country":"US",
+    "sg:address":"1215 N 43rd St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 7224",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ml35gCoRolOZAWWaySBiW_47.931598_-97.091203@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296605,
+    "wof:geomhash":"bb7408de267e702f3363584b91b357d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873716995
+        }
+    ],
+    "wof:id":873716995,
+    "wof:lastmodified":1464296605,
+    "wof:name":"Motor Works",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -97.091203,
+    47.931598,
+    -97.091203,
+    47.931598
+],
+  "geometry": {"coordinates":[-97.09120299999999,47.931598],"type":"Point"}
+}

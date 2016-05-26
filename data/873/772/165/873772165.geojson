@@ -1,0 +1,72 @@
+{
+  "id": 873772165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.081065,47.88938,-97.081065,47.88938",
+    "geom:latitude":47.88938,
+    "geom:longitude":-97.081065,
+    "iso:country":"US",
+    "sg:address":"3841 32nd Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 1033",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "housewares"
+    ],
+    "sg:website":"www.bedbathandbeyond.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2r7qSASGEFbcc2lpbRrcL1_47.889380_-97.081065@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297391,
+    "wof:geomhash":"e37f000b1a6e316e83d7e55d1a310382",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873772165
+        }
+    ],
+    "wof:id":873772165,
+    "wof:lastmodified":1464297391,
+    "wof:name":"Bed Bath & Beyond",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "housewares"
+    ]
+},
+  "bbox": [
+    -97.081065,
+    47.88938,
+    -97.081065,
+    47.88938
+],
+  "geometry": {"coordinates":[-97.081065,47.88938],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873799645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.893248,46.717115,-96.893248,46.717115",
+    "geom:latitude":46.717115,
+    "geom:longitude":-96.893248,
+    "iso:country":"US",
+    "sg:address":"6306 124th Ave S",
+    "sg:city":"Horace",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 588 4517",
+    "sg:postcode":"58047",
+    "sg:province":"ND",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982177,
+        102082073,
+        85877375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_637VgNnQYbirp0fxnVtDrO_46.717115_-96.893248@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464297769,
+    "wof:geomhash":"2354b61dc2982b705890a9d8ee274e4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082073,
+            "locality_id":85982177,
+            "neighbourhood_id":85877375,
+            "region_id":85688525,
+            "venue_id":873799645
+        }
+    ],
+    "wof:id":873799645,
+    "wof:lastmodified":1464297769,
+    "wof:name":"Darwin Duval",
+    "wof:parent_id":85877375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -96.893248,
+    46.717115,
+    -96.893248,
+    46.717115
+],
+  "geometry": {"coordinates":[-96.893248,46.717115],"type":"Point"}
+}

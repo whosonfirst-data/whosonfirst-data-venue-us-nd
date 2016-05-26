@@ -1,0 +1,71 @@
+{
+  "id": 873804833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.817509,46.827584,-96.817509,46.827584",
+    "geom:latitude":46.827584,
+    "geom:longitude":-96.817509,
+    "iso:country":"US",
+    "sg:address":"2313 35th Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 237 5529",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:website":"http://www.dmcoffee.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534467,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16bYDJfZmNUskoautb01oh_46.827584_-96.817509@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297832,
+    "wof:geomhash":"1d5c22336d7ef28c43b6511b4f81dae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534467,
+            "region_id":85688525,
+            "venue_id":873804833
+        }
+    ],
+    "wof:id":873804833,
+    "wof:lastmodified":1464297832,
+    "wof:name":"D & M Coffee",
+    "wof:parent_id":420534467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.817509,
+    46.827584,
+    -96.817509,
+    46.827584
+],
+  "geometry": {"coordinates":[-96.817509,46.827584],"type":"Point"}
+}

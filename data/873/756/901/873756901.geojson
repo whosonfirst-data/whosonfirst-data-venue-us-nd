@@ -1,0 +1,73 @@
+{
+  "id": 873756901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.040608,47.89505,-97.040608,47.89505",
+    "geom:latitude":47.89505,
+    "geom:longitude":-97.040608,
+    "iso:country":"US",
+    "sg:address":"2714 S 10th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 795 1161",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eh4wUrM23uou39qAIXn8C_47.895050_-97.040608@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297169,
+    "wof:geomhash":"540241556ab476670f1671b9f4566b7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873756901
+        }
+    ],
+    "wof:id":873756901,
+    "wof:lastmodified":1464297169,
+    "wof:name":"Havo Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -97.040608,
+    47.89505,
+    -97.040608,
+    47.89505
+],
+  "geometry": {"coordinates":[-97.04060800000001,47.89505],"type":"Point"}
+}

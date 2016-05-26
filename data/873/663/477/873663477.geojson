@@ -1,0 +1,71 @@
+{
+  "id": 873663477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.588534,46.692961,-100.588534,46.692961",
+    "geom:latitude":46.692961,
+    "geom:longitude":-100.588534,
+    "iso:country":"US",
+    "sg:address":"13000 State Hwy 1804",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 667 8702",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OiVVu9WDANqzja22Wx5Nx_46.692961_-100.588534@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295735,
+    "wof:geomhash":"63ce63da68c612f181451a4a56d9df52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873663477
+        }
+    ],
+    "wof:id":873663477,
+    "wof:lastmodified":1464295735,
+    "wof:name":"Unifield Engineering Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -100.588534,
+    46.692961,
+    -100.588534,
+    46.692961
+],
+  "geometry": {"coordinates":[-100.588534,46.692961],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873535501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.046136,47.929932,-97.046136,47.929932",
+    "geom:latitude":47.929932,
+    "geom:longitude":-97.046136,
+    "iso:country":"US",
+    "sg:address":"923 N 6th St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 3125",
+    "sg:postcode":"58203",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6o3paTB78LdF1bgON7nlpE_47.929932_-97.046136@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294210,
+    "wof:geomhash":"737d36476cee4977aba6e5941d9e0c0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873535501
+        }
+    ],
+    "wof:id":873535501,
+    "wof:lastmodified":1464294210,
+    "wof:name":"Raymond F Schaefer Insurance",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.046136,
+    47.929932,
+    -97.046136,
+    47.929932
+],
+  "geometry": {"coordinates":[-97.046136,47.929932],"type":"Point"}
+}

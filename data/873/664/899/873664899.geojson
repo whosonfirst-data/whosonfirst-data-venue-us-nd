@@ -1,0 +1,71 @@
+{
+  "id": 873664899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.065316,47.894515,-97.065316,47.894515",
+    "geom:latitude":47.894515,
+    "geom:longitude":-97.065316,
+    "iso:country":"US",
+    "sg:address":"2650 26th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 780 9290",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5I1opvewBE2jqamiRN2JLQ_47.894515_-97.065316@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295749,
+    "wof:geomhash":"00793064c272302d7f4ad3c4f3688347",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873664899
+        }
+    ],
+    "wof:id":873664899,
+    "wof:lastmodified":1464295749,
+    "wof:name":"Briarwood Apts",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -97.065316,
+    47.894515,
+    -97.065316,
+    47.894515
+],
+  "geometry": {"coordinates":[-97.065316,47.894515],"type":"Point"}
+}

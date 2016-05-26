@@ -1,0 +1,66 @@
+{
+  "id": 873646935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.035755,47.921606,-97.035755,47.921606",
+    "geom:latitude":47.921606,
+    "geom:longitude":-97.035755,
+    "iso:country":"US",
+    "sg:address":"701 Demers Ave",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 775 0223",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Gf87GmkTIYg8ud4krqgb4_47.921606_-97.035755@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295555,
+    "wof:geomhash":"8a3a9e68d7d5a37d6514444e725d90d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873646935
+        }
+    ],
+    "wof:id":873646935,
+    "wof:lastmodified":1464295555,
+    "wof:name":"Chiro Center One",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.035755,
+    47.921606,
+    -97.035755,
+    47.921606
+],
+  "geometry": {"coordinates":[-97.03575499999999,47.921606],"type":"Point"}
+}

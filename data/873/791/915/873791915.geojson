@@ -1,0 +1,73 @@
+{
+  "id": 873791915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.51226,48.043387,-101.51226,48.043387",
+    "geom:latitude":48.043387,
+    "geom:longitude":-101.51226,
+    "iso:country":"US",
+    "sg:address":"18500 142nd St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 722 3376",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "farm",
+        "wheat",
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59IxTLsFMyKDEuefyklYj0_48.043387_-101.512260@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297675,
+    "wof:geomhash":"c5db51f7c31fff86d5d3a6047a5e0e84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873791915
+        }
+    ],
+    "wof:id":873791915,
+    "wof:lastmodified":1464297675,
+    "wof:name":"Roland Magandy",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "wheat",
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -101.51226,
+    48.043387,
+    -101.51226,
+    48.043387
+],
+  "geometry": {"coordinates":[-101.51226,48.043387],"type":"Point"}
+}

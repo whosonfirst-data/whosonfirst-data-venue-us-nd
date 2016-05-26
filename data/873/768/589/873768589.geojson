@@ -1,0 +1,72 @@
+{
+  "id": 873768589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.781706,46.798372,-100.781706,46.798372",
+    "geom:latitude":46.798372,
+    "geom:longitude":-100.781706,
+    "iso:country":"US",
+    "sg:address":"825 S 7th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 1285",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "sg:tags":[
+        "tire"
+    ],
+    "sg:website":"www.bridgestone-firestone.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zrAsV9muDL6WoZPT85wXN_46.798372_-100.781706@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297345,
+    "wof:geomhash":"ce9d81e3b3e312e0f9ed1a778b899da7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873768589
+        }
+    ],
+    "wof:id":873768589,
+    "wof:lastmodified":1464297345,
+    "wof:name":"Firestone Tire & Auto Ctr",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -100.781706,
+    46.798372,
+    -100.781706,
+    46.798372
+],
+  "geometry": {"coordinates":[-100.781706,46.798372],"type":"Point"}
+}

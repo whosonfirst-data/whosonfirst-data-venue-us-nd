@@ -1,0 +1,73 @@
+{
+  "id": 873682367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.41639,46.715632,-100.41639,46.715632",
+    "geom:latitude":46.715632,
+    "geom:longitude":-100.41639,
+    "iso:country":"US",
+    "sg:address":"8103 236th St SE",
+    "sg:city":"Moffit",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 673 3419",
+    "sg:postcode":"58560",
+    "sg:province":"ND",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cnpKmoRZqMhSXKZnxAaU8_46.715632_-100.416390@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296064,
+    "wof:geomhash":"1e5c3153eb21b5ae4d074ab5a0933a57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873682367
+        }
+    ],
+    "wof:id":873682367,
+    "wof:lastmodified":1464296064,
+    "wof:name":"Robert & Karen Macdonald",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -100.41639,
+    46.715632,
+    -100.41639,
+    46.715632
+],
+  "geometry": {"coordinates":[-100.41639000000001,46.715632],"type":"Point"}
+}

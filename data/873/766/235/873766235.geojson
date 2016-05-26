@@ -1,0 +1,74 @@
+{
+  "id": 873766235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.783167,46.805335,-100.783167,46.805335",
+    "geom:latitude":46.805335,
+    "geom:longitude":-100.783167,
+    "iso:country":"US",
+    "sg:address":"505 E Main Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 2970",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "website",
+        "design"
+    ],
+    "sg:website":"www.smart-wire.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SG4NV6TdOAypVREnnF7mq_46.805335_-100.783167@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297315,
+    "wof:geomhash":"da6720151374a4bf13986ecadd42d328",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873766235
+        }
+    ],
+    "wof:id":873766235,
+    "wof:lastmodified":1464297315,
+    "wof:name":"K 2 Interactive",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "website",
+        "design"
+    ]
+},
+  "bbox": [
+    -100.783167,
+    46.805335,
+    -100.783167,
+    46.805335
+],
+  "geometry": {"coordinates":[-100.78316700000001,46.805335],"type":"Point"}
+}

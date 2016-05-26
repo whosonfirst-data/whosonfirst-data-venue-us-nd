@@ -1,0 +1,75 @@
+{
+  "id": 873805079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.85814,46.844051,-96.85814,46.844051",
+    "geom:latitude":46.844051,
+    "geom:longitude":-96.85814,
+    "iso:country":"US",
+    "sg:address":"4404 23rd Ave S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Ice Rink",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 356 9888",
+    "sg:postcode":"58104",
+    "sg:province":"ND",
+    "sg:tags":[
+        "skating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877371,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PYOxbpL4jTc7s32WT7Eo5_46.844051_-96.858140@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464297835,
+    "wof:geomhash":"bf4afbd9ffd45a27233d2e976a0f4bb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877371,
+            "region_id":85688525,
+            "venue_id":873805079
+        }
+    ],
+    "wof:id":873805079,
+    "wof:lastmodified":1464297835,
+    "wof:name":"Southwest Youth Arena",
+    "wof:parent_id":85877371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skating"
+    ]
+},
+  "bbox": [
+    -96.85814,
+    46.844051,
+    -96.85814,
+    46.844051
+],
+  "geometry": {"coordinates":[-96.85814000000001,46.844051],"type":"Point"}
+}

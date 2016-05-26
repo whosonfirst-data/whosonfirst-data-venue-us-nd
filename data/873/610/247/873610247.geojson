@@ -1,0 +1,66 @@
+{
+  "id": 873610247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.799209,46.792678,-100.799209,46.792678",
+    "geom:latitude":46.792678,
+    "geom:longitude":-100.799209,
+    "iso:country":"US",
+    "sg:address":"407 Easy St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 250 9007",
+    "sg:postcode":"58504",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UsBrc9dS77Zm3i90gwngd_46.792678_-100.799209@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295146,
+    "wof:geomhash":"000374e9b62d2a3275b026e719854fde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873610247
+        }
+    ],
+    "wof:id":873610247,
+    "wof:lastmodified":1464295146,
+    "wof:name":"Optimist International",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.799209,
+    46.792678,
+    -100.799209,
+    46.792678
+],
+  "geometry": {"coordinates":[-100.799209,46.792678],"type":"Point"}
+}

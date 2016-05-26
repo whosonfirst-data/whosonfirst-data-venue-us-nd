@@ -1,0 +1,70 @@
+{
+  "id": 873730813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.798648,46.851838,-96.798648,46.851838",
+    "geom:latitude":46.851838,
+    "geom:longitude":-96.798648,
+    "iso:country":"US",
+    "sg:address":"1815 S University Dr",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 298 0355",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420534481,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0t4Qb36fZNNLcBSvIlxZoF_46.851838_-96.798648@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296789,
+    "wof:geomhash":"6dda4804705d6b48c74f75ce2adec70e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":420534481,
+            "region_id":85688525,
+            "venue_id":873730813
+        }
+    ],
+    "wof:id":873730813,
+    "wof:lastmodified":1464296789,
+    "wof:name":"Ronald Kolb DDS PC",
+    "wof:parent_id":420534481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.798648,
+    46.851838,
+    -96.798648,
+    46.851838
+],
+  "geometry": {"coordinates":[-96.798648,46.851838],"type":"Point"}
+}

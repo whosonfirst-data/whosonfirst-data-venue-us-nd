@@ -1,0 +1,75 @@
+{
+  "id": 873782283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.786125,46.808644,-100.786125,46.808644",
+    "geom:latitude":46.808644,
+    "geom:longitude":-100.786125,
+    "iso:country":"US",
+    "sg:address":"304 E Rosser Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 7701",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "distribution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876287,
+        102191575,
+        404478811,
+        85633793,
+        85982651,
+        102082107,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_013bRpAFusxunMCobK2zAM_46.808644_-100.786125@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297522,
+    "wof:geomhash":"8ee95e8f4b1893c24138438954ffb176",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082107,
+            "localadmin_id":404478811,
+            "locality_id":85982651,
+            "neighbourhood_id":85876287,
+            "region_id":85688525,
+            "venue_id":873782283
+        }
+    ],
+    "wof:id":873782283,
+    "wof:lastmodified":1464297522,
+    "wof:name":"W B I P Williston Baston",
+    "wof:parent_id":85876287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distribution"
+    ]
+},
+  "bbox": [
+    -100.786125,
+    46.808644,
+    -100.786125,
+    46.808644
+],
+  "geometry": {"coordinates":[-100.786125,46.808644],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 873600035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.899839,46.890079,-96.899839,46.890079",
+    "geom:latitude":46.890079,
+    "geom:longitude":-96.899839,
+    "iso:country":"US",
+    "sg:address":"1100 Center St",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 8711",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "sg:tags":[
+        "steel",
+        "stainless",
+        "fabrication",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1v9VjebchlHggjOiQAHP8w_46.890079_-96.899839@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294987,
+    "wof:geomhash":"91f6c0ea108fa76f75f06c9935d29467",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873600035
+        }
+    ],
+    "wof:id":873600035,
+    "wof:lastmodified":1464294987,
+    "wof:name":"Sheyenne Forming Inc",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "stainless",
+        "fabrication",
+        "custom"
+    ]
+},
+  "bbox": [
+    -96.899839,
+    46.890079,
+    -96.899839,
+    46.890079
+],
+  "geometry": {"coordinates":[-96.899839,46.890079],"type":"Point"}
+}

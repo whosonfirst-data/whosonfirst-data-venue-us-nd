@@ -1,0 +1,71 @@
+{
+  "id": 873778657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.292959,48.23496,-101.292959,48.23496",
+    "geom:latitude":48.23496,
+    "geom:longitude":-101.292959,
+    "iso:country":"US",
+    "sg:address":"201 Main St S",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 4837",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0h71MT9hq0NjC5oflH1ovL_48.234960_-101.292959@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297471,
+    "wof:geomhash":"5c82b829119b860b8913088ba426b7d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873778657
+        }
+    ],
+    "wof:id":873778657,
+    "wof:lastmodified":1464297471,
+    "wof:name":"Eaton Van De Streek & Ward",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -101.292959,
+    48.23496,
+    -101.292959,
+    48.23496
+],
+  "geometry": {"coordinates":[-101.292959,48.23496],"type":"Point"}
+}

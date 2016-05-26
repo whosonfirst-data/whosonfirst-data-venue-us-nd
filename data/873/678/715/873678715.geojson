@@ -1,0 +1,73 @@
+{
+  "id": 873678715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.282665,48.235518,-101.282665,48.235518",
+    "geom:latitude":48.235518,
+    "geom:longitude":-101.282665,
+    "iso:country":"US",
+    "sg:address":"118 7th St SE",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 6862",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "monastery",
+        "convent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5h6Gccrgss3COdr6Wgs47O_48.235518_-101.282665@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295959,
+    "wof:geomhash":"b63e8a4d25c3311895034588478fe4d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878939,
+            "region_id":85688525,
+            "venue_id":873678715
+        }
+    ],
+    "wof:id":873678715,
+    "wof:lastmodified":1464295959,
+    "wof:name":"Benedictine Sisters",
+    "wof:parent_id":85878939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monastery",
+        "convent"
+    ]
+},
+  "bbox": [
+    -101.282665,
+    48.235518,
+    -101.282665,
+    48.235518
+],
+  "geometry": {"coordinates":[-101.28266499999999,48.235518],"type":"Point"}
+}

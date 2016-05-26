@@ -1,0 +1,76 @@
+{
+  "id": 873548025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.888045,46.862349,-96.888045,46.862349",
+    "geom:latitude":46.862349,
+    "geom:longitude":-96.888045,
+    "iso:country":"US",
+    "sg:address":"722 13th Ave E",
+    "sg:city":"West Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 282 7154",
+    "sg:postcode":"58078",
+    "sg:province":"ND",
+    "sg:tags":[
+        "resort"
+    ],
+    "sg:website":"www.molson-lake.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877367,
+        102191575,
+        404480535,
+        85633793,
+        85982189,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JBIKZ9o2wB9WiUmqIz8C1_46.862349_-96.888045@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294357,
+    "wof:geomhash":"a27aa8f5efaa995e141f0da6fceb73d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404480535,
+            "locality_id":85982189,
+            "neighbourhood_id":85877367,
+            "region_id":85688525,
+            "venue_id":873548025
+        }
+    ],
+    "wof:id":873548025,
+    "wof:lastmodified":1464294357,
+    "wof:name":"Molson Lake Lodge",
+    "wof:parent_id":85877367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resort"
+    ]
+},
+  "bbox": [
+    -96.888045,
+    46.862349,
+    -96.888045,
+    46.862349
+],
+  "geometry": {"coordinates":[-96.88804500000001,46.862349],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873565531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.317131,48.230149,-101.317131,48.230149",
+    "geom:latitude":48.230149,
+    "geom:longitude":-101.317131,
+    "iso:country":"US",
+    "sg:address":"614 16th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 852 5202",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "merchandise",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26TWuIFbuRGUTjHpotVd9Y_48.230149_-101.317131@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294562,
+    "wof:geomhash":"146ddb099aa60b3450d8042122e2bc24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878935,
+            "region_id":85688525,
+            "venue_id":873565531
+        }
+    ],
+    "wof:id":873565531,
+    "wof:lastmodified":1464294562,
+    "wof:name":"4 Paws Pet Grooming & Supplies",
+    "wof:parent_id":85878935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise",
+        "animal"
+    ]
+},
+  "bbox": [
+    -101.317131,
+    48.230149,
+    -101.317131,
+    48.230149
+],
+  "geometry": {"coordinates":[-101.317131,48.230149],"type":"Point"}
+}

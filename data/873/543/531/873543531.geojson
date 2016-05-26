@@ -1,0 +1,71 @@
+{
+  "id": 873543531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.754148,46.853328,-100.754148,46.853328",
+    "geom:latitude":46.853328,
+    "geom:longitude":-100.754148,
+    "iso:country":"US",
+    "sg:address":"2300 Lacorte Loop",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 667 1314",
+    "sg:postcode":"58503",
+    "sg:province":"ND",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lGy38mjqtInjk863Gn8d8_46.853328_-100.754148@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294296,
+    "wof:geomhash":"2851ef88ba7e2106f9d55a1768f8bd47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873543531
+        }
+    ],
+    "wof:id":873543531,
+    "wof:lastmodified":1464294296,
+    "wof:name":"Hartze Construction Inc",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -100.754148,
+    46.853328,
+    -100.754148,
+    46.853328
+],
+  "geometry": {"coordinates":[-100.754148,46.853328],"type":"Point"}
+}

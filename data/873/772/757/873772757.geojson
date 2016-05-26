@@ -1,0 +1,73 @@
+{
+  "id": 873772757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.0451,47.909167,-97.0451,47.909167",
+    "geom:latitude":47.909167,
+    "geom:longitude":-97.0451,
+    "iso:country":"US",
+    "sg:address":"1202 S Washington St",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 2402",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "lighting",
+        "fixture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yeFhHqiHV9x5J3Bu7trbH_47.909167_-97.045100@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297398,
+    "wof:geomhash":"2d1aabc0f514bec532022fb7d497a018",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873772757
+        }
+    ],
+    "wof:id":873772757,
+    "wof:lastmodified":1464297398,
+    "wof:name":"Lighting Gallery",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lighting",
+        "fixture"
+    ]
+},
+  "bbox": [
+    -97.0451,
+    47.909167,
+    -97.0451,
+    47.909167
+],
+  "geometry": {"coordinates":[-97.04510000000001,47.909167],"type":"Point"}
+}

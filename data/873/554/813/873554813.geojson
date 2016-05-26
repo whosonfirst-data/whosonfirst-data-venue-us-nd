@@ -1,0 +1,73 @@
+{
+  "id": 873554813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.035336,47.918531,-97.035336,47.918531",
+    "geom:latitude":47.918531,
+    "geom:longitude":-97.035336,
+    "iso:country":"US",
+    "sg:address":"620 4th Ave S",
+    "sg:city":"Grand Forks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 772 7245",
+    "sg:postcode":"58201",
+    "sg:province":"ND",
+    "sg:tags":[
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KZ53YiqecYj0pfaXBzros_47.918531_-97.035336@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294433,
+    "wof:geomhash":"10f69236dfddc9693026d9b93bf9b0bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873554813
+        }
+    ],
+    "wof:id":873554813,
+    "wof:lastmodified":1464294433,
+    "wof:name":"Greater Grand Forks Senior",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "senior",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -97.035336,
+    47.918531,
+    -97.035336,
+    47.918531
+],
+  "geometry": {"coordinates":[-97.035336,47.918531],"type":"Point"}
+}

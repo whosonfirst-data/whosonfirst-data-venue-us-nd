@@ -1,0 +1,75 @@
+{
+  "id": 873633493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.808921,46.859937,-96.808921,46.859937",
+    "geom:latitude":46.859937,
+    "geom:longitude":-96.808921,
+    "iso:country":"US",
+    "sg:address":"1318 17th St S",
+    "sg:city":"Fargo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 235 2340",
+    "sg:postcode":"58103",
+    "sg:province":"ND",
+    "sg:tags":[
+        "operator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877331,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GFQ1UGjijZ0IKti2UhMim_46.859937_-96.808921@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295406,
+    "wof:geomhash":"2d77c8c578bebcbf84db81a23c861b4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877331,
+            "region_id":85688525,
+            "venue_id":873633493
+        }
+    ],
+    "wof:id":873633493,
+    "wof:lastmodified":1464295406,
+    "wof:name":"Turnkey Ventures",
+    "wof:parent_id":85877331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator"
+    ]
+},
+  "bbox": [
+    -96.808921,
+    46.859937,
+    -96.808921,
+    46.859937
+],
+  "geometry": {"coordinates":[-96.808921,46.859937],"type":"Point"}
+}

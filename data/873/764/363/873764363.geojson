@@ -1,0 +1,66 @@
+{
+  "id": 873764363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.753106,47.904329,-97.753106,47.904329",
+    "geom:latitude":47.904329,
+    "geom:longitude":-97.753106,
+    "iso:country":"US",
+    "sg:address":"4210 16th Ave",
+    "sg:city":"Larimore",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 343 2187",
+    "sg:postcode":"58251",
+    "sg:province":"ND",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GjWRQopfKSjiIPxjyCQWi_47.904329_-97.753106@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297282,
+    "wof:geomhash":"5fc8ceff892a95651a68bd46ba30d1cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873764363
+        }
+    ],
+    "wof:id":873764363,
+    "wof:lastmodified":1464297282,
+    "wof:name":"C & D Cleaning and Services",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.753106,
+    47.904329,
+    -97.753106,
+    47.904329
+],
+  "geometry": {"coordinates":[-97.753106,47.904329],"type":"Point"}
+}

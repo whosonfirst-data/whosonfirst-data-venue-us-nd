@@ -1,0 +1,73 @@
+{
+  "id": 873542209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.099936,47.773512,-97.099936,47.773512",
+    "geom:latitude":47.773512,
+    "geom:longitude":-97.099936,
+    "iso:country":"US",
+    "sg:address":"604 Broadway St",
+    "sg:city":"Thompson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 599 2127",
+    "sg:postcode":"58278",
+    "sg:province":"ND",
+    "sg:tags":[
+        "house",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IR6BJJ0BNaBmZHUvbkPCJ_47.773512_-97.099936@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294283,
+    "wof:geomhash":"228e1a0dd39063ced4291a2f872c9320",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":873542209
+        }
+    ],
+    "wof:id":873542209,
+    "wof:lastmodified":1464294283,
+    "wof:name":"Garon Construction Inc",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.099936,
+    47.773512,
+    -97.099936,
+    47.773512
+],
+  "geometry": {"coordinates":[-97.099936,47.773512],"type":"Point"}
+}

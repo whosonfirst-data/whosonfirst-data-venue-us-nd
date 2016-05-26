@@ -1,0 +1,71 @@
+{
+  "id": 873550259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.309707,48.222962,-101.309707,48.222962",
+    "geom:latitude":48.222962,
+    "geom:longitude":-101.309707,
+    "iso:country":"US",
+    "sg:address":"1308 12th St SW",
+    "sg:city":"Minot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 838 4407",
+    "sg:postcode":"58701",
+    "sg:province":"ND",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982541,
+        102082117,
+        85878937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gkX9UNj16ZvYNirBViSgV_48.222962_-101.309707@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294381,
+    "wof:geomhash":"76433e5d2b18aa1bea110ba2e0e7b1e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082117,
+            "locality_id":85982541,
+            "neighbourhood_id":85878937,
+            "region_id":85688525,
+            "venue_id":873550259
+        }
+    ],
+    "wof:id":873550259,
+    "wof:lastmodified":1464294381,
+    "wof:name":"Res",
+    "wof:parent_id":85878937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -101.309707,
+    48.222962,
+    -101.309707,
+    48.222962
+],
+  "geometry": {"coordinates":[-101.309707,48.222962],"type":"Point"}
+}

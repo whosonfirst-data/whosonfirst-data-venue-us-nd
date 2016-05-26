@@ -1,0 +1,71 @@
+{
+  "id": 873575443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.758762,46.81202,-100.758762,46.81202",
+    "geom:latitude":46.81202,
+    "geom:longitude":-100.758762,
+    "iso:country":"US",
+    "sg:address":"714 N 22nd St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 224 0241",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Uv748QVTuYxDNjNLsD4eh_46.812020_-100.758762@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294668,
+    "wof:geomhash":"89da6fa9c2ec6a7e7f219233f772555f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873575443
+        }
+    ],
+    "wof:id":873575443,
+    "wof:lastmodified":1464294668,
+    "wof:name":"Bis Man Handyman",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -100.758762,
+    46.81202,
+    -100.758762,
+    46.81202
+],
+  "geometry": {"coordinates":[-100.758762,46.81202],"type":"Point"}
+}

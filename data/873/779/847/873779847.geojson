@@ -1,0 +1,73 @@
+{
+  "id": 873779847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.75195,46.815029,-100.75195,46.815029",
+    "geom:latitude":46.815029,
+    "geom:longitude":-100.75195,
+    "iso:country":"US",
+    "sg:address":"1021 N 26th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 223 6888",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4i7jpXHXeSwx9Oe8db1MK8_46.815029_-100.751950@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297489,
+    "wof:geomhash":"9df31a0947ced86cc228f2cca1f64936",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873779847
+        }
+    ],
+    "wof:id":873779847,
+    "wof:lastmodified":1464297489,
+    "wof:name":"St Vincent's Care Ctr",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -100.75195,
+    46.815029,
+    -100.75195,
+    46.815029
+],
+  "geometry": {"coordinates":[-100.75194999999999,46.815029],"type":"Point"}
+}

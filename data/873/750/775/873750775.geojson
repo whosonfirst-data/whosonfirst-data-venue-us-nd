@@ -1,0 +1,71 @@
+{
+  "id": 873750775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.763714,46.841936,-100.763714,46.841936",
+    "geom:latitude":46.841936,
+    "geom:longitude":-100.763714,
+    "iso:country":"US",
+    "sg:address":"3220 N 19th St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 222 1011",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dO1dLAaUCUMovZpR13Get_46.841936_-100.763714@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297085,
+    "wof:geomhash":"7008dcc552fb8e7cd6ff46b1acc8651d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876285,
+            "region_id":85688525,
+            "venue_id":873750775
+        }
+    ],
+    "wof:id":873750775,
+    "wof:lastmodified":1464297085,
+    "wof:name":"Element",
+    "wof:parent_id":85876285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -100.763714,
+    46.841936,
+    -100.763714,
+    46.841936
+],
+  "geometry": {"coordinates":[-100.76371399999999,46.841936],"type":"Point"}
+}

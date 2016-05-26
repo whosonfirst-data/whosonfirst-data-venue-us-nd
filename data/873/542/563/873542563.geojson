@@ -1,0 +1,73 @@
+{
+  "id": 873542563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.790007,46.805554,-100.790007,46.805554",
+    "geom:latitude":46.805554,
+    "geom:longitude":-100.790007,
+    "iso:country":"US",
+    "sg:address":"176 E Main Ave",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 277 0441",
+    "sg:postcode":"58501",
+    "sg:province":"ND",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982651,
+        102082107,
+        85876289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42r3Vhoj7ksa1xr3W1TeRr_46.805554_-100.790007@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294287,
+    "wof:geomhash":"bc5ec9bb562e78be5019c405d82a8635",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082107,
+            "locality_id":85982651,
+            "neighbourhood_id":85876289,
+            "region_id":85688525,
+            "venue_id":873542563
+        }
+    ],
+    "wof:id":873542563,
+    "wof:lastmodified":1464294287,
+    "wof:name":"Quality Auto Sales",
+    "wof:parent_id":85876289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -100.790007,
+    46.805554,
+    -100.790007,
+    46.805554
+],
+  "geometry": {"coordinates":[-100.790007,46.805554],"type":"Point"}
+}
