@@ -2,13 +2,14 @@
   "id": 387951807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.079991,46.138897,-98.079991,46.138897",
     "geom:latitude":46.138897,
     "geom:longitude":-98.079991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1417 Main Ave",
     "sg:city":"Oakes",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387951807,
-    "wof:lastmodified":1449056283,
+    "wof:lastmodified":1466665513,
     "wof:name":"E & I Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-98.079991,46.138897,-98.079991,46.138897],
-  "geometry": {"coordinates":[-98.079991,46.138897],"type":"Point"}
+  "bbox": [
+    -98.079991,
+    46.138897,
+    -98.079991,
+    46.138897
+],
+  "geometry": {"coordinates":[-98.07999100000001,46.138897],"type":"Point"}
 }

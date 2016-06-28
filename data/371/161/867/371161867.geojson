@@ -2,13 +2,14 @@
   "id": 371161867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.78002,46.106716,-97.78002,46.106716",
     "geom:latitude":46.106716,
     "geom:longitude":-97.78002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"153 4th Ave",
     "sg:city":"Cogswell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371161867,
-    "wof:lastmodified":1449049439,
+    "wof:lastmodified":1466663901,
     "wof:name":"Albertson's Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-97.78002,46.106716,-97.78002,46.106716],
-  "geometry": {"coordinates":[-97.78002,46.106716],"type":"Point"}
+  "bbox": [
+    -97.78002,
+    46.106716,
+    -97.78002,
+    46.106716
+],
+  "geometry": {"coordinates":[-97.78001999999999,46.106716],"type":"Point"}
 }

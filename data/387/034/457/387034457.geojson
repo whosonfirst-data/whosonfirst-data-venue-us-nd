@@ -2,13 +2,14 @@
   "id": 387034457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.778372,45.964509,-97.778372,45.964509",
     "geom:latitude":45.964509,
     "geom:longitude":-97.778372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12548 100th St SE",
     "sg:city":"Cogswell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387034457,
-    "wof:lastmodified":1449056534,
+    "wof:lastmodified":1466665496,
     "wof:name":"George Bishoff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-97.778372,45.964509,-97.778372,45.964509],
+  "bbox": [
+    -97.778372,
+    45.964509,
+    -97.778372,
+    45.964509
+],
   "geometry": {"coordinates":[-97.778372,45.964509],"type":"Point"}
 }

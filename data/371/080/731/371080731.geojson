@@ -2,13 +2,14 @@
   "id": 371080731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.08595,46.139251,-98.08595,46.139251",
     "geom:latitude":46.139251,
     "geom:longitude":-98.08595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 10th St N",
     "sg:city":"Oakes",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371080731,
-    "wof:lastmodified":1449050109,
+    "wof:lastmodified":1466663901,
     "wof:name":"Rod Buck CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-98.08595,46.139251,-98.08595,46.139251],
+  "bbox": [
+    -98.08595,
+    46.139251,
+    -98.08595,
+    46.139251
+],
   "geometry": {"coordinates":[-98.08595,46.139251],"type":"Point"}
 }

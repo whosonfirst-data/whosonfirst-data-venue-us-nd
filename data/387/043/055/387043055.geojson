@@ -2,13 +2,14 @@
   "id": 387043055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.093359,46.140912,-98.093359,46.140912",
     "geom:latitude":46.140912,
     "geom:longitude":-98.093359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 5th St N",
     "sg:city":"Oakes",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387043055,
-    "wof:lastmodified":1449058948,
+    "wof:lastmodified":1466665497,
     "wof:name":"Last Call Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-98.093359,46.140912,-98.093359,46.140912],
-  "geometry": {"coordinates":[-98.093359,46.140912],"type":"Point"}
+  "bbox": [
+    -98.093359,
+    46.140912,
+    -98.093359,
+    46.140912
+],
+  "geometry": {"coordinates":[-98.09335900000001,46.140912],"type":"Point"}
 }

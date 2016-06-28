@@ -2,13 +2,14 @@
   "id": 371066277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.078759,46.14079,-98.078759,46.14079",
     "geom:latitude":46.14079,
     "geom:longitude":-98.078759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 15th St N",
     "sg:city":"Ellendale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371066277,
-    "wof:lastmodified":1449049309,
+    "wof:lastmodified":1466663900,
     "wof:name":"Dickey County Health District",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "health"
     ]
 },
-  "bbox": [-98.078759,46.14079,-98.078759,46.14079],
-  "geometry": {"coordinates":[-98.078759,46.14079],"type":"Point"}
+  "bbox": [
+    -98.078759,
+    46.14079,
+    -98.078759,
+    46.14079
+],
+  "geometry": {"coordinates":[-98.07875900000001,46.14079],"type":"Point"}
 }

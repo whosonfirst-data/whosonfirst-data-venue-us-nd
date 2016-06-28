@@ -2,13 +2,14 @@
   "id": 387226447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.093514,46.139725,-98.093514,46.139725",
     "geom:latitude":46.139725,
     "geom:longitude":-98.093514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 5th St N",
     "sg:city":"Oakes",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387226447,
-    "wof:lastmodified":1449058868,
+    "wof:lastmodified":1466665504,
     "wof:name":"Inky's Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "automotive"
     ]
 },
-  "bbox": [-98.093514,46.139725,-98.093514,46.139725],
+  "bbox": [
+    -98.093514,
+    46.139725,
+    -98.093514,
+    46.139725
+],
   "geometry": {"coordinates":[-98.093514,46.139725],"type":"Point"}
 }

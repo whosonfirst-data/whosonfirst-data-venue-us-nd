@@ -2,13 +2,14 @@
   "id": 185838027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.012641,48.928573,-104.012641,48.928573",
     "geom:latitude":48.928573,
     "geom:longitude":-104.012641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10410 151st Ave NW",
     "sg:city":"Westby",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185838027,
-    "wof:lastmodified":1449006795,
+    "wof:lastmodified":1466663900,
     "wof:name":"Wade Bjorgen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-104.012641,48.928573,-104.012641,48.928573],
+  "bbox": [
+    -104.012641,
+    48.928573,
+    -104.012641,
+    48.928573
+],
   "geometry": {"coordinates":[-104.012641,48.928573],"type":"Point"}
 }

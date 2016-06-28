@@ -2,13 +2,14 @@
   "id": 371126945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.095044,46.135607,-98.095044,46.135607",
     "geom:latitude":46.135607,
     "geom:longitude":-98.095044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 4th St S",
     "sg:city":"Oakes",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371126945,
-    "wof:lastmodified":1449049402,
+    "wof:lastmodified":1466663901,
     "wof:name":"Oakes Fertilizer Div Of Sdwg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fertilizer"
     ]
 },
-  "bbox": [-98.095044,46.135607,-98.095044,46.135607],
+  "bbox": [
+    -98.095044,
+    46.135607,
+    -98.095044,
+    46.135607
+],
   "geometry": {"coordinates":[-98.095044,46.135607],"type":"Point"}
 }

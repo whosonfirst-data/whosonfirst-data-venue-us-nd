@@ -2,13 +2,14 @@
   "id": 387071045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.092004,46.140931,-98.092004,46.140931",
     "geom:latitude":46.140931,
     "geom:longitude":-98.092004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 6th St N",
     "sg:city":"Oakes",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387071045,
-    "wof:lastmodified":1449058501,
+    "wof:lastmodified":1466665501,
     "wof:name":"Dimensions Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "design"
     ]
 },
-  "bbox": [-98.092004,46.140931,-98.092004,46.140931],
+  "bbox": [
+    -98.092004,
+    46.140931,
+    -98.092004,
+    46.140931
+],
   "geometry": {"coordinates":[-98.092004,46.140931],"type":"Point"}
 }

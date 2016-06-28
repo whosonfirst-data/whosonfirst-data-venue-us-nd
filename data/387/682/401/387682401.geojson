@@ -2,13 +2,14 @@
   "id": 387682401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.094898,46.137742,-98.094898,46.137742",
     "geom:latitude":46.137742,
     "geom:longitude":-98.094898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 Ivy Ave",
     "sg:city":"Oakes",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387682401,
-    "wof:lastmodified":1449056765,
+    "wof:lastmodified":1466665509,
     "wof:name":"Oakes Fire Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-98.094898,46.137742,-98.094898,46.137742],
+  "bbox": [
+    -98.094898,
+    46.137742,
+    -98.094898,
+    46.137742
+],
   "geometry": {"coordinates":[-98.094898,46.137742],"type":"Point"}
 }

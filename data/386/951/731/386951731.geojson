@@ -2,13 +2,14 @@
   "id": 386951731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.091948,46.1367,-98.091948,46.1367",
     "geom:latitude":46.1367,
     "geom:longitude":-98.091948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 Juniper Ave",
     "sg:city":"Oakes",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386951731,
-    "wof:lastmodified":1449028634,
+    "wof:lastmodified":1466663900,
     "wof:name":"United Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-98.091948,46.1367,-98.091948,46.1367],
+  "bbox": [
+    -98.091948,
+    46.1367,
+    -98.091948,
+    46.1367
+],
   "geometry": {"coordinates":[-98.091948,46.1367],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387899615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.083058,46.135715,-98.083058,46.135715",
     "geom:latitude":46.135715,
     "geom:longitude":-98.083058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 12th St S",
     "sg:city":"Oakes",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387899615,
-    "wof:lastmodified":1449059727,
+    "wof:lastmodified":1466665512,
     "wof:name":"Royal Oakes Indl Living Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "residential"
     ]
 },
-  "bbox": [-98.083058,46.135715,-98.083058,46.135715],
-  "geometry": {"coordinates":[-98.083058,46.135715],"type":"Point"}
+  "bbox": [
+    -98.083058,
+    46.135715,
+    -98.083058,
+    46.135715
+],
+  "geometry": {"coordinates":[-98.08305799999999,46.135715],"type":"Point"}
 }

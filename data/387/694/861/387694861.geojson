@@ -2,13 +2,14 @@
   "id": 387694861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.095435,46.138949,-98.095435,46.138949",
     "geom:latitude":46.138949,
     "geom:longitude":-98.095435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"323 Main Ave",
     "sg:city":"Oakes",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387694861,
-    "wof:lastmodified":1449057170,
+    "wof:lastmodified":1466665509,
     "wof:name":"Oakes Outdoor Power Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.095435,46.138949,-98.095435,46.138949],
-  "geometry": {"coordinates":[-98.095435,46.138949],"type":"Point"}
+  "bbox": [
+    -98.095435,
+    46.138949,
+    -98.095435,
+    46.138949
+],
+  "geometry": {"coordinates":[-98.09543499999999,46.138949],"type":"Point"}
 }

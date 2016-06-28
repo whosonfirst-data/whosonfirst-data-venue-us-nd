@@ -2,13 +2,14 @@
   "id": 387514847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.094921,46.132723,-98.094921,46.132723",
     "geom:latitude":46.132723,
     "geom:longitude":-98.094921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 Nectarine Ave",
     "sg:city":"Oakes",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387514847,
-    "wof:lastmodified":1449058020,
+    "wof:lastmodified":1466665507,
     "wof:name":"Shafer Seed Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-98.094921,46.132723,-98.094921,46.132723],
+  "bbox": [
+    -98.094921,
+    46.132723,
+    -98.094921,
+    46.132723
+],
   "geometry": {"coordinates":[-98.094921,46.132723],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386938991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.840745,46.143497,-97.840745,46.143497",
     "geom:latitude":46.143497,
     "geom:longitude":-97.840745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8768 122nd Ave SE",
     "sg:city":"Cogswell",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":386938991,
-    "wof:lastmodified":1449028872,
+    "wof:lastmodified":1466663900,
     "wof:name":"Lloyd Ptacek Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.840745,46.143497,-97.840745,46.143497],
+  "bbox": [
+    -97.840745,
+    46.143497,
+    -97.840745,
+    46.143497
+],
   "geometry": {"coordinates":[-97.840745,46.143497],"type":"Point"}
 }

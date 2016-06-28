@@ -2,13 +2,14 @@
   "id": 370995969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.090791,46.075475,-98.090791,46.075475",
     "geom:latitude":46.075475,
     "geom:longitude":-98.090791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9249 State Hwy 1",
     "sg:city":"Oakes",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370995969,
-    "wof:lastmodified":1449032102,
+    "wof:lastmodified":1466663900,
     "wof:name":"K B & O",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.090791,46.075475,-98.090791,46.075475],
+  "bbox": [
+    -98.090791,
+    46.075475,
+    -98.090791,
+    46.075475
+],
   "geometry": {"coordinates":[-98.090791,46.075475],"type":"Point"}
 }
