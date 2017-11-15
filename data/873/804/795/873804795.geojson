@@ -2,6 +2,10 @@
   "id": 873804795,
   "type": "Feature",
   "properties": {
+    "addr:full":"3350 42nd St S Apt 208 Fargo ND 58104",
+    "addr:housenumber":"3350;208",
+    "addr:postcode":"58104",
+    "addr:street":"42Nd St S Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873804795,
-    "wof:lastmodified":1466665570,
+    "wof:lastmodified":1472633738,
     "wof:name":"Nah Carpet",
     "wof:parent_id":85877355,
     "wof:placetype":"venue",

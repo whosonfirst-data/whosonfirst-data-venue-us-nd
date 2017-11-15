@@ -2,6 +2,10 @@
   "id": 873652191,
   "type": "Feature",
   "properties": {
+    "addr:full":"1545 S University Dr Fargo ND 58103",
+    "addr:housenumber":"1545",
+    "addr:postcode":"58103",
+    "addr:street":"S University Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873652191,
-    "wof:lastmodified":1466664471,
+    "wof:lastmodified":1472633638,
     "wof:name":"Luna Coffee",
     "wof:parent_id":420534481,
     "wof:placetype":"venue",

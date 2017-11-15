@@ -2,6 +2,10 @@
   "id": 873607367,
   "type": "Feature",
   "properties": {
+    "addr:full":"176 D St West Fargo ND 58078",
+    "addr:housenumber":"176",
+    "addr:postcode":"58078",
+    "addr:street":"D St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873607367,
-    "wof:lastmodified":1466664244,
+    "wof:lastmodified":1472633627,
     "wof:name":"STH Auto Svc Ctr",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

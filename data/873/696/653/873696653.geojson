@@ -2,14 +2,20 @@
   "id": 873696653,
   "type": "Feature",
   "properties": {
+    "addr:full":"2402 8th Ave N Fargo ND 58102",
+    "addr:housenumber":"2402",
+    "addr:postcode":"58102",
+    "addr:street":"8Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.818834,46.885045,-96.818834,46.885045",
     "geom:latitude":46.885045,
     "geom:longitude":-96.818834,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2402 8th Ave N",
     "sg:city":"Fargo",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102082073,
         85688525
     ],
+    "wof:brand_id":1125152753,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pPCcH9iKRtmp0psIxrwjK_46.885045_-96.818834@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464296372,
-    "wof:geomhash":"a168aaccb01b3f18d26ac5d53e35da4f",
+    "wof:geomhash":"895b9bcd833e8ce59c0ab5b0a06fc0e4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":873696653,
-    "wof:lastmodified":1466664773,
+    "wof:lastmodified":1510693927,
     "wof:name":"Xpedx",
     "wof:parent_id":85877363,
     "wof:placetype":"venue",

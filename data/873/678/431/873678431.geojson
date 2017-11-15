@@ -2,6 +2,10 @@
   "id": 873678431,
   "type": "Feature",
   "properties": {
+    "addr:full":"2627 S University Dr Fargo ND 58103",
+    "addr:housenumber":"2627",
+    "addr:postcode":"58103",
+    "addr:street":"S University Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873678431,
-    "wof:lastmodified":1466664655,
+    "wof:lastmodified":1472633652,
     "wof:name":"Liberty Income Tax",
     "wof:parent_id":420534475,
     "wof:placetype":"venue",

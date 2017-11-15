@@ -2,14 +2,20 @@
   "id": 873796681,
   "type": "Feature",
   "properties": {
+    "addr:full":"1560 13th Ave E West Fargo ND 58078",
+    "addr:housenumber":"1560",
+    "addr:postcode":"58078",
+    "addr:street":"13Th Ave E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.874773,46.862057,-96.874773,46.862057",
     "geom:latitude":46.862057,
     "geom:longitude":-96.874773,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1560 13th Ave E",
     "sg:city":"West Fargo",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102082073,
         85688525
     ],
+    "wof:brand_id":1125152509,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JuGstTFRMSilmQmRReZ1F_46.862057_-96.874773@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464297734,
-    "wof:geomhash":"d76db24513de8426b34a5617541541af",
+    "wof:geomhash":"8704ef967e8260abdf454f7fe5dfe163",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":873796681,
-    "wof:lastmodified":1466665479,
+    "wof:lastmodified":1510697063,
     "wof:name":"Wing Zone",
     "wof:parent_id":85877371,
     "wof:placetype":"venue",

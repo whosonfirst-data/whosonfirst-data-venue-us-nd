@@ -2,14 +2,20 @@
   "id": 873682949,
   "type": "Feature",
   "properties": {
+    "addr:full":"1200 53rd Ave SW Minot ND 58701",
+    "addr:housenumber":"1200",
+    "addr:postcode":"58701",
+    "addr:street":"53Rd Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.31441,48.183243,-101.31441,48.183243",
     "geom:latitude":48.183243,
     "geom:longitude":-101.31441,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1200 53rd Ave SW",
     "sg:city":"Minot",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082117,
         85878937
     ],
+    "wof:brand_id":1125156155,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HHaxixUMUwGVv4ScC3lCA_48.183243_-101.314410@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464296080,
-    "wof:geomhash":"2b821ea7a7be024b8ed4d6e9aae112d3",
+    "wof:geomhash":"99a9597f828392133e542ef9e8e9cec0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873682949,
-    "wof:lastmodified":1466664725,
+    "wof:lastmodified":1510696657,
     "wof:name":"Tropical Tan",
     "wof:parent_id":85878937,
     "wof:placetype":"venue",

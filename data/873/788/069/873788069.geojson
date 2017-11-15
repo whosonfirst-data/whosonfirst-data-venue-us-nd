@@ -2,6 +2,10 @@
   "id": 873788069,
   "type": "Feature",
   "properties": {
+    "addr:full":"1606 Main Ave Fargo ND 58103",
+    "addr:housenumber":"1606",
+    "addr:postcode":"58103",
+    "addr:street":"Main Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873788069,
-    "wof:lastmodified":1466665363,
+    "wof:lastmodified":1472633720,
     "wof:name":"Royal Liquors",
     "wof:parent_id":85877347,
     "wof:placetype":"venue",

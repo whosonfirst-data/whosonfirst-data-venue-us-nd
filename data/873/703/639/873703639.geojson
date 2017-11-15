@@ -2,6 +2,10 @@
   "id": 873703639,
   "type": "Feature",
   "properties": {
+    "addr:full":"1823 Mill Rd Grand Forks ND 58203",
+    "addr:housenumber":"1823",
+    "addr:postcode":"58203",
+    "addr:street":"Mill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873703639,
-    "wof:lastmodified":1466664816,
+    "wof:lastmodified":1472633667,
     "wof:name":"Interstates Construction Svc",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

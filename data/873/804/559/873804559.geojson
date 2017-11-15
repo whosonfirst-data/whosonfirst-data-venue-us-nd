@@ -2,6 +2,10 @@
   "id": 873804559,
   "type": "Feature",
   "properties": {
+    "addr:full":"2700 12th Ave S Ste D Fargo ND 58103",
+    "addr:housenumber":"2700",
+    "addr:postcode":"58103",
+    "addr:street":"12Th Ave S Ste D",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":873804559,
-    "wof:lastmodified":1466665505,
+    "wof:lastmodified":1472633737,
     "wof:name":"Catalyst Medical Center",
     "wof:parent_id":85877373,
     "wof:placetype":"venue",

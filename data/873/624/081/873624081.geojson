@@ -2,6 +2,10 @@
   "id": 873624081,
   "type": "Feature",
   "properties": {
+    "addr:full":"523 E Bismarck Expy Bismarck ND 58504",
+    "addr:housenumber":"523",
+    "addr:postcode":"58504",
+    "addr:street":"E Bismarck Expy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":873624081,
-    "wof:lastmodified":1466664325,
+    "wof:lastmodified":1472633614,
     "wof:name":"Primerica Financial Svc",
     "wof:parent_id":85876289,
     "wof:placetype":"venue",

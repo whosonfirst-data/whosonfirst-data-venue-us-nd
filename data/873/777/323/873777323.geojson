@@ -2,14 +2,20 @@
   "id": 873777323,
   "type": "Feature",
   "properties": {
+    "addr:full":"1123 Shakespeare Rd Grand Forks ND 58203",
+    "addr:housenumber":"1123",
+    "addr:postcode":"58203",
+    "addr:street":"Shakespeare Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.085421,47.930119,-97.085421,47.930119",
     "geom:latitude":47.930119,
     "geom:longitude":-97.085421,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1123 Shakespeare Rd",
     "sg:city":"Grand Forks",
     "sg:classifiers":[
@@ -42,13 +48,14 @@
         102081493,
         85808891
     ],
+    "wof:brand_id":1125158989,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gNGnwKb7dmd0nbWdybniR_47.930119_-97.085421@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464297454,
-    "wof:geomhash":"09d1394fbef82cf74ea35fd4843df99b",
+    "wof:geomhash":"e136f1bda5c2902718fa1776f0fca81d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":873777323,
-    "wof:lastmodified":1466665302,
+    "wof:lastmodified":1510698690,
     "wof:name":"Fuller Brush Co",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

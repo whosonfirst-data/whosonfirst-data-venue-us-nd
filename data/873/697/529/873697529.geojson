@@ -2,14 +2,20 @@
   "id": 873697529,
   "type": "Feature",
   "properties": {
+    "addr:full":"1215 Columbia Dr Bismarck ND 58504",
+    "addr:housenumber":"1215",
+    "addr:postcode":"58504",
+    "addr:street":"Columbia Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.785239,46.791856,-100.785239,46.791856",
     "geom:latitude":46.791856,
     "geom:longitude":-100.785239,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1215 Columbia Dr",
     "sg:city":"Bismarck",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102082107,
         85876289
     ],
+    "wof:brand_id":1125150407,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LO5W1FffLBKqGgb2gbvMu_46.791856_-100.785239@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464296380,
-    "wof:geomhash":"00bb78e439a907b6b2202b053094d426",
+    "wof:geomhash":"f7e32a9d843f5881c77db0d107100621",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":873697529,
-    "wof:lastmodified":1466664777,
+    "wof:lastmodified":1510693885,
     "wof:name":"Colonial Supplemental Ins",
     "wof:parent_id":85876289,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873779941,
   "type": "Feature",
   "properties": {
+    "addr:full":"825 Co Rd 17 West Fargo ND 58078",
+    "addr:housenumber":"825;17",
+    "addr:postcode":"58078",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":873779941,
-    "wof:lastmodified":1466665382,
+    "wof:lastmodified":1472633724,
     "wof:name":"Cheney Middle School",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

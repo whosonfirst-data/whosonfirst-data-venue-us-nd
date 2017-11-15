@@ -2,14 +2,20 @@
   "id": 873679577,
   "type": "Feature",
   "properties": {
+    "addr:full":"229 3rd Ave W Dickinson ND 58601",
+    "addr:housenumber":"229",
+    "addr:postcode":"58601",
+    "addr:street":"3Rd Ave W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-102.789845,46.881094,-102.789845,46.881094",
     "geom:latitude":46.881094,
     "geom:longitude":-102.789845,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"229 3rd Ave W",
     "sg:city":"Dickinson",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082105,
         85688525
     ],
+    "wof:brand_id":1125159375,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JDSQ0yuoWMdp9x3waIDa6_46.881094_-102.789845@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464295985,
-    "wof:geomhash":"bf91b8cc9ec982da5e7b36e9bb99ee7c",
+    "wof:geomhash":"e4c1e64f73dd0f05ca9d09399bf828d3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873679577,
-    "wof:lastmodified":1466664666,
+    "wof:lastmodified":1510695816,
     "wof:name":"St Patrick's Catholic Church",
     "wof:parent_id":85877119,
     "wof:placetype":"venue",

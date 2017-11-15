@@ -2,14 +2,20 @@
   "id": 873664549,
   "type": "Feature",
   "properties": {
+    "addr:full":"830 S 48th St Grand Forks ND 58201",
+    "addr:housenumber":"830",
+    "addr:postcode":"58201",
+    "addr:street":"S 48Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.099269,47.915952,-97.099269,47.915952",
     "geom:latitude":47.915952,
     "geom:longitude":-97.099269,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"830 S 48th St",
     "sg:city":"Grand Forks",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081493,
         85808891
     ],
+    "wof:brand_id":1125152929,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2F0BHy2SwZlHCqbpvJEydY_47.915952_-97.099269@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464295745,
-    "wof:geomhash":"36e6fb35ae4e8022e9ca490afc856fc6",
+    "wof:geomhash":"853bf0444689aef82f9f99ae73f664e5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873664549,
-    "wof:lastmodified":1466664569,
+    "wof:lastmodified":1510695335,
     "wof:name":"Avaya Inc",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

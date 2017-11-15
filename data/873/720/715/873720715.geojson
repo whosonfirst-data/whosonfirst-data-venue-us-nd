@@ -2,6 +2,10 @@
   "id": 873720715,
   "type": "Feature",
   "properties": {
+    "addr:full":"3509 Interstate Blvd S Fargo ND 58103",
+    "addr:housenumber":"3509",
+    "addr:postcode":"58103",
+    "addr:street":"Interstate Blvd S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":873720715,
-    "wof:lastmodified":1466664948,
+    "wof:lastmodified":1472633682,
     "wof:name":"Modern Information Systems Inc",
     "wof:parent_id":85877373,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873606815,
   "type": "Feature",
   "properties": {
+    "addr:full":"633 Demers Ave Grand Forks ND 58201",
+    "addr:housenumber":"633",
+    "addr:postcode":"58201",
+    "addr:street":"Demers Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.034744,47.922207,-97.034744,47.922207",
     "geom:latitude":47.922207,
     "geom:longitude":-97.034744,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"633 Demers Ave",
     "sg:city":"Grand Forks",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081493,
         85808891
     ],
+    "wof:brand_id":1125159797,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QAoAbxnppDrAZUMs3ENiR_47.922207_-97.034744@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464295074,
-    "wof:geomhash":"b89f6824f74761ebe711734d259f2a0d",
+    "wof:geomhash":"0e73d860d13037111b8a668ae2225ec5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":873606815,
-    "wof:lastmodified":1466664271,
+    "wof:lastmodified":1510699785,
     "wof:name":"BNSF Railway Co",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873802443,
   "type": "Feature",
   "properties": {
+    "addr:full":"4950 13th Ave S Ste 15 Fargo ND 58103",
+    "addr:housenumber":"4950;15",
+    "addr:postcode":"58103",
+    "addr:street":"13Th Ave S Ste",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":873802443,
-    "wof:lastmodified":1466665496,
+    "wof:lastmodified":1472633736,
     "wof:name":"AAA",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

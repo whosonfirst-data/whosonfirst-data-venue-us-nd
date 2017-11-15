@@ -2,14 +2,20 @@
   "id": 873540267,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 E Broadway Ave Bismarck ND 58501",
+    "addr:housenumber":"400",
+    "addr:postcode":"58501",
+    "addr:street":"E Broadway Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.784618,46.806436,-100.784618,46.806436",
     "geom:latitude":46.806436,
     "geom:longitude":-100.784618,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"400 E Broadway Ave",
     "sg:city":"Bismarck",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082107,
         85876285
     ],
+    "wof:brand_id":1125154931,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BDhMQaMzO9CmqPzC0rusD_46.806436_-100.784618@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464294262,
-    "wof:geomhash":"85b744d7567d7455ac7a987a279baa6c",
+    "wof:geomhash":"8f5b6358448daebcb9d6679638433028",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":873540267,
-    "wof:lastmodified":1466663920,
+    "wof:lastmodified":1510613313,
     "wof:name":"Thyssen Krupp Elevator",
     "wof:parent_id":85876285,
     "wof:placetype":"venue",

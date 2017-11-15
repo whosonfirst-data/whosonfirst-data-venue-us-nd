@@ -2,6 +2,10 @@
   "id": 873644577,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 S 26th St Bismarck ND 58504",
+    "addr:housenumber":"601",
+    "addr:postcode":"58504",
+    "addr:street":"S 26Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873644577,
-    "wof:lastmodified":1466664475,
+    "wof:lastmodified":1472633654,
     "wof:name":"Water Dept",
     "wof:parent_id":85876285,
     "wof:placetype":"venue",

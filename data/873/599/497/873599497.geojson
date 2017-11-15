@@ -2,6 +2,10 @@
   "id": 873599497,
   "type": "Feature",
   "properties": {
+    "addr:full":"903 Shakespeare Rd Grand Forks ND 58203",
+    "addr:housenumber":"903",
+    "addr:postcode":"58203",
+    "addr:street":"Shakespeare Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873599497,
-    "wof:lastmodified":1466664228,
+    "wof:lastmodified":1472633619,
     "wof:name":"Rogers Construction",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

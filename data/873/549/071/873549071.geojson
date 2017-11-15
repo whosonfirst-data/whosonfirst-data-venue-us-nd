@@ -2,14 +2,20 @@
   "id": 873549071,
   "type": "Feature",
   "properties": {
+    "addr:full":"1800 22nd Ave SW Minot ND 58701",
+    "addr:housenumber":"1800",
+    "addr:postcode":"58701",
+    "addr:street":"22Nd Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.321334,48.210213,-101.321334,48.210213",
     "geom:latitude":48.210213,
     "geom:longitude":-101.321334,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1800 22nd Ave SW",
     "sg:city":"Minot",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102082117,
         85878935
     ],
+    "wof:brand_id":420573809,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Y5B5aJlKLILCV6202tSJs_48.210213_-101.321334@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464294367,
-    "wof:geomhash":"4e4d462119922bf264a9062b5300a7d6",
+    "wof:geomhash":"95155eee4e6c6f6f7e2693bf490edbc4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873549071,
-    "wof:lastmodified":1466663940,
+    "wof:lastmodified":1510603477,
     "wof:name":"Payless Shoe Source",
     "wof:parent_id":85878935,
     "wof:placetype":"venue",

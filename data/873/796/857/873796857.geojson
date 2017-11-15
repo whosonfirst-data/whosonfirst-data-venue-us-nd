@@ -2,14 +2,20 @@
   "id": 873796857,
   "type": "Feature",
   "properties": {
+    "addr:full":"4410 17th Ave S Fargo ND 58103",
+    "addr:housenumber":"4410",
+    "addr:postcode":"58103",
+    "addr:street":"17Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.859832,46.854185,-96.859832,46.854185",
     "geom:latitude":46.854185,
     "geom:longitude":-96.859832,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4410 17th Ave S",
     "sg:city":"Fargo",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102082073,
         85688525
     ],
+    "wof:brand_id":1125153581,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4o2wx4uDUQNW14Z5lbQXjB_46.854185_-96.859832@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464297736,
-    "wof:geomhash":"9f9bdcad04ade9b7731fc79424ad4532",
+    "wof:geomhash":"167d6050739e98e263942af66da0e790",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":873796857,
-    "wof:lastmodified":1466665562,
+    "wof:lastmodified":1510697327,
     "wof:name":"Carino's Italian Grill",
     "wof:parent_id":85877371,
     "wof:placetype":"venue",

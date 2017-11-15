@@ -2,6 +2,10 @@
   "id": 873684411,
   "type": "Feature",
   "properties": {
+    "addr:full":"1501 48th St SW Fargo ND 58103",
+    "addr:housenumber":"1501",
+    "addr:postcode":"58103",
+    "addr:street":"48Th St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873684411,
-    "wof:lastmodified":1466664689,
+    "wof:lastmodified":1472633660,
     "wof:name":"First Call",
     "wof:parent_id":85877371,
     "wof:placetype":"venue",

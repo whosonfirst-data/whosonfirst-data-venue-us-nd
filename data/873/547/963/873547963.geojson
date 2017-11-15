@@ -2,14 +2,20 @@
   "id": 873547963,
   "type": "Feature",
   "properties": {
+    "addr:full":"1623 Dyke Ave Grand Forks ND 58203",
+    "addr:housenumber":"1623",
+    "addr:postcode":"58203",
+    "addr:street":"Dyke Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.050632,47.919022,-97.050632,47.919022",
     "geom:latitude":47.919022,
     "geom:longitude":-97.050632,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1623 Dyke Ave",
     "sg:city":"Grand Forks",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081493,
         85808891
     ],
+    "wof:brand_id":1125158981,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cdBhfp9BanNHy2ZY8zcju_47.919022_-97.050632@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464294356,
-    "wof:geomhash":"e0ffd287a576496ee39ac388d2c11da6",
+    "wof:geomhash":"8666707f14ab375bbc755b920f1c6371",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":873547963,
-    "wof:lastmodified":1466663974,
+    "wof:lastmodified":1510698690,
     "wof:name":"Ferrellgas L P",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

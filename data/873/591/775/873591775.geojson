@@ -2,6 +2,10 @@
   "id": 873591775,
   "type": "Feature",
   "properties": {
+    "addr:full":"311 S 22nd St Bismarck ND 58504",
+    "addr:housenumber":"311",
+    "addr:postcode":"58504",
+    "addr:street":"S 22Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873591775,
-    "wof:lastmodified":1466664202,
+    "wof:lastmodified":1472633612,
     "wof:name":"A-Z Mfg & Welding",
     "wof:parent_id":85876285,
     "wof:placetype":"venue",

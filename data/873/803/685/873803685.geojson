@@ -2,6 +2,10 @@
   "id": 873803685,
   "type": "Feature",
   "properties": {
+    "addr:full":"2015 Park Blvd S Fargo ND 58103",
+    "addr:housenumber":"2015",
+    "addr:postcode":"58103",
+    "addr:street":"Park Blvd S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873803685,
-    "wof:lastmodified":1466665515,
+    "wof:lastmodified":1472633738,
     "wof:name":"Schilling Management Group",
     "wof:parent_id":420534475,
     "wof:placetype":"venue",

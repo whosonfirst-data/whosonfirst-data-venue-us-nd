@@ -2,6 +2,10 @@
   "id": 873803671,
   "type": "Feature",
   "properties": {
+    "addr:full":"2631 12th Ave S Fargo ND 58103",
+    "addr:housenumber":"2631",
+    "addr:postcode":"58103",
+    "addr:street":"12Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873803671,
-    "wof:lastmodified":1466665515,
+    "wof:lastmodified":1472633737,
     "wof:name":"Bank Forward",
     "wof:parent_id":85877373,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873725665,
   "type": "Feature",
   "properties": {
+    "addr:full":"1720 S University Dr Fargo ND 58103",
+    "addr:housenumber":"1720",
+    "addr:postcode":"58103",
+    "addr:street":"S University Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873725665,
-    "wof:lastmodified":1466664967,
+    "wof:lastmodified":1472633684,
     "wof:name":"Meritcare Rehabilitation Drvng",
     "wof:parent_id":420534481,
     "wof:placetype":"venue",

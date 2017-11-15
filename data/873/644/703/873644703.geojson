@@ -2,6 +2,10 @@
   "id": 873644703,
   "type": "Feature",
   "properties": {
+    "addr:full":"3521 Main Ave Fargo ND 58103",
+    "addr:housenumber":"3521",
+    "addr:postcode":"58103",
+    "addr:street":"Main Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873644703,
-    "wof:lastmodified":1466664484,
+    "wof:lastmodified":1472633655,
     "wof:name":"Stamart",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

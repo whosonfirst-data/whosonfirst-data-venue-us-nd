@@ -2,6 +2,10 @@
   "id": 873738841,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 Demers Ave Grand Forks ND 58201",
+    "addr:housenumber":"501",
+    "addr:postcode":"58201",
+    "addr:street":"Demers Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873738841,
-    "wof:lastmodified":1466665085,
+    "wof:lastmodified":1472633696,
     "wof:name":"Gate City Bank",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

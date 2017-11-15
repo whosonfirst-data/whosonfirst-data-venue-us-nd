@@ -2,14 +2,20 @@
   "id": 873695561,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 24th Ave S Grand Forks ND 58201",
+    "addr:housenumber":"1001",
+    "addr:postcode":"58201",
+    "addr:street":"24Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.04197,47.896736,-97.04197,47.896736",
     "geom:latitude":47.896736,
     "geom:longitude":-97.04197,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1001 24th Ave S",
     "sg:city":"Grand Forks",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081493,
         85808891
     ],
+    "wof:brand_id":1125159757,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WEkomB9rG7qU0YOBb10im_47.896736_-97.041970@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464296362,
-    "wof:geomhash":"0d134c59888148fb40979bc908325bae",
+    "wof:geomhash":"06f01c510ea7ca7e6969b242b18a25c2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873695561,
-    "wof:lastmodified":1466664764,
+    "wof:lastmodified":1510699924,
     "wof:name":"Zion United Methodist Church",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

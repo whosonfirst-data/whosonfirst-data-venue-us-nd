@@ -2,14 +2,20 @@
   "id": 873664439,
   "type": "Feature",
   "properties": {
+    "addr:full":"1351 Page Dr Fargo ND 58103",
+    "addr:housenumber":"1351",
+    "addr:postcode":"58103",
+    "addr:street":"Page Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.827589,46.860319,-96.827589,46.860319",
     "geom:latitude":46.860319,
     "geom:longitude":-96.827589,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1351 Page Dr",
     "sg:city":"Fargo",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102082073,
         85688525
     ],
+    "wof:brand_id":420575299,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SQhWxSFnhM3IIwJy38PsM_46.860319_-96.827589@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464295744,
-    "wof:geomhash":"32e63c8b6e041561c5aab557debf0983",
+    "wof:geomhash":"a69c49aadae5856e4d7e7c34d4b58906",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":873664439,
-    "wof:lastmodified":1466664562,
+    "wof:lastmodified":1510602398,
     "wof:name":"Ameriprise Financial",
     "wof:parent_id":85877373,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873606827,
   "type": "Feature",
   "properties": {
+    "addr:full":"2002 Main Ave E West Fargo ND 58078",
+    "addr:housenumber":"2002",
+    "addr:postcode":"58078",
+    "addr:street":"Main Ave E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":873606827,
-    "wof:lastmodified":1466664271,
+    "wof:lastmodified":1472633619,
     "wof:name":"Johnstone Supply",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

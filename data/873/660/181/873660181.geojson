@@ -2,14 +2,20 @@
   "id": 873660181,
   "type": "Feature",
   "properties": {
+    "addr:full":"231 W Museum Dr Dickinson ND 58601",
+    "addr:housenumber":"231",
+    "addr:postcode":"58601",
+    "addr:street":"W Museum Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-102.788305,46.894082,-102.788305,46.894082",
     "geom:latitude":46.894082,
     "geom:longitude":-102.788305,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"231 W Museum Dr",
     "sg:city":"Dickinson",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102082105,
         85688525
     ],
+    "wof:brand_id":1125151363,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LI0uftgqbkbJemUxEfUyb_46.894082_-102.788305@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464295700,
-    "wof:geomhash":"f47ca9c01a8e9bfce7807af34cadbeb4",
+    "wof:geomhash":"0f8191d78332f7723b9e2ad962c2077d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873660181,
-    "wof:lastmodified":1466664525,
+    "wof:lastmodified":1510696779,
     "wof:name":"Holiday Station Store",
     "wof:parent_id":85877119,
     "wof:placetype":"venue",

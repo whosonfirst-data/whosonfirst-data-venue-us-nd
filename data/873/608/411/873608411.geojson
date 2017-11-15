@@ -2,6 +2,10 @@
   "id": 873608411,
   "type": "Feature",
   "properties": {
+    "addr:full":"2525 S University Dr Fargo ND 58103",
+    "addr:housenumber":"2525",
+    "addr:postcode":"58103",
+    "addr:street":"S University Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873608411,
-    "wof:lastmodified":1466664260,
+    "wof:lastmodified":1472633613,
     "wof:name":"Fiebiger Swanson West & Co",
     "wof:parent_id":420534475,
     "wof:placetype":"venue",

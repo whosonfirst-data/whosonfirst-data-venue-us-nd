@@ -2,14 +2,20 @@
   "id": 873755033,
   "type": "Feature",
   "properties": {
+    "addr:full":"4101 13th Ave S Fargo ND 58103",
+    "addr:housenumber":"4101",
+    "addr:postcode":"58103",
+    "addr:street":"13Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.849276,46.861891,-96.849276,46.861891",
     "geom:latitude":46.861891,
     "geom:longitude":-96.849276,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4101 13th Ave S",
     "sg:city":"Fargo",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102082073,
         85688525
     ],
+    "wof:brand_id":420573867,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4or3vKU5EGA0DVsgrObn2n_46.861891_-96.849276@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464297145,
-    "wof:geomhash":"bdd46dcf867764c0ff1b193e3c84fe4c",
+    "wof:geomhash":"0bffd494dcd08efa0faa873ce6fe79c8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873755033,
-    "wof:lastmodified":1466665132,
+    "wof:lastmodified":1510603529,
     "wof:name":"Wells Fargo Bank",
     "wof:parent_id":85877371,
     "wof:placetype":"venue",

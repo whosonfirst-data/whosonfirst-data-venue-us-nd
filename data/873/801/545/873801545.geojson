@@ -2,6 +2,10 @@
   "id": 873801545,
   "type": "Feature",
   "properties": {
+    "addr:full":"737 Broadway N Fl 1 Fargo ND 58102",
+    "addr:housenumber":"737;1",
+    "addr:postcode":"58102",
+    "addr:street":"Broadway N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":873801545,
-    "wof:lastmodified":1466665491,
+    "wof:lastmodified":1472633735,
     "wof:name":"Mary Care Clinic",
     "wof:parent_id":420534465,
     "wof:placetype":"venue",

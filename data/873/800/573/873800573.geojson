@@ -2,6 +2,10 @@
   "id": 873800573,
   "type": "Feature",
   "properties": {
+    "addr:full":"4102 15th Ave N Fargo ND 58102",
+    "addr:housenumber":"4102",
+    "addr:postcode":"58102",
+    "addr:street":"15Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":873800573,
-    "wof:lastmodified":1466665490,
+    "wof:lastmodified":1472633734,
     "wof:name":"Wrigley Mechanical Inc",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

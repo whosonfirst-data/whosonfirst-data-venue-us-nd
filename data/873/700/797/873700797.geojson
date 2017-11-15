@@ -2,6 +2,10 @@
   "id": 873700797,
   "type": "Feature",
   "properties": {
+    "addr:full":"2111 2nd Ave S Fargo ND 58103",
+    "addr:housenumber":"2111",
+    "addr:postcode":"58103",
+    "addr:street":"2Nd Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873700797,
-    "wof:lastmodified":1466664812,
+    "wof:lastmodified":1472633669,
     "wof:name":"Salvage & Obsolete Bikes",
     "wof:parent_id":85877347,
     "wof:placetype":"venue",

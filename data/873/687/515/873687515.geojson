@@ -2,14 +2,20 @@
   "id": 873687515,
   "type": "Feature",
   "properties": {
+    "addr:full":"1416 10th Ave N Grand Forks ND 58203",
+    "addr:housenumber":"1416",
+    "addr:postcode":"58203",
+    "addr:street":"10Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.047745,47.929297,-97.047745,47.929297",
     "geom:latitude":47.929297,
     "geom:longitude":-97.047745,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1416 10th Ave N",
     "sg:city":"Grand Forks",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081493,
         85808891
     ],
+    "wof:brand_id":1125151475,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0d3ye9y1qOUoisfUqtotFe_47.929297_-97.047745@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464296206,
-    "wof:geomhash":"a6ba6331d547ebe8c17db1b3de0e4f30",
+    "wof:geomhash":"eba718d0daa9c2a40ab4209a54d62df0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873687515,
-    "wof:lastmodified":1466664708,
+    "wof:lastmodified":1510698967,
     "wof:name":"LDS Missionaries",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

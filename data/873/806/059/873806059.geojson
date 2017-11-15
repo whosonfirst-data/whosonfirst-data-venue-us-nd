@@ -2,6 +2,10 @@
   "id": 873806059,
   "type": "Feature",
   "properties": {
+    "addr:full":"706 Kirkwood Mall Space 342 Bismarck ND 58504",
+    "addr:housenumber":"706;342",
+    "addr:postcode":"58504",
+    "addr:street":"Kirkwood Mall Space",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":873806059,
-    "wof:lastmodified":1466665486,
+    "wof:lastmodified":1472633729,
     "wof:name":"Subway",
     "wof:parent_id":85876289,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873600625,
   "type": "Feature",
   "properties": {
+    "addr:full":"855 45th St SW Fargo ND 58103",
+    "addr:housenumber":"855",
+    "addr:postcode":"58103",
+    "addr:street":"45Th St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.861948,46.86749,-96.861948,46.86749",
     "geom:latitude":46.86749,
     "geom:longitude":-96.861948,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"855 45th St SW",
     "sg:city":"Fargo",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102082073,
         85688525
     ],
+    "wof:brand_id":420575857,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4m4mFhvGCBkVPBh4MxCCps_46.867490_-96.861948@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464294994,
-    "wof:geomhash":"fbddeaa774f4982e85737e8f606dbfee",
+    "wof:geomhash":"b6d7a7bdcbcc02593f5d4cb0cdab631e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873600625,
-    "wof:lastmodified":1466664234,
+    "wof:lastmodified":1510602601,
     "wof:name":"Motor Vehicle Dept",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

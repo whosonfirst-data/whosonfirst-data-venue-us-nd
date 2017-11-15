@@ -2,6 +2,10 @@
   "id": 873803705,
   "type": "Feature",
   "properties": {
+    "addr:full":"1901 44th St S Fargo ND 58103",
+    "addr:housenumber":"1901",
+    "addr:postcode":"58103",
+    "addr:street":"44Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":873803705,
-    "wof:lastmodified":1466665568,
+    "wof:lastmodified":1472633738,
     "wof:name":"MainStay Suites Fargo",
     "wof:parent_id":85877371,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873776333,
   "type": "Feature",
   "properties": {
+    "addr:full":"4120 14th Ave N Fargo ND 58102",
+    "addr:housenumber":"4120",
+    "addr:postcode":"58102",
+    "addr:street":"14Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873776333,
-    "wof:lastmodified":1466665295,
+    "wof:lastmodified":1472633717,
     "wof:name":"United Products",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

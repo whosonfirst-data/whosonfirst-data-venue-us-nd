@@ -2,6 +2,10 @@
   "id": 873724379,
   "type": "Feature",
   "properties": {
+    "addr:full":"2501 Broadway Fargo ND 58102",
+    "addr:housenumber":"2501",
+    "addr:postcode":"58102",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873724379,
-    "wof:lastmodified":1466664945,
+    "wof:lastmodified":1472633676,
     "wof:name":"Gate City Bank",
     "wof:parent_id":85877353,
     "wof:placetype":"venue",

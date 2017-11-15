@@ -2,6 +2,10 @@
   "id": 873749847,
   "type": "Feature",
   "properties": {
+    "addr:full":"4456 Domingo Rd Fargo ND 58103",
+    "addr:housenumber":"4456",
+    "addr:postcode":"58103",
+    "addr:street":"Domingo Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873749847,
-    "wof:lastmodified":1466665152,
+    "wof:lastmodified":1472633704,
     "wof:name":"Compressed Air Technologies",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

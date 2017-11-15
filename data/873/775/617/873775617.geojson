@@ -2,6 +2,10 @@
   "id": 873775617,
   "type": "Feature",
   "properties": {
+    "addr:full":"415 38th St SW Fargo ND 58103",
+    "addr:housenumber":"415",
+    "addr:postcode":"58103",
+    "addr:street":"38Th St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873775617,
-    "wof:lastmodified":1466665318,
+    "wof:lastmodified":1472633718,
     "wof:name":"Harrison Chiropractic & Msg",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

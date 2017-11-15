@@ -2,6 +2,10 @@
   "id": 873803667,
   "type": "Feature",
   "properties": {
+    "addr:full":"4501 15th Ave S Ste 102 Fargo ND 58103",
+    "addr:housenumber":"4501",
+    "addr:postcode":"58103",
+    "addr:street":"15Th Ave S Ste 102",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873803667,
-    "wof:lastmodified":1466665514,
+    "wof:lastmodified":1472633738,
     "wof:name":"Kelly Services",
     "wof:parent_id":85877371,
     "wof:placetype":"venue",

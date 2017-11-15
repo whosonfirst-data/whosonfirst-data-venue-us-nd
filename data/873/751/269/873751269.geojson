@@ -2,6 +2,10 @@
   "id": 873751269,
   "type": "Feature",
   "properties": {
+    "addr:full":"1617 N University Dr Fargo ND 58102",
+    "addr:housenumber":"1617",
+    "addr:postcode":"58102",
+    "addr:street":"N University Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873751269,
-    "wof:lastmodified":1466665115,
+    "wof:lastmodified":1472633699,
     "wof:name":"Elite Business Resources",
     "wof:parent_id":85877363,
     "wof:placetype":"venue",

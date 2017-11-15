@@ -2,6 +2,10 @@
   "id": 873802783,
   "type": "Feature",
   "properties": {
+    "addr:full":"2501 University Dr S Fargo ND 58103",
+    "addr:housenumber":"2501",
+    "addr:postcode":"58103",
+    "addr:street":"University Dr S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873802783,
-    "wof:lastmodified":1466665569,
+    "wof:lastmodified":1472633737,
     "wof:name":"State Bank",
     "wof:parent_id":420534475,
     "wof:placetype":"venue",

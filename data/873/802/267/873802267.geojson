@@ -2,6 +2,10 @@
   "id": 873802267,
   "type": "Feature",
   "properties": {
+    "addr:full":"2573 Atlantic Dr S Fargo ND 58103",
+    "addr:housenumber":"2573",
+    "addr:postcode":"58103",
+    "addr:street":"Atlantic Dr S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873802267,
-    "wof:lastmodified":1466665479,
+    "wof:lastmodified":1472633731,
     "wof:name":"Vertical Publishing",
     "wof:parent_id":420534475,
     "wof:placetype":"venue",

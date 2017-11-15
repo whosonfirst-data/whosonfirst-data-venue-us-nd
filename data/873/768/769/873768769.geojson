@@ -2,14 +2,20 @@
   "id": 873768769,
   "type": "Feature",
   "properties": {
+    "addr:full":"3861 32nd Ave S Grand Forks ND 58201",
+    "addr:housenumber":"3861",
+    "addr:postcode":"58201",
+    "addr:street":"32Nd Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.080966,47.88938,-97.080966,47.88938",
     "geom:latitude":47.88938,
     "geom:longitude":-97.080966,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3861 32nd Ave S",
     "sg:city":"Grand Forks",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081493,
         85808891
     ],
+    "wof:brand_id":420575543,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YpJ7zi5FxTOLLA2XNzCtk_47.889380_-97.080966@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464297347,
-    "wof:geomhash":"292d30e4a481b1222dd32f41c044ea83",
+    "wof:geomhash":"f80fe96a3faee13b393ad61e5a0666e2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873768769,
-    "wof:lastmodified":1466665277,
+    "wof:lastmodified":1510602393,
     "wof:name":"Michaels Arts & Crafts Store",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

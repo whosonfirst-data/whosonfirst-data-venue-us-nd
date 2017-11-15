@@ -2,6 +2,10 @@
   "id": 873797059,
   "type": "Feature",
   "properties": {
+    "addr:full":"1326 25th St S Fargo ND 58103",
+    "addr:housenumber":"1326",
+    "addr:postcode":"58103",
+    "addr:street":"25Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873797059,
-    "wof:lastmodified":1466665428,
+    "wof:lastmodified":1472633724,
     "wof:name":"Subway",
     "wof:parent_id":420534469,
     "wof:placetype":"venue",

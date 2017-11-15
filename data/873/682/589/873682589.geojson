@@ -2,14 +2,20 @@
   "id": 873682589,
   "type": "Feature",
   "properties": {
+    "addr:full":"2041 3rd St NW Minot ND 58703",
+    "addr:housenumber":"2041",
+    "addr:postcode":"58703",
+    "addr:street":"3Rd St Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.297684,48.256516,-101.297684,48.256516",
     "geom:latitude":48.256516,
     "geom:longitude":-101.297684,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2041 3rd St NW",
     "sg:city":"Minot",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102082117,
         85878939
     ],
+    "wof:brand_id":1125157737,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4IwApDK7Vkju7DKVS853oT_48.256516_-101.297684@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464296069,
-    "wof:geomhash":"7a36e3d2989fbaef47890eba94354876",
+    "wof:geomhash":"abcb181833c9ad721b8968bbf39ecba7",
     "wof:hierarchy":[
         {
             "campus_id":102531137,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":873682589,
-    "wof:lastmodified":1466664693,
+    "wof:lastmodified":1510604913,
     "wof:name":"US Veterans Affairs Dept",
     "wof:parent_id":102531137,
     "wof:placetype":"venue",

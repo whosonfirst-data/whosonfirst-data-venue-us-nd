@@ -2,6 +2,10 @@
   "id": 873756895,
   "type": "Feature",
   "properties": {
+    "addr:full":"5302 123rd Ave NE Bismarck ND 58503",
+    "addr:housenumber":"5302",
+    "addr:postcode":"58503",
+    "addr:street":"123Rd Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":873756895,
-    "wof:lastmodified":1466665222,
+    "wof:lastmodified":1472633712,
     "wof:name":"Flying D Paint Ranch",
     "wof:parent_id":85876285,
     "wof:placetype":"venue",

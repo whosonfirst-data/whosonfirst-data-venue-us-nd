@@ -2,14 +2,20 @@
   "id": 873564227,
   "type": "Feature",
   "properties": {
+    "addr:full":"1640 E Capitol Ave Bismarck ND 58501",
+    "addr:housenumber":"1640",
+    "addr:postcode":"58501",
+    "addr:street":"E Capitol Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.76783,46.829081,-100.76783,46.829081",
     "geom:latitude":46.829081,
     "geom:longitude":-100.76783,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1640 E Capitol Ave",
     "sg:city":"Bismarck",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082107,
         85876285
     ],
+    "wof:brand_id":1125155057,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6k42l1fvO0nO5BJsGFIwB0_46.829081_-100.767830@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464294546,
-    "wof:geomhash":"24e913d694659479d2069b258a22c469",
+    "wof:geomhash":"8383a69d90f607c8a630948bfa8c9336",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873564227,
-    "wof:lastmodified":1466664030,
+    "wof:lastmodified":1510694927,
     "wof:name":"SunAmerica",
     "wof:parent_id":85876285,
     "wof:placetype":"venue",

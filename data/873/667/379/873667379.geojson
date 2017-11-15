@@ -2,6 +2,10 @@
   "id": 873667379,
   "type": "Feature",
   "properties": {
+    "addr:full":"1810 42nd St SW Fargo ND 58103",
+    "addr:housenumber":"1810",
+    "addr:postcode":"58103",
+    "addr:street":"42Nd St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873667379,
-    "wof:lastmodified":1466664579,
+    "wof:lastmodified":1472633640,
     "wof:name":"Bayview Flickertail Apts",
     "wof:parent_id":85877371,
     "wof:placetype":"venue",

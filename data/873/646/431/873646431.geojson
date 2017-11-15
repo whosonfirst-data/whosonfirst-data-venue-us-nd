@@ -2,14 +2,20 @@
   "id": 873646431,
   "type": "Feature",
   "properties": {
+    "addr:full":"2115 7th Ave N Fargo ND 58102",
+    "addr:housenumber":"2115",
+    "addr:postcode":"58102",
+    "addr:street":"7Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.814314,46.883254,-96.814314,46.883254",
     "geom:latitude":46.883254,
     "geom:longitude":-96.814314,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2115 7th Ave N",
     "sg:city":"Fargo",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082073,
         85688525
     ],
+    "wof:brand_id":1125154735,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77nyAK2xj5ggPk2ETiX8xS_46.883254_-96.814314@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464295551,
-    "wof:geomhash":"59028d34f4a0cf6c9958ceb21c007e37",
+    "wof:geomhash":"7536c72626a71cf60d3b57fc29b4a064",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873646431,
-    "wof:lastmodified":1466664466,
+    "wof:lastmodified":1510695211,
     "wof:name":"Fedex Freight East Inc",
     "wof:parent_id":85877363,
     "wof:placetype":"venue",

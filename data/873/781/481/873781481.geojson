@@ -2,6 +2,10 @@
   "id": 873781481,
   "type": "Feature",
   "properties": {
+    "addr:full":"3301 Main Ave Fargo ND 58103",
+    "addr:housenumber":"3301",
+    "addr:postcode":"58103",
+    "addr:street":"Main Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873781481,
-    "wof:lastmodified":1466665342,
+    "wof:lastmodified":1472633723,
     "wof:name":"Farnam's NAPA Auto Parts",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

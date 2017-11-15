@@ -2,6 +2,10 @@
   "id": 873540851,
   "type": "Feature",
   "properties": {
+    "addr:full":"725 42nd St S Fargo ND 58103",
+    "addr:housenumber":"725",
+    "addr:postcode":"58103",
+    "addr:street":"42Nd St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873540851,
-    "wof:lastmodified":1466663960,
+    "wof:lastmodified":1472633596,
     "wof:name":"Sunshine Sales",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

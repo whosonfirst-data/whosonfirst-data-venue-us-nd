@@ -2,6 +2,10 @@
   "id": 873718355,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 Main Ave W West Fargo ND 58078",
+    "addr:housenumber":"201",
+    "addr:postcode":"58078",
+    "addr:street":"Main Ave W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873718355,
-    "wof:lastmodified":1466664910,
+    "wof:lastmodified":1472633679,
     "wof:name":"Dairy Queen",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

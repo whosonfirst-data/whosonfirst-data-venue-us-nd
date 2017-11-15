@@ -2,6 +2,10 @@
   "id": 873768799,
   "type": "Feature",
   "properties": {
+    "addr:full":"1122 26th St N Fargo ND 58102",
+    "addr:housenumber":"1122",
+    "addr:postcode":"58102",
+    "addr:street":"26Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873768799,
-    "wof:lastmodified":1466665279,
+    "wof:lastmodified":1472633715,
     "wof:name":"Music Underground",
     "wof:parent_id":85877363,
     "wof:placetype":"venue",

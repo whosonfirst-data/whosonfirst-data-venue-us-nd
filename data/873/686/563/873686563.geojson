@@ -2,14 +2,20 @@
   "id": 873686563,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 20th St N Fargo ND 58102",
+    "addr:housenumber":"100",
+    "addr:postcode":"58102",
+    "addr:street":"20Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.812242,46.877634,-96.812242,46.877634",
     "geom:latitude":46.877634,
     "geom:longitude":-96.812242,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 20th St N",
     "sg:city":"Fargo",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082073,
         85688525
     ],
+    "wof:brand_id":1125155213,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WPugvSKJDEX6AKsBe6nru_46.877634_-96.812242@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464296181,
-    "wof:geomhash":"a44d94e4416f47853b6576d8034fdb52",
+    "wof:geomhash":"264fe4fd6af0102000639b6183ba69df",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873686563,
-    "wof:lastmodified":1466664711,
+    "wof:lastmodified":1510695368,
     "wof:name":"Allied Building Products Corp",
     "wof:parent_id":85877347,
     "wof:placetype":"venue",

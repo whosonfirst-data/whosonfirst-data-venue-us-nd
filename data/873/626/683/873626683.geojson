@@ -2,6 +2,10 @@
   "id": 873626683,
   "type": "Feature",
   "properties": {
+    "addr:full":"1112 Nodak Dr Fargo ND 58103",
+    "addr:housenumber":"1112",
+    "addr:postcode":"58103",
+    "addr:street":"Nodak Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873626683,
-    "wof:lastmodified":1466664368,
+    "wof:lastmodified":1472633625,
     "wof:name":"HP",
     "wof:parent_id":85877373,
     "wof:placetype":"venue",

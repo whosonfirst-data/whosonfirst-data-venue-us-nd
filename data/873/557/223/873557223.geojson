@@ -2,6 +2,10 @@
   "id": 873557223,
   "type": "Feature",
   "properties": {
+    "addr:full":"3330 Fiechtner Dr S Fargo ND 58103",
+    "addr:housenumber":"3330",
+    "addr:postcode":"58103",
+    "addr:street":"Fiechtner Dr S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":873557223,
-    "wof:lastmodified":1466663985,
+    "wof:lastmodified":1472633587,
     "wof:name":"ADS Tax Service",
     "wof:parent_id":85877373,
     "wof:placetype":"venue",

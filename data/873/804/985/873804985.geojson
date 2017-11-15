@@ -2,6 +2,10 @@
   "id": 873804985,
   "type": "Feature",
   "properties": {
+    "addr:full":"4325 23rd Ave S Fargo ND 58104",
+    "addr:housenumber":"4325",
+    "addr:postcode":"58104",
+    "addr:street":"23Rd Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":873804985,
-    "wof:lastmodified":1466665572,
+    "wof:lastmodified":1472633738,
     "wof:name":"Settle Inn And Suites Fargo",
     "wof:parent_id":85877371,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873599449,
   "type": "Feature",
   "properties": {
+    "addr:full":"2940 N University Dr Fargo ND 58102",
+    "addr:housenumber":"2940",
+    "addr:postcode":"58102",
+    "addr:street":"N University Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":873599449,
-    "wof:lastmodified":1466664225,
+    "wof:lastmodified":1472633624,
     "wof:name":"North Dakota Air Nat Guard",
     "wof:parent_id":85877363,
     "wof:placetype":"venue",

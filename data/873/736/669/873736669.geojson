@@ -2,6 +2,10 @@
   "id": 873736669,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 Johnson St Burlington ND 58722",
+    "addr:housenumber":"900",
+    "addr:postcode":"58722",
+    "addr:street":"Johnson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873736669,
-    "wof:lastmodified":1466665048,
+    "wof:lastmodified":1472633692,
     "wof:name":"Lagerquist Tax Svc",
     "wof:parent_id":85878935,
     "wof:placetype":"venue",

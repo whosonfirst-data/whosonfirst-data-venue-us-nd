@@ -2,14 +2,20 @@
   "id": 873575395,
   "type": "Feature",
   "properties": {
+    "addr:full":"2520 Centennial Rd Bismarck ND 58503",
+    "addr:housenumber":"2520",
+    "addr:postcode":"58503",
+    "addr:street":"Centennial Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.730646,46.832263,-100.730646,46.832263",
     "geom:latitude":46.832263,
     "geom:longitude":-100.730646,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2520 Centennial Rd",
     "sg:city":"Bismarck",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082107,
         85876285
     ],
+    "wof:brand_id":1125159495,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2B4bhKJ7l7wTeAW3RR3Xal_46.832263_-100.730646@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464294668,
-    "wof:geomhash":"e35b4c6eea9d5fb6577b33566129b8b3",
+    "wof:geomhash":"ac6f2aeb08e018dd6ec93be1f2eeaffb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":873575395,
-    "wof:lastmodified":1466664086,
+    "wof:lastmodified":1510695422,
     "wof:name":"Cenex Convenience Store",
     "wof:parent_id":85876285,
     "wof:placetype":"venue",

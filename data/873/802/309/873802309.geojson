@@ -2,6 +2,10 @@
   "id": 873802309,
   "type": "Feature",
   "properties": {
+    "addr:full":"1402 43rd St S Ste 200 Fargo ND 58103",
+    "addr:housenumber":"1402",
+    "addr:postcode":"58103",
+    "addr:street":"43Rd St S Ste 200",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":873802309,
-    "wof:lastmodified":1466665484,
+    "wof:lastmodified":1472633732,
     "wof:name":"Heritage Homes",
     "wof:parent_id":85877371,
     "wof:placetype":"venue",

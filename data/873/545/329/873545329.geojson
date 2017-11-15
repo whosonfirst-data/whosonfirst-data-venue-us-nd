@@ -2,14 +2,20 @@
   "id": 873545329,
   "type": "Feature",
   "properties": {
+    "addr:full":"212 N 2nd St Bismarck ND 58501",
+    "addr:housenumber":"212",
+    "addr:postcode":"58501",
+    "addr:street":"N 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.789226,46.807441,-100.789226,46.807441",
     "geom:latitude":46.807441,
     "geom:longitude":-100.789226,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"212 N 2nd St",
     "sg:city":"Bismarck",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102082107,
         85688525
     ],
+    "wof:brand_id":1125155215,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DK4p8zQFyfzOknymIXmyc_46.807441_-100.789226@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464294320,
-    "wof:geomhash":"aa4d006bceefa57c36ee23c9a2d425c0",
+    "wof:geomhash":"121c9318d5d94bf21b20d85ef7ebb403",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873545329,
-    "wof:lastmodified":1466663925,
+    "wof:lastmodified":1510695367,
     "wof:name":"American Lung Assn",
     "wof:parent_id":85876287,
     "wof:placetype":"venue",

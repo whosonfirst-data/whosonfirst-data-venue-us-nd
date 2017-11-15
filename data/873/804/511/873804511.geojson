@@ -2,6 +2,10 @@
   "id": 873804511,
   "type": "Feature",
   "properties": {
+    "addr:full":"1529 27th Ave S Apt 201 Fargo ND 58103",
+    "addr:housenumber":"1529;201",
+    "addr:postcode":"58103",
+    "addr:street":"27Th Ave S Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":873804511,
-    "wof:lastmodified":1466665503,
+    "wof:lastmodified":1472633736,
     "wof:name":"Van Dyke, Rick Painting",
     "wof:parent_id":420534475,
     "wof:placetype":"venue",

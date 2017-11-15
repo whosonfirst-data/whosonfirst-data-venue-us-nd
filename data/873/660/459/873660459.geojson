@@ -2,6 +2,10 @@
   "id": 873660459,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 16th St N Fargo ND 58102",
+    "addr:housenumber":"100",
+    "addr:postcode":"58102",
+    "addr:street":"16Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":873660459,
-    "wof:lastmodified":1466664545,
+    "wof:lastmodified":1472633646,
     "wof:name":"Advanced Manufacturing",
     "wof:parent_id":85877347,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873603277,
   "type": "Feature",
   "properties": {
+    "addr:full":"46 W Villard St Dickinson ND 58601",
+    "addr:housenumber":"46",
+    "addr:postcode":"58601",
+    "addr:street":"W Villard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-102.786043,46.878824,-102.786043,46.878824",
     "geom:latitude":46.878824,
     "geom:longitude":-102.786043,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"46 W Villard St",
     "sg:city":"Dickinson",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082105,
         85688525
     ],
+    "wof:brand_id":1125159335,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Ogae4g8zYKWnmFQZRYUrL_46.878824_-102.786043@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464295022,
-    "wof:geomhash":"a660ab84cc7ae0e6cf30b647a81bb134",
+    "wof:geomhash":"c26324e6050661264de900091b9cae3d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873603277,
-    "wof:lastmodified":1466664235,
+    "wof:lastmodified":1510695225,
     "wof:name":"Perfect Image",
     "wof:parent_id":85877119,
     "wof:placetype":"venue",

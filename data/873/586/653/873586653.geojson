@@ -2,6 +2,10 @@
   "id": 873586653,
   "type": "Feature",
   "properties": {
+    "addr:full":"1204 E Coulee Rd Bismarck ND 58501",
+    "addr:housenumber":"1204",
+    "addr:postcode":"58501",
+    "addr:street":"E Coulee Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873586653,
-    "wof:lastmodified":1466664156,
+    "wof:lastmodified":1472633603,
     "wof:name":"Johnson Apartments",
     "wof:parent_id":85876287,
     "wof:placetype":"venue",

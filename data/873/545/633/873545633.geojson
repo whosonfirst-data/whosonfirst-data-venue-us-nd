@@ -2,14 +2,20 @@
   "id": 873545633,
   "type": "Feature",
   "properties": {
+    "addr:full":"2219 Main Ave Fargo ND 58103",
+    "addr:housenumber":"2219",
+    "addr:postcode":"58103",
+    "addr:street":"Main Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.816121,46.875963,-96.816121,46.875963",
     "geom:latitude":46.875963,
     "geom:longitude":-96.816121,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2219 Main Ave",
     "sg:city":"Fargo",
     "sg:classifiers":[
@@ -46,13 +52,14 @@
         102082073,
         85688525
     ],
+    "wof:brand_id":1125155381,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Hd8BRezC38Exsz7Czdu9y_46.875963_-96.816121@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464294323,
-    "wof:geomhash":"1b37bbfcd73418a138af5c4670ba3b97",
+    "wof:geomhash":"d3239c813dd824179246d16a272431a5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,7 +73,7 @@
         }
     ],
     "wof:id":873545633,
-    "wof:lastmodified":1466663948,
+    "wof:lastmodified":1510613259,
     "wof:name":"Kitchen Solvers",
     "wof:parent_id":85877347,
     "wof:placetype":"venue",

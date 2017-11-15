@@ -2,6 +2,10 @@
   "id": 873803167,
   "type": "Feature",
   "properties": {
+    "addr:full":"1401 35th St S Fargo ND 58103",
+    "addr:housenumber":"1401",
+    "addr:postcode":"58103",
+    "addr:street":"35Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":873803167,
-    "wof:lastmodified":1466665561,
+    "wof:lastmodified":1472633727,
     "wof:name":"Econo Lodge Fargo",
     "wof:parent_id":85877373,
     "wof:placetype":"venue",

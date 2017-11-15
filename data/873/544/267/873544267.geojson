@@ -2,14 +2,20 @@
   "id": 873544267,
   "type": "Feature",
   "properties": {
+    "addr:full":"2620 Main Ave Fargo ND 58103",
+    "addr:housenumber":"2620",
+    "addr:postcode":"58103",
+    "addr:street":"Main Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.820302,46.875913,-96.820302,46.875913",
     "geom:latitude":46.875913,
     "geom:longitude":-96.820302,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2620 Main Ave",
     "sg:city":"Fargo",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082073,
         85688525
     ],
+    "wof:brand_id":1125150023,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42mbzP6Tln4dEe6UgxyTrp_46.875913_-96.820302@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464294309,
-    "wof:geomhash":"987fce307a1d82f85f3d09de63ccff40",
+    "wof:geomhash":"60e7256481d8233fa3ea9cac69d534a1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873544267,
-    "wof:lastmodified":1466663920,
+    "wof:lastmodified":1510695390,
     "wof:name":"ICI Dulux Paint",
     "wof:parent_id":85877347,
     "wof:placetype":"venue",

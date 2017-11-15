@@ -2,6 +2,10 @@
   "id": 873737791,
   "type": "Feature",
   "properties": {
+    "addr:full":"7201 University Dr Bismarck ND 58504",
+    "addr:housenumber":"7201",
+    "addr:postcode":"58504",
+    "addr:street":"University Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":873737791,
-    "wof:lastmodified":1466665067,
+    "wof:lastmodified":1472633694,
     "wof:name":"Air Fun Inc",
     "wof:parent_id":85876285,
     "wof:placetype":"venue",

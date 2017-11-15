@@ -2,6 +2,10 @@
   "id": 873804523,
   "type": "Feature",
   "properties": {
+    "addr:full":"555 40th St S Apt 226 Fargo ND 58103",
+    "addr:housenumber":"555;226",
+    "addr:postcode":"58103",
+    "addr:street":"40Th St S Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":873804523,
-    "wof:lastmodified":1466665563,
+    "wof:lastmodified":1472633737,
     "wof:name":"Park Avenue Apartment Homes Llp",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

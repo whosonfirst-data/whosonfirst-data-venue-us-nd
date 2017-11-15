@@ -2,6 +2,10 @@
   "id": 873802609,
   "type": "Feature",
   "properties": {
+    "addr:full":"4920 15th Ave S Apt 307 Fargo ND 58103",
+    "addr:housenumber":"4920;307",
+    "addr:postcode":"58103",
+    "addr:street":"15Th Ave S Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873802609,
-    "wof:lastmodified":1466665508,
+    "wof:lastmodified":1472633737,
     "wof:name":"Wired Networks",
     "wof:parent_id":85877371,
     "wof:placetype":"venue",

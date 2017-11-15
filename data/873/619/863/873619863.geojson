@@ -2,6 +2,10 @@
   "id": 873619863,
   "type": "Feature",
   "properties": {
+    "addr:full":"1424 7th Ave S Fargo ND 58103",
+    "addr:housenumber":"1424",
+    "addr:postcode":"58103",
+    "addr:street":"7Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873619863,
-    "wof:lastmodified":1466664339,
+    "wof:lastmodified":1472633627,
     "wof:name":"Acme Sign",
     "wof:parent_id":85877347,
     "wof:placetype":"venue",

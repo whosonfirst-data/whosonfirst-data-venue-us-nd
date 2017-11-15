@@ -2,6 +2,10 @@
   "id": 873802105,
   "type": "Feature",
   "properties": {
+    "addr:full":"3401 13th Ave S Fargo ND 58103",
+    "addr:housenumber":"3401",
+    "addr:postcode":"58103",
+    "addr:street":"13Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":873802105,
-    "wof:lastmodified":1466665458,
+    "wof:lastmodified":1472633727,
     "wof:name":"Schumacher Goodyear",
     "wof:parent_id":85877373,
     "wof:placetype":"venue",

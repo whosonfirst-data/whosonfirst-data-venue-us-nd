@@ -2,6 +2,10 @@
   "id": 873682575,
   "type": "Feature",
   "properties": {
+    "addr:full":"3950 Main Ave Fargo ND 58103",
+    "addr:housenumber":"3950",
+    "addr:postcode":"58103",
+    "addr:street":"Main Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873682575,
-    "wof:lastmodified":1466664692,
+    "wof:lastmodified":1472633662,
     "wof:name":"Comstock Land Co",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

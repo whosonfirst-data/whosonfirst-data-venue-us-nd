@@ -2,14 +2,20 @@
   "id": 873737173,
   "type": "Feature",
   "properties": {
+    "addr:full":"3101 41st Ave SW Fargo ND 58104",
+    "addr:housenumber":"3101",
+    "addr:postcode":"58104",
+    "addr:street":"41St Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.827581,46.816294,-96.827581,46.816294",
     "geom:latitude":46.816294,
     "geom:longitude":-96.827581,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3101 41st Ave SW",
     "sg:city":"Fargo",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082073,
         85688525
     ],
+    "wof:brand_id":1125158557,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5IWtgLNUZ1f61fDoOhyViv_46.816294_-96.827581@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464296884,
-    "wof:geomhash":"a1f6a0da114c84a8b38a8d7f0edb9dae",
+    "wof:geomhash":"f217956cd3c0f92ce4179158d4d7ece7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873737173,
-    "wof:lastmodified":1466665011,
+    "wof:lastmodified":1510697796,
     "wof:name":"Jostens Inc",
     "wof:parent_id":85877333,
     "wof:placetype":"venue",

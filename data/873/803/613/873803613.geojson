@@ -2,14 +2,20 @@
   "id": 873803613,
   "type": "Feature",
   "properties": {
+    "addr:full":"3902 13th Ave S Ste 200 Fargo ND 58103",
+    "addr:housenumber":"3902",
+    "addr:postcode":"58103",
+    "addr:street":"13Th Ave S Ste 200",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.846532,46.861599,-96.846532,46.861599",
     "geom:latitude":46.861599,
     "geom:longitude":-96.846532,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3902 13th Ave S Ste 200",
     "sg:city":"Fargo",
     "sg:classifiers":[
@@ -86,13 +92,14 @@
         102082073,
         85688525
     ],
+    "wof:brand_id":1125151895,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5B74zTFvgxmN37KbTRZk0B_46.861599_-96.846532@1303262841"
     },
     "wof:country":"US",
     "wof:created":1464297817,
-    "wof:geomhash":"46086fe3d15e29ac0360eaa26ea78459",
+    "wof:geomhash":"9f14fc5b2273feee121d59830ce21e67",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -106,7 +113,7 @@
         }
     ],
     "wof:id":873803613,
-    "wof:lastmodified":1466665511,
+    "wof:lastmodified":1510697712,
     "wof:name":"JCPenney Custom Decorating",
     "wof:parent_id":85877371,
     "wof:placetype":"venue",

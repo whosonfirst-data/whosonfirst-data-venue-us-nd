@@ -2,6 +2,10 @@
   "id": 873803155,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 25th St S Ste 5 Fargo ND 58103",
+    "addr:housenumber":"301",
+    "addr:postcode":"58103",
+    "addr:street":"25Th St S Ste 5",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":873803155,
-    "wof:lastmodified":1466665487,
+    "wof:lastmodified":1472633727,
     "wof:name":"U-Haul Co",
     "wof:parent_id":85877347,
     "wof:placetype":"venue",

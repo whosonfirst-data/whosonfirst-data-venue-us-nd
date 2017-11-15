@@ -2,14 +2,20 @@
   "id": 873730199,
   "type": "Feature",
   "properties": {
+    "addr:full":"1820 S Columbia Rd Grand Forks ND 58201",
+    "addr:housenumber":"1820",
+    "addr:postcode":"58201",
+    "addr:street":"S Columbia Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.066603,47.903268,-97.066603,47.903268",
     "geom:latitude":47.903268,
     "geom:longitude":-97.066603,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1820 S Columbia Rd",
     "sg:city":"Grand Forks",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081493,
         85808891
     ],
+    "wof:brand_id":1125154589,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72jaK2JwfW35SyQWQTjRLg_47.903268_-97.066603@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464296781,
-    "wof:geomhash":"6f170d36ac2be919c238eb9d1d07e84b",
+    "wof:geomhash":"4a5ee5b3b1354464452c8bc813c31c9c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":873730199,
-    "wof:lastmodified":1466664980,
+    "wof:lastmodified":1510613346,
     "wof:name":"Americ Inn",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

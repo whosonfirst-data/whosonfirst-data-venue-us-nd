@@ -2,6 +2,10 @@
   "id": 873802069,
   "type": "Feature",
   "properties": {
+    "addr:full":"1314 15th St S Fargo ND 58103",
+    "addr:housenumber":"1314",
+    "addr:postcode":"58103",
+    "addr:street":"15Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873802069,
-    "wof:lastmodified":1466665454,
+    "wof:lastmodified":1472633727,
     "wof:name":"Adams Aire",
     "wof:parent_id":85877331,
     "wof:placetype":"venue",

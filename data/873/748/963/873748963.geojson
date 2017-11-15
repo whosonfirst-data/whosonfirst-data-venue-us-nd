@@ -2,6 +2,10 @@
   "id": 873748963,
   "type": "Feature",
   "properties": {
+    "addr:full":"4401 Main Ave Fargo ND 58103",
+    "addr:housenumber":"4401",
+    "addr:postcode":"58103",
+    "addr:street":"Main Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873748963,
-    "wof:lastmodified":1466665147,
+    "wof:lastmodified":1472633704,
     "wof:name":"F M Sales",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

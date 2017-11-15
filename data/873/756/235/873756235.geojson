@@ -2,6 +2,10 @@
   "id": 873756235,
   "type": "Feature",
   "properties": {
+    "addr:full":"315 15th St S Fargo ND 58103",
+    "addr:housenumber":"315",
+    "addr:postcode":"58103",
+    "addr:street":"15Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873756235,
-    "wof:lastmodified":1466665160,
+    "wof:lastmodified":1472633701,
     "wof:name":"Fitness On The Go",
     "wof:parent_id":85877347,
     "wof:placetype":"venue",

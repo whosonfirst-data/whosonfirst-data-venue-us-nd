@@ -2,14 +2,20 @@
   "id": 873721475,
   "type": "Feature",
   "properties": {
+    "addr:full":"2501 3rd Ave N Fargo ND 58102",
+    "addr:housenumber":"2501",
+    "addr:postcode":"58102",
+    "addr:street":"3Rd Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.819796,46.879489,-96.819796,46.879489",
     "geom:latitude":46.879489,
     "geom:longitude":-96.819796,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2501 3rd Ave N",
     "sg:city":"Fargo",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082073,
         85688525
     ],
+    "wof:brand_id":1125151233,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4UNEnhUZp7sk8J9rggbbZg_46.879489_-96.819796@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464296668,
-    "wof:geomhash":"59ce85770996ee8dc8adc0f898bce3d5",
+    "wof:geomhash":"7760cfae0db6d50e98746cf239dbcba3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873721475,
-    "wof:lastmodified":1466664930,
+    "wof:lastmodified":1510694072,
     "wof:name":"Qualex Inc",
     "wof:parent_id":85877347,
     "wof:placetype":"venue",

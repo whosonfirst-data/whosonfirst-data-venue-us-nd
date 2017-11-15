@@ -2,6 +2,10 @@
   "id": 873658401,
   "type": "Feature",
   "properties": {
+    "addr:full":"5050 13th Ave SW Fargo ND 58103",
+    "addr:housenumber":"5050",
+    "addr:postcode":"58103",
+    "addr:street":"13Th Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873658401,
-    "wof:lastmodified":1466664534,
+    "wof:lastmodified":1472633648,
     "wof:name":"Dollar Discount",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873686707,
   "type": "Feature",
   "properties": {
+    "addr:full":"108 20th Ave SE Minot ND 58701",
+    "addr:housenumber":"108",
+    "addr:postcode":"58701",
+    "addr:street":"20Th Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.290629,48.210978,-101.290629,48.210978",
     "geom:latitude":48.210978,
     "geom:longitude":-101.290629,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"108 20th Ave SE",
     "sg:city":"Minot",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082117,
         85878937
     ],
+    "wof:brand_id":420575465,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6aVcOwvROxHdUHdtAuGuYm_48.210978_-101.290629@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464296185,
-    "wof:geomhash":"6bfbf1ac7becdeb46f0faa6b78deb741",
+    "wof:geomhash":"620e1e2c41b0e8c6b2605d0c2aad10ca",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":873686707,
-    "wof:lastmodified":1466664723,
+    "wof:lastmodified":1510602104,
     "wof:name":"Ferguson Enterprises Inc",
     "wof:parent_id":85878937,
     "wof:placetype":"venue",

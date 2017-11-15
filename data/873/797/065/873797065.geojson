@@ -2,14 +2,20 @@
   "id": 873797065,
   "type": "Feature",
   "properties": {
+    "addr:full":"1303 34th St S Fargo ND 58103",
+    "addr:housenumber":"1303",
+    "addr:postcode":"58103",
+    "addr:street":"34Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.836142,46.861496,-96.836142,46.861496",
     "geom:latitude":46.861496,
     "geom:longitude":-96.836142,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1303 34th St S",
     "sg:city":"Fargo",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102082073,
         85688525
     ],
+    "wof:brand_id":1125158905,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Xf5YGbyes3ZN4IDFRGCdd_46.861496_-96.836142@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464297739,
-    "wof:geomhash":"45f7088ef617e4cb6c9a2a1f3aaa44fb",
+    "wof:geomhash":"7584850066174bbd3ef09547a0958b06",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":873797065,
-    "wof:lastmodified":1466665429,
+    "wof:lastmodified":1510696683,
     "wof:name":"Acapulco",
     "wof:parent_id":85877373,
     "wof:placetype":"venue",

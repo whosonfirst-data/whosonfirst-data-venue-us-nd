@@ -2,6 +2,10 @@
   "id": 873601483,
   "type": "Feature",
   "properties": {
+    "addr:full":"2100 S Columbia Rd Grand Forks ND 58201",
+    "addr:housenumber":"2100",
+    "addr:postcode":"58201",
+    "addr:street":"S Columbia Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873601483,
-    "wof:lastmodified":1466664231,
+    "wof:lastmodified":1472633625,
     "wof:name":"Cellular 2000/Keypage",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

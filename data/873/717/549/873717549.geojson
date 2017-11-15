@@ -2,6 +2,10 @@
   "id": 873717549,
   "type": "Feature",
   "properties": {
+    "addr:full":"340 Main St Davenport ND 58021",
+    "addr:housenumber":"340",
+    "addr:postcode":"58021",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":873717549,
-    "wof:lastmodified":1466664903,
+    "wof:lastmodified":1472633678,
     "wof:name":"Northern Plains Environmental",
     "wof:parent_id":85877375,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873702235,
   "type": "Feature",
   "properties": {
+    "addr:full":"1425 43rd St N Fargo ND 58102",
+    "addr:housenumber":"1425",
+    "addr:postcode":"58102",
+    "addr:street":"43Rd St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873702235,
-    "wof:lastmodified":1466664787,
+    "wof:lastmodified":1472633665,
     "wof:name":"Dakota Gypsum & Insulation",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

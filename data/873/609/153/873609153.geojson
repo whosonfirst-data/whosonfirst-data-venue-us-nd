@@ -2,6 +2,10 @@
   "id": 873609153,
   "type": "Feature",
   "properties": {
+    "addr:full":"1314 University Ave Grand Forks ND 58203",
+    "addr:housenumber":"1314",
+    "addr:postcode":"58203",
+    "addr:street":"University Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":873609153,
-    "wof:lastmodified":1466664246,
+    "wof:lastmodified":1472633614,
     "wof:name":"Baron's Upholstery",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

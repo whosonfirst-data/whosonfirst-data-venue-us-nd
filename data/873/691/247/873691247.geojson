@@ -2,14 +2,20 @@
   "id": 873691247,
   "type": "Feature",
   "properties": {
+    "addr:full":"2534 17th Ave S Grand Forks ND 58201",
+    "addr:housenumber":"2534",
+    "addr:postcode":"58201",
+    "addr:street":"17Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.063142,47.904025,-97.063142,47.904025",
     "geom:latitude":47.904025,
     "geom:longitude":-97.063142,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2534 17th Ave S",
     "sg:city":"Grand Forks",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081493,
         85808891
     ],
+    "wof:brand_id":420575493,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3o1ieeYqg71mYNPcHXWREc_47.904025_-97.063142@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464296305,
-    "wof:geomhash":"7df85743d4ecfafa695289f6813a9b57",
+    "wof:geomhash":"e37b9bade1a97a06333666534e709404",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873691247,
-    "wof:lastmodified":1466664721,
+    "wof:lastmodified":1510601947,
     "wof:name":"Jenny Craig Weight Loss Ctr",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

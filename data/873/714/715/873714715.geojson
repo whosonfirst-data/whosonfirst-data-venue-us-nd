@@ -2,6 +2,10 @@
   "id": 873714715,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Main St Hunter ND 58048",
+    "addr:housenumber":"101",
+    "addr:postcode":"58048",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873714715,
-    "wof:lastmodified":1466664875,
+    "wof:lastmodified":1472633678,
     "wof:name":"ASAP Signs",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

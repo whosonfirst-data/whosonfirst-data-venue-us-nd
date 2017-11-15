@@ -2,6 +2,10 @@
   "id": 873725143,
   "type": "Feature",
   "properties": {
+    "addr:full":"3030 Main Ave Fargo ND 58103",
+    "addr:housenumber":"3030",
+    "addr:postcode":"58103",
+    "addr:street":"Main Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873725143,
-    "wof:lastmodified":1466664924,
+    "wof:lastmodified":1472633677,
     "wof:name":"Nash Finch Co",
     "wof:parent_id":85877347,
     "wof:placetype":"venue",

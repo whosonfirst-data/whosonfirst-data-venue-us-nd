@@ -2,6 +2,10 @@
   "id": 873539909,
   "type": "Feature",
   "properties": {
+    "addr:full":"5500 Gateway Dr Grand Forks ND 58203",
+    "addr:housenumber":"5500",
+    "addr:postcode":"58203",
+    "addr:street":"Gateway Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873539909,
-    "wof:lastmodified":1466663960,
+    "wof:lastmodified":1472633601,
     "wof:name":"Westgate Marine",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

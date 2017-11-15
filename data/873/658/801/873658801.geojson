@@ -2,6 +2,10 @@
   "id": 873658801,
   "type": "Feature",
   "properties": {
+    "addr:full":"5001 Co Rd 81 N Fargo ND 58102",
+    "addr:housenumber":"5001;81 n",
+    "addr:postcode":"58102",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":873658801,
-    "wof:lastmodified":1466664558,
+    "wof:lastmodified":1472633653,
     "wof:name":"Sanders Metal Products Inc",
     "wof:parent_id":85877363,
     "wof:placetype":"venue",

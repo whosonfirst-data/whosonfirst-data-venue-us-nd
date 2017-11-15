@@ -2,6 +2,10 @@
   "id": 873781753,
   "type": "Feature",
   "properties": {
+    "addr:full":"2829 S University Dr Fargo ND 58103",
+    "addr:housenumber":"2829",
+    "addr:postcode":"58103",
+    "addr:street":"S University Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873781753,
-    "wof:lastmodified":1466665370,
+    "wof:lastmodified":1472633723,
     "wof:name":"Imaging Solutions Inc",
     "wof:parent_id":420534475,
     "wof:placetype":"venue",

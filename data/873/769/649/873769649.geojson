@@ -2,14 +2,20 @@
   "id": 873769649,
   "type": "Feature",
   "properties": {
+    "addr:full":"2508 S Washington St Grand Forks ND 58201",
+    "addr:housenumber":"2508",
+    "addr:postcode":"58201",
+    "addr:street":"S Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.045672,47.894073,-97.045672,47.894073",
     "geom:latitude":47.894073,
     "geom:longitude":-97.045672,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2508 S Washington St",
     "sg:city":"Grand Forks",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081493,
         85808891
     ],
+    "wof:brand_id":1125157351,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18nXgKa9rftUScFcRf7Vod_47.894073_-97.045672@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464297357,
-    "wof:geomhash":"967a5f6284765d59b2938401a277ff8e",
+    "wof:geomhash":"1fbd3f3e01431c5cbcc9de732f50c7e2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":873769649,
-    "wof:lastmodified":1466665284,
+    "wof:lastmodified":1510694855,
     "wof:name":"Cash Connection",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873619961,
   "type": "Feature",
   "properties": {
+    "addr:full":"150 Co Rd 34 Arthur ND 58006",
+    "addr:housenumber":"150;34",
+    "addr:postcode":"58006",
+    "addr:street":"Co Rd;Arthur",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873619961,
-    "wof:lastmodified":1466664345,
+    "wof:lastmodified":1472633633,
     "wof:name":"Care Companions",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

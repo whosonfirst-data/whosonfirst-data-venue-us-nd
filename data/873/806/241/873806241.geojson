@@ -2,6 +2,10 @@
   "id": 873806241,
   "type": "Feature",
   "properties": {
+    "addr:full":"4200 James Ray Drive Grand Forks ND 58203",
+    "addr:housenumber":"4200",
+    "addr:postcode":"58203",
+    "addr:street":"James Ray Drive",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":873806241,
-    "wof:lastmodified":1466665499,
+    "wof:lastmodified":1472633733,
     "wof:name":"TripCore.com",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

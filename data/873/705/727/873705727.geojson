@@ -2,14 +2,20 @@
   "id": 873705727,
   "type": "Feature",
   "properties": {
+    "addr:full":"460 Elm St Kindred ND 58051",
+    "addr:housenumber":"460",
+    "addr:postcode":"58051",
+    "addr:street":"Elm St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.018103,46.648533,-97.018103,46.648533",
     "geom:latitude":46.648533,
     "geom:longitude":-97.018103,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"460 Elm St",
     "sg:city":"Kindred",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102082073,
         85877375
     ],
+    "wof:brand_id":1125154085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nwl0q9U7VBnQT7rve57Rq_46.648533_-97.018103@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464296466,
-    "wof:geomhash":"6f9f07304371113ef04fae423932aa38",
+    "wof:geomhash":"be2d124d04c621c58da67101738831d8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":873705727,
-    "wof:lastmodified":1466664866,
+    "wof:lastmodified":1510613290,
     "wof:name":"Senior Citizens Center",
     "wof:parent_id":85877375,
     "wof:placetype":"venue",

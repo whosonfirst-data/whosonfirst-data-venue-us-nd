@@ -2,14 +2,20 @@
   "id": 873600059,
   "type": "Feature",
   "properties": {
+    "addr:full":"877 Kirkwood Mall Bismarck ND 58504",
+    "addr:housenumber":"877",
+    "addr:postcode":"58504",
+    "addr:street":"Kirkwood Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.784693,46.800348,-100.784693,46.800348",
     "geom:latitude":46.800348,
     "geom:longitude":-100.784693,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"877 Kirkwood Mall",
     "sg:city":"Bismarck",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102082107,
         85876289
     ],
+    "wof:brand_id":420575601,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_467UB7z8TpMwFenc25mOni_46.800348_-100.784693@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464294987,
-    "wof:geomhash":"c0c9d9d781369c298e842ff3501a78aa",
+    "wof:geomhash":"d77ab0571dcaec6efffe61eb099c99a3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":873600059,
-    "wof:lastmodified":1466664200,
+    "wof:lastmodified":1510602934,
     "wof:name":"Aeropostale Inc",
     "wof:parent_id":85876289,
     "wof:placetype":"venue",

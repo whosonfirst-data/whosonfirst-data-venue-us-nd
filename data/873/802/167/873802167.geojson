@@ -2,6 +2,10 @@
   "id": 873802167,
   "type": "Feature",
   "properties": {
+    "addr:full":"3060 25th St S Ste C Fargo ND 58103",
+    "addr:housenumber":"3060",
+    "addr:postcode":"58103",
+    "addr:street":"25Th St S Ste C",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":873802167,
-    "wof:lastmodified":1466665466,
+    "wof:lastmodified":1472633728,
     "wof:name":"Certified Auto Repair",
     "wof:parent_id":420534467,
     "wof:placetype":"venue",

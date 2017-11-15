@@ -2,14 +2,20 @@
   "id": 873704453,
   "type": "Feature",
   "properties": {
+    "addr:full":"1443 42nd St SW Fargo ND 58103",
+    "addr:housenumber":"1443",
+    "addr:postcode":"58103",
+    "addr:street":"42Nd St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.851059,46.859417,-96.851059,46.859417",
     "geom:latitude":46.859417,
     "geom:longitude":-96.851059,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1443 42nd St SW",
     "sg:city":"Fargo",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102082073,
         85688525
     ],
+    "wof:brand_id":1125157529,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LzZEpGJw5DMmdr7YV33pV_46.859417_-96.851059@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464296450,
-    "wof:geomhash":"8da56af6d17726e53913229672e5a504",
+    "wof:geomhash":"4a966e3196b014ddb8a81ab0d44a8ac6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873704453,
-    "wof:lastmodified":1466664822,
+    "wof:lastmodified":1510699758,
     "wof:name":"Valentino's",
     "wof:parent_id":85877371,
     "wof:placetype":"venue",

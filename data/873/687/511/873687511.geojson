@@ -2,6 +2,10 @@
   "id": 873687511,
   "type": "Feature",
   "properties": {
+    "addr:full":"2222 E Front Ave Bismarck ND 58504",
+    "addr:housenumber":"2222",
+    "addr:postcode":"58504",
+    "addr:street":"E Front Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873687511,
-    "wof:lastmodified":1466664708,
+    "wof:lastmodified":1472633659,
     "wof:name":"America's Best Contractors",
     "wof:parent_id":85876285,
     "wof:placetype":"venue",

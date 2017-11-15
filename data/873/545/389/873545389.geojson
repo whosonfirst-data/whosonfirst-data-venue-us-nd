@@ -2,6 +2,10 @@
   "id": 873545389,
   "type": "Feature",
   "properties": {
+    "addr:full":"105 Kittleson Dr Burlington ND 58722",
+    "addr:housenumber":"105",
+    "addr:postcode":"58722",
+    "addr:street":"Kittleson Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":873545389,
-    "wof:lastmodified":1466663930,
+    "wof:lastmodified":1472633590,
     "wof:name":"D & A Svc",
     "wof:parent_id":85878935,
     "wof:placetype":"venue",

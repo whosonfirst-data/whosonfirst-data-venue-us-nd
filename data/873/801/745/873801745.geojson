@@ -2,6 +2,10 @@
   "id": 873801745,
   "type": "Feature",
   "properties": {
+    "addr:full":"3002 1st Ave N Fargo ND 58102",
+    "addr:housenumber":"3002",
+    "addr:postcode":"58102",
+    "addr:street":"1St Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":873801745,
-    "wof:lastmodified":1466665506,
+    "wof:lastmodified":1472633737,
     "wof:name":"Lodge 2525",
     "wof:parent_id":85877347,
     "wof:placetype":"venue",

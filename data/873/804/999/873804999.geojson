@@ -2,14 +2,20 @@
   "id": 873804999,
   "type": "Feature",
   "properties": {
+    "addr:full":"3636 25th St S Fargo ND 58104",
+    "addr:housenumber":"3636",
+    "addr:postcode":"58104",
+    "addr:street":"25Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.819611,46.82431,-96.819611,46.82431",
     "geom:latitude":46.82431,
     "geom:longitude":-96.819611,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3636 25th St S",
     "sg:city":"Fargo",
     "sg:classifiers":[
@@ -44,13 +50,14 @@
         102082073,
         85688525
     ],
+    "wof:brand_id":1125153155,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2F65F1CWnOSPO935kWMbSZ_46.824310_-96.819611@1303262841"
     },
     "wof:country":"US",
     "wof:created":1464297834,
-    "wof:geomhash":"d0d212d83bf7f0b0f85dcbefe349727c",
+    "wof:geomhash":"85c08d90569435e7067a0d2f91352d11",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":873804999,
-    "wof:lastmodified":1466665523,
+    "wof:lastmodified":1510695882,
     "wof:name":"Hope Lutheran Church",
     "wof:parent_id":420534467,
     "wof:placetype":"venue",

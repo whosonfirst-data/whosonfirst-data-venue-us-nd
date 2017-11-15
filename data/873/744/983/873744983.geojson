@@ -2,6 +2,10 @@
   "id": 873744983,
   "type": "Feature",
   "properties": {
+    "addr:full":"1324 25th Ave S Fargo ND 58103",
+    "addr:housenumber":"1324",
+    "addr:postcode":"58103",
+    "addr:street":"25Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873744983,
-    "wof:lastmodified":1466665140,
+    "wof:lastmodified":1472633702,
     "wof:name":"Deano's Southside Bar & Grill",
     "wof:parent_id":420534475,
     "wof:placetype":"venue",

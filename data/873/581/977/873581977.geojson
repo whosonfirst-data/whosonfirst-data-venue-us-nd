@@ -2,6 +2,10 @@
   "id": 873581977,
   "type": "Feature",
   "properties": {
+    "addr:full":"2301 25th St SW Fargo ND 58103",
+    "addr:housenumber":"2301",
+    "addr:postcode":"58103",
+    "addr:street":"25Th St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873581977,
-    "wof:lastmodified":1466664156,
+    "wof:lastmodified":1472633607,
     "wof:name":"Fargo Gastroenterology",
     "wof:parent_id":420534475,
     "wof:placetype":"venue",

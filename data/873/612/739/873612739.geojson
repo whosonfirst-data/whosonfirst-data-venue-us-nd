@@ -2,6 +2,10 @@
   "id": 873612739,
   "type": "Feature",
   "properties": {
+    "addr:full":"1256 N Parkview Dr Bismarck ND 58501",
+    "addr:housenumber":"1256",
+    "addr:postcode":"58501",
+    "addr:street":"N Parkview Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873612739,
-    "wof:lastmodified":1466664304,
+    "wof:lastmodified":1472633626,
     "wof:name":"Nature Conservancy",
     "wof:parent_id":85876287,
     "wof:placetype":"venue",

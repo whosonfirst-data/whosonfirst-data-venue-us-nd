@@ -2,6 +2,10 @@
   "id": 873713863,
   "type": "Feature",
   "properties": {
+    "addr:full":"1737 Park Blvd Fargo ND 58103",
+    "addr:housenumber":"1737",
+    "addr:postcode":"58103",
+    "addr:street":"Park Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873713863,
-    "wof:lastmodified":1466664908,
+    "wof:lastmodified":1472633680,
     "wof:name":"Doyle Seed & Svc Inc",
     "wof:parent_id":85877331,
     "wof:placetype":"venue",

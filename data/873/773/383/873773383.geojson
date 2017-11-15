@@ -2,6 +2,10 @@
   "id": 873773383,
   "type": "Feature",
   "properties": {
+    "addr:full":"1002 Park Dr Grand Forks ND 58201",
+    "addr:housenumber":"1002",
+    "addr:postcode":"58201",
+    "addr:street":"Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873773383,
-    "wof:lastmodified":1466665292,
+    "wof:lastmodified":1472633715,
     "wof:name":"Bel Canto Studio",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

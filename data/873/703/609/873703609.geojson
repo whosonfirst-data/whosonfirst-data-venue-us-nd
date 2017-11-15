@@ -2,14 +2,20 @@
   "id": 873703609,
   "type": "Feature",
   "properties": {
+    "addr:full":"2502 S University Dr Fargo ND 58103",
+    "addr:housenumber":"2502",
+    "addr:postcode":"58103",
+    "addr:street":"S University Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.798628,46.842107,-96.798628,46.842107",
     "geom:latitude":46.842107,
     "geom:longitude":-96.798628,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2502 S University Dr",
     "sg:city":"Fargo",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102082073,
         85688525
     ],
+    "wof:brand_id":420574881,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4P6dQgFxsrU8lcmEwstw4t_46.842107_-96.798628@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464296441,
-    "wof:geomhash":"16594db4ac2a09b9a27c717eb7414936",
+    "wof:geomhash":"e83babb85cd883f9d1bc770d2a5a46fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873703609,
-    "wof:lastmodified":1466664813,
+    "wof:lastmodified":1510604422,
     "wof:name":"Cost Cutters Family Hair Care",
     "wof:parent_id":420534475,
     "wof:placetype":"venue",

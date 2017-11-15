@@ -2,6 +2,10 @@
   "id": 873677767,
   "type": "Feature",
   "properties": {
+    "addr:full":"1220 University Ave Grand Forks ND 58203",
+    "addr:housenumber":"1220",
+    "addr:postcode":"58203",
+    "addr:street":"University Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":873677767,
-    "wof:lastmodified":1466664666,
+    "wof:lastmodified":1472633657,
     "wof:name":"Valley Dairy",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

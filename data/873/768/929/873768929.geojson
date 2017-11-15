@@ -2,6 +2,10 @@
   "id": 873768929,
   "type": "Feature",
   "properties": {
+    "addr:full":"3739 38th St SW Fargo ND 58104",
+    "addr:housenumber":"3739",
+    "addr:postcode":"58104",
+    "addr:street":"38Th St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":873768929,
-    "wof:lastmodified":1466665291,
+    "wof:lastmodified":1472633715,
     "wof:name":"Peterbilt Utility Of Fargo",
     "wof:parent_id":85877355,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873641087,
   "type": "Feature",
   "properties": {
+    "addr:full":"2209 4th Ave NW Minot ND 58703",
+    "addr:housenumber":"2209",
+    "addr:postcode":"58703",
+    "addr:street":"4Th Ave Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.327715,48.240011,-101.327715,48.240011",
     "geom:latitude":48.240011,
     "geom:longitude":-101.327715,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2209 4th Ave NW",
     "sg:city":"Minot",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102082117,
         85878935
     ],
+    "wof:brand_id":1125159087,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bw1NQeOCbMViu8wkx8WMc_48.240011_-101.327715@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464295488,
-    "wof:geomhash":"750d090dc3f9fa80e7158d9224c9f5e2",
+    "wof:geomhash":"a0bb14bc94b1ddf1c4052f7a892dfe1d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873641087,
-    "wof:lastmodified":1466664404,
+    "wof:lastmodified":1510693764,
     "wof:name":"St Mark's Lutheran Church",
     "wof:parent_id":85878935,
     "wof:placetype":"venue",

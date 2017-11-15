@@ -2,6 +2,10 @@
   "id": 873753429,
   "type": "Feature",
   "properties": {
+    "addr:full":"623 Main Ave E West Fargo ND 58078",
+    "addr:housenumber":"623",
+    "addr:postcode":"58078",
+    "addr:street":"Main Ave E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873753429,
-    "wof:lastmodified":1466665152,
+    "wof:lastmodified":1472633700,
     "wof:name":"Valley Engineering Inc",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

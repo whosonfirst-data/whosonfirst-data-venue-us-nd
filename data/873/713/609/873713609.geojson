@@ -2,14 +2,20 @@
   "id": 873713609,
   "type": "Feature",
   "properties": {
+    "addr:full":"714 E Front Ave Bismarck ND 58504",
+    "addr:housenumber":"714",
+    "addr:postcode":"58504",
+    "addr:street":"E Front Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.780281,46.804173,-100.780281,46.804173",
     "geom:latitude":46.804173,
     "geom:longitude":-100.780281,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"714 E Front Ave",
     "sg:city":"Bismarck",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082107,
         85876285
     ],
+    "wof:brand_id":1125159603,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KeffGxgU0m9m7nQaK6VV8_46.804173_-100.780281@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464296563,
-    "wof:geomhash":"772eacf644bf5eb6b82570f9b7d2938f",
+    "wof:geomhash":"e0110cabf5feb94d175d3fdb2b1fdbcb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873713609,
-    "wof:lastmodified":1466664887,
+    "wof:lastmodified":1510695405,
     "wof:name":"Lafarge Corp",
     "wof:parent_id":85876285,
     "wof:placetype":"venue",

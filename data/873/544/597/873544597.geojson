@@ -2,6 +2,10 @@
   "id": 873544597,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Glacier Dr Minot Afb ND 58704",
+    "addr:housenumber":"123",
+    "addr:postcode":"58704",
+    "addr:street":"Glacier Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873544597,
-    "wof:lastmodified":1466663940,
+    "wof:lastmodified":1472633594,
     "wof:name":"Herbalife Distributor",
     "wof:parent_id":85878935,
     "wof:placetype":"venue",

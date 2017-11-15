@@ -2,14 +2,20 @@
   "id": 873702553,
   "type": "Feature",
   "properties": {
+    "addr:full":"2800 Broadway Fargo ND 58102",
+    "addr:housenumber":"2800",
+    "addr:postcode":"58102",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.78737,46.912794,-96.78737,46.912794",
     "geom:latitude":46.912794,
     "geom:longitude":-96.78737,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2800 Broadway",
     "sg:city":"Fargo",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102082073,
         85688525
     ],
+    "wof:brand_id":1125157445,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JVS4HOIhl0p0B1X8FQwln_46.912794_-96.787370@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464296431,
-    "wof:geomhash":"fae901deab8c3d49badd2fa176f71479",
+    "wof:geomhash":"b0b83176b6a174069a0598f6ac251c71",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873702553,
-    "wof:lastmodified":1466664806,
+    "wof:lastmodified":1510697428,
     "wof:name":"Medicine Shoppe The",
     "wof:parent_id":85877353,
     "wof:placetype":"venue",

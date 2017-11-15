@@ -2,6 +2,10 @@
   "id": 873801053,
   "type": "Feature",
   "properties": {
+    "addr:full":"1461 Broadway N Suite 103 Fargo ND 58102",
+    "addr:housenumber":"1461",
+    "addr:postcode":"58102",
+    "addr:street":"Broadway N Suite 103",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":873801053,
-    "wof:lastmodified":1466665449,
+    "wof:lastmodified":1472633726,
     "wof:name":"Bryce, Anderson & Associates PLLC",
     "wof:parent_id":420534483,
     "wof:placetype":"venue",

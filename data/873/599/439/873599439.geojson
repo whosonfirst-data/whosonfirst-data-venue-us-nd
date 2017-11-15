@@ -2,6 +2,10 @@
   "id": 873599439,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 38th St SW Fargo ND 58103",
+    "addr:housenumber":"1001",
+    "addr:postcode":"58103",
+    "addr:street":"38Th St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873599439,
-    "wof:lastmodified":1466664224,
+    "wof:lastmodified":1472633618,
     "wof:name":"Mc Donald's",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

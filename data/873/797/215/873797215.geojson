@@ -2,6 +2,10 @@
   "id": 873797215,
   "type": "Feature",
   "properties": {
+    "addr:full":"4525 17th Ave S Fargo ND 58103",
+    "addr:housenumber":"4525",
+    "addr:postcode":"58103",
+    "addr:street":"17Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873797215,
-    "wof:lastmodified":1466665440,
+    "wof:lastmodified":1472633728,
     "wof:name":"Pizza Company",
     "wof:parent_id":85877371,
     "wof:placetype":"venue",

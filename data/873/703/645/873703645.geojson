@@ -2,6 +2,10 @@
   "id": 873703645,
   "type": "Feature",
   "properties": {
+    "addr:full":"1002 Main Ave W West Fargo ND 58078",
+    "addr:housenumber":"1002",
+    "addr:postcode":"58078",
+    "addr:street":"Main Ave W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873703645,
-    "wof:lastmodified":1466664816,
+    "wof:lastmodified":1472633668,
     "wof:name":"Busch Agricultural Resources",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873771513,
   "type": "Feature",
   "properties": {
+    "addr:full":"1314 8th Ave N Grand Forks ND 58203",
+    "addr:housenumber":"1314",
+    "addr:postcode":"58203",
+    "addr:street":"8Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":873771513,
-    "wof:lastmodified":1466665276,
+    "wof:lastmodified":1472633713,
     "wof:name":"Auto Diagnostic Service",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

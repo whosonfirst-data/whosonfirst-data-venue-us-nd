@@ -2,6 +2,10 @@
   "id": 873668253,
   "type": "Feature",
   "properties": {
+    "addr:full":"325 Co Rd 34 Arthur ND 58006",
+    "addr:housenumber":"325;34",
+    "addr:postcode":"58006",
+    "addr:street":"Co Rd;Arthur",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873668253,
-    "wof:lastmodified":1466664586,
+    "wof:lastmodified":1472633647,
     "wof:name":"Lako Drilling",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

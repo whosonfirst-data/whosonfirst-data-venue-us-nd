@@ -2,14 +2,20 @@
   "id": 873650985,
   "type": "Feature",
   "properties": {
+    "addr:full":"3501 13th Ave S Fargo ND 58103",
+    "addr:housenumber":"3501",
+    "addr:postcode":"58103",
+    "addr:street":"13Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.837575,46.86176,-96.837575,46.86176",
     "geom:latitude":46.86176,
     "geom:longitude":-96.837575,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3501 13th Ave S",
     "sg:city":"Fargo",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102082073,
         85688525
     ],
+    "wof:brand_id":420575149,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Pkw99hr4Qv1DuoinBqvHg_46.861760_-96.837575@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464295597,
-    "wof:geomhash":"99968af89e5efbd81f36499e28ce207e",
+    "wof:geomhash":"991af50c9614f82f0550c7042aa2ef1d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":873650985,
-    "wof:lastmodified":1466664533,
+    "wof:lastmodified":1510602943,
     "wof:name":"Meineke Car Care Ctr",
     "wof:parent_id":85877373,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873579165,
   "type": "Feature",
   "properties": {
+    "addr:full":"206 Main St Northwood ND 58267",
+    "addr:housenumber":"206",
+    "addr:postcode":"58267",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873579165,
-    "wof:lastmodified":1466664101,
+    "wof:lastmodified":1472633591,
     "wof:name":"A G V I S E Research Inc",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

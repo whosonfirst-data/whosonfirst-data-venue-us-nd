@@ -2,6 +2,10 @@
   "id": 873740481,
   "type": "Feature",
   "properties": {
+    "addr:full":"1700 Houston Dr Bismarck ND 58504",
+    "addr:housenumber":"1700",
+    "addr:postcode":"58504",
+    "addr:street":"Houston Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873740481,
-    "wof:lastmodified":1466665063,
+    "wof:lastmodified":1472633692,
     "wof:name":"Bismarck Excavating",
     "wof:parent_id":85876289,
     "wof:placetype":"venue",

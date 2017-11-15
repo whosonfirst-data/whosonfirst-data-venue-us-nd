@@ -2,6 +2,10 @@
   "id": 873545839,
   "type": "Feature",
   "properties": {
+    "addr:full":"3600 15th St S Fargo ND 58104",
+    "addr:housenumber":"3600",
+    "addr:postcode":"58104",
+    "addr:street":"15Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873545839,
-    "wof:lastmodified":1466663967,
+    "wof:lastmodified":1472633600,
     "wof:name":"Elim Children's Ctr",
     "wof:parent_id":420534487,
     "wof:placetype":"venue",

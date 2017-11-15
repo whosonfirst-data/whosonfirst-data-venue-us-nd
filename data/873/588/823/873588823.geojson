@@ -2,14 +2,20 @@
   "id": 873588823,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 N Broadway Minot ND 58703",
+    "addr:housenumber":"900",
+    "addr:postcode":"58703",
+    "addr:street":"N Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.296041,48.242069,-101.296041,48.242069",
     "geom:latitude":48.242069,
     "geom:longitude":-101.296041,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"900 N Broadway",
     "sg:city":"Minot",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082117,
         85878937
     ],
+    "wof:brand_id":1125154433,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6g8Tekdu1jVXcj4STbVrAY_48.242069_-101.296041@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464294816,
-    "wof:geomhash":"79a7d1fc6cd9e2db21ffdcfc5a690e25",
+    "wof:geomhash":"04ed498b39cf5c07bac18c0c800b3dbf",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":873588823,
-    "wof:lastmodified":1466664187,
+    "wof:lastmodified":1510696747,
     "wof:name":"First Command Financial Plan",
     "wof:parent_id":85878937,
     "wof:placetype":"venue",

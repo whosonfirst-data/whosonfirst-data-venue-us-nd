@@ -2,6 +2,10 @@
   "id": 873535259,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 Main St S Minot ND 58701",
+    "addr:housenumber":"201",
+    "addr:postcode":"58701",
+    "addr:street":"Main St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873535259,
-    "wof:lastmodified":1466665531,
+    "wof:lastmodified":1472633583,
     "wof:name":"Computerized Tax Svc Inc",
     "wof:parent_id":85878937,
     "wof:placetype":"venue",

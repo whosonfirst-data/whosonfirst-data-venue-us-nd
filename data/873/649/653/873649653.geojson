@@ -2,6 +2,10 @@
   "id": 873649653,
   "type": "Feature",
   "properties": {
+    "addr:full":"4301 el Tora Blvd Fargo ND 58103",
+    "addr:housenumber":"4301",
+    "addr:postcode":"58103",
+    "addr:street":"El Tora Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873649653,
-    "wof:lastmodified":1466664493,
+    "wof:lastmodified":1472633637,
     "wof:name":"Buena Vista",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

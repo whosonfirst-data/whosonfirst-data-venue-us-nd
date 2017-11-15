@@ -2,6 +2,10 @@
   "id": 873567701,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 Stanford Rd Grand Forks ND 58203",
+    "addr:housenumber":"500",
+    "addr:postcode":"58203",
+    "addr:street":"Stanford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873567701,
-    "wof:lastmodified":1466664070,
+    "wof:lastmodified":1472633596,
     "wof:name":"Deafblind Svc Project",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

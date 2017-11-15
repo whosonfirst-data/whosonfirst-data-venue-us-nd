@@ -2,6 +2,10 @@
   "id": 873557205,
   "type": "Feature",
   "properties": {
+    "addr:full":"302 27th St N Fargo ND 58102",
+    "addr:housenumber":"302",
+    "addr:postcode":"58102",
+    "addr:street":"27Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873557205,
-    "wof:lastmodified":1466663984,
+    "wof:lastmodified":1472633586,
     "wof:name":"Ever-Green Conference Ctr",
     "wof:parent_id":85877347,
     "wof:placetype":"venue",

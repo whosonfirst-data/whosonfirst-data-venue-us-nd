@@ -2,6 +2,10 @@
   "id": 873798817,
   "type": "Feature",
   "properties": {
+    "addr:full":"4501 15th Ave S Fargo ND 58103",
+    "addr:housenumber":"4501",
+    "addr:postcode":"58103",
+    "addr:street":"15Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":873798817,
-    "wof:lastmodified":1466665563,
+    "wof:lastmodified":1472633737,
     "wof:name":"Quiznos Sub",
     "wof:parent_id":85877371,
     "wof:placetype":"venue",

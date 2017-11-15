@@ -2,6 +2,10 @@
   "id": 873539791,
   "type": "Feature",
   "properties": {
+    "addr:full":"221 N 5th St Bismarck ND 58501",
+    "addr:housenumber":"221",
+    "addr:postcode":"58501",
+    "addr:street":"N 5Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873539791,
-    "wof:lastmodified":1466663953,
+    "wof:lastmodified":1472633599,
     "wof:name":"Bismarck Planning-Dev Dept",
     "wof:parent_id":85876285,
     "wof:placetype":"venue",

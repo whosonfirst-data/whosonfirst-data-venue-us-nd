@@ -2,14 +2,20 @@
   "id": 873745329,
   "type": "Feature",
   "properties": {
+    "addr:full":"1025 45th St SW Fargo ND 58103",
+    "addr:housenumber":"1025",
+    "addr:postcode":"58103",
+    "addr:street":"45Th St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.861985,46.863465,-96.861985,46.863465",
     "geom:latitude":46.863465,
     "geom:longitude":-96.861985,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1025 45th St SW",
     "sg:city":"Fargo",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082073,
         85688525
     ],
+    "wof:brand_id":1125150641,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3F03W2NwQmpmZP6zDGl5ej_46.863465_-96.861985@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464297016,
-    "wof:geomhash":"34561767a3f75630011098ecc7fe10f9",
+    "wof:geomhash":"bd765de85fc641aaeba942a28acfbae8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873745329,
-    "wof:lastmodified":1466665101,
+    "wof:lastmodified":1510613320,
     "wof:name":"Tuffy Auto Svc Ctr",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

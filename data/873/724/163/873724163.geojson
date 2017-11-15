@@ -2,6 +2,10 @@
   "id": 873724163,
   "type": "Feature",
   "properties": {
+    "addr:full":"3471 S University Dr Fargo ND 58104",
+    "addr:housenumber":"3471",
+    "addr:postcode":"58104",
+    "addr:street":"S University Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":873724163,
-    "wof:lastmodified":1466664925,
+    "wof:lastmodified":1472633677,
     "wof:name":"Wheels Inc",
     "wof:parent_id":420534487,
     "wof:placetype":"venue",

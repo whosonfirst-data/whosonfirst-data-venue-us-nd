@@ -2,14 +2,20 @@
   "id": 873753365,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 21st St S Fargo ND 58103",
+    "addr:housenumber":"15",
+    "addr:postcode":"58103",
+    "addr:street":"21St St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.813474,46.875357,-96.813474,46.875357",
     "geom:latitude":46.875357,
     "geom:longitude":-96.813474,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"15 21st St S",
     "sg:city":"Fargo",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082073,
         85688525
     ],
+    "wof:brand_id":1125154635,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50wCS9DtwVn57cUCwmpY07_46.875357_-96.813474@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464297125,
-    "wof:geomhash":"44135b41ada964c66c2f15a6af4d4bce",
+    "wof:geomhash":"66efbe8fb614837ddd2b2196e7a25c31",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873753365,
-    "wof:lastmodified":1466665144,
+    "wof:lastmodified":1510697729,
     "wof:name":"Easter Seals",
     "wof:parent_id":85877347,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873729483,
   "type": "Feature",
   "properties": {
+    "addr:full":"3115 S University Dr Fargo ND 58103",
+    "addr:housenumber":"3115",
+    "addr:postcode":"58103",
+    "addr:street":"S University Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873729483,
-    "wof:lastmodified":1466664988,
+    "wof:lastmodified":1472633687,
     "wof:name":"Red River Valley Dental Access",
     "wof:parent_id":420534487,
     "wof:placetype":"venue",

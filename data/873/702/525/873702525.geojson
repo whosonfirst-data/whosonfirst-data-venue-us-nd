@@ -2,6 +2,10 @@
   "id": 873702525,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 22nd St S Fargo ND 58103",
+    "addr:housenumber":"101",
+    "addr:postcode":"58103",
+    "addr:street":"22Nd St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873702525,
-    "wof:lastmodified":1466664804,
+    "wof:lastmodified":1472633665,
     "wof:name":"Thrifty Services Inc",
     "wof:parent_id":85877347,
     "wof:placetype":"venue",

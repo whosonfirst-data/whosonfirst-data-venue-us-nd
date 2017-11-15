@@ -2,6 +2,10 @@
   "id": 873706585,
   "type": "Feature",
   "properties": {
+    "addr:full":"1200 Harwood Dr Fargo ND 58104",
+    "addr:housenumber":"1200",
+    "addr:postcode":"58104",
+    "addr:street":"Harwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873706585,
-    "wof:lastmodified":1466664844,
+    "wof:lastmodified":1472633672,
     "wof:name":"First National Bank",
     "wof:parent_id":420534487,
     "wof:placetype":"venue",

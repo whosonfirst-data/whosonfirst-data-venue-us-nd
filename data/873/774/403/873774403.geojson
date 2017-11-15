@@ -2,14 +2,20 @@
   "id": 873774403,
   "type": "Feature",
   "properties": {
+    "addr:full":"2001 6th St SE Minot ND 58701",
+    "addr:housenumber":"2001",
+    "addr:postcode":"58701",
+    "addr:street":"6Th St Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.285061,48.211098,-101.285061,48.211098",
     "geom:latitude":48.211098,
     "geom:longitude":-101.285061,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2001 6th St SE",
     "sg:city":"Minot",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102082117,
         85878937
     ],
+    "wof:brand_id":1125153175,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1g9RAURXWbDzkZFkObTuEk_48.211098_-101.285061@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464297418,
-    "wof:geomhash":"03cd6b2abbaf5faa7a7316196162a936",
+    "wof:geomhash":"8bd00fa846fef6c7a99b57bb86911dd3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873774403,
-    "wof:lastmodified":1466665302,
+    "wof:lastmodified":1510699292,
     "wof:name":"Rural Development",
     "wof:parent_id":85878937,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873667569,
   "type": "Feature",
   "properties": {
+    "addr:full":"706 35th St N Fargo ND 58102",
+    "addr:housenumber":"706",
+    "addr:postcode":"58102",
+    "addr:street":"35Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.835086,46.883449,-96.835086,46.883449",
     "geom:latitude":46.883449,
     "geom:longitude":-96.835086,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"706 35th St N",
     "sg:city":"Fargo",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082073,
         85688525
     ],
+    "wof:brand_id":420575465,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58i1GvtpdJgxTpJVCpePOw_46.883449_-96.835086@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464295775,
-    "wof:geomhash":"c73b45a8adc4b66eea063c141b235160",
+    "wof:geomhash":"b65c521d3622f86f9e2805c7b68c6add",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873667569,
-    "wof:lastmodified":1466664592,
+    "wof:lastmodified":1510602103,
     "wof:name":"Ferguson Enterprises Inc",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

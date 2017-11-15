@@ -2,6 +2,10 @@
   "id": 873705749,
   "type": "Feature",
   "properties": {
+    "addr:full":"3001 N Broadway Minot ND 58703",
+    "addr:housenumber":"3001",
+    "addr:postcode":"58703",
+    "addr:street":"N Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873705749,
-    "wof:lastmodified":1466664867,
+    "wof:lastmodified":1472633674,
     "wof:name":"Ballantyne Oil",
     "wof:parent_id":85878937,
     "wof:placetype":"venue",

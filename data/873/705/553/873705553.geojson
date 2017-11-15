@@ -2,6 +2,10 @@
   "id": 873705553,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 42nd St N Fargo ND 58102",
+    "addr:housenumber":"501",
+    "addr:postcode":"58102",
+    "addr:street":"42Nd St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873705553,
-    "wof:lastmodified":1466664852,
+    "wof:lastmodified":1472633672,
     "wof:name":"Red River Commodities Inc",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

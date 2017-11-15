@@ -2,14 +2,20 @@
   "id": 873537065,
   "type": "Feature",
   "properties": {
+    "addr:full":"3330 Fiechtner Dr S Fargo ND 58103",
+    "addr:housenumber":"3330",
+    "addr:postcode":"58103",
+    "addr:street":"Fiechtner Dr S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.832148,46.864327,-96.832148,46.864327",
     "geom:latitude":46.864327,
     "geom:longitude":-96.832148,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3330 Fiechtner Dr S",
     "sg:city":"Fargo",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082073,
         85688525
     ],
+    "wof:brand_id":1125152735,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qVeNQHAsVAEIcU5hGvBqq_46.864327_-96.832148@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464294229,
-    "wof:geomhash":"33b9e233ca4e0f01b640022354d999b0",
+    "wof:geomhash":"e8e5ee0ff0e0b8564fd96158a5ce20a5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873537065,
-    "wof:lastmodified":1466665537,
+    "wof:lastmodified":1510696652,
     "wof:name":"Property Damage Appraisers Inc",
     "wof:parent_id":85877373,
     "wof:placetype":"venue",

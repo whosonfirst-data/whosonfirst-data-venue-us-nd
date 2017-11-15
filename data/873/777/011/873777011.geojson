@@ -2,6 +2,10 @@
   "id": 873777011,
   "type": "Feature",
   "properties": {
+    "addr:full":"255 N 4th St Grand Forks ND 58203",
+    "addr:housenumber":"255",
+    "addr:postcode":"58203",
+    "addr:street":"N 4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":873777011,
-    "wof:lastmodified":1466665276,
+    "wof:lastmodified":1472633709,
     "wof:name":"Grand Forks Auditor",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

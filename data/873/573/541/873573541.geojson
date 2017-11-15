@@ -2,6 +2,10 @@
   "id": 873573541,
   "type": "Feature",
   "properties": {
+    "addr:full":"1042 Meyer Blvd West Fargo ND 58078",
+    "addr:housenumber":"1042",
+    "addr:postcode":"58078",
+    "addr:street":"Meyer Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":873573541,
-    "wof:lastmodified":1466664082,
+    "wof:lastmodified":1472633603,
     "wof:name":"Sdb Construction Inc",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

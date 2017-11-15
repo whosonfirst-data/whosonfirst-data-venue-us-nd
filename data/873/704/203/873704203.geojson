@@ -2,14 +2,20 @@
   "id": 873704203,
   "type": "Feature",
   "properties": {
+    "addr:full":"820 E Front Ave Bismarck ND 58504",
+    "addr:housenumber":"820",
+    "addr:postcode":"58504",
+    "addr:street":"E Front Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.778804,46.804158,-100.778804,46.804158",
     "geom:latitude":46.804158,
     "geom:longitude":-100.778804,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"820 E Front Ave",
     "sg:city":"Bismarck",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082107,
         85876285
     ],
+    "wof:brand_id":1125151959,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_301tdVYx7qIPP1a0dCDA4u_46.804158_-100.778804@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464296447,
-    "wof:geomhash":"dcf74f8d78e7fe1bb4c7e41e255f2fae",
+    "wof:geomhash":"79539d761965c46eb96aadf6e7b2ce19",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":873704203,
-    "wof:lastmodified":1466664803,
+    "wof:lastmodified":1510699564,
     "wof:name":"Praxair Inc",
     "wof:parent_id":85876285,
     "wof:placetype":"venue",

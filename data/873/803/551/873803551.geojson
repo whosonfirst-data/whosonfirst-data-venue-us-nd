@@ -2,6 +2,10 @@
   "id": 873803551,
   "type": "Feature",
   "properties": {
+    "addr:full":"1634 28 1/2 Ave S Fargo ND 58103",
+    "addr:housenumber":"1634;1 / 2",
+    "addr:postcode":"58103",
+    "addr:street":"28;Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873803551,
-    "wof:lastmodified":1466665565,
+    "wof:lastmodified":1472633738,
     "wof:name":"Rds",
     "wof:parent_id":420534475,
     "wof:placetype":"venue",

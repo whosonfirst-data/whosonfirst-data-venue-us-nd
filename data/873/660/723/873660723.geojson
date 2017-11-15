@@ -2,14 +2,20 @@
   "id": 873660723,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 28th Ave SE Minot ND 58701",
+    "addr:housenumber":"101",
+    "addr:postcode":"58701",
+    "addr:street":"28Th Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.292513,48.205079,-101.292513,48.205079",
     "geom:latitude":48.205079,
     "geom:longitude":-101.292513,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"101 28th Ave SE",
     "sg:city":"Minot",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102082117,
         85878937
     ],
+    "wof:brand_id":1125153163,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IH3nqT8YJK5GYwNOgINPe_48.205079_-101.292513@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464295705,
-    "wof:geomhash":"398a54b5996fd2bedd190d92c6722ac6",
+    "wof:geomhash":"da66a184fabc15b105d8137a5b076ec8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873660723,
-    "wof:lastmodified":1466664564,
+    "wof:lastmodified":1510694656,
     "wof:name":"Menards",
     "wof:parent_id":85878937,
     "wof:placetype":"venue",

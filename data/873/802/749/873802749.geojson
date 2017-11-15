@@ -2,6 +2,10 @@
   "id": 873802749,
   "type": "Feature",
   "properties": {
+    "addr:full":"2567 Pacific Dr S Apt 204 Fargo ND 58103",
+    "addr:housenumber":"2567;204",
+    "addr:postcode":"58103",
+    "addr:street":"Pacific Dr S Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873802749,
-    "wof:lastmodified":1466665516,
+    "wof:lastmodified":1472633738,
     "wof:name":"Kulaglic Sajid",
     "wof:parent_id":420534475,
     "wof:placetype":"venue",

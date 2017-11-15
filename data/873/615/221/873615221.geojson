@@ -2,14 +2,20 @@
   "id": 873615221,
   "type": "Feature",
   "properties": {
+    "addr:full":"715 24th Ave S Grand Forks ND 58201",
+    "addr:housenumber":"715",
+    "addr:postcode":"58201",
+    "addr:street":"24Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.03728,47.896663,-97.03728,47.896663",
     "geom:latitude":47.896663,
     "geom:longitude":-97.03728,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"715 24th Ave S",
     "sg:city":"Grand Forks",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081493,
         85808891
     ],
+    "wof:brand_id":1125159087,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66RCD6skx23eewSfm8TjdA_47.896663_-97.037280@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464295197,
-    "wof:geomhash":"130dad3052b33ae2b13b8004dd5fb23b",
+    "wof:geomhash":"9645d3190beddb5ab2af6518926faffc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873615221,
-    "wof:lastmodified":1466664295,
+    "wof:lastmodified":1510693764,
     "wof:name":"St Mark's Lutheran Church",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

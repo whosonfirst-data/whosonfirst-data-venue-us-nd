@@ -2,14 +2,20 @@
   "id": 873598079,
   "type": "Feature",
   "properties": {
+    "addr:full":"1200 N Broadway Minot ND 58703",
+    "addr:housenumber":"1200",
+    "addr:postcode":"58703",
+    "addr:street":"N Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.296033,48.246051,-101.296033,48.246051",
     "geom:latitude":48.246051,
     "geom:longitude":-101.296033,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1200 N Broadway",
     "sg:city":"Minot",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102082117,
         85878937
     ],
+    "wof:brand_id":420574359,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6j0aFw5XtX8hRcRkQAlfnd_48.246051_-101.296033@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464294959,
-    "wof:geomhash":"13e0b3a630b4adaa68a646026c92c92c",
+    "wof:geomhash":"b116e236f59a4eee38fcc248af0af01f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":873598079,
-    "wof:lastmodified":1466664181,
+    "wof:lastmodified":1510604166,
     "wof:name":"United Rentals",
     "wof:parent_id":85878937,
     "wof:placetype":"venue",

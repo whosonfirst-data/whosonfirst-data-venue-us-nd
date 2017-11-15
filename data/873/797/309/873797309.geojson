@@ -2,6 +2,10 @@
   "id": 873797309,
   "type": "Feature",
   "properties": {
+    "addr:full":"2553 Kirsten Ln S Fargo ND 58104",
+    "addr:housenumber":"2553",
+    "addr:postcode":"58104",
+    "addr:street":"Kirsten Ln S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":873797309,
-    "wof:lastmodified":1466665448,
+    "wof:lastmodified":1472633731,
     "wof:name":"TCBY",
     "wof:parent_id":420534467,
     "wof:placetype":"venue",

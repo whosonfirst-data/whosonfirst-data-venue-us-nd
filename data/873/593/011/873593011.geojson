@@ -2,6 +2,10 @@
   "id": 873593011,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 Gateway Dr Grand Forks ND 58203",
+    "addr:housenumber":"111",
+    "addr:postcode":"58203",
+    "addr:street":"Gateway Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":873593011,
-    "wof:lastmodified":1466664162,
+    "wof:lastmodified":1472633611,
     "wof:name":"Spray Advantage Inc",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

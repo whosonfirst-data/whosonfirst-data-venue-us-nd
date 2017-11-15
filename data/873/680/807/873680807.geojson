@@ -2,6 +2,10 @@
   "id": 873680807,
   "type": "Feature",
   "properties": {
+    "addr:full":"7110 Co Rd 12 W Minot ND 58701",
+    "addr:housenumber":"7110;12",
+    "addr:postcode":"58701",
+    "addr:street":"Co Rd;W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":873680807,
-    "wof:lastmodified":1466664694,
+    "wof:lastmodified":1472633660,
     "wof:name":"Adam Auction Svc & Cattle Co",
     "wof:parent_id":85878935,
     "wof:placetype":"venue",

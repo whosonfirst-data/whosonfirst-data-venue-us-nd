@@ -2,6 +2,10 @@
   "id": 873798179,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 E Bismarck Expy Bismarck ND 58504",
+    "addr:housenumber":"900",
+    "addr:postcode":"58504",
+    "addr:street":"E Bismarck Expy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":873798179,
-    "wof:lastmodified":1466665454,
+    "wof:lastmodified":1472633728,
     "wof:name":"Wendy's",
     "wof:parent_id":85876289,
     "wof:placetype":"venue",

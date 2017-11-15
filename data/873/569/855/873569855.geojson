@@ -2,14 +2,20 @@
   "id": 873569855,
   "type": "Feature",
   "properties": {
+    "addr:full":"1330 18th Ave S Fargo ND 58103",
+    "addr:housenumber":"1330",
+    "addr:postcode":"58103",
+    "addr:street":"18Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.800761,46.85185,-96.800761,46.85185",
     "geom:latitude":46.85185,
     "geom:longitude":-96.800761,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1330 18th Ave S",
     "sg:city":"Fargo",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082073,
         85688525
     ],
+    "wof:brand_id":1125153717,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Jq5lIAxyBL4d2i8rDVHiN_46.851850_-96.800761@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464294608,
-    "wof:geomhash":"66def39c785aa9e464c333ef19f1d111",
+    "wof:geomhash":"c8073308e577290b8b008cbffe5d60b8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873569855,
-    "wof:lastmodified":1466664082,
+    "wof:lastmodified":1510694613,
     "wof:name":"Ronald Mc Donald House",
     "wof:parent_id":420534481,
     "wof:placetype":"venue",

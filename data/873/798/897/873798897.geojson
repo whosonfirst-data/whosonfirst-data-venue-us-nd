@@ -2,6 +2,10 @@
   "id": 873798897,
   "type": "Feature",
   "properties": {
+    "addr:full":"4135 13th Ave S Fargo ND 58103",
+    "addr:housenumber":"4135",
+    "addr:postcode":"58103",
+    "addr:street":"13Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873798897,
-    "wof:lastmodified":1466665507,
+    "wof:lastmodified":1472633737,
     "wof:name":"Taco Bell",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

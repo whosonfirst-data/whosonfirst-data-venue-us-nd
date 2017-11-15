@@ -2,14 +2,20 @@
   "id": 873731605,
   "type": "Feature",
   "properties": {
+    "addr:full":"1620 32nd Ave Fargo ND 58103",
+    "addr:housenumber":"1620",
+    "addr:postcode":"58103",
+    "addr:street":"32Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.804776,46.832538,-96.804776,46.832538",
     "geom:latitude":46.832538,
     "geom:longitude":-96.804776,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1620 32nd Ave",
     "sg:city":"Fargo",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102082073,
         85688525
     ],
+    "wof:brand_id":1125156243,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06zeZOrVTSjKpIAsLr8llE_46.832538_-96.804776@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464296799,
-    "wof:geomhash":"7be444ec33bf9c488bfb4d5b38a5c30a",
+    "wof:geomhash":"145951a80a8779d234e7360264125351",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873731605,
-    "wof:lastmodified":1466665033,
+    "wof:lastmodified":1510695196,
     "wof:name":"Grand Buffet",
     "wof:parent_id":420534487,
     "wof:placetype":"venue",

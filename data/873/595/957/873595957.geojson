@@ -2,6 +2,10 @@
   "id": 873595957,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 43rd St N Fargo ND 58102",
+    "addr:housenumber":"301",
+    "addr:postcode":"58102",
+    "addr:street":"43Rd St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873595957,
-    "wof:lastmodified":1466664221,
+    "wof:lastmodified":1472633631,
     "wof:name":"Holdahl Company",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

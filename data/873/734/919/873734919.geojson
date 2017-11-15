@@ -2,14 +2,20 @@
   "id": 873734919,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 Main St S Minot ND 58701",
+    "addr:housenumber":"301",
+    "addr:postcode":"58701",
+    "addr:street":"Main St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.292955,48.234216,-101.292955,48.234216",
     "geom:latitude":48.234216,
     "geom:longitude":-101.292955,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"301 Main St S",
     "sg:city":"Minot",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082117,
         85878937
     ],
+    "wof:brand_id":1125151925,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5iffnXlyxcLU1Ah0hWpdbh_48.234216_-101.292955@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464296847,
-    "wof:geomhash":"1430d21fb358fd5147debdb546147fb9",
+    "wof:geomhash":"4b6597f43569edcee9a96a03ef3a8097",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873734919,
-    "wof:lastmodified":1466665058,
+    "wof:lastmodified":1510694644,
     "wof:name":"All Saints Episcopal Church",
     "wof:parent_id":85878937,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873802101,
   "type": "Feature",
   "properties": {
+    "addr:full":"1401 University Dr S Fargo ND 58103",
+    "addr:housenumber":"1401",
+    "addr:postcode":"58103",
+    "addr:street":"University Dr S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":873802101,
-    "wof:lastmodified":1466665458,
+    "wof:lastmodified":1472633727,
     "wof:name":"Stop-N-Go",
     "wof:parent_id":420534479,
     "wof:placetype":"venue",

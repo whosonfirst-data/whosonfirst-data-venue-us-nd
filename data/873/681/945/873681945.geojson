@@ -2,6 +2,10 @@
   "id": 873681945,
   "type": "Feature",
   "properties": {
+    "addr:full":"515 Co Rd 17 West Fargo ND 58078",
+    "addr:housenumber":"515;17",
+    "addr:postcode":"58078",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873681945,
-    "wof:lastmodified":1466664716,
+    "wof:lastmodified":1472633659,
     "wof:name":"Diamond Edge Investments LLP",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

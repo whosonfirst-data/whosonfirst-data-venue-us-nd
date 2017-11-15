@@ -2,14 +2,20 @@
   "id": 873594553,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 3rd Ave SW Minot ND 58701",
+    "addr:housenumber":"300",
+    "addr:postcode":"58701",
+    "addr:street":"3Rd Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.298215,48.233143,-101.298215,48.233143",
     "geom:latitude":48.233143,
     "geom:longitude":-101.298215,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 3rd Ave SW",
     "sg:city":"Minot",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082117,
         85878937
     ],
+    "wof:brand_id":420575279,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TLAkyCUPxRNIl9qsRBrGM_48.233143_-101.298215@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464294894,
-    "wof:geomhash":"a54082f19896579c731a55a3e544bf49",
+    "wof:geomhash":"afad307c9b13e8657bb49fb5e870e28e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873594553,
-    "wof:lastmodified":1466664198,
+    "wof:lastmodified":1510602644,
     "wof:name":"Dennys",
     "wof:parent_id":85878937,
     "wof:placetype":"venue",

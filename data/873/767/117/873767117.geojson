@@ -2,6 +2,10 @@
   "id": 873767117,
   "type": "Feature",
   "properties": {
+    "addr:full":"621 Demers Ave Grand Forks ND 58201",
+    "addr:housenumber":"621",
+    "addr:postcode":"58201",
+    "addr:street":"Demers Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":873767117,
-    "wof:lastmodified":1466665219,
+    "wof:lastmodified":1472633707,
     "wof:name":"Meritcare",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

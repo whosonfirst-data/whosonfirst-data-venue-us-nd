@@ -2,6 +2,10 @@
   "id": 873798883,
   "type": "Feature",
   "properties": {
+    "addr:full":"4215 13th Ave S Fargo ND 58103",
+    "addr:housenumber":"4215",
+    "addr:postcode":"58103",
+    "addr:street":"13Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873798883,
-    "wof:lastmodified":1466665564,
+    "wof:lastmodified":1472633738,
     "wof:name":"Red Lobster",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

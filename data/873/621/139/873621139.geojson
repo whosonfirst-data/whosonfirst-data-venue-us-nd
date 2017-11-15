@@ -2,14 +2,20 @@
   "id": 873621139,
   "type": "Feature",
   "properties": {
+    "addr:full":"925 20th Ave SW Minot ND 58701",
+    "addr:housenumber":"925",
+    "addr:postcode":"58701",
+    "addr:street":"20Th Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.305632,48.210668,-101.305632,48.210668",
     "geom:latitude":48.210668,
     "geom:longitude":-101.305632,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"925 20th Ave SW",
     "sg:city":"Minot",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082117,
         85878937
     ],
+    "wof:brand_id":1125150803,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SFMcTj9X16V5LkKDdmqTl_48.210668_-101.305632@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464295262,
-    "wof:geomhash":"9f2bff61fa0dfaaf80860e1dc2e0dbfc",
+    "wof:geomhash":"03be1aeadf515f8abfff5ba0d5f20b02",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873621139,
-    "wof:lastmodified":1466664311,
+    "wof:lastmodified":1510697334,
     "wof:name":"Investment Centers Of America",
     "wof:parent_id":85878937,
     "wof:placetype":"venue",

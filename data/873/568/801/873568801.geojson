@@ -2,6 +2,10 @@
   "id": 873568801,
   "type": "Feature",
   "properties": {
+    "addr:full":"5118 Gateway Dr Grand Forks ND 58203",
+    "addr:housenumber":"5118",
+    "addr:postcode":"58203",
+    "addr:street":"Gateway Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873568801,
-    "wof:lastmodified":1466664081,
+    "wof:lastmodified":1472633604,
     "wof:name":"Gateway Storage",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873759245,
   "type": "Feature",
   "properties": {
+    "addr:full":"1917 Main Ave Fargo ND 58103",
+    "addr:housenumber":"1917",
+    "addr:postcode":"58103",
+    "addr:street":"Main Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":873759245,
-    "wof:lastmodified":1466665172,
+    "wof:lastmodified":1472633703,
     "wof:name":"Performance Auto",
     "wof:parent_id":85877347,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873678211,
   "type": "Feature",
   "properties": {
+    "addr:full":"3060 25th St S Fargo ND 58103",
+    "addr:housenumber":"3060",
+    "addr:postcode":"58103",
+    "addr:street":"25Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873678211,
-    "wof:lastmodified":1466664631,
+    "wof:lastmodified":1472633650,
     "wof:name":"Unicell",
     "wof:parent_id":420534467,
     "wof:placetype":"venue",

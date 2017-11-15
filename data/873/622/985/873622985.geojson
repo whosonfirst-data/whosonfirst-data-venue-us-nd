@@ -2,6 +2,10 @@
   "id": 873622985,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 N 42nd St Grand Forks ND 58203",
+    "addr:housenumber":"1000",
+    "addr:postcode":"58203",
+    "addr:street":"N 42Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":873622985,
-    "wof:lastmodified":1466664378,
+    "wof:lastmodified":1472633624,
     "wof:name":"Best Value Inn Of Grand Forks",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

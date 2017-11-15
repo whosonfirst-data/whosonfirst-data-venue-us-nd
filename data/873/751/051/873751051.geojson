@@ -2,6 +2,10 @@
   "id": 873751051,
   "type": "Feature",
   "properties": {
+    "addr:full":"4001 38th St SW Fargo ND 58104",
+    "addr:housenumber":"4001",
+    "addr:postcode":"58104",
+    "addr:street":"38Th St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873751051,
-    "wof:lastmodified":1466665098,
+    "wof:lastmodified":1472633694,
     "wof:name":"Heavy Haul Svc",
     "wof:parent_id":85877375,
     "wof:placetype":"venue",

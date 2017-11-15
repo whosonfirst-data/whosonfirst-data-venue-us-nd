@@ -2,6 +2,10 @@
   "id": 873747707,
   "type": "Feature",
   "properties": {
+    "addr:full":"2580 Main Ave Fargo ND 58103",
+    "addr:housenumber":"2580",
+    "addr:postcode":"58103",
+    "addr:street":"Main Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873747707,
-    "wof:lastmodified":1466665130,
+    "wof:lastmodified":1472633703,
     "wof:name":"All Wireless Solutions",
     "wof:parent_id":85877347,
     "wof:placetype":"venue",

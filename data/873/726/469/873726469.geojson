@@ -2,14 +2,20 @@
   "id": 873726469,
   "type": "Feature",
   "properties": {
+    "addr:full":"2351 32nd Ave S Grand Forks ND 58201",
+    "addr:housenumber":"2351",
+    "addr:postcode":"58201",
+    "addr:street":"32Nd Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.062228,47.889374,-97.062228,47.889374",
     "geom:latitude":47.889374,
     "geom:longitude":-97.062228,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2351 32nd Ave S",
     "sg:city":"Grand Forks",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081493,
         85808891
     ],
+    "wof:brand_id":1125150239,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3bwN0phredvt8YAW59HSrP_47.889374_-97.062228@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464296731,
-    "wof:geomhash":"348cc50f2b1b41daeffeef6ed9aa22d7",
+    "wof:geomhash":"0a722ef0190818c047cedf8f50dbe897",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873726469,
-    "wof:lastmodified":1466664958,
+    "wof:lastmodified":1510696771,
     "wof:name":"Grease Monkey",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

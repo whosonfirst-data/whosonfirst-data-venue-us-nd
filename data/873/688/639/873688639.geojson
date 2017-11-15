@@ -2,6 +2,10 @@
   "id": 873688639,
   "type": "Feature",
   "properties": {
+    "addr:full":"124 Belmont Rd Grand Forks ND 58201",
+    "addr:housenumber":"124",
+    "addr:postcode":"58201",
+    "addr:street":"Belmont Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873688639,
-    "wof:lastmodified":1466664726,
+    "wof:lastmodified":1472633660,
     "wof:name":"Odin's Belmont Svc",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

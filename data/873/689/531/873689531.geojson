@@ -2,6 +2,10 @@
   "id": 873689531,
   "type": "Feature",
   "properties": {
+    "addr:full":"2011 1st Ave N Fargo ND 58102",
+    "addr:housenumber":"2011",
+    "addr:postcode":"58102",
+    "addr:street":"1St Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873689531,
-    "wof:lastmodified":1466664730,
+    "wof:lastmodified":1472633663,
     "wof:name":"Cityscapes Development LLC",
     "wof:parent_id":85877347,
     "wof:placetype":"venue",

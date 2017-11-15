@@ -2,6 +2,10 @@
   "id": 873617321,
   "type": "Feature",
   "properties": {
+    "addr:full":"5711 Co Rd 17 S Fargo ND 58104",
+    "addr:housenumber":"5711;17",
+    "addr:postcode":"58104",
+    "addr:street":"Co Rd;S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873617321,
-    "wof:lastmodified":1466664298,
+    "wof:lastmodified":1472633621,
     "wof:name":"Bernath Construction Inc",
     "wof:parent_id":85877375,
     "wof:placetype":"venue",

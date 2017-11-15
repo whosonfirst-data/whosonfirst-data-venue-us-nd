@@ -2,6 +2,10 @@
   "id": 873612983,
   "type": "Feature",
   "properties": {
+    "addr:full":"3431 Fiechtner Dr S Fargo ND 58103",
+    "addr:housenumber":"3431",
+    "addr:postcode":"58103",
+    "addr:street":"Fiechtner Dr S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":873612983,
-    "wof:lastmodified":1466664320,
+    "wof:lastmodified":1472633632,
     "wof:name":"Ponderosa Steakhouse",
     "wof:parent_id":85877373,
     "wof:placetype":"venue",

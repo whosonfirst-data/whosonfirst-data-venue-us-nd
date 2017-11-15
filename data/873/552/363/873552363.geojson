@@ -2,14 +2,20 @@
   "id": 873552363,
   "type": "Feature",
   "properties": {
+    "addr:full":"919 S 7th St Bismarck ND 58504",
+    "addr:housenumber":"919",
+    "addr:postcode":"58504",
+    "addr:street":"S 7Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.781832,46.7951,-100.781832,46.7951",
     "geom:latitude":46.7951,
     "geom:longitude":-100.781832,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"919 S 7th St",
     "sg:city":"Bismarck",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082107,
         85876289
     ],
+    "wof:brand_id":1125158903,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xW9NZoCC2avqPlcvB1y8W_46.795100_-100.781832@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464294400,
-    "wof:geomhash":"8f5d34928189c164c4b4be3bb6599f57",
+    "wof:geomhash":"4a87cb5bc070514181f0d7ba2731fc27",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":873552363,
-    "wof:lastmodified":1466663966,
+    "wof:lastmodified":1510696684,
     "wof:name":"AIG Valic",
     "wof:parent_id":85876289,
     "wof:placetype":"venue",

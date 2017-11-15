@@ -2,6 +2,10 @@
   "id": 873565293,
   "type": "Feature",
   "properties": {
+    "addr:full":"1226 S University Dr Fargo ND 58103",
+    "addr:housenumber":"1226",
+    "addr:postcode":"58103",
+    "addr:street":"S University Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873565293,
-    "wof:lastmodified":1466664050,
+    "wof:lastmodified":1472633597,
     "wof:name":"Yarn Renaissance LLC",
     "wof:parent_id":420534479,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873649153,
   "type": "Feature",
   "properties": {
+    "addr:full":"3902 13th Ave S Fargo ND 58103",
+    "addr:housenumber":"3902",
+    "addr:postcode":"58103",
+    "addr:street":"13Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":873649153,
-    "wof:lastmodified":1466664458,
+    "wof:lastmodified":1472633636,
     "wof:name":"Grizzly's Grill N' Saloon",
     "wof:parent_id":85877371,
     "wof:placetype":"venue",

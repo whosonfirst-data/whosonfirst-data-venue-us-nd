@@ -2,14 +2,20 @@
   "id": 873597477,
   "type": "Feature",
   "properties": {
+    "addr:full":"1518 5th Ave S Fargo ND 58103",
+    "addr:housenumber":"1518",
+    "addr:postcode":"58103",
+    "addr:street":"5Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.806545,46.869689,-96.806545,46.869689",
     "geom:latitude":46.869689,
     "geom:longitude":-96.806545,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1518 5th Ave S",
     "sg:city":"Fargo",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082073,
         85688525
     ],
+    "wof:brand_id":1125158903,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TD7G38skF2LDgb2UvYvCD_46.869689_-96.806545@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464294953,
-    "wof:geomhash":"bb3dd423bdeef4aa11eb306484725f88",
+    "wof:geomhash":"7098f7422b5fed3b4248a3d6a28fbd01",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873597477,
-    "wof:lastmodified":1466664217,
+    "wof:lastmodified":1510696684,
     "wof:name":"AIG Valic",
     "wof:parent_id":85877347,
     "wof:placetype":"venue",

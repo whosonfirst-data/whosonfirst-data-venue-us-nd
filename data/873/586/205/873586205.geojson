@@ -2,6 +2,10 @@
   "id": 873586205,
   "type": "Feature",
   "properties": {
+    "addr:full":"122 23rd St S Fargo ND 58103",
+    "addr:housenumber":"122",
+    "addr:postcode":"58103",
+    "addr:street":"23Rd St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873586205,
-    "wof:lastmodified":1466664128,
+    "wof:lastmodified":1472633596,
     "wof:name":"Party Room",
     "wof:parent_id":85877347,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873711629,
   "type": "Feature",
   "properties": {
+    "addr:full":"1337 7th Ave N Fargo ND 58102",
+    "addr:housenumber":"1337",
+    "addr:postcode":"58102",
+    "addr:street":"7Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873711629,
-    "wof:lastmodified":1466664881,
+    "wof:lastmodified":1472633677,
     "wof:name":"Arctic Services Co",
     "wof:parent_id":85877363,
     "wof:placetype":"venue",

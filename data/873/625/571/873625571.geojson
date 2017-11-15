@@ -2,6 +2,10 @@
   "id": 873625571,
   "type": "Feature",
   "properties": {
+    "addr:full":"4752 Bakers Ln Fargo ND 58102",
+    "addr:housenumber":"4752",
+    "addr:postcode":"58102",
+    "addr:street":"Bakers Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873625571,
-    "wof:lastmodified":1466664356,
+    "wof:lastmodified":1472633616,
     "wof:name":"Extreme Computing",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

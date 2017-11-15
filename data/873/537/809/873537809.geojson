@@ -2,14 +2,20 @@
   "id": 873537809,
   "type": "Feature",
   "properties": {
+    "addr:full":"609 N 34th St Bismarck ND 58501",
+    "addr:housenumber":"609",
+    "addr:postcode":"58501",
+    "addr:street":"N 34Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.7401,46.809718,-100.7401,46.809718",
     "geom:latitude":46.809718,
     "geom:longitude":-100.7401,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"609 N 34th St",
     "sg:city":"Bismarck",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082107,
         85876285
     ],
+    "wof:brand_id":1125159491,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ExJWGjTkDgW1nSkabtGQQ_46.809718_-100.740100@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464294236,
-    "wof:geomhash":"35e00c8c5f7c74fa95e9555380186608",
+    "wof:geomhash":"eb50706c953cf2a436307ea31f7ee4df",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873537809,
-    "wof:lastmodified":1466663921,
+    "wof:lastmodified":1510695424,
     "wof:name":"Calvary United Methodist Chr",
     "wof:parent_id":85876285,
     "wof:placetype":"venue",

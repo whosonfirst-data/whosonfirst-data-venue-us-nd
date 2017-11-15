@@ -2,6 +2,10 @@
   "id": 873660503,
   "type": "Feature",
   "properties": {
+    "addr:full":"2520 Larson Rd Bismarck ND 58504",
+    "addr:housenumber":"2520",
+    "addr:postcode":"58504",
+    "addr:street":"Larson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":873660503,
-    "wof:lastmodified":1466664549,
+    "wof:lastmodified":1472633646,
     "wof:name":"CCC Properties",
     "wof:parent_id":85876289,
     "wof:placetype":"venue",

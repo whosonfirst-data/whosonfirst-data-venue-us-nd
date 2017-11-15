@@ -2,6 +2,10 @@
   "id": 873804261,
   "type": "Feature",
   "properties": {
+    "addr:full":"4453 Main Ave Fargo ND 58103",
+    "addr:housenumber":"4453",
+    "addr:postcode":"58103",
+    "addr:street":"Main Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":873804261,
-    "wof:lastmodified":1466665488,
+    "wof:lastmodified":1472633731,
     "wof:name":"Enterprise Rent-A-Car",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873596653,
   "type": "Feature",
   "properties": {
+    "addr:full":"1102 43rd St S Fargo ND 58103",
+    "addr:housenumber":"1102",
+    "addr:postcode":"58103",
+    "addr:street":"43Rd St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.853412,46.863921,-96.853412,46.863921",
     "geom:latitude":46.863921,
     "geom:longitude":-96.853412,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1102 43rd St S",
     "sg:city":"Fargo",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082073,
         85688525
     ],
+    "wof:brand_id":1125156437,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LIlAKBsgKClqjG0sN9Xbz_46.863921_-96.853412@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464294939,
-    "wof:geomhash":"f6891a99f2a1fe26b7491425c40ad169",
+    "wof:geomhash":"2bbbe321f47b2d4a3f8d899d62ec9e9d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873596653,
-    "wof:lastmodified":1466664219,
+    "wof:lastmodified":1510696865,
     "wof:name":"Navy Recruiting Station",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

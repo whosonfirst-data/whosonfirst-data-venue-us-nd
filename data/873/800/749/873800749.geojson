@@ -2,6 +2,10 @@
   "id": 873800749,
   "type": "Feature",
   "properties": {
+    "addr:full":"1349 Elm Cir N Fargo ND 58102",
+    "addr:housenumber":"1349",
+    "addr:postcode":"58102",
+    "addr:street":"Elm Cir N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873800749,
-    "wof:lastmodified":1466665563,
+    "wof:lastmodified":1472633737,
     "wof:name":"David Dr & Irene Clardy",
     "wof:parent_id":420534483,
     "wof:placetype":"venue",

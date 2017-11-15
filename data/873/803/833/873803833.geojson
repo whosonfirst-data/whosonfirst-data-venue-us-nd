@@ -2,6 +2,10 @@
   "id": 873803833,
   "type": "Feature",
   "properties": {
+    "addr:full":"3523 Main Ave Fargo ND 58103",
+    "addr:housenumber":"3523",
+    "addr:postcode":"58103",
+    "addr:street":"Main Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":873803833,
-    "wof:lastmodified":1466665570,
+    "wof:lastmodified":1472633738,
     "wof:name":"Dave's I-29 Tire and Service Center",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

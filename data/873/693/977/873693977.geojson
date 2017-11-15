@@ -2,14 +2,20 @@
   "id": 873693977,
   "type": "Feature",
   "properties": {
+    "addr:full":"4637 16th Ave N Fargo ND 58102",
+    "addr:housenumber":"4637",
+    "addr:postcode":"58102",
+    "addr:street":"16Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.855335,46.899352,-96.855335,46.899352",
     "geom:latitude":46.899352,
     "geom:longitude":-96.855335,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4637 16th Ave N",
     "sg:city":"Fargo",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102082073,
         85688525
     ],
+    "wof:brand_id":1125154811,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22a6ENnMOi4Hi7Tqdnzs4J_46.899352_-96.855335@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464296338,
-    "wof:geomhash":"b3e8797c4290a563226b6ae5f551b81a",
+    "wof:geomhash":"44251361e11deac6935d1b55fd78d36b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":873693977,
-    "wof:lastmodified":1466664769,
+    "wof:lastmodified":1510695894,
     "wof:name":"Smurfit-Stone Container Corp",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

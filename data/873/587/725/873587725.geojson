@@ -2,6 +2,10 @@
   "id": 873587725,
   "type": "Feature",
   "properties": {
+    "addr:full":"2149 N 44th St Grand Forks ND 58203",
+    "addr:housenumber":"2149",
+    "addr:postcode":"58203",
+    "addr:street":"N 44Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":873587725,
-    "wof:lastmodified":1466664172,
+    "wof:lastmodified":1472633609,
     "wof:name":"Dempsey Truck Svc",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

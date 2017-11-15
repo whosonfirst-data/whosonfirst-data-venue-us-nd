@@ -2,6 +2,10 @@
   "id": 873588653,
   "type": "Feature",
   "properties": {
+    "addr:full":"1706 11th Ave S Fargo ND 58103",
+    "addr:housenumber":"1706",
+    "addr:postcode":"58103",
+    "addr:street":"11Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873588653,
-    "wof:lastmodified":1466664176,
+    "wof:lastmodified":1472633609,
     "wof:name":"Fargo Babe Ruth Baseball",
     "wof:parent_id":85877331,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873696351,
   "type": "Feature",
   "properties": {
+    "addr:full":"2301 University Dr Bismarck ND 58504",
+    "addr:housenumber":"2301",
+    "addr:postcode":"58504",
+    "addr:street":"University Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873696351,
-    "wof:lastmodified":1466664752,
+    "wof:lastmodified":1472633668,
     "wof:name":"Standard Parking",
     "wof:parent_id":85876285,
     "wof:placetype":"venue",

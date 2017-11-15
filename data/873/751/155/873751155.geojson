@@ -2,14 +2,20 @@
   "id": 873751155,
   "type": "Feature",
   "properties": {
+    "addr:full":"1524 S Broadway St Minot ND 58701",
+    "addr:housenumber":"1524",
+    "addr:postcode":"58701",
+    "addr:street":"S Broadway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.296082,48.219664,-101.296082,48.219664",
     "geom:latitude":48.219664,
     "geom:longitude":-101.296082,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1524 S Broadway St",
     "sg:city":"Minot",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082117,
         85878937
     ],
+    "wof:brand_id":420575923,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2A2A4HhDOZzlCDgJ3s3EAH_48.219664_-101.296082@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464297090,
-    "wof:geomhash":"001c79f01d31c1b306b9ffc243357af4",
+    "wof:geomhash":"7199bd2b29cafe62998407c95b12c54c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873751155,
-    "wof:lastmodified":1466665107,
+    "wof:lastmodified":1510602880,
     "wof:name":"Fancy Nails",
     "wof:parent_id":85878937,
     "wof:placetype":"venue",

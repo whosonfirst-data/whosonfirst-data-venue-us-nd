@@ -2,6 +2,10 @@
   "id": 873799801,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 1st Ave N Hngr 12 Kindred ND 58051",
+    "addr:housenumber":"111;12",
+    "addr:postcode":"58051",
+    "addr:street":"1St Ave N Hngr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":873799801,
-    "wof:lastmodified":1466665504,
+    "wof:lastmodified":1472633736,
     "wof:name":"Kindred Aircraft Maintenance",
     "wof:parent_id":85877375,
     "wof:placetype":"venue",

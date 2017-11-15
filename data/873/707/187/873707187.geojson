@@ -2,6 +2,10 @@
   "id": 873707187,
   "type": "Feature",
   "properties": {
+    "addr:full":"3301 101st St NW Burlington ND 58722",
+    "addr:housenumber":"3301",
+    "addr:postcode":"58722",
+    "addr:street":"101St St Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":873707187,
-    "wof:lastmodified":1466664819,
+    "wof:lastmodified":1472633669,
     "wof:name":"Burlington Self-Storage",
     "wof:parent_id":85878935,
     "wof:placetype":"venue",

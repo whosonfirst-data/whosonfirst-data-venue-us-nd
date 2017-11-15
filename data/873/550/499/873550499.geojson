@@ -2,6 +2,10 @@
   "id": 873550499,
   "type": "Feature",
   "properties": {
+    "addr:full":"214 Main St Northwood ND 58267",
+    "addr:housenumber":"214",
+    "addr:postcode":"58267",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873550499,
-    "wof:lastmodified":1466663970,
+    "wof:lastmodified":1472633594,
     "wof:name":"Northwood Plumbing & Heating",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

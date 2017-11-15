@@ -2,6 +2,10 @@
   "id": 873803037,
   "type": "Feature",
   "properties": {
+    "addr:full":"1201 Page Dr S Fargo ND 58103",
+    "addr:housenumber":"1201",
+    "addr:postcode":"58103",
+    "addr:street":"Page Dr S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873803037,
-    "wof:lastmodified":1466665478,
+    "wof:lastmodified":1472633725,
     "wof:name":"Homewood Suites Corpus Christi",
     "wof:parent_id":85877373,
     "wof:placetype":"venue",

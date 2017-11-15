@@ -2,6 +2,10 @@
   "id": 873539997,
   "type": "Feature",
   "properties": {
+    "addr:full":"2400 32nd Ave Fargo ND 58103",
+    "addr:housenumber":"2400",
+    "addr:postcode":"58103",
+    "addr:street":"32Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873539997,
-    "wof:lastmodified":1466663965,
+    "wof:lastmodified":1472633603,
     "wof:name":"Meritcare Breast Health Svc",
     "wof:parent_id":420534467,
     "wof:placetype":"venue",

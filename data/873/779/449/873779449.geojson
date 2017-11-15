@@ -2,14 +2,20 @@
   "id": 873779449,
   "type": "Feature",
   "properties": {
+    "addr:full":"1684 Capitol Way Bismarck ND 58501",
+    "addr:housenumber":"1684",
+    "addr:postcode":"58501",
+    "addr:street":"Capitol Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.766209,46.829575,-100.766209,46.829575",
     "geom:latitude":46.829575,
     "geom:longitude":-100.766209,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1684 Capitol Way",
     "sg:city":"Bismarck",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102082107,
         85876285
     ],
+    "wof:brand_id":1125157737,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tSDHQgEooo7f7f6dJFQdk_46.829575_-100.766209@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464297482,
-    "wof:geomhash":"5b189f1c9aeee0a9610907b5959c5938",
+    "wof:geomhash":"fd7554b2c8aa84321e98f94100629a44",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873779449,
-    "wof:lastmodified":1466665325,
+    "wof:lastmodified":1510604912,
     "wof:name":"US Veterans Affairs Dept",
     "wof:parent_id":85876285,
     "wof:placetype":"venue",

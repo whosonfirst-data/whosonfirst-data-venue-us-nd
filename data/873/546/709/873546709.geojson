@@ -2,6 +2,10 @@
   "id": 873546709,
   "type": "Feature",
   "properties": {
+    "addr:full":"3333 E Broadway Ave Bismarck ND 58501",
+    "addr:housenumber":"3333",
+    "addr:postcode":"58501",
+    "addr:street":"E Broadway Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":873546709,
-    "wof:lastmodified":1466663950,
+    "wof:lastmodified":1472633594,
     "wof:name":"EMD Group Inc",
     "wof:parent_id":85876285,
     "wof:placetype":"venue",

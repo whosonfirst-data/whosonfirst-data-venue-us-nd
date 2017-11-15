@@ -2,14 +2,20 @@
   "id": 873684787,
   "type": "Feature",
   "properties": {
+    "addr:full":"815 N 20th St Grand Forks ND 58203",
+    "addr:housenumber":"815",
+    "addr:postcode":"58203",
+    "addr:street":"N 20Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.05532,47.928149,-97.05532,47.928149",
     "geom:latitude":47.928149,
     "geom:longitude":-97.05532,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"815 N 20th St",
     "sg:city":"Grand Forks",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081493,
         85808891
     ],
+    "wof:brand_id":1125150717,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Dbf4ygOoARySGVSMPoij5_47.928149_-97.055320@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464296132,
-    "wof:geomhash":"dfec82d3b4cb01369c885b7dc867abf1",
+    "wof:geomhash":"c3723b1513a43e80b52c22634f7acbd0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873684787,
-    "wof:lastmodified":1466664722,
+    "wof:lastmodified":1510698925,
     "wof:name":"Redeemer Lutheran Church",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

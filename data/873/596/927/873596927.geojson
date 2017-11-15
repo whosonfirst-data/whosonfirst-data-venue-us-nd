@@ -2,6 +2,10 @@
   "id": 873596927,
   "type": "Feature",
   "properties": {
+    "addr:full":"3010 N Washington St Grand Forks ND 58203",
+    "addr:housenumber":"3010",
+    "addr:postcode":"58203",
+    "addr:street":"N Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873596927,
-    "wof:lastmodified":1466664228,
+    "wof:lastmodified":1472633623,
     "wof:name":"Grand Frks Desl Injections Svc",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

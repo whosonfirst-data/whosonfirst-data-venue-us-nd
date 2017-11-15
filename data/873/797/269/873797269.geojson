@@ -2,6 +2,10 @@
   "id": 873797269,
   "type": "Feature",
   "properties": {
+    "addr:full":"2535 23rd Ave S Fargo ND 58103",
+    "addr:housenumber":"2535",
+    "addr:postcode":"58103",
+    "addr:street":"23Rd Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873797269,
-    "wof:lastmodified":1466665445,
+    "wof:lastmodified":1472633729,
     "wof:name":"Ruby Tuesdays",
     "wof:parent_id":420534475,
     "wof:placetype":"venue",

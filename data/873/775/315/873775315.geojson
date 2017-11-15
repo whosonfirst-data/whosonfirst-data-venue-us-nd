@@ -2,14 +2,20 @@
   "id": 873775315,
   "type": "Feature",
   "properties": {
+    "addr:full":"2925 32nd Ave S Grand Forks ND 58201",
+    "addr:housenumber":"2925",
+    "addr:postcode":"58201",
+    "addr:street":"32Nd Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.071221,47.889378,-97.071221,47.889378",
     "geom:latitude":47.889378,
     "geom:longitude":-97.071221,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2925 32nd Ave S",
     "sg:city":"Grand Forks",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081493,
         85808891
     ],
+    "wof:brand_id":420575315,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7f2KpfQ3acsAeyWAHDsMWG_47.889378_-97.071221@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464297429,
-    "wof:geomhash":"aca1dbb7bbae0596e9b3f952cab83768",
+    "wof:geomhash":"469f459af0d155842b9418ce594b1256",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":873775315,
-    "wof:lastmodified":1466665293,
+    "wof:lastmodified":1510602476,
     "wof:name":"T J Maxx",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

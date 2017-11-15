@@ -2,6 +2,10 @@
   "id": 873790229,
   "type": "Feature",
   "properties": {
+    "addr:full":"5001 7th Ave N Fargo ND 58102",
+    "addr:housenumber":"5001",
+    "addr:postcode":"58102",
+    "addr:street":"7Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":873790229,
-    "wof:lastmodified":1466665383,
+    "wof:lastmodified":1472633726,
     "wof:name":"A & R Roofing Co Inc",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

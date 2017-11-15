@@ -2,6 +2,10 @@
   "id": 873791123,
   "type": "Feature",
   "properties": {
+    "addr:full":"315 S 22nd St Bismarck ND 58504",
+    "addr:housenumber":"315",
+    "addr:postcode":"58504",
+    "addr:street":"S 22Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":873791123,
-    "wof:lastmodified":1466665394,
+    "wof:lastmodified":1472633722,
     "wof:name":"Tech Systems Inc",
     "wof:parent_id":85876285,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873723165,
   "type": "Feature",
   "properties": {
+    "addr:full":"1901 22nd Ave SW Minot ND 58701",
+    "addr:housenumber":"1901",
+    "addr:postcode":"58701",
+    "addr:street":"22Nd Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.322507,48.210425,-101.322507,48.210425",
     "geom:latitude":48.210425,
     "geom:longitude":-101.322507,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1901 22nd Ave SW",
     "sg:city":"Minot",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102082117,
         85878937
     ],
+    "wof:brand_id":1125158677,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uY0YzIOoonks9Sl5Yx5pj_48.210425_-101.322507@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464296689,
-    "wof:geomhash":"39d6105c8791252440734faa06520528",
+    "wof:geomhash":"e66a0f57deb6ebdbfba08a60748c82c7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":873723165,
-    "wof:lastmodified":1466664920,
+    "wof:lastmodified":1510698762,
     "wof:name":"Wal-Mart Vision Ctr",
     "wof:parent_id":85878937,
     "wof:placetype":"venue",

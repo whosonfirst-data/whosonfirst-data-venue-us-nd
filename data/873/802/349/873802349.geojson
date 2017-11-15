@@ -2,14 +2,20 @@
   "id": 873802349,
   "type": "Feature",
   "properties": {
+    "addr:full":"1895 45th St S Fargo ND 58103",
+    "addr:housenumber":"1895",
+    "addr:postcode":"58103",
+    "addr:street":"45Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.862083,46.851015,-96.862083,46.851015",
     "geom:latitude":46.851015,
     "geom:longitude":-96.862083,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1895 45th St S",
     "sg:city":"Fargo",
     "sg:classifiers":[
@@ -46,13 +52,14 @@
         102082073,
         85688525
     ],
+    "wof:brand_id":420573949,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11rLa2b6EMI5opDI2XzNfH_46.851015_-96.862083@1303262840"
     },
     "wof:country":"US",
     "wof:created":1464297802,
-    "wof:geomhash":"8e086aff4eef7ef0bc91994b65043958",
+    "wof:geomhash":"828eaf823a736975e869956c2af7d027",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,7 +73,7 @@
         }
     ],
     "wof:id":873802349,
-    "wof:lastmodified":1466665488,
+    "wof:lastmodified":1510603285,
     "wof:name":"Verizon Wireless",
     "wof:parent_id":85877371,
     "wof:placetype":"venue",

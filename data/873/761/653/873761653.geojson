@@ -2,14 +2,20 @@
   "id": 873761653,
   "type": "Feature",
   "properties": {
+    "addr:full":"1725 32nd Ave S Grand Forks ND 58201",
+    "addr:housenumber":"1725",
+    "addr:postcode":"58201",
+    "addr:street":"32Nd Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.055766,47.889362,-97.055766,47.889362",
     "geom:latitude":47.889362,
     "geom:longitude":-97.055766,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1725 32nd Ave S",
     "sg:city":"Grand Forks",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081493,
         85808891
     ],
+    "wof:brand_id":1125156471,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BeSdLoBJC099dXvSw2HHV_47.889362_-97.055766@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464297231,
-    "wof:geomhash":"cca646dad1bd596d7efe2fe39ce459fc",
+    "wof:geomhash":"35b7f2e901d72e4b603c1347398b8c02",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873761653,
-    "wof:lastmodified":1466665227,
+    "wof:lastmodified":1510696795,
     "wof:name":"Rex TV & Appliances",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

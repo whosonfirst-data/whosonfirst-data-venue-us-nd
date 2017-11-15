@@ -2,6 +2,10 @@
   "id": 873805009,
   "type": "Feature",
   "properties": {
+    "addr:full":"3611 38th St S Fargo ND 58104",
+    "addr:housenumber":"3611",
+    "addr:postcode":"58104",
+    "addr:street":"38Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":873805009,
-    "wof:lastmodified":1466665561,
+    "wof:lastmodified":1472633726,
     "wof:name":"Peterbilt Of Fargo, Inc.",
     "wof:parent_id":85877355,
     "wof:placetype":"venue",

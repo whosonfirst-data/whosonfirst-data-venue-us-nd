@@ -2,6 +2,10 @@
   "id": 873673099,
   "type": "Feature",
   "properties": {
+    "addr:full":"3110 Main Ave Fargo ND 58103",
+    "addr:housenumber":"3110",
+    "addr:postcode":"58103",
+    "addr:street":"Main Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873673099,
-    "wof:lastmodified":1466664594,
+    "wof:lastmodified":1472633639,
     "wof:name":"Archery Center Lake",
     "wof:parent_id":85877347,
     "wof:placetype":"venue",

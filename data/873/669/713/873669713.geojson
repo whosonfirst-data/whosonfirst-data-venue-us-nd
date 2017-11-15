@@ -2,6 +2,10 @@
   "id": 873669713,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 University Ave W Minot ND 58703",
+    "addr:housenumber":"500",
+    "addr:postcode":"58703",
+    "addr:street":"University Ave W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873669713,
-    "wof:lastmodified":1466664620,
+    "wof:lastmodified":1472633644,
     "wof:name":"Cyril Moore Science Ctr Museum",
     "wof:parent_id":85878937,
     "wof:placetype":"venue",

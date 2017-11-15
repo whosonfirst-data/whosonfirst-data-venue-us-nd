@@ -2,6 +2,10 @@
   "id": 873658019,
   "type": "Feature",
   "properties": {
+    "addr:full":"1003 N 23rd St Grand Forks ND 58203",
+    "addr:housenumber":"1003",
+    "addr:postcode":"58203",
+    "addr:street":"N 23Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":873658019,
-    "wof:lastmodified":1466664507,
+    "wof:lastmodified":1472633643,
     "wof:name":"Memorial Park Cemetery",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

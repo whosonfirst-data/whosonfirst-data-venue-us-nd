@@ -2,14 +2,20 @@
   "id": 873574373,
   "type": "Feature",
   "properties": {
+    "addr:full":"1505 E Main Ave Bismarck ND 58501",
+    "addr:housenumber":"1505",
+    "addr:postcode":"58501",
+    "addr:street":"E Main Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.770726,46.805188,-100.770726,46.805188",
     "geom:latitude":46.805188,
     "geom:longitude":-100.770726,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1505 E Main Ave",
     "sg:city":"Bismarck",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082107,
         85876285
     ],
+    "wof:brand_id":1125153781,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6y7jtiG2E9x1aLfn0YmYhl_46.805188_-100.770726@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464294656,
-    "wof:geomhash":"e65fe51e78b465a6ba22a349311ec6cd",
+    "wof:geomhash":"fe8019898ea63e5fa0b7feb35d5b181b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873574373,
-    "wof:lastmodified":1466664080,
+    "wof:lastmodified":1510696827,
     "wof:name":"Interstate Brands Corp",
     "wof:parent_id":85876285,
     "wof:placetype":"venue",

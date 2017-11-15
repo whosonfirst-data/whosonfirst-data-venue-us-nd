@@ -2,6 +2,10 @@
   "id": 873614119,
   "type": "Feature",
   "properties": {
+    "addr:full":"402 Parkway Dr Burlington ND 58722",
+    "addr:housenumber":"402",
+    "addr:postcode":"58722",
+    "addr:street":"Parkway Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":873614119,
-    "wof:lastmodified":1466664271,
+    "wof:lastmodified":1472633614,
     "wof:name":"Burlington Electric",
     "wof:parent_id":85878935,
     "wof:placetype":"venue",

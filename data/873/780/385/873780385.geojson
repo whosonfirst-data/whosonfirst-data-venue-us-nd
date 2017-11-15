@@ -2,6 +2,10 @@
   "id": 873780385,
   "type": "Feature",
   "properties": {
+    "addr:full":"4702 River Oaks Cir Grand Forks ND 58201",
+    "addr:housenumber":"4702",
+    "addr:postcode":"58201",
+    "addr:street":"River Oaks Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873780385,
-    "wof:lastmodified":1466665331,
+    "wof:lastmodified":1472633720,
     "wof:name":"Johnson Transport",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

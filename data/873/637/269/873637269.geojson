@@ -2,6 +2,10 @@
   "id": 873637269,
   "type": "Feature",
   "properties": {
+    "addr:full":"2417 Glen Cir Grand Forks ND 58201",
+    "addr:housenumber":"2417",
+    "addr:postcode":"58201",
+    "addr:street":"Glen Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873637269,
-    "wof:lastmodified":1466664400,
+    "wof:lastmodified":1472633625,
     "wof:name":"Global Type",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

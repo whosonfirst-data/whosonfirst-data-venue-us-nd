@@ -2,6 +2,10 @@
   "id": 873804223,
   "type": "Feature",
   "properties": {
+    "addr:full":"3401 15th Ave S Apt 306 Fargo ND 58103",
+    "addr:housenumber":"3401;306",
+    "addr:postcode":"58103",
+    "addr:street":"15Th Ave S Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873804223,
-    "wof:lastmodified":1466665485,
+    "wof:lastmodified":1472633729,
     "wof:name":"Contempary Electric",
     "wof:parent_id":85877373,
     "wof:placetype":"venue",

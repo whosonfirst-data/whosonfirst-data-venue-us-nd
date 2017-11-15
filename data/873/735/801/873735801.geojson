@@ -2,14 +2,20 @@
   "id": 873735801,
   "type": "Feature",
   "properties": {
+    "addr:full":"3450 S Columbia Rd Grand Forks ND 58201",
+    "addr:housenumber":"3450",
+    "addr:postcode":"58201",
+    "addr:street":"S Columbia Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.06682,47.886912,-97.06682,47.886912",
     "geom:latitude":47.886912,
     "geom:longitude":-97.06682,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3450 S Columbia Rd",
     "sg:city":"Grand Forks",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102081493,
         85808891
     ],
+    "wof:brand_id":1125152495,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4U8lWxJxc2aa2XMzUMHLgo_47.886912_-97.066820@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464296867,
-    "wof:geomhash":"7af2681beecddfcfac0fe6458d11cd14",
+    "wof:geomhash":"9add8a1eb0f349680c23180c5d413709",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":873735801,
-    "wof:lastmodified":1466665057,
+    "wof:lastmodified":1510613138,
     "wof:name":"Team Tires Plus",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

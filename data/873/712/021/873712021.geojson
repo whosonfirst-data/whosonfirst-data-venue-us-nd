@@ -2,14 +2,20 @@
   "id": 873712021,
   "type": "Feature",
   "properties": {
+    "addr:full":"731 Main Ave E West Fargo ND 58078",
+    "addr:housenumber":"731",
+    "addr:postcode":"58078",
+    "addr:street":"Main Ave E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.887033,46.87659,-96.887033,46.87659",
     "geom:latitude":46.87659,
     "geom:longitude":-96.887033,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"731 Main Ave E",
     "sg:city":"West Fargo",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102082073,
         85688525
     ],
+    "wof:brand_id":1125155685,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GVvvKjytaPMGWxUzacrDy_46.876590_-96.887033@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464296545,
-    "wof:geomhash":"3d0d7073f94e563f01c5a582d8c7c523",
+    "wof:geomhash":"748642b93538dd18600f26760d689971",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":873712021,
-    "wof:lastmodified":1466664829,
+    "wof:lastmodified":1510699658,
     "wof:name":"Sunset Motel",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

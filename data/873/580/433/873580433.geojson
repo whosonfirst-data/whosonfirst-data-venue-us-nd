@@ -2,6 +2,10 @@
   "id": 873580433,
   "type": "Feature",
   "properties": {
+    "addr:full":"1013 N 5th St Grand Forks ND 58203",
+    "addr:housenumber":"1013",
+    "addr:postcode":"58203",
+    "addr:street":"N 5Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":873580433,
-    "wof:lastmodified":1466665551,
+    "wof:lastmodified":1472633604,
     "wof:name":"Northern Plains Grain Inspctn",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

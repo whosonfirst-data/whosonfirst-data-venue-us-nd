@@ -2,6 +2,10 @@
   "id": 873762025,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 Co Rd 10 West Fargo ND 58078",
+    "addr:housenumber":"601;10",
+    "addr:postcode":"58078",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873762025,
-    "wof:lastmodified":1466665176,
+    "wof:lastmodified":1472633702,
     "wof:name":"Probikeorg",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

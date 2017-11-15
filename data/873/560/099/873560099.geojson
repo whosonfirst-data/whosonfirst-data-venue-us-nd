@@ -2,14 +2,20 @@
   "id": 873560099,
   "type": "Feature",
   "properties": {
+    "addr:full":"12000 353rd St SE Moffit ND 58560",
+    "addr:housenumber":"12000",
+    "addr:postcode":"58560",
+    "addr:street":"353Rd St Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.227906,46.669654,-100.227906,46.669654",
     "geom:latitude":46.669654,
     "geom:longitude":-100.227906,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12000 353rd St SE",
     "sg:city":"Moffit",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082107,
         85876285
     ],
+    "wof:brand_id":1125152177,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZRnVeLdx70wondLSbzNKx_46.669654_-100.227906@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464294501,
-    "wof:geomhash":"6468dc8d6e4f0282fc8613296e81f86a",
+    "wof:geomhash":"8452928f08a95320aac2aebb284359e9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873560099,
-    "wof:lastmodified":1466663985,
+    "wof:lastmodified":1510699944,
     "wof:name":"US Interior Dept",
     "wof:parent_id":85876285,
     "wof:placetype":"venue",

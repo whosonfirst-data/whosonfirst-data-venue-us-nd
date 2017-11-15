@@ -2,6 +2,10 @@
   "id": 873540085,
   "type": "Feature",
   "properties": {
+    "addr:full":"1515 15th Ave N Fargo ND 58102",
+    "addr:housenumber":"1515",
+    "addr:postcode":"58102",
+    "addr:street":"15Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873540085,
-    "wof:lastmodified":1466663907,
+    "wof:lastmodified":1472633585,
     "wof:name":"Fargo-Moorhead Red Hawks",
     "wof:parent_id":85877363,
     "wof:placetype":"venue",

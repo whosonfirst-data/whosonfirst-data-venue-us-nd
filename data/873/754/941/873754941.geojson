@@ -2,6 +2,10 @@
   "id": 873754941,
   "type": "Feature",
   "properties": {
+    "addr:full":"1111 Westrac Dr Fargo ND 58103",
+    "addr:housenumber":"1111",
+    "addr:postcode":"58103",
+    "addr:street":"Westrac Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":873754941,
-    "wof:lastmodified":1466665200,
+    "wof:lastmodified":1472633705,
     "wof:name":"Wenck Associates",
     "wof:parent_id":85877373,
     "wof:placetype":"venue",

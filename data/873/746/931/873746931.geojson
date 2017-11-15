@@ -2,6 +2,10 @@
   "id": 873746931,
   "type": "Feature",
   "properties": {
+    "addr:full":"8040 Co Rd 15 W Minot ND 58703",
+    "addr:housenumber":"8040;15",
+    "addr:postcode":"58703",
+    "addr:street":"Co Rd;W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":873746931,
-    "wof:lastmodified":1466665140,
+    "wof:lastmodified":1472633704,
     "wof:name":"Sauer Brothers",
     "wof:parent_id":85878935,
     "wof:placetype":"venue",

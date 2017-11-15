@@ -2,6 +2,10 @@
   "id": 873803433,
   "type": "Feature",
   "properties": {
+    "addr:full":"401 40th St S Fargo ND 58103",
+    "addr:housenumber":"401",
+    "addr:postcode":"58103",
+    "addr:street":"40Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":873803433,
-    "wof:lastmodified":1466665505,
+    "wof:lastmodified":1472633736,
     "wof:name":"Corwin Collision Center",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873573279,
   "type": "Feature",
   "properties": {
+    "addr:full":"2385 Vermont Ave Bismarck ND 58504",
+    "addr:housenumber":"2385",
+    "addr:postcode":"58504",
+    "addr:street":"Vermont Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.757176,46.797152,-100.757176,46.797152",
     "geom:latitude":46.797152,
     "geom:longitude":-100.757176,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2385 Vermont Ave",
     "sg:city":"Bismarck",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102082107,
         85876285
     ],
+    "wof:brand_id":1125159913,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57mYPFAd86VTLART9poSIC_46.797152_-100.757176@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464294644,
-    "wof:geomhash":"a6ce9c1b6120f5a0ece6c4fccea744a7",
+    "wof:geomhash":"894fa64aa2ffc869255902949f08d4d7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873573279,
-    "wof:lastmodified":1466664066,
+    "wof:lastmodified":1510693828,
     "wof:name":"Kinetic Concepts Inc",
     "wof:parent_id":85876285,
     "wof:placetype":"venue",

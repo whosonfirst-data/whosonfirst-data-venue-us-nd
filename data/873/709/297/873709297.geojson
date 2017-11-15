@@ -2,14 +2,20 @@
   "id": 873709297,
   "type": "Feature",
   "properties": {
+    "addr:full":"9301 Sibley Dr Bismarck ND 58504",
+    "addr:housenumber":"9301",
+    "addr:postcode":"58504",
+    "addr:street":"Sibley Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.782467,46.714635,-100.782467,46.714635",
     "geom:latitude":46.714635,
     "geom:longitude":-100.782467,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9301 Sibley Dr",
     "sg:city":"Bismarck",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102082107,
         85876289
     ],
+    "wof:brand_id":1125152735,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6saXnZZOFBZD4THBToFRtP_46.714635_-100.782467@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464296511,
-    "wof:geomhash":"f8f3704b1350d6aaf4fea72911a83dcf",
+    "wof:geomhash":"8289bfd8b7a39b438c4cc450ee1c6226",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873709297,
-    "wof:lastmodified":1466664833,
+    "wof:lastmodified":1510696652,
     "wof:name":"Property Damage Appraisers Inc",
     "wof:parent_id":85876289,
     "wof:placetype":"venue",

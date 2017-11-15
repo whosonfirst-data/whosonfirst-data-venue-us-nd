@@ -2,6 +2,10 @@
   "id": 873543481,
   "type": "Feature",
   "properties": {
+    "addr:full":"4225 Main Ave Fargo ND 58103",
+    "addr:housenumber":"4225",
+    "addr:postcode":"58103",
+    "addr:street":"Main Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873543481,
-    "wof:lastmodified":1466663936,
+    "wof:lastmodified":1472633588,
     "wof:name":"Wallwork Truck Ctr Wallwork",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873552805,
   "type": "Feature",
   "properties": {
+    "addr:full":"1405 E Gateway Cir Fargo ND 58103",
+    "addr:housenumber":"1405",
+    "addr:postcode":"58103",
+    "addr:street":"E Gateway Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873552805,
-    "wof:lastmodified":1466663994,
+    "wof:lastmodified":1472633595,
     "wof:name":"Harry Bosch",
     "wof:parent_id":85877373,
     "wof:placetype":"venue",

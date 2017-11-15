@@ -2,14 +2,20 @@
   "id": 873778627,
   "type": "Feature",
   "properties": {
+    "addr:full":"1801 45th St SW Fargo ND 58103",
+    "addr:housenumber":"1801",
+    "addr:postcode":"58103",
+    "addr:street":"45Th St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.862048,46.852633,-96.862048,46.852633",
     "geom:latitude":46.852633,
     "geom:longitude":-96.862048,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1801 45th St SW",
     "sg:city":"Fargo",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082073,
         85688525
     ],
+    "wof:brand_id":1125155751,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5c3Rx9RZ9hi1z6mRyEgETj_46.852633_-96.862048@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464297471,
-    "wof:geomhash":"c8317898c6470d91333a370b00062827",
+    "wof:geomhash":"fd45d391611e2692d2cc6a8956a077dc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873778627,
-    "wof:lastmodified":1466665330,
+    "wof:lastmodified":1510613242,
     "wof:name":"Fantasy Nails",
     "wof:parent_id":85877371,
     "wof:placetype":"venue",

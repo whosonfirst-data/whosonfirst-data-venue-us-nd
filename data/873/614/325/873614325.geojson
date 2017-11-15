@@ -2,6 +2,10 @@
   "id": 873614325,
   "type": "Feature",
   "properties": {
+    "addr:full":"40004 State Hwy 36 Wing ND 58494",
+    "addr:housenumber":"40004",
+    "addr:postcode":"58494",
+    "addr:street":"State Hwy 36 Wing",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":873614325,
-    "wof:lastmodified":1466664284,
+    "wof:lastmodified":1472633614,
     "wof:name":"Arena Welding & Mfg",
     "wof:parent_id":85876285,
     "wof:placetype":"venue",

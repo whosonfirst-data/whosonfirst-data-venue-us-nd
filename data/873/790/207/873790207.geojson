@@ -2,6 +2,10 @@
   "id": 873790207,
   "type": "Feature",
   "properties": {
+    "addr:full":"1212 24th Ave S Fargo ND 58103",
+    "addr:housenumber":"1212",
+    "addr:postcode":"58103",
+    "addr:street":"24Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":873790207,
-    "wof:lastmodified":1466665381,
+    "wof:lastmodified":1472633726,
     "wof:name":"Dakota Monument Co.",
     "wof:parent_id":420534475,
     "wof:placetype":"venue",

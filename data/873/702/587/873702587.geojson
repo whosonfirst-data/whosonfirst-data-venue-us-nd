@@ -2,14 +2,20 @@
   "id": 873702587,
   "type": "Feature",
   "properties": {
+    "addr:full":"4510 13th Ave SW Fargo ND 58103",
+    "addr:housenumber":"4510",
+    "addr:postcode":"58103",
+    "addr:street":"13Th Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.864315,46.861729,-96.864315,46.861729",
     "geom:latitude":46.861729,
     "geom:longitude":-96.864315,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4510 13th Ave SW",
     "sg:city":"Fargo",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082073,
         85688525
     ],
+    "wof:brand_id":420574967,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61ePuWv4IBkNJI0vzd8Id8_46.861729_-96.864315@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464296431,
-    "wof:geomhash":"a4d085fd2172e2995eea4cc73e0944cf",
+    "wof:geomhash":"587419fcd3db9d8c6e0f5e6d4ca911ec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":873702587,
-    "wof:lastmodified":1466664808,
+    "wof:lastmodified":1510604329,
     "wof:name":"Blue Cross & Blue Shield",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

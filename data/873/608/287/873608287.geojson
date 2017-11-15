@@ -2,6 +2,10 @@
   "id": 873608287,
   "type": "Feature",
   "properties": {
+    "addr:full":"3220 13th Ave S Fargo ND 58103",
+    "addr:housenumber":"3220",
+    "addr:postcode":"58103",
+    "addr:street":"13Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873608287,
-    "wof:lastmodified":1466664253,
+    "wof:lastmodified":1472633612,
     "wof:name":"Wells Fargo Financial Accptnc",
     "wof:parent_id":85877373,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873773983,
   "type": "Feature",
   "properties": {
+    "addr:full":"2233 N 44th St Grand Forks ND 58203",
+    "addr:housenumber":"2233",
+    "addr:postcode":"58203",
+    "addr:street":"N 44Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":873773983,
-    "wof:lastmodified":1466665339,
+    "wof:lastmodified":1472633721,
     "wof:name":"Grand Forks Roman Marble",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

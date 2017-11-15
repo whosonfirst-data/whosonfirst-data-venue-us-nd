@@ -2,6 +2,10 @@
   "id": 873681667,
   "type": "Feature",
   "properties": {
+    "addr:full":"306 Pacific Ave Thompson ND 58278",
+    "addr:housenumber":"306",
+    "addr:postcode":"58278",
+    "addr:street":"Pacific Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873681667,
-    "wof:lastmodified":1466664690,
+    "wof:lastmodified":1472633657,
     "wof:name":"Thompson City Auditor",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873804467,
   "type": "Feature",
   "properties": {
+    "addr:full":"1323 23rd St S Ste F Fargo ND 58103",
+    "addr:housenumber":"1323",
+    "addr:postcode":"58103",
+    "addr:street":"23Rd St S Ste F",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873804467,
-    "wof:lastmodified":1466665500,
+    "wof:lastmodified":1472633736,
     "wof:name":"South Cntl Fargo Satellite Off",
     "wof:parent_id":85877331,
     "wof:placetype":"venue",

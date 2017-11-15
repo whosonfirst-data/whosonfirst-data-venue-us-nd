@@ -2,6 +2,10 @@
   "id": 873722121,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 Demers Ave Grand Forks ND 58201",
+    "addr:housenumber":"600",
+    "addr:postcode":"58201",
+    "addr:street":"Demers Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873722121,
-    "wof:lastmodified":1466664909,
+    "wof:lastmodified":1472633678,
     "wof:name":"Johnson Court Reporter Svc",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

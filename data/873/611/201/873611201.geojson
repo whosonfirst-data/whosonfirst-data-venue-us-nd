@@ -2,14 +2,20 @@
   "id": 873611201,
   "type": "Feature",
   "properties": {
+    "addr:full":"1631 Main St S Minot ND 58701",
+    "addr:housenumber":"1631",
+    "addr:postcode":"58701",
+    "addr:street":"Main St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.293228,48.217727,-101.293228,48.217727",
     "geom:latitude":48.217727,
     "geom:longitude":-101.293228,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1631 Main St S",
     "sg:city":"Minot",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082117,
         85878937
     ],
+    "wof:brand_id":1125155989,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UeIUL5h0E7NO54zuIOxWb_48.217727_-101.293228@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464295156,
-    "wof:geomhash":"45f0b65503a87f48008566f4fa90505a",
+    "wof:geomhash":"79fa9cafc48bda0563b9704900a69fb0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873611201,
-    "wof:lastmodified":1466664271,
+    "wof:lastmodified":1510697367,
     "wof:name":"Snap-On Tools Co",
     "wof:parent_id":85878937,
     "wof:placetype":"venue",

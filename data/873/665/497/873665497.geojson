@@ -2,6 +2,10 @@
   "id": 873665497,
   "type": "Feature",
   "properties": {
+    "addr:full":"3309 Fiechtner Dr S Fargo ND 58103",
+    "addr:housenumber":"3309",
+    "addr:postcode":"58103",
+    "addr:street":"Fiechtner Dr S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873665497,
-    "wof:lastmodified":1466664578,
+    "wof:lastmodified":1472633645,
     "wof:name":"Fargo Associations",
     "wof:parent_id":85877373,
     "wof:placetype":"venue",

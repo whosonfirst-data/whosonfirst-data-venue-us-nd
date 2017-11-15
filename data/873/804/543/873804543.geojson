@@ -2,6 +2,10 @@
   "id": 873804543,
   "type": "Feature",
   "properties": {
+    "addr:full":"2345 25th St S Ste B Fargo ND 58103",
+    "addr:housenumber":"2345",
+    "addr:postcode":"58103",
+    "addr:street":"25Th St S Ste B",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873804543,
-    "wof:lastmodified":1466665564,
+    "wof:lastmodified":1472633738,
     "wof:name":"Panjini M Sivanna Md",
     "wof:parent_id":420534475,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873678547,
   "type": "Feature",
   "properties": {
+    "addr:full":"5261 US Hwy 52 Minot ND 58701",
+    "addr:housenumber":"5261",
+    "addr:postcode":"58701",
+    "addr:street":"Us Hwy 52",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":873678547,
-    "wof:lastmodified":1466664665,
+    "wof:lastmodified":1472633656,
     "wof:name":"KOA Campgrounds",
     "wof:parent_id":85878935,
     "wof:placetype":"venue",

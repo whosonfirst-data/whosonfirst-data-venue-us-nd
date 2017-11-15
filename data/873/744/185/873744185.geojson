@@ -2,14 +2,20 @@
   "id": 873744185,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 22nd St SW Minot ND 58701",
+    "addr:housenumber":"5",
+    "addr:postcode":"58701",
+    "addr:street":"22Nd St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.327524,48.235227,-101.327524,48.235227",
     "geom:latitude":48.235227,
     "geom:longitude":-101.327524,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5 22nd St SW",
     "sg:city":"Minot",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082117,
         85878935
     ],
+    "wof:brand_id":420575335,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65yrszzzeMPvmV2NTZsKQi_48.235227_-101.327524@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464296997,
-    "wof:geomhash":"1b74f785114c32a935902828de093158",
+    "wof:geomhash":"386a4c21d5623333f39a165a5ad6356e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":873744185,
-    "wof:lastmodified":1466665075,
+    "wof:lastmodified":1510602460,
     "wof:name":"Roto-Rooter Plumbing & Drain",
     "wof:parent_id":85878935,
     "wof:placetype":"venue",

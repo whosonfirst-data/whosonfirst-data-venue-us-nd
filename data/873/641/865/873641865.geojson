@@ -2,14 +2,20 @@
   "id": 873641865,
   "type": "Feature",
   "properties": {
+    "addr:full":"1424 43rd St N Fargo ND 58102",
+    "addr:housenumber":"1424",
+    "addr:postcode":"58102",
+    "addr:street":"43Rd St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.856277,46.895413,-96.856277,46.895413",
     "geom:latitude":46.895413,
     "geom:longitude":-96.856277,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1424 43rd St N",
     "sg:city":"Fargo",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102082073,
         85688525
     ],
+    "wof:brand_id":1125153323,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1alegDLdI5CFpqVIef2nuP_46.895413_-96.856277@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464295496,
-    "wof:geomhash":"54711bc13ecbc38a4a6ffd9e5df4b7a3",
+    "wof:geomhash":"660456c6df087123af6e3de171cdf86a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":873641865,
-    "wof:lastmodified":1466664458,
+    "wof:lastmodified":1510693791,
     "wof:name":"Nabisco",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

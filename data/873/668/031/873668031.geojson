@@ -2,14 +2,20 @@
   "id": 873668031,
   "type": "Feature",
   "properties": {
+    "addr:full":"3651 S Washington St Grand Forks ND 58201",
+    "addr:housenumber":"3651",
+    "addr:postcode":"58201",
+    "addr:street":"S Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.045202,47.884632,-97.045202,47.884632",
     "geom:latitude":47.884632,
     "geom:longitude":-97.045202,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3651 S Washington St",
     "sg:city":"Grand Forks",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081493,
         85808891
     ],
+    "wof:brand_id":1125154635,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bph0YDfSmhhrl2HodRvob_47.884632_-97.045202@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464295780,
-    "wof:geomhash":"26d4125797f51f8df299593fd6e33c61",
+    "wof:geomhash":"4c84c6fe7e77581062242161b6bfc965",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873668031,
-    "wof:lastmodified":1466664568,
+    "wof:lastmodified":1510697729,
     "wof:name":"Easter Seals",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

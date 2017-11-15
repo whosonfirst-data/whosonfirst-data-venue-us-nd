@@ -2,14 +2,20 @@
   "id": 873558589,
   "type": "Feature",
   "properties": {
+    "addr:full":"4325 13th Ave SW Fargo ND 58103",
+    "addr:housenumber":"4325",
+    "addr:postcode":"58103",
+    "addr:street":"13Th Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.85331,46.861813,-96.85331,46.861813",
     "geom:latitude":46.861813,
     "geom:longitude":-96.85331,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4325 13th Ave SW",
     "sg:city":"Fargo",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102082073,
         85688525
     ],
+    "wof:brand_id":1125153005,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jQNFqADSEmhEl8xgrxuHz_46.861813_-96.853310@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464294483,
-    "wof:geomhash":"48f367033416ce3ef43a3b6da9bd761e",
+    "wof:geomhash":"03067b20ca2710ab841d151c238b979e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":873558589,
-    "wof:lastmodified":1466664009,
+    "wof:lastmodified":1510698726,
     "wof:name":"CD Warehouse",
     "wof:parent_id":85877371,
     "wof:placetype":"venue",

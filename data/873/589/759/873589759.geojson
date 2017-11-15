@@ -2,6 +2,10 @@
   "id": 873589759,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 30th Ave N Fargo ND 58102",
+    "addr:housenumber":"501",
+    "addr:postcode":"58102",
+    "addr:street":"30Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873589759,
-    "wof:lastmodified":1466664179,
+    "wof:lastmodified":1472633608,
     "wof:name":"Gaits of Hope",
     "wof:parent_id":85877353,
     "wof:placetype":"venue",

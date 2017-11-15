@@ -2,14 +2,20 @@
   "id": 873664707,
   "type": "Feature",
   "properties": {
+    "addr:full":"3100 13th Ave S Fargo ND 58103",
+    "addr:housenumber":"3100",
+    "addr:postcode":"58103",
+    "addr:street":"13Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.829229,46.861412,-96.829229,46.861412",
     "geom:latitude":46.861412,
     "geom:longitude":-96.829229,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3100 13th Ave S",
     "sg:city":"Fargo",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102082073,
         85688525
     ],
+    "wof:brand_id":420574961,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2coXKmt9cWSeoKLxGrXe8k_46.861412_-96.829229@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464295747,
-    "wof:geomhash":"02199f0960a0fa803c3a1abd06289353",
+    "wof:geomhash":"f2ea13f2c7fac03ccadfc27cbdab6362",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":873664707,
-    "wof:lastmodified":1466664580,
+    "wof:lastmodified":1510604135,
     "wof:name":"Smith Barney",
     "wof:parent_id":85877373,
     "wof:placetype":"venue",

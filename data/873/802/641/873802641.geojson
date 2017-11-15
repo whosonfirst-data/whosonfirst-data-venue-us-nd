@@ -2,6 +2,10 @@
   "id": 873802641,
   "type": "Feature",
   "properties": {
+    "addr:full":"2525 University Dr S Fargo ND 58103",
+    "addr:housenumber":"2525",
+    "addr:postcode":"58103",
+    "addr:street":"University Dr S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":873802641,
-    "wof:lastmodified":1466665566,
+    "wof:lastmodified":1472633737,
     "wof:name":"Starion Financial",
     "wof:parent_id":420534475,
     "wof:placetype":"venue",

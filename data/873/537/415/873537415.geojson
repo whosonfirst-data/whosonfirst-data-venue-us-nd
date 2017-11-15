@@ -2,14 +2,20 @@
   "id": 873537415,
   "type": "Feature",
   "properties": {
+    "addr:full":"3105 S Washington St Grand Forks ND 58201",
+    "addr:housenumber":"3105",
+    "addr:postcode":"58201",
+    "addr:street":"S Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.044695,47.892254,-97.044695,47.892254",
     "geom:latitude":47.892254,
     "geom:longitude":-97.044695,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3105 S Washington St",
     "sg:city":"Grand Forks",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081493,
         85808891
     ],
+    "wof:brand_id":1125150641,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4EUsjwRhJhQWyQm8Un5dcb_47.892254_-97.044695@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464294232,
-    "wof:geomhash":"91c9b10fc5d68e872bc7686c616dbfd1",
+    "wof:geomhash":"4c0381bff1123b6d848b768706347d12",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873537415,
-    "wof:lastmodified":1466665544,
+    "wof:lastmodified":1510613320,
     "wof:name":"Tuffy Auto Svc Ctr",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

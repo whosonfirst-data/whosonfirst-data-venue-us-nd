@@ -2,14 +2,20 @@
   "id": 873624439,
   "type": "Feature",
   "properties": {
+    "addr:full":"121 E Front Ave Bismarck ND 58504",
+    "addr:housenumber":"121",
+    "addr:postcode":"58504",
+    "addr:street":"E Front Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.789422,46.804114,-100.789422,46.804114",
     "geom:latitude":46.804114,
     "geom:longitude":-100.789422,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"121 E Front Ave",
     "sg:city":"Bismarck",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102082107,
         85876289
     ],
+    "wof:brand_id":1125153655,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4H1xXLdGzhMEOGhFpRLzIp_46.804114_-100.789422@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464295304,
-    "wof:geomhash":"d2e90191d79572c4a5a237f481982557",
+    "wof:geomhash":"fe867783102e9b6bd294bc699af13fae",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":873624439,
-    "wof:lastmodified":1466664348,
+    "wof:lastmodified":1510697208,
     "wof:name":"Yellow Book USA",
     "wof:parent_id":85876289,
     "wof:placetype":"venue",

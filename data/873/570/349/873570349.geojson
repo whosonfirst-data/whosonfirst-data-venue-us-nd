@@ -2,6 +2,10 @@
   "id": 873570349,
   "type": "Feature",
   "properties": {
+    "addr:full":"1337 10th St S Fargo ND 58103",
+    "addr:housenumber":"1337",
+    "addr:postcode":"58103",
+    "addr:street":"10Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873570349,
-    "wof:lastmodified":1466664059,
+    "wof:lastmodified":1472633595,
     "wof:name":"Mark Forkner Specialties",
     "wof:parent_id":420534479,
     "wof:placetype":"venue",

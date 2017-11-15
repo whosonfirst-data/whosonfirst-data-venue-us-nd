@@ -2,6 +2,10 @@
   "id": 873635771,
   "type": "Feature",
   "properties": {
+    "addr:full":"1600 University Ave Grand Forks ND 58203",
+    "addr:housenumber":"1600",
+    "addr:postcode":"58203",
+    "addr:street":"University Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":873635771,
-    "wof:lastmodified":1466664423,
+    "wof:lastmodified":1472633632,
     "wof:name":"Salvation Army",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

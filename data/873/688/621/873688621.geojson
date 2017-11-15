@@ -2,6 +2,10 @@
   "id": 873688621,
   "type": "Feature",
   "properties": {
+    "addr:full":"122 2nd Ave W Hunter ND 58048",
+    "addr:housenumber":"122",
+    "addr:postcode":"58048",
+    "addr:street":"2Nd Ave W Hunter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":873688621,
-    "wof:lastmodified":1466664724,
+    "wof:lastmodified":1472633661,
     "wof:name":"Hunter Ambulance Svc",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

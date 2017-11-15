@@ -2,14 +2,20 @@
   "id": 873805715,
   "type": "Feature",
   "properties": {
+    "addr:full":"503 6th Ave Reynolds ND 58275",
+    "addr:housenumber":"503",
+    "addr:postcode":"58275",
+    "addr:street":"6Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.10636,47.674179,-97.10636,47.674179",
     "geom:latitude":47.674179,
     "geom:longitude":-97.10636,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"503 6th Ave",
     "sg:city":"Reynolds",
     "sg:classifiers":[
@@ -42,13 +48,14 @@
         102081493,
         85808891
     ],
+    "wof:brand_id":420575599,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SlUJQ6BGx6z6EgIkJ75kg_47.674179_-97.106360@1303262841"
     },
     "wof:country":"US",
     "wof:created":1464297848,
-    "wof:geomhash":"a87f0ef73825d79fbba114af8ff2010b",
+    "wof:geomhash":"e2fafac87265870bbaf7b54ddb1f489d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":873805715,
-    "wof:lastmodified":1466665570,
+    "wof:lastmodified":1510602073,
     "wof:name":"Zion Lutheran Church",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

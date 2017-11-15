@@ -2,6 +2,10 @@
   "id": 873590149,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 W Thayer Ave Bismarck ND 58501",
+    "addr:housenumber":"301",
+    "addr:postcode":"58501",
+    "addr:street":"W Thayer Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":873590149,
-    "wof:lastmodified":1466664160,
+    "wof:lastmodified":1472633599,
     "wof:name":"Custer House",
     "wof:parent_id":85876287,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873803011,
   "type": "Feature",
   "properties": {
+    "addr:full":"909 Page Dr S Ste F Fargo ND 58103",
+    "addr:housenumber":"909",
+    "addr:postcode":"58103",
+    "addr:street":"Page Dr S Ste F",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":873803011,
-    "wof:lastmodified":1466665475,
+    "wof:lastmodified":1472633725,
     "wof:name":"Laughlin Electric",
     "wof:parent_id":85877373,
     "wof:placetype":"venue",

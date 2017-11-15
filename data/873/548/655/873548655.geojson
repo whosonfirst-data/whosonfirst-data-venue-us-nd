@@ -2,14 +2,20 @@
   "id": 873548655,
   "type": "Feature",
   "properties": {
+    "addr:full":"3001 Main Ave Fargo ND 58103",
+    "addr:housenumber":"3001",
+    "addr:postcode":"58103",
+    "addr:street":"Main Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.827811,46.876042,-96.827811,46.876042",
     "geom:latitude":46.876042,
     "geom:longitude":-96.827811,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3001 Main Ave",
     "sg:city":"Fargo",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082073,
         85688525
     ],
+    "wof:brand_id":420575551,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LLCeZRB53aAmWL1P4Jvsr_46.876042_-96.827811@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464294363,
-    "wof:geomhash":"fc0f0d571de1d11cc898e692ef39a967",
+    "wof:geomhash":"c36690f8ddebb8ae26446b6a5ac651c2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873548655,
-    "wof:lastmodified":1466663951,
+    "wof:lastmodified":1510602968,
     "wof:name":"Aerus Electrolux",
     "wof:parent_id":85877347,
     "wof:placetype":"venue",

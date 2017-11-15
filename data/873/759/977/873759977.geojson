@@ -2,6 +2,10 @@
   "id": 873759977,
   "type": "Feature",
   "properties": {
+    "addr:full":"1230 23rd St S Fargo ND 58103",
+    "addr:housenumber":"1230",
+    "addr:postcode":"58103",
+    "addr:street":"23Rd St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":873759977,
-    "wof:lastmodified":1466665230,
+    "wof:lastmodified":1472633710,
     "wof:name":"African Market",
     "wof:parent_id":85877331,
     "wof:placetype":"venue",

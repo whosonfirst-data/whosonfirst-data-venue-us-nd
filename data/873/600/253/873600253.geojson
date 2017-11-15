@@ -2,6 +2,10 @@
   "id": 873600253,
   "type": "Feature",
   "properties": {
+    "addr:full":"1700 42nd St S Fargo ND 58103",
+    "addr:housenumber":"1700",
+    "addr:postcode":"58103",
+    "addr:street":"42Nd St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873600253,
-    "wof:lastmodified":1466664212,
+    "wof:lastmodified":1472633614,
     "wof:name":"Thomas J Halstenson Inc",
     "wof:parent_id":85877371,
     "wof:placetype":"venue",

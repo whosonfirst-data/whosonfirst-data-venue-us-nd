@@ -2,6 +2,10 @@
   "id": 873803123,
   "type": "Feature",
   "properties": {
+    "addr:full":"60 27th St S Fargo ND 58103",
+    "addr:housenumber":"60",
+    "addr:postcode":"58103",
+    "addr:street":"27Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873803123,
-    "wof:lastmodified":1466665484,
+    "wof:lastmodified":1472633728,
     "wof:name":"Fuel Force",
     "wof:parent_id":85877347,
     "wof:placetype":"venue",

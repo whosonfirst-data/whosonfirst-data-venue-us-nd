@@ -2,6 +2,10 @@
   "id": 873584845,
   "type": "Feature",
   "properties": {
+    "addr:full":"1301 12th Ave N Fargo ND 58102",
+    "addr:housenumber":"1301",
+    "addr:postcode":"58102",
+    "addr:street":"12Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873584845,
-    "wof:lastmodified":1466664164,
+    "wof:lastmodified":1472633607,
     "wof:name":"NDSU Student Health",
     "wof:parent_id":85877363,
     "wof:placetype":"venue",

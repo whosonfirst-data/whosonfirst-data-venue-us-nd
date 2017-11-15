@@ -2,6 +2,10 @@
   "id": 873707537,
   "type": "Feature",
   "properties": {
+    "addr:full":"3650 Main Ave Fargo ND 58103",
+    "addr:housenumber":"3650",
+    "addr:postcode":"58103",
+    "addr:street":"Main Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873707537,
-    "wof:lastmodified":1466664851,
+    "wof:lastmodified":1472633672,
     "wof:name":"Tool Shack",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",

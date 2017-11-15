@@ -2,14 +2,20 @@
   "id": 873796045,
   "type": "Feature",
   "properties": {
+    "addr:full":"239 Main Ave W West Fargo ND 58078",
+    "addr:housenumber":"239",
+    "addr:postcode":"58078",
+    "addr:street":"Main Ave W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.903893,46.876908,-96.903893,46.876908",
     "geom:latitude":46.876908,
     "geom:longitude":-96.903893,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"239 Main Ave W",
     "sg:city":"West Fargo",
     "sg:classifiers":[],
@@ -30,13 +36,14 @@
         102082073,
         85688525
     ],
+    "wof:brand_id":1125159495,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Jhy50mabpnmMvCzHN9SHI_46.876908_-96.903893@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464297727,
-    "wof:geomhash":"3f6f627f551d14b59c49888e875ed142",
+    "wof:geomhash":"8c84cd2ff76fa7b0029080e9c2d34465",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":873796045,
-    "wof:lastmodified":1466665426,
+    "wof:lastmodified":1510695422,
     "wof:name":"Cenex Convenience Store",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",
