@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.832912,46.863285,-96.832912,46.863285",
     "geom:latitude":46.863285,
     "geom:longitude":-96.832912,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1112 Nodak Dr",
     "sg:city":"Fargo",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1464294584,
-    "wof:geomhash":"8e763b225ac3a905440a60959dc2ebfe",
+    "wof:geomhash":"8476e5412c81a3e888ecc9bb283fd407",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +64,15 @@
         }
     ],
     "wof:id":873567899,
-    "wof:lastmodified":1472633604,
+    "wof:lastmodified":1510941573,
     "wof:name":"PATH-North Dakota",
     "wof:parent_id":85877373,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nd",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873558773
+    ],
     "wof:tags":[
         "organization",
         "welfare"

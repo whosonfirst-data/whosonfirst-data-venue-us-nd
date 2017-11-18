@@ -7,6 +7,7 @@
     "addr:postcode":"58103",
     "addr:street":"13Th Ave S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-96.86877,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"4971 13th Ave S",
     "sg:city":"Fargo",
     "sg:classifiers":[
@@ -65,12 +66,14 @@
         }
     ],
     "wof:id":873797075,
-    "wof:lastmodified":1510875175,
+    "wof:lastmodified":1510943719,
     "wof:name":"Texas Roadhouse",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nd",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873802797
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american",

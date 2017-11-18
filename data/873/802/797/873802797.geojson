@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.870092,46.862012,-96.870092,46.862012",
     "geom:latitude":46.862012,
     "geom:longitude":-96.870092,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4971 13th Ave S",
     "sg:city":"Fargo",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1464297807,
-    "wof:geomhash":"d6c2528d3aca5b068cf91bb1f3b8016e",
+    "wof:geomhash":"4f984ccfaca6ad2d174bfc2fd55b5a05",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":873802797,
-    "wof:lastmodified":1472633737,
+    "wof:lastmodified":1510943719,
     "wof:name":"Texas Roadhouse",
     "wof:parent_id":85877367,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nd",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873797075
+    ],
     "wof:tags":[]
 },
   "bbox": [

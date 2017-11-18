@@ -7,13 +7,16 @@
     "addr:postcode":"58701",
     "addr:street":"2Nd St Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.289472,48.227247,-101.289472,48.227247",
     "geom:latitude":48.227247,
     "geom:longitude":-101.289472,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1905 2nd St SE",
     "sg:city":"Minot",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1464295201,
-    "wof:geomhash":"30d5f0a67c374807c632403fd3bcc2db",
+    "wof:geomhash":"2fc21186c0e1d1c2f259a26e66c77514",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":873615575,
-    "wof:lastmodified":1472633624,
+    "wof:lastmodified":1510941990,
     "wof:name":"A Snip-N-Nails",
     "wof:parent_id":85878939,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nd",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873771551
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.040788,47.922251,-97.040788,47.922251",
     "geom:latitude":47.922251,
     "geom:longitude":-97.040788,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1011 University Ave",
     "sg:city":"Grand Forks",
     "sg:classifiers":[
@@ -41,11 +43,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":344370217,
         "sg:id":"SG_2jGYZsoAHwWhshBF1g4WNS_47.922251_-97.040788@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464297747,
-    "wof:geomhash":"f73a85cce8fbaf642ac193496df83016",
+    "wof:geomhash":"d0a486003b0199a199cb4b8d1a6ec26a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":873797771,
-    "wof:lastmodified":1472633736,
+    "wof:lastmodified":1510941647,
     "wof:name":"Red Pepper",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.820339,46.84528,-96.820339,46.84528",
     "geom:latitude":46.84528,
     "geom:longitude":-96.820339,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2535 23rd Ave S",
     "sg:city":"Fargo",
     "sg:classifiers":[
@@ -44,11 +46,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":134084791,
         "sg:id":"SG_6qYTpOEkQz8OztZIJ61iVr_46.845280_-96.820339@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464297741,
-    "wof:geomhash":"e1ebfba5459217f9b25dd5b862c52718",
+    "wof:geomhash":"6c0714399b39fb63ef8f93d8b570ea08",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":873797269,
-    "wof:lastmodified":1472633729,
+    "wof:lastmodified":1510942535,
     "wof:name":"Ruby Tuesdays",
     "wof:parent_id":420534475,
     "wof:placetype":"venue",
