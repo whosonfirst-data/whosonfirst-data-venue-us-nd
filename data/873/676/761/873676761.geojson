@@ -7,6 +7,7 @@
     "addr:postcode":"58356",
     "addr:street":"Central Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.133522,47.68022,-99.133522,47.68022",
@@ -14,6 +15,7 @@
     "geom:longitude":-99.133522,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"524 Central Ave",
     "sg:city":"New Rockford",
     "sg:classifiers":[
@@ -35,16 +37,20 @@
     },
     "wof:country":"US",
     "wof:created":1464295906,
-    "wof:geomhash":"1b5328f1360492e4c2456d20b9ed1a56",
+    "wof:geomhash":"11761a77d8cb4cdd5da9c6fe9740ae59",
     "wof:hierarchy":[],
     "wof:id":873676761,
-    "wof:lastmodified":1472633641,
+    "wof:lastmodified":1534439103,
     "wof:name":"Eddy Cnty Registrar Of Deeds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nd",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        873573077
+    ],
+    "wof:supersedes":[
+        873608845
+    ],
     "wof:tags":[]
 },
   "bbox": [

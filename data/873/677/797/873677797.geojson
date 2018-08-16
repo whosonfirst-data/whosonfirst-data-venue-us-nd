@@ -2,18 +2,24 @@
   "id": 873677797,
   "type": "Feature",
   "properties": {
-    "addr:full":"1125 W Turnpike Ave Bismarck ND 58501",
+    "addr:city":"Bismarck",
+    "addr:full":"1125 Turnpike Avenue Bismarck, Nd 58501",
+    "addr:house_number":"1125",
     "addr:housenumber":"1125",
+    "addr:phone":"+1 701-223-6167",
     "addr:postcode":"58501",
+    "addr:road":"Turnpike Avenue",
+    "addr:state":"ND",
     "addr:street":"W Turnpike Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-100.806987,46.82927,-100.806987,46.82927",
-    "geom:latitude":46.82927,
-    "geom:longitude":-100.806987,
+    "geom:bbox":"-100.8105,46.82823,-100.8105,46.82823",
+    "geom:latitude":46.82823,
+    "geom:longitude":-100.8105,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1125 W Turnpike Ave",
     "sg:city":"Bismarck",
     "sg:classifiers":[
@@ -37,19 +43,23 @@
         "historical"
     ],
     "sg:website":"www.grhs.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527655
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403800220,
         "sg:id":"SG_5KOyYhaBP9x2TrXI4XKLGV_46.829270_-100.806987@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464295931,
-    "wof:geomhash":"c3cc414b2a9351ade347517d8af1647c",
+    "wof:geomhash":"90be0f751ea88bb2c9978b3b2096b47b",
     "wof:hierarchy":[],
     "wof:id":873677797,
-    "wof:lastmodified":1472633658,
-    "wof:name":"Germans From Russia Heritg Soc",
+    "wof:lastmodified":1534439104,
+    "wof:name":"Germans From Russia Heritage Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nd",
@@ -61,10 +71,10 @@
     ]
 },
   "bbox": [
-    -100.806987,
-    46.82927,
-    -100.806987,
-    46.82927
+    -100.8105,
+    46.82823,
+    -100.8105,
+    46.82823
 ],
-  "geometry": {"coordinates":[-100.80698700000001,46.82927],"type":"Point"}
+  "geometry": {"coordinates":[-100.8105,46.82823],"type":"Point"}
 }

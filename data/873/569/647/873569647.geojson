@@ -7,6 +7,7 @@
     "addr:postcode":"58301",
     "addr:street":"6Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.855787,48.113783,-98.855787,48.113783",
@@ -14,6 +15,7 @@
     "geom:longitude":-98.855787,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"701 6th St",
     "sg:city":"Devils Lake",
     "sg:classifiers":[
@@ -35,15 +37,17 @@
     },
     "wof:country":"US",
     "wof:created":1464294606,
-    "wof:geomhash":"75c4e12740b490f71b0fc75e8566ab5a",
+    "wof:geomhash":"6953fd1d56e15d5b19568fbdd995bcf9",
     "wof:hierarchy":[],
     "wof:id":873569647,
-    "wof:lastmodified":1472633604,
+    "wof:lastmodified":1534439103,
     "wof:name":"Dee'z Do's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nd",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873579085
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

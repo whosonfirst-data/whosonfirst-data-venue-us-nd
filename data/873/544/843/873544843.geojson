@@ -14,6 +14,7 @@
     "geom:longitude":-96.828904,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3001 Fiechtner Dr",
     "sg:city":"Fargo",
     "sg:classifiers":[
@@ -49,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1464294315,
-    "wof:geomhash":"775b7633e66da7d0f8411dca04fb78d1",
+    "wof:geomhash":"907b2fadff3c411547c07e4948d9b217",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,13 +64,15 @@
         }
     ],
     "wof:id":873544843,
-    "wof:lastmodified":1472633599,
+    "wof:lastmodified":1534439103,
     "wof:name":"ABC Seamless",
     "wof:parent_id":85877373,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nd",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873803661
+    ],
     "wof:tags":[
         "patent",
         "meta",

@@ -14,6 +14,7 @@
     "geom:longitude":-96.787698,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"737 Broadway N",
     "sg:city":"Fargo",
     "sg:classifiers":[
@@ -50,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1464297788,
-    "wof:geomhash":"31b816c945f9994a4c0ecaed77989c2f",
+    "wof:geomhash":"d7d0256fd731c1df51252f367c552943",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,13 +65,15 @@
         }
     ],
     "wof:id":873801221,
-    "wof:lastmodified":1472633730,
+    "wof:lastmodified":1534439104,
     "wof:name":"Barrie L March",
     "wof:parent_id":420534465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nd",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873668145
+    ],
     "wof:tags":[
         "medicine",
         "physician",

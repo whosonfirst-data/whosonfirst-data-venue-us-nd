@@ -7,6 +7,7 @@
     "addr:postcode":"58103",
     "addr:street":"4Th St S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.785758,46.867594,-96.785758,46.867594",
@@ -14,6 +15,7 @@
     "geom:longitude":-96.785758,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"600 4th St S",
     "sg:city":"Fargo",
     "sg:classifiers":[
@@ -39,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1464296305,
-    "wof:geomhash":"7fd2c077ffe1fbb2bb345252882bcd2d",
+    "wof:geomhash":"912ae671448c18277ff4009ba317a73c",
     "wof:hierarchy":[],
     "wof:id":873691229,
-    "wof:lastmodified":1472633657,
+    "wof:lastmodified":1534439103,
     "wof:name":"Meritcare Island Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nd",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873556901
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"

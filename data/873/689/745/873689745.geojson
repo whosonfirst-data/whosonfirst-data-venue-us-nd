@@ -2,18 +2,24 @@
   "id": 873689745,
   "type": "Feature",
   "properties": {
-    "addr:full":"4480 Fort Lincoln Rd Mandan ND 58554",
+    "addr:city":"Mandan",
+    "addr:full":"4480 Fort Lincoln Road Mandan, Nd 58554",
+    "addr:house_number":"4480",
     "addr:housenumber":"4480",
+    "addr:phone":"+1 701-663-4758",
     "addr:postcode":"58554",
+    "addr:road":"Fort Lincoln Road",
+    "addr:state":"ND",
     "addr:street":"Fort Lincoln Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-100.847988,46.766097,-100.847988,46.766097",
-    "geom:latitude":46.766097,
-    "geom:longitude":-100.847988,
+    "geom:bbox":"-100.84867,46.76699,-100.84867,46.76699",
+    "geom:latitude":46.76699,
+    "geom:longitude":-100.84867,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"4480 Fort Lincoln Rd",
     "sg:city":"Mandan",
     "sg:classifiers":[
@@ -32,19 +38,23 @@
         "recreational",
         "area"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527655
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403800111,
         "sg:id":"SG_1LmxTOlhxZAcGTlXzpUciH_46.766097_-100.847988@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464296267,
-    "wof:geomhash":"5e3a08c1a8ff4fde64aead19c7e04a82",
+    "wof:geomhash":"f7c0944a8bf72b673d430a3ff74c27c2",
     "wof:hierarchy":[],
     "wof:id":873689745,
-    "wof:lastmodified":1472633664,
-    "wof:name":"Fort Abraham Lincoln State Pk",
+    "wof:lastmodified":1534439104,
+    "wof:name":"Fort Abraham Lincoln State Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nd",
@@ -57,10 +67,10 @@
     ]
 },
   "bbox": [
-    -100.847988,
-    46.766097,
-    -100.847988,
-    46.766097
+    -100.84867,
+    46.76699,
+    -100.84867,
+    46.76699
 ],
-  "geometry": {"coordinates":[-100.847988,46.766097],"type":"Point"}
+  "geometry": {"coordinates":[-100.84867,46.76699],"type":"Point"}
 }

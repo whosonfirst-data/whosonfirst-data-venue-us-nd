@@ -2,18 +2,24 @@
   "id": 873765263,
   "type": "Feature",
   "properties": {
-    "addr:full":"315 Central Ave N Valley City ND 58072",
+    "addr:city":"Valley City",
+    "addr:full":"315 Central Ave N Valley City, Nd 58072-2954",
+    "addr:house_number":"315",
     "addr:housenumber":"315",
-    "addr:postcode":"58072",
+    "addr:phone":"+1 701-845-0966",
+    "addr:postcode":"58072-2954",
+    "addr:road":"Central Ave N",
+    "addr:state":"ND",
     "addr:street":"Central Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-98.003214,46.926145,-98.003214,46.926145",
-    "geom:latitude":46.926145,
-    "geom:longitude":-98.003214,
+    "geom:bbox":"-98.0032,46.9256,-98.0032,46.9256",
+    "geom:latitude":46.9256,
+    "geom:longitude":-98.0032,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"315 Central Ave N",
     "sg:city":"Valley City",
     "sg:classifiers":[
@@ -27,19 +33,21 @@
     "sg:phone":"+1 701 845 0966",
     "sg:postcode":"58072",
     "sg:province":"ND",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403800086,
         "sg:id":"SG_0FZt8zyZh1Wp6sweaWEAUC_46.926145_-98.003214@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464297300,
-    "wof:geomhash":"fdb95ab296ab4c96636f10fd024cea15",
+    "wof:geomhash":"edb542ff8bde140ed7175b39aceada0f",
     "wof:hierarchy":[],
     "wof:id":873765263,
-    "wof:lastmodified":1472633708,
-    "wof:name":"Barnes County Historical",
+    "wof:lastmodified":1534439104,
+    "wof:name":"Barnes County Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nd",
@@ -48,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -98.003214,
-    46.926145,
-    -98.003214,
-    46.926145
+    -98.0032,
+    46.9256,
+    -98.0032,
+    46.9256
 ],
-  "geometry": {"coordinates":[-98.003214,46.926145],"type":"Point"}
+  "geometry": {"coordinates":[-98.00320000000001,46.9256],"type":"Point"}
 }

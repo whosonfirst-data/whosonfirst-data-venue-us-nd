@@ -14,6 +14,7 @@
     "geom:longitude":-96.787761,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"118 Broadway",
     "sg:city":"Fargo",
     "sg:classifiers":[
@@ -42,16 +43,18 @@
     },
     "wof:country":"US",
     "wof:created":1464297448,
-    "wof:geomhash":"9fa9640f7893f00b0b360bb1ddc1672b",
+    "wof:geomhash":"f677cb28fa9e0599d530fb1f5d459c2a",
     "wof:hierarchy":[],
     "wof:id":873776849,
-    "wof:lastmodified":1472633722,
+    "wof:lastmodified":1534439104,
     "wof:name":"International Mktg Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nd",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873739531
+    ],
     "wof:tags":[
         "agricultural",
         "company",

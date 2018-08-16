@@ -14,6 +14,7 @@
     "geom:longitude":-100.893175,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"210 2nd Ave NW",
     "sg:city":"Mandan",
     "sg:classifiers":[
@@ -39,16 +40,18 @@
     },
     "wof:country":"US",
     "wof:created":1464295003,
-    "wof:geomhash":"152c318f6199bc1a5e14b1b5682a0f88",
+    "wof:geomhash":"27c7235880d814769222edb8b57a349a",
     "wof:hierarchy":[],
     "wof:id":873601507,
-    "wof:lastmodified":1472633625,
+    "wof:lastmodified":1534439103,
     "wof:name":"Morton County States Attorney",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nd",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873779351
+    ],
     "wof:tags":[
         "state",
         "counsel"

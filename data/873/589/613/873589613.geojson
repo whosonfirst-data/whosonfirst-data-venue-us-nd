@@ -14,6 +14,7 @@
     "geom:longitude":-100.442593,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"314 5th St E",
     "sg:city":"Bottineau",
     "sg:classifiers":[
@@ -38,16 +39,18 @@
     },
     "wof:country":"US",
     "wof:created":1464294826,
-    "wof:geomhash":"dacac2c02b2b6311eab5a8644ca25579",
+    "wof:geomhash":"c3df4ca4faadb09524ad095eb6b7dc7c",
     "wof:hierarchy":[],
     "wof:id":873589613,
-    "wof:lastmodified":1472633601,
+    "wof:lastmodified":1534439103,
     "wof:name":"Auditors Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nd",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873759773
+    ],
     "wof:tags":[
         "executive"
     ]

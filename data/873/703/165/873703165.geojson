@@ -7,6 +7,7 @@
     "addr:postcode":"58301",
     "addr:street":"6Th St S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.86392,48.103835,-98.86392,48.103835",
@@ -14,6 +15,7 @@
     "geom:longitude":-98.86392,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"216 6th St S",
     "sg:city":"Devils Lake",
     "sg:classifiers":[
@@ -39,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1464296437,
-    "wof:geomhash":"d954a9c297e421b85d4f3b2d8b3c040d",
+    "wof:geomhash":"a463f0190526947c7bacec3640e3a952",
     "wof:hierarchy":[],
     "wof:id":873703165,
-    "wof:lastmodified":1472633665,
+    "wof:lastmodified":1534439103,
     "wof:name":"Swenson's Plumbing & Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nd",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873575915
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "plumbing",

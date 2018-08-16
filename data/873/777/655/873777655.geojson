@@ -14,6 +14,7 @@
     "geom:longitude":-98.368264,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"901 3rd St",
     "sg:city":"Langdon",
     "sg:classifiers":[
@@ -39,16 +40,18 @@
     },
     "wof:country":"US",
     "wof:created":1464297459,
-    "wof:geomhash":"2c2afd06ae357172b9e33acad177c6a9",
+    "wof:geomhash":"d60876f0ae30dde87b7180bfcc225b1d",
     "wof:hierarchy":[],
     "wof:id":873777655,
-    "wof:lastmodified":1472633720,
+    "wof:lastmodified":1534439104,
     "wof:name":"Cavalier County Job Dev",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nd",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873554507
+    ],
     "wof:tags":[
         "economic",
         "agency"

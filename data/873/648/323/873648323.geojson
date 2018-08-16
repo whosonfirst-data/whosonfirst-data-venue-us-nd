@@ -2,18 +2,24 @@
   "id": 873648323,
   "type": "Feature",
   "properties": {
-    "addr:full":"2 Main St N Minot ND 58703",
+    "addr:city":"Minot",
+    "addr:full":"2 North Main Street Minot, Nd 58703",
+    "addr:house_number":"2",
     "addr:housenumber":"2",
+    "addr:phone":"+1 701-838-4445",
     "addr:postcode":"58703",
+    "addr:road":"North Main Street",
+    "addr:state":"ND",
     "addr:street":"Main St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-101.293018,48.237424,-101.293018,48.237424",
-    "geom:latitude":48.237424,
-    "geom:longitude":-101.293018,
+    "geom:bbox":"-101.29293,48.23733,-101.29293,48.23733",
+    "geom:latitude":48.23733,
+    "geom:longitude":-101.29293,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2 Main St N",
     "sg:city":"Minot",
     "sg:classifiers":[
@@ -32,21 +38,25 @@
         "gallery",
         "dealer"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531137
+    ],
     "wof:belongsto":[
-        85688525,
+        85878939,
         85633793,
         85982541,
         102082117,
-        85878939
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403800233,
         "sg:id":"SG_40lZ3FjZafzuQWb20dEL5M_48.237424_-101.293018@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464295570,
-    "wof:geomhash":"98cf21315742bc485a7a630dd502d6d5",
+    "wof:geomhash":"cd52a7a757106bceb370032502b2a3fb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,8 +68,8 @@
         }
     ],
     "wof:id":873648323,
-    "wof:lastmodified":1472633637,
-    "wof:name":"Lillian & Coleman Taube Museum",
+    "wof:lastmodified":1534439104,
+    "wof:name":"Lillian And Coleman Taube Museum Of Art",
     "wof:parent_id":85878939,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nd",
@@ -72,10 +82,10 @@
     ]
 },
   "bbox": [
-    -101.293018,
-    48.237424,
-    -101.293018,
-    48.237424
+    -101.29293,
+    48.23733,
+    -101.29293,
+    48.23733
 ],
-  "geometry": {"coordinates":[-101.293018,48.237424],"type":"Point"}
+  "geometry": {"coordinates":[-101.29293,48.23733],"type":"Point"}
 }

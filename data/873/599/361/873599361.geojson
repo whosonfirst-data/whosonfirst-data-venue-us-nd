@@ -2,18 +2,24 @@
   "id": 873599361,
   "type": "Feature",
   "properties": {
-    "addr:full":"261 Centennial Dr Grand Forks ND 58203",
+    "addr:city":"Grand Forks",
+    "addr:full":"261 Centennial Dr Grand Forks, Nd 58202",
+    "addr:house_number":"261",
     "addr:housenumber":"261",
-    "addr:postcode":"58203",
+    "addr:phone":"+1 701-777-4195",
+    "addr:postcode":"58202",
+    "addr:road":"Centennial Dr",
+    "addr:state":"ND",
     "addr:street":"Centennial Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-97.070999,47.921612,-97.070999,47.921612",
-    "geom:latitude":47.921612,
-    "geom:longitude":-97.070999,
+    "geom:bbox":"-97.07101,47.92176,-97.07101,47.92176",
+    "geom:latitude":47.92176,
+    "geom:longitude":-97.07101,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"261 Centennial Dr",
     "sg:city":"Grand Forks",
     "sg:classifiers":[
@@ -28,21 +34,25 @@
     "sg:postcode":"58203",
     "sg:province":"ND",
     "sg:website":"www.ndmoa.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528343
+    ],
     "wof:belongsto":[
-        85688525,
+        85808891,
         85633793,
         85982323,
         102081493,
-        85808891
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409503793,
         "sg:id":"SG_6zLS2ew83NVFpdjX0uTXyv_47.921612_-97.070999@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464294979,
-    "wof:geomhash":"380c8ab4a1aa2746adda8e968165cd95",
+    "wof:geomhash":"0bc96da24c2068464795511956bd113b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +64,7 @@
         }
     ],
     "wof:id":873599361,
-    "wof:lastmodified":1472633620,
+    "wof:lastmodified":1534439103,
     "wof:name":"North Dakota Museum Of Art",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",
@@ -64,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -97.070999,
-    47.921612,
-    -97.070999,
-    47.921612
+    -97.07101,
+    47.92176,
+    -97.07101,
+    47.92176
 ],
-  "geometry": {"coordinates":[-97.070999,47.921612],"type":"Point"}
+  "geometry": {"coordinates":[-97.07101,47.92176],"type":"Point"}
 }

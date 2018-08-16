@@ -2,18 +2,24 @@
   "id": 873679099,
   "type": "Feature",
   "properties": {
-    "addr:full":"533 Main St Carrington ND 58421",
+    "addr:city":"Carrington",
+    "addr:full":"533 Main St Carrington, Nd 58421-1660",
+    "addr:house_number":"533",
     "addr:housenumber":"533",
-    "addr:postcode":"58421",
+    "addr:phone":"+1 701-652-1213",
+    "addr:postcode":"58421-1660",
+    "addr:road":"Main St",
+    "addr:state":"ND",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-99.119253,47.44962,-99.119253,47.44962",
-    "geom:latitude":47.44962,
-    "geom:longitude":-99.119253,
+    "geom:bbox":"-99.11952,47.44963,-99.11952,47.44963",
+    "geom:latitude":47.44963,
+    "geom:longitude":-99.11952,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"533 Main St",
     "sg:city":"Carrington",
     "sg:classifiers":[
@@ -31,18 +37,20 @@
         "hall",
         "auditorium"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403800068,
         "sg:id":"SG_6xn0puOfALJPHtWLIbAsRf_47.449620_-99.119253@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464295969,
-    "wof:geomhash":"7a278df9f9011605d108e47aef74a555",
+    "wof:geomhash":"e3fbc24cae878e3c60962aaff45d6d1f",
     "wof:hierarchy":[],
     "wof:id":873679099,
-    "wof:lastmodified":1472633647,
+    "wof:lastmodified":1534439104,
     "wof:name":"Putnam House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -55,10 +63,10 @@
     ]
 },
   "bbox": [
-    -99.119253,
-    47.44962,
-    -99.119253,
-    47.44962
+    -99.11952,
+    47.44963,
+    -99.11952,
+    47.44963
 ],
-  "geometry": {"coordinates":[-99.119253,47.44962],"type":"Point"}
+  "geometry": {"coordinates":[-99.11951999999999,47.44963],"type":"Point"}
 }

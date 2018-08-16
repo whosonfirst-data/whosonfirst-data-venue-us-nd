@@ -7,6 +7,7 @@
     "addr:postcode":"58401",
     "addr:street":"2Nd Ave Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.706718,46.90406,-98.706718,46.90406",
@@ -14,6 +15,7 @@
     "geom:longitude":-98.706718,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"511 2nd Ave SE",
     "sg:city":"Jamestown",
     "sg:classifiers":[
@@ -38,15 +40,17 @@
     },
     "wof:country":"US",
     "wof:created":1464294995,
-    "wof:geomhash":"fdddfad55d5a8b3045a0822d18c0310e",
+    "wof:geomhash":"c2800d61e3f800db34d29bc7fd12db28",
     "wof:hierarchy":[],
     "wof:id":873600749,
-    "wof:lastmodified":1472633614,
+    "wof:lastmodified":1534439103,
     "wof:name":"Auditors Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nd",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873594383
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"

@@ -14,6 +14,7 @@
     "geom:longitude":-96.846703,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3902 13th Ave SW",
     "sg:city":"Fargo",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464297365,
-    "wof:geomhash":"3abc18cb04b20c52d3fe3f15f9ed4def",
+    "wof:geomhash":"5d30dc402cadcb640353f33d7b222437",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":873770019,
-    "wof:lastmodified":1472633706,
+    "wof:lastmodified":1534439104,
     "wof:name":"Pet Center",
     "wof:parent_id":85877371,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nd",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873604155
+    ],
     "wof:tags":[
         "pet",
         "shop"
